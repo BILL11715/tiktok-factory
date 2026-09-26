@@ -1,0 +1,13 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-09-27_0058/video.mp4",
+ "duration": 90.247,
+ "shots": 31,
+ "sources": [
+  "https://kitsu.io/anime/sousou-no-frieren"
+ ],
+ "voice_engine": "clone",
+ "repo_path": "videos/2026/09/2026-09-27_0058.mp4",
+ "raw_url": "https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/videos/2026/09/2026-09-27_0058.mp4",
+ "lint": [],
+ "render_seconds": 929.7
+}
