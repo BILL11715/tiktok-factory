@@ -77,6 +77,9 @@ def _tts_piper(text: str, out: Path, tone: str) -> None:
 # ------------------------------------------------------------------ public
 def engine() -> str:
     forced = os.environ.get("TF_VOICE")
+    flag = Path("/tmp/tf-voice-engine")
+    if not forced and flag.exists():
+        forced = flag.read_text().strip()
     if forced:
         return forced
     if not VOICE_REF.exists():
