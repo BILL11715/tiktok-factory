@@ -1,0 +1,17 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-09-27_0127/video.mp4",
+ "duration": 93.972,
+ "shots": 31,
+ "sources": [
+  "https://kitsu.io/anime/bleach",
+  "https://kitsu.io/anime/boku-no-hero-academia",
+  "https://kitsu.io/anime/jujutsu-kaisen",
+  "https://kitsu.io/anime/kimetsu-no-yaiba",
+  "https://kitsu.io/anime/naruto-shippuden"
+ ],
+ "voice_engine": "clone",
+ "repo_path": "videos/2026/09/2026-09-27_0127.mp4",
+ "raw_url": "https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/videos/2026/09/2026-09-27_0127.mp4",
+ "lint": [],
+ "render_seconds": 1430.0
+}

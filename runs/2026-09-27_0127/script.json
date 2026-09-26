@@ -1,0 +1,25 @@
+{
+  "title": "Top 5 des meilleurs profs de l'anime",
+  "format": "top",
+  "tone": "hype",
+  "music": "hype",
+  "animes": ["Jujutsu Kaisen", "Bleach", "Demon Slayer: Kimetsu no Yaiba", "Naruto: Shippuden", "My Hero Academia"],
+  "hook_text": "Les 5 meilleurs profs de l'anime, et ton préféré est pas premier",
+  "spoiler": false,
+  "segments": [
+    {"text": "Les cinq meilleurs profs de l'anime. Et ton préféré, il est sûrement pas numéro un.", "emphasis": ["profs"]},
+    {"text": "Numéro 5, Gojo. Le prof le plus fort du monde, et le plus relou aussi. Bandeau sur les yeux, toujours en train de manger des sucreries.", "shots": [{"anime": "Jujutsu Kaisen", "kind": "character", "character": "Satoru Gojo"}], "emphasis": ["Gojo"], "overlay": "#5"},
+    {"text": "Mais quand on touche à ses élèves, y'a plus personne qui rigole.", "shots": [{"anime": "Jujutsu Kaisen", "kind": "wide"}], "emphasis": ["ses élèves"]},
+    {"text": "Numéro 4, Urahara dans Bleach. Sa méthode ? Il balance Ichigo au fond d'un trou et genre, retrouve tes pouvoirs avant de devenir un Hollow. Pédagogie zéro, résultat parfait.", "shots": [{"anime": "Bleach", "kind": "character", "character": "Kisuke Urahara"}], "emphasis": ["Urahara"], "overlay": "#4"},
+    {"text": "Numéro 3, Rengoku. Il a même pas eu le temps d'être vraiment leur prof. Un seul arc, le train de l'infini, et il tient face à Akaza jusqu'au lever du soleil.", "shots": [{"anime": "Demon Slayer: Kimetsu no Yaiba", "kind": "character", "character": "Kyoujurou Rengoku"}], "emphasis": ["Rengoku"], "overlay": "#3", "sfx": true},
+    {"text": "Et ses derniers mots à Tanjiro. Frr, j'étais pas prêt.", "shots": [{"anime": "Demon Slayer: Kimetsu no Yaiba", "kind": "character", "character": "Tanjirou Kamado"}], "emphasis": ["pas prêt"]},
+    {"text": "Numéro 2, Jiraiya. L'ermite pervers, ouais. Mais c'est lui qui apprend le Rasengan à Naruto.", "shots": [{"anime": "Naruto: Shippuden", "kind": "character", "character": "Jiraiya"}], "emphasis": ["Jiraiya"], "overlay": "#2"},
+    {"text": "Et le pire c'est sa mort contre Pain. Il est en train de mourir, et il trouve encore le moyen de laisser un message codé sur le dos de Fukasaku. Son dernier cours.", "emphasis": ["message codé"], "sfx": true},
+    {"text": "Mais attends. Pour moi, y'en a un au-dessus.", "emphasis": ["au-dessus"]},
+    {"text": "Numéro 1, All Might. Au début, lui aussi il dit à Deku qu'il peut pas être un héros sans alter. Et puis il le voit foncer pour sauver Bakugo, sans aucun pouvoir.", "shots": [{"anime": "My Hero Academia", "kind": "character", "character": "All Might"}], "emphasis": ["All Might"], "overlay": "#1", "sfx": true},
+    {"text": "Et là il lui dit qu'il peut devenir un héros. Il lui donne One For All, et il reste à ses côtés même quand il a plus rien. C'est ça, un prof.", "shots": [{"anime": "My Hero Academia", "kind": "character", "character": "Izuku Midoriya"}], "emphasis": ["One For All"]},
+    {"text": "Mon classement, je l'assume. C'est quoi ton top 1 à toi ?", "emphasis": ["top 1"]}
+  ],
+  "caption": "Ils nous ont tous fait pleurer au moins une fois 😭 c'est qui ton top 1 ?",
+  "hashtags": ["#anime", "#manga", "#animefr", "#mangafr", "#jiraiya", "#topanime"]
+}
