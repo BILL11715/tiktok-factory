@@ -1,90 +1,90 @@
 {
  "engine": "clone",
  "path": "/home/claude/tiktok-factory/runs/2026-09-27_0058/voice.wav",
- "duration": 90.247,
+ "duration": 75.016,
  "timeline": [
   {
    "index": 0,
    "start": 0.0,
-   "end": 3.517,
-   "slot_end": 3.797,
+   "end": 3.76,
+   "slot_end": 4.04,
    "text": "Un anime qui commence exactement là où tous les autres s'arrêtent."
   },
   {
    "index": 1,
-   "start": 3.797,
-   "end": 9.9,
-   "slot_end": 10.18,
+   "start": 4.04,
+   "end": 10.524,
+   "slot_end": 10.804,
    "text": "Genre le grand méchant est déjà mort, le héros a gagné, fin de l'aventure. Et là, épisode 1."
   },
   {
    "index": 2,
-   "start": 10.18,
-   "end": 19.407,
-   "slot_end": 19.687,
+   "start": 10.804,
+   "end": 19.233,
+   "slot_end": 19.513,
    "text": "L'héroïne, c'est une elfe. Une mage. Elle vit des siècles, donc dix ans de voyage avec ses potes, pour elle c'est rien du tout."
   },
   {
    "index": 3,
-   "start": 19.687,
-   "end": 24.576,
-   "slot_end": 24.856,
+   "start": 19.513,
+   "end": 23.77,
+   "slot_end": 24.05,
    "text": "Sauf que ses potes, eux, ils vieillissent. Et un jour le héros meurt."
   },
   {
    "index": 4,
-   "start": 24.856,
-   "end": 31.205,
-   "slot_end": 31.485,
+   "start": 24.05,
+   "end": 30.882,
+   "slot_end": 31.162,
    "text": "Et à l'enterrement elle capte qu'elle l'a jamais vraiment connu. Qu'elle a jamais pris le temps. J'te jure, cette scène m'a tué."
   },
   {
    "index": 5,
-   "start": 31.485,
-   "end": 39.3,
-   "slot_end": 39.58,
+   "start": 31.162,
+   "end": 40.201,
+   "slot_end": 40.481,
    "text": "Du coup elle repart sur la route pour comprendre les humains. Avec une apprentie qui doit la tirer du lit chaque matin parce qu'elle arrive pas à se lever."
   },
   {
    "index": 6,
-   "start": 39.58,
-   "end": 42.116,
-   "slot_end": 42.396,
+   "start": 40.481,
+   "end": 43.011,
+   "slot_end": 43.291,
    "text": "Mais attends, crois pas que c'est un truc lent où il se passe rien."
   },
   {
    "index": 7,
-   "start": 42.396,
-   "end": 64.705,
-   "slot_end": 64.985,
+   "start": 43.291,
+   "end": 52.179,
+   "slot_end": 52.459,
    "text": "Quand elle affronte les démons, c'est chaud. Y'a un combat vers l'épisode 10 qui se termine sur une seule phrase. Tout le monde en a fait des mèmes."
   },
   {
    "index": 8,
-   "start": 64.985,
-   "end": 74.838,
-   "slot_end": 75.118,
+   "start": 52.459,
+   "end": 60.985,
+   "slot_end": 61.265,
    "text": "Pour moi c'est le meilleur anime de ces dernières années. Oui, devant les gros shonen. Je l'assume."
   },
   {
    "index": 9,
-   "start": 75.118,
-   "end": 82.111,
-   "slot_end": 82.391,
+   "start": 61.265,
+   "end": 66.077,
+   "slot_end": 66.357,
    "text": "Et le pire c'est qu'après, tu penses à tes propres potes. Frr, prépare les mouchoirs."
   },
   {
    "index": 10,
-   "start": 82.391,
-   "end": 86.397,
-   "slot_end": 86.677,
+   "start": 66.357,
+   "end": 70.609,
+   "slot_end": 70.889,
    "text": "Ça s'appelle Frieren. Dis-moi en com' si tu l'as déjà vu."
   },
   {
    "index": 11,
-   "start": 86.677,
-   "end": 89.647,
-   "slot_end": 90.247,
+   "start": 70.889,
+   "end": 74.416,
+   "slot_end": 75.016,
    "text": "C'était Bill. On se capte au prochain épisode."
   }
  ]
