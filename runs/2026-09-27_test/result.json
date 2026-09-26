@@ -1,0 +1,13 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-09-27_test/video.mp4",
+ "duration": 66.809,
+ "shots": 23,
+ "sources": [
+  "https://kitsu.io/anime/solo-leveling"
+ ],
+ "voice_engine": "piper",
+ "repo_path": "videos/2026/09/2026-09-27_test.mp4",
+ "raw_url": "https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/videos/2026/09/2026-09-27_test.mp4",
+ "lint": [],
+ "render_seconds": 142.0
+}

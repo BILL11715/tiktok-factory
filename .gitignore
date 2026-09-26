@@ -1,0 +1,9 @@
+runs/*/images/
+runs/*/shots/
+runs/*/voice/
+runs/*/*.wav
+runs/*/*.m4a
+runs/*/video_silent.mp4
+runs/*/video.mp4
+runs/*/*.jpg
+__pycache__/

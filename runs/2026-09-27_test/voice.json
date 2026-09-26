@@ -1,0 +1,70 @@
+{
+ "engine": "piper",
+ "path": "/home/claude/tiktok-factory/runs/2026-09-27_test/voice.wav",
+ "duration": 66.809,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 6.628,
+   "slot_end": 6.908,
+   "text": "Le chasseur le plus nul du monde. Genre vraiment le plus nul, on l'appelle littéralement le plus faible de l'humanité."
+  },
+  {
+   "index": 1,
+   "start": 6.908,
+   "end": 13.984,
+   "slot_end": 14.264,
+   "text": "Il part en donjon avec les autres, il se fait défoncer à chaque fois, et il y va quand même parce qu'il a besoin de thunes pour sa mère à l'hôpital."
+  },
+  {
+   "index": 2,
+   "start": 14.264,
+   "end": 21.453,
+   "slot_end": 21.733,
+   "text": "Et un jour, dans un donjon caché, tout le groupe se fait massacrer. Lui il survit. De justesse."
+  },
+  {
+   "index": 3,
+   "start": 21.733,
+   "end": 31.39,
+   "slot_end": 31.67,
+   "text": "Sauf qu'en se réveillant, il a un truc que personne d'autre a. Un système, comme dans un jeu vidéo, qui lui donne des quêtes. Et s'il les fait, il monte de niveau."
+  },
+  {
+   "index": 4,
+   "start": 31.67,
+   "end": 40.008,
+   "slot_end": 40.288,
+   "text": "Tous les autres chasseurs sont bloqués à leur rang pour la vie. Lui non. Et c'est là que ça devient chaud."
+  },
+  {
+   "index": 5,
+   "start": 40.288,
+   "end": 49.352,
+   "slot_end": 49.632,
+   "text": "J'te jure, les premiers épisodes sont un peu lents, force. Mais à partir du moment où il revient du donjon, t'arrives plus à t'arrêter."
+  },
+  {
+   "index": 6,
+   "start": 49.632,
+   "end": 56.016,
+   "slot_end": 56.296,
+   "text": "Les combats sont propres, la musique est folle, et y'a une scène avec des ombres que j'ai regardée genre trois fois."
+  },
+  {
+   "index": 7,
+   "start": 56.296,
+   "end": 62.679,
+   "slot_end": 62.959,
+   "text": "Ça s'appelle Solo Leveling. Dis-moi en com' si tu l'as déjà vu ou si tu le découvres."
+  },
+  {
+   "index": 8,
+   "start": 62.959,
+   "end": 66.209,
+   "slot_end": 66.809,
+   "text": "C'était Bill. On se capte au prochain épisode."
+  }
+ ]
+}
