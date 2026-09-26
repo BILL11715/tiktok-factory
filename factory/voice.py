@@ -8,9 +8,14 @@ from __future__ import annotations
 
 import json
 import os
+import re
 import subprocess
 import wave
 from pathlib import Path
+
+os.environ.setdefault("TQDM_DISABLE", "1")
+os.environ.setdefault("TRANSFORMERS_VERBOSITY", "error")
+os.environ.setdefault("HF_HUB_DISABLE_XET", "1")
 
 ROOT = Path(__file__).resolve().parent.parent
 CACHE = Path(os.environ.get("TF_CACHE", Path.home() / ".cache" / "tiktok-factory"))
@@ -45,13 +50,26 @@ def _chatterbox():
     return _CB
 
 
+def _sentences(text: str) -> list[str]:
+    parts = [p.strip() for p in re.split(r"(?<=[.!?…])\s+", text) if p.strip()]
+    return parts or [text]
+
+
 def _tts_chatterbox(text: str, out: Path, tone: str) -> None:
+    """Phrase par phrase : le modèle coupe ou boucle moins sur des textes courts."""
+    import torch  # type: ignore
     import torchaudio  # type: ignore
+    import logging
+    logging.getLogger("chatterbox").setLevel(logging.ERROR)
     ex, cfg, _ = TONES.get(tone, TONES["pote"])
     model = _chatterbox()
-    wav = model.generate(text, language_id="fr", audio_prompt_path=str(VOICE_REF),
-                         exaggeration=ex, cfg_weight=cfg)
-    torchaudio.save(str(out), wav, model.sr)
+    pieces = []
+    for sent in _sentences(text):
+        wav = model.generate(sent, language_id="fr", audio_prompt_path=str(VOICE_REF),
+                             exaggeration=ex, cfg_weight=cfg)
+        pieces.append(wav)
+        pieces.append(torch.zeros(1, int(model.sr * 0.12)))
+    torchaudio.save(str(out), torch.cat(pieces[:-1], dim=1), model.sr)
 
 
 # ------------------------------------------------------------------ Piper

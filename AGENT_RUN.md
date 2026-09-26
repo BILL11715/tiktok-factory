@@ -20,7 +20,9 @@ Bill n'est pas là pendant le run : ne pose aucune question, décide et continue
    (ça tourne pendant que tu écris le script).
 3. **Contexte** : lis `EDITORIAL.md` et les 30 dernières lignes de `history.jsonl`.
    Donne-toi l'heure actuelle (outil current_time) pour savoir le créneau (12h30, 18h30 ou 21h30,
-   le plus proche). Choisis le format autorisé pour ce créneau en respectant la rotation
+   le prochain à venir). Si `history.jsonl` a déjà une vidéo pour ce jour et ce créneau
+   (champ `slot` = "AAAA-MM-JJ 18:30"), prends le créneau suivant (le lendemain 12:30 après 21:30).
+   Choisis le format autorisé pour ce créneau en respectant la rotation
    (pas 2 fois le même format dans la journée, pas le même anime sur 48 h, équilibre de la semaine).
    Si `config/weights.json` existe, il ajuste la répartition des formats.
 4. **Script** : écris `runs/<AAAA-MM-DD_HHMM>/script.json` (heure de Paris) au format ci-dessous.
@@ -47,7 +49,7 @@ Bill n'est pas là pendant le run : ne pose aucune question, décide et continue
    Lien Buffer (https://publish.buffer.com/post/<id>), Sources visuels (result.sources),
    Voix ("Clone Bill" si voice_engine = clone sinon "Piper"), Durée (s), Notes (créneau).
 9. **Historique local** : ajoute une ligne JSON à `history.jsonl`
-   `{"stamp","slot","format","anime","title","hook","buffer_id","notion_url","raw_url","voice"}`,
+   `{"stamp","slot" ("AAAA-MM-JJ HH:MM"),"format","anime","title","hook","buffer_id","notion_url","raw_url","voice"}`,
    commit + push (pull --rebase avant).
 10. **Nettoyage du repo public** : pour chaque ligne de `history.jsonl` de plus de 3 jours
     dont le fichier `videos/...` existe encore, regarde le post Buffer (`get_post`). Supprime la
