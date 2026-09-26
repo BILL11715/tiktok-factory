@@ -34,7 +34,9 @@ Bill n'est pas là pendant le run : ne pose aucune question, décide et continue
    commit "video <stamp> <anime>", `git pull --rebase -q origin main`, `git push origin main`.
    Vérifie que `raw_url` (dans result.json) répond 200 avec curl (réessaie 3 fois, 10 s d'écart).
 7. **Buffer** : `create_post` avec channelId ci-dessus, `saveToDraft: true`,
-   `schedulingType: "automatic"`, text = caption + "\n\n" + hashtags séparés par des espaces,
+   `mode: "customScheduled"`, `dueAt` = l'heure du créneau aujourd'hui (12:30, 18:30 ou 21:30,
+   offset Europe/Paris correct, ex. 2026-09-28T18:30:00+02:00 ; si l'heure est déjà passée,
+   prends le créneau libre suivant), `schedulingType: "automatic"`, text = caption + "\n\n" + hashtags séparés par des espaces,
    assets = [{video: {url: raw_url, metadata: {title: title}}}],
    metadata = {tiktok: {title: <hook_text sans emoji, 90 car. max>}}.
    Note l'id du post.
@@ -47,7 +49,12 @@ Bill n'est pas là pendant le run : ne pose aucune question, décide et continue
 9. **Historique local** : ajoute une ligne JSON à `history.jsonl`
    `{"stamp","slot","format","anime","title","hook","buffer_id","notion_url","raw_url","voice"}`,
    commit + push (pull --rebase avant).
-10. **Fin** : un message court (titre, format, lien Buffer). En cas d'échec à n'importe quelle
+10. **Nettoyage du repo public** : pour chaque ligne de `history.jsonl` de plus de 3 jours
+    dont le fichier `videos/...` existe encore, regarde le post Buffer (`get_post`). Supprime la
+    vidéo (`git rm`) UNIQUEMENT si le statut est `sent` ou si le post n'existe plus. Jamais pour un
+    brouillon, un post programmé ou en erreur. Pas de force push. Mets à jour le Statut Notion
+    ("Publié" si sent).
+11. **Fin** : un message court (titre, format, lien Buffer). En cas d'échec à n'importe quelle
     étape : crée quand même la ligne Notion avec Statut "Échec" et l'erreur dans Notes.
 
 ## Format de script.json
