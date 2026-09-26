@@ -33,6 +33,9 @@ def lint(script: dict) -> list[str]:
             problems.append(f"tournure interdite : « {b} »")
     if len(script.get("hook_text", "").split()) > 15:
         problems.append("hook_text > 15 mots")
+    total = sum(len(s["text"]) for s in script["segments"])
+    if script.get("format") != "citation" and total < 1050:
+        problems.append(f"texte trop court ({total} car.) : viser ~1200 car. pour dépasser 60 s")
     for s in script["segments"]:
         if len(s["text"]) > 260:
             problems.append(f"segment trop long ({len(s['text'])} car.) : découper")
@@ -47,8 +50,8 @@ def main(script_path: str) -> dict:
     problems = lint(script)
     if problems:
         print("LINT:", *problems, sep="\n - ")
-        if any("interdite" in p for p in problems):
-            raise SystemExit("Script refusé par le contrôle anti-IA, le réécrire.")
+        if any("interdite" in p or "trop court" in p for p in problems):
+            raise SystemExit("Script refusé (anti-IA ou trop court), corriger puis relancer.")
     # signature toujours présente, ton posé
     if not script["segments"][-1]["text"].startswith("C'était Bill"):
         script["segments"].append({"text": SIGNATURE, "tone": "pose",

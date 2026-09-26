@@ -13,6 +13,8 @@ import subprocess
 import wave
 from pathlib import Path
 
+import warnings
+warnings.filterwarnings("ignore")
 os.environ.setdefault("TQDM_DISABLE", "1")
 os.environ.setdefault("TRANSFORMERS_VERBOSITY", "error")
 os.environ.setdefault("HF_HUB_DISABLE_XET", "1")
@@ -55,19 +57,40 @@ def _sentences(text: str) -> list[str]:
     return parts or [text]
 
 
+_CONDS: dict = {}
+CHARS_PER_SEC = 19.0  # débit mesuré de la voix clonée (caractères par seconde)
+
+
 def _tts_chatterbox(text: str, out: Path, tone: str) -> None:
-    """Phrase par phrase : le modèle coupe ou boucle moins sur des textes courts."""
+    """Phrase par phrase, avec contrôle de durée : une phrase qui boucle ou qui est
+    coupée (durée incohérente avec le texte) est régénérée, on garde la plus plausible."""
+    import logging
     import torch  # type: ignore
     import torchaudio  # type: ignore
-    import logging
     logging.getLogger("chatterbox").setLevel(logging.ERROR)
     ex, cfg, _ = TONES.get(tone, TONES["pote"])
     model = _chatterbox()
+    if ex not in _CONDS:
+        model.prepare_conditionals(str(VOICE_REF), exaggeration=ex)
+        _CONDS[ex] = model.conds
+    model.conds = _CONDS[ex]
     pieces = []
     for sent in _sentences(text):
-        wav = model.generate(sent, language_id="fr", audio_prompt_path=str(VOICE_REF),
-                             exaggeration=ex, cfg_weight=cfg)
-        pieces.append(wav)
+        expected = max(len(sent) / CHARS_PER_SEC, 0.6)
+        best, best_err = None, 1e9
+        for attempt in range(3):
+            torch.manual_seed(1234 + attempt * 97 + len(sent))
+            wav = model.generate(sent, language_id="fr", exaggeration=ex, cfg_weight=cfg,
+                                 temperature=0.7 if attempt else 0.8)
+            dur = wav.shape[1] / model.sr
+            err = abs(dur - expected) / expected
+            if err < best_err:
+                best, best_err = wav, err
+            if 0.55 * expected <= dur <= 1.6 * expected + 0.8:
+                break
+        if best_err > 1.0:  # toujours incohérent : on coupe la traîne
+            best = best[:, : int(model.sr * (expected * 1.5 + 0.5))]
+        pieces.append(best)
         pieces.append(torch.zeros(1, int(model.sr * 0.12)))
     torchaudio.save(str(out), torch.cat(pieces[:-1], dim=1), model.sr)
 
