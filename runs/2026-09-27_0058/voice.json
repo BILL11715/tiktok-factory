@@ -1,0 +1,91 @@
+{
+ "engine": "clone",
+ "path": "/home/claude/tiktok-factory/runs/2026-09-27_0058/voice.wav",
+ "duration": 90.247,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 3.517,
+   "slot_end": 3.797,
+   "text": "Un anime qui commence exactement là où tous les autres s'arrêtent."
+  },
+  {
+   "index": 1,
+   "start": 3.797,
+   "end": 9.9,
+   "slot_end": 10.18,
+   "text": "Genre le grand méchant est déjà mort, le héros a gagné, fin de l'aventure. Et là, épisode 1."
+  },
+  {
+   "index": 2,
+   "start": 10.18,
+   "end": 19.407,
+   "slot_end": 19.687,
+   "text": "L'héroïne, c'est une elfe. Une mage. Elle vit des siècles, donc dix ans de voyage avec ses potes, pour elle c'est rien du tout."
+  },
+  {
+   "index": 3,
+   "start": 19.687,
+   "end": 24.576,
+   "slot_end": 24.856,
+   "text": "Sauf que ses potes, eux, ils vieillissent. Et un jour le héros meurt."
+  },
+  {
+   "index": 4,
+   "start": 24.856,
+   "end": 31.205,
+   "slot_end": 31.485,
+   "text": "Et à l'enterrement elle capte qu'elle l'a jamais vraiment connu. Qu'elle a jamais pris le temps. J'te jure, cette scène m'a tué."
+  },
+  {
+   "index": 5,
+   "start": 31.485,
+   "end": 39.3,
+   "slot_end": 39.58,
+   "text": "Du coup elle repart sur la route pour comprendre les humains. Avec une apprentie qui doit la tirer du lit chaque matin parce qu'elle arrive pas à se lever."
+  },
+  {
+   "index": 6,
+   "start": 39.58,
+   "end": 42.116,
+   "slot_end": 42.396,
+   "text": "Mais attends, crois pas que c'est un truc lent où il se passe rien."
+  },
+  {
+   "index": 7,
+   "start": 42.396,
+   "end": 64.705,
+   "slot_end": 64.985,
+   "text": "Quand elle affronte les démons, c'est chaud. Y'a un combat vers l'épisode 10 qui se termine sur une seule phrase. Tout le monde en a fait des mèmes."
+  },
+  {
+   "index": 8,
+   "start": 64.985,
+   "end": 74.838,
+   "slot_end": 75.118,
+   "text": "Pour moi c'est le meilleur anime de ces dernières années. Oui, devant les gros shonen. Je l'assume."
+  },
+  {
+   "index": 9,
+   "start": 75.118,
+   "end": 82.111,
+   "slot_end": 82.391,
+   "text": "Et le pire c'est qu'après, tu penses à tes propres potes. Frr, prépare les mouchoirs."
+  },
+  {
+   "index": 10,
+   "start": 82.391,
+   "end": 86.397,
+   "slot_end": 86.677,
+   "text": "Ça s'appelle Frieren. Dis-moi en com' si tu l'as déjà vu."
+  },
+  {
+   "index": 11,
+   "start": 86.677,
+   "end": 89.647,
+   "slot_end": 90.247,
+   "text": "C'était Bill. On se capte au prochain épisode."
+  }
+ ]
+}
