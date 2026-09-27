@@ -287,7 +287,7 @@ const Captions: React.FC<{ groups: Group[] }> = ({ groups }) => {
             style={{
               color: w.hl ? YELLOW : "#fff",
               display: "inline-block",
-              margin: "0 10px",
+              margin: "0 16px",
               transform: `scale(${active ? 1.08 : 1})`,
               opacity: frame >= w.from - 2 ? 1 : 0.35,
             }}
