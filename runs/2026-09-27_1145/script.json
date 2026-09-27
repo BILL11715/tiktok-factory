@@ -1,0 +1,32 @@
+{
+  "title": "Reco : le tueur à gages retraité qui tient une supérette",
+  "format": "reco",
+  "tone": "pote",
+  "music": "pote",
+  "animes": ["Sakamoto Days"],
+  "hook_text": "Le tueur le plus craint du monde a pris sa retraite pour tenir une supérette",
+  "spoiler": false,
+  "segments": [
+    {"text": "Le tueur le plus craint du monde a pris sa retraite pour tenir une supérette.", "sfx": true, "emphasis": ["supérette"]},
+    {"text": "Et reste jusqu'au bout, parce que c'est l'anime le plus drôle et le plus stylé que j'ai vu ces derniers temps.", "emphasis": ["jusqu'au bout"]},
+    {"text": "Le mec s'appelle Taro. Une légende chez les tueurs à gages, tout le milieu tremblait rien qu'en entendant son nom.", "emphasis": ["légende"],
+     "shots": [{"anime": "Sakamoto Days", "kind": "character", "character": "Taro Sakamoto", "at": "Taro"}]},
+    {"text": "Et un jour il tombe amoureux d'Aoi, une caissière, et il raccroche tout du jour au lendemain.", "emphasis": ["amoureux"]},
+    {"text": "Résultat, il se marie, il a une petite fille qui s'appelle Hana, et il prend un bide énorme.", "emphasis": ["bide"]},
+    {"text": "Sauf que son passé le rattrape. Y'a une prime sur sa tête, et tous les tueurs du pays débarquent dans sa petite boutique.", "sfx": true, "emphasis": ["prime"]},
+    {"text": "Si t'aimes les recos comme ça, abonne-toi, j'en balance une nouvelle tous les jours à midi et demi.", "cta": true},
+    {"text": "Et là, le détail qui change tout. Il a promis à sa femme de ne plus jamais tuer personne.", "grade": "bw", "sfx": true, "stamp": "PROMESSE", "emphasis": ["jamais"]},
+    {"text": "Donc il se bat avec ce qu'il a sous la main, genre un stylo, une cuillère, un ticket de caisse, j'te jure.", "emphasis": ["cuillère"]},
+    {"text": "Et quand il se donne à fond, il redevient le tueur fin et flippant d'avant, le temps d'un combat.", "grade": "cinematic", "emphasis": ["flippant"]},
+    {"text": "À côté t'as Shin, un ancien tueur qui lit dans les pensées, et qui passe son temps à râler contre son boss.", "emphasis": ["pensées"]},
+    {"text": "Et y'a Lu, une fille de la mafia chinoise qui débarque avec ses propres galères, et qui finit par rester.", "emphasis": ["mafia"]},
+    {"text": "Mon avis ? Les combats sont les plus inventifs que j'ai vus depuis longtemps, chaque décor devient une arme.", "stamp": "VALIDÉ", "emphasis": ["inventifs"]},
+    {"text": "Le seul défaut, c'est que le début est un peu épisodique. Accroche-toi quelques épisodes, après ça décolle force.", "emphasis": ["décolle"]},
+    {"text": "Le manga continue dans le Shonen Jump, et l'anime est dispo sur Netflix, donc t'as aucune excuse.", "emphasis": ["Netflix"]},
+    {"text": "Ça s'appelle Sakamoto Days. Tu l'as déjà vu ? Dis-moi en com' si t'es team Sakamoto ou team Shin."}
+  ],
+  "reveal_text": "Sakamoto Days",
+  "reveal_segments": 1,
+  "caption": "Un ancien tueur légendaire qui se bat avec une cuillère 😂 tu connaissais ?",
+  "hashtags": ["#anime", "#manga", "#animefr", "#mangafr", "#sakamotodays", "#recommandationanime"]
+}
