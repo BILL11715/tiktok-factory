@@ -1,4 +1,7 @@
-"""Voix off : clone de la voix de Bill (Chatterbox multilingue), secours Piper.
+"""Voix off : clone Fish Audio (API, balises d'émotion), sinon Chatterbox local, secours Piper.
+
+Fish Audio est utilisé dès que la variable d'environnement FISH_API_KEY existe
+(la clé ne doit JAMAIS être écrite dans le dépôt, qui est public).
 
 Synthèse phrase par phrase : chaque phrase a sa durée exacte, ce qui donne un
 minutage mot par mot (sous-titres et changements d'image calés sur la parole)
@@ -24,6 +27,17 @@ CACHE = Path(os.environ.get("TF_CACHE", Path.home() / ".cache" / "tiktok-factory
 VOICE_REF = ROOT / "voice" / "bill_reference.wav"
 PIPER_VOICE = "fr-gilles-low"  # voix masculine FR, servie par GitHub (pas HuggingFace)
 PIPER_URL = "https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-fr-gilles-low.tar.gz"
+
+FISH_URL = "https://api.fish.audio/v1/tts"
+FISH_VOICE = os.environ.get("FISH_VOICE_ID", "b0f4d96b219449c5b6a712e61fb432a4")  # clone "Asura"
+FISH_MODELS = [m for m in os.environ.get("FISH_MODEL", "s2-pro,s1").split(",") if m]
+TAG_RE = re.compile(r"\[[^\]]{1,30}\]\s*")  # balises d'émotion : [excited], [whispering]...
+
+
+def _plain(text: str) -> str:
+    """Texte sans balises d'émotion (sous-titres, minutage, moteurs locaux)."""
+    return re.sub(r"\s+", " ", TAG_RE.sub("", text)).strip()
+
 
 # Réglages par ton : exaggeration (expressivité), cfg_weight, tempo final, vitesse piper
 TONES = {
@@ -136,6 +150,34 @@ def _tts_chatterbox(sent: str, out: Path, tone: str) -> None:
     torchaudio.save(str(out), best, model.sr)
 
 
+# ------------------------------------------------------------------ Fish Audio
+def _tts_fish(sent: str, out: Path, tone: str) -> None:
+    """Une phrase via l'API Fish Audio. Les balises d'émotion restent dans le texte."""
+    import urllib.request
+    import urllib.error
+    key = os.environ["FISH_API_KEY"]
+    speed = {"hype": 1.1, "pote": 1.08, "conteur": 1.02, "pose": 0.95}.get(tone, 1.05)
+    body = json.dumps({"text": sent, "reference_id": FISH_VOICE, "format": "mp3",
+                       "mp3_bitrate": 128, "latency": "normal", "normalize": True,
+                       "prosody": {"speed": speed}}).encode()
+    last = None
+    for model in FISH_MODELS:
+        req = urllib.request.Request(FISH_URL, data=body, method="POST", headers={
+            "Authorization": f"Bearer {key}", "Content-Type": "application/json", "model": model})
+        try:
+            with urllib.request.urlopen(req, timeout=120) as r:
+                mp3 = out.with_suffix(".mp3")
+                mp3.write_bytes(r.read())
+            subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", str(mp3), "-ar", "44100", "-ac", "1",
+                            str(out)], check=True)
+            return
+        except urllib.error.HTTPError as exc:  # modèle inconnu : on tente le suivant
+            last = RuntimeError(f"Fish {model} HTTP {exc.code}: {exc.read()[:200]!r}")
+            if exc.code in (401, 402, 403):  # clé invalide ou crédits épuisés : inutile d'insister
+                break
+    raise last or RuntimeError("Fish Audio indisponible")
+
+
 # ------------------------------------------------------------------ Piper
 def _piper_model() -> Path:
     CACHE.mkdir(parents=True, exist_ok=True)
@@ -183,6 +225,8 @@ def engine() -> str:
         forced = flag.read_text().strip()
     if forced:
         return forced
+    if os.environ.get("FISH_API_KEY"):
+        return "fish"
     if not VOICE_REF.exists():
         return "piper"
     try:
@@ -194,7 +238,7 @@ def engine() -> str:
 
 def _word_times(sent: str, start: float, end: float) -> list[dict]:
     """Répartit la durée d'une phrase sur ses mots (poids = longueur + pause de ponctuation)."""
-    words = sent.split()
+    words = _plain(sent).split()
     weights = [len(re.sub(r"\W", "", w)) + 1.5 + (2.5 if re.search(r"[.,!?…:;]$", w) else 0)
                for w in words]
     tot = sum(weights) or 1
@@ -214,20 +258,22 @@ def synthesize(segments: list[dict], workdir: Path, tone: str) -> dict:
     timeline, files, t, n = [], [], 0.0, 0
     for i, seg in enumerate(segments):
         stone = seg.get("tone", tone)
-        tempo = TONES.get(stone, TONES["pote"])[2]
+        tempo = 1.0 if eng == "fish" else TONES.get(stone, TONES["pote"])[2]  # Fish gère la vitesse
         seg_start, words = t, []
         sents = _sentences(seg["text"])
         for j, sent in enumerate(sents):
             raw = vdir / f"s{n:03d}_raw.wav"
             try:
-                if eng == "clone":
-                    _tts_chatterbox(sent, raw, stone)
+                if eng == "fish":
+                    _tts_fish(sent, raw, stone)
+                elif eng == "clone":
+                    _tts_chatterbox(_plain(sent), raw, stone)
                 else:
-                    _tts_piper(sent, raw, stone)
+                    _tts_piper(_plain(sent), raw, stone)
             except Exception as exc:  # secours automatique
                 print(f"[voice] {eng} a échoué ({exc}), passage sur Piper")
                 eng = "piper"
-                _tts_piper(sent, raw, stone)
+                _tts_piper(_plain(sent), raw, stone)
             last_of_seg = j == len(sents) - 1
             gap = (GAP_SEG if i < len(segments) - 1 else 0.7) if last_of_seg else GAP_SENT
             gap = float(seg.get("pause_after", gap)) if last_of_seg else gap
@@ -243,7 +289,7 @@ def synthesize(segments: list[dict], workdir: Path, tone: str) -> dict:
             t += d
             n += 1
         timeline.append({"index": i, "start": round(seg_start, 3), "end": round(words[-1]["end"], 3),
-                         "slot_end": round(t, 3), "text": seg["text"], "words": words})
+                         "slot_end": round(t, 3), "text": _plain(seg["text"]), "words": words})
     lst = vdir / "list.txt"
     lst.write_text("".join(f"file '{f.name}'\n" for f in files))
     voice = workdir / "voice.wav"
