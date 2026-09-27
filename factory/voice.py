@@ -155,15 +155,19 @@ def _tts_fish(sent: str, out: Path, tone: str) -> None:
     """Une phrase via l'API Fish Audio. Les balises d'émotion restent dans le texte."""
     import urllib.request
     import urllib.error
-    key = os.environ["FISH_API_KEY"]
+    # Clé soit en variable d'environnement, soit (mieux) en "API credential" de l'environnement
+    # cloud : le proxy l'ajoute alors lui-même aux requêtes vers api.fish.audio (TF_VOICE=fish).
+    key = os.environ.get("FISH_API_KEY", "")
     speed = {"hype": 1.1, "pote": 1.08, "conteur": 1.02, "pose": 0.95}.get(tone, 1.05)
     body = json.dumps({"text": sent, "reference_id": FISH_VOICE, "format": "mp3",
                        "mp3_bitrate": 128, "latency": "normal", "normalize": True,
                        "prosody": {"speed": speed}}).encode()
     last = None
     for model in FISH_MODELS:
-        req = urllib.request.Request(FISH_URL, data=body, method="POST", headers={
-            "Authorization": f"Bearer {key}", "Content-Type": "application/json", "model": model})
+        headers = {"Content-Type": "application/json", "model": model}
+        if key:
+            headers["Authorization"] = f"Bearer {key}"
+        req = urllib.request.Request(FISH_URL, data=body, method="POST", headers=headers)
         try:
             with urllib.request.urlopen(req, timeout=120) as r:
                 mp3 = out.with_suffix(".mp3")
