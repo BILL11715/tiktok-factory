@@ -1,0 +1,21 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-09-27_2045/video.mp4",
+ "duration": 93.386,
+ "shots": 78,
+ "sources": [
+  "https://anilist.co/anime/185874",
+  "https://kitsu.io/anime/bleach-sennen-kessen-hen-kashintan"
+ ],
+ "music": {
+  "file": "mystere.mp3",
+  "bpm": 152.0,
+  "offset": 11.614000000000004
+ },
+ "sfx": 29,
+ "engine": "remotion (OpenMontage)",
+ "voice_engine": "clone",
+ "repo_path": "videos/2026/09/2026-09-27_2045.mp4",
+ "raw_url": "https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/videos/2026/09/2026-09-27_2045.mp4",
+ "lint": [],
+ "render_seconds": 3022.4
+}
