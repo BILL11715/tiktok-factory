@@ -386,8 +386,8 @@ def render(script: dict, voice: dict, index: dict, workdir: Path, out_path: Path
          "-f", "lavfi", "-i", f"color=c=0xFFD400:s={W}x16:r={FPS}",
          "-filter_complex", f"[0:v]subtitles='{ass}':fontsdir='{fonts_dir}'[s];"
                             f"[s][2:v]overlay=x='-W+W*t/{dur:.3f}':y=H-16:shortest=1,format=yuv420p[v]",
-         "-map", "[v]", "-map", "1:a", "-c:v", "libx264", "-preset", "medium", "-crf", "21",
-         "-profile:v", "high", "-pix_fmt", "yuv420p", "-c:a", "copy", "-shortest",
+         "-map", "[v]", "-map", "1:a", "-c:v", "libx264", "-preset", "medium", "-crf", "22",
+         "-profile:v", "high", "-maxrate", "5M", "-bufsize", "10M", "-pix_fmt", "yuv420p", "-c:a", "copy", "-shortest",
          "-movflags", "+faststart", str(out_path)])
     sources = sorted({s for e in index.values() for s in e.get("sources", [])})
     return {"path": str(out_path), "duration": dur, "shots": len(clips), "sources": sources,
