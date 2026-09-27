@@ -1,0 +1,21 @@
+{
+ "title": "Top 3 des persos les plus cheatés de Jujutsu Kaisen",
+ "format": "top", "tone": "hype", "music": "hype2",
+ "animes": ["Jujutsu Kaisen"],
+ "hook_text": "Le numéro 1 est tellement cheaté que l'auteur a dû le sceller",
+ "segments": [
+  {"text": "Le numéro 1 est tellement cheaté que l'auteur a dû l'enfermer dans une boîte pour que l'histoire avance.", "emphasis": ["cheaté", "boîte"], "sfx": true},
+  {"text": "Top 3 des persos les plus pétés de Jujutsu Kaisen. Et reste jusqu'au bout, parce que le premier va en énerver certains.", "emphasis": ["pétés"]},
+  {"text": "Numéro 3, Megumi. Ouais je sais, vous allez me dire qu'il perd tout le temps.", "overlay": "#3", "sfx": true, "emphasis": ["Megumi"]},
+  {"text": "Sauf que son technique des dix ombres, c'est littéralement ce que Sukuna voulait récupérer. Réfléchis deux secondes à ce que ça veut dire.", "emphasis": ["ombres"]},
+  {"text": "Et si toi aussi tu kiffes ce genre de classement, abonne-toi, j'en sors tous les jours sur les animes que t'aimes.", "cta": true, "emphasis": ["abonne-toi"]},
+  {"text": "Numéro 2, Sukuna. Le roi des fléaux. Vingt doigts, et même avec quelques-uns seulement il retourne tout le monde.", "overlay": "#2", "sfx": true, "emphasis": ["Sukuna"]},
+  {"text": "Le mec a découpé une ville entière en quelques secondes, frr, c'est même plus un combat à ce niveau-là.", "emphasis": ["ville"]},
+  {"text": "Et numéro 1, Gojo. Le plus fort. L'infini, les six yeux, personne ne peut le toucher.", "overlay": "#1", "sfx": true, "emphasis": ["Gojo"]},
+  {"text": "Tellement fort que les méchants ont monté un plan entier juste pour l'enfermer, parce que le battre, c'était impossible.", "emphasis": ["impossible"]},
+  {"text": "Et Itadori dans tout ça ? Honnêtement, je pense qu'il finira devant Megumi, mais on en reparle.", "emphasis": ["Itadori"]},
+  {"text": "C'est quoi ton top 1 à toi ? Dis-le en com', je lis tout.", "emphasis": ["top"]}
+ ],
+ "caption": "Le numéro 1 va en énerver certains 😤 c'est quoi ton top ?",
+ "hashtags": ["#anime", "#manga", "#animefr", "#jujutsukaisen", "#topanime"]
+}

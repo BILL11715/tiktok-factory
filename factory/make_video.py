@@ -17,7 +17,7 @@ from pathlib import Path
 from . import assets, render, voice
 
 ROOT = Path(__file__).resolve().parent.parent
-SIGNATURE = "C'était Bill. On se capte au prochain épisode."
+SIGNATURE = "C'était Asura. On se capte au prochain épisode."
 BANNED = ["—", "plongeons", "découvrons ensemble", "il est important de noter",
           "dans un monde où", "mais ce n'est pas tout", "incontournable", "véritable pépite",
           "chef-d'œuvre intemporel", "aventure épique", "captivant", "fascinant",
@@ -34,8 +34,13 @@ def lint(script: dict) -> list[str]:
     if len(script.get("hook_text", "").split()) > 15:
         problems.append("hook_text > 15 mots")
     total = sum(len(s["text"]) for s in script["segments"])
-    if script.get("format") != "citation" and total < 1050:
-        problems.append(f"texte trop court ({total} car.) : viser ~1200 car. pour dépasser 60 s")
+    if script.get("format") != "citation" and total < 1250:
+        problems.append(f"texte trop court ({total} car.) : viser ~1350 car. pour dépasser 60 s")
+    if not any(s.get("cta") for s in script["segments"]) or \
+            not any("abonne" in s["text"].lower() for s in script["segments"] if s.get("cta")):
+        problems.append("appel à l'abonnement manquant : un segment avec \"cta\": true qui dit « abonne-toi »")
+    if not script.get("hook_text"):
+        problems.append("hook_text manquant")
     for s in script["segments"]:
         if len(s["text"]) > 260:
             problems.append(f"segment trop long ({len(s['text'])} car.) : découper")
@@ -50,10 +55,10 @@ def main(script_path: str) -> dict:
     problems = lint(script)
     if problems:
         print("LINT:", *problems, sep="\n - ")
-        if any("interdite" in p or "trop court" in p for p in problems):
+        if any(k in p for p in problems for k in ("interdite", "trop court", "abonnement", "hook_text manquant")):
             raise SystemExit("Script refusé (anti-IA ou trop court), corriger puis relancer.")
     # signature toujours présente, ton posé
-    if not script["segments"][-1]["text"].startswith("C'était Bill"):
+    if not script["segments"][-1]["text"].startswith("C'était Asura"):
         script["segments"].append({"text": SIGNATURE, "tone": "pose",
                                    "shots": [{"anime": script["animes"][0], "kind": "poster"}]})
         if script.get("reveal_text"):

@@ -62,36 +62,47 @@ Bill n'est pas là pendant le run : ne pose aucune question, décide et continue
 ## Format de script.json
 ```json
 {
-  "title": "Reco Solo Leveling - le chasseur le plus nul",
+  "title": "Top 3 des persos les plus cheatés de Jujutsu Kaisen",
   "format": "reco | theorie | top | anecdote | citation",
   "tone": "pote | conteur | hype | pose",
   "music": "pote | mystere | hype | hype2 | triste",
-  "animes": ["Solo Leveling"],
-  "hook_text": "Le chasseur le plus nul du monde... jusqu'au jour où",
+  "animes": ["Jujutsu Kaisen"],
+  "hook_text": "Le numéro 1 est tellement cheaté que l'auteur a dû le sceller",
   "spoiler": false,
   "spoiler_label": "chapitre 1160",
   "segments": [
-    {
-      "text": "Phrase(s) dite(s) par Bill, 1 à 3 phrases, 260 caractères max.",
-      "shots": [{"anime": "Solo Leveling", "kind": "character", "character": "Jinwoo"}],
-      "emphasis": ["mots", "à", "surligner"],
-      "overlay": "#3",
-      "sfx": true
-    }
+    {"text": "Le numéro 1 est tellement cheaté que l'auteur a dû l'enfermer.", "sfx": true, "emphasis": ["cheaté"]},
+    {"text": "Numéro 3, Megumi. Ouais je sais, il perd tout le temps.", "overlay": "#3", "sfx": true,
+     "shots": [{"anime": "Jujutsu Kaisen", "kind": "character", "character": "Megumi", "at": "Megumi"}]},
+    {"text": "Si tu kiffes ce genre de classement, abonne-toi, j'en sors tous les jours.", "cta": true}
   ],
   "reveal_text": "Solo Leveling",
   "reveal_segments": 1,
-  "caption": "Il était le plus faible de tous 😭 tu connaissais ?",
-  "hashtags": ["#anime", "#manga", "#animefr", "#sololeveling", "#recommandationanime"]
+  "caption": "Le numéro 1 va en énerver certains 😤 c'est quoi ton top ?",
+  "hashtags": ["#anime", "#manga", "#animefr", "#jujutsukaisen", "#topanime"]
 }
 ```
-- `animes` : noms tels que cherchés sur Kitsu (titre anglais ou romaji courant). Pour un top
-  multi-animes, liste-les tous et mets le bon `anime` dans chaque shot.
-- `shots` optionnel : `kind` = character (avec `character`), wide (captures/bannières), poster, any.
-  Sans shots, le pipeline choisit des images variées (un plan toutes les 2-4 s).
+Règles (le pipeline refuse le script si les points marqués ⛔ manquent) :
+- ⛔ `hook_text` : la 1re phrase, écrite en gros à l'écran pendant que la voix la dit. Le hook visuel
+  (zoom punch, flash, tremblement, bruit d'impact, mots qui claquent) est automatique.
+  Le segment 1 = cette phrase (même idée, mots quasi identiques). Le segment 2 peut ajouter une
+  boucle ouverte ("reste jusqu'au bout, le numéro 1 va en énerver certains").
+- ⛔ Appel à l'abonnement : UN segment avec `"cta": true` placé entre 35 % et 60 % de la vidéo,
+  qui dit naturellement "abonne-toi" avec une raison ("j'en sors tous les jours", "la partie 2
+  arrive"). Un bouton ABONNE-TOI animé s'affiche automatiquement.
+- ⛔ Au moins 1 250 caractères de texte, idéalement 1 350 à 1 500 (> 60 s), sauf citation.
+- **Synchro image/texte** : dès qu'un personnage est cité, écris son nom tel qu'il est connu
+  (Gojo, Sukuna, Megumi, Luffy, Zoro, Frieren, Himmel...). Le pipeline détecte le nom et affiche
+  sa fiche au moment exact où il est prononcé. Pour forcer une image, ajoute un shot avec
+  `"at": "<mot du segment>"` : l'image change quand ce mot est dit. Ne mets pas plus de 2 shots
+  par segment. Évite de parler d'un perso sans le nommer.
+- `animes` : noms tels que cherchés sur AniList/Kitsu (titre anglais ou romaji courant). Pour un
+  top multi-animes, liste-les tous et mets le bon `anime` dans les shots.
+- `kind` : character (avec `character`), wide (captures/bannières), poster, any.
 - `emphasis` : 1 ou 2 mots clés par segment (en jaune).
 - `overlay` : uniquement pour les tops ("#5"..."#1").
-- `sfx` : true seulement sur 2-4 révélations par vidéo.
+- `sfx` : true sur le 1er segment et sur 2-4 révélations (zoom punch + whoosh).
 - `reveal_text` : pour une reco (nom de l'anime en fin), sinon omettre.
-- La signature est ajoutée automatiquement, ne l'écris pas.
-- Découpe en 8 à 14 segments.
+- La signature "C'était Asura. On se capte au prochain épisode." est ajoutée automatiquement.
+- Découpe en 10 à 16 segments courts (1 à 2 phrases). Phrases de 6 mots minimum (la voix
+  clonée gère mal les phrases de 2-3 mots isolées, elles sont regroupées automatiquement).

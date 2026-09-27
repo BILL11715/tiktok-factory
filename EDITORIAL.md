@@ -4,8 +4,9 @@ Version complète et à jour : page Notion "Ligne éditoriale @the.asura8"
 (https://app.notion.com/p/3e765926442181ef91d8d612a6b2d09a). En cas d'écart, Notion fait foi.
 
 ## Identité
-- Anime & manga, en français. C'est Bill qui parle, un fan qui partage à ses potes. Jamais un ton documentaire.
-- Signature ajoutée automatiquement par le pipeline : "C'était Bill. On se capte au prochain épisode."
+- Anime & manga, en français. C'est Asura (Bill) qui parle, un fan qui partage à ses potes. Jamais un ton documentaire.
+- Pseudo à l'écran et à la voix : **Asura**. Signature ajoutée automatiquement : "C'était Asura. On se capte au prochain épisode."
+- Objectif n°1 : les abonnements. Chaque vidéo a un appel à s'abonner au milieu (champ cta), jamais seulement à la fin.
 - Catalogue : 80% mainstream (One Piece, Jujutsu Kaisen, Solo Leveling, Demon Slayer, Naruto/Boruto, Chainsaw Man, Frieren, Dandadan, Kaiju n°8, Blue Lock, Attack on Titan, Hunter x Hunter, Bleach, My Hero Academia, Sakamoto Days, Tokyo Revengers), 20% pépites peu couvertes en FR.
 
 ## Grille
@@ -26,10 +27,14 @@ Version complète et à jour : page Notion "Ligne éditoriale @the.asura8"
 | anecdote | 60-70 s | pote | pote ou mystere | hook = le fait surprenant direct ; contexte, détail, conséquence ; "tu savais ?". Faits vérifiables uniquement |
 | citation | 40-60 s | pose | triste | contexte en 1 ligne ; réplique lente ; 2-3 phrases de Bill ; peu de texte |
 
-Repère : la voix clonée parle vite (environ 19 caractères par seconde). Pour 65 s, visez environ 1 200 caractères de texte au total (220-240 mots).
+Repère : la voix est accélérée (environ 22 caractères par seconde). Pour 65-70 s, visez environ 1 350 à 1 500 caractères de texte au total (250-280 mots).
 
-## Hooks
-- Moins de 15 mots, dit ET écrit (hook_text). Boucle ouverte. Pas de "salut", pas d'intro.
+## Hooks (les 2 premières secondes décident de tout)
+- Moins de 15 mots, dit ET écrit (hook_text), c'est aussi le texte du segment 1. Pas de "salut", pas d'intro.
+- Modèles qui marchent : la révélation choc ("Le numéro 1 est tellement cheaté que l'auteur a dû le sceller"),
+  le contre-pied ("Tout le monde se trompe sur Itachi"), la question impossible ("Pourquoi Luffy n'a jamais tué personne ?"),
+  le défi ("Si tu devines ce perso avant la fin, t'es un vrai"), la promesse ("3 détails de Naruto que presque personne n'a remarqués").
+- Juste après le hook, une boucle ouverte qui retient jusqu'au bout ("reste jusqu'à la fin", "le dernier va te choquer").
 - Relance toutes les 15-20 s ("mais attends", "et le pire c'est que", "sauf que").
 
 ## Anti-IA (version française de blader/humanizer)

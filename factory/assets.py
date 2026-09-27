@@ -141,6 +141,40 @@ def jikan_images(query: str) -> dict:
     return out
 
 
+# ------------------------------------------------------------------ AniList
+ANILIST = "https://graphql.anilist.co"
+_AL_Q = """query($q:String){Media(search:$q,type:ANIME,sort:POPULARITY_DESC){id siteUrl
+ title{romaji english} coverImage{extraLarge} bannerImage
+ characters(sort:[ROLE,FAVOURITES_DESC],perPage:25){nodes{name{full alternative} image{large}}}}}"""
+
+
+def anilist_images(query: str) -> dict:
+    out = {"poster": [], "wide": [], "characters": {}, "source": None}
+    for i in range(2):
+        try:
+            r = requests.post(ANILIST, json={"query": _AL_Q, "variables": {"q": query}},
+                              headers=UA, timeout=20)
+            if r.status_code != 200:
+                time.sleep(1.5)
+                continue
+            m = (r.json().get("data") or {}).get("Media")
+            if not m:
+                return out
+            if (m.get("coverImage") or {}).get("extraLarge"):
+                out["poster"].append(m["coverImage"]["extraLarge"])
+            if m.get("bannerImage"):
+                out["wide"].append(m["bannerImage"])
+            for n in m["characters"]["nodes"]:
+                img = (n.get("image") or {}).get("large")
+                if img and "default" not in img:
+                    out["characters"][n["name"]["full"]] = img
+            out["source"] = m.get("siteUrl")
+            return out
+        except requests.RequestException:
+            time.sleep(1.5)
+    return out
+
+
 # ------------------------------------------------------------------ public API
 def collect(animes: list[str], workdir: Path) -> dict:
     """Télécharge un pool d'images pour chaque anime. Retourne un index JSON."""
@@ -150,22 +184,25 @@ def collect(animes: list[str], workdir: Path) -> dict:
     for name in animes:
         k = kitsu_images(name)
         j = jikan_images(name)
+        al = anilist_images(name)
         entry = {"meta": k.get("anime"), "wide": [], "tall": [], "characters": {}, "sources": []}
-        for url in k["cover"] + k.get("episodes", [])[:40]:
+        for url in al["wide"] + k["cover"] + k.get("episodes", [])[:40]:
             p = _download(url, img_dir)
             if p:
                 entry["wide"].append(str(p))
-        for url in k["poster"] + j["poster"] + j["pictures"]:
+        for url in al["poster"] + k["poster"] + j["poster"] + j["pictures"]:
             p = _download(url, img_dir)
             if p and str(p) not in entry["tall"]:
                 entry["tall"].append(str(p))
-        chars = {**k["characters"], **j["characters"]}
+        chars = {**k["characters"], **j["characters"], **al["characters"]}
         for cname, url in list(chars.items())[:30]:
             p = _download(url, img_dir)
             if p:
                 entry["characters"][cname] = str(p)
         if k.get("anime"):
             entry["sources"].append(k["anime"]["source"])
+        if al["source"]:
+            entry["sources"].append(al["source"])
         if j["poster"]:
             entry["sources"].append("MyAnimeList via Jikan")
         index[name] = entry
@@ -188,18 +225,22 @@ def pick(index: dict, anime: str, kind: str = "any", character: str | None = Non
             n = _norm(name)
             if any(pt in n for pt in parts):
                 cands.append(p)
+        if cands:  # le bon perso, même s'il a déjà servi
+            p = cands[0]
+            if p in used:
+                used.remove(p)
+            used.append(p)
+            return p
     if kind == "wide":
         cands += e["wide"]
     elif kind == "poster":
         cands += e["tall"]
-    elif kind == "character":
+    elif kind == "character" and not character:
         cands += list(e["characters"].values())
-    pool = []
-    for lst in (e["wide"], e["tall"], list(e["characters"].values())):
-        pool += lst
-    # mélange déterministe : alterne les types
-    mixed = [x for trio in zip(e["wide"] + [None] * 60, e["tall"] + [None] * 60,
-                               list(e["characters"].values()) + [None] * 60) for x in trio if x]
+    # hors personnage demandé : uniquement des scènes/affiches (jamais un autre perso au hasard)
+    scenes = [x for pair in zip(e["wide"] + [None] * 80, e["tall"] + [None] * 80) for x in pair if x]
+    mixed = scenes if kind != "character" else []
+    pool = scenes or list(e["characters"].values())
     for p in cands + mixed + pool:
         if p not in used:
             used.append(p)
