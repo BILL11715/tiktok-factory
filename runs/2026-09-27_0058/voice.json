@@ -1,1322 +1,1595 @@
 {
  "engine": "clone",
  "path": "/home/claude/tiktok-factory/runs/2026-09-27_0058/voice.wav",
- "duration": 64.173,
+ "duration": 75.884,
  "timeline": [
   {
    "index": 0,
    "start": 0.0,
-   "end": 3.115,
-   "slot_end": 3.215,
+   "end": 2.341,
+   "slot_end": 2.441,
    "text": "Un anime qui commence exactement là où tous les autres s'arrêtent.",
    "words": [
     {
      "w": "Un",
      "start": 0.0,
-     "end": 0.149
+     "end": 0.112
     },
     {
      "w": "anime",
-     "start": 0.149,
-     "end": 0.427
+     "start": 0.112,
+     "end": 0.321
     },
     {
      "w": "qui",
-     "start": 0.427,
-     "end": 0.619
+     "start": 0.321,
+     "end": 0.465
     },
     {
      "w": "commence",
-     "start": 0.619,
-     "end": 1.024
+     "start": 0.465,
+     "end": 0.77
     },
     {
      "w": "exactement",
-     "start": 1.024,
-     "end": 1.515
+     "start": 0.77,
+     "end": 1.139
     },
     {
      "w": "là",
-     "start": 1.515,
-     "end": 1.664
+     "start": 1.139,
+     "end": 1.251
     },
     {
      "w": "où",
-     "start": 1.664,
-     "end": 1.814
+     "start": 1.251,
+     "end": 1.363
     },
     {
      "w": "tous",
-     "start": 1.814,
-     "end": 2.048
+     "start": 1.363,
+     "end": 1.54
     },
     {
      "w": "les",
-     "start": 2.048,
-     "end": 2.24
+     "start": 1.54,
+     "end": 1.684
     },
     {
      "w": "autres",
-     "start": 2.24,
-     "end": 2.56
+     "start": 1.684,
+     "end": 1.924
     },
     {
      "w": "s'arrêtent.",
-     "start": 2.56,
-     "end": 3.115
+     "start": 1.924,
+     "end": 2.341
     }
    ]
   },
   {
    "index": 1,
-   "start": 3.215,
-   "end": 8.29,
-   "slot_end": 8.39,
+   "start": 2.441,
+   "end": 7.408,
+   "slot_end": 7.508,
    "text": "Genre le grand méchant est déjà mort, le héros a gagné, fin de l'aventure. Et là, épisode 1.",
    "words": [
     {
      "w": "Genre",
-     "start": 3.215,
-     "end": 3.519
+     "start": 2.441,
+     "end": 2.739
     },
     {
      "w": "le",
-     "start": 3.519,
-     "end": 3.683
+     "start": 2.739,
+     "end": 2.899
     },
     {
      "w": "grand",
-     "start": 3.683,
-     "end": 3.987
+     "start": 2.899,
+     "end": 3.197
     },
     {
      "w": "méchant",
-     "start": 3.987,
-     "end": 4.384
+     "start": 3.197,
+     "end": 3.586
     },
     {
      "w": "est",
-     "start": 4.384,
-     "end": 4.595
+     "start": 3.586,
+     "end": 3.792
     },
     {
      "w": "déjà",
-     "start": 4.595,
-     "end": 4.852
+     "start": 3.792,
+     "end": 4.044
     },
     {
      "w": "mort,",
-     "start": 4.852,
-     "end": 5.226
+     "start": 4.044,
+     "end": 4.41
     },
     {
      "w": "le",
-     "start": 5.226,
-     "end": 5.39
+     "start": 4.41,
+     "end": 4.57
     },
     {
      "w": "héros",
-     "start": 5.39,
-     "end": 5.694
+     "start": 4.57,
+     "end": 4.868
     },
     {
      "w": "a",
-     "start": 5.694,
-     "end": 5.811
+     "start": 4.868,
+     "end": 4.982
     },
     {
      "w": "gagné,",
-     "start": 5.811,
-     "end": 6.232
+     "start": 4.982,
+     "end": 5.394
     },
     {
      "w": "fin",
-     "start": 6.232,
-     "end": 6.442
+     "start": 5.394,
+     "end": 5.6
     },
     {
      "w": "de",
-     "start": 6.442,
-     "end": 6.606
+     "start": 5.6,
+     "end": 5.76
     },
     {
      "w": "l'aventure.",
-     "start": 6.606,
-     "end": 7.214
+     "start": 5.76,
+     "end": 6.355
     },
     {
      "w": "Et",
-     "start": 7.214,
-     "end": 7.378
+     "start": 6.355,
+     "end": 6.515
     },
     {
      "w": "là,",
-     "start": 7.378,
-     "end": 7.658
+     "start": 6.515,
+     "end": 6.79
     },
     {
      "w": "épisode",
-     "start": 7.658,
-     "end": 8.056
+     "start": 6.79,
+     "end": 7.179
     },
     {
      "w": "1.",
-     "start": 8.056,
-     "end": 8.29
+     "start": 7.179,
+     "end": 7.408
     }
    ]
   },
   {
    "index": 2,
-   "start": 8.39,
-   "end": 14.56,
-   "slot_end": 14.66,
+   "start": 7.508,
+   "end": 13.708,
+   "slot_end": 13.808,
    "text": "L'héroïne, c'est une elfe. Une mage. Elle vit des siècles, donc dix ans de voyage avec ses potes, pour elle c'est rien du tout.",
    "words": [
     {
      "w": "L'héroïne,",
-     "start": 8.39,
-     "end": 8.897
+     "start": 7.508,
+     "end": 8.018
     },
     {
      "w": "c'est",
-     "start": 8.897,
-     "end": 9.129
+     "start": 8.018,
+     "end": 8.251
     },
     {
      "w": "une",
-     "start": 9.129,
-     "end": 9.319
+     "start": 8.251,
+     "end": 8.442
     },
     {
      "w": "elfe.",
-     "start": 9.319,
-     "end": 9.657
+     "start": 8.442,
+     "end": 8.782
     },
     {
      "w": "Une",
-     "start": 9.657,
-     "end": 9.848
+     "start": 8.782,
+     "end": 8.973
     },
     {
      "w": "mage.",
-     "start": 9.848,
-     "end": 10.186
+     "start": 8.973,
+     "end": 9.313
     },
     {
      "w": "Elle",
-     "start": 10.186,
-     "end": 10.418
+     "start": 9.313,
+     "end": 9.547
     },
     {
      "w": "vit",
-     "start": 10.418,
-     "end": 10.608
+     "start": 9.547,
+     "end": 9.738
     },
     {
      "w": "des",
-     "start": 10.608,
-     "end": 10.798
+     "start": 9.738,
+     "end": 9.929
     },
     {
      "w": "siècles,",
-     "start": 10.798,
-     "end": 11.263
+     "start": 9.929,
+     "end": 10.396
     },
     {
      "w": "donc",
-     "start": 11.263,
-     "end": 11.496
+     "start": 10.396,
+     "end": 10.629
     },
     {
      "w": "dix",
-     "start": 11.496,
-     "end": 11.686
+     "start": 10.629,
+     "end": 10.821
     },
     {
      "w": "ans",
-     "start": 11.686,
-     "end": 11.876
+     "start": 10.821,
+     "end": 11.012
     },
     {
      "w": "de",
-     "start": 11.876,
-     "end": 12.024
+     "start": 11.012,
+     "end": 11.16
     },
     {
      "w": "voyage",
-     "start": 12.024,
-     "end": 12.341
+     "start": 11.16,
+     "end": 11.479
     },
     {
      "w": "avec",
-     "start": 12.341,
-     "end": 12.573
+     "start": 11.479,
+     "end": 11.712
     },
     {
      "w": "ses",
-     "start": 12.573,
-     "end": 12.764
+     "start": 11.712,
+     "end": 11.904
     },
     {
      "w": "potes,",
-     "start": 12.764,
-     "end": 13.144
+     "start": 11.904,
+     "end": 12.286
     },
     {
      "w": "pour",
-     "start": 13.144,
-     "end": 13.376
+     "start": 12.286,
+     "end": 12.519
     },
     {
      "w": "elle",
-     "start": 13.376,
-     "end": 13.609
+     "start": 12.519,
+     "end": 12.753
     },
     {
      "w": "c'est",
-     "start": 13.609,
-     "end": 13.841
+     "start": 12.753,
+     "end": 12.986
     },
     {
      "w": "rien",
-     "start": 13.841,
-     "end": 14.074
+     "start": 12.986,
+     "end": 13.22
     },
     {
      "w": "du",
-     "start": 14.074,
-     "end": 14.222
+     "start": 13.22,
+     "end": 13.369
     },
     {
      "w": "tout.",
-     "start": 14.222,
-     "end": 14.56
+     "start": 13.369,
+     "end": 13.708
     }
    ]
   },
   {
    "index": 3,
-   "start": 14.66,
-   "end": 18.201,
-   "slot_end": 18.301,
+   "start": 13.808,
+   "end": 17.186,
+   "slot_end": 17.286,
    "text": "Sauf que ses potes, eux, ils vieillissent. Et un jour le héros meurt.",
    "words": [
     {
      "w": "Sauf",
-     "start": 14.66,
-     "end": 14.896
+     "start": 13.808,
+     "end": 14.034
     },
     {
      "w": "que",
-     "start": 14.896,
-     "end": 15.089
+     "start": 14.034,
+     "end": 14.218
     },
     {
      "w": "ses",
-     "start": 15.089,
-     "end": 15.282
+     "start": 14.218,
+     "end": 14.402
     },
     {
      "w": "potes,",
-     "start": 15.282,
-     "end": 15.668
+     "start": 14.402,
+     "end": 14.771
     },
     {
      "w": "eux,",
-     "start": 15.668,
-     "end": 15.969
+     "start": 14.771,
+     "end": 15.057
     },
     {
      "w": "ils",
-     "start": 15.969,
-     "end": 16.162
+     "start": 15.057,
+     "end": 15.242
     },
     {
      "w": "vieillissent.",
-     "start": 16.162,
-     "end": 16.849
+     "start": 15.242,
+     "end": 15.897
     },
     {
      "w": "Et",
-     "start": 16.849,
-     "end": 16.999
+     "start": 15.897,
+     "end": 16.04
     },
     {
      "w": "un",
-     "start": 16.999,
-     "end": 17.149
+     "start": 16.04,
+     "end": 16.183
     },
     {
      "w": "jour",
-     "start": 17.149,
-     "end": 17.385
+     "start": 16.183,
+     "end": 16.408
     },
     {
      "w": "le",
-     "start": 17.385,
-     "end": 17.536
+     "start": 16.408,
+     "end": 16.552
     },
     {
      "w": "héros",
-     "start": 17.536,
-     "end": 17.815
+     "start": 16.552,
+     "end": 16.818
     },
     {
      "w": "meurt.",
-     "start": 17.815,
-     "end": 18.201
+     "start": 16.818,
+     "end": 17.186
     }
    ]
   },
   {
    "index": 4,
-   "start": 18.301,
-   "end": 23.562,
-   "slot_end": 23.662,
+   "start": 17.286,
+   "end": 23.572,
+   "slot_end": 23.672,
    "text": "Et à l'enterrement elle capte qu'elle l'a jamais vraiment connu. Qu'elle a jamais pris le temps. J'te jure, cette scène m'a tué.",
    "words": [
     {
      "w": "Et",
-     "start": 18.301,
-     "end": 18.433
+     "start": 17.286,
+     "end": 17.444
     },
     {
      "w": "à",
-     "start": 18.433,
-     "end": 18.526
+     "start": 17.444,
+     "end": 17.556
     },
     {
      "w": "l'enterrement",
-     "start": 18.526,
-     "end": 19.034
+     "start": 17.556,
+     "end": 18.162
     },
     {
      "w": "elle",
-     "start": 19.034,
-     "end": 19.241
+     "start": 18.162,
+     "end": 18.409
     },
     {
      "w": "capte",
-     "start": 19.241,
-     "end": 19.485
+     "start": 18.409,
+     "end": 18.701
     },
     {
      "w": "qu'elle",
-     "start": 19.485,
-     "end": 19.767
+     "start": 18.701,
+     "end": 19.038
     },
     {
      "w": "l'a",
-     "start": 19.767,
-     "end": 19.898
+     "start": 19.038,
+     "end": 19.195
     },
     {
      "w": "jamais",
-     "start": 19.898,
-     "end": 20.18
+     "start": 19.195,
+     "end": 19.531
     },
     {
      "w": "vraiment",
-     "start": 20.18,
-     "end": 20.537
+     "start": 19.531,
+     "end": 19.958
     },
     {
      "w": "connu.",
-     "start": 20.537,
-     "end": 20.875
+     "start": 19.958,
+     "end": 20.362
     },
     {
      "w": "Qu'elle",
-     "start": 20.875,
-     "end": 21.157
+     "start": 20.362,
+     "end": 20.699
     },
     {
      "w": "a",
-     "start": 21.157,
-     "end": 21.251
+     "start": 20.699,
+     "end": 20.811
     },
     {
      "w": "jamais",
-     "start": 21.251,
-     "end": 21.533
+     "start": 20.811,
+     "end": 21.148
     },
     {
      "w": "pris",
-     "start": 21.533,
-     "end": 21.74
+     "start": 21.148,
+     "end": 21.395
     },
     {
      "w": "le",
-     "start": 21.74,
-     "end": 21.871
+     "start": 21.395,
+     "end": 21.552
     },
     {
      "w": "temps.",
-     "start": 21.871,
-     "end": 22.209
+     "start": 21.552,
+     "end": 21.956
     },
     {
      "w": "J'te",
-     "start": 22.209,
-     "end": 22.379
+     "start": 21.956,
+     "end": 22.158
     },
     {
      "w": "jure,",
-     "start": 22.379,
-     "end": 22.679
+     "start": 22.158,
+     "end": 22.517
     },
     {
      "w": "cette",
-     "start": 22.679,
-     "end": 22.923
+     "start": 22.517,
+     "end": 22.809
     },
     {
      "w": "scène",
-     "start": 22.923,
-     "end": 23.168
+     "start": 22.809,
+     "end": 23.101
     },
     {
      "w": "m'a",
-     "start": 23.168,
-     "end": 23.299
+     "start": 23.101,
+     "end": 23.258
     },
     {
      "w": "tué.",
-     "start": 23.299,
-     "end": 23.562
+     "start": 23.258,
+     "end": 23.572
     }
    ]
   },
   {
    "index": 5,
-   "start": 23.662,
-   "end": 30.519,
-   "slot_end": 30.619,
+   "start": 23.672,
+   "end": 29.099,
+   "slot_end": 29.199,
    "text": "Du coup elle repart sur la route pour comprendre les humains. Avec une apprentie qui doit la tirer du lit chaque matin parce qu'elle arrive pas à se lever.",
    "words": [
     {
      "w": "Du",
-     "start": 23.662,
-     "end": 23.802
+     "start": 23.672,
+     "end": 23.774
     },
     {
      "w": "coup",
-     "start": 23.802,
-     "end": 24.022
+     "start": 23.774,
+     "end": 23.934
     },
     {
      "w": "elle",
-     "start": 24.022,
-     "end": 24.242
+     "start": 23.934,
+     "end": 24.093
     },
     {
      "w": "repart",
-     "start": 24.242,
-     "end": 24.542
+     "start": 24.093,
+     "end": 24.311
     },
     {
      "w": "sur",
-     "start": 24.542,
-     "end": 24.722
+     "start": 24.311,
+     "end": 24.442
     },
     {
      "w": "la",
-     "start": 24.722,
-     "end": 24.861
+     "start": 24.442,
+     "end": 24.543
     },
     {
      "w": "route",
-     "start": 24.861,
-     "end": 25.121
+     "start": 24.543,
+     "end": 24.732
     },
     {
      "w": "pour",
-     "start": 25.121,
-     "end": 25.341
+     "start": 24.732,
+     "end": 24.892
     },
     {
      "w": "comprendre",
-     "start": 25.341,
-     "end": 25.801
+     "start": 24.892,
+     "end": 25.225
     },
     {
      "w": "les",
-     "start": 25.801,
-     "end": 25.981
+     "start": 25.225,
+     "end": 25.356
     },
     {
      "w": "humains.",
-     "start": 25.981,
-     "end": 26.42
+     "start": 25.356,
+     "end": 25.675
     },
     {
      "w": "Avec",
-     "start": 26.47,
-     "end": 26.685
+     "start": 25.725,
+     "end": 25.904
     },
     {
      "w": "une",
-     "start": 26.685,
-     "end": 26.861
+     "start": 25.904,
+     "end": 26.051
     },
     {
      "w": "apprentie",
-     "start": 26.861,
-     "end": 27.272
+     "start": 26.051,
+     "end": 26.393
     },
     {
      "w": "qui",
-     "start": 27.272,
-     "end": 27.448
+     "start": 26.393,
+     "end": 26.54
     },
     {
      "w": "doit",
-     "start": 27.448,
-     "end": 27.663
+     "start": 26.54,
+     "end": 26.719
     },
     {
      "w": "la",
-     "start": 27.663,
-     "end": 27.8
+     "start": 26.719,
+     "end": 26.833
     },
     {
      "w": "tirer",
-     "start": 27.8,
-     "end": 28.054
+     "start": 26.833,
+     "end": 27.045
     },
     {
      "w": "du",
-     "start": 28.054,
-     "end": 28.191
+     "start": 27.045,
+     "end": 27.159
     },
     {
      "w": "lit",
-     "start": 28.191,
-     "end": 28.367
+     "start": 27.159,
+     "end": 27.306
     },
     {
      "w": "chaque",
-     "start": 28.367,
-     "end": 28.661
+     "start": 27.306,
+     "end": 27.551
     },
     {
      "w": "matin",
-     "start": 28.661,
-     "end": 28.915
+     "start": 27.551,
+     "end": 27.762
     },
     {
      "w": "parce",
-     "start": 28.915,
-     "end": 29.169
+     "start": 27.762,
+     "end": 27.974
     },
     {
      "w": "qu'elle",
-     "start": 29.169,
-     "end": 29.463
+     "start": 27.974,
+     "end": 28.219
     },
     {
      "w": "arrive",
-     "start": 29.463,
-     "end": 29.756
+     "start": 28.219,
+     "end": 28.463
     },
     {
      "w": "pas",
-     "start": 29.756,
-     "end": 29.932
+     "start": 28.463,
+     "end": 28.61
     },
     {
      "w": "à",
-     "start": 29.932,
-     "end": 30.03
+     "start": 28.61,
+     "end": 28.691
     },
     {
      "w": "se",
-     "start": 30.03,
-     "end": 30.167
+     "start": 28.691,
+     "end": 28.806
     },
     {
      "w": "lever.",
-     "start": 30.167,
-     "end": 30.519
+     "start": 28.806,
+     "end": 29.099
     }
    ]
   },
   {
    "index": 6,
-   "start": 30.619,
-   "end": 35.319,
-   "slot_end": 35.419,
-   "text": "Et si t'aimes les recos comme ça, abonne-toi, j'en sors tous les jours, que des animes qui valent vraiment le coup.",
+   "start": 29.199,
+   "end": 37.32,
+   "slot_end": 37.42,
+   "text": "Et Fern, justement, c'est la meilleure. Elle est calme, elle juge tout le monde en silence, et quand elle s'énerve contre Frieren, j'te jure c'est les meilleurs moments de l'anime.",
    "words": [
     {
      "w": "Et",
-     "start": 30.619,
-     "end": 30.746
+     "start": 29.199,
+     "end": 29.296
     },
     {
-     "w": "si",
-     "start": 30.746,
-     "end": 30.873
+     "w": "Fern,",
+     "start": 29.296,
+     "end": 29.519
     },
     {
-     "w": "t'aimes",
-     "start": 30.873,
-     "end": 31.145
+     "w": "justement,",
+     "start": 29.519,
+     "end": 29.881
     },
     {
-     "w": "les",
-     "start": 31.145,
-     "end": 31.309
+     "w": "c'est",
+     "start": 29.881,
+     "end": 30.034
     },
     {
-     "w": "recos",
-     "start": 31.309,
-     "end": 31.545
+     "w": "la",
+     "start": 30.034,
+     "end": 30.132
     },
     {
-     "w": "comme",
-     "start": 31.545,
-     "end": 31.78
+     "w": "meilleure.",
+     "start": 30.132,
+     "end": 30.494
     },
     {
-     "w": "ça,",
-     "start": 31.78,
-     "end": 31.998
+     "w": "Elle",
+     "start": 30.544,
+     "end": 30.784
     },
     {
-     "w": "abonne-toi,",
-     "start": 31.998,
-     "end": 32.47
+     "w": "est",
+     "start": 30.784,
+     "end": 30.981
     },
     {
-     "w": "j'en",
-     "start": 32.47,
-     "end": 32.633
+     "w": "calme,",
+     "start": 30.981,
+     "end": 31.375
     },
     {
-     "w": "sors",
-     "start": 32.633,
-     "end": 32.833
+     "w": "elle",
+     "start": 31.375,
+     "end": 31.615
     },
     {
-     "w": "tous",
-     "start": 32.833,
-     "end": 33.033
+     "w": "juge",
+     "start": 31.615,
+     "end": 31.856
     },
     {
-     "w": "les",
-     "start": 33.033,
-     "end": 33.196
-    },
-    {
-     "w": "jours,",
-     "start": 33.196,
-     "end": 33.523
-    },
-    {
-     "w": "que",
-     "start": 33.523,
-     "end": 33.686
-    },
-    {
-     "w": "des",
-     "start": 33.686,
-     "end": 33.849
-    },
-    {
-     "w": "animes",
-     "start": 33.849,
-     "end": 34.122
-    },
-    {
-     "w": "qui",
-     "start": 34.122,
-     "end": 34.285
-    },
-    {
-     "w": "valent",
-     "start": 34.285,
-     "end": 34.557
-    },
-    {
-     "w": "vraiment",
-     "start": 34.557,
-     "end": 34.902
+     "w": "tout",
+     "start": 31.856,
+     "end": 32.096
     },
     {
      "w": "le",
-     "start": 34.902,
-     "end": 35.029
+     "start": 32.096,
+     "end": 32.249
     },
     {
-     "w": "coup.",
-     "start": 35.029,
-     "end": 35.319
+     "w": "monde",
+     "start": 32.249,
+     "end": 32.533
+    },
+    {
+     "w": "en",
+     "start": 32.533,
+     "end": 32.686
+    },
+    {
+     "w": "silence,",
+     "start": 32.686,
+     "end": 33.167
+    },
+    {
+     "w": "et",
+     "start": 33.167,
+     "end": 33.32
+    },
+    {
+     "w": "quand",
+     "start": 33.32,
+     "end": 33.604
+    },
+    {
+     "w": "elle",
+     "start": 33.604,
+     "end": 33.845
+    },
+    {
+     "w": "s'énerve",
+     "start": 33.845,
+     "end": 34.216
+    },
+    {
+     "w": "contre",
+     "start": 34.216,
+     "end": 34.544
+    },
+    {
+     "w": "Frieren,",
+     "start": 34.544,
+     "end": 35.025
+    },
+    {
+     "w": "j'te",
+     "start": 35.025,
+     "end": 35.222
+    },
+    {
+     "w": "jure",
+     "start": 35.222,
+     "end": 35.462
+    },
+    {
+     "w": "c'est",
+     "start": 35.462,
+     "end": 35.703
+    },
+    {
+     "w": "les",
+     "start": 35.703,
+     "end": 35.899
+    },
+    {
+     "w": "meilleurs",
+     "start": 35.899,
+     "end": 36.358
+    },
+    {
+     "w": "moments",
+     "start": 36.358,
+     "end": 36.73
+    },
+    {
+     "w": "de",
+     "start": 36.73,
+     "end": 36.883
+    },
+    {
+     "w": "l'anime.",
+     "start": 36.883,
+     "end": 37.32
     }
    ]
   },
   {
    "index": 7,
-   "start": 35.419,
-   "end": 37.932,
-   "slot_end": 38.032,
-   "text": "Mais attends, crois pas que c'est un truc lent où il se passe rien.",
+   "start": 37.42,
+   "end": 41.152,
+   "slot_end": 41.252,
+   "text": "Et si t'aimes les recos comme ça, abonne-toi, j'en sors tous les jours, que des animes qui valent vraiment le coup.",
    "words": [
     {
-     "w": "Mais",
-     "start": 35.419,
-     "end": 35.599
+     "w": "Et",
+     "start": 37.42,
+     "end": 37.521
     },
     {
-     "w": "attends,",
-     "start": 35.599,
-     "end": 35.958
+     "w": "si",
+     "start": 37.521,
+     "end": 37.622
     },
     {
-     "w": "crois",
-     "start": 35.958,
-     "end": 36.17
+     "w": "t'aimes",
+     "start": 37.622,
+     "end": 37.838
     },
     {
-     "w": "pas",
-     "start": 36.17,
-     "end": 36.317
+     "w": "les",
+     "start": 37.838,
+     "end": 37.968
+    },
+    {
+     "w": "recos",
+     "start": 37.968,
+     "end": 38.155
+    },
+    {
+     "w": "comme",
+     "start": 38.155,
+     "end": 38.342
+    },
+    {
+     "w": "ça,",
+     "start": 38.342,
+     "end": 38.515
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 38.515,
+     "end": 38.89
+    },
+    {
+     "w": "j'en",
+     "start": 38.89,
+     "end": 39.02
+    },
+    {
+     "w": "sors",
+     "start": 39.02,
+     "end": 39.178
+    },
+    {
+     "w": "tous",
+     "start": 39.178,
+     "end": 39.337
+    },
+    {
+     "w": "les",
+     "start": 39.337,
+     "end": 39.466
+    },
+    {
+     "w": "jours,",
+     "start": 39.466,
+     "end": 39.726
     },
     {
      "w": "que",
-     "start": 36.317,
-     "end": 36.464
+     "start": 39.726,
+     "end": 39.855
     },
     {
-     "w": "c'est",
-     "start": 36.464,
-     "end": 36.643
+     "w": "des",
+     "start": 39.855,
+     "end": 39.985
     },
     {
-     "w": "un",
-     "start": 36.643,
-     "end": 36.757
+     "w": "animes",
+     "start": 39.985,
+     "end": 40.201
     },
     {
-     "w": "truc",
-     "start": 36.757,
-     "end": 36.937
+     "w": "qui",
+     "start": 40.201,
+     "end": 40.331
     },
     {
-     "w": "lent",
-     "start": 36.937,
-     "end": 37.116
+     "w": "valent",
+     "start": 40.331,
+     "end": 40.547
     },
     {
-     "w": "où",
-     "start": 37.116,
-     "end": 37.23
+     "w": "vraiment",
+     "start": 40.547,
+     "end": 40.821
     },
     {
-     "w": "il",
-     "start": 37.23,
-     "end": 37.345
+     "w": "le",
+     "start": 40.821,
+     "end": 40.922
     },
     {
-     "w": "se",
-     "start": 37.345,
-     "end": 37.459
-    },
-    {
-     "w": "passe",
-     "start": 37.459,
-     "end": 37.671
-    },
-    {
-     "w": "rien.",
-     "start": 37.671,
-     "end": 37.932
+     "w": "coup.",
+     "start": 40.922,
+     "end": 41.152
     }
    ]
   },
   {
    "index": 8,
-   "start": 38.032,
-   "end": 45.621,
-   "slot_end": 45.721,
-   "text": "Quand elle affronte les démons, c'est chaud. Y'a un combat vers l'épisode 10 qui se termine sur une seule phrase. Tout le monde en a fait des mèmes.",
+   "start": 41.252,
+   "end": 43.453,
+   "slot_end": 43.553,
+   "text": "Mais attends, crois pas que c'est un truc lent où il se passe rien.",
    "words": [
     {
-     "w": "Quand",
-     "start": 38.032,
-     "end": 38.276
+     "w": "Mais",
+     "start": 41.252,
+     "end": 41.409
     },
     {
-     "w": "elle",
-     "start": 38.276,
-     "end": 38.482
+     "w": "attends,",
+     "start": 41.409,
+     "end": 41.724
     },
     {
-     "w": "affronte",
-     "start": 38.482,
-     "end": 38.838
+     "w": "crois",
+     "start": 41.724,
+     "end": 41.91
     },
     {
-     "w": "les",
-     "start": 38.838,
-     "end": 39.007
+     "w": "pas",
+     "start": 41.91,
+     "end": 42.038
     },
     {
-     "w": "démons,",
-     "start": 39.007,
-     "end": 39.382
+     "w": "que",
+     "start": 42.038,
+     "end": 42.167
     },
     {
      "w": "c'est",
-     "start": 39.382,
-     "end": 39.588
-    },
-    {
-     "w": "chaud.",
-     "start": 39.588,
-     "end": 39.925
-    },
-    {
-     "w": "Y'a",
-     "start": 39.975,
-     "end": 40.147
+     "start": 42.167,
+     "end": 42.324
     },
     {
      "w": "un",
-     "start": 40.147,
-     "end": 40.318
+     "start": 42.324,
+     "end": 42.424
     },
     {
-     "w": "combat",
-     "start": 40.318,
-     "end": 40.684
+     "w": "truc",
+     "start": 42.424,
+     "end": 42.581
     },
     {
-     "w": "vers",
-     "start": 40.684,
-     "end": 40.953
+     "w": "lent",
+     "start": 42.581,
+     "end": 42.738
     },
     {
-     "w": "l'épisode",
-     "start": 40.953,
-     "end": 41.417
+     "w": "où",
+     "start": 42.738,
+     "end": 42.838
     },
     {
-     "w": "10",
-     "start": 41.417,
-     "end": 41.588
-    },
-    {
-     "w": "qui",
-     "start": 41.588,
-     "end": 41.808
+     "w": "il",
+     "start": 42.838,
+     "end": 42.938
     },
     {
      "w": "se",
-     "start": 41.808,
-     "end": 41.979
+     "start": 42.938,
+     "end": 43.038
     },
     {
-     "w": "termine",
-     "start": 41.979,
-     "end": 42.395
+     "w": "passe",
+     "start": 43.038,
+     "end": 43.224
     },
     {
-     "w": "sur",
-     "start": 42.395,
-     "end": 42.615
-    },
-    {
-     "w": "une",
-     "start": 42.615,
-     "end": 42.835
-    },
-    {
-     "w": "seule",
-     "start": 42.835,
-     "end": 43.153
-    },
-    {
-     "w": "phrase.",
-     "start": 43.153,
-     "end": 43.641
-    },
-    {
-     "w": "Tout",
-     "start": 43.641,
-     "end": 43.91
-    },
-    {
-     "w": "le",
-     "start": 43.91,
-     "end": 44.081
-    },
-    {
-     "w": "monde",
-     "start": 44.081,
-     "end": 44.399
-    },
-    {
-     "w": "en",
-     "start": 44.399,
-     "end": 44.57
-    },
-    {
-     "w": "a",
-     "start": 44.57,
-     "end": 44.692
-    },
-    {
-     "w": "fait",
-     "start": 44.692,
-     "end": 44.961
-    },
-    {
-     "w": "des",
-     "start": 44.961,
-     "end": 45.181
-    },
-    {
-     "w": "mèmes.",
-     "start": 45.181,
-     "end": 45.621
+     "w": "rien.",
+     "start": 43.224,
+     "end": 43.453
     }
    ]
   },
   {
    "index": 9,
-   "start": 45.721,
-   "end": 50.218,
-   "slot_end": 50.318,
-   "text": "Pour moi c'est le meilleur anime de ces dernières années. Oui, devant les gros shonen. Je l'assume.",
+   "start": 43.553,
+   "end": 49.565,
+   "slot_end": 49.665,
+   "text": "Quand elle affronte les démons, c'est chaud. Y'a un combat vers l'épisode 10 qui se termine sur une seule phrase. Tout le monde en a fait des mèmes.",
    "words": [
     {
-     "w": "Pour",
-     "start": 45.721,
-     "end": 45.941
+     "w": "Quand",
+     "start": 43.553,
+     "end": 43.727
     },
     {
-     "w": "moi",
-     "start": 45.941,
-     "end": 46.121
+     "w": "elle",
+     "start": 43.727,
+     "end": 43.874
     },
     {
-     "w": "c'est",
-     "start": 46.121,
-     "end": 46.341
-    },
-    {
-     "w": "le",
-     "start": 46.341,
-     "end": 46.481
-    },
-    {
-     "w": "meilleur",
-     "start": 46.481,
-     "end": 46.86
-    },
-    {
-     "w": "anime",
-     "start": 46.86,
-     "end": 47.12
-    },
-    {
-     "w": "de",
-     "start": 47.12,
-     "end": 47.26
-    },
-    {
-     "w": "ces",
-     "start": 47.26,
-     "end": 47.44
-    },
-    {
-     "w": "dernières",
-     "start": 47.44,
-     "end": 47.86
-    },
-    {
-     "w": "années.",
-     "start": 47.86,
-     "end": 48.26
-    },
-    {
-     "w": "Oui,",
-     "start": 48.26,
-     "end": 48.539
-    },
-    {
-     "w": "devant",
-     "start": 48.539,
-     "end": 48.839
+     "w": "affronte",
+     "start": 43.874,
+     "end": 44.129
     },
     {
      "w": "les",
-     "start": 48.839,
-     "end": 49.019
+     "start": 44.129,
+     "end": 44.25
     },
     {
-     "w": "gros",
-     "start": 49.019,
-     "end": 49.239
+     "w": "démons,",
+     "start": 44.25,
+     "end": 44.518
     },
     {
-     "w": "shonen.",
-     "start": 49.239,
-     "end": 49.639
+     "w": "c'est",
+     "start": 44.518,
+     "end": 44.665
     },
     {
-     "w": "Je",
-     "start": 49.639,
-     "end": 49.779
+     "w": "chaud.",
+     "start": 44.665,
+     "end": 44.906
     },
     {
-     "w": "l'assume.",
-     "start": 49.779,
-     "end": 50.218
+     "w": "Y'a",
+     "start": 44.956,
+     "end": 45.096
+    },
+    {
+     "w": "un",
+     "start": 45.096,
+     "end": 45.236
+    },
+    {
+     "w": "combat",
+     "start": 45.236,
+     "end": 45.535
+    },
+    {
+     "w": "vers",
+     "start": 45.535,
+     "end": 45.754
+    },
+    {
+     "w": "l'épisode",
+     "start": 45.754,
+     "end": 46.133
+    },
+    {
+     "w": "10",
+     "start": 46.133,
+     "end": 46.273
+    },
+    {
+     "w": "qui",
+     "start": 46.273,
+     "end": 46.453
+    },
+    {
+     "w": "se",
+     "start": 46.453,
+     "end": 46.592
+    },
+    {
+     "w": "termine",
+     "start": 46.592,
+     "end": 46.931
+    },
+    {
+     "w": "sur",
+     "start": 46.931,
+     "end": 47.111
+    },
+    {
+     "w": "une",
+     "start": 47.111,
+     "end": 47.29
+    },
+    {
+     "w": "seule",
+     "start": 47.29,
+     "end": 47.55
+    },
+    {
+     "w": "phrase.",
+     "start": 47.55,
+     "end": 47.949
+    },
+    {
+     "w": "Tout",
+     "start": 47.949,
+     "end": 48.168
+    },
+    {
+     "w": "le",
+     "start": 48.168,
+     "end": 48.308
+    },
+    {
+     "w": "monde",
+     "start": 48.308,
+     "end": 48.567
+    },
+    {
+     "w": "en",
+     "start": 48.567,
+     "end": 48.707
+    },
+    {
+     "w": "a",
+     "start": 48.707,
+     "end": 48.807
+    },
+    {
+     "w": "fait",
+     "start": 48.807,
+     "end": 49.026
+    },
+    {
+     "w": "des",
+     "start": 49.026,
+     "end": 49.206
+    },
+    {
+     "w": "mèmes.",
+     "start": 49.206,
+     "end": 49.565
     }
    ]
   },
   {
    "index": 10,
-   "start": 50.318,
-   "end": 56.767,
-   "slot_end": 56.867,
-   "text": "Et le pire c'est qu'après, tu penses à tes propres potes, à tous ceux que t'as pas appelés depuis longtemps. Frr, prépare les mouchoirs.",
+   "start": 49.665,
+   "end": 53.52,
+   "slot_end": 53.62,
+   "text": "Pour moi c'est le meilleur anime de ces dernières années. Oui, devant les gros shonen. Je l'assume.",
    "words": [
     {
-     "w": "Et",
-     "start": 50.318,
-     "end": 50.465
+     "w": "Pour",
+     "start": 49.665,
+     "end": 49.853
     },
     {
-     "w": "le",
-     "start": 50.465,
-     "end": 50.613
-    },
-    {
-     "w": "pire",
-     "start": 50.613,
-     "end": 50.844
+     "w": "moi",
+     "start": 49.853,
+     "end": 50.007
     },
     {
      "w": "c'est",
-     "start": 50.844,
-     "end": 51.075
+     "start": 50.007,
+     "end": 50.196
     },
     {
-     "w": "qu'après,",
-     "start": 51.075,
-     "end": 51.537
+     "w": "le",
+     "start": 50.196,
+     "end": 50.316
     },
     {
-     "w": "tu",
-     "start": 51.537,
-     "end": 51.684
+     "w": "meilleur",
+     "start": 50.316,
+     "end": 50.642
     },
     {
-     "w": "penses",
-     "start": 51.684,
-     "end": 51.999
+     "w": "anime",
+     "start": 50.642,
+     "end": 50.864
     },
     {
-     "w": "à",
-     "start": 51.999,
-     "end": 52.104
+     "w": "de",
+     "start": 50.864,
+     "end": 50.984
     },
     {
-     "w": "tes",
-     "start": 52.104,
-     "end": 52.293
+     "w": "ces",
+     "start": 50.984,
+     "end": 51.138
     },
     {
-     "w": "propres",
-     "start": 52.293,
-     "end": 52.65
+     "w": "dernières",
+     "start": 51.138,
+     "end": 51.498
     },
     {
-     "w": "potes,",
-     "start": 52.65,
-     "end": 53.028
+     "w": "années.",
+     "start": 51.498,
+     "end": 51.841
     },
     {
-     "w": "à",
-     "start": 53.028,
-     "end": 53.133
+     "w": "Oui,",
+     "start": 51.841,
+     "end": 52.081
     },
     {
-     "w": "tous",
-     "start": 53.133,
-     "end": 53.364
-    },
-    {
-     "w": "ceux",
-     "start": 53.364,
-     "end": 53.595
-    },
-    {
-     "w": "que",
-     "start": 53.595,
-     "end": 53.785
-    },
-    {
-     "w": "t'as",
-     "start": 53.785,
-     "end": 53.974
-    },
-    {
-     "w": "pas",
-     "start": 53.974,
-     "end": 54.163
-    },
-    {
-     "w": "appelés",
-     "start": 54.163,
-     "end": 54.52
-    },
-    {
-     "w": "depuis",
-     "start": 54.52,
-     "end": 54.835
-    },
-    {
-     "w": "longtemps.",
-     "start": 54.835,
-     "end": 55.381
-    },
-    {
-     "w": "Frr,",
-     "start": 55.381,
-     "end": 55.675
-    },
-    {
-     "w": "prépare",
-     "start": 55.675,
-     "end": 56.032
+     "w": "devant",
+     "start": 52.081,
+     "end": 52.338
     },
     {
      "w": "les",
-     "start": 56.032,
-     "end": 56.221
+     "start": 52.338,
+     "end": 52.492
     },
     {
-     "w": "mouchoirs.",
-     "start": 56.221,
-     "end": 56.767
+     "w": "gros",
+     "start": 52.492,
+     "end": 52.681
+    },
+    {
+     "w": "shonen.",
+     "start": 52.681,
+     "end": 53.023
+    },
+    {
+     "w": "Je",
+     "start": 53.023,
+     "end": 53.143
+    },
+    {
+     "w": "l'assume.",
+     "start": 53.143,
+     "end": 53.52
     }
    ]
   },
   {
    "index": 11,
-   "start": 56.867,
-   "end": 60.252,
-   "slot_end": 60.352,
-   "text": "Ça s'appelle Frieren. Dis-moi en com' si tu l'as déjà vu.",
+   "start": 53.62,
+   "end": 59.491,
+   "slot_end": 59.591,
+   "text": "Et le pire c'est qu'après, tu penses à tes propres potes, à tous ceux que t'as pas appelés depuis longtemps. Frr, prépare les mouchoirs.",
    "words": [
     {
-     "w": "Ça",
-     "start": 56.867,
-     "end": 57.057
+     "w": "Et",
+     "start": 53.62,
+     "end": 53.754
     },
     {
-     "w": "s'appelle",
-     "start": 57.057,
-     "end": 57.571
+     "w": "le",
+     "start": 53.754,
+     "end": 53.888
     },
     {
-     "w": "Frieren.",
-     "start": 57.571,
-     "end": 58.167
+     "w": "pire",
+     "start": 53.888,
+     "end": 54.098
     },
     {
-     "w": "Dis-moi",
-     "start": 58.167,
-     "end": 58.573
+     "w": "c'est",
+     "start": 54.098,
+     "end": 54.309
     },
     {
-     "w": "en",
-     "start": 58.573,
-     "end": 58.763
-    },
-    {
-     "w": "com'",
-     "start": 58.763,
-     "end": 59.006
-    },
-    {
-     "w": "si",
-     "start": 59.006,
-     "end": 59.196
+     "w": "qu'après,",
+     "start": 54.309,
+     "end": 54.729
     },
     {
      "w": "tu",
-     "start": 59.196,
-     "end": 59.385
+     "start": 54.729,
+     "end": 54.863
     },
     {
-     "w": "l'as",
-     "start": 59.385,
-     "end": 59.629
+     "w": "penses",
+     "start": 54.863,
+     "end": 55.15
     },
     {
-     "w": "déjà",
-     "start": 59.629,
-     "end": 59.927
+     "w": "à",
+     "start": 55.15,
+     "end": 55.246
     },
     {
-     "w": "vu.",
-     "start": 59.927,
-     "end": 60.252
+     "w": "tes",
+     "start": 55.246,
+     "end": 55.418
+    },
+    {
+     "w": "propres",
+     "start": 55.418,
+     "end": 55.743
+    },
+    {
+     "w": "potes,",
+     "start": 55.743,
+     "end": 56.087
+    },
+    {
+     "w": "à",
+     "start": 56.087,
+     "end": 56.183
+    },
+    {
+     "w": "tous",
+     "start": 56.183,
+     "end": 56.393
+    },
+    {
+     "w": "ceux",
+     "start": 56.393,
+     "end": 56.603
+    },
+    {
+     "w": "que",
+     "start": 56.603,
+     "end": 56.775
+    },
+    {
+     "w": "t'as",
+     "start": 56.775,
+     "end": 56.948
+    },
+    {
+     "w": "pas",
+     "start": 56.948,
+     "end": 57.12
+    },
+    {
+     "w": "appelés",
+     "start": 57.12,
+     "end": 57.445
+    },
+    {
+     "w": "depuis",
+     "start": 57.445,
+     "end": 57.732
+    },
+    {
+     "w": "longtemps.",
+     "start": 57.732,
+     "end": 58.229
+    },
+    {
+     "w": "Frr,",
+     "start": 58.229,
+     "end": 58.496
+    },
+    {
+     "w": "prépare",
+     "start": 58.496,
+     "end": 58.822
+    },
+    {
+     "w": "les",
+     "start": 58.822,
+     "end": 58.994
+    },
+    {
+     "w": "mouchoirs.",
+     "start": 58.994,
+     "end": 59.491
     }
    ]
   },
   {
    "index": 12,
-   "start": 60.352,
-   "end": 63.473,
-   "slot_end": 64.173,
+   "start": 59.591,
+   "end": 69.079,
+   "slot_end": 69.179,
+   "text": "Et franchement, même si t'es pas fan de fantasy, donne-lui trois épisodes. Si t'accroches pas après ça, je te laisse tranquille.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 59.591,
+     "end": 59.835
+    },
+    {
+     "w": "franchement,",
+     "start": 59.835,
+     "end": 60.883
+    },
+    {
+     "w": "même",
+     "start": 60.883,
+     "end": 61.268
+    },
+    {
+     "w": "si",
+     "start": 61.268,
+     "end": 61.512
+    },
+    {
+     "w": "t'es",
+     "start": 61.512,
+     "end": 61.827
+    },
+    {
+     "w": "pas",
+     "start": 61.827,
+     "end": 62.141
+    },
+    {
+     "w": "fan",
+     "start": 62.141,
+     "end": 62.455
+    },
+    {
+     "w": "de",
+     "start": 62.455,
+     "end": 62.7
+    },
+    {
+     "w": "fantasy,",
+     "start": 62.7,
+     "end": 63.468
+    },
+    {
+     "w": "donne-lui",
+     "start": 63.468,
+     "end": 64.132
+    },
+    {
+     "w": "trois",
+     "start": 64.132,
+     "end": 64.586
+    },
+    {
+     "w": "épisodes.",
+     "start": 64.586,
+     "end": 65.425
+    },
+    {
+     "w": "Si",
+     "start": 65.475,
+     "end": 65.683
+    },
+    {
+     "w": "t'accroches",
+     "start": 65.683,
+     "end": 66.368
+    },
+    {
+     "w": "pas",
+     "start": 66.368,
+     "end": 66.637
+    },
+    {
+     "w": "après",
+     "start": 66.637,
+     "end": 67.024
+    },
+    {
+     "w": "ça,",
+     "start": 67.024,
+     "end": 67.381
+    },
+    {
+     "w": "je",
+     "start": 67.381,
+     "end": 67.59
+    },
+    {
+     "w": "te",
+     "start": 67.59,
+     "end": 67.798
+    },
+    {
+     "w": "laisse",
+     "start": 67.798,
+     "end": 68.245
+    },
+    {
+     "w": "tranquille.",
+     "start": 68.245,
+     "end": 69.079
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 69.179,
+   "end": 72.804,
+   "slot_end": 72.904,
+   "text": "Ça s'appelle Frieren. Dis-moi en com' si tu l'as déjà vu.",
+   "words": [
+    {
+     "w": "Ça",
+     "start": 69.179,
+     "end": 69.382
+    },
+    {
+     "w": "s'appelle",
+     "start": 69.382,
+     "end": 69.933
+    },
+    {
+     "w": "Frieren.",
+     "start": 69.933,
+     "end": 70.571
+    },
+    {
+     "w": "Dis-moi",
+     "start": 70.571,
+     "end": 71.006
+    },
+    {
+     "w": "en",
+     "start": 71.006,
+     "end": 71.209
+    },
+    {
+     "w": "com'",
+     "start": 71.209,
+     "end": 71.47
+    },
+    {
+     "w": "si",
+     "start": 71.47,
+     "end": 71.673
+    },
+    {
+     "w": "tu",
+     "start": 71.673,
+     "end": 71.876
+    },
+    {
+     "w": "l'as",
+     "start": 71.876,
+     "end": 72.137
+    },
+    {
+     "w": "déjà",
+     "start": 72.137,
+     "end": 72.456
+    },
+    {
+     "w": "vu.",
+     "start": 72.456,
+     "end": 72.804
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 72.904,
+   "end": 75.184,
+   "slot_end": 75.884,
    "text": "C'était Asura. On se capte au prochain épisode.",
    "words": [
     {
      "w": "C'était",
-     "start": 60.352,
-     "end": 60.785
+     "start": 72.904,
+     "end": 73.221
     },
     {
      "w": "Asura.",
-     "start": 60.785,
-     "end": 61.306
+     "start": 73.221,
+     "end": 73.601
     },
     {
      "w": "On",
-     "start": 61.306,
-     "end": 61.508
+     "start": 73.601,
+     "end": 73.749
     },
     {
      "w": "se",
-     "start": 61.508,
-     "end": 61.71
+     "start": 73.749,
+     "end": 73.896
     },
     {
      "w": "capte",
-     "start": 61.71,
-     "end": 62.086
+     "start": 73.896,
+     "end": 74.171
     },
     {
      "w": "au",
-     "start": 62.086,
-     "end": 62.288
+     "start": 74.171,
+     "end": 74.319
     },
     {
      "w": "prochain",
-     "start": 62.288,
-     "end": 62.837
+     "start": 74.319,
+     "end": 74.72
     },
     {
      "w": "épisode.",
-     "start": 62.837,
-     "end": 63.473
+     "start": 74.72,
+     "end": 75.184
     }
    ]
   }

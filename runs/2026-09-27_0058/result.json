@@ -1,7 +1,7 @@
 {
  "path": "/home/claude/tiktok-factory/runs/2026-09-27_0058/video.mp4",
- "duration": 64.173,
- "shots": 32,
+ "duration": 75.884,
+ "shots": 38,
  "sources": [
   "https://anilist.co/anime/154587",
   "https://kitsu.io/anime/sousou-no-frieren"
@@ -15,162 +15,192 @@
   {
    "character": null,
    "fx": null,
-   "start": 1.6075
+   "start": 2.441
   },
   {
    "character": null,
    "fx": null,
-   "start": 3.215
-  },
-  {
-   "character": null,
-   "fx": null,
-   "start": 4.926666666666667
-  },
-  {
-   "character": null,
-   "fx": null,
-   "start": 6.638333333333334
+   "start": 4.9544999999999995
   },
   {
    "character": "Frieren",
    "fx": null,
-   "start": 8.350000000000001
+   "start": 7.468
   },
   {
    "character": null,
    "fx": null,
-   "start": 10.440000000000001
+   "start": 9.568
   },
   {
    "character": null,
    "fx": null,
-   "start": 12.530000000000001
+   "start": 11.668
   },
   {
    "character": "Himmel",
    "fx": "punch",
-   "start": 14.620000000000001
+   "start": 13.768
   },
   {
    "character": null,
    "fx": null,
-   "start": 16.4605
+   "start": 15.527000000000001
   },
   {
    "character": null,
    "fx": null,
-   "start": 18.301
+   "start": 17.286
   },
   {
    "character": null,
    "fx": null,
-   "start": 20.9615
+   "start": 19.401333333333334
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 21.51666666666667
   },
   {
    "character": "Fern",
    "fx": null,
-   "start": 23.622
+   "start": 23.632
   },
   {
    "character": null,
    "fx": null,
-   "start": 25.954333333333334
+   "start": 25.506666666666668
   },
   {
    "character": null,
    "fx": null,
-   "start": 28.286666666666665
+   "start": 27.381333333333334
+  },
+  {
+   "character": "Fern",
+   "fx": null,
+   "start": 29.256
   },
   {
    "character": null,
    "fx": null,
-   "start": 30.619
-  },
-  {
-   "character": null,
-   "fx": null,
-   "start": 33.019
-  },
-  {
-   "character": null,
-   "fx": null,
-   "start": 35.419
-  },
-  {
-   "character": null,
-   "fx": null,
-   "start": 36.7055
-  },
-  {
-   "character": null,
-   "fx": "punch",
-   "start": 37.992
-  },
-  {
-   "character": null,
-   "fx": null,
-   "start": 39.92425
-  },
-  {
-   "character": null,
-   "fx": null,
-   "start": 41.8565
-  },
-  {
-   "character": null,
-   "fx": null,
-   "start": 43.78874999999999
-  },
-  {
-   "character": null,
-   "fx": null,
-   "start": 45.721
-  },
-  {
-   "character": null,
-   "fx": null,
-   "start": 48.019499999999994
-  },
-  {
-   "character": null,
-   "fx": null,
-   "start": 50.318
-  },
-  {
-   "character": null,
-   "fx": null,
-   "start": 52.72233333333333
-  },
-  {
-   "character": null,
-   "fx": null,
-   "start": 55.126666666666665
+   "start": 31.88
   },
   {
    "character": "Frieren",
    "fx": null,
-   "start": 57.531
+   "start": 34.504
   },
   {
    "character": null,
    "fx": null,
-   "start": 58.921499999999995
+   "start": 35.962
   },
   {
    "character": null,
    "fx": null,
-   "start": 60.312
+   "start": 37.42
   },
   {
    "character": null,
    "fx": null,
-   "start": 62.2425
+   "start": 39.336
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 41.252
+  },
+  {
+   "character": null,
+   "fx": "punch",
+   "start": 43.513
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 45.56366666666666
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 47.614333333333335
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 49.665
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 51.6425
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 53.62
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 55.61033333333333
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 57.60066666666667
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 59.591
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 61.6514
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 63.711800000000004
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 65.7722
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 67.8326
+  },
+  {
+   "character": "Frieren",
+   "fx": null,
+   "start": 69.893
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 71.3785
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 72.86399999999999
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 74.374
   }
  ],
  "voice_engine": "clone",
  "repo_path": "videos/2026/09/2026-09-27_0058.mp4",
  "raw_url": "https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/videos/2026/09/2026-09-27_0058.mp4",
  "lint": [],
- "render_seconds": 635.3
+ "render_seconds": 786.5
 }
