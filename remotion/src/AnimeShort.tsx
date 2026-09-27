@@ -9,6 +9,7 @@ import React from "react";
 import {
   AbsoluteFill,
   Img,
+  OffthreadVideo,
   Sequence,
   continueRender,
   delayRender,
@@ -24,7 +25,9 @@ import { ParticleOverlay, ParticleType } from "./components/ParticleOverlay";
 export type Shot = {
   from: number; // frame de début
   dur: number; // durée en frames
-  src: string; // image composée 1231x2188 dans public/
+  src: string; // image composée 1231x2188 dans public/ (ou vignette si video)
+  video?: string; // extrait vidéo 1080x1920 muet dans public/ (prioritaire sur src)
+  videoStart?: number; // frame de départ dans l'extrait
   motion?: string; // zoom-in | zoom-out | pan-left | pan-right | drift-up | static
   grade?: string; // normal | bw | cinematic | vivid | warm | cold
   trans?: string; // cut | whip | zoom | glitch | flash | slide
@@ -112,7 +115,7 @@ const ShotLayer: React.FC<{ shot: Shot; isFirst: boolean }> = ({ shot, isFirst }
   let tx = 0;
   let ty = 0;
   const m = shot.motion ?? "zoom-in";
-  const amp = 0.07 + rnd(seed) * 0.06;
+  const amp = shot.video ? 0.03 + rnd(seed) * 0.03 : 0.07 + rnd(seed) * 0.06;
   if (m === "zoom-in") scale = 1 + amp * t;
   else if (m === "zoom-out") scale = 1 + amp * (1 - t);
   else if (m === "pan-left") tx = ((W * OVER - W) / 2) * (1 - 2 * t);
@@ -160,10 +163,8 @@ const ShotLayer: React.FC<{ shot: Shot; isFirst: boolean }> = ({ shot, isFirst }
     .filter(Boolean)
     .join(" ") || "none";
 
-  const img = (clip?: string, dx = 0, hue = 0) => (
-    <Img
-      src={staticFile(shot.src)}
-      style={{
+  const img = (clip?: string, dx = 0, hue = 0) => {
+    const style: React.CSSProperties = {
         position: "absolute",
         width: W * OVER,
         height: H * OVER,
@@ -172,9 +173,14 @@ const ShotLayer: React.FC<{ shot: Shot; isFirst: boolean }> = ({ shot, isFirst }
         transform: `translate(${tx + extraX + dx}px, ${ty + extraY}px) scale(${scale * extraScale})`,
         filter: hue ? `${filter === "none" ? "" : filter} hue-rotate(${hue}deg) saturate(2)` : filter,
         clipPath: clip,
-      }}
-    />
-  );
+        objectFit: "cover",
+      };
+    return shot.video ? (
+      <OffthreadVideo src={staticFile(shot.video)} startFrom={shot.videoStart ?? 0} muted style={style} />
+    ) : (
+      <Img src={staticFile(shot.src)} style={style} />
+    );
+  };
 
   // glitch : bandes horizontales décalées + décalage de teinte pendant la transition
   const glitching = trans === "glitch" && frame < OV + 2;
@@ -265,17 +271,19 @@ const Captions: React.FC<{ groups: Group[] }> = ({ groups }) => {
     <div
       style={{
         position: "absolute",
-        top: 1170,
+        top: 1040,
         left: 60,
         right: 60,
         textAlign: "center",
         transform: `scale(${0.82 + 0.18 * pop})`,
         fontFamily: "MontX",
-        fontSize: 78,
+        fontSize: 100,
+        textTransform: "uppercase",
+        letterSpacing: 1,
         lineHeight: 1.12,
         color: "#fff",
-        textShadow: "0 5px 0 rgba(0,0,0,0.9), 0 0 24px rgba(0,0,0,0.85)",
-        WebkitTextStroke: "3px #000",
+        textShadow: "0 6px 18px rgba(0,0,0,0.9)",
+        WebkitTextStroke: "10px #000",
         paintOrder: "stroke fill",
       }}
     >
@@ -289,7 +297,7 @@ const Captions: React.FC<{ groups: Group[] }> = ({ groups }) => {
               display: "inline-block",
               margin: "0 16px",
               transform: `scale(${active ? 1.08 : 1})`,
-              opacity: frame >= w.from - 2 ? 1 : 0.35,
+              opacity: frame >= w.from - 1 ? 1 : 0,
             }}
           >
             {w.w}

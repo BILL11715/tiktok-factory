@@ -150,7 +150,7 @@ def _char_tokens(index: dict) -> list[tuple[str, str, str]]:
         for name in e.get("characters", {}):
             for part in re.split(r"[\s,]+", name):
                 n = _norm(part)
-                if len(n) >= 4:
+                if len(n) >= 3:  # Aoi, Ken, Rin...
                     toks.append((n, anime, name))
                     if n.endswith("ou") and len(n) >= 5:  # Gojou -> Gojo
                         toks.append((n[:-1], anime, name))

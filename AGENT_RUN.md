@@ -18,13 +18,23 @@ Bill n'est pas là pendant le run : ne pose aucune question, décide et continue
 2. **Installation en arrière-plan tout de suite** :
    `cd /home/claude/tiktok-factory && nohup bash setup.sh > /tmp/tf-setup.out 2>&1 &`
    (ça tourne pendant que tu écris le script).
-3. **Contexte** : lis `EDITORIAL.md` et les 30 dernières lignes de `history.jsonl`.
+3. **Contexte** : lis `EDITORIAL.md` et les 30 dernières lignes de `history.jsonl`, puis lance
+   `python3 -m factory.season` : liste des animes EN COURS de diffusion, À VENIR (saison
+   suivante) et ANNONCÉS, avec date de début et popularité (AniList).
    Donne-toi l'heure actuelle (outil current_time) pour savoir le créneau (12h30, 18h30 ou 21h30,
    le prochain à venir). Si `history.jsonl` a déjà une vidéo pour ce jour et ce créneau
    (champ `slot` = "AAAA-MM-JJ 18:30"), prends le créneau suivant (le lendemain 12:30 après 21:30).
    Choisis le format autorisé pour ce créneau en respectant la rotation
    (pas 2 fois le même format dans la journée, pas le même anime sur 48 h, équilibre de la semaine).
    Si `config/weights.json` existe, il ajuste la répartition des formats.
+   **Priorité éditoriale (demande de Bill)** : la majorité des vidéos sont des **recos**, et
+   au moins 3 vidéos sur 4 parlent d'un anime **nouveau** : en cours de diffusion, qui sort
+   dans les semaines qui viennent (nouvelle saison, suite attendue) ou tout juste annoncé.
+   Angle "ça sort bientôt" : date de sortie, ce qu'il faut savoir avant, pourquoi le regarder.
+   Choisis dans la liste de `factory.season` (priorité aux plus populaires et aux sorties
+   des 3 prochaines semaines). Un vieil anime déjà connu de tous : 1 vidéo sur 4 maximum.
+   Mets dans `animes` le titre exact de la liste (champ title), c'est ce qui permet de
+   trouver les extraits vidéo de la bonne saison.
 4. **Script** : écris `runs/<AAAA-MM-DD_HHMM>/script.json` (heure de Paris) au format ci-dessous.
    Relis-le à voix haute mentalement avec les règles anti-IA de EDITORIAL.md et corrige.
 5. **Rendu** : attends la fin du setup (`grep -q "\[setup\] OK" /tmp/tf-setup.out`, vérifier

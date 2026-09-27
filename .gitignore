@@ -13,3 +13,6 @@ runs/*/video_v3.mp4
 .cache/
 runs/*_om_test/
 runs/*_hybrid_test/
+runs/*/clips/
+runs/*/clips_src/
+runs/*_v4test/

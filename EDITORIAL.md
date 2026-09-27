@@ -13,10 +13,13 @@ Version complète et à jour : page Notion "Ligne éditoriale @the.asura8"
 | Créneau | Formats possibles |
 |---|---|
 | 12h30 | reco, anecdote |
-| 18h30 | theorie, top (priorité à l'actu si gros chapitre/épisode récent) |
-| 21h30 | citation, top, theorie |
+| 18h30 | reco, theorie, top (priorité à l'actu si gros chapitre/épisode récent) |
+| 21h30 | reco, top, theorie, citation |
 - Jamais deux fois le même format le même jour. Jamais le même anime deux fois en 48 h.
-- Semaine cible : ~6 recos, 5 théories, 5 tops, 5 anecdotes/citations.
+- Semaine cible : ~10 recos, 4 théories, 4 tops, 3 anecdotes/citations. Au moins 1 reco par jour, 2 si possible.
+- **Nouveautés d'abord** : 3 vidéos sur 4 portent sur un anime en cours de diffusion, qui sort bientôt
+  (nouvelle saison, suite) ou tout juste annoncé (`python3 -m factory.season`). Les classiques déjà vus
+  par tout le monde : 1 vidéo sur 4 maximum.
 
 ## Formats (champ "format" du script)
 | format | durée voix | tone | music | structure |

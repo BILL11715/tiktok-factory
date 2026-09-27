@@ -14,7 +14,7 @@ import sys
 import time
 from pathlib import Path
 
-from . import assets, motion, render, voice
+from . import align, assets, clips, motion, render, voice
 
 ROOT = Path(__file__).resolve().parent.parent
 SIGNATURE = "C'était Asura. On se capte au prochain épisode."
@@ -65,9 +65,15 @@ def main(script_path: str) -> dict:
             script["reveal_segments"] = int(script.get("reveal_segments", 1)) + 1
     print(f"[1/4] visuels pour {script['animes']}")
     index = assets.collect(script["animes"], work)
+    try:  # extraits vidéo (openings officiels, sakuga) ; sans eux, images fixes
+        clips.collect(script["animes"], work, index)
+    except Exception as exc:
+        print(f"[clips] échec ({exc}), montage en images fixes")
     print(f"[2/4] voix ({voice.engine()})")
     v = voice.synthesize(script["segments"], work, script.get("tone", "pote"))
     print(f"      durée {v['duration']:.1f}s")
+    v = align.align(v)  # vrais temps de chaque mot (synchro image/son)
+    (work / "voice.json").write_text(json.dumps(v, ensure_ascii=False, indent=1))
     print("[3/4] montage")
     # le montage tourne dans un processus neuf : la mémoire du modèle de voix est rendue au système
     import subprocess as _sp
