@@ -1,7 +1,7 @@
 {
  "path": "/home/claude/tiktok-factory/runs/2026-09-27_0127/video.mp4",
- "duration": 78.897,
- "shots": 40,
+ "duration": 72.309,
+ "shots": 37,
  "sources": [
   "https://anilist.co/anime/101922",
   "https://anilist.co/anime/113415",
@@ -23,202 +23,187 @@
   {
    "character": null,
    "fx": null,
-   "start": 1.9785
+   "start": 1.7805
   },
   {
    "character": "Satoru Gojo",
    "fx": null,
-   "start": 3.957
+   "start": 3.561
   },
   {
    "character": null,
    "fx": null,
-   "start": 6.144333333333334
+   "start": 5.785
   },
   {
    "character": null,
    "fx": null,
-   "start": 8.331666666666667
+   "start": 8.009
   },
   {
    "character": null,
    "fx": null,
-   "start": 10.519
+   "start": 10.233
   },
   {
    "character": "Kisuke Urahara",
    "fx": null,
-   "start": 13.142000000000001
+   "start": 12.712000000000002
+  },
+  {
+   "character": "Kisuke Urahara",
+   "fx": null,
+   "start": 13.514000000000001
   },
   {
    "character": null,
    "fx": null,
-   "start": 14.5765
+   "start": 15.069500000000001
   },
   {
    "character": "Ichigo Kurosaki",
    "fx": null,
-   "start": 16.011
+   "start": 16.625
   },
   {
    "character": null,
    "fx": null,
-   "start": 17.915333333333333
-  },
-  {
-   "character": null,
-   "fx": null,
-   "start": 19.819666666666667
+   "start": 19.415
   },
   {
    "character": "Kyoujurou Rengoku",
    "fx": "punch",
-   "start": 21.724
+   "start": 22.205000000000002
   },
   {
    "character": null,
    "fx": null,
-   "start": 24.51
+   "start": 24.556
   },
   {
    "character": null,
    "fx": null,
-   "start": 27.296
+   "start": 26.907
   },
   {
    "character": "Tanjirou Kamado",
    "fx": null,
-   "start": 30.082
+   "start": 29.258
   },
   {
    "character": "Tanjirou Kamado",
    "fx": null,
-   "start": 31.537000000000003
+   "start": 30.815
   },
   {
    "character": null,
    "fx": null,
-   "start": 33.845
+   "start": 33.275
   },
   {
    "character": null,
    "fx": null,
-   "start": 35.519
+   "start": 34.986666666666665
   },
   {
    "character": null,
    "fx": null,
-   "start": 37.193
+   "start": 36.69833333333334
   },
   {
    "character": "Jiraiya",
    "fx": null,
-   "start": 38.867
-  },
-  {
-   "character": "Jiraiya",
-   "fx": null,
-   "start": 39.67
+   "start": 38.410000000000004
   },
   {
    "character": null,
    "fx": null,
-   "start": 41.769999999999996
+   "start": 40.358000000000004
   },
   {
    "character": "Naruto Uzumaki",
    "fx": null,
-   "start": 43.87
+   "start": 42.306
   },
   {
    "character": "Pain",
    "fx": null,
-   "start": 45.818
+   "start": 44.126
   },
   {
    "character": null,
    "fx": null,
-   "start": 48.025999999999996
+   "start": 46.156666666666666
   },
   {
    "character": null,
    "fx": null,
-   "start": 50.234
+   "start": 48.187333333333335
   },
   {
    "character": null,
    "fx": null,
-   "start": 52.442
-  },
-  {
-   "character": null,
-   "fx": null,
-   "start": 53.965
+   "start": 50.218
   },
   {
    "character": "All Might",
    "fx": "punch",
-   "start": 55.488
+   "start": 51.924
   },
   {
    "character": null,
    "fx": null,
-   "start": 57.70033333333333
+   "start": 54.03966666666667
   },
   {
    "character": null,
    "fx": null,
-   "start": 59.91266666666667
+   "start": 56.15533333333333
   },
   {
    "character": "Katsuki Bakugou",
    "fx": null,
-   "start": 62.125
+   "start": 58.271
   },
   {
    "character": "Izuku Midoriya",
    "fx": null,
-   "start": 63.765
+   "start": 59.651
   },
   {
    "character": null,
    "fx": null,
-   "start": 65.68299999999999
+   "start": 61.464333333333336
   },
   {
    "character": null,
    "fx": null,
-   "start": 67.601
+   "start": 63.27766666666666
   },
   {
    "character": null,
    "fx": null,
-   "start": 69.519
+   "start": 65.091
   },
   {
    "character": null,
    "fx": null,
-   "start": 71.437
+   "start": 67.19
   },
   {
    "character": null,
    "fx": null,
-   "start": 73.23599999999999
+   "start": 69.28899999999999
   },
   {
    "character": null,
    "fx": null,
-   "start": 75.035
-  },
-  {
-   "character": null,
-   "fx": null,
-   "start": 76.96600000000001
+   "start": 70.79899999999999
   }
  ],
  "voice_engine": "clone",
  "repo_path": "videos/2026/09/2026-09-27_0127.mp4",
  "raw_url": "https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/videos/2026/09/2026-09-27_0127.mp4",
  "lint": [],
- "render_seconds": 1289.5
+ "render_seconds": 829.8
 }

@@ -27,7 +27,7 @@ Version complète et à jour : page Notion "Ligne éditoriale @the.asura8"
 | anecdote | 60-70 s | pote | pote ou mystere | hook = le fait surprenant direct ; contexte, détail, conséquence ; "tu savais ?". Faits vérifiables uniquement |
 | citation | 40-60 s | pose | triste | contexte en 1 ligne ; réplique lente ; 2-3 phrases de Bill ; peu de texte |
 
-Repère : la voix est accélérée (environ 22 caractères par seconde). Pour 65-70 s, visez environ 1 350 à 1 500 caractères de texte au total (250-280 mots).
+Repère : la voix parle vite (environ 24 caractères par seconde). Pour 65-70 s, visez 1 500 à 1 650 caractères de texte au total (280-300 mots).
 
 ## Hooks (les 2 premières secondes décident de tout)
 - Moins de 15 mots, dit ET écrit (hook_text), c'est aussi le texte du segment 1. Pas de "salut", pas d'intro.

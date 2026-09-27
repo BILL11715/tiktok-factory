@@ -90,7 +90,7 @@ Règles (le pipeline refuse le script si les points marqués ⛔ manquent) :
 - ⛔ Appel à l'abonnement : UN segment avec `"cta": true` placé entre 35 % et 60 % de la vidéo,
   qui dit naturellement "abonne-toi" avec une raison ("j'en sors tous les jours", "la partie 2
   arrive"). Un bouton ABONNE-TOI animé s'affiche automatiquement.
-- ⛔ Au moins 1 250 caractères de texte, idéalement 1 350 à 1 500 (> 60 s), sauf citation.
+- ⛔ Au moins 1 400 caractères de texte, idéalement 1 500 à 1 650 (> 60 s), sauf citation.
 - **Synchro image/texte** : dès qu'un personnage est cité, écris son nom tel qu'il est connu
   (Gojo, Sukuna, Megumi, Luffy, Zoro, Frieren, Himmel...). Le pipeline détecte le nom et affiche
   sa fiche au moment exact où il est prononcé. Pour forcer une image, ajoute un shot avec

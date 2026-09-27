@@ -1,1541 +1,1541 @@
 {
  "engine": "clone",
  "path": "/home/claude/tiktok-factory/runs/2026-09-27_0127/voice.wav",
- "duration": 78.897,
+ "duration": 72.309,
  "timeline": [
   {
    "index": 0,
    "start": 0.0,
-   "end": 3.897,
-   "slot_end": 3.997,
+   "end": 3.501,
+   "slot_end": 3.601,
    "text": "Les cinq meilleurs profs de l'anime. Et ton préféré, il est sûrement pas numéro un.",
    "words": [
     {
      "w": "Les",
      "start": 0.0,
-     "end": 0.185
+     "end": 0.166
     },
     {
      "w": "cinq",
-     "start": 0.185,
-     "end": 0.41
+     "start": 0.166,
+     "end": 0.368
     },
     {
      "w": "meilleurs",
-     "start": 0.41,
-     "end": 0.841
+     "start": 0.368,
+     "end": 0.755
     },
     {
      "w": "profs",
-     "start": 0.841,
-     "end": 1.107
+     "start": 0.755,
+     "end": 0.995
     },
     {
      "w": "de",
-     "start": 1.107,
-     "end": 1.251
+     "start": 0.995,
+     "end": 1.124
     },
     {
      "w": "l'anime.",
-     "start": 1.251,
-     "end": 1.661
+     "start": 1.124,
+     "end": 1.492
     },
     {
      "w": "Et",
-     "start": 1.661,
-     "end": 1.805
+     "start": 1.492,
+     "end": 1.621
     },
     {
      "w": "ton",
-     "start": 1.805,
-     "end": 1.989
+     "start": 1.621,
+     "end": 1.787
     },
     {
      "w": "préféré,",
-     "start": 1.989,
-     "end": 2.441
+     "start": 1.787,
+     "end": 2.193
     },
     {
      "w": "il",
-     "start": 2.441,
-     "end": 2.584
+     "start": 2.193,
+     "end": 2.321
     },
     {
      "w": "est",
-     "start": 2.584,
-     "end": 2.769
+     "start": 2.321,
+     "end": 2.487
     },
     {
      "w": "sûrement",
-     "start": 2.769,
-     "end": 3.158
+     "start": 2.487,
+     "end": 2.837
     },
     {
      "w": "pas",
-     "start": 3.158,
-     "end": 3.343
+     "start": 2.837,
+     "end": 3.003
     },
     {
      "w": "numéro",
-     "start": 3.343,
-     "end": 3.651
+     "start": 3.003,
+     "end": 3.28
     },
     {
      "w": "un.",
-     "start": 3.651,
-     "end": 3.897
+     "start": 3.28,
+     "end": 3.501
     }
    ]
   },
   {
    "index": 1,
-   "start": 3.997,
-   "end": 10.459,
-   "slot_end": 10.559,
+   "start": 3.601,
+   "end": 10.173,
+   "slot_end": 10.273,
    "text": "Numéro 5, Gojo. Le prof le plus fort du monde, et le plus relou aussi. Bandeau sur les yeux, toujours en train de manger des sucreries.",
    "words": [
     {
      "w": "Numéro",
-     "start": 3.997,
-     "end": 4.352
+     "start": 3.601,
+     "end": 3.954
     },
     {
      "w": "5,",
-     "start": 4.352,
-     "end": 4.589
+     "start": 3.954,
+     "end": 4.19
     },
     {
      "w": "Gojo.",
-     "start": 4.589,
-     "end": 4.969
+     "start": 4.19,
+     "end": 4.568
     },
     {
      "w": "Le",
-     "start": 4.969,
-     "end": 5.135
+     "start": 4.568,
+     "end": 4.733
     },
     {
      "w": "prof",
-     "start": 5.135,
-     "end": 5.395
+     "start": 4.733,
+     "end": 4.992
     },
     {
      "w": "le",
-     "start": 5.395,
-     "end": 5.561
+     "start": 4.992,
+     "end": 5.157
     },
     {
      "w": "plus",
-     "start": 5.561,
-     "end": 5.822
+     "start": 5.157,
+     "end": 5.417
     },
     {
      "w": "fort",
-     "start": 5.822,
-     "end": 6.083
+     "start": 5.417,
+     "end": 5.676
     },
     {
      "w": "du",
-     "start": 6.083,
-     "end": 6.249
+     "start": 5.676,
+     "end": 5.842
     },
     {
      "w": "monde,",
-     "start": 6.249,
-     "end": 6.675
+     "start": 5.842,
+     "end": 6.266
     },
     {
      "w": "et",
-     "start": 6.675,
-     "end": 6.841
+     "start": 6.266,
+     "end": 6.431
     },
     {
      "w": "le",
-     "start": 6.841,
-     "end": 7.007
+     "start": 6.431,
+     "end": 6.596
     },
     {
      "w": "plus",
-     "start": 7.007,
-     "end": 7.268
+     "start": 6.596,
+     "end": 6.856
     },
     {
      "w": "relou",
-     "start": 7.268,
-     "end": 7.576
+     "start": 6.856,
+     "end": 7.163
     },
     {
      "w": "aussi.",
-     "start": 7.576,
-     "end": 8.003
+     "start": 7.163,
+     "end": 7.587
     },
     {
      "w": "Bandeau",
-     "start": 8.053,
-     "end": 8.331
+     "start": 7.637,
+     "end": 7.93
     },
     {
      "w": "sur",
-     "start": 8.331,
-     "end": 8.479
+     "start": 7.93,
+     "end": 8.086
     },
     {
      "w": "les",
-     "start": 8.479,
-     "end": 8.626
+     "start": 8.086,
+     "end": 8.241
     },
     {
      "w": "yeux,",
-     "start": 8.626,
-     "end": 8.888
+     "start": 8.241,
+     "end": 8.517
     },
     {
      "w": "toujours",
-     "start": 8.888,
-     "end": 9.199
+     "start": 8.517,
+     "end": 8.845
     },
     {
      "w": "en",
-     "start": 9.199,
-     "end": 9.313
+     "start": 8.845,
+     "end": 8.965
     },
     {
      "w": "train",
-     "start": 9.313,
-     "end": 9.526
+     "start": 8.965,
+     "end": 9.19
     },
     {
      "w": "de",
-     "start": 9.526,
-     "end": 9.64
+     "start": 9.19,
+     "end": 9.31
     },
     {
      "w": "manger",
-     "start": 9.64,
-     "end": 9.886
+     "start": 9.31,
+     "end": 9.569
     },
     {
      "w": "des",
-     "start": 9.886,
-     "end": 10.033
+     "start": 9.569,
+     "end": 9.724
     },
     {
      "w": "sucreries.",
-     "start": 10.033,
-     "end": 10.459
+     "start": 9.724,
+     "end": 10.173
     }
    ]
   },
   {
    "index": 2,
-   "start": 10.559,
-   "end": 13.082,
-   "slot_end": 13.182,
+   "start": 10.273,
+   "end": 12.652,
+   "slot_end": 12.752,
    "text": "Mais quand on touche à ses élèves, y'a plus personne qui rigole.",
    "words": [
     {
      "w": "Mais",
-     "start": 10.559,
-     "end": 10.749
+     "start": 10.273,
+     "end": 10.452
     },
     {
      "w": "quand",
-     "start": 10.749,
-     "end": 10.973
+     "start": 10.452,
+     "end": 10.664
     },
     {
      "w": "on",
-     "start": 10.973,
-     "end": 11.094
+     "start": 10.664,
+     "end": 10.778
     },
     {
      "w": "touche",
-     "start": 11.094,
-     "end": 11.354
+     "start": 10.778,
+     "end": 11.022
     },
     {
      "w": "à",
-     "start": 11.354,
-     "end": 11.44
+     "start": 11.022,
+     "end": 11.104
     },
     {
      "w": "ses",
-     "start": 11.44,
-     "end": 11.595
+     "start": 11.104,
+     "end": 11.25
     },
     {
      "w": "élèves,",
-     "start": 11.595,
-     "end": 11.941
+     "start": 11.25,
+     "end": 11.576
     },
     {
      "w": "y'a",
-     "start": 11.941,
-     "end": 12.062
+     "start": 11.576,
+     "end": 11.69
     },
     {
      "w": "plus",
-     "start": 12.062,
-     "end": 12.252
+     "start": 11.69,
+     "end": 11.87
     },
     {
      "w": "personne",
-     "start": 12.252,
-     "end": 12.58
+     "start": 11.87,
+     "end": 12.179
     },
     {
      "w": "qui",
-     "start": 12.58,
-     "end": 12.736
+     "start": 12.179,
+     "end": 12.326
     },
     {
      "w": "rigole.",
-     "start": 12.736,
-     "end": 13.082
+     "start": 12.326,
+     "end": 12.652
     }
    ]
   },
   {
    "index": 3,
-   "start": 13.182,
-   "end": 21.664,
-   "slot_end": 21.764,
+   "start": 12.752,
+   "end": 22.145,
+   "slot_end": 22.245,
    "text": "Numéro 4, Urahara dans Bleach. Sa méthode ? Il balance Ichigo au fond d'un trou et genre, retrouve tes pouvoirs avant de devenir un Hollow. Pédagogie zéro, résultat parfait.",
    "words": [
     {
      "w": "Numéro",
-     "start": 13.182,
-     "end": 13.512
+     "start": 12.752,
+     "end": 13.233
     },
     {
      "w": "4,",
-     "start": 13.512,
-     "end": 13.733
+     "start": 13.233,
+     "end": 13.554
     },
     {
      "w": "Urahara",
-     "start": 13.733,
-     "end": 14.108
+     "start": 13.554,
+     "end": 14.1
     },
     {
      "w": "dans",
-     "start": 14.108,
-     "end": 14.35
+     "start": 14.1,
+     "end": 14.453
     },
     {
      "w": "Bleach.",
-     "start": 14.35,
-     "end": 14.791
+     "start": 14.453,
+     "end": 15.095
     },
     {
      "w": "Sa",
-     "start": 14.791,
-     "end": 14.945
-    },
-    {
-     "w": "méthode",
-     "start": 14.945,
+     "start": 15.095,
      "end": 15.32
     },
     {
-     "w": "?",
+     "w": "méthode",
      "start": 15.32,
-     "end": 15.497
+     "end": 15.866
+    },
+    {
+     "w": "?",
+     "start": 15.866,
+     "end": 16.123
     },
     {
      "w": "Il",
-     "start": 15.547,
-     "end": 15.694
+     "start": 16.173,
+     "end": 16.316
     },
     {
      "w": "balance",
-     "start": 15.694,
-     "end": 16.051
+     "start": 16.316,
+     "end": 16.665
     },
     {
      "w": "Ichigo",
-     "start": 16.051,
-     "end": 16.367
+     "start": 16.665,
+     "end": 16.973
     },
     {
      "w": "au",
-     "start": 16.367,
-     "end": 16.514
+     "start": 16.973,
+     "end": 17.117
     },
     {
      "w": "fond",
-     "start": 16.514,
-     "end": 16.745
+     "start": 17.117,
+     "end": 17.343
     },
     {
      "w": "d'un",
-     "start": 16.745,
-     "end": 16.934
+     "start": 17.343,
+     "end": 17.527
     },
     {
      "w": "trou",
-     "start": 16.934,
-     "end": 17.165
+     "start": 17.527,
+     "end": 17.753
     },
     {
      "w": "et",
-     "start": 17.165,
-     "end": 17.313
+     "start": 17.753,
+     "end": 17.897
     },
     {
      "w": "genre,",
-     "start": 17.313,
-     "end": 17.691
+     "start": 17.897,
+     "end": 18.266
     },
     {
      "w": "retrouve",
-     "start": 17.691,
-     "end": 18.09
+     "start": 18.266,
+     "end": 18.656
     },
     {
      "w": "tes",
-     "start": 18.09,
-     "end": 18.28
+     "start": 18.656,
+     "end": 18.841
     },
     {
      "w": "pouvoirs",
-     "start": 18.28,
-     "end": 18.679
+     "start": 18.841,
+     "end": 19.231
     },
     {
      "w": "avant",
-     "start": 18.679,
-     "end": 18.952
+     "start": 19.231,
+     "end": 19.497
     },
     {
      "w": "de",
-     "start": 18.952,
-     "end": 19.099
+     "start": 19.497,
+     "end": 19.641
     },
     {
      "w": "devenir",
-     "start": 19.099,
-     "end": 19.457
+     "start": 19.641,
+     "end": 19.99
     },
     {
      "w": "un",
-     "start": 19.457,
-     "end": 19.604
+     "start": 19.99,
+     "end": 20.134
     },
     {
      "w": "Hollow.",
-     "start": 19.604,
-     "end": 20.024
+     "start": 20.134,
+     "end": 20.544
     },
     {
      "w": "Pédagogie",
-     "start": 20.024,
-     "end": 20.466
+     "start": 20.544,
+     "end": 20.975
     },
     {
      "w": "zéro,",
-     "start": 20.466,
-     "end": 20.802
+     "start": 20.975,
+     "end": 21.303
     },
     {
      "w": "résultat",
-     "start": 20.802,
-     "end": 21.202
+     "start": 21.303,
+     "end": 21.693
     },
     {
      "w": "parfait.",
-     "start": 21.202,
-     "end": 21.664
+     "start": 21.693,
+     "end": 22.145
     }
    ]
   },
   {
    "index": 4,
-   "start": 21.764,
-   "end": 30.022,
-   "slot_end": 30.122,
+   "start": 22.245,
+   "end": 29.198,
+   "slot_end": 29.298,
    "text": "Numéro 3, Rengoku. Il a même pas eu le temps d'être vraiment leur prof. Un seul arc, le train de l'infini, et il tient face à Akaza jusqu'au lever du soleil.",
    "words": [
     {
      "w": "Numéro",
-     "start": 21.764,
-     "end": 22.139
+     "start": 22.245,
+     "end": 22.538
     },
     {
      "w": "3,",
-     "start": 22.139,
-     "end": 22.389
+     "start": 22.538,
+     "end": 22.733
     },
     {
      "w": "Rengoku.",
-     "start": 22.389,
-     "end": 22.938
+     "start": 22.733,
+     "end": 23.163
     },
     {
      "w": "Il",
-     "start": 22.938,
-     "end": 23.113
+     "start": 23.163,
+     "end": 23.3
     },
     {
      "w": "a",
-     "start": 23.113,
-     "end": 23.238
+     "start": 23.3,
+     "end": 23.397
     },
     {
      "w": "même",
-     "start": 23.238,
-     "end": 23.513
+     "start": 23.397,
+     "end": 23.612
     },
     {
      "w": "pas",
-     "start": 23.513,
-     "end": 23.738
+     "start": 23.612,
+     "end": 23.788
     },
     {
      "w": "eu",
-     "start": 23.738,
-     "end": 23.913
+     "start": 23.788,
+     "end": 23.925
     },
     {
      "w": "le",
-     "start": 23.913,
-     "end": 24.088
+     "start": 23.925,
+     "end": 24.062
     },
     {
      "w": "temps",
-     "start": 24.088,
-     "end": 24.413
+     "start": 24.062,
+     "end": 24.316
     },
     {
      "w": "d'être",
-     "start": 24.413,
-     "end": 24.737
+     "start": 24.316,
+     "end": 24.57
     },
     {
      "w": "vraiment",
-     "start": 24.737,
-     "end": 25.212
+     "start": 24.57,
+     "end": 24.941
     },
     {
      "w": "leur",
-     "start": 25.212,
-     "end": 25.487
+     "start": 24.941,
+     "end": 25.156
     },
     {
      "w": "prof.",
-     "start": 25.487,
-     "end": 25.887
+     "start": 25.156,
+     "end": 25.468
     },
     {
      "w": "Un",
-     "start": 25.937,
-     "end": 26.084
+     "start": 25.518,
+     "end": 25.651
     },
     {
      "w": "seul",
-     "start": 26.084,
-     "end": 26.316
+     "start": 25.651,
+     "end": 25.86
     },
     {
      "w": "arc,",
-     "start": 26.316,
-     "end": 26.611
+     "start": 25.86,
+     "end": 26.125
     },
     {
      "w": "le",
-     "start": 26.611,
-     "end": 26.758
+     "start": 26.125,
+     "end": 26.258
     },
     {
      "w": "train",
-     "start": 26.758,
-     "end": 27.032
+     "start": 26.258,
+     "end": 26.505
     },
     {
      "w": "de",
-     "start": 27.032,
-     "end": 27.179
+     "start": 26.505,
+     "end": 26.637
     },
     {
      "w": "l'infini,",
-     "start": 27.179,
-     "end": 27.642
+     "start": 26.637,
+     "end": 27.055
     },
     {
      "w": "et",
-     "start": 27.642,
-     "end": 27.79
+     "start": 27.055,
+     "end": 27.188
     },
     {
      "w": "il",
-     "start": 27.79,
-     "end": 27.937
+     "start": 27.188,
+     "end": 27.32
     },
     {
      "w": "tient",
-     "start": 27.937,
-     "end": 28.211
+     "start": 27.32,
+     "end": 27.567
     },
     {
      "w": "face",
-     "start": 28.211,
-     "end": 28.442
+     "start": 27.567,
+     "end": 27.776
     },
     {
      "w": "à",
-     "start": 28.442,
-     "end": 28.548
+     "start": 27.776,
+     "end": 27.87
     },
     {
      "w": "Akaza",
-     "start": 28.548,
-     "end": 28.821
+     "start": 27.87,
+     "end": 28.117
     },
     {
      "w": "jusqu'au",
-     "start": 28.821,
-     "end": 29.179
+     "start": 28.117,
+     "end": 28.44
     },
     {
      "w": "lever",
-     "start": 29.179,
-     "end": 29.453
+     "start": 28.44,
+     "end": 28.686
     },
     {
      "w": "du",
-     "start": 29.453,
-     "end": 29.6
+     "start": 28.686,
+     "end": 28.819
     },
     {
      "w": "soleil.",
-     "start": 29.6,
-     "end": 30.022
+     "start": 28.819,
+     "end": 29.198
     }
    ]
   },
   {
    "index": 5,
-   "start": 30.122,
-   "end": 33.745,
-   "slot_end": 33.845,
+   "start": 29.298,
+   "end": 33.175,
+   "slot_end": 33.275,
    "text": "Et ses derniers mots à Tanjiro. Frr, j'étais pas prêt.",
    "words": [
     {
      "w": "Et",
-     "start": 30.122,
-     "end": 30.321
+     "start": 29.298,
+     "end": 29.512
     },
     {
      "w": "ses",
-     "start": 30.321,
-     "end": 30.578
+     "start": 29.512,
+     "end": 29.787
     },
     {
      "w": "derniers",
-     "start": 30.578,
-     "end": 31.12
+     "start": 29.787,
+     "end": 30.367
     },
     {
      "w": "mots",
-     "start": 31.12,
-     "end": 31.434
+     "start": 30.367,
+     "end": 30.703
     },
     {
      "w": "à",
-     "start": 31.434,
-     "end": 31.577
+     "start": 30.703,
+     "end": 30.855
     },
     {
      "w": "Tanjiro.",
-     "start": 31.577,
-     "end": 32.204
+     "start": 30.855,
+     "end": 31.527
     },
     {
      "w": "Frr,",
-     "start": 32.204,
-     "end": 32.604
+     "start": 31.527,
+     "end": 31.954
     },
     {
      "w": "j'étais",
-     "start": 32.604,
-     "end": 33.032
+     "start": 31.954,
+     "end": 32.412
     },
     {
      "w": "pas",
-     "start": 33.032,
-     "end": 33.289
+     "start": 32.412,
+     "end": 32.687
     },
     {
      "w": "prêt.",
-     "start": 33.289,
-     "end": 33.745
+     "start": 32.687,
+     "end": 33.175
     }
    ]
   },
   {
    "index": 6,
-   "start": 33.845,
-   "end": 38.807,
-   "slot_end": 38.907,
+   "start": 33.275,
+   "end": 38.35,
+   "slot_end": 38.45,
    "text": "Si toi aussi t'as grandi avec ces profs-là, abonne-toi, j'en sors tous les jours sur les animes que t'aimes.",
    "words": [
     {
      "w": "Si",
-     "start": 33.845,
-     "end": 33.992
+     "start": 33.275,
+     "end": 33.426
     },
     {
      "w": "toi",
-     "start": 33.992,
-     "end": 34.182
+     "start": 33.426,
+     "end": 33.619
     },
     {
      "w": "aussi",
-     "start": 34.182,
-     "end": 34.455
+     "start": 33.619,
+     "end": 33.899
     },
     {
      "w": "t'as",
-     "start": 34.455,
-     "end": 34.644
+     "start": 33.899,
+     "end": 34.092
     },
     {
      "w": "grandi",
-     "start": 34.644,
-     "end": 34.96
+     "start": 34.092,
+     "end": 34.415
     },
     {
      "w": "avec",
-     "start": 34.96,
-     "end": 35.191
+     "start": 34.415,
+     "end": 34.651
     },
     {
      "w": "ces",
-     "start": 35.191,
-     "end": 35.38
+     "start": 34.651,
+     "end": 34.845
     },
     {
      "w": "profs-là,",
-     "start": 35.38,
-     "end": 35.843
+     "start": 34.845,
+     "end": 35.318
     },
     {
      "w": "abonne-toi,",
-     "start": 35.843,
-     "end": 36.389
+     "start": 35.318,
+     "end": 35.877
     },
     {
      "w": "j'en",
-     "start": 36.389,
-     "end": 36.579
+     "start": 35.877,
+     "end": 36.071
     },
     {
      "w": "sors",
-     "start": 36.579,
-     "end": 36.81
+     "start": 36.071,
+     "end": 36.307
     },
     {
      "w": "tous",
-     "start": 36.81,
-     "end": 37.041
+     "start": 36.307,
+     "end": 36.544
     },
     {
      "w": "les",
-     "start": 37.041,
-     "end": 37.23
+     "start": 36.544,
+     "end": 36.737
     },
     {
      "w": "jours",
-     "start": 37.23,
-     "end": 37.504
+     "start": 36.737,
+     "end": 37.017
     },
     {
      "w": "sur",
-     "start": 37.504,
-     "end": 37.693
+     "start": 37.017,
+     "end": 37.21
     },
     {
      "w": "les",
-     "start": 37.693,
-     "end": 37.882
+     "start": 37.21,
+     "end": 37.404
     },
     {
      "w": "animes",
-     "start": 37.882,
-     "end": 38.198
+     "start": 37.404,
+     "end": 37.726
     },
     {
      "w": "que",
-     "start": 38.198,
-     "end": 38.387
+     "start": 37.726,
+     "end": 37.92
     },
     {
      "w": "t'aimes.",
-     "start": 38.387,
-     "end": 38.807
+     "start": 37.92,
+     "end": 38.35
     }
    ]
   },
   {
    "index": 7,
-   "start": 38.907,
-   "end": 44.276,
-   "slot_end": 44.376,
+   "start": 38.45,
+   "end": 42.706,
+   "slot_end": 42.806,
    "text": "Numéro 2, Jiraiya. L'ermite pervers, ouais. Mais c'est lui qui apprend le Rasengan à Naruto.",
    "words": [
     {
      "w": "Numéro",
-     "start": 38.907,
-     "end": 39.389
+     "start": 38.45,
+     "end": 38.776
     },
     {
      "w": "2,",
-     "start": 39.389,
-     "end": 39.71
+     "start": 38.776,
+     "end": 38.994
     },
     {
      "w": "Jiraiya.",
-     "start": 39.71,
-     "end": 40.417
+     "start": 38.994,
+     "end": 39.473
     },
     {
      "w": "L'ermite",
-     "start": 40.417,
-     "end": 40.963
+     "start": 39.473,
+     "end": 39.843
     },
     {
      "w": "pervers,",
-     "start": 40.963,
-     "end": 41.669
+     "start": 39.843,
+     "end": 40.321
     },
     {
      "w": "ouais.",
-     "start": 41.669,
-     "end": 42.247
+     "start": 40.321,
+     "end": 40.713
     },
     {
      "w": "Mais",
-     "start": 42.297,
-     "end": 42.499
+     "start": 40.763,
+     "end": 40.961
     },
     {
      "w": "c'est",
-     "start": 42.499,
-     "end": 42.7
+     "start": 40.961,
+     "end": 41.159
     },
     {
      "w": "lui",
-     "start": 42.7,
-     "end": 42.865
+     "start": 41.159,
+     "end": 41.321
     },
     {
      "w": "qui",
-     "start": 42.865,
-     "end": 43.03
+     "start": 41.321,
+     "end": 41.483
     },
     {
      "w": "apprend",
-     "start": 43.03,
-     "end": 43.342
+     "start": 41.483,
+     "end": 41.789
     },
     {
      "w": "le",
-     "start": 43.342,
-     "end": 43.47
+     "start": 41.789,
+     "end": 41.914
     },
     {
      "w": "Rasengan",
-     "start": 43.47,
-     "end": 43.818
+     "start": 41.914,
+     "end": 42.256
     },
     {
      "w": "à",
-     "start": 43.818,
-     "end": 43.91
+     "start": 42.256,
+     "end": 42.346
     },
     {
      "w": "Naruto.",
-     "start": 43.91,
-     "end": 44.276
+     "start": 42.346,
+     "end": 42.706
     }
    ]
   },
   {
    "index": 8,
-   "start": 44.376,
-   "end": 52.342,
-   "slot_end": 52.442,
+   "start": 42.806,
+   "end": 50.118,
+   "slot_end": 50.218,
    "text": "Et le pire c'est sa mort contre Pain. Il est en train de mourir, et il trouve encore le moyen de laisser un message codé sur le dos de Fukasaku. Son dernier cours.",
    "words": [
     {
      "w": "Et",
-     "start": 44.376,
-     "end": 44.527
+     "start": 42.806,
+     "end": 42.944
     },
     {
      "w": "le",
-     "start": 44.527,
-     "end": 44.677
+     "start": 42.944,
+     "end": 43.082
     },
     {
      "w": "pire",
-     "start": 44.677,
-     "end": 44.913
+     "start": 43.082,
+     "end": 43.299
     },
     {
      "w": "c'est",
-     "start": 44.913,
-     "end": 45.149
+     "start": 43.299,
+     "end": 43.515
     },
     {
      "w": "sa",
-     "start": 45.149,
-     "end": 45.3
+     "start": 43.515,
+     "end": 43.653
     },
     {
      "w": "mort",
-     "start": 45.3,
-     "end": 45.536
+     "start": 43.653,
+     "end": 43.87
     },
     {
      "w": "contre",
-     "start": 45.536,
-     "end": 45.858
+     "start": 43.87,
+     "end": 44.166
     },
     {
      "w": "Pain.",
-     "start": 45.858,
-     "end": 46.201
+     "start": 44.166,
+     "end": 44.481
     },
     {
      "w": "Il",
-     "start": 46.201,
-     "end": 46.352
+     "start": 44.481,
+     "end": 44.619
     },
     {
      "w": "est",
-     "start": 46.352,
-     "end": 46.545
+     "start": 44.619,
+     "end": 44.797
     },
     {
      "w": "en",
-     "start": 46.545,
-     "end": 46.695
+     "start": 44.797,
+     "end": 44.935
     },
     {
      "w": "train",
-     "start": 46.695,
-     "end": 46.974
+     "start": 44.935,
+     "end": 45.191
     },
     {
      "w": "de",
-     "start": 46.974,
-     "end": 47.125
+     "start": 45.191,
+     "end": 45.329
     },
     {
      "w": "mourir,",
-     "start": 47.125,
-     "end": 47.554
+     "start": 45.329,
+     "end": 45.723
     },
     {
      "w": "et",
-     "start": 47.554,
-     "end": 47.704
+     "start": 45.723,
+     "end": 45.861
     },
     {
      "w": "il",
-     "start": 47.704,
-     "end": 47.855
+     "start": 45.861,
+     "end": 45.999
     },
     {
      "w": "trouve",
-     "start": 47.855,
-     "end": 48.177
+     "start": 45.999,
+     "end": 46.295
     },
     {
      "w": "encore",
-     "start": 48.177,
-     "end": 48.499
+     "start": 46.295,
+     "end": 46.59
     },
     {
      "w": "le",
-     "start": 48.499,
-     "end": 48.649
+     "start": 46.59,
+     "end": 46.728
     },
     {
      "w": "moyen",
-     "start": 48.649,
-     "end": 48.928
+     "start": 46.728,
+     "end": 46.984
     },
     {
      "w": "de",
-     "start": 48.928,
-     "end": 49.079
+     "start": 46.984,
+     "end": 47.122
     },
     {
      "w": "laisser",
-     "start": 49.079,
-     "end": 49.444
+     "start": 47.122,
+     "end": 47.457
     },
     {
      "w": "un",
-     "start": 49.444,
-     "end": 49.594
+     "start": 47.457,
+     "end": 47.595
     },
     {
      "w": "message",
-     "start": 49.594,
-     "end": 49.959
+     "start": 47.595,
+     "end": 47.93
     },
     {
      "w": "codé",
-     "start": 49.959,
-     "end": 50.195
+     "start": 47.93,
+     "end": 48.147
     },
     {
      "w": "sur",
-     "start": 50.195,
-     "end": 50.388
+     "start": 48.147,
+     "end": 48.325
     },
     {
      "w": "le",
-     "start": 50.388,
-     "end": 50.539
+     "start": 48.325,
+     "end": 48.463
     },
     {
      "w": "dos",
-     "start": 50.539,
-     "end": 50.732
+     "start": 48.463,
+     "end": 48.64
     },
     {
      "w": "de",
-     "start": 50.732,
-     "end": 50.882
+     "start": 48.64,
+     "end": 48.778
     },
     {
      "w": "Fukasaku.",
-     "start": 50.882,
-     "end": 51.397
+     "start": 48.778,
+     "end": 49.251
     },
     {
      "w": "Son",
-     "start": 51.397,
-     "end": 51.591
+     "start": 49.251,
+     "end": 49.428
     },
     {
      "w": "dernier",
-     "start": 51.591,
-     "end": 51.956
+     "start": 49.428,
+     "end": 49.764
     },
     {
      "w": "cours.",
-     "start": 51.956,
-     "end": 52.342
+     "start": 49.764,
+     "end": 50.118
     }
    ]
   },
   {
    "index": 9,
-   "start": 52.442,
-   "end": 55.428,
-   "slot_end": 55.528,
+   "start": 50.218,
+   "end": 51.864,
+   "slot_end": 51.964,
    "text": "Mais attends. Pour moi, y'en a un au-dessus.",
    "words": [
     {
      "w": "Mais",
-     "start": 52.442,
-     "end": 52.761
+     "start": 50.218,
+     "end": 50.394
     },
     {
      "w": "attends.",
-     "start": 52.761,
-     "end": 53.399
+     "start": 50.394,
+     "end": 50.746
     },
     {
      "w": "Pour",
-     "start": 53.399,
-     "end": 53.718
+     "start": 50.746,
+     "end": 50.921
     },
     {
      "w": "moi,",
-     "start": 53.718,
-     "end": 54.124
+     "start": 50.921,
+     "end": 51.145
     },
     {
      "w": "y'en",
-     "start": 54.124,
-     "end": 54.385
+     "start": 51.145,
+     "end": 51.289
     },
     {
      "w": "a",
-     "start": 54.385,
-     "end": 54.53
+     "start": 51.289,
+     "end": 51.369
     },
     {
      "w": "un",
-     "start": 54.53,
-     "end": 54.732
+     "start": 51.369,
+     "end": 51.481
     },
     {
      "w": "au-dessus.",
-     "start": 54.732,
-     "end": 55.428
+     "start": 51.481,
+     "end": 51.864
     }
    ]
   },
   {
    "index": 10,
-   "start": 55.528,
-   "end": 63.705,
-   "slot_end": 63.805,
+   "start": 51.964,
+   "end": 59.591,
+   "slot_end": 59.691,
    "text": "Numéro 1, All Might. Au début, lui aussi il dit à Deku qu'il peut pas être un héros sans alter. Et puis il le voit foncer pour sauver Bakugo, sans aucun pouvoir.",
    "words": [
     {
      "w": "Numéro",
-     "start": 55.528,
-     "end": 55.841
+     "start": 51.964,
+     "end": 52.279
     },
     {
      "w": "1,",
-     "start": 55.841,
-     "end": 56.049
+     "start": 52.279,
+     "end": 52.49
     },
     {
      "w": "All",
-     "start": 56.049,
-     "end": 56.237
+     "start": 52.49,
+     "end": 52.679
     },
     {
      "w": "Might.",
-     "start": 56.237,
-     "end": 56.612
+     "start": 52.679,
+     "end": 53.058
     },
     {
      "w": "Au",
-     "start": 56.612,
-     "end": 56.758
+     "start": 53.058,
+     "end": 53.205
     },
     {
      "w": "début,",
-     "start": 56.758,
-     "end": 57.133
+     "start": 53.205,
+     "end": 53.583
     },
     {
      "w": "lui",
-     "start": 57.133,
-     "end": 57.321
+     "start": 53.583,
+     "end": 53.773
     },
     {
      "w": "aussi",
-     "start": 57.321,
-     "end": 57.592
+     "start": 53.773,
+     "end": 54.046
     },
     {
      "w": "il",
-     "start": 57.592,
-     "end": 57.738
+     "start": 54.046,
+     "end": 54.193
     },
     {
      "w": "dit",
-     "start": 57.738,
-     "end": 57.925
+     "start": 54.193,
+     "end": 54.383
     },
     {
      "w": "à",
-     "start": 57.925,
-     "end": 58.03
+     "start": 54.383,
+     "end": 54.488
     },
     {
      "w": "Deku",
-     "start": 58.03,
-     "end": 58.259
+     "start": 54.488,
+     "end": 54.719
     },
     {
      "w": "qu'il",
-     "start": 58.259,
-     "end": 58.488
+     "start": 54.719,
+     "end": 54.951
     },
     {
      "w": "peut",
-     "start": 58.488,
-     "end": 58.717
+     "start": 54.951,
+     "end": 55.182
     },
     {
      "w": "pas",
-     "start": 58.717,
-     "end": 58.905
+     "start": 55.182,
+     "end": 55.371
     },
     {
      "w": "être",
-     "start": 58.905,
-     "end": 59.134
+     "start": 55.371,
+     "end": 55.603
     },
     {
      "w": "un",
-     "start": 59.134,
-     "end": 59.28
+     "start": 55.603,
+     "end": 55.75
     },
     {
      "w": "héros",
-     "start": 59.28,
-     "end": 59.551
+     "start": 55.75,
+     "end": 56.023
     },
     {
      "w": "sans",
-     "start": 59.551,
-     "end": 59.78
+     "start": 56.023,
+     "end": 56.255
     },
     {
      "w": "alter.",
-     "start": 59.78,
-     "end": 60.156
+     "start": 56.255,
+     "end": 56.633
     },
     {
      "w": "Et",
-     "start": 60.206,
-     "end": 60.369
+     "start": 56.683,
+     "end": 56.819
     },
     {
      "w": "puis",
-     "start": 60.369,
-     "end": 60.626
+     "start": 56.819,
+     "end": 57.032
     },
     {
      "w": "il",
-     "start": 60.626,
-     "end": 60.789
+     "start": 57.032,
+     "end": 57.168
     },
     {
      "w": "le",
-     "start": 60.789,
-     "end": 60.952
+     "start": 57.168,
+     "end": 57.303
     },
     {
      "w": "voit",
-     "start": 60.952,
-     "end": 61.209
+     "start": 57.303,
+     "end": 57.517
     },
     {
      "w": "foncer",
-     "start": 61.209,
-     "end": 61.559
+     "start": 57.517,
+     "end": 57.807
     },
     {
      "w": "pour",
-     "start": 61.559,
-     "end": 61.815
+     "start": 57.807,
+     "end": 58.021
     },
     {
      "w": "sauver",
-     "start": 61.815,
-     "end": 62.165
+     "start": 58.021,
+     "end": 58.311
     },
     {
      "w": "Bakugo,",
-     "start": 62.165,
-     "end": 62.632
+     "start": 58.311,
+     "end": 58.699
     },
     {
      "w": "sans",
-     "start": 62.632,
-     "end": 62.888
+     "start": 58.699,
+     "end": 58.912
     },
     {
      "w": "aucun",
-     "start": 62.888,
-     "end": 63.192
+     "start": 58.912,
+     "end": 59.164
     },
     {
      "w": "pouvoir.",
-     "start": 63.192,
-     "end": 63.705
+     "start": 59.164,
+     "end": 59.591
     }
    ]
   },
   {
    "index": 11,
-   "start": 63.805,
-   "end": 71.337,
-   "slot_end": 71.437,
+   "start": 59.691,
+   "end": 64.991,
+   "slot_end": 65.091,
    "text": "Et là il lui dit qu'il peut devenir un héros. Il lui donne One For All, et il reste à ses côtés même quand il a plus rien. C'est ça, un prof.",
    "words": [
     {
      "w": "Et",
-     "start": 63.805,
-     "end": 64.005
+     "start": 59.691,
+     "end": 59.802
     },
     {
      "w": "là",
-     "start": 64.005,
-     "end": 64.204
+     "start": 59.802,
+     "end": 59.913
     },
     {
      "w": "il",
-     "start": 64.204,
-     "end": 64.404
+     "start": 59.913,
+     "end": 60.024
     },
     {
      "w": "lui",
-     "start": 64.404,
-     "end": 64.661
+     "start": 60.024,
+     "end": 60.167
     },
     {
      "w": "dit",
-     "start": 64.661,
-     "end": 64.918
+     "start": 60.167,
+     "end": 60.31
     },
     {
      "w": "qu'il",
-     "start": 64.918,
-     "end": 65.232
+     "start": 60.31,
+     "end": 60.484
     },
     {
      "w": "peut",
-     "start": 65.232,
-     "end": 65.546
+     "start": 60.484,
+     "end": 60.659
     },
     {
      "w": "devenir",
-     "start": 65.546,
-     "end": 66.031
+     "start": 60.659,
+     "end": 60.929
     },
     {
      "w": "un",
-     "start": 66.031,
-     "end": 66.231
+     "start": 60.929,
+     "end": 61.04
     },
     {
      "w": "héros.",
-     "start": 66.231,
-     "end": 66.745
+     "start": 61.04,
+     "end": 61.325
     },
     {
      "w": "Il",
-     "start": 66.795,
-     "end": 66.937
+     "start": 61.375,
+     "end": 61.488
     },
     {
      "w": "lui",
-     "start": 66.937,
-     "end": 67.119
+     "start": 61.488,
+     "end": 61.634
     },
     {
      "w": "donne",
-     "start": 67.119,
-     "end": 67.383
+     "start": 61.634,
+     "end": 61.843
     },
     {
      "w": "One",
-     "start": 67.383,
-     "end": 67.565
+     "start": 61.843,
+     "end": 61.989
     },
     {
      "w": "For",
-     "start": 67.565,
-     "end": 67.748
+     "start": 61.989,
+     "end": 62.134
     },
     {
      "w": "All,",
-     "start": 67.748,
-     "end": 68.032
+     "start": 62.134,
+     "end": 62.36
     },
     {
      "w": "et",
-     "start": 68.032,
-     "end": 68.174
+     "start": 62.36,
+     "end": 62.473
     },
     {
      "w": "il",
-     "start": 68.174,
-     "end": 68.315
+     "start": 62.473,
+     "end": 62.586
     },
     {
      "w": "reste",
-     "start": 68.315,
-     "end": 68.579
+     "start": 62.586,
+     "end": 62.796
     },
     {
      "w": "à",
-     "start": 68.579,
-     "end": 68.68
+     "start": 62.796,
+     "end": 62.877
     },
     {
      "w": "ses",
-     "start": 68.68,
-     "end": 68.863
+     "start": 62.877,
+     "end": 63.022
     },
     {
      "w": "côtés",
-     "start": 68.863,
-     "end": 69.126
+     "start": 63.022,
+     "end": 63.232
     },
     {
      "w": "même",
-     "start": 69.126,
-     "end": 69.35
+     "start": 63.232,
+     "end": 63.409
     },
     {
      "w": "quand",
-     "start": 69.35,
-     "end": 69.613
+     "start": 63.409,
+     "end": 63.619
     },
     {
      "w": "il",
-     "start": 69.613,
-     "end": 69.755
+     "start": 63.619,
+     "end": 63.732
     },
     {
      "w": "a",
-     "start": 69.755,
-     "end": 69.856
+     "start": 63.732,
+     "end": 63.813
     },
     {
      "w": "plus",
-     "start": 69.856,
-     "end": 70.079
+     "start": 63.813,
+     "end": 63.99
     },
     {
      "w": "rien.",
-     "start": 70.079,
-     "end": 70.404
+     "start": 63.99,
+     "end": 64.249
     },
     {
      "w": "C'est",
-     "start": 70.404,
-     "end": 70.627
+     "start": 64.249,
+     "end": 64.426
     },
     {
      "w": "ça,",
-     "start": 70.627,
-     "end": 70.87
+     "start": 64.426,
+     "end": 64.62
     },
     {
      "w": "un",
-     "start": 70.87,
-     "end": 71.012
+     "start": 64.62,
+     "end": 64.733
     },
     {
      "w": "prof.",
-     "start": 71.012,
-     "end": 71.337
+     "start": 64.733,
+     "end": 64.991
     }
    ]
   },
   {
    "index": 12,
-   "start": 71.437,
-   "end": 74.975,
-   "slot_end": 75.075,
+   "start": 65.091,
+   "end": 69.229,
+   "slot_end": 69.329,
    "text": "Mon classement, je l'assume. C'est quoi ton top 1 à toi ?",
    "words": [
     {
      "w": "Mon",
-     "start": 71.437,
-     "end": 71.676
+     "start": 65.091,
+     "end": 65.371
     },
     {
      "w": "classement,",
-     "start": 71.676,
-     "end": 72.421
+     "start": 65.371,
+     "end": 66.242
     },
     {
      "w": "je",
-     "start": 72.421,
-     "end": 72.607
+     "start": 66.242,
+     "end": 66.46
     },
     {
      "w": "l'assume.",
-     "start": 72.607,
-     "end": 73.193
+     "start": 66.46,
+     "end": 67.145
     },
     {
      "w": "C'est",
-     "start": 73.193,
-     "end": 73.485
+     "start": 67.145,
+     "end": 67.487
     },
     {
      "w": "quoi",
-     "start": 73.485,
-     "end": 73.778
+     "start": 67.487,
+     "end": 67.829
     },
     {
      "w": "ton",
-     "start": 73.778,
-     "end": 74.018
+     "start": 67.829,
+     "end": 68.109
     },
     {
      "w": "top",
-     "start": 74.018,
-     "end": 74.257
+     "start": 68.109,
+     "end": 68.389
     },
     {
      "w": "1",
-     "start": 74.257,
-     "end": 74.39
+     "start": 68.389,
+     "end": 68.545
     },
     {
      "w": "à",
-     "start": 74.39,
-     "end": 74.523
+     "start": 68.545,
+     "end": 68.7
     },
     {
      "w": "toi",
-     "start": 74.523,
-     "end": 74.763
+     "start": 68.7,
+     "end": 68.98
     },
     {
      "w": "?",
-     "start": 74.763,
-     "end": 74.975
+     "start": 68.98,
+     "end": 69.229
     }
    ]
   },
   {
    "index": 13,
-   "start": 75.075,
-   "end": 78.197,
-   "slot_end": 78.897,
+   "start": 69.329,
+   "end": 71.609,
+   "slot_end": 72.309,
    "text": "C'était Asura. On se capte au prochain épisode.",
    "words": [
     {
      "w": "C'était",
-     "start": 75.075,
-     "end": 75.509
+     "start": 69.329,
+     "end": 69.646
     },
     {
      "w": "Asura.",
-     "start": 75.509,
-     "end": 76.029
+     "start": 69.646,
+     "end": 70.026
     },
     {
      "w": "On",
-     "start": 76.029,
-     "end": 76.232
+     "start": 70.026,
+     "end": 70.174
     },
     {
      "w": "se",
-     "start": 76.232,
-     "end": 76.434
+     "start": 70.174,
+     "end": 70.322
     },
     {
      "w": "capte",
-     "start": 76.434,
-     "end": 76.81
+     "start": 70.322,
+     "end": 70.596
     },
     {
      "w": "au",
-     "start": 76.81,
-     "end": 77.012
+     "start": 70.596,
+     "end": 70.744
     },
     {
      "w": "prochain",
-     "start": 77.012,
-     "end": 77.561
+     "start": 70.744,
+     "end": 71.145
     },
     {
      "w": "épisode.",
-     "start": 77.561,
-     "end": 78.197
+     "start": 71.145,
+     "end": 71.609
     }
    ]
   }

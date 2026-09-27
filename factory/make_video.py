@@ -34,8 +34,8 @@ def lint(script: dict) -> list[str]:
     if len(script.get("hook_text", "").split()) > 15:
         problems.append("hook_text > 15 mots")
     total = sum(len(s["text"]) for s in script["segments"])
-    if script.get("format") != "citation" and total < 1250:
-        problems.append(f"texte trop court ({total} car.) : viser ~1350 car. pour dépasser 60 s")
+    if script.get("format") != "citation" and total < 1400:
+        problems.append(f"texte trop court ({total} car.) : viser 1 500 à 1 650 car. pour dépasser 60 s")
     if not any(s.get("cta") for s in script["segments"]) or \
             not any("abonne" in s["text"].lower() for s in script["segments"] if s.get("cta")):
         problems.append("appel à l'abonnement manquant : un segment avec \"cta\": true qui dit « abonne-toi »")
