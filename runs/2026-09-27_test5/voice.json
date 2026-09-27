@@ -1,0 +1,1170 @@
+{
+ "engine": "clone",
+ "path": "/home/claude/tiktok-factory/runs/2026-09-27_test5/voice.wav",
+ "duration": 59.828,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 4.008,
+   "slot_end": 4.108,
+   "text": "Le numéro 1 est tellement cheaté que l'auteur a dû l'enfermer dans une boîte pour que l'histoire avance.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 0.0,
+     "end": 0.125
+    },
+    {
+     "w": "numéro",
+     "start": 0.125,
+     "end": 0.392
+    },
+    {
+     "w": "1",
+     "start": 0.392,
+     "end": 0.481
+    },
+    {
+     "w": "est",
+     "start": 0.481,
+     "end": 0.641
+    },
+    {
+     "w": "tellement",
+     "start": 0.641,
+     "end": 1.015
+    },
+    {
+     "w": "cheaté",
+     "start": 1.015,
+     "end": 1.283
+    },
+    {
+     "w": "que",
+     "start": 1.283,
+     "end": 1.443
+    },
+    {
+     "w": "l'auteur",
+     "start": 1.443,
+     "end": 1.746
+    },
+    {
+     "w": "a",
+     "start": 1.746,
+     "end": 1.835
+    },
+    {
+     "w": "dû",
+     "start": 1.835,
+     "end": 1.96
+    },
+    {
+     "w": "l'enfermer",
+     "start": 1.96,
+     "end": 2.334
+    },
+    {
+     "w": "dans",
+     "start": 2.334,
+     "end": 2.53
+    },
+    {
+     "w": "une",
+     "start": 2.53,
+     "end": 2.69
+    },
+    {
+     "w": "boîte",
+     "start": 2.69,
+     "end": 2.922
+    },
+    {
+     "w": "pour",
+     "start": 2.922,
+     "end": 3.118
+    },
+    {
+     "w": "que",
+     "start": 3.118,
+     "end": 3.278
+    },
+    {
+     "w": "l'histoire",
+     "start": 3.278,
+     "end": 3.652
+    },
+    {
+     "w": "avance.",
+     "start": 3.652,
+     "end": 4.008
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 4.108,
+   "end": 10.401,
+   "slot_end": 10.501,
+   "text": "Top 3 des persos les plus pétés de Jujutsu Kaisen. Et reste jusqu'au bout, parce que le premier va en énerver certains.",
+   "words": [
+    {
+     "w": "Top",
+     "start": 4.108,
+     "end": 4.351
+    },
+    {
+     "w": "3",
+     "start": 4.351,
+     "end": 4.486
+    },
+    {
+     "w": "des",
+     "start": 4.486,
+     "end": 4.728
+    },
+    {
+     "w": "persos",
+     "start": 4.728,
+     "end": 5.132
+    },
+    {
+     "w": "les",
+     "start": 5.132,
+     "end": 5.375
+    },
+    {
+     "w": "plus",
+     "start": 5.375,
+     "end": 5.671
+    },
+    {
+     "w": "pétés",
+     "start": 5.671,
+     "end": 6.021
+    },
+    {
+     "w": "de",
+     "start": 6.021,
+     "end": 6.21
+    },
+    {
+     "w": "Jujutsu",
+     "start": 6.21,
+     "end": 6.668
+    },
+    {
+     "w": "Kaisen.",
+     "start": 6.668,
+     "end": 7.207
+    },
+    {
+     "w": "Et",
+     "start": 7.257,
+     "end": 7.4
+    },
+    {
+     "w": "reste",
+     "start": 7.4,
+     "end": 7.665
+    },
+    {
+     "w": "jusqu'au",
+     "start": 7.665,
+     "end": 8.013
+    },
+    {
+     "w": "bout,",
+     "start": 8.013,
+     "end": 8.339
+    },
+    {
+     "w": "parce",
+     "start": 8.339,
+     "end": 8.605
+    },
+    {
+     "w": "que",
+     "start": 8.605,
+     "end": 8.788
+    },
+    {
+     "w": "le",
+     "start": 8.788,
+     "end": 8.931
+    },
+    {
+     "w": "premier",
+     "start": 8.931,
+     "end": 9.278
+    },
+    {
+     "w": "va",
+     "start": 9.278,
+     "end": 9.421
+    },
+    {
+     "w": "en",
+     "start": 9.421,
+     "end": 9.564
+    },
+    {
+     "w": "énerver",
+     "start": 9.564,
+     "end": 9.911
+    },
+    {
+     "w": "certains.",
+     "start": 9.911,
+     "end": 10.401
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 10.501,
+   "end": 15.794,
+   "slot_end": 15.894,
+   "text": "Numéro 3, Megumi. Ouais je sais, vous allez me dire qu'il perd tout le temps.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 10.501,
+     "end": 10.94
+    },
+    {
+     "w": "3,",
+     "start": 10.94,
+     "end": 11.232
+    },
+    {
+     "w": "Megumi.",
+     "start": 11.232,
+     "end": 11.817
+    },
+    {
+     "w": "Ouais",
+     "start": 11.817,
+     "end": 12.197
+    },
+    {
+     "w": "je",
+     "start": 12.197,
+     "end": 12.402
+    },
+    {
+     "w": "sais,",
+     "start": 12.402,
+     "end": 12.87
+    },
+    {
+     "w": "vous",
+     "start": 12.87,
+     "end": 13.192
+    },
+    {
+     "w": "allez",
+     "start": 13.192,
+     "end": 13.572
+    },
+    {
+     "w": "me",
+     "start": 13.572,
+     "end": 13.776
+    },
+    {
+     "w": "dire",
+     "start": 13.776,
+     "end": 14.098
+    },
+    {
+     "w": "qu'il",
+     "start": 14.098,
+     "end": 14.42
+    },
+    {
+     "w": "perd",
+     "start": 14.42,
+     "end": 14.741
+    },
+    {
+     "w": "tout",
+     "start": 14.741,
+     "end": 15.063
+    },
+    {
+     "w": "le",
+     "start": 15.063,
+     "end": 15.268
+    },
+    {
+     "w": "temps.",
+     "start": 15.268,
+     "end": 15.794
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 15.894,
+   "end": 22.866,
+   "slot_end": 22.966,
+   "text": "Sauf que son technique des dix ombres, c'est littéralement ce que Sukuna voulait récupérer. Réfléchis deux secondes à ce que ça veut dire.",
+   "words": [
+    {
+     "w": "Sauf",
+     "start": 15.894,
+     "end": 16.173
+    },
+    {
+     "w": "que",
+     "start": 16.173,
+     "end": 16.401
+    },
+    {
+     "w": "son",
+     "start": 16.401,
+     "end": 16.629
+    },
+    {
+     "w": "technique",
+     "start": 16.629,
+     "end": 17.161
+    },
+    {
+     "w": "des",
+     "start": 17.161,
+     "end": 17.389
+    },
+    {
+     "w": "dix",
+     "start": 17.389,
+     "end": 17.617
+    },
+    {
+     "w": "ombres,",
+     "start": 17.617,
+     "end": 18.124
+    },
+    {
+     "w": "c'est",
+     "start": 18.124,
+     "end": 18.403
+    },
+    {
+     "w": "littéralement",
+     "start": 18.403,
+     "end": 19.138
+    },
+    {
+     "w": "ce",
+     "start": 19.138,
+     "end": 19.315
+    },
+    {
+     "w": "que",
+     "start": 19.315,
+     "end": 19.543
+    },
+    {
+     "w": "Sukuna",
+     "start": 19.543,
+     "end": 19.923
+    },
+    {
+     "w": "voulait",
+     "start": 19.923,
+     "end": 20.354
+    },
+    {
+     "w": "récupérer.",
+     "start": 20.354,
+     "end": 21.013
+    },
+    {
+     "w": "Réfléchis",
+     "start": 21.063,
+     "end": 21.42
+    },
+    {
+     "w": "deux",
+     "start": 21.42,
+     "end": 21.607
+    },
+    {
+     "w": "secondes",
+     "start": 21.607,
+     "end": 21.93
+    },
+    {
+     "w": "à",
+     "start": 21.93,
+     "end": 22.015
+    },
+    {
+     "w": "ce",
+     "start": 22.015,
+     "end": 22.134
+    },
+    {
+     "w": "que",
+     "start": 22.134,
+     "end": 22.287
+    },
+    {
+     "w": "ça",
+     "start": 22.287,
+     "end": 22.407
+    },
+    {
+     "w": "veut",
+     "start": 22.407,
+     "end": 22.594
+    },
+    {
+     "w": "dire.",
+     "start": 22.594,
+     "end": 22.866
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 22.966,
+   "end": 27.871,
+   "slot_end": 27.971,
+   "text": "Et si toi aussi tu kiffes ce genre de classement, abonne-toi, j'en sors tous les jours sur les animes que t'aimes.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 22.966,
+     "end": 23.101
+    },
+    {
+     "w": "si",
+     "start": 23.101,
+     "end": 23.236
+    },
+    {
+     "w": "toi",
+     "start": 23.236,
+     "end": 23.41
+    },
+    {
+     "w": "aussi",
+     "start": 23.41,
+     "end": 23.661
+    },
+    {
+     "w": "tu",
+     "start": 23.661,
+     "end": 23.796
+    },
+    {
+     "w": "kiffes",
+     "start": 23.796,
+     "end": 24.086
+    },
+    {
+     "w": "ce",
+     "start": 24.086,
+     "end": 24.221
+    },
+    {
+     "w": "genre",
+     "start": 24.221,
+     "end": 24.472
+    },
+    {
+     "w": "de",
+     "start": 24.472,
+     "end": 24.607
+    },
+    {
+     "w": "classement,",
+     "start": 24.607,
+     "end": 25.148
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 25.148,
+     "end": 25.65
+    },
+    {
+     "w": "j'en",
+     "start": 25.65,
+     "end": 25.824
+    },
+    {
+     "w": "sors",
+     "start": 25.824,
+     "end": 26.036
+    },
+    {
+     "w": "tous",
+     "start": 26.036,
+     "end": 26.249
+    },
+    {
+     "w": "les",
+     "start": 26.249,
+     "end": 26.423
+    },
+    {
+     "w": "jours",
+     "start": 26.423,
+     "end": 26.674
+    },
+    {
+     "w": "sur",
+     "start": 26.674,
+     "end": 26.848
+    },
+    {
+     "w": "les",
+     "start": 26.848,
+     "end": 27.021
+    },
+    {
+     "w": "animes",
+     "start": 27.021,
+     "end": 27.311
+    },
+    {
+     "w": "que",
+     "start": 27.311,
+     "end": 27.485
+    },
+    {
+     "w": "t'aimes.",
+     "start": 27.485,
+     "end": 27.871
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 27.971,
+   "end": 33.039,
+   "slot_end": 33.139,
+   "text": "Numéro 2, Sukuna. Le roi des fléaux. Vingt doigts, et même avec quelques-uns seulement il retourne tout le monde.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 27.971,
+     "end": 28.264
+    },
+    {
+     "w": "2,",
+     "start": 28.264,
+     "end": 28.458
+    },
+    {
+     "w": "Sukuna.",
+     "start": 28.458,
+     "end": 28.848
+    },
+    {
+     "w": "Le",
+     "start": 28.848,
+     "end": 28.985
+    },
+    {
+     "w": "roi",
+     "start": 28.985,
+     "end": 29.16
+    },
+    {
+     "w": "des",
+     "start": 29.16,
+     "end": 29.336
+    },
+    {
+     "w": "fléaux.",
+     "start": 29.336,
+     "end": 29.725
+    },
+    {
+     "w": "Vingt",
+     "start": 29.725,
+     "end": 29.979
+    },
+    {
+     "w": "doigts,",
+     "start": 29.979,
+     "end": 30.369
+    },
+    {
+     "w": "et",
+     "start": 30.369,
+     "end": 30.505
+    },
+    {
+     "w": "même",
+     "start": 30.505,
+     "end": 30.719
+    },
+    {
+     "w": "avec",
+     "start": 30.719,
+     "end": 30.934
+    },
+    {
+     "w": "quelques-uns",
+     "start": 30.934,
+     "end": 31.421
+    },
+    {
+     "w": "seulement",
+     "start": 31.421,
+     "end": 31.83
+    },
+    {
+     "w": "il",
+     "start": 31.83,
+     "end": 31.967
+    },
+    {
+     "w": "retourne",
+     "start": 31.967,
+     "end": 32.337
+    },
+    {
+     "w": "tout",
+     "start": 32.337,
+     "end": 32.552
+    },
+    {
+     "w": "le",
+     "start": 32.552,
+     "end": 32.688
+    },
+    {
+     "w": "monde.",
+     "start": 32.688,
+     "end": 33.039
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 33.139,
+   "end": 37.748,
+   "slot_end": 37.848,
+   "text": "Le mec a découpé une ville entière en quelques secondes, frr, c'est même plus un combat à ce niveau-là.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 33.139,
+     "end": 33.278
+    },
+    {
+     "w": "mec",
+     "start": 33.278,
+     "end": 33.457
+    },
+    {
+     "w": "a",
+     "start": 33.457,
+     "end": 33.556
+    },
+    {
+     "w": "découpé",
+     "start": 33.556,
+     "end": 33.894
+    },
+    {
+     "w": "une",
+     "start": 33.894,
+     "end": 34.073
+    },
+    {
+     "w": "ville",
+     "start": 34.073,
+     "end": 34.331
+    },
+    {
+     "w": "entière",
+     "start": 34.331,
+     "end": 34.669
+    },
+    {
+     "w": "en",
+     "start": 34.669,
+     "end": 34.808
+    },
+    {
+     "w": "quelques",
+     "start": 34.808,
+     "end": 35.185
+    },
+    {
+     "w": "secondes,",
+     "start": 35.185,
+     "end": 35.662
+    },
+    {
+     "w": "frr,",
+     "start": 35.662,
+     "end": 35.94
+    },
+    {
+     "w": "c'est",
+     "start": 35.94,
+     "end": 36.158
+    },
+    {
+     "w": "même",
+     "start": 36.158,
+     "end": 36.377
+    },
+    {
+     "w": "plus",
+     "start": 36.377,
+     "end": 36.595
+    },
+    {
+     "w": "un",
+     "start": 36.595,
+     "end": 36.735
+    },
+    {
+     "w": "combat",
+     "start": 36.735,
+     "end": 37.033
+    },
+    {
+     "w": "à",
+     "start": 37.033,
+     "end": 37.132
+    },
+    {
+     "w": "ce",
+     "start": 37.132,
+     "end": 37.271
+    },
+    {
+     "w": "niveau-là.",
+     "start": 37.271,
+     "end": 37.748
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 37.848,
+   "end": 43.334,
+   "slot_end": 43.434,
+   "text": "Et numéro 1, Gojo. Le plus fort. L'infini, les six yeux, personne ne peut le toucher.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 37.848,
+     "end": 38.036
+    },
+    {
+     "w": "numéro",
+     "start": 38.036,
+     "end": 38.439
+    },
+    {
+     "w": "1,",
+     "start": 38.439,
+     "end": 38.708
+    },
+    {
+     "w": "Gojo.",
+     "start": 38.708,
+     "end": 39.139
+    },
+    {
+     "w": "Le",
+     "start": 39.139,
+     "end": 39.327
+    },
+    {
+     "w": "plus",
+     "start": 39.327,
+     "end": 39.623
+    },
+    {
+     "w": "fort.",
+     "start": 39.623,
+     "end": 40.053
+    },
+    {
+     "w": "L'infini,",
+     "start": 40.053,
+     "end": 40.645
+    },
+    {
+     "w": "les",
+     "start": 40.645,
+     "end": 40.887
+    },
+    {
+     "w": "six",
+     "start": 40.887,
+     "end": 41.129
+    },
+    {
+     "w": "yeux,",
+     "start": 41.129,
+     "end": 41.559
+    },
+    {
+     "w": "personne",
+     "start": 41.559,
+     "end": 42.07
+    },
+    {
+     "w": "ne",
+     "start": 42.07,
+     "end": 42.258
+    },
+    {
+     "w": "peut",
+     "start": 42.258,
+     "end": 42.554
+    },
+    {
+     "w": "le",
+     "start": 42.554,
+     "end": 42.742
+    },
+    {
+     "w": "toucher.",
+     "start": 42.742,
+     "end": 43.334
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 43.434,
+   "end": 48.607,
+   "slot_end": 48.707,
+   "text": "Tellement fort que les méchants ont monté un plan entier juste pour l'enfermer, parce que le battre, c'était impossible.",
+   "words": [
+    {
+     "w": "Tellement",
+     "start": 43.434,
+     "end": 43.842
+    },
+    {
+     "w": "fort",
+     "start": 43.842,
+     "end": 44.056
+    },
+    {
+     "w": "que",
+     "start": 44.056,
+     "end": 44.231
+    },
+    {
+     "w": "les",
+     "start": 44.231,
+     "end": 44.406
+    },
+    {
+     "w": "méchants",
+     "start": 44.406,
+     "end": 44.776
+    },
+    {
+     "w": "ont",
+     "start": 44.776,
+     "end": 44.951
+    },
+    {
+     "w": "monté",
+     "start": 44.951,
+     "end": 45.204
+    },
+    {
+     "w": "un",
+     "start": 45.204,
+     "end": 45.34
+    },
+    {
+     "w": "plan",
+     "start": 45.34,
+     "end": 45.554
+    },
+    {
+     "w": "entier",
+     "start": 45.554,
+     "end": 45.846
+    },
+    {
+     "w": "juste",
+     "start": 45.846,
+     "end": 46.098
+    },
+    {
+     "w": "pour",
+     "start": 46.098,
+     "end": 46.312
+    },
+    {
+     "w": "l'enfermer,",
+     "start": 46.312,
+     "end": 46.818
+    },
+    {
+     "w": "parce",
+     "start": 46.818,
+     "end": 47.071
+    },
+    {
+     "w": "que",
+     "start": 47.071,
+     "end": 47.246
+    },
+    {
+     "w": "le",
+     "start": 47.246,
+     "end": 47.382
+    },
+    {
+     "w": "battre,",
+     "start": 47.382,
+     "end": 47.771
+    },
+    {
+     "w": "c'était",
+     "start": 47.771,
+     "end": 48.063
+    },
+    {
+     "w": "impossible.",
+     "start": 48.063,
+     "end": 48.607
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 48.707,
+   "end": 53.206,
+   "slot_end": 53.306,
+   "text": "Et Itadori dans tout ça ? Honnêtement, je pense qu'il finira devant Megumi, mais on en reparle.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 48.707,
+     "end": 48.851
+    },
+    {
+     "w": "Itadori",
+     "start": 48.851,
+     "end": 49.2
+    },
+    {
+     "w": "dans",
+     "start": 49.2,
+     "end": 49.426
+    },
+    {
+     "w": "tout",
+     "start": 49.426,
+     "end": 49.652
+    },
+    {
+     "w": "ça",
+     "start": 49.652,
+     "end": 49.796
+    },
+    {
+     "w": "?",
+     "start": 49.796,
+     "end": 49.96
+    },
+    {
+     "w": "Honnêtement,",
+     "start": 49.96,
+     "end": 50.577
+    },
+    {
+     "w": "je",
+     "start": 50.577,
+     "end": 50.721
+    },
+    {
+     "w": "pense",
+     "start": 50.721,
+     "end": 50.988
+    },
+    {
+     "w": "qu'il",
+     "start": 50.988,
+     "end": 51.214
+    },
+    {
+     "w": "finira",
+     "start": 51.214,
+     "end": 51.522
+    },
+    {
+     "w": "devant",
+     "start": 51.522,
+     "end": 51.83
+    },
+    {
+     "w": "Megumi,",
+     "start": 51.83,
+     "end": 52.241
+    },
+    {
+     "w": "mais",
+     "start": 52.241,
+     "end": 52.467
+    },
+    {
+     "w": "on",
+     "start": 52.467,
+     "end": 52.61
+    },
+    {
+     "w": "en",
+     "start": 52.61,
+     "end": 52.754
+    },
+    {
+     "w": "reparle.",
+     "start": 52.754,
+     "end": 53.206
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 53.306,
+   "end": 55.907,
+   "slot_end": 56.007,
+   "text": "C'est quoi ton top 1 à toi ? Dis-le en com', je lis tout.",
+   "words": [
+    {
+     "w": "C'est",
+     "start": 53.306,
+     "end": 53.521
+    },
+    {
+     "w": "quoi",
+     "start": 53.521,
+     "end": 53.736
+    },
+    {
+     "w": "ton",
+     "start": 53.736,
+     "end": 53.912
+    },
+    {
+     "w": "top",
+     "start": 53.912,
+     "end": 54.088
+    },
+    {
+     "w": "1",
+     "start": 54.088,
+     "end": 54.186
+    },
+    {
+     "w": "à",
+     "start": 54.186,
+     "end": 54.284
+    },
+    {
+     "w": "toi",
+     "start": 54.284,
+     "end": 54.46
+    },
+    {
+     "w": "?",
+     "start": 54.46,
+     "end": 54.616
+    },
+    {
+     "w": "Dis-le",
+     "start": 54.616,
+     "end": 54.87
+    },
+    {
+     "w": "en",
+     "start": 54.87,
+     "end": 55.007
+    },
+    {
+     "w": "com',",
+     "start": 55.007,
+     "end": 55.281
+    },
+    {
+     "w": "je",
+     "start": 55.281,
+     "end": 55.418
+    },
+    {
+     "w": "lis",
+     "start": 55.418,
+     "end": 55.594
+    },
+    {
+     "w": "tout.",
+     "start": 55.594,
+     "end": 55.907
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 56.007,
+   "end": 59.128,
+   "slot_end": 59.828,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 56.007,
+     "end": 56.44
+    },
+    {
+     "w": "Asura.",
+     "start": 56.44,
+     "end": 56.961
+    },
+    {
+     "w": "On",
+     "start": 56.961,
+     "end": 57.163
+    },
+    {
+     "w": "se",
+     "start": 57.163,
+     "end": 57.365
+    },
+    {
+     "w": "capte",
+     "start": 57.365,
+     "end": 57.741
+    },
+    {
+     "w": "au",
+     "start": 57.741,
+     "end": 57.943
+    },
+    {
+     "w": "prochain",
+     "start": 57.943,
+     "end": 58.492
+    },
+    {
+     "w": "épisode.",
+     "start": 58.492,
+     "end": 59.128
+    }
+   ]
+  }
+ ]
+}

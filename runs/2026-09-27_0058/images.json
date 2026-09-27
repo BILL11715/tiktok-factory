@@ -19,6 +19,7 @@
    "source": "https://kitsu.io/anime/sousou-no-frieren"
   },
   "wide": [
+   "/home/claude/tiktok-factory/runs/2026-09-27_0058/images/4db55b96ed52.jpg",
    "/home/claude/tiktok-factory/runs/2026-09-27_0058/images/b7a433425dc0.jpg",
    "/home/claude/tiktok-factory/runs/2026-09-27_0058/images/b009a2c80dd2.jpg",
    "/home/claude/tiktok-factory/runs/2026-09-27_0058/images/075a8973b52a.jpg",
@@ -54,14 +55,42 @@
    "/home/claude/tiktok-factory/runs/2026-09-27_0058/images/263366ffcbd0.jpg"
   ],
   "tall": [
+   "/home/claude/tiktok-factory/runs/2026-09-27_0058/images/f4982df004a6.jpg",
    "/home/claude/tiktok-factory/runs/2026-09-27_0058/images/6e22cb881348.jpg",
    "/home/claude/tiktok-factory/runs/2026-09-27_0058/images/03e6df5c212a.jpg",
    "/home/claude/tiktok-factory/runs/2026-09-27_0058/images/19a22b77d38d.jpg",
    "/home/claude/tiktok-factory/runs/2026-09-27_0058/images/6cbe31cdd4a9.jpg"
   ],
-  "characters": {},
+  "characters": {
+   "Frieren": "/home/claude/tiktok-factory/runs/2026-09-27_0058/images/920e8211176a.png",
+   "Fern": "/home/claude/tiktok-factory/runs/2026-09-27_0058/images/ed826e2829a3.png",
+   "Stark": "/home/claude/tiktok-factory/runs/2026-09-27_0058/images/3643cd136407.jpg",
+   "Himmel": "/home/claude/tiktok-factory/runs/2026-09-27_0058/images/31e8cfce1674.png",
+   "Übel": "/home/claude/tiktok-factory/runs/2026-09-27_0058/images/89cdb8118642.png",
+   "Eisen": "/home/claude/tiktok-factory/runs/2026-09-27_0058/images/2fb70971bdfb.png",
+   "Heiter": "/home/claude/tiktok-factory/runs/2026-09-27_0058/images/0d75a623dd6d.jpg",
+   "Flamme": "/home/claude/tiktok-factory/runs/2026-09-27_0058/images/43ccdca0358c.png",
+   "Sein": "/home/claude/tiktok-factory/runs/2026-09-27_0058/images/d96447f0cb4f.png",
+   "Serie": "/home/claude/tiktok-factory/runs/2026-09-27_0058/images/39c610579213.jpg",
+   "Denken": "/home/claude/tiktok-factory/runs/2026-09-27_0058/images/b08a10c7d784.png",
+   "Methode": "/home/claude/tiktok-factory/runs/2026-09-27_0058/images/07672435a93e.png",
+   "Sense": "/home/claude/tiktok-factory/runs/2026-09-27_0058/images/65534908f484.png",
+   "Wirbel": "/home/claude/tiktok-factory/runs/2026-09-27_0058/images/393ef653ead1.png",
+   "Lawine": "/home/claude/tiktok-factory/runs/2026-09-27_0058/images/10ecffa85645.png",
+   "Aura": "/home/claude/tiktok-factory/runs/2026-09-27_0058/images/bd9800d00d72.png",
+   "Land": "/home/claude/tiktok-factory/runs/2026-09-27_0058/images/a94236aff3e4.png",
+   "Kanne": "/home/claude/tiktok-factory/runs/2026-09-27_0058/images/8d160fe933c9.png",
+   "Laufen": "/home/claude/tiktok-factory/runs/2026-09-27_0058/images/0ddf337c8476.png",
+   "Kraft": "/home/claude/tiktok-factory/runs/2026-09-27_0058/images/b35c94987956.jpg",
+   "Linie": "/home/claude/tiktok-factory/runs/2026-09-27_0058/images/399cab5e42dc.png",
+   "Genau": "/home/claude/tiktok-factory/runs/2026-09-27_0058/images/681f59ee3f40.png",
+   "Stoltz": "/home/claude/tiktok-factory/runs/2026-09-27_0058/images/030abebdf50a.png",
+   "Lügner": "/home/claude/tiktok-factory/runs/2026-09-27_0058/images/b37505462331.png",
+   "Voll Jii": "/home/claude/tiktok-factory/runs/2026-09-27_0058/images/3a8d0e4473ed.png"
+  },
   "sources": [
-   "https://kitsu.io/anime/sousou-no-frieren"
+   "https://kitsu.io/anime/sousou-no-frieren",
+   "https://anilist.co/anime/154587"
   ]
  }
 }

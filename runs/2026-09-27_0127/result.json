@@ -1,17 +1,224 @@
 {
  "path": "/home/claude/tiktok-factory/runs/2026-09-27_0127/video.mp4",
- "duration": 93.972,
- "shots": 31,
+ "duration": 78.897,
+ "shots": 40,
  "sources": [
+  "https://anilist.co/anime/101922",
+  "https://anilist.co/anime/113415",
+  "https://anilist.co/anime/1735",
+  "https://anilist.co/anime/21459",
+  "https://anilist.co/anime/269",
   "https://kitsu.io/anime/bleach",
   "https://kitsu.io/anime/boku-no-hero-academia",
   "https://kitsu.io/anime/jujutsu-kaisen",
   "https://kitsu.io/anime/kimetsu-no-yaiba",
   "https://kitsu.io/anime/naruto-shippuden"
  ],
+ "plan": [
+  {
+   "character": null,
+   "fx": "hook",
+   "start": 0.0
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 1.9785
+  },
+  {
+   "character": "Satoru Gojo",
+   "fx": null,
+   "start": 3.957
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 6.144333333333334
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 8.331666666666667
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 10.519
+  },
+  {
+   "character": "Kisuke Urahara",
+   "fx": null,
+   "start": 13.142000000000001
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 14.5765
+  },
+  {
+   "character": "Ichigo Kurosaki",
+   "fx": null,
+   "start": 16.011
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 17.915333333333333
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 19.819666666666667
+  },
+  {
+   "character": "Kyoujurou Rengoku",
+   "fx": "punch",
+   "start": 21.724
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 24.51
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 27.296
+  },
+  {
+   "character": "Tanjirou Kamado",
+   "fx": null,
+   "start": 30.082
+  },
+  {
+   "character": "Tanjirou Kamado",
+   "fx": null,
+   "start": 31.537000000000003
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 33.845
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 35.519
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 37.193
+  },
+  {
+   "character": "Jiraiya",
+   "fx": null,
+   "start": 38.867
+  },
+  {
+   "character": "Jiraiya",
+   "fx": null,
+   "start": 39.67
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 41.769999999999996
+  },
+  {
+   "character": "Naruto Uzumaki",
+   "fx": null,
+   "start": 43.87
+  },
+  {
+   "character": "Pain",
+   "fx": null,
+   "start": 45.818
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 48.025999999999996
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 50.234
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 52.442
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 53.965
+  },
+  {
+   "character": "All Might",
+   "fx": "punch",
+   "start": 55.488
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 57.70033333333333
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 59.91266666666667
+  },
+  {
+   "character": "Katsuki Bakugou",
+   "fx": null,
+   "start": 62.125
+  },
+  {
+   "character": "Izuku Midoriya",
+   "fx": null,
+   "start": 63.765
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 65.68299999999999
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 67.601
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 69.519
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 71.437
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 73.23599999999999
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 75.035
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 76.96600000000001
+  }
+ ],
  "voice_engine": "clone",
  "repo_path": "videos/2026/09/2026-09-27_0127.mp4",
  "raw_url": "https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/videos/2026/09/2026-09-27_0127.mp4",
  "lint": [],
- "render_seconds": 1430.0
+ "render_seconds": 1289.5
 }

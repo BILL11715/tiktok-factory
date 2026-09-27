@@ -13,6 +13,7 @@
    "source": "https://kitsu.io/anime/jujutsu-kaisen"
   },
   "wide": [
+   "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/0a2457596be6.jpg",
    "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/3067b89de3e1.jpg",
    "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/09b874da01c9.jpg",
    "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/60d24095199b.jpg",
@@ -59,6 +60,7 @@
    "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/e0478a4084c7.jpg"
   ],
   "tall": [
+   "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/4105531289a0.jpg",
    "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/1201e6d09abe.jpg",
    "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/e5ccaa49bed0.jpg",
    "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/4be5a72a8875.jpg",
@@ -66,23 +68,38 @@
    "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/492b1550a8a4.jpg"
   ],
   "characters": {
-   "Satoru Gojou": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/f5060abc60bf.jpg",
-   "Megumi Fushiguro": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/d5c72a4e28bc.jpg",
+   "Satoru Gojou": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/0f93e14a07e9.png",
+   "Megumi Fushiguro": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/198a4950c73c.png",
    "Yuji Itadori": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/48b879d57030.jpg",
-   "Nobara Kugisaki": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/b3dde74299f1.jpg",
-   "Sukuna": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/4b09aec1b50b.jpg",
+   "Nobara Kugisaki": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/fd354c629bbc.png",
+   "Sukuna": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/fccd918f33ca.png",
    "Choso": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/7ee9b9c8ec86.jpg",
    "Maki Zen'in": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/3b0cf01b9fbb.jpg",
-   "Kento Nanami": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/366ab87067f6.jpg",
-   "Panda": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/77e811712c2b.jpg",
-   "Mahito": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/3227551ae4d0.jpg",
-   "Toge Inumaki": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/3d7b56314966.jpg",
-   "Aoi Toudou": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/1958c05263d7.jpg",
-   "Kasumi Miwa": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/b887142c6afa.jpg",
-   "Yuki Tsukumo": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/0aee79d26da7.jpg"
+   "Kento Nanami": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/da368c950a3f.png",
+   "Panda": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/4347e64d3ca5.jpg",
+   "Mahito": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/66a3d53db094.png",
+   "Toge Inumaki": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/665527fd4711.png",
+   "Aoi Toudou": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/ef6e8f9f8185.png",
+   "Kasumi Miwa": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/a2c696447e75.png",
+   "Yuki Tsukumo": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/627e0f431d65.png",
+   "Yuuji Itadori": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/32977d24d75e.png",
+   "Maki Zenin": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/bf2a070c05ff.png",
+   "Suguru Getou": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/f20a25a18d82.png",
+   "Chousou": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/2379c9157c22.png",
+   "Shouko Ieiri": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/ac2453899dc5.png",
+   "Mei Mei": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/00e32017498b.jpg",
+   "Junpei Yoshino": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/a9422daa736b.jpg",
+   "Utahime Iori": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/e83e65e66f47.jpg",
+   "Mai Zenin": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/b1575e8a0e18.jpg",
+   "Koukichi Muta": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/242aa40f1b30.jpg",
+   "Jougo": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/8a4fb39537a5.png",
+   "Takuma Ino": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/00d17f32b1e4.jpg",
+   "Noritoshi  Kamo": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/969b283deeae.png",
+   "Hanami": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/41ce5db8a5a7.jpg"
   },
   "sources": [
-   "https://kitsu.io/anime/jujutsu-kaisen"
+   "https://kitsu.io/anime/jujutsu-kaisen",
+   "https://anilist.co/anime/113415"
   ]
  },
  "Bleach": {
@@ -100,6 +117,7 @@
    "source": "https://kitsu.io/anime/bleach"
   },
   "wide": [
+   "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/5a00f7bb9daa.jpg",
    "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/0c71fc15658b.png",
    "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/92f67686661c.png",
    "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/4490a65caa48.png",
@@ -140,6 +158,7 @@
    "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/9187bb7e06bd.jpg"
   ],
   "tall": [
+   "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/df1527a61271.png",
    "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/d4a8fdc379c8.jpg",
    "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/2c1a4b6a2f23.jpg",
    "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/11a4a0e9813a.jpg",
@@ -148,15 +167,15 @@
   ],
   "characters": {
    "Satoda": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/02feb44cc157.jpg",
-   "Uryuu Ishida": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/f5f5c5f07bf0.jpg",
-   "Rukia Kuchiki": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/9e82c47e3905.jpg",
-   "Ichigo Kurosaki": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/4fa41b0558c7.jpg",
-   "Yasutora Sado": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/051427b26900.jpg",
-   "Renji Abarai": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/d20581e2e8c3.jpg",
+   "Uryuu Ishida": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/3b9c0b732272.jpg",
+   "Rukia Kuchiki": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/5473e6ade8d6.png",
+   "Ichigo Kurosaki": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/a6bea554d8e6.png",
+   "Yasutora Sado": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/f82e5de6bc99.jpg",
+   "Renji Abarai": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/e51f74f03290.png",
    "Aida": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/7c6315ceb538.jpg",
    "Love Aikawa": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/bac4d9f36aa9.jpg",
    "Loly Aivirrne": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/c6b894e4833f.jpg",
-   "Sousuke Aizen": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/fbf45e55c10d.jpg",
+   "Sousuke Aizen": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/4218a83f5f6b.png",
    "Akon": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/4c2a26bebac8.jpg",
    "Aldegor": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/42d319fa4a0e.jpg",
    "Shuusuke Amagai": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/745570e72c3e.jpg",
@@ -166,10 +185,21 @@
    "Makizou Aramaki": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/26f01397ee3a.jpg",
    "Tatsuki Arisawa": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/b66aff396922.jpg",
    "Aaroniero Arruruerie": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/02ce75a1d2e9.jpg",
-   "Mizuho Asano": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/b0a203871b42.jpg"
+   "Mizuho Asano": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/b0a203871b42.jpg",
+   "Orihime Inoue": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/d6d012469470.jpg",
+   "Kisuke Urahara": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/c38964a17ed6.png",
+   "Yoruichi Shihouin": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/b1d7515ce172.png",
+   "Kenpachi Zaraki": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/d1cc283c6218.jpg",
+   "Ulquiorra Cifer": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/857227dbe40a.png",
+   "Grimmjow Jaegerjaquez": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/2e85ac6bb740.jpg",
+   "Toushirou Hitsugaya": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/79795cf98d66.jpg",
+   "Byakuya Kuchiki": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/de79c055a02b.png",
+   "Jirou Sakuranosuke Shunsui Kyouraku": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/5bf54e9ddb04.jpg",
+   "Shinji Hirako": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/151f485b1d6a.jpg"
   },
   "sources": [
-   "https://kitsu.io/anime/bleach"
+   "https://kitsu.io/anime/bleach",
+   "https://anilist.co/anime/269"
   ]
  },
  "Demon Slayer: Kimetsu no Yaiba": {
@@ -187,6 +217,7 @@
    "source": "https://kitsu.io/anime/kimetsu-no-yaiba"
   },
   "wide": [
+   "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/4bbf33c3f6b5.jpg",
    "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/3b5ab28ba534.jpg",
    "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/3516ac066449.png",
    "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/8653b079c549.jpg",
@@ -232,15 +263,43 @@
    "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/78e0c03afd12.jpg"
   ],
   "tall": [
+   "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/ee24fcda0383.jpg",
    "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/4a3f0e553ea5.jpg",
    "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/22d5dc8e6af3.jpg",
    "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/4e4f895e8e54.jpg",
    "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/ee3158e3b318.jpg",
    "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/50d6f676033a.jpg"
   ],
-  "characters": {},
+  "characters": {
+   "Tanjirou Kamado": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/d78fcbec50c4.png",
+   "Inosuke Hashibira": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/4c3adeff1732.jpg",
+   "Nezuko Kamado": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/2c8c9c61ce3a.png",
+   "Zenitsu Agatsuma": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/e91acababa40.png",
+   "Giyuu Tomioka": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/808734e03fa3.png",
+   "Kyoujurou Rengoku": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/008e51267ff6.png",
+   "Shinobu Kochou": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/145e387567ec.png",
+   "Tengen Uzui": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/3c7d2d3510f3.png",
+   "Mitsuri Kanroji": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/264fa49b6961.png",
+   "Kanao Tsuyuri": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/1eeae20fd515.png",
+   "Muichirou Tokitou": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/c6706f4c9268.png",
+   "Obanai Iguro": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/69ff1662a75b.jpg",
+   "Sanemi Shinazugawa": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/9b7584f25624.png",
+   "Muzan Kibutsuji": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/877f55e4a7f2.jpg",
+   "Sabito": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/d493a92e5142.png",
+   "Genya Shinazugawa": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/876bb91054ed.jpg",
+   "Gyoumei Himejima": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/337d6781dc33.jpg",
+   "Tamayo": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/849fbe29d369.jpg",
+   "Hotaru Haganezuka": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/8d0eaa24b213.jpg",
+   "Sakonji Urokodaki": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/1367086ef1f2.png",
+   "Rui": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/6b9a56e33864.png",
+   "Yushirou": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/eba8341e114a.jpg",
+   "Kagaya Ubuyashiki": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/15121abf59c5.png",
+   "Enmu": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/bcfe965e7a63.png",
+   "Makomo": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/40893762ac10.png"
+  },
   "sources": [
-   "https://kitsu.io/anime/kimetsu-no-yaiba"
+   "https://kitsu.io/anime/kimetsu-no-yaiba",
+   "https://anilist.co/anime/101922"
   ]
  },
  "Naruto: Shippuden": {
@@ -259,6 +318,7 @@
    "source": "https://kitsu.io/anime/naruto-shippuden"
   },
   "wide": [
+   "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/aad4501da347.jpg",
    "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/6526095bea20.jpg",
    "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/aeed5cd57a18.jpg",
    "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/faa654d34f2a.jpg",
@@ -275,15 +335,16 @@
    "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/820945b9fa40.jpg"
   ],
   "tall": [
+   "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/acf4983fd5bb.png",
    "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/0a01f5453798.jpg",
    "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/9b1eb8be402e.jpg",
    "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/6cd82a2bb5fc.jpg",
    "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/1e93f4d2104d.jpg"
   ],
   "characters": {
-   "Kakashi Hatake": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/ac9ddeb2d33a.jpg",
-   "Sasuke Uchiha": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/36c455c5fdbf.jpg",
-   "Naruto Uzumaki": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/b0f22f19d29e.jpg",
+   "Kakashi Hatake": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/b2ef2a2e8617.png",
+   "Sasuke Uchiha": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/84947eeff09b.png",
+   "Naruto Uzumaki": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/3983d66ff3b7.png",
    "A": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/7b83b1eddbaa.jpg",
    "A (First Raikage)": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/9663edaf6024.jpg",
    "A (Second Raikage)": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/969d2781d710.jpg",
@@ -299,10 +360,22 @@
    "Akane": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/f27f92888775.jpg",
    "Akatsuchi": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/0c6ae7ab5f7e.jpg",
    "Jinin Akebino": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/5222f6081f85.jpg",
-   "Chouza Akimichi": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/fdc0fb0971b7.jpg"
+   "Chouza Akimichi": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/fdc0fb0971b7.jpg",
+   "Sakura Haruno": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/b5ad3a407edb.png",
+   "Itachi Uchiha": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/47aaa46ef0ff.png",
+   "Shikamaru Nara": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/dfdcbcf92fbe.jpg",
+   "Gaara": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/6cebc560988f.png",
+   "Jiraiya": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/4ce71e77ce76.png",
+   "Minato Namikaze": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/3e88c8ad3afe.png",
+   "Hinata Hyuuga": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/3f6f2d21e972.png",
+   "Pain": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/5d03bd79c362.png",
+   "Rock Lee": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/8bf158a9fe7b.png",
+   "Madara Uchiha": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/ba557d3a9df4.png",
+   "Tobi": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/f41d6a7c112f.png"
   },
   "sources": [
-   "https://kitsu.io/anime/naruto-shippuden"
+   "https://kitsu.io/anime/naruto-shippuden",
+   "https://anilist.co/anime/1735"
   ]
  },
  "My Hero Academia": {
@@ -321,6 +394,7 @@
    "source": "https://kitsu.io/anime/boku-no-hero-academia"
   },
   "wide": [
+   "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/7bfbdf3ada75.jpg",
    "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/db2d874ac793.jpg",
    "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/5b2ddb95ae4c.png",
    "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/abb3b0412147.jpg",
@@ -368,6 +442,7 @@
    "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/4ac5d200f5ff.jpg"
   ],
   "tall": [
+   "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/a6c4212280e0.jpg",
    "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/79bd915066f3.png",
    "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/27dcd92a871a.jpg",
    "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/60e203f00b31.jpg",
@@ -375,28 +450,40 @@
    "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/422091fe8dad.jpg"
   ],
   "characters": {
-   "Katsuki Bakugou": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/6ec11aacf6f4.jpg",
-   "Tenya Iida": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/11c15826d926.jpg",
-   "Izuku Midoriya": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/8c85e2c0d7d4.jpg",
-   "Ochako Uraraka": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/4ccd05c9cf56.jpg",
+   "Katsuki Bakugou": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/39de3f9473e8.png",
+   "Tenya Iida": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/4b320cdd3390.png",
+   "Izuku Midoriya": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/60c94bb4a086.png",
+   "Ochako Uraraka": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/87ab01e3189a.png",
    "13-gou": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/7aec9a183f38.jpg",
-   "Shouta Aizawa": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/dbeed077b182.jpg",
-   "Yuuga Aoyama": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/b36c9d4c9071.jpg",
-   "Mina Ashido": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/23100623c0ad.jpg",
-   "Tsuyu Asui": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/27a1331ef709.jpg",
+   "Shouta Aizawa": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/f10edaebf620.png",
+   "Yuuga Aoyama": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/b7e0565bf424.png",
+   "Mina Ashido": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/3d23270162d0.png",
+   "Tsuyu Asui": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/4dc29bea9956.png",
    "Backdraft": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/ac44e0b994a7.jpg",
    "Sekijirou Kan": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/726e937c2800.jpg",
    "Desutegoro": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/f76324bc3363.jpg",
    "Ectoplasm": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/8a703a0f9e82.jpg",
    "Giant Villain": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/fc64a0e29b3d.jpg",
-   "Tooru Hagakure": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/25c77378eb83.jpg",
+   "Tooru Hagakure": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/1583eb6d78eb.png",
    "Ken Ishiyama": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/03fcde4fab07.jpg",
-   "Kyouka Jirou": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/e589e05d092a.jpg",
-   "Denki Kaminari": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/3a3ce56dea32.jpg",
-   "Kamui Wood": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/bc8fad9b8148.jpg"
+   "Kyouka Jirou": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/7ef0afdb752a.png",
+   "Denki Kaminari": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/3c825449cff2.png",
+   "Kamui Wood": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/bc8fad9b8148.jpg",
+   "Toshinori Yagi": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/352175392975.jpg",
+   "Shouto Todoroki": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/69e4a16c65bf.png",
+   "Eijirou Kirishima": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/4a7387a35518.jpg",
+   "Tomura Shigaraki": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/2c92d4fa4cff.jpg",
+   "Fumikage Tokoyami": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/425a67a9b67b.png",
+   "Momo Yaoyorozu": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/0000ee1cd364.png",
+   "Nemuri Kayama": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/0120779f45f4.png",
+   "Yuu Takeyama": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/c06d83052ce7.png",
+   "Hanta Sero": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/3f120ce735a1.png",
+   "All For One": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/de7ac4d030a7.jpg",
+   "Hizashi Yamada": "/home/claude/tiktok-factory/runs/2026-09-27_0127/images/27ddf114f4a3.png"
   },
   "sources": [
-   "https://kitsu.io/anime/boku-no-hero-academia"
+   "https://kitsu.io/anime/boku-no-hero-academia",
+   "https://anilist.co/anime/21459"
   ]
  }
 }

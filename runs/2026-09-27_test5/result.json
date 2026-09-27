@@ -1,0 +1,170 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-09-27_test5/video.mp4",
+ "duration": 59.828,
+ "shots": 31,
+ "sources": [
+  "https://kitsu.io/anime/jujutsu-kaisen"
+ ],
+ "plan": [
+  {
+   "character": null,
+   "fx": "hook",
+   "start": 0.0
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 2.054
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 4.108
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 6.238999999999999
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 8.37
+  },
+  {
+   "character": "Megumi Fushiguro",
+   "fx": "punch",
+   "start": 10.501
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 12.298666666666666
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 14.096333333333334
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 15.894
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 17.6985
+  },
+  {
+   "character": "Sukuna",
+   "fx": null,
+   "start": 19.503
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 21.2345
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 22.966
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 25.4685
+  },
+  {
+   "character": "Sukuna",
+   "fx": "punch",
+   "start": 27.971
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 30.555
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 33.139
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 35.4935
+  },
+  {
+   "character": null,
+   "fx": "punch",
+   "start": 37.848
+  },
+  {
+   "character": "Satoru Gojou",
+   "fx": null,
+   "start": 38.668
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 41.051
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 43.434
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 45.19166666666666
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 46.949333333333335
+  },
+  {
+   "character": "Yuji Itadori",
+   "fx": null,
+   "start": 48.707
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 50.2485
+  },
+  {
+   "character": "Megumi Fushiguro",
+   "fx": null,
+   "start": 51.79
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 53.306
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 54.6365
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 55.967
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 57.8975
+  }
+ ],
+ "voice_engine": "clone",
+ "repo_path": "videos/2026/09/2026-09-27_test5.mp4",
+ "raw_url": "https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/videos/2026/09/2026-09-27_test5.mp4",
+ "lint": [],
+ "render_seconds": 607.3
+}

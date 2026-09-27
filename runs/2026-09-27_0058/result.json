@@ -1,13 +1,176 @@
 {
  "path": "/home/claude/tiktok-factory/runs/2026-09-27_0058/video.mp4",
- "duration": 90.247,
- "shots": 31,
+ "duration": 64.173,
+ "shots": 32,
  "sources": [
+  "https://anilist.co/anime/154587",
   "https://kitsu.io/anime/sousou-no-frieren"
+ ],
+ "plan": [
+  {
+   "character": null,
+   "fx": "hook",
+   "start": 0.0
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 1.6075
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 3.215
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 4.926666666666667
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 6.638333333333334
+  },
+  {
+   "character": "Frieren",
+   "fx": null,
+   "start": 8.350000000000001
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 10.440000000000001
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 12.530000000000001
+  },
+  {
+   "character": "Himmel",
+   "fx": "punch",
+   "start": 14.620000000000001
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 16.4605
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 18.301
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 20.9615
+  },
+  {
+   "character": "Fern",
+   "fx": null,
+   "start": 23.622
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 25.954333333333334
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 28.286666666666665
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 30.619
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 33.019
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 35.419
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 36.7055
+  },
+  {
+   "character": null,
+   "fx": "punch",
+   "start": 37.992
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 39.92425
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 41.8565
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 43.78874999999999
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 45.721
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 48.019499999999994
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 50.318
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 52.72233333333333
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 55.126666666666665
+  },
+  {
+   "character": "Frieren",
+   "fx": null,
+   "start": 57.531
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 58.921499999999995
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 60.312
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 62.2425
+  }
  ],
  "voice_engine": "clone",
  "repo_path": "videos/2026/09/2026-09-27_0058.mp4",
  "raw_url": "https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/videos/2026/09/2026-09-27_0058.mp4",
  "lint": [],
- "render_seconds": 929.7
+ "render_seconds": 635.3
 }
