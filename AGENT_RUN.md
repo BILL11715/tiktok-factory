@@ -47,7 +47,7 @@ Bill n'est pas là pendant le run : ne pose aucune question, décide et continue
    citation -> Anecdote), Statut "Brouillon Buffer", Date de création (datetime Paris),
    Hook, Script (texte intégral des segments), Hashtags, Lien vidéo (raw_url),
    Lien Buffer (https://publish.buffer.com/post/<id>), Sources visuels (result.sources),
-   Voix ("Clone Bill" si voice_engine = clone sinon "Piper"), Durée (s), Notes (créneau).
+   Voix ("Fish Audio" si voice_engine = fish, "Clone Bill" si clone, sinon "Piper"), Durée (s), Notes (créneau).
 9. **Historique local** : ajoute une ligne JSON à `history.jsonl`
    `{"stamp","slot" ("AAAA-MM-JJ HH:MM"),"format","anime","title","hook","buffer_id","notion_url","raw_url","voice"}`,
    commit + push (pull --rebase avant).
@@ -119,5 +119,13 @@ Règles (le pipeline refuse le script si les points marqués ⛔ manquent) :
   passage le plus énergique du morceau, les coupes sont calées sur le tempo).
 - `reveal_text` : pour une reco (nom de l'anime en fin), sinon omettre.
 - La signature "C'était Asura. On se capte au prochain épisode." est ajoutée automatiquement.
+- **Balises d'émotion (voix Fish Audio)** : la voix est le clone "Asura" sur Fish Audio, qui
+  comprend des balises en anglais entre crochets placées AVANT la phrase concernée :
+  `[excited]`, `[laughing]`, `[whispering]`, `[sad]`, `[surprised]`, `[angry]`, `[sigh]`,
+  `[shouting]`. Mets-en 1 tous les 2 ou 3 segments, là où l'émotion change (hype sur une
+  révélation, chuchoté pour la boucle ouverte, rire sur une vanne, triste pour une citation).
+  Jamais plus d'une par phrase, jamais dans `hook_text` (c'est le texte affiché). Elles sont
+  retirées automatiquement des sous-titres et ne comptent pas dans la longueur.
+  Exemple : `{"text": "[whispering] Reste jusqu'à la fin, j'te donne le nom."}`
 - Découpe en 10 à 16 segments courts (1 à 2 phrases). Phrases de 6 mots minimum (la voix
   clonée gère mal les phrases de 2-3 mots isolées, elles sont regroupées automatiquement).

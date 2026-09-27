@@ -33,7 +33,7 @@ def lint(script: dict) -> list[str]:
             problems.append(f"tournure interdite : « {b} »")
     if len(script.get("hook_text", "").split()) > 15:
         problems.append("hook_text > 15 mots")
-    total = sum(len(s["text"]) for s in script["segments"])
+    total = sum(len(voice._plain(s["text"])) for s in script["segments"])  # sans balises d'émotion
     if script.get("format") != "citation" and total < 1400:
         problems.append(f"texte trop court ({total} car.) : viser 1 500 à 1 650 car. pour dépasser 60 s")
     if not any(s.get("cta") for s in script["segments"]) or \
