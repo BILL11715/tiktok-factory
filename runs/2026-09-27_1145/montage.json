@@ -1,0 +1,16 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-09-27_1145/video.mp4",
+ "duration": 81.341,
+ "shots": 45,
+ "sources": [
+  "https://anilist.co/anime/177709",
+  "https://kitsu.io/anime/sakamoto-days"
+ ],
+ "music": {
+  "file": "pote.mp3",
+  "bpm": 184.6,
+  "offset": 47.39
+ },
+ "sfx": 31,
+ "engine": "remotion (OpenMontage)"
+}
