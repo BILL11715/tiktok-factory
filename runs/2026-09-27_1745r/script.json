@@ -1,0 +1,176 @@
+{
+ "title": "Top 5 des pouvoirs les plus cheatés de Hunter x Hunter",
+ "format": "top",
+ "tone": "hype",
+ "music": "hype2",
+ "animes": [
+  "Hunter x Hunter (2011)"
+ ],
+ "hook_text": "Le pouvoir numéro 1 de Hunter x Hunter peut littéralement tout exaucer",
+ "spoiler": false,
+ "segments": [
+  {
+   "text": "Le pouvoir numéro 1 de Hunter x Hunter peut littéralement tout exaucer.",
+   "sfx": true,
+   "emphasis": [
+    "tout"
+   ]
+  },
+  {
+   "text": "[whispering] Reste jusqu'au bout, parce que le numéro 2 m'a mis une claque que j'ai toujours pas digérée.",
+   "emphasis": [
+    "claque"
+   ]
+  },
+  {
+   "text": "Numéro 5, l'Emperor Time de Kurapika. Ses yeux deviennent rouges et d'un coup il maîtrise toutes les catégories de Nen à fond.",
+   "overlay": "#5",
+   "emphasis": [
+    "Emperor Time"
+   ],
+   "shots": [
+    {
+     "anime": "Hunter x Hunter (2011)",
+     "kind": "character",
+     "character": "Kurapika",
+     "at": "Kurapika"
+    }
+   ]
+  },
+  {
+   "text": "[sigh] Sauf que chaque seconde utilisée lui coûte une heure de vie. Cheaté, oui, mais avec des intérêts de malade.",
+   "emphasis": [
+    "heure de vie"
+   ]
+  },
+  {
+   "text": "Numéro 4, le Skill Hunter de Chrollo. Il vole le pouvoir des autres et le range dans son bouquin, comme une collection.",
+   "overlay": "#4",
+   "emphasis": [
+    "vole"
+   ],
+   "shots": [
+    {
+     "anime": "Hunter x Hunter (2011)",
+     "kind": "character",
+     "character": "Chrollo",
+     "at": "Chrollo"
+    }
+   ]
+  },
+  {
+   "text": "[laughing] Numéro 3, et là y'en a qui vont rire, le Hakoware de Knuckle. Il te prête de l'aura, et la dette grossit toutes les dix secondes.",
+   "overlay": "#3",
+   "emphasis": [
+    "Hakoware"
+   ],
+   "shots": [
+    {
+     "anime": "Hunter x Hunter (2011)",
+     "kind": "character",
+     "character": "Knuckle",
+     "at": "Knuckle"
+    }
+   ]
+  },
+  {
+   "text": "Si ta dette dépasse ton aura, t'es en faillite et tu perds ton Nen. Il te bat sans te mettre KO, c'est le banquier le plus dangereux de l'anime.",
+   "stamp": "CHEATÉ",
+   "sfx": true,
+   "emphasis": [
+    "faillite"
+   ]
+  },
+  {
+   "text": "Si toi aussi tu penses que Togashi est un génie, abonne-toi, la partie 2 avec les pouvoirs les plus nuls arrive très vite.",
+   "cta": true,
+   "emphasis": [
+    "abonne-toi"
+   ]
+  },
+  {
+   "text": "[excited] Numéro 2, le Hyakushiki Kannon de Netero. Une statue géante aux mille mains qui frappe plus vite que la pensée.",
+   "overlay": "#2",
+   "emphasis": [
+    "Netero"
+   ],
+   "shots": [
+    {
+     "anime": "Hunter x Hunter (2011)",
+     "kind": "character",
+     "character": "Netero",
+     "at": "Netero"
+    }
+   ]
+  },
+  {
+   "text": "[sad] Et pourtant face à Meruem, ça suffit pas. Le vieux sort sa dernière attaque, le Zero no Te, et même ça, le roi s'en relève.",
+   "grade": "bw",
+   "emphasis": [
+    "Meruem"
+   ],
+   "shots": [
+    {
+     "anime": "Hunter x Hunter (2011)",
+     "kind": "character",
+     "character": "Meruem",
+     "at": "Meruem"
+    }
+   ]
+  },
+  {
+   "text": "Alors Netero sourit, et il déclenche la bombe cachée dans son propre cœur. Ce combat, frr, je le regarde encore et j'ai des frissons.",
+   "grade": "bw",
+   "sfx": true,
+   "emphasis": [
+    "bombe"
+   ]
+  },
+  {
+   "text": "[excited] Et numéro 1, Nanika, le pouvoir caché dans Alluka, la petite sœur de Killua. Tu lui demandes un vœu, n'importe lequel, et il se réalise.",
+   "overlay": "#1",
+   "stamp": "INJUSTE",
+   "sfx": true,
+   "emphasis": [
+    "vœu"
+   ],
+   "shots": [
+    {
+     "anime": "Hunter x Hunter (2011)",
+     "kind": "character",
+     "character": "Alluka",
+     "at": "Alluka"
+    }
+   ]
+  },
+  {
+   "text": "Gon était à moitié mort après son combat contre Pitou, et Nanika l'a soigné d'un coup. Mais si tu rates les règles, ça coûte très cher autour de toi.",
+   "emphasis": [
+    "soigné"
+   ],
+   "shots": [
+    {
+     "anime": "Hunter x Hunter (2011)",
+     "kind": "character",
+     "character": "Gon",
+     "at": "Gon"
+    }
+   ]
+  },
+  {
+   "text": "Et toi, c'est quoi ton top 1 des pouvoirs de Hunter x Hunter ? Dis-le moi en com'.",
+   "emphasis": [
+    "top 1"
+   ]
+  }
+ ],
+ "caption": "Le numéro 1 est vraiment injuste 😭 c'est quoi ton top 1 ?",
+ "hashtags": [
+  "#anime",
+  "#manga",
+  "#animefr",
+  "#mangafr",
+  "#hunterxhunter",
+  "#topanime"
+ ]
+}
