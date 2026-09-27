@@ -161,6 +161,20 @@ def _tts_piper(sent: str, out: Path, tone: str) -> None:
         _PIPER.synthesize_wav(sent, wf, syn_config=SynthesisConfig(length_scale=speed))
 
 
+def release() -> None:
+    """Libère le modèle de voix (plusieurs Go) avant le montage Remotion."""
+    global _CB, _PIPER
+    _CB, _PIPER = None, None
+    _CONDS.clear()
+    import gc
+    gc.collect()
+    try:
+        import torch  # type: ignore
+        torch.set_num_threads(1)
+    except Exception:
+        pass
+
+
 # ------------------------------------------------------------------ public
 def engine() -> str:
     forced = os.environ.get("TF_VOICE")
@@ -235,6 +249,7 @@ def synthesize(segments: list[dict], workdir: Path, tone: str) -> dict:
     voice = workdir / "voice.wav"
     subprocess.run(["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", str(lst),
                     "-c", "copy", str(voice)], check=True, cwd=vdir)
+    release()
     result = {"engine": eng, "path": str(voice), "duration": round(t, 3), "timeline": timeline}
     (workdir / "voice.json").write_text(json.dumps(result, ensure_ascii=False, indent=1))
     return result

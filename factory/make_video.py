@@ -69,12 +69,17 @@ def main(script_path: str) -> dict:
     v = voice.synthesize(script["segments"], work, script.get("tone", "pote"))
     print(f"      durée {v['duration']:.1f}s")
     print("[3/4] montage")
+    # le montage tourne dans un processus neuf : la mémoire du modèle de voix est rendue au système
+    import subprocess as _sp
+    rc = _sp.run([sys.executable, "-m", "factory.montage_cli", str(sp)], cwd=str(ROOT)).returncode
+    if rc == 0 and (work / "montage.json").exists():
+        r = json.loads((work / "montage.json").read_text())
+    else:
+        r = None
     out = work / "video.mp4"
     seed = sum(map(ord, script.get("title", ""))) & 0xFFFF
-    try:  # montage v3 : moteur Remotion d'OpenMontage (motion design, transitions)
-        r = motion.render(script, v, index, work, out, seed=seed)
-    except Exception as exc:  # secours : montage FFmpeg v2
-        print(f"[montage] Remotion a échoué ({exc}), montage de secours FFmpeg")
+    if r is None:  # secours : montage FFmpeg v2
+        print("[montage] Remotion a échoué, montage de secours FFmpeg")
         r = render.render(script, v, index, work, out, seed=seed)
         r["engine"] = "ffmpeg (secours)"
     print("[4/4] rangement")
