@@ -1,0 +1,1666 @@
+{
+ "engine": "clone",
+ "path": "/home/claude/tiktok-factory/runs/2026-09-27_0610/voice.wav",
+ "duration": 93.623,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 5.943,
+   "slot_end": 6.043,
+   "text": "Barbe Noire n'est pas un humain normal, et Oda le cache depuis le début.",
+   "words": [
+    {
+     "w": "Barbe",
+     "start": 0.0,
+     "end": 0.471
+    },
+    {
+     "w": "Noire",
+     "start": 0.471,
+     "end": 0.942
+    },
+    {
+     "w": "n'est",
+     "start": 0.942,
+     "end": 1.341
+    },
+    {
+     "w": "pas",
+     "start": 1.341,
+     "end": 1.667
+    },
+    {
+     "w": "un",
+     "start": 1.667,
+     "end": 1.921
+    },
+    {
+     "w": "humain",
+     "start": 1.921,
+     "end": 2.464
+    },
+    {
+     "w": "normal,",
+     "start": 2.464,
+     "end": 3.189
+    },
+    {
+     "w": "et",
+     "start": 3.189,
+     "end": 3.443
+    },
+    {
+     "w": "Oda",
+     "start": 3.443,
+     "end": 3.769
+    },
+    {
+     "w": "le",
+     "start": 3.769,
+     "end": 4.022
+    },
+    {
+     "w": "cache",
+     "start": 4.022,
+     "end": 4.493
+    },
+    {
+     "w": "depuis",
+     "start": 4.493,
+     "end": 5.037
+    },
+    {
+     "w": "le",
+     "start": 5.037,
+     "end": 5.291
+    },
+    {
+     "w": "début.",
+     "start": 5.291,
+     "end": 5.943
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 6.043,
+   "end": 9.789,
+   "slot_end": 9.889,
+   "text": "C'est une théorie, attention, mais reste jusqu'au bout parce que le dernier indice est franchement flippant.",
+   "words": [
+    {
+     "w": "C'est",
+     "start": 6.043,
+     "end": 6.215
+    },
+    {
+     "w": "une",
+     "start": 6.215,
+     "end": 6.356
+    },
+    {
+     "w": "théorie,",
+     "start": 6.356,
+     "end": 6.701
+    },
+    {
+     "w": "attention,",
+     "start": 6.701,
+     "end": 7.109
+    },
+    {
+     "w": "mais",
+     "start": 7.109,
+     "end": 7.281
+    },
+    {
+     "w": "reste",
+     "start": 7.281,
+     "end": 7.485
+    },
+    {
+     "w": "jusqu'au",
+     "start": 7.485,
+     "end": 7.751
+    },
+    {
+     "w": "bout",
+     "start": 7.751,
+     "end": 7.924
+    },
+    {
+     "w": "parce",
+     "start": 7.924,
+     "end": 8.127
+    },
+    {
+     "w": "que",
+     "start": 8.127,
+     "end": 8.269
+    },
+    {
+     "w": "le",
+     "start": 8.269,
+     "end": 8.378
+    },
+    {
+     "w": "dernier",
+     "start": 8.378,
+     "end": 8.645
+    },
+    {
+     "w": "indice",
+     "start": 8.645,
+     "end": 8.88
+    },
+    {
+     "w": "est",
+     "start": 8.88,
+     "end": 9.021
+    },
+    {
+     "w": "franchement",
+     "start": 9.021,
+     "end": 9.413
+    },
+    {
+     "w": "flippant.",
+     "start": 9.413,
+     "end": 9.789
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 9.889,
+   "end": 16.13,
+   "slot_end": 16.23,
+   "text": "Premier truc, et ça c'est pas une théorie. Teach, c'est le seul mec de tout One Piece qui a deux fruits du démon en même temps.",
+   "words": [
+    {
+     "w": "Premier",
+     "start": 9.889,
+     "end": 10.241
+    },
+    {
+     "w": "truc,",
+     "start": 10.241,
+     "end": 10.572
+    },
+    {
+     "w": "et",
+     "start": 10.572,
+     "end": 10.717
+    },
+    {
+     "w": "ça",
+     "start": 10.717,
+     "end": 10.862
+    },
+    {
+     "w": "c'est",
+     "start": 10.862,
+     "end": 11.089
+    },
+    {
+     "w": "pas",
+     "start": 11.089,
+     "end": 11.276
+    },
+    {
+     "w": "une",
+     "start": 11.276,
+     "end": 11.462
+    },
+    {
+     "w": "théorie.",
+     "start": 11.462,
+     "end": 11.917
+    },
+    {
+     "w": "Teach,",
+     "start": 11.967,
+     "end": 12.357
+    },
+    {
+     "w": "c'est",
+     "start": 12.357,
+     "end": 12.596
+    },
+    {
+     "w": "le",
+     "start": 12.596,
+     "end": 12.748
+    },
+    {
+     "w": "seul",
+     "start": 12.748,
+     "end": 12.986
+    },
+    {
+     "w": "mec",
+     "start": 12.986,
+     "end": 13.181
+    },
+    {
+     "w": "de",
+     "start": 13.181,
+     "end": 13.333
+    },
+    {
+     "w": "tout",
+     "start": 13.333,
+     "end": 13.572
+    },
+    {
+     "w": "One",
+     "start": 13.572,
+     "end": 13.767
+    },
+    {
+     "w": "Piece",
+     "start": 13.767,
+     "end": 14.049
+    },
+    {
+     "w": "qui",
+     "start": 14.049,
+     "end": 14.244
+    },
+    {
+     "w": "a",
+     "start": 14.244,
+     "end": 14.352
+    },
+    {
+     "w": "deux",
+     "start": 14.352,
+     "end": 14.591
+    },
+    {
+     "w": "fruits",
+     "start": 14.591,
+     "end": 14.916
+    },
+    {
+     "w": "du",
+     "start": 14.916,
+     "end": 15.068
+    },
+    {
+     "w": "démon",
+     "start": 15.068,
+     "end": 15.349
+    },
+    {
+     "w": "en",
+     "start": 15.349,
+     "end": 15.501
+    },
+    {
+     "w": "même",
+     "start": 15.501,
+     "end": 15.74
+    },
+    {
+     "w": "temps.",
+     "start": 15.74,
+     "end": 16.13
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 16.23,
+   "end": 22.402,
+   "slot_end": 22.502,
+   "text": "Le Yami Yami, les ténèbres. Et le Gura Gura, qu'il vole à Barbe Blanche direct après sa mort à Marineford.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 16.23,
+     "end": 16.407
+    },
+    {
+     "w": "Yami",
+     "start": 16.407,
+     "end": 16.685
+    },
+    {
+     "w": "Yami,",
+     "start": 16.685,
+     "end": 17.09
+    },
+    {
+     "w": "les",
+     "start": 17.09,
+     "end": 17.318
+    },
+    {
+     "w": "ténèbres.",
+     "start": 17.318,
+     "end": 17.925
+    },
+    {
+     "w": "Et",
+     "start": 17.925,
+     "end": 18.102
+    },
+    {
+     "w": "le",
+     "start": 18.102,
+     "end": 18.279
+    },
+    {
+     "w": "Gura",
+     "start": 18.279,
+     "end": 18.557
+    },
+    {
+     "w": "Gura,",
+     "start": 18.557,
+     "end": 18.962
+    },
+    {
+     "w": "qu'il",
+     "start": 18.962,
+     "end": 19.24
+    },
+    {
+     "w": "vole",
+     "start": 19.24,
+     "end": 19.518
+    },
+    {
+     "w": "à",
+     "start": 19.518,
+     "end": 19.645
+    },
+    {
+     "w": "Barbe",
+     "start": 19.645,
+     "end": 19.974
+    },
+    {
+     "w": "Blanche",
+     "start": 19.974,
+     "end": 20.404
+    },
+    {
+     "w": "direct",
+     "start": 20.404,
+     "end": 20.783
+    },
+    {
+     "w": "après",
+     "start": 20.783,
+     "end": 21.112
+    },
+    {
+     "w": "sa",
+     "start": 21.112,
+     "end": 21.289
+    },
+    {
+     "w": "mort",
+     "start": 21.289,
+     "end": 21.567
+    },
+    {
+     "w": "à",
+     "start": 21.567,
+     "end": 21.694
+    },
+    {
+     "w": "Marineford.",
+     "start": 21.694,
+     "end": 22.402
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 22.502,
+   "end": 27.6,
+   "slot_end": 27.7,
+   "text": "Normalement c'est impossible. Deux fruits, ton corps explose. Tout le monde le sait.",
+   "words": [
+    {
+     "w": "Normalement",
+     "start": 22.502,
+     "end": 23.162
+    },
+    {
+     "w": "c'est",
+     "start": 23.162,
+     "end": 23.453
+    },
+    {
+     "w": "impossible.",
+     "start": 23.453,
+     "end": 24.193
+    },
+    {
+     "w": "Deux",
+     "start": 24.193,
+     "end": 24.483
+    },
+    {
+     "w": "fruits,",
+     "start": 24.483,
+     "end": 25.012
+    },
+    {
+     "w": "ton",
+     "start": 25.012,
+     "end": 25.249
+    },
+    {
+     "w": "corps",
+     "start": 25.249,
+     "end": 25.593
+    },
+    {
+     "w": "explose.",
+     "start": 25.593,
+     "end": 26.174
+    },
+    {
+     "w": "Tout",
+     "start": 26.174,
+     "end": 26.464
+    },
+    {
+     "w": "le",
+     "start": 26.464,
+     "end": 26.649
+    },
+    {
+     "w": "monde",
+     "start": 26.649,
+     "end": 26.993
+    },
+    {
+     "w": "le",
+     "start": 26.993,
+     "end": 27.178
+    },
+    {
+     "w": "sait.",
+     "start": 27.178,
+     "end": 27.6
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 27.7,
+   "end": 34.733,
+   "slot_end": 34.833,
+   "text": "Et là Marco, qui a vécu des années sur le même bateau que lui, lâche genre en passant que le corps de Teach est pas normal. Qu'il est anormal.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 27.7,
+     "end": 27.852
+    },
+    {
+     "w": "là",
+     "start": 27.852,
+     "end": 28.003
+    },
+    {
+     "w": "Marco,",
+     "start": 28.003,
+     "end": 28.393
+    },
+    {
+     "w": "qui",
+     "start": 28.393,
+     "end": 28.588
+    },
+    {
+     "w": "a",
+     "start": 28.588,
+     "end": 28.696
+    },
+    {
+     "w": "vécu",
+     "start": 28.696,
+     "end": 28.934
+    },
+    {
+     "w": "des",
+     "start": 28.934,
+     "end": 29.128
+    },
+    {
+     "w": "années",
+     "start": 29.128,
+     "end": 29.453
+    },
+    {
+     "w": "sur",
+     "start": 29.453,
+     "end": 29.648
+    },
+    {
+     "w": "le",
+     "start": 29.648,
+     "end": 29.799
+    },
+    {
+     "w": "même",
+     "start": 29.799,
+     "end": 30.037
+    },
+    {
+     "w": "bateau",
+     "start": 30.037,
+     "end": 30.362
+    },
+    {
+     "w": "que",
+     "start": 30.362,
+     "end": 30.557
+    },
+    {
+     "w": "lui,",
+     "start": 30.557,
+     "end": 30.86
+    },
+    {
+     "w": "lâche",
+     "start": 30.86,
+     "end": 31.141
+    },
+    {
+     "w": "genre",
+     "start": 31.141,
+     "end": 31.422
+    },
+    {
+     "w": "en",
+     "start": 31.422,
+     "end": 31.574
+    },
+    {
+     "w": "passant",
+     "start": 31.574,
+     "end": 31.942
+    },
+    {
+     "w": "que",
+     "start": 31.942,
+     "end": 32.136
+    },
+    {
+     "w": "le",
+     "start": 32.136,
+     "end": 32.288
+    },
+    {
+     "w": "corps",
+     "start": 32.288,
+     "end": 32.569
+    },
+    {
+     "w": "de",
+     "start": 32.569,
+     "end": 32.721
+    },
+    {
+     "w": "Teach",
+     "start": 32.721,
+     "end": 33.002
+    },
+    {
+     "w": "est",
+     "start": 33.002,
+     "end": 33.197
+    },
+    {
+     "w": "pas",
+     "start": 33.197,
+     "end": 33.391
+    },
+    {
+     "w": "normal.",
+     "start": 33.391,
+     "end": 33.824
+    },
+    {
+     "w": "Qu'il",
+     "start": 33.824,
+     "end": 34.062
+    },
+    {
+     "w": "est",
+     "start": 34.062,
+     "end": 34.257
+    },
+    {
+     "w": "anormal.",
+     "start": 34.257,
+     "end": 34.733
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 34.833,
+   "end": 41.293,
+   "slot_end": 41.393,
+   "text": "Si t'aimes quand on creuse One Piece comme ça, abonne-toi, j'ai encore une grosse théorie sur Imu qui arrive.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 34.833,
+     "end": 35.02
+    },
+    {
+     "w": "t'aimes",
+     "start": 35.02,
+     "end": 35.42
+    },
+    {
+     "w": "quand",
+     "start": 35.42,
+     "end": 35.767
+    },
+    {
+     "w": "on",
+     "start": 35.767,
+     "end": 35.954
+    },
+    {
+     "w": "creuse",
+     "start": 35.954,
+     "end": 36.354
+    },
+    {
+     "w": "One",
+     "start": 36.354,
+     "end": 36.595
+    },
+    {
+     "w": "Piece",
+     "start": 36.595,
+     "end": 36.942
+    },
+    {
+     "w": "comme",
+     "start": 36.942,
+     "end": 37.289
+    },
+    {
+     "w": "ça,",
+     "start": 37.289,
+     "end": 37.609
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 37.609,
+     "end": 38.303
+    },
+    {
+     "w": "j'ai",
+     "start": 38.303,
+     "end": 38.543
+    },
+    {
+     "w": "encore",
+     "start": 38.543,
+     "end": 38.944
+    },
+    {
+     "w": "une",
+     "start": 38.944,
+     "end": 39.184
+    },
+    {
+     "w": "grosse",
+     "start": 39.184,
+     "end": 39.584
+    },
+    {
+     "w": "théorie",
+     "start": 39.584,
+     "end": 40.038
+    },
+    {
+     "w": "sur",
+     "start": 40.038,
+     "end": 40.279
+    },
+    {
+     "w": "Imu",
+     "start": 40.279,
+     "end": 40.519
+    },
+    {
+     "w": "qui",
+     "start": 40.519,
+     "end": 40.759
+    },
+    {
+     "w": "arrive.",
+     "start": 40.759,
+     "end": 41.293
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 41.393,
+   "end": 49.205,
+   "slot_end": 49.305,
+   "text": "Mais attends, deuxième indice. Dans le flashback du chapitre 966, Shanks et Buggy parlent d'un mec bizarre sur le bateau de Barbe Blanche.",
+   "words": [
+    {
+     "w": "Mais",
+     "start": 41.393,
+     "end": 41.669
+    },
+    {
+     "w": "attends,",
+     "start": 41.669,
+     "end": 42.222
+    },
+    {
+     "w": "deuxième",
+     "start": 42.222,
+     "end": 42.699
+    },
+    {
+     "w": "indice.",
+     "start": 42.699,
+     "end": 43.202
+    },
+    {
+     "w": "Dans",
+     "start": 43.202,
+     "end": 43.478
+    },
+    {
+     "w": "le",
+     "start": 43.478,
+     "end": 43.654
+    },
+    {
+     "w": "flashback",
+     "start": 43.654,
+     "end": 44.181
+    },
+    {
+     "w": "du",
+     "start": 44.181,
+     "end": 44.357
+    },
+    {
+     "w": "chapitre",
+     "start": 44.357,
+     "end": 44.834
+    },
+    {
+     "w": "966,",
+     "start": 44.834,
+     "end": 45.186
+    },
+    {
+     "w": "Shanks",
+     "start": 45.186,
+     "end": 45.563
+    },
+    {
+     "w": "et",
+     "start": 45.563,
+     "end": 45.739
+    },
+    {
+     "w": "Buggy",
+     "start": 45.739,
+     "end": 46.065
+    },
+    {
+     "w": "parlent",
+     "start": 46.065,
+     "end": 46.492
+    },
+    {
+     "w": "d'un",
+     "start": 46.492,
+     "end": 46.718
+    },
+    {
+     "w": "mec",
+     "start": 46.718,
+     "end": 46.945
+    },
+    {
+     "w": "bizarre",
+     "start": 46.945,
+     "end": 47.372
+    },
+    {
+     "w": "sur",
+     "start": 47.372,
+     "end": 47.598
+    },
+    {
+     "w": "le",
+     "start": 47.598,
+     "end": 47.773
+    },
+    {
+     "w": "bateau",
+     "start": 47.773,
+     "end": 48.15
+    },
+    {
+     "w": "de",
+     "start": 48.15,
+     "end": 48.326
+    },
+    {
+     "w": "Barbe",
+     "start": 48.326,
+     "end": 48.653
+    },
+    {
+     "w": "Blanche.",
+     "start": 48.653,
+     "end": 49.205
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 49.305,
+   "end": 52.262,
+   "slot_end": 52.362,
+   "text": "Un mec qui dort jamais. Jamais. Et ce mec, c'est Teach.",
+   "words": [
+    {
+     "w": "Un",
+     "start": 49.305,
+     "end": 49.461
+    },
+    {
+     "w": "mec",
+     "start": 49.461,
+     "end": 49.661
+    },
+    {
+     "w": "qui",
+     "start": 49.661,
+     "end": 49.861
+    },
+    {
+     "w": "dort",
+     "start": 49.861,
+     "end": 50.106
+    },
+    {
+     "w": "jamais.",
+     "start": 50.106,
+     "end": 50.55
+    },
+    {
+     "w": "Jamais.",
+     "start": 50.55,
+     "end": 50.995
+    },
+    {
+     "w": "Et",
+     "start": 50.995,
+     "end": 51.15
+    },
+    {
+     "w": "ce",
+     "start": 51.15,
+     "end": 51.306
+    },
+    {
+     "w": "mec,",
+     "start": 51.306,
+     "end": 51.617
+    },
+    {
+     "w": "c'est",
+     "start": 51.617,
+     "end": 51.862
+    },
+    {
+     "w": "Teach.",
+     "start": 51.862,
+     "end": 52.262
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 52.362,
+   "end": 57.626,
+   "slot_end": 57.726,
+   "text": "Et regarde son drapeau. Y'a pas une tête de mort, y'a trois crânes. Trois.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 52.362,
+     "end": 52.576
+    },
+    {
+     "w": "regarde",
+     "start": 52.576,
+     "end": 53.096
+    },
+    {
+     "w": "son",
+     "start": 53.096,
+     "end": 53.372
+    },
+    {
+     "w": "drapeau.",
+     "start": 53.372,
+     "end": 54.045
+    },
+    {
+     "w": "Y'a",
+     "start": 54.045,
+     "end": 54.259
+    },
+    {
+     "w": "pas",
+     "start": 54.259,
+     "end": 54.535
+    },
+    {
+     "w": "une",
+     "start": 54.535,
+     "end": 54.81
+    },
+    {
+     "w": "tête",
+     "start": 54.81,
+     "end": 55.147
+    },
+    {
+     "w": "de",
+     "start": 55.147,
+     "end": 55.361
+    },
+    {
+     "w": "mort,",
+     "start": 55.361,
+     "end": 55.851
+    },
+    {
+     "w": "y'a",
+     "start": 55.851,
+     "end": 56.065
+    },
+    {
+     "w": "trois",
+     "start": 56.065,
+     "end": 56.463
+    },
+    {
+     "w": "crânes.",
+     "start": 56.463,
+     "end": 57.075
+    },
+    {
+     "w": "Trois.",
+     "start": 57.075,
+     "end": 57.626
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 57.726,
+   "end": 67.556,
+   "slot_end": 67.656,
+   "text": "D'où la théorie du Cerbère, le chien des enfers à trois têtes. Plusieurs âmes dans un seul corps. Une qui dort pendant que les autres tiennent le truc.",
+   "words": [
+    {
+     "w": "D'où",
+     "start": 57.726,
+     "end": 58.006
+    },
+    {
+     "w": "la",
+     "start": 58.006,
+     "end": 58.225
+    },
+    {
+     "w": "théorie",
+     "start": 58.225,
+     "end": 58.756
+    },
+    {
+     "w": "du",
+     "start": 58.756,
+     "end": 58.974
+    },
+    {
+     "w": "Cerbère,",
+     "start": 58.974,
+     "end": 59.661
+    },
+    {
+     "w": "le",
+     "start": 59.661,
+     "end": 59.879
+    },
+    {
+     "w": "chien",
+     "start": 59.879,
+     "end": 60.285
+    },
+    {
+     "w": "des",
+     "start": 60.285,
+     "end": 60.566
+    },
+    {
+     "w": "enfers",
+     "start": 60.566,
+     "end": 61.034
+    },
+    {
+     "w": "à",
+     "start": 61.034,
+     "end": 61.19
+    },
+    {
+     "w": "trois",
+     "start": 61.19,
+     "end": 61.596
+    },
+    {
+     "w": "têtes.",
+     "start": 61.596,
+     "end": 62.158
+    },
+    {
+     "w": "Plusieurs",
+     "start": 62.158,
+     "end": 62.814
+    },
+    {
+     "w": "âmes",
+     "start": 62.814,
+     "end": 63.157
+    },
+    {
+     "w": "dans",
+     "start": 63.157,
+     "end": 63.5
+    },
+    {
+     "w": "un",
+     "start": 63.5,
+     "end": 63.719
+    },
+    {
+     "w": "seul",
+     "start": 63.719,
+     "end": 64.062
+    },
+    {
+     "w": "corps.",
+     "start": 64.062,
+     "end": 64.624
+    },
+    {
+     "w": "Une",
+     "start": 64.674,
+     "end": 64.888
+    },
+    {
+     "w": "qui",
+     "start": 64.888,
+     "end": 65.103
+    },
+    {
+     "w": "dort",
+     "start": 65.103,
+     "end": 65.365
+    },
+    {
+     "w": "pendant",
+     "start": 65.365,
+     "end": 65.77
+    },
+    {
+     "w": "que",
+     "start": 65.77,
+     "end": 65.984
+    },
+    {
+     "w": "les",
+     "start": 65.984,
+     "end": 66.199
+    },
+    {
+     "w": "autres",
+     "start": 66.199,
+     "end": 66.556
+    },
+    {
+     "w": "tiennent",
+     "start": 66.556,
+     "end": 67.009
+    },
+    {
+     "w": "le",
+     "start": 67.009,
+     "end": 67.175
+    },
+    {
+     "w": "truc.",
+     "start": 67.175,
+     "end": 67.556
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 67.656,
+   "end": 72.4,
+   "slot_end": 72.5,
+   "text": "Et franchement ça expliquerait tout. Les deux fruits, le corps chelou, les nuits blanches, le drapeau.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 67.656,
+     "end": 67.797
+    },
+    {
+     "w": "franchement",
+     "start": 67.797,
+     "end": 68.297
+    },
+    {
+     "w": "ça",
+     "start": 68.297,
+     "end": 68.437
+    },
+    {
+     "w": "expliquerait",
+     "start": 68.437,
+     "end": 68.978
+    },
+    {
+     "w": "tout.",
+     "start": 68.978,
+     "end": 69.298
+    },
+    {
+     "w": "Les",
+     "start": 69.298,
+     "end": 69.478
+    },
+    {
+     "w": "deux",
+     "start": 69.478,
+     "end": 69.698
+    },
+    {
+     "w": "fruits,",
+     "start": 69.698,
+     "end": 70.098
+    },
+    {
+     "w": "le",
+     "start": 70.098,
+     "end": 70.239
+    },
+    {
+     "w": "corps",
+     "start": 70.239,
+     "end": 70.499
+    },
+    {
+     "w": "chelou,",
+     "start": 70.499,
+     "end": 70.899
+    },
+    {
+     "w": "les",
+     "start": 70.899,
+     "end": 71.079
+    },
+    {
+     "w": "nuits",
+     "start": 71.079,
+     "end": 71.34
+    },
+    {
+     "w": "blanches,",
+     "start": 71.34,
+     "end": 71.82
+    },
+    {
+     "w": "le",
+     "start": 71.82,
+     "end": 71.96
+    },
+    {
+     "w": "drapeau.",
+     "start": 71.96,
+     "end": 72.4
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 72.5,
+   "end": 80.857,
+   "slot_end": 80.957,
+   "text": "Sauf que, et faut être honnête, pas mal de fans disent qu'un chapitre récent, le 1138, a enterré la version Cerbère. Donc la théorie a pris un coup.",
+   "words": [
+    {
+     "w": "Sauf",
+     "start": 72.5,
+     "end": 72.769
+    },
+    {
+     "w": "que,",
+     "start": 72.769,
+     "end": 73.111
+    },
+    {
+     "w": "et",
+     "start": 73.111,
+     "end": 73.282
+    },
+    {
+     "w": "faut",
+     "start": 73.282,
+     "end": 73.551
+    },
+    {
+     "w": "être",
+     "start": 73.551,
+     "end": 73.82
+    },
+    {
+     "w": "honnête,",
+     "start": 73.82,
+     "end": 74.357
+    },
+    {
+     "w": "pas",
+     "start": 74.357,
+     "end": 74.577
+    },
+    {
+     "w": "mal",
+     "start": 74.577,
+     "end": 74.797
+    },
+    {
+     "w": "de",
+     "start": 74.797,
+     "end": 74.968
+    },
+    {
+     "w": "fans",
+     "start": 74.968,
+     "end": 75.237
+    },
+    {
+     "w": "disent",
+     "start": 75.237,
+     "end": 75.604
+    },
+    {
+     "w": "qu'un",
+     "start": 75.604,
+     "end": 75.872
+    },
+    {
+     "w": "chapitre",
+     "start": 75.872,
+     "end": 76.337
+    },
+    {
+     "w": "récent,",
+     "start": 76.337,
+     "end": 76.825
+    },
+    {
+     "w": "le",
+     "start": 76.825,
+     "end": 76.996
+    },
+    {
+     "w": "1138,",
+     "start": 76.996,
+     "end": 77.387
+    },
+    {
+     "w": "a",
+     "start": 77.387,
+     "end": 77.51
+    },
+    {
+     "w": "enterré",
+     "start": 77.51,
+     "end": 77.925
+    },
+    {
+     "w": "la",
+     "start": 77.925,
+     "end": 78.096
+    },
+    {
+     "w": "version",
+     "start": 78.096,
+     "end": 78.511
+    },
+    {
+     "w": "Cerbère.",
+     "start": 78.511,
+     "end": 79.049
+    },
+    {
+     "w": "Donc",
+     "start": 79.049,
+     "end": 79.318
+    },
+    {
+     "w": "la",
+     "start": 79.318,
+     "end": 79.489
+    },
+    {
+     "w": "théorie",
+     "start": 79.489,
+     "end": 79.904
+    },
+    {
+     "w": "a",
+     "start": 79.904,
+     "end": 80.026
+    },
+    {
+     "w": "pris",
+     "start": 80.026,
+     "end": 80.295
+    },
+    {
+     "w": "un",
+     "start": 80.295,
+     "end": 80.466
+    },
+    {
+     "w": "coup.",
+     "start": 80.466,
+     "end": 80.857
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 80.957,
+   "end": 87.649,
+   "slot_end": 87.749,
+   "text": "Moi j'y crois encore à moitié. Le Cerbère peut-être pas, mais un corps avec plusieurs âmes, j'te jure qu'Oda nous prépare un truc.",
+   "words": [
+    {
+     "w": "Moi",
+     "start": 80.957,
+     "end": 81.166
+    },
+    {
+     "w": "j'y",
+     "start": 81.166,
+     "end": 81.328
+    },
+    {
+     "w": "crois",
+     "start": 81.328,
+     "end": 81.629
+    },
+    {
+     "w": "encore",
+     "start": 81.629,
+     "end": 81.976
+    },
+    {
+     "w": "à",
+     "start": 81.976,
+     "end": 82.092
+    },
+    {
+     "w": "moitié.",
+     "start": 82.092,
+     "end": 82.555
+    },
+    {
+     "w": "Le",
+     "start": 82.555,
+     "end": 82.717
+    },
+    {
+     "w": "Cerbère",
+     "start": 82.717,
+     "end": 83.11
+    },
+    {
+     "w": "peut-être",
+     "start": 83.11,
+     "end": 83.55
+    },
+    {
+     "w": "pas,",
+     "start": 83.55,
+     "end": 83.875
+    },
+    {
+     "w": "mais",
+     "start": 83.875,
+     "end": 84.129
+    },
+    {
+     "w": "un",
+     "start": 84.129,
+     "end": 84.291
+    },
+    {
+     "w": "corps",
+     "start": 84.291,
+     "end": 84.592
+    },
+    {
+     "w": "avec",
+     "start": 84.592,
+     "end": 84.847
+    },
+    {
+     "w": "plusieurs",
+     "start": 84.847,
+     "end": 85.333
+    },
+    {
+     "w": "âmes,",
+     "start": 85.333,
+     "end": 85.704
+    },
+    {
+     "w": "j'te",
+     "start": 85.704,
+     "end": 85.912
+    },
+    {
+     "w": "jure",
+     "start": 85.912,
+     "end": 86.167
+    },
+    {
+     "w": "qu'Oda",
+     "start": 86.167,
+     "end": 86.468
+    },
+    {
+     "w": "nous",
+     "start": 86.468,
+     "end": 86.722
+    },
+    {
+     "w": "prépare",
+     "start": 86.722,
+     "end": 87.116
+    },
+    {
+     "w": "un",
+     "start": 87.116,
+     "end": 87.278
+    },
+    {
+     "w": "truc.",
+     "start": 87.278,
+     "end": 87.649
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 87.749,
+   "end": 90.543,
+   "slot_end": 90.643,
+   "text": "Alors dis-moi en com, Teach c'est un seul homme ou pas ? Je lis tout.",
+   "words": [
+    {
+     "w": "Alors",
+     "start": 87.749,
+     "end": 87.976
+    },
+    {
+     "w": "dis-moi",
+     "start": 87.976,
+     "end": 88.238
+    },
+    {
+     "w": "en",
+     "start": 88.238,
+     "end": 88.36
+    },
+    {
+     "w": "com,",
+     "start": 88.36,
+     "end": 88.604
+    },
+    {
+     "w": "Teach",
+     "start": 88.604,
+     "end": 88.831
+    },
+    {
+     "w": "c'est",
+     "start": 88.831,
+     "end": 89.023
+    },
+    {
+     "w": "un",
+     "start": 89.023,
+     "end": 89.146
+    },
+    {
+     "w": "seul",
+     "start": 89.146,
+     "end": 89.338
+    },
+    {
+     "w": "homme",
+     "start": 89.338,
+     "end": 89.565
+    },
+    {
+     "w": "ou",
+     "start": 89.565,
+     "end": 89.687
+    },
+    {
+     "w": "pas",
+     "start": 89.687,
+     "end": 89.844
+    },
+    {
+     "w": "?",
+     "start": 89.844,
+     "end": 89.984
+    },
+    {
+     "w": "Je",
+     "start": 89.984,
+     "end": 90.106
+    },
+    {
+     "w": "lis",
+     "start": 90.106,
+     "end": 90.263
+    },
+    {
+     "w": "tout.",
+     "start": 90.263,
+     "end": 90.543
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "start": 90.643,
+   "end": 92.923,
+   "slot_end": 93.623,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 90.643,
+     "end": 90.959
+    },
+    {
+     "w": "Asura.",
+     "start": 90.959,
+     "end": 91.339
+    },
+    {
+     "w": "On",
+     "start": 91.339,
+     "end": 91.487
+    },
+    {
+     "w": "se",
+     "start": 91.487,
+     "end": 91.635
+    },
+    {
+     "w": "capte",
+     "start": 91.635,
+     "end": 91.909
+    },
+    {
+     "w": "au",
+     "start": 91.909,
+     "end": 92.057
+    },
+    {
+     "w": "prochain",
+     "start": 92.057,
+     "end": 92.458
+    },
+    {
+     "w": "épisode.",
+     "start": 92.458,
+     "end": 92.923
+    }
+   ]
+  }
+ ]
+}
