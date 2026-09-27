@@ -204,7 +204,8 @@ def build(script: dict, voice: dict, index: dict, work: Path, rng: random.Random
 # ------------------------------------------------------------------ rendu + audio
 def ensure_node_modules() -> None:
     if not (REMOTION / "node_modules" / "remotion").exists():
-        subprocess.run(["npm", "ci", "--no-audit", "--no-fund", "--loglevel=error"], cwd=REMOTION, check=True)
+        subprocess.run(["npm", "ci", "--no-audit", "--no-fund", "--loglevel=error"], cwd=REMOTION, check=True,
+                       timeout=600)
 
 
 def render_video(work: Path, out: Path) -> None:
@@ -215,7 +216,7 @@ def render_video(work: Path, out: Path) -> None:
            f"--timeout=120000"]
     if Path(CHROME).exists():
         cmd.append(f"--browser-executable={CHROME}")
-    subprocess.run(cmd, cwd=REMOTION, check=True)
+    subprocess.run(cmd, cwd=REMOTION, check=True, timeout=int(os.environ.get("TF_REMOTION_TIMEOUT", "900")))
 
 
 def mix(voice_path: Path, music: dict, total: float, cues: list, work: Path) -> Path:
