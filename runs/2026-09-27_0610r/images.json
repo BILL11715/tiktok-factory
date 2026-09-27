@@ -1,0 +1,85 @@
+{
+ "One Piece": {
+  "meta": {
+   "id": "12",
+   "title": "One Piece",
+   "titles": {
+    "en": "One Piece",
+    "en_jp": "One Piece",
+    "ja_jp": "ONE PIECE"
+   },
+   "synopsis": "Gol D. Roger was known as the \"Pirate King,\" the strongest and most infamous being to have sailed the Grand Line. The capture and death of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece—which promises an unlimited amount of riches and fame—and quite possibly the pinnacle of glory and the title of the Pirate King.\nEnter Monkey D. Luffy, a 17-year-old boy who defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate ransacking villages for fun, Luffy’s reason for being a pirate is one of pure wonder: the thought of an exciting adventure that leads him to intriguing people and ultimately, the promised treasure. Following in the footsteps of his childhood hero, Luffy and his crew travel across the Grand Line, experiencing crazy adventures, unveiling dark mysteries and battling strong enemies, all in order to reach the most coveted of all fortunes—One Piece.\n[Written by MAL Rewrite]",
+   "episodes": null,
+   "start": "1999-10-20",
+   "source": "https://kitsu.io/anime/one-piece"
+  },
+  "wide": [
+   "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/31d6b235d300.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/fcd8018e918d.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/3e29d1e24938.png",
+   "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/67f0c469a468.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/1c3e25f04db9.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/f3dfda617c08.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/50a70dc37da8.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/6485638804d4.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/2a2417376a4f.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/ec686ad6cf76.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/43fd157a122c.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/fa8cc21bc96a.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/20a74cd9d4a3.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/46dc5029fadb.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/3eab8f3c544c.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/d25998734f3e.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/0c0fe0ca24cd.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/37171d87b68c.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/20e32a255224.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/cc06434b2d78.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/ea8e4f0e3093.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/8224654fa2e5.jpg"
+  ],
+  "tall": [
+   "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/d62edf3555c0.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/f43aed74ebcf.png",
+   "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/4aef1eae4026.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/5ae557773ec4.png",
+   "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/7e7d5394d289.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/d31b4ac66b98.jpg"
+  ],
+  "characters": {
+   "Franky": "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/09da79eeff5f.png",
+   "Luffy Monkey D.": "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/d739e84fc20c.jpg",
+   "Nami": "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/a126563b46a1.png",
+   "Robin Nico": "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/94ddbc6670c4.png",
+   "Zoro Roronoa": "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/f1d176d68566.png",
+   "Sanji": "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/dcb41912b4ed.png",
+   "Chopper Tony Tony": "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/f05a343a9cd8.jpg",
+   "Usopp": "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/1a9c6f99ed21.jpg",
+   "Abdullah": "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/4112c1bc6731.jpg",
+   "Abellon": "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/211ad3d0e82f.jpg",
+   "Absalom": "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/3b0f24a371ef.jpg",
+   "Hockera Achino": "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/3888927884ac.jpg",
+   "Campacino Achino": "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/693e8c128e71.jpg",
+   "Lil Achino": "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/d18626781c2a.jpg",
+   "Brindo Achino": "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/1f22e27fb104.jpg",
+   "Salcho Achino": "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/0fd36f5cb510.jpg",
+   "Arbell Achino": "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/1cae55902cfc.jpg",
+   "Don Achino": "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/66424582cec1.jpg",
+   "Agotogi": "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/e528a43d04a3.jpg",
+   "Luffy Monkey": "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/59a56f0aa6d3.png",
+   "Brook": "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/fd291b18883d.png",
+   "Jinbe": "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/1742a5c53a26.png",
+   "Law Trafalgar": "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/26c5ea6333b7.jpg",
+   "Ace Portgas": "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/c7b0d32ff5f2.jpg",
+   "Shanks": "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/829c0f385fd2.png",
+   "Hancock Boa": "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/0d1f333537a6.png",
+   "Doflamingo Donquixote": "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/1c4203042633.jpg",
+   "Newgate Edward": "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/a9a1490f758c.jpg",
+   "Rosinante Donquixote": "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/92adde88d8b6.png",
+   "Katakuri Charlotte": "/home/claude/tiktok-factory/runs/2026-09-27_0610r/images/3cd85d17ff9d.png"
+  },
+  "sources": [
+   "https://kitsu.io/anime/one-piece",
+   "https://anilist.co/anime/21"
+  ]
+ }
+}
