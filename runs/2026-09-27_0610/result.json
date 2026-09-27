@@ -1,0 +1,13 @@
+{
+ "engine": "ffmpeg (secours)",
+ "duration": 93.57,
+ "voice_engine": "clone",
+ "sources": [
+  "Kitsu",
+  "Jikan"
+ ],
+ "repo_path": "videos/2026/09/2026-09-27_0610.mp4",
+ "raw_url": "https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/videos/2026/09/2026-09-27_0610.mp4",
+ "lint": [],
+ "note": "Remotion bloqué ~95 min (mémoire saturée) puis tué, montage FFmpeg de secours ; process tué par OOM après écriture de video.mp4, rangement fait à la main"
+}
