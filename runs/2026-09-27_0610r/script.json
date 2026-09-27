@@ -1,0 +1,155 @@
+{
+  "title": "Théorie One Piece : Barbe Noire n'est pas un seul homme",
+  "format": "theorie",
+  "tone": "conteur",
+  "music": "mystere",
+  "animes": [
+    "One Piece"
+  ],
+  "hook_text": "Barbe Noire n'est pas un humain normal, et Oda le cache depuis le début",
+  "spoiler": false,
+  "segments": [
+    {
+      "text": "Barbe Noire n'est pas un humain normal, et Oda le cache depuis le début.",
+      "sfx": true,
+      "emphasis": [
+        "normal"
+      ],
+      "shots": [
+        {
+          "anime": "One Piece",
+          "kind": "character",
+          "character": "Marshall D. Teach",
+          "at": "Barbe"
+        }
+      ]
+    },
+    {
+      "text": "[whispering] C'est une théorie, attention, mais reste jusqu'au bout parce que le dernier indice est franchement flippant.",
+      "emphasis": [
+        "théorie"
+      ]
+    },
+    {
+      "text": "Premier truc, et ça c'est pas une théorie. Teach, c'est le seul mec de tout One Piece qui a deux fruits du démon en même temps.",
+      "emphasis": [
+        "deux fruits"
+      ],
+      "shots": [
+        {
+          "anime": "One Piece",
+          "kind": "character",
+          "character": "Marshall D. Teach",
+          "at": "Teach"
+        }
+      ]
+    },
+    {
+      "text": "Le Yami Yami, les ténèbres. Et le Gura Gura, qu'il vole à Barbe Blanche direct après sa mort à Marineford.",
+      "grade": "bw",
+      "shots": [
+        {
+          "anime": "One Piece",
+          "kind": "character",
+          "character": "Edward Newgate",
+          "at": "Blanche"
+        }
+      ]
+    },
+    {
+      "text": "[surprised] Normalement c'est impossible. Deux fruits, ton corps explose. Tout le monde le sait.",
+      "stamp": "IMPOSSIBLE",
+      "sfx": true
+    },
+    {
+      "text": "Et là Marco, qui a vécu des années sur le même bateau que lui, lâche genre en passant que le corps de Teach est pas normal. Qu'il est anormal.",
+      "emphasis": [
+        "anormal"
+      ],
+      "shots": [
+        {
+          "anime": "One Piece",
+          "kind": "character",
+          "character": "Marco",
+          "at": "Marco"
+        }
+      ]
+    },
+    {
+      "text": "[excited] Si t'aimes quand on creuse One Piece comme ça, abonne-toi, j'ai encore une grosse théorie sur Imu qui arrive.",
+      "cta": true
+    },
+    {
+      "text": "Mais attends, deuxième indice. Dans le flashback du chapitre 966, Shanks et Buggy parlent d'un mec bizarre sur le bateau de Barbe Blanche.",
+      "emphasis": [
+        "966"
+      ],
+      "shots": [
+        {
+          "anime": "One Piece",
+          "kind": "character",
+          "character": "Shanks",
+          "at": "Shanks"
+        },
+        {
+          "anime": "One Piece",
+          "kind": "character",
+          "character": "Buggy",
+          "at": "Buggy"
+        }
+      ]
+    },
+    {
+      "text": "[whispering] Un mec qui dort jamais. Jamais. Et ce mec, c'est Teach.",
+      "grade": "bw",
+      "sfx": true,
+      "emphasis": [
+        "jamais"
+      ]
+    },
+    {
+      "text": "Et regarde son drapeau. Y'a pas une tête de mort, y'a trois crânes. Trois.",
+      "emphasis": [
+        "trois crânes"
+      ]
+    },
+    {
+      "text": "[excited] D'où la théorie du Cerbère, le chien des enfers à trois têtes. Plusieurs âmes dans un seul corps. Une qui dort pendant que les autres tiennent le truc.",
+      "grade": "bw",
+      "stamp": "CERBÈRE"
+    },
+    {
+      "text": "Et franchement ça expliquerait tout. Les deux fruits, le corps chelou, les nuits blanches, le drapeau.",
+      "emphasis": [
+        "tout"
+      ]
+    },
+    {
+      "text": "[sigh] Sauf que, et faut être honnête, pas mal de fans disent qu'un chapitre récent, le 1138, a enterré la version Cerbère. Donc la théorie a pris un coup.",
+      "emphasis": [
+        "1138"
+      ]
+    },
+    {
+      "text": "Moi j'y crois encore à moitié. Le Cerbère peut-être pas, mais un corps avec plusieurs âmes, j'te jure qu'Oda nous prépare un truc.",
+      "emphasis": [
+        "plusieurs âmes"
+      ]
+    },
+    {
+      "text": "[excited] Alors dis-moi en com, Teach c'est un seul homme ou pas ? Je lis tout.",
+      "emphasis": [
+        "seul homme"
+      ]
+    }
+  ],
+  "caption": "Deux fruits, zéro sommeil, trois crânes sur le drapeau 💀 Teach c'est un seul homme pour toi ?",
+  "hashtags": [
+    "#anime",
+    "#manga",
+    "#animefr",
+    "#mangafr",
+    "#onepiece",
+    "#theorie"
+  ]
+}
