@@ -59,6 +59,14 @@ Bill n'est pas là pendant le run : ne pose aucune question, décide et continue
 11. **Fin** : un message court (titre, format, lien Buffer). En cas d'échec à n'importe quelle
     étape : crée quand même la ligne Notion avec Statut "Échec" et l'erreur dans Notes.
 
+## Montage (automatique)
+Le rendu passe par le moteur Remotion d'OpenMontage (dossier remotion/, composition
+AnimeShort) : hook monté en plans rapides noir et blanc, transitions (whip, zoom, glitch,
+flash, slide) avec bruitages, persos synchronisés sur leur nom, sous-titres mot par mot,
+classements animés, tampon, carte d'abonnement TikTok avec clic, révélation lettre par
+lettre, grain, particules selon le ton, barre de progression. Si Remotion échoue, un montage
+FFmpeg de secours prend le relais (result.json -> "engine").
+
 ## Format de script.json
 ```json
 {
@@ -101,7 +109,14 @@ Règles (le pipeline refuse le script si les points marqués ⛔ manquent) :
 - `kind` : character (avec `character`), wide (captures/bannières), poster, any.
 - `emphasis` : 1 ou 2 mots clés par segment (en jaune).
 - `overlay` : uniquement pour les tops ("#5"..."#1").
-- `sfx` : true sur le 1er segment et sur 2-4 révélations (zoom punch + whoosh).
+- `sfx` : true sur 2-4 révélations (zoom punch + glitch/flash + impact).
+- `grade` (optionnel, par segment) : "bw" pour un moment dramatique ou émouvant (noir et blanc),
+  "cinematic", "vivid", "warm", "cold". Par défaut l'étalonnage suit le ton. Le hook est
+  automatiquement en noir et blanc puis la vidéo repasse en couleur avec un flash.
+- `stamp` (optionnel, 1 ou 2 par vidéo max) : un mot tamponné en rouge à l'écran avec un impact
+  ("CHEATÉ", "MENSONGE", "VALIDÉ", "SOUS-COTÉ"). Pour les punchlines.
+- `music` : pote | hype | hype2 | mystere | triste | epic | fun (l'extrait démarre sur le
+  passage le plus énergique du morceau, les coupes sont calées sur le tempo).
 - `reveal_text` : pour une reco (nom de l'anime en fin), sinon omettre.
 - La signature "C'était Asura. On se capte au prochain épisode." est ajoutée automatiquement.
 - Découpe en 10 à 16 segments courts (1 à 2 phrases). Phrases de 6 mots minimum (la voix

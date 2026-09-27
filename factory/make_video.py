@@ -14,7 +14,7 @@ import sys
 import time
 from pathlib import Path
 
-from . import assets, render, voice
+from . import assets, motion, render, voice
 
 ROOT = Path(__file__).resolve().parent.parent
 SIGNATURE = "C'était Asura. On se capte au prochain épisode."
@@ -70,7 +70,13 @@ def main(script_path: str) -> dict:
     print(f"      durée {v['duration']:.1f}s")
     print("[3/4] montage")
     out = work / "video.mp4"
-    r = render.render(script, v, index, work, out, seed=hash(script.get("title", "")) & 0xFFFF)
+    seed = sum(map(ord, script.get("title", ""))) & 0xFFFF
+    try:  # montage v3 : moteur Remotion d'OpenMontage (motion design, transitions)
+        r = motion.render(script, v, index, work, out, seed=seed)
+    except Exception as exc:  # secours : montage FFmpeg v2
+        print(f"[montage] Remotion a échoué ({exc}), montage de secours FFmpeg")
+        r = render.render(script, v, index, work, out, seed=seed)
+        r["engine"] = "ffmpeg (secours)"
     print("[4/4] rangement")
     stamp = work.name
     dest_dir = ROOT / "videos" / stamp[:4] / stamp[5:7]

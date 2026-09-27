@@ -7,3 +7,7 @@ runs/*/video_silent.mp4
 runs/*/video.mp4
 runs/*/*.jpg
 __pycache__/
+runs/*/pub/
+runs/*/sfx/
+runs/*/video_v3.mp4
+.cache/

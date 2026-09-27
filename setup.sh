@@ -29,4 +29,7 @@ else
   echo "[setup] HuggingFace CDN bloqué -> voix de secours Piper"
   echo piper > /tmp/tf-voice-engine
 fi
+# Moteur de montage Remotion (OpenMontage) : dépendances Node
+( cd "$(dirname "$0")/remotion" && npm ci --no-audit --no-fund --loglevel=error >>"$LOG" 2>&1 ) \
+  && echo "[setup] Remotion prêt" || echo "[setup] Remotion indisponible -> montage FFmpeg de secours"
 python -c "import requests, PIL; print('[setup] OK')"

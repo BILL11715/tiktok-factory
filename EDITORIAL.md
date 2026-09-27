@@ -49,3 +49,10 @@ Interdit (le pipeline refuse le script) : tirets cadratins, "plongeons", "décou
 ## Faits
 - Jamais inventer un chiffre, une date, un numéro de chapitre. En cas de doute : formuler sans chiffre ou couper.
 - Pas d'extraits d'épisodes, pas de YouTube, pas d'images IA. Visuels = Kitsu/Jikan uniquement (automatique).
+
+## Montage (inspiré des comptes storytelling anime qui marchent)
+- Hook en plans très courts (0,7 s) en noir et blanc, puis flash et retour à la couleur.
+- Un changement de plan toutes les 1,5 à 3 s, calé sur le tempo de la musique quand aucun nom n'est cité.
+- Transitions variées avec bruitage (whoosh, glitch, impact), jamais deux fois la même d'affilée.
+- Noir et blanc (grade "bw") pour les moments dramatiques ; tampon rouge (stamp) pour les punchlines.
+- Carte d'abonnement animée au milieu, avec clic et cœur.
