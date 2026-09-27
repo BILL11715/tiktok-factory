@@ -11,3 +11,5 @@ runs/*/pub/
 runs/*/sfx/
 runs/*/video_v3.mp4
 .cache/
+runs/*_om_test/
+runs/*_hybrid_test/
