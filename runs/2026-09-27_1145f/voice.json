@@ -1,0 +1,1736 @@
+{
+ "engine": "fish",
+ "path": "/home/claude/tiktok-factory/runs/2026-09-27_1145f/voice.wav",
+ "duration": 85.147,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 3.6,
+   "slot_end": 3.641,
+   "text": "Le tueur le plus craint du monde a pris sa retraite pour tenir une supérette.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 0.0,
+     "end": 0.12
+    },
+    {
+     "w": "tueur",
+     "start": 0.12,
+     "end": 0.4
+    },
+    {
+     "w": "le",
+     "start": 0.4,
+     "end": 0.54
+    },
+    {
+     "w": "plus",
+     "start": 0.54,
+     "end": 0.68
+    },
+    {
+     "w": "craint",
+     "start": 0.68,
+     "end": 0.92
+    },
+    {
+     "w": "du",
+     "start": 0.92,
+     "end": 1.08
+    },
+    {
+     "w": "monde",
+     "start": 1.08,
+     "end": 1.24
+    },
+    {
+     "w": "a",
+     "start": 1.24,
+     "end": 1.42
+    },
+    {
+     "w": "pris",
+     "start": 1.42,
+     "end": 1.52
+    },
+    {
+     "w": "sa",
+     "start": 1.52,
+     "end": 1.7
+    },
+    {
+     "w": "retraite",
+     "start": 1.7,
+     "end": 2.1
+    },
+    {
+     "w": "pour",
+     "start": 2.1,
+     "end": 2.34
+    },
+    {
+     "w": "tenir",
+     "start": 2.34,
+     "end": 2.64
+    },
+    {
+     "w": "une",
+     "start": 2.64,
+     "end": 2.96
+    },
+    {
+     "w": "supérette.",
+     "start": 2.96,
+     "end": 3.6
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 3.7,
+   "end": 7.84,
+   "slot_end": 8.009,
+   "text": "Et reste jusqu'au bout, parce que c'est l'anime le plus drôle et le plus stylé que j'ai vu ces derniers temps.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 3.7,
+     "end": 3.75
+    },
+    {
+     "w": "reste",
+     "start": 3.72,
+     "end": 3.94
+    },
+    {
+     "w": "jusqu'au",
+     "start": 3.94,
+     "end": 4.26
+    },
+    {
+     "w": "bout,",
+     "start": 4.26,
+     "end": 4.44
+    },
+    {
+     "w": "parce",
+     "start": 4.54,
+     "end": 4.66
+    },
+    {
+     "w": "que",
+     "start": 4.66,
+     "end": 4.8
+    },
+    {
+     "w": "c'est",
+     "start": 4.8,
+     "end": 4.92
+    },
+    {
+     "w": "l'anime",
+     "start": 4.92,
+     "end": 5.28
+    },
+    {
+     "w": "le",
+     "start": 5.28,
+     "end": 5.44
+    },
+    {
+     "w": "plus",
+     "start": 5.44,
+     "end": 5.66
+    },
+    {
+     "w": "drôle",
+     "start": 5.66,
+     "end": 6.08
+    },
+    {
+     "w": "et",
+     "start": 6.08,
+     "end": 6.18
+    },
+    {
+     "w": "le",
+     "start": 6.18,
+     "end": 6.32
+    },
+    {
+     "w": "plus",
+     "start": 6.32,
+     "end": 6.44
+    },
+    {
+     "w": "stylé",
+     "start": 6.44,
+     "end": 6.78
+    },
+    {
+     "w": "que",
+     "start": 6.78,
+     "end": 6.92
+    },
+    {
+     "w": "j'ai",
+     "start": 6.92,
+     "end": 7.06
+    },
+    {
+     "w": "vu",
+     "start": 7.06,
+     "end": 7.18
+    },
+    {
+     "w": "ces",
+     "start": 7.18,
+     "end": 7.32
+    },
+    {
+     "w": "derniers",
+     "start": 7.32,
+     "end": 7.64
+    },
+    {
+     "w": "temps.",
+     "start": 7.64,
+     "end": 7.84
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 8.0,
+   "end": 13.5,
+   "slot_end": 13.619,
+   "text": "Le mec s'appelle Taro. Une légende chez les tueurs à gages, tout le milieu tremblait rien qu'en entendant son nom.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 8.0,
+     "end": 8.1
+    },
+    {
+     "w": "mec",
+     "start": 8.1,
+     "end": 8.22
+    },
+    {
+     "w": "s'appelle",
+     "start": 8.22,
+     "end": 8.54
+    },
+    {
+     "w": "Taro.",
+     "start": 8.54,
+     "end": 8.88
+    },
+    {
+     "w": "Une",
+     "start": 9.26,
+     "end": 9.4
+    },
+    {
+     "w": "légende",
+     "start": 9.4,
+     "end": 9.78
+    },
+    {
+     "w": "chez",
+     "start": 9.78,
+     "end": 10.04
+    },
+    {
+     "w": "les",
+     "start": 10.04,
+     "end": 10.14
+    },
+    {
+     "w": "tueurs",
+     "start": 10.14,
+     "end": 10.42
+    },
+    {
+     "w": "à",
+     "start": 10.42,
+     "end": 10.68
+    },
+    {
+     "w": "gages,",
+     "start": 10.68,
+     "end": 10.94
+    },
+    {
+     "w": "tout",
+     "start": 10.94,
+     "end": 11.2
+    },
+    {
+     "w": "le",
+     "start": 11.2,
+     "end": 11.46
+    },
+    {
+     "w": "milieu",
+     "start": 11.46,
+     "end": 11.72
+    },
+    {
+     "w": "tremblait",
+     "start": 11.72,
+     "end": 11.98
+    },
+    {
+     "w": "rien",
+     "start": 11.98,
+     "end": 12.4
+    },
+    {
+     "w": "qu'en",
+     "start": 12.4,
+     "end": 12.68
+    },
+    {
+     "w": "entendant",
+     "start": 12.68,
+     "end": 13.12
+    },
+    {
+     "w": "son",
+     "start": 13.12,
+     "end": 13.32
+    },
+    {
+     "w": "nom.",
+     "start": 13.32,
+     "end": 13.5
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 13.619,
+   "end": 17.92,
+   "slot_end": 18.076,
+   "text": "Et un jour il tombe amoureux d'Aoi, une caissière, et il raccroche tout du jour au lendemain.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 13.619,
+     "end": 13.669
+    },
+    {
+     "w": "un",
+     "start": 13.619,
+     "end": 13.76
+    },
+    {
+     "w": "jour",
+     "start": 13.76,
+     "end": 13.96
+    },
+    {
+     "w": "il",
+     "start": 14.02,
+     "end": 14.12
+    },
+    {
+     "w": "tombe",
+     "start": 14.12,
+     "end": 14.38
+    },
+    {
+     "w": "amoureux",
+     "start": 14.38,
+     "end": 14.86
+    },
+    {
+     "w": "d'Aoi,",
+     "start": 14.86,
+     "end": 15.16
+    },
+    {
+     "w": "une",
+     "start": 15.48,
+     "end": 15.62
+    },
+    {
+     "w": "caissière,",
+     "start": 15.62,
+     "end": 16.06
+    },
+    {
+     "w": "et",
+     "start": 16.4,
+     "end": 16.45
+    },
+    {
+     "w": "il",
+     "start": 16.44,
+     "end": 16.5
+    },
+    {
+     "w": "raccroche",
+     "start": 16.5,
+     "end": 16.92
+    },
+    {
+     "w": "tout",
+     "start": 16.92,
+     "end": 17.1
+    },
+    {
+     "w": "du",
+     "start": 17.1,
+     "end": 17.24
+    },
+    {
+     "w": "jour",
+     "start": 17.24,
+     "end": 17.42
+    },
+    {
+     "w": "au",
+     "start": 17.42,
+     "end": 17.6
+    },
+    {
+     "w": "lendemain.",
+     "start": 17.6,
+     "end": 17.92
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 18.16,
+   "end": 22.96,
+   "slot_end": 23.034,
+   "text": "Résultat, il se marie, il a une petite fille qui s'appelle Hana, et il prend un bide énorme.",
+   "words": [
+    {
+     "w": "Résultat,",
+     "start": 18.16,
+     "end": 18.7
+    },
+    {
+     "w": "il",
+     "start": 18.82,
+     "end": 18.92
+    },
+    {
+     "w": "se",
+     "start": 18.92,
+     "end": 19.08
+    },
+    {
+     "w": "marie,",
+     "start": 19.08,
+     "end": 19.4
+    },
+    {
+     "w": "il",
+     "start": 19.86,
+     "end": 19.96
+    },
+    {
+     "w": "a",
+     "start": 19.96,
+     "end": 20.04
+    },
+    {
+     "w": "une",
+     "start": 20.04,
+     "end": 20.16
+    },
+    {
+     "w": "petite",
+     "start": 20.16,
+     "end": 20.36
+    },
+    {
+     "w": "fille",
+     "start": 20.36,
+     "end": 20.56
+    },
+    {
+     "w": "qui",
+     "start": 20.56,
+     "end": 20.72
+    },
+    {
+     "w": "s'appelle",
+     "start": 20.72,
+     "end": 21.0
+    },
+    {
+     "w": "Hana,",
+     "start": 21.0,
+     "end": 21.38
+    },
+    {
+     "w": "et",
+     "start": 21.74,
+     "end": 21.82
+    },
+    {
+     "w": "il",
+     "start": 21.82,
+     "end": 21.88
+    },
+    {
+     "w": "prend",
+     "start": 21.88,
+     "end": 22.02
+    },
+    {
+     "w": "un",
+     "start": 22.02,
+     "end": 22.2
+    },
+    {
+     "w": "bide",
+     "start": 22.2,
+     "end": 22.32
+    },
+    {
+     "w": "énorme.",
+     "start": 22.32,
+     "end": 22.96
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 23.0,
+   "end": 29.48,
+   "slot_end": 29.657,
+   "text": "Sauf que son passé le rattrape. Y'a une prime sur sa tête, et tous les tueurs du pays débarquent dans sa petite boutique.",
+   "words": [
+    {
+     "w": "Sauf",
+     "start": 23.0,
+     "end": 23.24
+    },
+    {
+     "w": "que",
+     "start": 23.24,
+     "end": 23.38
+    },
+    {
+     "w": "son",
+     "start": 23.38,
+     "end": 23.48
+    },
+    {
+     "w": "passé",
+     "start": 23.48,
+     "end": 23.76
+    },
+    {
+     "w": "le",
+     "start": 23.76,
+     "end": 23.94
+    },
+    {
+     "w": "rattrape.",
+     "start": 23.94,
+     "end": 24.3
+    },
+    {
+     "w": "Y'a",
+     "start": 24.94,
+     "end": 25.2
+    },
+    {
+     "w": "une",
+     "start": 25.2,
+     "end": 25.36
+    },
+    {
+     "w": "prime",
+     "start": 25.36,
+     "end": 25.56
+    },
+    {
+     "w": "sur",
+     "start": 25.56,
+     "end": 25.8
+    },
+    {
+     "w": "sa",
+     "start": 25.8,
+     "end": 25.98
+    },
+    {
+     "w": "tête,",
+     "start": 25.98,
+     "end": 26.22
+    },
+    {
+     "w": "et",
+     "start": 26.36,
+     "end": 26.82
+    },
+    {
+     "w": "tous",
+     "start": 26.82,
+     "end": 26.96
+    },
+    {
+     "w": "les",
+     "start": 26.96,
+     "end": 27.06
+    },
+    {
+     "w": "tueurs",
+     "start": 27.06,
+     "end": 27.36
+    },
+    {
+     "w": "du",
+     "start": 27.36,
+     "end": 27.54
+    },
+    {
+     "w": "pays",
+     "start": 27.54,
+     "end": 27.8
+    },
+    {
+     "w": "débarquent",
+     "start": 27.8,
+     "end": 28.38
+    },
+    {
+     "w": "dans",
+     "start": 28.38,
+     "end": 28.58
+    },
+    {
+     "w": "sa",
+     "start": 28.58,
+     "end": 28.74
+    },
+    {
+     "w": "petite",
+     "start": 28.74,
+     "end": 29.0
+    },
+    {
+     "w": "boutique.",
+     "start": 29.0,
+     "end": 29.48
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 29.48,
+   "end": 33.18,
+   "slot_end": 33.338,
+   "text": "Si t'aimes les recos comme ça, abonne-toi, j'en balance une nouvelle tous les jours à midi et demi.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 29.48,
+     "end": 29.76
+    },
+    {
+     "w": "t'aimes",
+     "start": 29.76,
+     "end": 29.88
+    },
+    {
+     "w": "les",
+     "start": 29.88,
+     "end": 29.94
+    },
+    {
+     "w": "recos",
+     "start": 29.94,
+     "end": 30.12
+    },
+    {
+     "w": "comme",
+     "start": 30.12,
+     "end": 30.46
+    },
+    {
+     "w": "ça,",
+     "start": 30.46,
+     "end": 30.64
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 30.76,
+     "end": 31.06
+    },
+    {
+     "w": "j'en",
+     "start": 31.2,
+     "end": 31.3
+    },
+    {
+     "w": "balance",
+     "start": 31.3,
+     "end": 31.48
+    },
+    {
+     "w": "une",
+     "start": 31.48,
+     "end": 31.74
+    },
+    {
+     "w": "nouvelle",
+     "start": 31.74,
+     "end": 31.98
+    },
+    {
+     "w": "tous",
+     "start": 31.98,
+     "end": 32.22
+    },
+    {
+     "w": "les",
+     "start": 32.22,
+     "end": 32.34
+    },
+    {
+     "w": "jours",
+     "start": 32.34,
+     "end": 32.52
+    },
+    {
+     "w": "à",
+     "start": 32.52,
+     "end": 32.7
+    },
+    {
+     "w": "midi",
+     "start": 32.7,
+     "end": 32.92
+    },
+    {
+     "w": "et",
+     "start": 32.92,
+     "end": 33.02
+    },
+    {
+     "w": "demi.",
+     "start": 33.02,
+     "end": 33.18
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 33.32,
+   "end": 37.44,
+   "slot_end": 37.701,
+   "text": "Et là, le détail qui change tout. Il a promis à sa femme de ne plus jamais tuer personne.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 33.32,
+     "end": 33.46
+    },
+    {
+     "w": "là,",
+     "start": 33.46,
+     "end": 33.6
+    },
+    {
+     "w": "le",
+     "start": 33.7,
+     "end": 33.82
+    },
+    {
+     "w": "détail",
+     "start": 33.82,
+     "end": 34.16
+    },
+    {
+     "w": "qui",
+     "start": 34.16,
+     "end": 34.21
+    },
+    {
+     "w": "change",
+     "start": 34.16,
+     "end": 34.58
+    },
+    {
+     "w": "tout.",
+     "start": 34.58,
+     "end": 34.96
+    },
+    {
+     "w": "Il",
+     "start": 35.1,
+     "end": 35.18
+    },
+    {
+     "w": "a",
+     "start": 35.18,
+     "end": 35.34
+    },
+    {
+     "w": "promis",
+     "start": 35.34,
+     "end": 35.5
+    },
+    {
+     "w": "à",
+     "start": 35.5,
+     "end": 35.64
+    },
+    {
+     "w": "sa",
+     "start": 35.64,
+     "end": 35.74
+    },
+    {
+     "w": "femme",
+     "start": 35.74,
+     "end": 35.98
+    },
+    {
+     "w": "de",
+     "start": 35.98,
+     "end": 36.16
+    },
+    {
+     "w": "ne",
+     "start": 36.16,
+     "end": 36.26
+    },
+    {
+     "w": "plus",
+     "start": 36.26,
+     "end": 36.46
+    },
+    {
+     "w": "jamais",
+     "start": 36.46,
+     "end": 36.7
+    },
+    {
+     "w": "tuer",
+     "start": 36.7,
+     "end": 37.02
+    },
+    {
+     "w": "personne.",
+     "start": 37.02,
+     "end": 37.44
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 37.68,
+   "end": 42.02,
+   "slot_end": 42.601,
+   "text": "Donc il se bat avec ce qu'il a sous la main, genre un stylo, une cuillère, un ticket de caisse, j'te jure.",
+   "words": [
+    {
+     "w": "Donc",
+     "start": 37.68,
+     "end": 37.88
+    },
+    {
+     "w": "il",
+     "start": 37.88,
+     "end": 38.08
+    },
+    {
+     "w": "se",
+     "start": 38.08,
+     "end": 38.22
+    },
+    {
+     "w": "bat",
+     "start": 38.22,
+     "end": 38.42
+    },
+    {
+     "w": "avec",
+     "start": 38.42,
+     "end": 38.58
+    },
+    {
+     "w": "ce",
+     "start": 38.58,
+     "end": 38.76
+    },
+    {
+     "w": "qu'il",
+     "start": 38.76,
+     "end": 38.84
+    },
+    {
+     "w": "a",
+     "start": 38.84,
+     "end": 38.98
+    },
+    {
+     "w": "sous",
+     "start": 38.98,
+     "end": 39.1
+    },
+    {
+     "w": "la",
+     "start": 39.1,
+     "end": 39.22
+    },
+    {
+     "w": "main,",
+     "start": 39.22,
+     "end": 39.42
+    },
+    {
+     "w": "genre",
+     "start": 39.56,
+     "end": 39.66
+    },
+    {
+     "w": "un",
+     "start": 39.66,
+     "end": 39.9
+    },
+    {
+     "w": "stylo,",
+     "start": 39.9,
+     "end": 40.18
+    },
+    {
+     "w": "une",
+     "start": 40.28,
+     "end": 40.42
+    },
+    {
+     "w": "cuillère,",
+     "start": 40.42,
+     "end": 40.78
+    },
+    {
+     "w": "un",
+     "start": 40.88,
+     "end": 40.98
+    },
+    {
+     "w": "ticket",
+     "start": 40.98,
+     "end": 41.2
+    },
+    {
+     "w": "de",
+     "start": 41.2,
+     "end": 41.28
+    },
+    {
+     "w": "caisse,",
+     "start": 41.28,
+     "end": 41.48
+    },
+    {
+     "w": "j'te",
+     "start": 41.56,
+     "end": 41.72
+    },
+    {
+     "w": "jure.",
+     "start": 41.72,
+     "end": 42.02
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 42.56,
+   "end": 46.98,
+   "slot_end": 47.146,
+   "text": "Et quand il se donne à fond, il redevient le tueur fin et flippant d'avant, le temps d'un combat.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 42.56,
+     "end": 42.7
+    },
+    {
+     "w": "quand",
+     "start": 42.7,
+     "end": 42.88
+    },
+    {
+     "w": "il",
+     "start": 42.88,
+     "end": 43.04
+    },
+    {
+     "w": "se",
+     "start": 43.04,
+     "end": 43.22
+    },
+    {
+     "w": "donne",
+     "start": 43.22,
+     "end": 43.34
+    },
+    {
+     "w": "à",
+     "start": 43.34,
+     "end": 43.48
+    },
+    {
+     "w": "fond,",
+     "start": 43.48,
+     "end": 43.68
+    },
+    {
+     "w": "il",
+     "start": 43.86,
+     "end": 43.92
+    },
+    {
+     "w": "redevient",
+     "start": 43.92,
+     "end": 44.32
+    },
+    {
+     "w": "le",
+     "start": 44.32,
+     "end": 44.52
+    },
+    {
+     "w": "tueur",
+     "start": 44.52,
+     "end": 44.84
+    },
+    {
+     "w": "fin",
+     "start": 44.84,
+     "end": 45.06
+    },
+    {
+     "w": "et",
+     "start": 45.06,
+     "end": 45.28
+    },
+    {
+     "w": "flippant",
+     "start": 45.28,
+     "end": 45.64
+    },
+    {
+     "w": "d'avant,",
+     "start": 45.64,
+     "end": 46.0
+    },
+    {
+     "w": "le",
+     "start": 46.0,
+     "end": 46.26
+    },
+    {
+     "w": "temps",
+     "start": 46.26,
+     "end": 46.44
+    },
+    {
+     "w": "d'un",
+     "start": 46.44,
+     "end": 46.62
+    },
+    {
+     "w": "combat.",
+     "start": 46.62,
+     "end": 46.98
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 47.64,
+   "end": 53.48,
+   "slot_end": 53.765,
+   "text": "À côté t'as Shin, un ancien tueur qui lit dans les pensées, et qui passe son temps à râler contre son boss.",
+   "words": [
+    {
+     "w": "À",
+     "start": 47.64,
+     "end": 47.76
+    },
+    {
+     "w": "côté",
+     "start": 47.76,
+     "end": 47.86
+    },
+    {
+     "w": "t'as",
+     "start": 47.86,
+     "end": 48.06
+    },
+    {
+     "w": "Shin,",
+     "start": 48.06,
+     "end": 48.16
+    },
+    {
+     "w": "un",
+     "start": 48.46,
+     "end": 48.58
+    },
+    {
+     "w": "ancien",
+     "start": 48.58,
+     "end": 48.88
+    },
+    {
+     "w": "tueur",
+     "start": 48.88,
+     "end": 49.24
+    },
+    {
+     "w": "qui",
+     "start": 49.24,
+     "end": 49.52
+    },
+    {
+     "w": "lit",
+     "start": 49.52,
+     "end": 49.96
+    },
+    {
+     "w": "dans",
+     "start": 49.96,
+     "end": 50.16
+    },
+    {
+     "w": "les",
+     "start": 50.16,
+     "end": 50.32
+    },
+    {
+     "w": "pensées,",
+     "start": 50.32,
+     "end": 50.8
+    },
+    {
+     "w": "et",
+     "start": 50.8,
+     "end": 51.46
+    },
+    {
+     "w": "qui",
+     "start": 51.46,
+     "end": 51.6
+    },
+    {
+     "w": "passe",
+     "start": 51.6,
+     "end": 51.78
+    },
+    {
+     "w": "son",
+     "start": 51.78,
+     "end": 52.04
+    },
+    {
+     "w": "temps",
+     "start": 52.04,
+     "end": 52.26
+    },
+    {
+     "w": "à",
+     "start": 52.26,
+     "end": 52.44
+    },
+    {
+     "w": "râler",
+     "start": 52.44,
+     "end": 52.68
+    },
+    {
+     "w": "contre",
+     "start": 52.68,
+     "end": 52.92
+    },
+    {
+     "w": "son",
+     "start": 52.92,
+     "end": 53.22
+    },
+    {
+     "w": "boss.",
+     "start": 53.22,
+     "end": 53.48
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 53.48,
+   "end": 59.44,
+   "slot_end": 59.611,
+   "text": "Et y'a Lu, une fille de la mafia chinoise qui débarque avec ses propres galères, et qui finit par rester.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 53.48,
+     "end": 53.88
+    },
+    {
+     "w": "y'a",
+     "start": 54.0,
+     "end": 54.05
+    },
+    {
+     "w": "Lu,",
+     "start": 54.04,
+     "end": 54.28
+    },
+    {
+     "w": "une",
+     "start": 54.28,
+     "end": 54.58
+    },
+    {
+     "w": "fille",
+     "start": 54.58,
+     "end": 54.72
+    },
+    {
+     "w": "de",
+     "start": 54.72,
+     "end": 54.86
+    },
+    {
+     "w": "la",
+     "start": 54.86,
+     "end": 54.96
+    },
+    {
+     "w": "mafia",
+     "start": 54.96,
+     "end": 55.22
+    },
+    {
+     "w": "chinoise",
+     "start": 55.22,
+     "end": 55.98
+    },
+    {
+     "w": "qui",
+     "start": 55.98,
+     "end": 56.14
+    },
+    {
+     "w": "débarque",
+     "start": 56.14,
+     "end": 56.72
+    },
+    {
+     "w": "avec",
+     "start": 56.72,
+     "end": 56.9
+    },
+    {
+     "w": "ses",
+     "start": 56.9,
+     "end": 57.12
+    },
+    {
+     "w": "propres",
+     "start": 57.12,
+     "end": 57.52
+    },
+    {
+     "w": "galères,",
+     "start": 57.52,
+     "end": 58.22
+    },
+    {
+     "w": "et",
+     "start": 58.22,
+     "end": 58.48
+    },
+    {
+     "w": "qui",
+     "start": 58.48,
+     "end": 58.58
+    },
+    {
+     "w": "finit",
+     "start": 58.58,
+     "end": 58.82
+    },
+    {
+     "w": "par",
+     "start": 58.82,
+     "end": 59.04
+    },
+    {
+     "w": "rester.",
+     "start": 59.04,
+     "end": 59.44
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 59.68,
+   "end": 65.78,
+   "slot_end": 65.857,
+   "text": "Mon avis ? Les combats sont les plus inventifs que j'ai vus depuis longtemps, chaque décor devient une arme.",
+   "words": [
+    {
+     "w": "Mon",
+     "start": 59.68,
+     "end": 59.73
+    },
+    {
+     "w": "avis",
+     "start": 59.72,
+     "end": 59.96
+    },
+    {
+     "w": "?",
+     "start": 59.96,
+     "end": 60.36
+    },
+    {
+     "w": "Les",
+     "start": 60.42,
+     "end": 60.58
+    },
+    {
+     "w": "combats",
+     "start": 60.58,
+     "end": 60.98
+    },
+    {
+     "w": "sont",
+     "start": 60.98,
+     "end": 61.28
+    },
+    {
+     "w": "les",
+     "start": 61.28,
+     "end": 61.46
+    },
+    {
+     "w": "plus",
+     "start": 61.46,
+     "end": 61.74
+    },
+    {
+     "w": "inventifs",
+     "start": 61.74,
+     "end": 62.32
+    },
+    {
+     "w": "que",
+     "start": 62.32,
+     "end": 62.5
+    },
+    {
+     "w": "j'ai",
+     "start": 62.5,
+     "end": 62.66
+    },
+    {
+     "w": "vus",
+     "start": 62.66,
+     "end": 62.84
+    },
+    {
+     "w": "depuis",
+     "start": 62.84,
+     "end": 63.16
+    },
+    {
+     "w": "longtemps,",
+     "start": 63.16,
+     "end": 63.68
+    },
+    {
+     "w": "chaque",
+     "start": 64.16,
+     "end": 64.42
+    },
+    {
+     "w": "décor",
+     "start": 64.42,
+     "end": 64.82
+    },
+    {
+     "w": "devient",
+     "start": 64.82,
+     "end": 65.2
+    },
+    {
+     "w": "une",
+     "start": 65.2,
+     "end": 65.56
+    },
+    {
+     "w": "arme.",
+     "start": 65.56,
+     "end": 65.78
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 65.84,
+   "end": 71.3,
+   "slot_end": 71.547,
+   "text": "Le seul défaut, c'est que le début est un peu épisodique. Accroche-toi quelques épisodes, après ça décolle force.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 65.84,
+     "end": 65.96
+    },
+    {
+     "w": "seul",
+     "start": 65.96,
+     "end": 66.18
+    },
+    {
+     "w": "défaut,",
+     "start": 66.18,
+     "end": 66.6
+    },
+    {
+     "w": "c'est",
+     "start": 66.66,
+     "end": 66.8
+    },
+    {
+     "w": "que",
+     "start": 66.8,
+     "end": 66.9
+    },
+    {
+     "w": "le",
+     "start": 66.9,
+     "end": 67.04
+    },
+    {
+     "w": "début",
+     "start": 67.04,
+     "end": 67.3
+    },
+    {
+     "w": "est",
+     "start": 67.3,
+     "end": 67.52
+    },
+    {
+     "w": "un",
+     "start": 67.52,
+     "end": 67.62
+    },
+    {
+     "w": "peu",
+     "start": 67.62,
+     "end": 67.74
+    },
+    {
+     "w": "épisodique.",
+     "start": 67.74,
+     "end": 68.32
+    },
+    {
+     "w": "Accroche-toi",
+     "start": 68.4,
+     "end": 68.76
+    },
+    {
+     "w": "quelques",
+     "start": 68.76,
+     "end": 69.12
+    },
+    {
+     "w": "épisodes,",
+     "start": 69.12,
+     "end": 69.62
+    },
+    {
+     "w": "après",
+     "start": 70.18,
+     "end": 70.42
+    },
+    {
+     "w": "ça",
+     "start": 70.52,
+     "end": 70.64
+    },
+    {
+     "w": "décolle",
+     "start": 70.64,
+     "end": 70.94
+    },
+    {
+     "w": "force.",
+     "start": 70.94,
+     "end": 71.3
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 71.52,
+   "end": 76.76,
+   "slot_end": 77.038,
+   "text": "Le manga continue dans le Shonen Jump, et l'anime est dispo sur Netflix, donc t'as aucune excuse.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 71.52,
+     "end": 71.64
+    },
+    {
+     "w": "manga",
+     "start": 71.64,
+     "end": 71.8
+    },
+    {
+     "w": "continue",
+     "start": 71.8,
+     "end": 72.36
+    },
+    {
+     "w": "dans",
+     "start": 72.36,
+     "end": 72.58
+    },
+    {
+     "w": "le",
+     "start": 72.58,
+     "end": 72.72
+    },
+    {
+     "w": "Shonen",
+     "start": 72.72,
+     "end": 73.0
+    },
+    {
+     "w": "Jump,",
+     "start": 73.0,
+     "end": 73.46
+    },
+    {
+     "w": "et",
+     "start": 73.46,
+     "end": 74.16
+    },
+    {
+     "w": "l'anime",
+     "start": 74.16,
+     "end": 74.54
+    },
+    {
+     "w": "est",
+     "start": 74.54,
+     "end": 74.66
+    },
+    {
+     "w": "dispo",
+     "start": 74.66,
+     "end": 74.9
+    },
+    {
+     "w": "sur",
+     "start": 74.9,
+     "end": 75.56
+    },
+    {
+     "w": "Netflix,",
+     "start": 75.56,
+     "end": 75.61
+    },
+    {
+     "w": "donc",
+     "start": 75.7,
+     "end": 75.8
+    },
+    {
+     "w": "t'as",
+     "start": 75.8,
+     "end": 76.02
+    },
+    {
+     "w": "aucune",
+     "start": 76.02,
+     "end": 76.4
+    },
+    {
+     "w": "excuse.",
+     "start": 76.4,
+     "end": 76.76
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "start": 77.06,
+   "end": 81.7,
+   "slot_end": 81.899,
+   "text": "Ça s'appelle Sakamoto Days. Tu l'as déjà vu ? Dis-moi en com' si t'es team Sakamoto ou team Shin.",
+   "words": [
+    {
+     "w": "Ça",
+     "start": 77.06,
+     "end": 77.16
+    },
+    {
+     "w": "s'appelle",
+     "start": 77.16,
+     "end": 77.5
+    },
+    {
+     "w": "Sakamoto",
+     "start": 77.5,
+     "end": 78.02
+    },
+    {
+     "w": "Days.",
+     "start": 78.02,
+     "end": 78.52
+    },
+    {
+     "w": "Tu",
+     "start": 78.56,
+     "end": 78.62
+    },
+    {
+     "w": "l'as",
+     "start": 78.62,
+     "end": 78.74
+    },
+    {
+     "w": "déjà",
+     "start": 78.74,
+     "end": 78.96
+    },
+    {
+     "w": "vu",
+     "start": 78.96,
+     "end": 79.2
+    },
+    {
+     "w": "?",
+     "start": 79.36,
+     "end": 79.485
+    },
+    {
+     "w": "Dis-moi",
+     "start": 79.485,
+     "end": 79.61
+    },
+    {
+     "w": "en",
+     "start": 79.61,
+     "end": 79.735
+    },
+    {
+     "w": "com'",
+     "start": 79.735,
+     "end": 79.86
+    },
+    {
+     "w": "si",
+     "start": 79.86,
+     "end": 80.14
+    },
+    {
+     "w": "t'es",
+     "start": 80.14,
+     "end": 80.32
+    },
+    {
+     "w": "team",
+     "start": 80.32,
+     "end": 80.56
+    },
+    {
+     "w": "Sakamoto",
+     "start": 80.56,
+     "end": 81.02
+    },
+    {
+     "w": "ou",
+     "start": 81.02,
+     "end": 81.26
+    },
+    {
+     "w": "team",
+     "start": 81.26,
+     "end": 81.42
+    },
+    {
+     "w": "Shin.",
+     "start": 81.42,
+     "end": 81.7
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "start": 81.7,
+   "end": 84.24,
+   "slot_end": 85.147,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 81.7,
+     "end": 82.12
+    },
+    {
+     "w": "Asura.",
+     "start": 82.12,
+     "end": 82.58
+    },
+    {
+     "w": "On",
+     "start": 82.88,
+     "end": 83.04
+    },
+    {
+     "w": "se",
+     "start": 83.04,
+     "end": 83.18
+    },
+    {
+     "w": "capte",
+     "start": 83.18,
+     "end": 83.5
+    },
+    {
+     "w": "au",
+     "start": 83.5,
+     "end": 83.56
+    },
+    {
+     "w": "prochain",
+     "start": 83.56,
+     "end": 83.84
+    },
+    {
+     "w": "épisode.",
+     "start": 83.84,
+     "end": 84.24
+    }
+   ]
+  }
+ ],
+ "aligned": 0.99
+}
