@@ -1,0 +1,82 @@
+{
+ "Hunter x Hunter (2011)": {
+  "meta": {
+   "id": "6448",
+   "title": "Hunter x Hunter (2011)",
+   "titles": {
+    "en": "Hunter x Hunter (2011)",
+    "en_jp": "Hunter x Hunter (2011)",
+    "en_us": "Hunter x Hunter",
+    "ja_jp": "HUNTER×HUNTER ハンターハンター"
+   },
+   "synopsis": "Hunter x Hunter is set in a world where Hunters exist to perform all manner of dangerous tasks like capturing criminals and bravely searching for lost treasures in uncharted territories. Twelve-year-old Gon Freecss is determined to become the best Hunter possible in hopes of finding his father, who was a Hunter himself and had long ago abandoned his young son. However, Gon soon realizes the path to achieving his goals is far more challenging than he could have ever imagined.\n\nAlong the way to becoming an official Hunter, Gon befriends the lively doctor-in-training Leorio, vengeful Kurapika, and rebellious ex-assassin Killua. To attain their own goals and desires, together the four of them take the Hunter Exam, notorious for its low success rate and high probability of death. Throughout their journey, Gon and his friends embark on an adventure that puts them through many hardships and struggles. They will meet a plethora of monsters, creatures, and characters—all while learning what being a Hunter truly means.\n\n(Source: MAL Rewrite)",
+   "episodes": 148,
+   "start": "2011-10-02",
+   "source": "https://kitsu.io/anime/hunter-x-hunter-2011"
+  },
+  "wide": [
+   "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/4f691b5b51df.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/312a3f784dda.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/f3ba32cc1f69.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/5ff574a009d9.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/a9f709d309db.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/a37bb3ddf79c.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/e3f5061d30be.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/e48c6ea37ff7.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/a8ce65e26233.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/1284ff3a8b3a.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/ec821e43ec10.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/8cab8578bc7c.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/ae79a7f7fefe.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/87dff7fa46ed.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/e61b05574c9b.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/aa7ffd29287d.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/a5ba78cc811b.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/11b47900ee03.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/57d1b9494db2.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/f0179d16ed00.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/d62d6bcd8acf.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/23b4e923f5b7.jpg"
+  ],
+  "tall": [
+   "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/e7c8e7763ddb.png",
+   "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/6453b427ff75.png"
+  ],
+  "characters": {
+   "Hiru": "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/2d4b2017753b.jpg",
+   "Kurapika": "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/ed945864f523.png",
+   "Leorio Paladiknight": "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/ef15e3329aa2.jpg",
+   "Killua Zoldyck": "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/91290d81d015.jpg",
+   "Abe": "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/25a3c8c5ad13.jpg",
+   "Abengane": "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/1d105a5dc72e.jpg",
+   "Agon": "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/a58b9e9b57cd.jpg",
+   "Alligator": "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/25a4f9c3aafb.jpg",
+   "Amana": "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/5f3a3dd46e37.jpg",
+   "Amane": "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/2d3eaf6a9902.jpg",
+   "Bushidora  Ambitious": "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/01a6e15138a2.jpg",
+   "Amori": "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/1bf2245f831a.jpg",
+   "Asta": "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/62c5b053e424.jpg",
+   "Baise": "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/a7fec34a7e46.jpg",
+   "Balda": "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/96b27c5aa96b.jpg",
+   "Bara": "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/e7f6f19d2556.jpg",
+   "Baro": "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/5a3a1f7c4015.jpg",
+   "Barry": "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/d0ed10c84bc1.jpg",
+   "Basho": "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/0e802cb9575c.jpg",
+   "Bat": "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/daee631b3f05.jpg",
+   "Gon Freecss": "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/a4ed24495004.jpg",
+   "Hisoka Morow": "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/bc7f14a9a90c.png",
+   "Leorio Paradinight": "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/c8cc7b1789d5.jpg",
+   "Chrollo Lucilfer": "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/36ca3ba8a2c0.jpg",
+   "Meruem": "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/264f4c3014d4.png",
+   "Feitan Portor": "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/dd081b31eee3.jpg",
+   "Isaac Netero": "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/ea24458a4fda.jpg",
+   "Neferpitou": "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/63da4c85a705.png",
+   "Shizuku Murasaki": "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/9be95824463c.jpg",
+   "Illumi Zoldyck": "/home/claude/tiktok-factory/runs/2026-09-27_1745f/images/de90496bef79.png"
+  },
+  "sources": [
+   "https://kitsu.io/anime/hunter-x-hunter-2011",
+   "https://anilist.co/anime/11061"
+  ]
+ }
+}

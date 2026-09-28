@@ -1,0 +1,21 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-09-27_1745f/video.mp4",
+ "duration": 91.348,
+ "shots": 71,
+ "sources": [
+  "https://anilist.co/anime/11061",
+  "https://kitsu.io/anime/hunter-x-hunter-2011"
+ ],
+ "music": {
+  "file": "hype2.mp3",
+  "bpm": 92.3,
+  "offset": 10.451999999999998
+ },
+ "sfx": 32,
+ "engine": "remotion (OpenMontage)",
+ "voice_engine": "fish",
+ "repo_path": "videos/2026/09/2026-09-27_1745f.mp4",
+ "raw_url": "https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/videos/2026/09/2026-09-27_1745f.mp4",
+ "lint": [],
+ "render_seconds": 1294.1
+}

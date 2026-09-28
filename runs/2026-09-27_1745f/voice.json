@@ -1,0 +1,1738 @@
+{
+ "engine": "fish",
+ "path": "/home/claude/tiktok-factory/runs/2026-09-27_1745f/voice.wav",
+ "duration": 91.348,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 4.52,
+   "slot_end": 4.642,
+   "text": "Le pouvoir numéro 1 de Hunter x Hunter peut littéralement tout exaucer.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 0.0,
+     "end": 0.12
+    },
+    {
+     "w": "pouvoir",
+     "start": 0.12,
+     "end": 0.48
+    },
+    {
+     "w": "numéro",
+     "start": 0.48,
+     "end": 0.92
+    },
+    {
+     "w": "1",
+     "start": 0.92,
+     "end": 1.46
+    },
+    {
+     "w": "de",
+     "start": 1.46,
+     "end": 1.66
+    },
+    {
+     "w": "Hunter",
+     "start": 1.66,
+     "end": 2.04
+    },
+    {
+     "w": "x",
+     "start": 2.04,
+     "end": 2.3
+    },
+    {
+     "w": "Hunter",
+     "start": 2.3,
+     "end": 2.58
+    },
+    {
+     "w": "peut",
+     "start": 2.58,
+     "end": 2.86
+    },
+    {
+     "w": "littéralement",
+     "start": 2.86,
+     "end": 3.6
+    },
+    {
+     "w": "tout",
+     "start": 3.6,
+     "end": 3.9
+    },
+    {
+     "w": "exaucer.",
+     "start": 3.9,
+     "end": 4.52
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 4.66,
+   "end": 8.1,
+   "slot_end": 8.658,
+   "text": "Reste jusqu'au bout, parce que le numéro 2 m'a mis une claque que j'ai toujours pas digérée.",
+   "words": [
+    {
+     "w": "Reste",
+     "start": 4.66,
+     "end": 4.86
+    },
+    {
+     "w": "jusqu'au",
+     "start": 4.86,
+     "end": 5.3
+    },
+    {
+     "w": "bout,",
+     "start": 5.3,
+     "end": 5.42
+    },
+    {
+     "w": "parce",
+     "start": 5.42,
+     "end": 5.6
+    },
+    {
+     "w": "que",
+     "start": 5.6,
+     "end": 5.76
+    },
+    {
+     "w": "le",
+     "start": 5.76,
+     "end": 5.86
+    },
+    {
+     "w": "numéro",
+     "start": 5.86,
+     "end": 6.12
+    },
+    {
+     "w": "2",
+     "start": 6.12,
+     "end": 6.38
+    },
+    {
+     "w": "m'a",
+     "start": 6.38,
+     "end": 6.58
+    },
+    {
+     "w": "mis",
+     "start": 6.58,
+     "end": 6.72
+    },
+    {
+     "w": "une",
+     "start": 6.72,
+     "end": 6.8
+    },
+    {
+     "w": "claque",
+     "start": 6.8,
+     "end": 7.1
+    },
+    {
+     "w": "que",
+     "start": 7.1,
+     "end": 7.22
+    },
+    {
+     "w": "j'ai",
+     "start": 7.22,
+     "end": 7.34
+    },
+    {
+     "w": "toujours",
+     "start": 7.34,
+     "end": 7.54
+    },
+    {
+     "w": "pas",
+     "start": 7.54,
+     "end": 7.72
+    },
+    {
+     "w": "digérée.",
+     "start": 7.72,
+     "end": 8.1
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 8.78,
+   "end": 15.7,
+   "slot_end": 15.833,
+   "text": "Numéro 5, l'Emperor Time de Kurapika. Ses yeux deviennent rouges et d'un coup il maîtrise toutes les catégories de Nen à fond.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 8.78,
+     "end": 8.94
+    },
+    {
+     "w": "5,",
+     "start": 8.94,
+     "end": 9.22
+    },
+    {
+     "w": "l'Emperor",
+     "start": 9.94,
+     "end": 10.46
+    },
+    {
+     "w": "Time",
+     "start": 10.46,
+     "end": 10.76
+    },
+    {
+     "w": "de",
+     "start": 10.76,
+     "end": 10.98
+    },
+    {
+     "w": "Kurapika.",
+     "start": 10.98,
+     "end": 11.46
+    },
+    {
+     "w": "Ses",
+     "start": 12.02,
+     "end": 12.28
+    },
+    {
+     "w": "yeux",
+     "start": 12.28,
+     "end": 12.48
+    },
+    {
+     "w": "deviennent",
+     "start": 12.48,
+     "end": 12.78
+    },
+    {
+     "w": "rouges",
+     "start": 12.78,
+     "end": 13.28
+    },
+    {
+     "w": "et",
+     "start": 13.28,
+     "end": 13.46
+    },
+    {
+     "w": "d'un",
+     "start": 13.46,
+     "end": 13.62
+    },
+    {
+     "w": "coup",
+     "start": 13.62,
+     "end": 13.76
+    },
+    {
+     "w": "il",
+     "start": 13.76,
+     "end": 13.86
+    },
+    {
+     "w": "maîtrise",
+     "start": 13.86,
+     "end": 14.22
+    },
+    {
+     "w": "toutes",
+     "start": 14.22,
+     "end": 14.36
+    },
+    {
+     "w": "les",
+     "start": 14.36,
+     "end": 14.54
+    },
+    {
+     "w": "catégories",
+     "start": 14.54,
+     "end": 14.94
+    },
+    {
+     "w": "de",
+     "start": 14.94,
+     "end": 15.14
+    },
+    {
+     "w": "Nen",
+     "start": 15.14,
+     "end": 15.32
+    },
+    {
+     "w": "à",
+     "start": 15.32,
+     "end": 15.52
+    },
+    {
+     "w": "fond.",
+     "start": 15.52,
+     "end": 15.7
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 15.84,
+   "end": 21.36,
+   "slot_end": 21.48,
+   "text": "Sauf que chaque seconde utilisée lui coûte une heure de vie. Cheaté, oui, mais avec des intérêts de malade.",
+   "words": [
+    {
+     "w": "Sauf",
+     "start": 15.84,
+     "end": 15.94
+    },
+    {
+     "w": "que",
+     "start": 15.94,
+     "end": 16.1
+    },
+    {
+     "w": "chaque",
+     "start": 16.1,
+     "end": 16.28
+    },
+    {
+     "w": "seconde",
+     "start": 16.28,
+     "end": 16.9
+    },
+    {
+     "w": "utilisée",
+     "start": 16.9,
+     "end": 17.42
+    },
+    {
+     "w": "lui",
+     "start": 17.42,
+     "end": 17.64
+    },
+    {
+     "w": "coûte",
+     "start": 17.64,
+     "end": 18.0
+    },
+    {
+     "w": "une",
+     "start": 18.0,
+     "end": 18.24
+    },
+    {
+     "w": "heure",
+     "start": 18.24,
+     "end": 18.46
+    },
+    {
+     "w": "de",
+     "start": 18.46,
+     "end": 18.64
+    },
+    {
+     "w": "vie.",
+     "start": 18.64,
+     "end": 18.8
+    },
+    {
+     "w": "Cheaté,",
+     "start": 18.92,
+     "end": 19.22
+    },
+    {
+     "w": "oui,",
+     "start": 19.22,
+     "end": 19.58
+    },
+    {
+     "w": "mais",
+     "start": 19.8,
+     "end": 19.9
+    },
+    {
+     "w": "avec",
+     "start": 19.9,
+     "end": 20.12
+    },
+    {
+     "w": "des",
+     "start": 20.12,
+     "end": 20.3
+    },
+    {
+     "w": "intérêts",
+     "start": 20.3,
+     "end": 20.68
+    },
+    {
+     "w": "de",
+     "start": 20.68,
+     "end": 21.02
+    },
+    {
+     "w": "malade.",
+     "start": 21.02,
+     "end": 21.36
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 21.52,
+   "end": 28.56,
+   "slot_end": 28.84,
+   "text": "Numéro 4, le Skill Hunter de Chrollo. Il vole le pouvoir des autres et le range dans son bouquin, comme une collection.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 21.52,
+     "end": 21.82
+    },
+    {
+     "w": "4,",
+     "start": 21.82,
+     "end": 22.12
+    },
+    {
+     "w": "le",
+     "start": 22.58,
+     "end": 22.64
+    },
+    {
+     "w": "Skill",
+     "start": 22.64,
+     "end": 22.88
+    },
+    {
+     "w": "Hunter",
+     "start": 22.88,
+     "end": 23.18
+    },
+    {
+     "w": "de",
+     "start": 23.18,
+     "end": 23.54
+    },
+    {
+     "w": "Chrollo.",
+     "start": 23.54,
+     "end": 23.84
+    },
+    {
+     "w": "Il",
+     "start": 24.78,
+     "end": 25.04
+    },
+    {
+     "w": "vole",
+     "start": 25.04,
+     "end": 25.28
+    },
+    {
+     "w": "le",
+     "start": 25.28,
+     "end": 25.54
+    },
+    {
+     "w": "pouvoir",
+     "start": 25.54,
+     "end": 25.78
+    },
+    {
+     "w": "des",
+     "start": 25.78,
+     "end": 26.12
+    },
+    {
+     "w": "autres",
+     "start": 26.12,
+     "end": 26.34
+    },
+    {
+     "w": "et",
+     "start": 26.34,
+     "end": 26.54
+    },
+    {
+     "w": "le",
+     "start": 26.54,
+     "end": 26.7
+    },
+    {
+     "w": "range",
+     "start": 26.7,
+     "end": 26.9
+    },
+    {
+     "w": "dans",
+     "start": 26.9,
+     "end": 27.18
+    },
+    {
+     "w": "son",
+     "start": 27.18,
+     "end": 27.36
+    },
+    {
+     "w": "bouquin,",
+     "start": 27.36,
+     "end": 27.72
+    },
+    {
+     "w": "comme",
+     "start": 27.72,
+     "end": 28.12
+    },
+    {
+     "w": "une",
+     "start": 28.12,
+     "end": 28.28
+    },
+    {
+     "w": "collection.",
+     "start": 28.28,
+     "end": 28.56
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 28.56,
+   "end": 35.32,
+   "slot_end": 35.42,
+   "text": "Numéro 3, et là y'en a qui vont rire, le Hakoware de Knuckle. Il te prête de l'aura, et la dette grossit toutes les dix secondes.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 28.56,
+     "end": 29.16
+    },
+    {
+     "w": "3,",
+     "start": 29.16,
+     "end": 29.52
+    },
+    {
+     "w": "et",
+     "start": 29.52,
+     "end": 29.648
+    },
+    {
+     "w": "là",
+     "start": 29.648,
+     "end": 29.776
+    },
+    {
+     "w": "y'en",
+     "start": 29.776,
+     "end": 30.032
+    },
+    {
+     "w": "a",
+     "start": 30.032,
+     "end": 30.16
+    },
+    {
+     "w": "qui",
+     "start": 30.16,
+     "end": 30.44
+    },
+    {
+     "w": "vont",
+     "start": 30.44,
+     "end": 30.6
+    },
+    {
+     "w": "rire,",
+     "start": 30.6,
+     "end": 30.88
+    },
+    {
+     "w": "le",
+     "start": 30.88,
+     "end": 31.14
+    },
+    {
+     "w": "Hakoware",
+     "start": 31.14,
+     "end": 31.74
+    },
+    {
+     "w": "de",
+     "start": 31.74,
+     "end": 32.02
+    },
+    {
+     "w": "Knuckle.",
+     "start": 32.02,
+     "end": 32.44
+    },
+    {
+     "w": "Il",
+     "start": 32.66,
+     "end": 32.71
+    },
+    {
+     "w": "te",
+     "start": 32.7,
+     "end": 32.84
+    },
+    {
+     "w": "prête",
+     "start": 32.84,
+     "end": 33.04
+    },
+    {
+     "w": "de",
+     "start": 33.04,
+     "end": 33.18
+    },
+    {
+     "w": "l'aura,",
+     "start": 33.18,
+     "end": 33.36
+    },
+    {
+     "w": "et",
+     "start": 33.36,
+     "end": 33.7
+    },
+    {
+     "w": "la",
+     "start": 33.7,
+     "end": 33.84
+    },
+    {
+     "w": "dette",
+     "start": 33.84,
+     "end": 33.98
+    },
+    {
+     "w": "grossit",
+     "start": 33.98,
+     "end": 34.42
+    },
+    {
+     "w": "toutes",
+     "start": 34.42,
+     "end": 34.6
+    },
+    {
+     "w": "les",
+     "start": 34.6,
+     "end": 34.76
+    },
+    {
+     "w": "dix",
+     "start": 34.76,
+     "end": 34.94
+    },
+    {
+     "w": "secondes.",
+     "start": 34.94,
+     "end": 35.32
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 35.42,
+   "end": 41.78,
+   "slot_end": 41.991,
+   "text": "Si ta dette dépasse ton aura, t'es en faillite et tu perds ton Nen. Il te bat sans te mettre KO, c'est le banquier le plus dangereux de l'anime.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 35.42,
+     "end": 35.56
+    },
+    {
+     "w": "ta",
+     "start": 35.56,
+     "end": 35.72
+    },
+    {
+     "w": "dette",
+     "start": 35.72,
+     "end": 35.86
+    },
+    {
+     "w": "dépasse",
+     "start": 35.86,
+     "end": 36.22
+    },
+    {
+     "w": "ton",
+     "start": 36.22,
+     "end": 36.42
+    },
+    {
+     "w": "aura,",
+     "start": 36.42,
+     "end": 36.68
+    },
+    {
+     "w": "t'es",
+     "start": 36.94,
+     "end": 37.0
+    },
+    {
+     "w": "en",
+     "start": 37.0,
+     "end": 37.12
+    },
+    {
+     "w": "faillite",
+     "start": 37.12,
+     "end": 37.44
+    },
+    {
+     "w": "et",
+     "start": 37.44,
+     "end": 37.6
+    },
+    {
+     "w": "tu",
+     "start": 37.6,
+     "end": 37.72
+    },
+    {
+     "w": "perds",
+     "start": 37.72,
+     "end": 37.96
+    },
+    {
+     "w": "ton",
+     "start": 37.96,
+     "end": 38.1
+    },
+    {
+     "w": "Nen.",
+     "start": 38.1,
+     "end": 38.24
+    },
+    {
+     "w": "Il",
+     "start": 38.38,
+     "end": 38.5
+    },
+    {
+     "w": "te",
+     "start": 38.5,
+     "end": 38.64
+    },
+    {
+     "w": "bat",
+     "start": 38.64,
+     "end": 38.8
+    },
+    {
+     "w": "sans",
+     "start": 38.8,
+     "end": 39.02
+    },
+    {
+     "w": "te",
+     "start": 39.02,
+     "end": 39.24
+    },
+    {
+     "w": "mettre",
+     "start": 39.24,
+     "end": 39.46
+    },
+    {
+     "w": "KO,",
+     "start": 39.46,
+     "end": 39.72
+    },
+    {
+     "w": "c'est",
+     "start": 39.96,
+     "end": 40.06
+    },
+    {
+     "w": "le",
+     "start": 40.06,
+     "end": 40.22
+    },
+    {
+     "w": "banquier",
+     "start": 40.22,
+     "end": 40.58
+    },
+    {
+     "w": "le",
+     "start": 40.58,
+     "end": 40.76
+    },
+    {
+     "w": "plus",
+     "start": 40.76,
+     "end": 40.92
+    },
+    {
+     "w": "dangereux",
+     "start": 40.92,
+     "end": 41.38
+    },
+    {
+     "w": "de",
+     "start": 41.38,
+     "end": 41.52
+    },
+    {
+     "w": "l'anime.",
+     "start": 41.52,
+     "end": 41.78
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 41.92,
+   "end": 46.7,
+   "slot_end": 46.843,
+   "text": "Si toi aussi tu penses que Togashi est un génie, abonne-toi, la partie 2 avec les pouvoirs les plus nuls arrive très vite.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 41.92,
+     "end": 42.14
+    },
+    {
+     "w": "toi",
+     "start": 42.14,
+     "end": 42.24
+    },
+    {
+     "w": "aussi",
+     "start": 42.24,
+     "end": 42.42
+    },
+    {
+     "w": "tu",
+     "start": 42.42,
+     "end": 42.58
+    },
+    {
+     "w": "penses",
+     "start": 42.58,
+     "end": 42.8
+    },
+    {
+     "w": "que",
+     "start": 42.8,
+     "end": 42.92
+    },
+    {
+     "w": "Togashi",
+     "start": 42.92,
+     "end": 43.26
+    },
+    {
+     "w": "est",
+     "start": 43.26,
+     "end": 43.48
+    },
+    {
+     "w": "un",
+     "start": 43.48,
+     "end": 43.82
+    },
+    {
+     "w": "génie,",
+     "start": 43.82,
+     "end": 44.16
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 44.16,
+     "end": 44.5
+    },
+    {
+     "w": "la",
+     "start": 44.5,
+     "end": 44.55
+    },
+    {
+     "w": "partie",
+     "start": 44.52,
+     "end": 44.72
+    },
+    {
+     "w": "2",
+     "start": 44.72,
+     "end": 44.98
+    },
+    {
+     "w": "avec",
+     "start": 44.98,
+     "end": 45.14
+    },
+    {
+     "w": "les",
+     "start": 45.14,
+     "end": 45.32
+    },
+    {
+     "w": "pouvoirs",
+     "start": 45.32,
+     "end": 45.58
+    },
+    {
+     "w": "les",
+     "start": 45.58,
+     "end": 45.76
+    },
+    {
+     "w": "plus",
+     "start": 45.76,
+     "end": 45.86
+    },
+    {
+     "w": "nuls",
+     "start": 45.86,
+     "end": 46.1
+    },
+    {
+     "w": "arrive",
+     "start": 46.1,
+     "end": 46.34
+    },
+    {
+     "w": "très",
+     "start": 46.34,
+     "end": 46.52
+    },
+    {
+     "w": "vite.",
+     "start": 46.52,
+     "end": 46.7
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 46.88,
+   "end": 53.02,
+   "slot_end": 53.181,
+   "text": "Numéro 2, le Hyakushiki Kannon de Netero. Une statue géante aux mille mains qui frappe plus vite que la pensée.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 46.88,
+     "end": 47.24
+    },
+    {
+     "w": "2,",
+     "start": 47.24,
+     "end": 47.56
+    },
+    {
+     "w": "le",
+     "start": 48.0,
+     "end": 48.1
+    },
+    {
+     "w": "Hyakushiki",
+     "start": 48.1,
+     "end": 48.9
+    },
+    {
+     "w": "Kannon",
+     "start": 48.9,
+     "end": 49.38
+    },
+    {
+     "w": "de",
+     "start": 49.38,
+     "end": 49.56
+    },
+    {
+     "w": "Netero.",
+     "start": 49.56,
+     "end": 50.08
+    },
+    {
+     "w": "Une",
+     "start": 50.16,
+     "end": 50.28
+    },
+    {
+     "w": "statue",
+     "start": 50.28,
+     "end": 50.5
+    },
+    {
+     "w": "géante",
+     "start": 50.5,
+     "end": 51.04
+    },
+    {
+     "w": "aux",
+     "start": 51.04,
+     "end": 51.22
+    },
+    {
+     "w": "mille",
+     "start": 51.22,
+     "end": 51.36
+    },
+    {
+     "w": "mains",
+     "start": 51.36,
+     "end": 51.6
+    },
+    {
+     "w": "qui",
+     "start": 51.6,
+     "end": 51.78
+    },
+    {
+     "w": "frappe",
+     "start": 51.78,
+     "end": 51.94
+    },
+    {
+     "w": "plus",
+     "start": 51.94,
+     "end": 52.2
+    },
+    {
+     "w": "vite",
+     "start": 52.2,
+     "end": 52.36
+    },
+    {
+     "w": "que",
+     "start": 52.36,
+     "end": 52.52
+    },
+    {
+     "w": "la",
+     "start": 52.52,
+     "end": 52.66
+    },
+    {
+     "w": "pensée.",
+     "start": 52.66,
+     "end": 53.02
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 53.18,
+   "end": 59.88,
+   "slot_end": 59.986,
+   "text": "Et pourtant face à Meruem, ça suffit pas. Le vieux sort sa dernière attaque, le Zero no Te, et même ça, le roi s'en relève.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 53.18,
+     "end": 53.28
+    },
+    {
+     "w": "pourtant",
+     "start": 53.28,
+     "end": 53.62
+    },
+    {
+     "w": "face",
+     "start": 53.8,
+     "end": 53.88
+    },
+    {
+     "w": "à",
+     "start": 53.88,
+     "end": 54.06
+    },
+    {
+     "w": "Meruem,",
+     "start": 54.06,
+     "end": 54.48
+    },
+    {
+     "w": "ça",
+     "start": 54.64,
+     "end": 54.72
+    },
+    {
+     "w": "suffit",
+     "start": 54.72,
+     "end": 55.02
+    },
+    {
+     "w": "pas.",
+     "start": 55.02,
+     "end": 55.18
+    },
+    {
+     "w": "Le",
+     "start": 55.18,
+     "end": 55.4
+    },
+    {
+     "w": "vieux",
+     "start": 55.4,
+     "end": 55.7
+    },
+    {
+     "w": "sort",
+     "start": 55.7,
+     "end": 55.98
+    },
+    {
+     "w": "sa",
+     "start": 55.98,
+     "end": 56.2
+    },
+    {
+     "w": "dernière",
+     "start": 56.2,
+     "end": 56.54
+    },
+    {
+     "w": "attaque,",
+     "start": 56.54,
+     "end": 57.0
+    },
+    {
+     "w": "le",
+     "start": 57.2,
+     "end": 57.38
+    },
+    {
+     "w": "Zero",
+     "start": 57.38,
+     "end": 57.74
+    },
+    {
+     "w": "no",
+     "start": 57.74,
+     "end": 57.96
+    },
+    {
+     "w": "Te,",
+     "start": 57.96,
+     "end": 58.18
+    },
+    {
+     "w": "et",
+     "start": 58.48,
+     "end": 58.53
+    },
+    {
+     "w": "même",
+     "start": 58.52,
+     "end": 58.7
+    },
+    {
+     "w": "ça,",
+     "start": 58.7,
+     "end": 58.96
+    },
+    {
+     "w": "le",
+     "start": 58.96,
+     "end": 59.12
+    },
+    {
+     "w": "roi",
+     "start": 59.12,
+     "end": 59.4
+    },
+    {
+     "w": "s'en",
+     "start": 59.4,
+     "end": 59.58
+    },
+    {
+     "w": "relève.",
+     "start": 59.58,
+     "end": 59.88
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 60.0,
+   "end": 67.02,
+   "slot_end": 67.179,
+   "text": "Alors Netero sourit, et il déclenche la bombe cachée dans son propre cœur. Ce combat, frr, je le regarde encore et j'ai des frissons.",
+   "words": [
+    {
+     "w": "Alors",
+     "start": 60.0,
+     "end": 60.12
+    },
+    {
+     "w": "Netero",
+     "start": 60.12,
+     "end": 60.53
+    },
+    {
+     "w": "sourit,",
+     "start": 60.53,
+     "end": 60.94
+    },
+    {
+     "w": "et",
+     "start": 60.94,
+     "end": 61.24
+    },
+    {
+     "w": "il",
+     "start": 61.24,
+     "end": 61.38
+    },
+    {
+     "w": "déclenche",
+     "start": 61.38,
+     "end": 61.76
+    },
+    {
+     "w": "la",
+     "start": 61.76,
+     "end": 61.94
+    },
+    {
+     "w": "bombe",
+     "start": 61.94,
+     "end": 62.2
+    },
+    {
+     "w": "cachée",
+     "start": 62.2,
+     "end": 62.56
+    },
+    {
+     "w": "dans",
+     "start": 62.56,
+     "end": 62.72
+    },
+    {
+     "w": "son",
+     "start": 62.72,
+     "end": 62.94
+    },
+    {
+     "w": "propre",
+     "start": 62.94,
+     "end": 63.22
+    },
+    {
+     "w": "cœur.",
+     "start": 63.22,
+     "end": 63.62
+    },
+    {
+     "w": "Ce",
+     "start": 63.76,
+     "end": 63.86
+    },
+    {
+     "w": "combat,",
+     "start": 63.86,
+     "end": 64.14
+    },
+    {
+     "w": "frr,",
+     "start": 64.52,
+     "end": 64.76
+    },
+    {
+     "w": "je",
+     "start": 65.14,
+     "end": 65.34
+    },
+    {
+     "w": "le",
+     "start": 65.34,
+     "end": 65.44
+    },
+    {
+     "w": "regarde",
+     "start": 65.44,
+     "end": 65.7
+    },
+    {
+     "w": "encore",
+     "start": 65.7,
+     "end": 65.98
+    },
+    {
+     "w": "et",
+     "start": 65.98,
+     "end": 66.28
+    },
+    {
+     "w": "j'ai",
+     "start": 66.28,
+     "end": 66.4
+    },
+    {
+     "w": "des",
+     "start": 66.4,
+     "end": 66.52
+    },
+    {
+     "w": "frissons.",
+     "start": 66.52,
+     "end": 67.02
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 67.28,
+   "end": 75.94,
+   "slot_end": 76.055,
+   "text": "Et numéro 1, Nanika, le pouvoir caché dans Alluka, la petite sœur de Killua. Tu lui demandes un vœu, n'importe lequel, et il se réalise.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 67.28,
+     "end": 67.33
+    },
+    {
+     "w": "numéro",
+     "start": 67.28,
+     "end": 67.4
+    },
+    {
+     "w": "1,",
+     "start": 67.4,
+     "end": 67.82
+    },
+    {
+     "w": "Nanika,",
+     "start": 68.28,
+     "end": 68.58
+    },
+    {
+     "w": "le",
+     "start": 68.74,
+     "end": 68.84
+    },
+    {
+     "w": "pouvoir",
+     "start": 68.84,
+     "end": 69.08
+    },
+    {
+     "w": "caché",
+     "start": 69.08,
+     "end": 69.6
+    },
+    {
+     "w": "dans",
+     "start": 69.6,
+     "end": 69.78
+    },
+    {
+     "w": "Alluka,",
+     "start": 69.78,
+     "end": 70.28
+    },
+    {
+     "w": "la",
+     "start": 70.54,
+     "end": 70.62
+    },
+    {
+     "w": "petite",
+     "start": 70.62,
+     "end": 70.92
+    },
+    {
+     "w": "sœur",
+     "start": 70.92,
+     "end": 71.32
+    },
+    {
+     "w": "de",
+     "start": 71.32,
+     "end": 71.48
+    },
+    {
+     "w": "Killua.",
+     "start": 71.48,
+     "end": 71.9
+    },
+    {
+     "w": "Tu",
+     "start": 72.04,
+     "end": 72.14
+    },
+    {
+     "w": "lui",
+     "start": 72.14,
+     "end": 72.28
+    },
+    {
+     "w": "demandes",
+     "start": 72.28,
+     "end": 72.6
+    },
+    {
+     "w": "un",
+     "start": 72.6,
+     "end": 72.76
+    },
+    {
+     "w": "vœu,",
+     "start": 72.76,
+     "end": 73.36
+    },
+    {
+     "w": "n'importe",
+     "start": 73.36,
+     "end": 73.86
+    },
+    {
+     "w": "lequel,",
+     "start": 73.86,
+     "end": 74.34
+    },
+    {
+     "w": "et",
+     "start": 74.34,
+     "end": 75.14
+    },
+    {
+     "w": "il",
+     "start": 75.14,
+     "end": 75.22
+    },
+    {
+     "w": "se",
+     "start": 75.22,
+     "end": 75.42
+    },
+    {
+     "w": "réalise.",
+     "start": 75.42,
+     "end": 75.94
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 76.08,
+   "end": 83.36,
+   "slot_end": 83.518,
+   "text": "Gon était à moitié mort après son combat contre Pitou, et Nanika l'a soigné d'un coup. Mais si tu rates les règles, ça coûte très cher autour de toi.",
+   "words": [
+    {
+     "w": "Gon",
+     "start": 76.08,
+     "end": 76.22
+    },
+    {
+     "w": "était",
+     "start": 76.22,
+     "end": 76.42
+    },
+    {
+     "w": "à",
+     "start": 76.42,
+     "end": 76.54
+    },
+    {
+     "w": "moitié",
+     "start": 76.54,
+     "end": 76.8
+    },
+    {
+     "w": "mort",
+     "start": 76.8,
+     "end": 77.0
+    },
+    {
+     "w": "après",
+     "start": 77.0,
+     "end": 77.28
+    },
+    {
+     "w": "son",
+     "start": 77.28,
+     "end": 77.48
+    },
+    {
+     "w": "combat",
+     "start": 77.48,
+     "end": 77.8
+    },
+    {
+     "w": "contre",
+     "start": 77.8,
+     "end": 78.08
+    },
+    {
+     "w": "Pitou,",
+     "start": 78.08,
+     "end": 78.42
+    },
+    {
+     "w": "et",
+     "start": 79.0,
+     "end": 79.22
+    },
+    {
+     "w": "Nanika",
+     "start": 79.22,
+     "end": 79.54
+    },
+    {
+     "w": "l'a",
+     "start": 79.54,
+     "end": 79.7
+    },
+    {
+     "w": "soigné",
+     "start": 79.7,
+     "end": 80.0
+    },
+    {
+     "w": "d'un",
+     "start": 80.0,
+     "end": 80.16
+    },
+    {
+     "w": "coup.",
+     "start": 80.16,
+     "end": 80.38
+    },
+    {
+     "w": "Mais",
+     "start": 80.52,
+     "end": 80.62
+    },
+    {
+     "w": "si",
+     "start": 80.62,
+     "end": 80.76
+    },
+    {
+     "w": "tu",
+     "start": 80.76,
+     "end": 80.88
+    },
+    {
+     "w": "rates",
+     "start": 80.88,
+     "end": 81.18
+    },
+    {
+     "w": "les",
+     "start": 81.18,
+     "end": 81.3
+    },
+    {
+     "w": "règles,",
+     "start": 81.3,
+     "end": 81.58
+    },
+    {
+     "w": "ça",
+     "start": 81.68,
+     "end": 81.78
+    },
+    {
+     "w": "coûte",
+     "start": 81.78,
+     "end": 82.0
+    },
+    {
+     "w": "très",
+     "start": 82.0,
+     "end": 82.24
+    },
+    {
+     "w": "cher",
+     "start": 82.24,
+     "end": 82.48
+    },
+    {
+     "w": "autour",
+     "start": 82.48,
+     "end": 82.86
+    },
+    {
+     "w": "de",
+     "start": 82.86,
+     "end": 83.12
+    },
+    {
+     "w": "toi.",
+     "start": 83.12,
+     "end": 83.36
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 83.36,
+   "end": 87.456,
+   "slot_end": 87.231,
+   "text": "Et toi, c'est quoi ton top 1 des pouvoirs de Hunter x Hunter ? Dis-le moi en com'.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 83.36,
+     "end": 83.62
+    },
+    {
+     "w": "toi,",
+     "start": 83.62,
+     "end": 83.82
+    },
+    {
+     "w": "c'est",
+     "start": 83.98,
+     "end": 84.06
+    },
+    {
+     "w": "quoi",
+     "start": 84.06,
+     "end": 84.14
+    },
+    {
+     "w": "ton",
+     "start": 84.14,
+     "end": 84.32
+    },
+    {
+     "w": "top",
+     "start": 84.32,
+     "end": 84.5
+    },
+    {
+     "w": "1",
+     "start": 84.5,
+     "end": 84.64
+    },
+    {
+     "w": "des",
+     "start": 84.64,
+     "end": 84.78
+    },
+    {
+     "w": "pouvoirs",
+     "start": 84.78,
+     "end": 84.96
+    },
+    {
+     "w": "de",
+     "start": 84.96,
+     "end": 85.16
+    },
+    {
+     "w": "Hunter",
+     "start": 85.16,
+     "end": 85.484
+    },
+    {
+     "w": "x",
+     "start": 85.484,
+     "end": 85.808
+    },
+    {
+     "w": "Hunter",
+     "start": 85.808,
+     "end": 86.132
+    },
+    {
+     "w": "?",
+     "start": 86.132,
+     "end": 86.456
+    },
+    {
+     "w": "Dis-le",
+     "start": 86.456,
+     "end": 86.78
+    },
+    {
+     "w": "moi",
+     "start": 86.78,
+     "end": 86.92
+    },
+    {
+     "w": "en",
+     "start": 86.92,
+     "end": 87.188
+    },
+    {
+     "w": "com'.",
+     "start": 87.188,
+     "end": 87.456
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 87.456,
+   "end": 90.44,
+   "slot_end": 91.348,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 87.456,
+     "end": 87.992
+    },
+    {
+     "w": "Asura.",
+     "start": 87.992,
+     "end": 88.26
+    },
+    {
+     "w": "On",
+     "start": 88.98,
+     "end": 89.08
+    },
+    {
+     "w": "se",
+     "start": 89.08,
+     "end": 89.22
+    },
+    {
+     "w": "capte",
+     "start": 89.22,
+     "end": 89.58
+    },
+    {
+     "w": "au",
+     "start": 89.58,
+     "end": 89.68
+    },
+    {
+     "w": "prochain",
+     "start": 89.68,
+     "end": 90.02
+    },
+    {
+     "w": "épisode.",
+     "start": 90.02,
+     "end": 90.44
+    }
+   ]
+  }
+ ],
+ "aligned": 1.0
+}
