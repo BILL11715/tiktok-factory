@@ -147,11 +147,23 @@ def split(src: Path, out_dir: Path, tag: str, skip_head: float, skip_tail: float
     for i, (a, b) in enumerate(shots):
         out = out_dir / f"{tag}_{i:02d}.mp4"
         r = subprocess.run(["ffmpeg", "-y", "-v", "error", "-ss", f"{a:.3f}", "-t", f"{b - a:.3f}", "-i", str(src),
-                            "-vf", "scale=-2:1920:flags=lanczos,crop=1080:1920,fps=30,format=yuv420p",
+                            "-filter_complex", FRAME_9x16,
                             "-an", "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", str(out)])
         if r.returncode == 0 and out.exists():
             res.append({"path": str(out), "dur": round(b - a, 3), "tag": tag})
     return res
+
+
+# Cadrage 9:16 sans sur-zoom : l'extrait 16:9 garde ~2/3 de sa largeur (persos entiers),
+# centré sur un fond flou et assombri du même plan (style des gros comptes anime).
+FG_W = 1600
+FRAME_9x16 = (
+    "[0:v]split[a][b];"
+    "[a]scale=270:480:force_original_aspect_ratio=increase,crop=270:480,boxblur=12:2,"
+    "scale=1080:1920:flags=bicubic,eq=brightness=-0.14:saturation=1.1[bg];"
+    f"[b]scale={FG_W}:-2:flags=lanczos,crop='min(iw,1080)':'min(ih,1920)'[fg];"
+    "[bg][fg]overlay=(W-w)/2:(H-h)/2-60,fps=30,format=yuv420p"
+)
 
 
 def collect(animes: list[str], work: Path, index: dict | None = None, per_anime: int = 40) -> dict:

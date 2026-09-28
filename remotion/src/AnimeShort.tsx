@@ -115,12 +115,14 @@ const ShotLayer: React.FC<{ shot: Shot; isFirst: boolean }> = ({ shot, isFirst }
   let tx = 0;
   let ty = 0;
   const m = shot.motion ?? "zoom-in";
-  const amp = shot.video ? 0.03 + rnd(seed) * 0.03 : 0.07 + rnd(seed) * 0.06;
+  // extraits vidéo : déjà cadrés en 9:16 (fond flou), marge réduite pour ne pas recouper les persos
+  const ov = shot.video ? 1.03 : OVER;
+  const amp = shot.video ? 0.02 + rnd(seed) * 0.02 : 0.05 + rnd(seed) * 0.04;
   if (m === "zoom-in") scale = 1 + amp * t;
   else if (m === "zoom-out") scale = 1 + amp * (1 - t);
-  else if (m === "pan-left") tx = ((W * OVER - W) / 2) * (1 - 2 * t);
-  else if (m === "pan-right") tx = -((W * OVER - W) / 2) * (1 - 2 * t);
-  else if (m === "drift-up") ty = ((H * OVER - H) / 2) * (1 - 2 * t);
+  else if (m === "pan-left") tx = ((W * ov - W) / 2) * (1 - 2 * t);
+  else if (m === "pan-right") tx = -((W * ov - W) / 2) * (1 - 2 * t);
+  else if (m === "drift-up") ty = ((H * ov - H) / 2) * (1 - 2 * t);
 
   // zoom punch + tremblement (hook / révélations)
   if (shot.fx === "hook" || shot.fx === "punch") {
@@ -166,10 +168,10 @@ const ShotLayer: React.FC<{ shot: Shot; isFirst: boolean }> = ({ shot, isFirst }
   const img = (clip?: string, dx = 0, hue = 0) => {
     const style: React.CSSProperties = {
         position: "absolute",
-        width: W * OVER,
-        height: H * OVER,
-        left: (W - W * OVER) / 2,
-        top: (H - H * OVER) / 2,
+        width: W * ov,
+        height: H * ov,
+        left: (W - W * ov) / 2,
+        top: (H - H * ov) / 2,
         transform: `translate(${tx + extraX + dx}px, ${ty + extraY}px) scale(${scale * extraScale})`,
         filter: hue ? `${filter === "none" ? "" : filter} hue-rotate(${hue}deg) saturate(2)` : filter,
         clipPath: clip,
