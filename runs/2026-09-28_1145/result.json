@@ -1,0 +1,23 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-09-28_1145/video.mp4",
+ "duration": 83.465,
+ "shots": 60,
+ "sources": [
+  "https://anilist.co/anime/161645",
+  "https://anilist.co/anime/195516",
+  "https://kitsu.io/anime/Kusuriya-no-Hitorigoto-3rd-season",
+  "https://kitsu.io/anime/kusuriya-no-hitorigoto"
+ ],
+ "music": {
+  "file": "pote.mp3",
+  "bpm": 184.6,
+  "offset": 47.39
+ },
+ "sfx": 24,
+ "engine": "remotion (OpenMontage)",
+ "voice_engine": "clone",
+ "repo_path": "videos/2026/09/2026-09-28_1145.mp4",
+ "raw_url": "https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/videos/2026/09/2026-09-28_1145.mp4",
+ "lint": [],
+ "render_seconds": 2402.9
+}
