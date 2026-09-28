@@ -1,0 +1,1638 @@
+{
+ "engine": "clone",
+ "path": "/home/claude/tiktok-factory/runs/2026-09-28_2045/voice.wav",
+ "duration": 93.41,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 3.7,
+   "slot_end": 3.873,
+   "text": "Lucy va revenir dans Edgerunners 2, et le scénariste s'est trahi tout seul.",
+   "words": [
+    {
+     "w": "Lucy",
+     "start": 0.0,
+     "end": 0.32
+    },
+    {
+     "w": "va",
+     "start": 0.32,
+     "end": 0.48
+    },
+    {
+     "w": "revenir",
+     "start": 0.48,
+     "end": 0.78
+    },
+    {
+     "w": "dans",
+     "start": 0.78,
+     "end": 1.0
+    },
+    {
+     "w": "Edgerunners",
+     "start": 1.0,
+     "end": 1.52
+    },
+    {
+     "w": "2,",
+     "start": 1.52,
+     "end": 1.64
+    },
+    {
+     "w": "et",
+     "start": 2.1,
+     "end": 2.34
+    },
+    {
+     "w": "le",
+     "start": 2.34,
+     "end": 2.52
+    },
+    {
+     "w": "scénariste",
+     "start": 2.52,
+     "end": 2.9
+    },
+    {
+     "w": "s'est",
+     "start": 3.06,
+     "end": 3.25
+    },
+    {
+     "w": "trahi",
+     "start": 3.25,
+     "end": 3.34
+    },
+    {
+     "w": "tout",
+     "start": 3.34,
+     "end": 3.48
+    },
+    {
+     "w": "seul.",
+     "start": 3.48,
+     "end": 3.7
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 3.86,
+   "end": 9.3,
+   "slot_end": 9.451,
+   "text": "Attention, ça spoile la fin de la saison 1. Et reste jusqu'au bout, le deuxième indice est le plus chaud.",
+   "words": [
+    {
+     "w": "Attention,",
+     "start": 3.86,
+     "end": 4.18
+    },
+    {
+     "w": "ça",
+     "start": 4.52,
+     "end": 4.57
+    },
+    {
+     "w": "spoile",
+     "start": 4.56,
+     "end": 4.98
+    },
+    {
+     "w": "la",
+     "start": 4.98,
+     "end": 5.18
+    },
+    {
+     "w": "fin",
+     "start": 5.18,
+     "end": 5.36
+    },
+    {
+     "w": "de",
+     "start": 5.36,
+     "end": 5.5
+    },
+    {
+     "w": "la",
+     "start": 5.5,
+     "end": 5.62
+    },
+    {
+     "w": "saison",
+     "start": 5.62,
+     "end": 5.96
+    },
+    {
+     "w": "1.",
+     "start": 5.96,
+     "end": 6.26
+    },
+    {
+     "w": "Et",
+     "start": 6.26,
+     "end": 6.66
+    },
+    {
+     "w": "reste",
+     "start": 6.66,
+     "end": 7.02
+    },
+    {
+     "w": "jusqu'au",
+     "start": 7.02,
+     "end": 7.46
+    },
+    {
+     "w": "bout,",
+     "start": 7.46,
+     "end": 7.64
+    },
+    {
+     "w": "le",
+     "start": 7.96,
+     "end": 8.06
+    },
+    {
+     "w": "deuxième",
+     "start": 8.06,
+     "end": 8.36
+    },
+    {
+     "w": "indice",
+     "start": 8.36,
+     "end": 8.68
+    },
+    {
+     "w": "est",
+     "start": 8.68,
+     "end": 8.82
+    },
+    {
+     "w": "le",
+     "start": 8.82,
+     "end": 8.96
+    },
+    {
+     "w": "plus",
+     "start": 8.96,
+     "end": 9.12
+    },
+    {
+     "w": "chaud.",
+     "start": 9.12,
+     "end": 9.3
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 9.44,
+   "end": 15.92,
+   "slot_end": 16.084,
+   "text": "Petit rappel. Edgerunners 2 sort le 20 octobre sur Netflix, dix épisodes, avec des persos tout neufs.",
+   "words": [
+    {
+     "w": "Petit",
+     "start": 9.44,
+     "end": 9.66
+    },
+    {
+     "w": "rappel.",
+     "start": 9.66,
+     "end": 10.08
+    },
+    {
+     "w": "Edgerunners",
+     "start": 10.42,
+     "end": 10.96
+    },
+    {
+     "w": "2",
+     "start": 10.96,
+     "end": 11.26
+    },
+    {
+     "w": "sort",
+     "start": 11.26,
+     "end": 11.62
+    },
+    {
+     "w": "le",
+     "start": 11.62,
+     "end": 11.94
+    },
+    {
+     "w": "20",
+     "start": 11.94,
+     "end": 12.12
+    },
+    {
+     "w": "octobre",
+     "start": 12.12,
+     "end": 12.66
+    },
+    {
+     "w": "sur",
+     "start": 12.66,
+     "end": 12.82
+    },
+    {
+     "w": "Netflix,",
+     "start": 12.82,
+     "end": 13.22
+    },
+    {
+     "w": "dix",
+     "start": 13.62,
+     "end": 13.78
+    },
+    {
+     "w": "épisodes,",
+     "start": 13.78,
+     "end": 14.58
+    },
+    {
+     "w": "avec",
+     "start": 14.58,
+     "end": 14.96
+    },
+    {
+     "w": "des",
+     "start": 14.96,
+     "end": 15.14
+    },
+    {
+     "w": "persos",
+     "start": 15.14,
+     "end": 15.44
+    },
+    {
+     "w": "tout",
+     "start": 15.44,
+     "end": 15.56
+    },
+    {
+     "w": "neufs.",
+     "start": 15.56,
+     "end": 15.92
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 16.06,
+   "end": 21.04,
+   "slot_end": 21.328,
+   "text": "Donc sur le papier, Lucy a rien à faire là. Sauf que y'a trois trucs qui me font tiquer.",
+   "words": [
+    {
+     "w": "Donc",
+     "start": 16.06,
+     "end": 16.18
+    },
+    {
+     "w": "sur",
+     "start": 16.18,
+     "end": 16.34
+    },
+    {
+     "w": "le",
+     "start": 16.34,
+     "end": 16.46
+    },
+    {
+     "w": "papier,",
+     "start": 16.46,
+     "end": 16.68
+    },
+    {
+     "w": "Lucy",
+     "start": 17.28,
+     "end": 17.6
+    },
+    {
+     "w": "a",
+     "start": 17.6,
+     "end": 17.65
+    },
+    {
+     "w": "rien",
+     "start": 17.6,
+     "end": 17.7
+    },
+    {
+     "w": "à",
+     "start": 17.7,
+     "end": 17.8
+    },
+    {
+     "w": "faire",
+     "start": 17.8,
+     "end": 17.94
+    },
+    {
+     "w": "là.",
+     "start": 17.94,
+     "end": 18.08
+    },
+    {
+     "w": "Sauf",
+     "start": 18.14,
+     "end": 18.28
+    },
+    {
+     "w": "que",
+     "start": 18.28,
+     "end": 18.48
+    },
+    {
+     "w": "y'a",
+     "start": 18.48,
+     "end": 18.54
+    },
+    {
+     "w": "trois",
+     "start": 18.54,
+     "end": 18.72
+    },
+    {
+     "w": "trucs",
+     "start": 18.72,
+     "end": 18.96
+    },
+    {
+     "w": "qui",
+     "start": 18.96,
+     "end": 19.12
+    },
+    {
+     "w": "me",
+     "start": 19.12,
+     "end": 19.76
+    },
+    {
+     "w": "font",
+     "start": 19.76,
+     "end": 20.4
+    },
+    {
+     "w": "tiquer.",
+     "start": 20.4,
+     "end": 21.04
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 21.04,
+   "end": 28.22,
+   "slot_end": 28.365,
+   "text": "Premier indice, la fin de la saison 1. Rebecca tombe, puis David meurt face à Adam Smasher, et frr j'm'en suis toujours pas remis.",
+   "words": [
+    {
+     "w": "Premier",
+     "start": 21.04,
+     "end": 21.68
+    },
+    {
+     "w": "indice,",
+     "start": 21.68,
+     "end": 22.08
+    },
+    {
+     "w": "la",
+     "start": 22.44,
+     "end": 22.49
+    },
+    {
+     "w": "fin",
+     "start": 22.48,
+     "end": 22.7
+    },
+    {
+     "w": "de",
+     "start": 22.7,
+     "end": 22.8
+    },
+    {
+     "w": "la",
+     "start": 22.8,
+     "end": 22.9
+    },
+    {
+     "w": "saison",
+     "start": 22.9,
+     "end": 23.22
+    },
+    {
+     "w": "1.",
+     "start": 23.22,
+     "end": 23.44
+    },
+    {
+     "w": "Rebecca",
+     "start": 23.6,
+     "end": 23.96
+    },
+    {
+     "w": "tombe,",
+     "start": 23.96,
+     "end": 24.34
+    },
+    {
+     "w": "puis",
+     "start": 24.4,
+     "end": 24.46
+    },
+    {
+     "w": "David",
+     "start": 24.46,
+     "end": 24.7
+    },
+    {
+     "w": "meurt",
+     "start": 24.7,
+     "end": 25.06
+    },
+    {
+     "w": "face",
+     "start": 25.06,
+     "end": 25.26
+    },
+    {
+     "w": "à",
+     "start": 25.26,
+     "end": 25.48
+    },
+    {
+     "w": "Adam",
+     "start": 25.48,
+     "end": 25.85
+    },
+    {
+     "w": "Smasher,",
+     "start": 25.85,
+     "end": 26.22
+    },
+    {
+     "w": "et",
+     "start": 26.74,
+     "end": 26.82
+    },
+    {
+     "w": "frr",
+     "start": 26.82,
+     "end": 27.08
+    },
+    {
+     "w": "j'm'en",
+     "start": 27.08,
+     "end": 27.38
+    },
+    {
+     "w": "suis",
+     "start": 27.38,
+     "end": 27.5
+    },
+    {
+     "w": "toujours",
+     "start": 27.5,
+     "end": 27.76
+    },
+    {
+     "w": "pas",
+     "start": 27.76,
+     "end": 27.98
+    },
+    {
+     "w": "remis.",
+     "start": 27.98,
+     "end": 28.22
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 28.38,
+   "end": 34.5,
+   "slot_end": 35.713,
+   "text": "Mais Lucy, elle, elle survit. Elle finit sur la Lune, le rêve qu'elle avait avec David. Vivante, et toute seule.",
+   "words": [
+    {
+     "w": "Mais",
+     "start": 28.38,
+     "end": 28.56
+    },
+    {
+     "w": "Lucy,",
+     "start": 28.56,
+     "end": 28.78
+    },
+    {
+     "w": "elle,",
+     "start": 28.78,
+     "end": 29.0
+    },
+    {
+     "w": "elle",
+     "start": 29.14,
+     "end": 29.32
+    },
+    {
+     "w": "survit.",
+     "start": 29.32,
+     "end": 30.24
+    },
+    {
+     "w": "Elle",
+     "start": 30.62,
+     "end": 30.72
+    },
+    {
+     "w": "finit",
+     "start": 30.72,
+     "end": 30.98
+    },
+    {
+     "w": "sur",
+     "start": 30.98,
+     "end": 31.2
+    },
+    {
+     "w": "la",
+     "start": 31.2,
+     "end": 31.34
+    },
+    {
+     "w": "Lune,",
+     "start": 31.34,
+     "end": 31.58
+    },
+    {
+     "w": "le",
+     "start": 31.78,
+     "end": 31.98
+    },
+    {
+     "w": "rêve",
+     "start": 31.98,
+     "end": 32.18
+    },
+    {
+     "w": "qu'elle",
+     "start": 32.18,
+     "end": 32.34
+    },
+    {
+     "w": "avait",
+     "start": 32.34,
+     "end": 32.52
+    },
+    {
+     "w": "avec",
+     "start": 32.52,
+     "end": 32.72
+    },
+    {
+     "w": "David.",
+     "start": 32.72,
+     "end": 32.94
+    },
+    {
+     "w": "Vivante,",
+     "start": 33.38,
+     "end": 33.86
+    },
+    {
+     "w": "et",
+     "start": 33.86,
+     "end": 34.14
+    },
+    {
+     "w": "toute",
+     "start": 34.14,
+     "end": 34.24
+    },
+    {
+     "w": "seule.",
+     "start": 34.24,
+     "end": 34.5
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 35.38,
+   "end": 40.84,
+   "slot_end": 40.991,
+   "text": "D'ailleurs si tu kiffes les théories comme ça, abonne-toi, j'en sors tous les jours, et le 20 octobre on verra qui avait raison.",
+   "words": [
+    {
+     "w": "D'ailleurs",
+     "start": 35.38,
+     "end": 35.92
+    },
+    {
+     "w": "si",
+     "start": 35.92,
+     "end": 36.14
+    },
+    {
+     "w": "tu",
+     "start": 36.14,
+     "end": 36.28
+    },
+    {
+     "w": "kiffes",
+     "start": 36.28,
+     "end": 36.6
+    },
+    {
+     "w": "les",
+     "start": 36.6,
+     "end": 36.7
+    },
+    {
+     "w": "théories",
+     "start": 36.7,
+     "end": 36.9
+    },
+    {
+     "w": "comme",
+     "start": 36.9,
+     "end": 37.12
+    },
+    {
+     "w": "ça,",
+     "start": 37.12,
+     "end": 37.28
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 37.46,
+     "end": 37.76
+    },
+    {
+     "w": "j'en",
+     "start": 37.88,
+     "end": 37.96
+    },
+    {
+     "w": "sors",
+     "start": 37.96,
+     "end": 38.12
+    },
+    {
+     "w": "tous",
+     "start": 38.12,
+     "end": 38.3
+    },
+    {
+     "w": "les",
+     "start": 38.3,
+     "end": 38.42
+    },
+    {
+     "w": "jours,",
+     "start": 38.42,
+     "end": 38.62
+    },
+    {
+     "w": "et",
+     "start": 39.02,
+     "end": 39.14
+    },
+    {
+     "w": "le",
+     "start": 39.14,
+     "end": 39.26
+    },
+    {
+     "w": "20",
+     "start": 39.26,
+     "end": 39.46
+    },
+    {
+     "w": "octobre",
+     "start": 39.46,
+     "end": 39.88
+    },
+    {
+     "w": "on",
+     "start": 39.88,
+     "end": 39.98
+    },
+    {
+     "w": "verra",
+     "start": 39.98,
+     "end": 40.24
+    },
+    {
+     "w": "qui",
+     "start": 40.24,
+     "end": 40.46
+    },
+    {
+     "w": "avait",
+     "start": 40.46,
+     "end": 40.51
+    },
+    {
+     "w": "raison.",
+     "start": 40.5,
+     "end": 40.84
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 40.98,
+   "end": 48.48,
+   "slot_end": 48.628,
+   "text": "Deuxième indice, le plus chaud. À l'Anime Expo 2025, Bartosz Sztybor, le scénariste, fait le point sur les morts.",
+   "words": [
+    {
+     "w": "Deuxième",
+     "start": 40.98,
+     "end": 41.36
+    },
+    {
+     "w": "indice,",
+     "start": 41.36,
+     "end": 41.8
+    },
+    {
+     "w": "le",
+     "start": 42.08,
+     "end": 42.18
+    },
+    {
+     "w": "plus",
+     "start": 42.18,
+     "end": 42.36
+    },
+    {
+     "w": "chaud.",
+     "start": 42.36,
+     "end": 42.6
+    },
+    {
+     "w": "À",
+     "start": 43.06,
+     "end": 43.18
+    },
+    {
+     "w": "l'Anime",
+     "start": 43.18,
+     "end": 43.5
+    },
+    {
+     "w": "Expo",
+     "start": 43.5,
+     "end": 44.02
+    },
+    {
+     "w": "2025,",
+     "start": 44.02,
+     "end": 44.62
+    },
+    {
+     "w": "Bartosz",
+     "start": 45.16,
+     "end": 45.58
+    },
+    {
+     "w": "Sztybor,",
+     "start": 45.58,
+     "end": 46.04
+    },
+    {
+     "w": "le",
+     "start": 46.48,
+     "end": 46.72
+    },
+    {
+     "w": "scénariste,",
+     "start": 46.72,
+     "end": 47.36
+    },
+    {
+     "w": "fait",
+     "start": 47.36,
+     "end": 47.6
+    },
+    {
+     "w": "le",
+     "start": 47.6,
+     "end": 47.72
+    },
+    {
+     "w": "point",
+     "start": 47.72,
+     "end": 47.88
+    },
+    {
+     "w": "sur",
+     "start": 47.88,
+     "end": 48.06
+    },
+    {
+     "w": "les",
+     "start": 48.06,
+     "end": 48.2
+    },
+    {
+     "w": "morts.",
+     "start": 48.2,
+     "end": 48.48
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 48.64,
+   "end": 55.18,
+   "slot_end": 55.348,
+   "text": "Il confirme que David est mort. Il confirme que Rebecca est morte. Et là il dit, et Lucy est... Et il s'arrête net. Il passe à autre chose.",
+   "words": [
+    {
+     "w": "Il",
+     "start": 48.64,
+     "end": 48.72
+    },
+    {
+     "w": "confirme",
+     "start": 48.72,
+     "end": 49.14
+    },
+    {
+     "w": "que",
+     "start": 49.14,
+     "end": 49.26
+    },
+    {
+     "w": "David",
+     "start": 49.26,
+     "end": 49.5
+    },
+    {
+     "w": "est",
+     "start": 49.5,
+     "end": 49.72
+    },
+    {
+     "w": "mort.",
+     "start": 49.72,
+     "end": 49.96
+    },
+    {
+     "w": "Il",
+     "start": 50.34,
+     "end": 50.4
+    },
+    {
+     "w": "confirme",
+     "start": 50.4,
+     "end": 50.78
+    },
+    {
+     "w": "que",
+     "start": 50.78,
+     "end": 50.9
+    },
+    {
+     "w": "Rebecca",
+     "start": 50.9,
+     "end": 51.14
+    },
+    {
+     "w": "est",
+     "start": 51.14,
+     "end": 51.34
+    },
+    {
+     "w": "morte.",
+     "start": 51.34,
+     "end": 51.62
+    },
+    {
+     "w": "Et",
+     "start": 52.04,
+     "end": 52.1
+    },
+    {
+     "w": "là",
+     "start": 52.1,
+     "end": 52.24
+    },
+    {
+     "w": "il",
+     "start": 52.3,
+     "end": 52.38
+    },
+    {
+     "w": "dit,",
+     "start": 52.38,
+     "end": 52.54
+    },
+    {
+     "w": "et",
+     "start": 52.54,
+     "end": 52.72
+    },
+    {
+     "w": "Lucy",
+     "start": 52.72,
+     "end": 52.88
+    },
+    {
+     "w": "est...",
+     "start": 52.88,
+     "end": 53.26
+    },
+    {
+     "w": "Et",
+     "start": 53.26,
+     "end": 53.4
+    },
+    {
+     "w": "il",
+     "start": 53.4,
+     "end": 53.48
+    },
+    {
+     "w": "s'arrête",
+     "start": 53.48,
+     "end": 53.8
+    },
+    {
+     "w": "net.",
+     "start": 53.8,
+     "end": 54.06
+    },
+    {
+     "w": "Il",
+     "start": 54.32,
+     "end": 54.42
+    },
+    {
+     "w": "passe",
+     "start": 54.42,
+     "end": 54.58
+    },
+    {
+     "w": "à",
+     "start": 54.58,
+     "end": 54.72
+    },
+    {
+     "w": "autre",
+     "start": 54.72,
+     "end": 54.86
+    },
+    {
+     "w": "chose.",
+     "start": 54.86,
+     "end": 55.18
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 55.34,
+   "end": 59.46,
+   "slot_end": 59.709,
+   "text": "T'avais une phrase super facile à finir, et tu la finis pas. Ça, c'est pas un oubli, c'est du teasing.",
+   "words": [
+    {
+     "w": "T'avais",
+     "start": 55.34,
+     "end": 55.54
+    },
+    {
+     "w": "une",
+     "start": 55.54,
+     "end": 55.68
+    },
+    {
+     "w": "phrase",
+     "start": 55.68,
+     "end": 55.82
+    },
+    {
+     "w": "super",
+     "start": 55.82,
+     "end": 56.1
+    },
+    {
+     "w": "facile",
+     "start": 56.1,
+     "end": 56.44
+    },
+    {
+     "w": "à",
+     "start": 56.44,
+     "end": 56.6
+    },
+    {
+     "w": "finir,",
+     "start": 56.6,
+     "end": 56.96
+    },
+    {
+     "w": "et",
+     "start": 56.96,
+     "end": 57.3
+    },
+    {
+     "w": "tu",
+     "start": 57.3,
+     "end": 57.4
+    },
+    {
+     "w": "la",
+     "start": 57.4,
+     "end": 57.5
+    },
+    {
+     "w": "finis",
+     "start": 57.5,
+     "end": 57.72
+    },
+    {
+     "w": "pas.",
+     "start": 57.72,
+     "end": 57.88
+    },
+    {
+     "w": "Ça,",
+     "start": 58.02,
+     "end": 58.12
+    },
+    {
+     "w": "c'est",
+     "start": 58.12,
+     "end": 58.26
+    },
+    {
+     "w": "pas",
+     "start": 58.26,
+     "end": 58.38
+    },
+    {
+     "w": "un",
+     "start": 58.38,
+     "end": 58.56
+    },
+    {
+     "w": "oubli,",
+     "start": 58.56,
+     "end": 58.713
+    },
+    {
+     "w": "c'est",
+     "start": 58.713,
+     "end": 59.02
+    },
+    {
+     "w": "du",
+     "start": 59.02,
+     "end": 59.14
+    },
+    {
+     "w": "teasing.",
+     "start": 59.14,
+     "end": 59.46
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 59.72,
+   "end": 66.7,
+   "slot_end": 66.841,
+   "text": "Troisième indice, Edgerunners se passe dans le monde de Cyberpunk 2077. Et Lucy, c'est une netrunneuse de fou, toujours vivante.",
+   "words": [
+    {
+     "w": "Troisième",
+     "start": 59.72,
+     "end": 59.98
+    },
+    {
+     "w": "indice,",
+     "start": 59.98,
+     "end": 60.34
+    },
+    {
+     "w": "Edgerunners",
+     "start": 60.52,
+     "end": 60.7
+    },
+    {
+     "w": "se",
+     "start": 60.7,
+     "end": 61.02
+    },
+    {
+     "w": "passe",
+     "start": 61.02,
+     "end": 61.2
+    },
+    {
+     "w": "dans",
+     "start": 61.2,
+     "end": 61.46
+    },
+    {
+     "w": "le",
+     "start": 61.46,
+     "end": 61.6
+    },
+    {
+     "w": "monde",
+     "start": 61.6,
+     "end": 61.84
+    },
+    {
+     "w": "de",
+     "start": 61.84,
+     "end": 62.24
+    },
+    {
+     "w": "Cyberpunk",
+     "start": 62.24,
+     "end": 62.88
+    },
+    {
+     "w": "2077.",
+     "start": 62.88,
+     "end": 63.78
+    },
+    {
+     "w": "Et",
+     "start": 63.78,
+     "end": 64.16
+    },
+    {
+     "w": "Lucy,",
+     "start": 64.16,
+     "end": 64.6
+    },
+    {
+     "w": "c'est",
+     "start": 64.6,
+     "end": 64.8
+    },
+    {
+     "w": "une",
+     "start": 64.8,
+     "end": 65.02
+    },
+    {
+     "w": "netrunneuse",
+     "start": 65.02,
+     "end": 65.52
+    },
+    {
+     "w": "de",
+     "start": 65.52,
+     "end": 65.64
+    },
+    {
+     "w": "fou,",
+     "start": 65.64,
+     "end": 65.88
+    },
+    {
+     "w": "toujours",
+     "start": 66.1,
+     "end": 66.26
+    },
+    {
+     "w": "vivante.",
+     "start": 66.26,
+     "end": 66.7
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 66.86,
+   "end": 72.74,
+   "slot_end": 72.831,
+   "text": "Mon avis, elle revient pas en héroïne principale. Plutôt en caméo, le genre de scène qui te détruit en deux secondes.",
+   "words": [
+    {
+     "w": "Mon",
+     "start": 66.86,
+     "end": 66.94
+    },
+    {
+     "w": "avis,",
+     "start": 66.94,
+     "end": 67.18
+    },
+    {
+     "w": "elle",
+     "start": 67.18,
+     "end": 67.44
+    },
+    {
+     "w": "revient",
+     "start": 67.52,
+     "end": 67.66
+    },
+    {
+     "w": "pas",
+     "start": 67.66,
+     "end": 67.82
+    },
+    {
+     "w": "en",
+     "start": 67.82,
+     "end": 67.98
+    },
+    {
+     "w": "héroïne",
+     "start": 67.98,
+     "end": 68.18
+    },
+    {
+     "w": "principale.",
+     "start": 68.18,
+     "end": 68.78
+    },
+    {
+     "w": "Plutôt",
+     "start": 70.0,
+     "end": 70.36
+    },
+    {
+     "w": "en",
+     "start": 70.36,
+     "end": 70.48
+    },
+    {
+     "w": "caméo,",
+     "start": 70.48,
+     "end": 70.8
+    },
+    {
+     "w": "le",
+     "start": 70.9,
+     "end": 70.96
+    },
+    {
+     "w": "genre",
+     "start": 70.96,
+     "end": 71.06
+    },
+    {
+     "w": "de",
+     "start": 71.06,
+     "end": 71.2
+    },
+    {
+     "w": "scène",
+     "start": 71.2,
+     "end": 71.36
+    },
+    {
+     "w": "qui",
+     "start": 71.36,
+     "end": 71.56
+    },
+    {
+     "w": "te",
+     "start": 71.56,
+     "end": 71.66
+    },
+    {
+     "w": "détruit",
+     "start": 71.66,
+     "end": 71.96
+    },
+    {
+     "w": "en",
+     "start": 71.96,
+     "end": 72.16
+    },
+    {
+     "w": "deux",
+     "start": 72.16,
+     "end": 72.34
+    },
+    {
+     "w": "secondes.",
+     "start": 72.34,
+     "end": 72.74
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 72.82,
+   "end": 79.42,
+   "slot_end": 82.66,
+   "text": "Après, y'a un vrai contre-argument. C'est censé être une nouvelle histoire, et ramener Lucy pourrait gâcher une fin quasi parfaite.",
+   "words": [
+    {
+     "w": "Après,",
+     "start": 72.82,
+     "end": 73.08
+    },
+    {
+     "w": "y'a",
+     "start": 73.56,
+     "end": 73.66
+    },
+    {
+     "w": "un",
+     "start": 73.66,
+     "end": 73.88
+    },
+    {
+     "w": "vrai",
+     "start": 73.88,
+     "end": 74.06
+    },
+    {
+     "w": "contre-argument.",
+     "start": 74.06,
+     "end": 74.78
+    },
+    {
+     "w": "C'est",
+     "start": 75.1,
+     "end": 75.16
+    },
+    {
+     "w": "censé",
+     "start": 75.16,
+     "end": 75.48
+    },
+    {
+     "w": "être",
+     "start": 75.48,
+     "end": 75.66
+    },
+    {
+     "w": "une",
+     "start": 75.66,
+     "end": 75.8
+    },
+    {
+     "w": "nouvelle",
+     "start": 75.8,
+     "end": 75.94
+    },
+    {
+     "w": "histoire,",
+     "start": 75.94,
+     "end": 76.44
+    },
+    {
+     "w": "et",
+     "start": 76.44,
+     "end": 77.0
+    },
+    {
+     "w": "ramener",
+     "start": 77.0,
+     "end": 77.34
+    },
+    {
+     "w": "Lucy",
+     "start": 77.34,
+     "end": 77.64
+    },
+    {
+     "w": "pourrait",
+     "start": 77.64,
+     "end": 77.94
+    },
+    {
+     "w": "gâcher",
+     "start": 77.94,
+     "end": 78.24
+    },
+    {
+     "w": "une",
+     "start": 78.24,
+     "end": 78.44
+    },
+    {
+     "w": "fin",
+     "start": 78.44,
+     "end": 78.58
+    },
+    {
+     "w": "quasi",
+     "start": 78.58,
+     "end": 78.82
+    },
+    {
+     "w": "parfaite.",
+     "start": 78.82,
+     "end": 79.42
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 82.9,
+   "end": 90.26,
+   "slot_end": 90.43,
+   "text": "Donc ouais, ça reste une théorie. Mais moi j'y crois à fond. Et toi, tu veux revoir Lucy, ou tu la laisses tranquille sur la Lune ?",
+   "words": [
+    {
+     "w": "Donc",
+     "start": 82.9,
+     "end": 82.95
+    },
+    {
+     "w": "ouais,",
+     "start": 82.9,
+     "end": 83.08
+    },
+    {
+     "w": "ça",
+     "start": 83.28,
+     "end": 83.36
+    },
+    {
+     "w": "reste",
+     "start": 83.36,
+     "end": 83.54
+    },
+    {
+     "w": "une",
+     "start": 83.54,
+     "end": 83.7
+    },
+    {
+     "w": "théorie.",
+     "start": 83.7,
+     "end": 84.1
+    },
+    {
+     "w": "Mais",
+     "start": 84.42,
+     "end": 84.52
+    },
+    {
+     "w": "moi",
+     "start": 84.52,
+     "end": 84.66
+    },
+    {
+     "w": "j'y",
+     "start": 84.66,
+     "end": 84.84
+    },
+    {
+     "w": "crois",
+     "start": 84.84,
+     "end": 85.04
+    },
+    {
+     "w": "à",
+     "start": 85.04,
+     "end": 85.24
+    },
+    {
+     "w": "fond.",
+     "start": 85.24,
+     "end": 85.44
+    },
+    {
+     "w": "Et",
+     "start": 86.8,
+     "end": 87.16
+    },
+    {
+     "w": "toi,",
+     "start": 87.16,
+     "end": 87.38
+    },
+    {
+     "w": "tu",
+     "start": 87.8,
+     "end": 87.9
+    },
+    {
+     "w": "veux",
+     "start": 87.9,
+     "end": 88.02
+    },
+    {
+     "w": "revoir",
+     "start": 88.02,
+     "end": 88.28
+    },
+    {
+     "w": "Lucy,",
+     "start": 88.28,
+     "end": 88.66
+    },
+    {
+     "w": "ou",
+     "start": 88.94,
+     "end": 89.04
+    },
+    {
+     "w": "tu",
+     "start": 89.04,
+     "end": 89.14
+    },
+    {
+     "w": "la",
+     "start": 89.14,
+     "end": 89.28
+    },
+    {
+     "w": "laisses",
+     "start": 89.28,
+     "end": 89.46
+    },
+    {
+     "w": "tranquille",
+     "start": 89.46,
+     "end": 89.78
+    },
+    {
+     "w": "sur",
+     "start": 89.78,
+     "end": 89.9
+    },
+    {
+     "w": "la",
+     "start": 89.9,
+     "end": 90.02
+    },
+    {
+     "w": "Lune",
+     "start": 90.02,
+     "end": 90.14
+    },
+    {
+     "w": "?",
+     "start": 90.14,
+     "end": 90.26
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 90.44,
+   "end": 92.54,
+   "slot_end": 93.41,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 90.44,
+     "end": 90.6
+    },
+    {
+     "w": "Asura.",
+     "start": 90.6,
+     "end": 91.06
+    },
+    {
+     "w": "On",
+     "start": 91.32,
+     "end": 91.42
+    },
+    {
+     "w": "se",
+     "start": 91.42,
+     "end": 91.54
+    },
+    {
+     "w": "capte",
+     "start": 91.54,
+     "end": 91.82
+    },
+    {
+     "w": "au",
+     "start": 91.82,
+     "end": 91.88
+    },
+    {
+     "w": "prochain",
+     "start": 91.88,
+     "end": 92.12
+    },
+    {
+     "w": "épisode.",
+     "start": 92.12,
+     "end": 92.54
+    }
+   ]
+  }
+ ],
+ "aligned": 1.0
+}
