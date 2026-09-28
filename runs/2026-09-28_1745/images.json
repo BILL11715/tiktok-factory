@@ -1,0 +1,119 @@
+{
+ "Black Clover Season 2": {
+  "meta": {
+   "id": "50024",
+   "title": "Black Clover 2nd Season",
+   "titles": {
+    "en": "Black Clover Season 2",
+    "en_jp": "Black Clover 2nd Season",
+    "ja_jp": "ブラッククローバー 第2期"
+   },
+   "synopsis": "The second season of Black Clover.",
+   "episodes": 26,
+   "start": "2026-10-03",
+   "source": "https://kitsu.io/anime/Black-Clover-Season-2"
+  },
+  "wide": [
+   "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/5a4a6dd395ac.jpg"
+  ],
+  "tall": [
+   "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/9f2d215e10cf.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/bd7cfb468a1b.jpg"
+  ],
+  "characters": {
+   "Asta": "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/fc82adc0abcc.png",
+   "Noelle Silva": "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/cee02dec2eb8.png",
+   "Yuno": "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/8ab7be233071.png",
+   "Yami Sukehiro": "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/5101749e4ebb.png",
+   "Nacht Faust": "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/cc2b9e4a65d2.png"
+  },
+  "sources": [
+   "https://kitsu.io/anime/Black-Clover-Season-2",
+   "https://anilist.co/anime/195604"
+  ]
+ },
+ "Black Clover": {
+  "meta": {
+   "id": "13209",
+   "title": "Black Clover",
+   "titles": {
+    "en": "Black Clover",
+    "en_jp": "Black Clover",
+    "ja_jp": "ブラッククローバー"
+   },
+   "synopsis": "In a world where magic is everything, Asta and Yuno are both found abandoned at a church on the same day. While Yuno is gifted with exceptional magical powers, Asta is the only one in this world without any. At the age of fifteen, both receive grimoires, magic books that amplify their holder's magic. Asta's is a rare Grimoire of Anti-Magic that negates and repels his opponent's spells. Being opposite but good rivals, Yuno and Asta are ready for the hardest of challenges to achieve their common dream: to be the Wizard King. Giving up is never an option!\n\n(Source: Crunchyroll)",
+   "episodes": 170,
+   "start": "2017-10-03",
+   "source": "https://kitsu.io/anime/black-clover-tv"
+  },
+  "wide": [
+   "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/271823e68b14.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/a22e49e059f7.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/a22ecda175ff.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/5a4a6dd395ac.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/5e5d20d725a8.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/d0d2b0ecf7bf.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/56319e9ef2d7.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/9230a5e3466a.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/fc66d2e7595f.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/02295753bf6f.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/f4e7f3b1ea2b.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/483ffa2e5d0d.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/343a2f571ada.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/a5c424e8d64c.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/6d24428a0cbc.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/7b60b7e38f9b.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/210af952b638.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/7aa3e11f8fd9.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/259b6df9207d.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/edbe49a2a801.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/5f2956ca98de.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/5eb6b468779b.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/f9f4e47d5091.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/6931fe397546.jpg"
+  ],
+  "tall": [
+   "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/4f85f286f91d.png",
+   "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/297c3050715c.png",
+   "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/6f132ef09501.png",
+   "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/bd7cfb468a1b.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/170948cfef44.png"
+  ],
+  "characters": {
+   "Asta": "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/fc82adc0abcc.png",
+   "Noelle Silva": "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/cee02dec2eb8.png",
+   "Yuno": "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/8ab7be233071.png",
+   "Marie Adlai": "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/133de01efc73.jpg",
+   "Gauche Adlai": "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/ec647d9f410d.png",
+   "Gordon Agrippa": "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/a14d2ac4541b.png",
+   "Aruru": "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/70969f4f4872.jpg",
+   "Baro": "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/3c4159510ff2.jpg",
+   "Rill Boismortier": "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/493f210ae6e7.png",
+   "Sekke Bronzazza": "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/bad91afeb865.jpg",
+   "Hamon Caseus": "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/59d36fdfa0e5.jpg",
+   "Catherine": "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/eefb71b66169.jpg",
+   "Vanessa Enoteca": "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/904e8f0d48aa.png",
+   "Fana": "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/a1fbaf3b4559.jpg",
+   "Marx Francois": "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/543de654506d.jpg",
+   "Georg": "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/a31f256eb945.jpg",
+   "Grey": "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/a5988518777f.jpg",
+   "Heath Grice": "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/68de2ee9aa7b.jpg",
+   "Salim Hapshass": "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/0ac6dd0b499d.jpg",
+   "Yami Sukehiro": "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/5101749e4ebb.png",
+   "Mereoleona Vermillion": "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/7b938b3c7150.png",
+   "Julius Novachrono": "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/f85b076f234b.jpg",
+   "Luck Voltia": "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/c8bc79200425.jpg",
+   "Kuro Nero": "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/a1c340bb2536.png",
+   "Zora Ideale": "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/e3cd8dd8745c.png",
+   "Charmy Pappitson": "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/6e29ad478611.png",
+   "Mimosa Vermillion": "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/d9659b2b1f76.jpg",
+   "Finral Roulacase": "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/62980719de69.png",
+   "Charlotte Roselei": "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/636178ef5ffc.png",
+   "Nacht Faust": "/home/claude/tiktok-factory/runs/2026-09-28_1745/images/cc2b9e4a65d2.png"
+  },
+  "sources": [
+   "https://kitsu.io/anime/black-clover-tv",
+   "https://anilist.co/anime/97940"
+  ]
+ }
+}

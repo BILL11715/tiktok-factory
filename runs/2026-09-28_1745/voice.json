@@ -1,0 +1,1708 @@
+{
+ "engine": "clone",
+ "path": "/home/claude/tiktok-factory/runs/2026-09-28_1745/voice.wav",
+ "duration": 83.91,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 3.83,
+   "slot_end": 3.716,
+   "text": "Le numéro 1 de Black Clover arrête le temps, et c'est pas Asta.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 0.0,
+     "end": 0.05
+    },
+    {
+     "w": "numéro",
+     "start": 0.0,
+     "end": 0.24
+    },
+    {
+     "w": "1",
+     "start": 0.24,
+     "end": 0.88
+    },
+    {
+     "w": "de",
+     "start": 0.88,
+     "end": 1.06
+    },
+    {
+     "w": "Black",
+     "start": 1.06,
+     "end": 1.24
+    },
+    {
+     "w": "Clover",
+     "start": 1.24,
+     "end": 1.62
+    },
+    {
+     "w": "arrête",
+     "start": 2.0,
+     "end": 2.3
+    },
+    {
+     "w": "le",
+     "start": 2.3,
+     "end": 2.44
+    },
+    {
+     "w": "temps,",
+     "start": 2.44,
+     "end": 2.66
+    },
+    {
+     "w": "et",
+     "start": 2.66,
+     "end": 3.04
+    },
+    {
+     "w": "c'est",
+     "start": 3.04,
+     "end": 3.2
+    },
+    {
+     "w": "pas",
+     "start": 3.2,
+     "end": 3.32
+    },
+    {
+     "w": "Asta.",
+     "start": 3.32,
+     "end": 3.83
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 3.83,
+   "end": 6.98,
+   "slot_end": 7.367,
+   "text": "Reste jusqu'au bout, parce que le numéro 2 va faire rager la moitié des commentaires.",
+   "words": [
+    {
+     "w": "Reste",
+     "start": 3.83,
+     "end": 4.34
+    },
+    {
+     "w": "jusqu'au",
+     "start": 4.34,
+     "end": 4.7
+    },
+    {
+     "w": "bout,",
+     "start": 4.7,
+     "end": 4.84
+    },
+    {
+     "w": "parce",
+     "start": 4.84,
+     "end": 5.2
+    },
+    {
+     "w": "que",
+     "start": 5.2,
+     "end": 5.3
+    },
+    {
+     "w": "le",
+     "start": 5.3,
+     "end": 5.38
+    },
+    {
+     "w": "numéro",
+     "start": 5.38,
+     "end": 5.56
+    },
+    {
+     "w": "2",
+     "start": 5.56,
+     "end": 5.8
+    },
+    {
+     "w": "va",
+     "start": 5.8,
+     "end": 5.92
+    },
+    {
+     "w": "faire",
+     "start": 5.92,
+     "end": 6.06
+    },
+    {
+     "w": "rager",
+     "start": 6.06,
+     "end": 6.28
+    },
+    {
+     "w": "la",
+     "start": 6.28,
+     "end": 6.4
+    },
+    {
+     "w": "moitié",
+     "start": 6.4,
+     "end": 6.62
+    },
+    {
+     "w": "des",
+     "start": 6.62,
+     "end": 6.74
+    },
+    {
+     "w": "commentaires.",
+     "start": 6.74,
+     "end": 6.98
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 7.38,
+   "end": 13.02,
+   "slot_end": 13.172,
+   "text": "Black Clover revient le 3 octobre avec la saison 2, après un arrêt en 2021. Alors on fait le point sur les plus forts avant la reprise.",
+   "words": [
+    {
+     "w": "Black",
+     "start": 7.38,
+     "end": 7.5
+    },
+    {
+     "w": "Clover",
+     "start": 7.5,
+     "end": 7.84
+    },
+    {
+     "w": "revient",
+     "start": 7.84,
+     "end": 8.1
+    },
+    {
+     "w": "le",
+     "start": 8.1,
+     "end": 8.22
+    },
+    {
+     "w": "3",
+     "start": 8.22,
+     "end": 8.38
+    },
+    {
+     "w": "octobre",
+     "start": 8.38,
+     "end": 8.72
+    },
+    {
+     "w": "avec",
+     "start": 8.72,
+     "end": 8.86
+    },
+    {
+     "w": "la",
+     "start": 8.86,
+     "end": 9.0
+    },
+    {
+     "w": "saison",
+     "start": 9.0,
+     "end": 9.22
+    },
+    {
+     "w": "2,",
+     "start": 9.22,
+     "end": 9.46
+    },
+    {
+     "w": "après",
+     "start": 9.46,
+     "end": 10.06
+    },
+    {
+     "w": "un",
+     "start": 10.06,
+     "end": 10.22
+    },
+    {
+     "w": "arrêt",
+     "start": 10.22,
+     "end": 10.44
+    },
+    {
+     "w": "en",
+     "start": 10.44,
+     "end": 10.54
+    },
+    {
+     "w": "2021.",
+     "start": 10.54,
+     "end": 10.92
+    },
+    {
+     "w": "Alors",
+     "start": 11.14,
+     "end": 11.3
+    },
+    {
+     "w": "on",
+     "start": 11.3,
+     "end": 11.44
+    },
+    {
+     "w": "fait",
+     "start": 11.44,
+     "end": 11.58
+    },
+    {
+     "w": "le",
+     "start": 11.58,
+     "end": 11.66
+    },
+    {
+     "w": "point",
+     "start": 11.66,
+     "end": 11.84
+    },
+    {
+     "w": "sur",
+     "start": 11.84,
+     "end": 11.98
+    },
+    {
+     "w": "les",
+     "start": 11.98,
+     "end": 12.1
+    },
+    {
+     "w": "plus",
+     "start": 12.1,
+     "end": 12.2
+    },
+    {
+     "w": "forts",
+     "start": 12.2,
+     "end": 12.42
+    },
+    {
+     "w": "avant",
+     "start": 12.42,
+     "end": 12.54
+    },
+    {
+     "w": "la",
+     "start": 12.54,
+     "end": 12.68
+    },
+    {
+     "w": "reprise.",
+     "start": 12.68,
+     "end": 13.02
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 13.16,
+   "end": 19.52,
+   "slot_end": 19.754,
+   "text": "Numéro 5, Mereoleona, la grande sœur de Fuegoleon. Elle se bat à coups de poings enflammés, et même Fuegoleon a la pression devant elle.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 13.16,
+     "end": 13.46
+    },
+    {
+     "w": "5,",
+     "start": 13.46,
+     "end": 13.84
+    },
+    {
+     "w": "Mereoleona,",
+     "start": 14.18,
+     "end": 14.66
+    },
+    {
+     "w": "la",
+     "start": 14.9,
+     "end": 14.95
+    },
+    {
+     "w": "grande",
+     "start": 14.94,
+     "end": 15.1
+    },
+    {
+     "w": "sœur",
+     "start": 15.1,
+     "end": 15.3
+    },
+    {
+     "w": "de",
+     "start": 15.3,
+     "end": 15.38
+    },
+    {
+     "w": "Fuegoleon.",
+     "start": 15.38,
+     "end": 15.74
+    },
+    {
+     "w": "Elle",
+     "start": 15.86,
+     "end": 15.98
+    },
+    {
+     "w": "se",
+     "start": 15.98,
+     "end": 16.18
+    },
+    {
+     "w": "bat",
+     "start": 16.18,
+     "end": 16.32
+    },
+    {
+     "w": "à",
+     "start": 16.32,
+     "end": 16.5
+    },
+    {
+     "w": "coups",
+     "start": 16.5,
+     "end": 16.72
+    },
+    {
+     "w": "de",
+     "start": 16.72,
+     "end": 16.77
+    },
+    {
+     "w": "poings",
+     "start": 16.74,
+     "end": 16.94
+    },
+    {
+     "w": "enflammés,",
+     "start": 16.94,
+     "end": 17.48
+    },
+    {
+     "w": "et",
+     "start": 17.48,
+     "end": 17.98
+    },
+    {
+     "w": "même",
+     "start": 17.98,
+     "end": 18.1
+    },
+    {
+     "w": "Fuegoleon",
+     "start": 18.1,
+     "end": 18.54
+    },
+    {
+     "w": "a",
+     "start": 18.54,
+     "end": 18.64
+    },
+    {
+     "w": "la",
+     "start": 18.64,
+     "end": 18.72
+    },
+    {
+     "w": "pression",
+     "start": 18.72,
+     "end": 19.04
+    },
+    {
+     "w": "devant",
+     "start": 19.04,
+     "end": 19.2
+    },
+    {
+     "w": "elle.",
+     "start": 19.2,
+     "end": 19.52
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 19.74,
+   "end": 26.72,
+   "slot_end": 27.718,
+   "text": "Numéro 4, Yuno. Grimoire à quatre feuilles, l'esprit du vent Sylph toujours collé à lui, et un talent tellement abusé qu'il progresse plus vite que tout le monde.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 19.74,
+     "end": 20.02
+    },
+    {
+     "w": "4,",
+     "start": 20.02,
+     "end": 20.3
+    },
+    {
+     "w": "Yuno.",
+     "start": 20.66,
+     "end": 20.86
+    },
+    {
+     "w": "Grimoire",
+     "start": 21.3,
+     "end": 21.58
+    },
+    {
+     "w": "à",
+     "start": 21.58,
+     "end": 21.72
+    },
+    {
+     "w": "quatre",
+     "start": 21.72,
+     "end": 21.94
+    },
+    {
+     "w": "feuilles,",
+     "start": 21.94,
+     "end": 22.32
+    },
+    {
+     "w": "l'esprit",
+     "start": 22.62,
+     "end": 22.86
+    },
+    {
+     "w": "du",
+     "start": 22.86,
+     "end": 23.0
+    },
+    {
+     "w": "vent",
+     "start": 23.0,
+     "end": 23.18
+    },
+    {
+     "w": "Sylph",
+     "start": 23.18,
+     "end": 23.36
+    },
+    {
+     "w": "toujours",
+     "start": 23.36,
+     "end": 23.62
+    },
+    {
+     "w": "collé",
+     "start": 23.62,
+     "end": 23.92
+    },
+    {
+     "w": "à",
+     "start": 23.92,
+     "end": 24.0
+    },
+    {
+     "w": "lui,",
+     "start": 24.0,
+     "end": 24.16
+    },
+    {
+     "w": "et",
+     "start": 24.16,
+     "end": 24.58
+    },
+    {
+     "w": "un",
+     "start": 24.58,
+     "end": 24.72
+    },
+    {
+     "w": "talent",
+     "start": 24.72,
+     "end": 24.86
+    },
+    {
+     "w": "tellement",
+     "start": 24.86,
+     "end": 25.14
+    },
+    {
+     "w": "abusé",
+     "start": 25.14,
+     "end": 25.52
+    },
+    {
+     "w": "qu'il",
+     "start": 25.52,
+     "end": 25.66
+    },
+    {
+     "w": "progresse",
+     "start": 25.66,
+     "end": 25.98
+    },
+    {
+     "w": "plus",
+     "start": 25.98,
+     "end": 26.14
+    },
+    {
+     "w": "vite",
+     "start": 26.14,
+     "end": 26.24
+    },
+    {
+     "w": "que",
+     "start": 26.24,
+     "end": 26.34
+    },
+    {
+     "w": "tout",
+     "start": 26.34,
+     "end": 26.48
+    },
+    {
+     "w": "le",
+     "start": 26.48,
+     "end": 26.56
+    },
+    {
+     "w": "monde.",
+     "start": 26.56,
+     "end": 26.72
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 27.46,
+   "end": 32.44,
+   "slot_end": 34.402,
+   "text": "Si tu veux le même topo pour chaque anime qui revient cette saison, abonne-toi, j'en sors tous les jours.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 27.46,
+     "end": 27.82
+    },
+    {
+     "w": "tu",
+     "start": 27.82,
+     "end": 27.98
+    },
+    {
+     "w": "veux",
+     "start": 27.98,
+     "end": 28.14
+    },
+    {
+     "w": "le",
+     "start": 28.14,
+     "end": 28.26
+    },
+    {
+     "w": "même",
+     "start": 28.26,
+     "end": 28.44
+    },
+    {
+     "w": "topo",
+     "start": 28.44,
+     "end": 28.82
+    },
+    {
+     "w": "pour",
+     "start": 28.82,
+     "end": 29.02
+    },
+    {
+     "w": "chaque",
+     "start": 29.02,
+     "end": 29.2
+    },
+    {
+     "w": "anime",
+     "start": 29.2,
+     "end": 29.48
+    },
+    {
+     "w": "qui",
+     "start": 29.48,
+     "end": 29.64
+    },
+    {
+     "w": "revient",
+     "start": 29.64,
+     "end": 29.92
+    },
+    {
+     "w": "cette",
+     "start": 29.92,
+     "end": 30.08
+    },
+    {
+     "w": "saison,",
+     "start": 30.08,
+     "end": 30.42
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 30.68,
+     "end": 31.24
+    },
+    {
+     "w": "j'en",
+     "start": 31.56,
+     "end": 31.74
+    },
+    {
+     "w": "sors",
+     "start": 31.74,
+     "end": 31.96
+    },
+    {
+     "w": "tous",
+     "start": 31.96,
+     "end": 32.08
+    },
+    {
+     "w": "les",
+     "start": 32.08,
+     "end": 32.22
+    },
+    {
+     "w": "jours.",
+     "start": 32.22,
+     "end": 32.44
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 34.402,
+   "end": 41.58,
+   "slot_end": 41.776,
+   "text": "Numéro 3, Yami, le capitaine du Taureau Noir. Magie des ténèbres, il coupe carrément les dimensions avec son katana, et il sent les attaques arriver grâce au ki.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 34.402,
+     "end": 34.452
+    },
+    {
+     "w": "3,",
+     "start": 34.402,
+     "end": 34.5
+    },
+    {
+     "w": "Yami,",
+     "start": 35.06,
+     "end": 35.24
+    },
+    {
+     "w": "le",
+     "start": 35.7,
+     "end": 35.78
+    },
+    {
+     "w": "capitaine",
+     "start": 35.78,
+     "end": 36.1
+    },
+    {
+     "w": "du",
+     "start": 36.1,
+     "end": 36.22
+    },
+    {
+     "w": "Taureau",
+     "start": 36.22,
+     "end": 36.46
+    },
+    {
+     "w": "Noir.",
+     "start": 36.46,
+     "end": 36.72
+    },
+    {
+     "w": "Magie",
+     "start": 36.84,
+     "end": 37.06
+    },
+    {
+     "w": "des",
+     "start": 37.06,
+     "end": 37.2
+    },
+    {
+     "w": "ténèbres,",
+     "start": 37.2,
+     "end": 37.56
+    },
+    {
+     "w": "il",
+     "start": 37.96,
+     "end": 38.02
+    },
+    {
+     "w": "coupe",
+     "start": 38.02,
+     "end": 38.2
+    },
+    {
+     "w": "carrément",
+     "start": 38.2,
+     "end": 38.56
+    },
+    {
+     "w": "les",
+     "start": 38.56,
+     "end": 38.68
+    },
+    {
+     "w": "dimensions",
+     "start": 38.68,
+     "end": 38.98
+    },
+    {
+     "w": "avec",
+     "start": 38.98,
+     "end": 39.16
+    },
+    {
+     "w": "son",
+     "start": 39.16,
+     "end": 39.3
+    },
+    {
+     "w": "katana,",
+     "start": 39.3,
+     "end": 39.66
+    },
+    {
+     "w": "et",
+     "start": 39.66,
+     "end": 40.2
+    },
+    {
+     "w": "il",
+     "start": 40.2,
+     "end": 40.25
+    },
+    {
+     "w": "sent",
+     "start": 40.24,
+     "end": 40.38
+    },
+    {
+     "w": "les",
+     "start": 40.38,
+     "end": 40.52
+    },
+    {
+     "w": "attaques",
+     "start": 40.52,
+     "end": 40.8
+    },
+    {
+     "w": "arriver",
+     "start": 40.8,
+     "end": 41.06
+    },
+    {
+     "w": "grâce",
+     "start": 41.06,
+     "end": 41.3
+    },
+    {
+     "w": "au",
+     "start": 41.3,
+     "end": 41.46
+    },
+    {
+     "w": "ki.",
+     "start": 41.46,
+     "end": 41.58
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 41.78,
+   "end": 48.275,
+   "slot_end": 48.469,
+   "text": "Sa phrase culte, dépasse tes limites ici et maintenant, franchement ça résume toute la série. Pour moi c'est le meilleur capitaine de l'anime, point.",
+   "words": [
+    {
+     "w": "Sa",
+     "start": 41.78,
+     "end": 41.88
+    },
+    {
+     "w": "phrase",
+     "start": 41.88,
+     "end": 42.08
+    },
+    {
+     "w": "culte,",
+     "start": 42.08,
+     "end": 42.44
+    },
+    {
+     "w": "dépasse",
+     "start": 42.44,
+     "end": 43.0
+    },
+    {
+     "w": "tes",
+     "start": 43.0,
+     "end": 43.22
+    },
+    {
+     "w": "limites",
+     "start": 43.22,
+     "end": 43.48
+    },
+    {
+     "w": "ici",
+     "start": 43.48,
+     "end": 43.8
+    },
+    {
+     "w": "et",
+     "start": 43.8,
+     "end": 44.24
+    },
+    {
+     "w": "maintenant,",
+     "start": 44.24,
+     "end": 44.5
+    },
+    {
+     "w": "franchement",
+     "start": 44.66,
+     "end": 44.96
+    },
+    {
+     "w": "ça",
+     "start": 45.02,
+     "end": 45.07
+    },
+    {
+     "w": "résume",
+     "start": 45.06,
+     "end": 45.3
+    },
+    {
+     "w": "toute",
+     "start": 45.3,
+     "end": 45.44
+    },
+    {
+     "w": "la",
+     "start": 45.44,
+     "end": 45.6
+    },
+    {
+     "w": "série.",
+     "start": 45.6,
+     "end": 45.76
+    },
+    {
+     "w": "Pour",
+     "start": 45.9,
+     "end": 45.98
+    },
+    {
+     "w": "moi",
+     "start": 45.98,
+     "end": 46.14
+    },
+    {
+     "w": "c'est",
+     "start": 46.22,
+     "end": 46.27
+    },
+    {
+     "w": "le",
+     "start": 46.26,
+     "end": 46.38
+    },
+    {
+     "w": "meilleur",
+     "start": 46.38,
+     "end": 46.52
+    },
+    {
+     "w": "capitaine",
+     "start": 46.52,
+     "end": 46.9
+    },
+    {
+     "w": "de",
+     "start": 46.9,
+     "end": 47.02
+    },
+    {
+     "w": "l'anime,",
+     "start": 47.02,
+     "end": 47.28
+    },
+    {
+     "w": "point.",
+     "start": 47.88,
+     "end": 48.275
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 48.275,
+   "end": 51.46,
+   "slot_end": 53.208,
+   "text": "Numéro 2, Asta. Ouais je sais, le mec a zéro magie dans tout son corps.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 48.275,
+     "end": 48.67
+    },
+    {
+     "w": "2,",
+     "start": 48.67,
+     "end": 49.065
+    },
+    {
+     "w": "Asta.",
+     "start": 49.065,
+     "end": 49.46
+    },
+    {
+     "w": "Ouais",
+     "start": 49.6,
+     "end": 49.66
+    },
+    {
+     "w": "je",
+     "start": 49.74,
+     "end": 49.8
+    },
+    {
+     "w": "sais,",
+     "start": 49.8,
+     "end": 49.9
+    },
+    {
+     "w": "le",
+     "start": 50.02,
+     "end": 50.12
+    },
+    {
+     "w": "mec",
+     "start": 50.12,
+     "end": 50.22
+    },
+    {
+     "w": "a",
+     "start": 50.22,
+     "end": 50.36
+    },
+    {
+     "w": "zéro",
+     "start": 50.36,
+     "end": 50.5
+    },
+    {
+     "w": "magie",
+     "start": 50.5,
+     "end": 50.78
+    },
+    {
+     "w": "dans",
+     "start": 50.78,
+     "end": 50.9
+    },
+    {
+     "w": "tout",
+     "start": 50.9,
+     "end": 51.04
+    },
+    {
+     "w": "son",
+     "start": 51.04,
+     "end": 51.18
+    },
+    {
+     "w": "corps.",
+     "start": 51.18,
+     "end": 51.46
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 52.4,
+   "end": 58.42,
+   "slot_end": 59.328,
+   "text": "Et c'est justement ça le délire. Son grimoire à cinq feuilles lui donne des épées d'anti-magie, il annule tout ce qu'on lui balance.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 52.4,
+     "end": 53.22
+    },
+    {
+     "w": "c'est",
+     "start": 53.22,
+     "end": 53.44
+    },
+    {
+     "w": "justement",
+     "start": 53.44,
+     "end": 53.78
+    },
+    {
+     "w": "ça",
+     "start": 53.78,
+     "end": 53.92
+    },
+    {
+     "w": "le",
+     "start": 53.92,
+     "end": 54.06
+    },
+    {
+     "w": "délire.",
+     "start": 54.06,
+     "end": 54.32
+    },
+    {
+     "w": "Son",
+     "start": 54.44,
+     "end": 54.54
+    },
+    {
+     "w": "grimoire",
+     "start": 54.54,
+     "end": 54.86
+    },
+    {
+     "w": "à",
+     "start": 54.86,
+     "end": 54.98
+    },
+    {
+     "w": "cinq",
+     "start": 54.98,
+     "end": 55.16
+    },
+    {
+     "w": "feuilles",
+     "start": 55.16,
+     "end": 55.42
+    },
+    {
+     "w": "lui",
+     "start": 55.42,
+     "end": 55.58
+    },
+    {
+     "w": "donne",
+     "start": 55.58,
+     "end": 55.74
+    },
+    {
+     "w": "des",
+     "start": 55.74,
+     "end": 55.92
+    },
+    {
+     "w": "épées",
+     "start": 55.92,
+     "end": 56.14
+    },
+    {
+     "w": "d'anti-magie,",
+     "start": 56.14,
+     "end": 56.84
+    },
+    {
+     "w": "il",
+     "start": 57.16,
+     "end": 57.34
+    },
+    {
+     "w": "annule",
+     "start": 57.34,
+     "end": 57.6
+    },
+    {
+     "w": "tout",
+     "start": 57.6,
+     "end": 57.82
+    },
+    {
+     "w": "ce",
+     "start": 57.82,
+     "end": 57.92
+    },
+    {
+     "w": "qu'on",
+     "start": 57.92,
+     "end": 58.02
+    },
+    {
+     "w": "lui",
+     "start": 58.02,
+     "end": 58.14
+    },
+    {
+     "w": "balance.",
+     "start": 58.14,
+     "end": 58.42
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 59.26,
+   "end": 62.52,
+   "slot_end": 62.682,
+   "text": "Mais attends, parce que le numéro 1 joue carrément dans une autre catégorie que tous les autres.",
+   "words": [
+    {
+     "w": "Mais",
+     "start": 59.26,
+     "end": 59.4
+    },
+    {
+     "w": "attends,",
+     "start": 59.4,
+     "end": 59.64
+    },
+    {
+     "w": "parce",
+     "start": 59.78,
+     "end": 59.86
+    },
+    {
+     "w": "que",
+     "start": 59.86,
+     "end": 59.98
+    },
+    {
+     "w": "le",
+     "start": 59.98,
+     "end": 60.04
+    },
+    {
+     "w": "numéro",
+     "start": 60.04,
+     "end": 60.26
+    },
+    {
+     "w": "1",
+     "start": 60.26,
+     "end": 60.52
+    },
+    {
+     "w": "joue",
+     "start": 60.52,
+     "end": 60.68
+    },
+    {
+     "w": "carrément",
+     "start": 60.68,
+     "end": 61.06
+    },
+    {
+     "w": "dans",
+     "start": 61.06,
+     "end": 61.18
+    },
+    {
+     "w": "une",
+     "start": 61.18,
+     "end": 61.32
+    },
+    {
+     "w": "autre",
+     "start": 61.32,
+     "end": 61.46
+    },
+    {
+     "w": "catégorie",
+     "start": 61.46,
+     "end": 61.9
+    },
+    {
+     "w": "que",
+     "start": 61.9,
+     "end": 62.02
+    },
+    {
+     "w": "tous",
+     "start": 62.02,
+     "end": 62.14
+    },
+    {
+     "w": "les",
+     "start": 62.14,
+     "end": 62.26
+    },
+    {
+     "w": "autres.",
+     "start": 62.26,
+     "end": 62.52
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 62.68,
+   "end": 69.86,
+   "slot_end": 69.988,
+   "text": "Numéro 1, Julius Novachrono, le Roi Sorcier. Sa magie, c'est le temps. Il en stocke, et il peut figer un adversaire net au milieu d'un combat.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 62.68,
+     "end": 62.98
+    },
+    {
+     "w": "1,",
+     "start": 62.98,
+     "end": 63.22
+    },
+    {
+     "w": "Julius",
+     "start": 63.5,
+     "end": 63.68
+    },
+    {
+     "w": "Novachrono,",
+     "start": 63.68,
+     "end": 64.46
+    },
+    {
+     "w": "le",
+     "start": 64.66,
+     "end": 64.72
+    },
+    {
+     "w": "Roi",
+     "start": 64.72,
+     "end": 64.94
+    },
+    {
+     "w": "Sorcier.",
+     "start": 64.94,
+     "end": 65.22
+    },
+    {
+     "w": "Sa",
+     "start": 65.46,
+     "end": 65.54
+    },
+    {
+     "w": "magie,",
+     "start": 65.54,
+     "end": 65.88
+    },
+    {
+     "w": "c'est",
+     "start": 66.74,
+     "end": 66.9
+    },
+    {
+     "w": "le",
+     "start": 66.9,
+     "end": 67.0
+    },
+    {
+     "w": "temps.",
+     "start": 67.0,
+     "end": 67.2
+    },
+    {
+     "w": "Il",
+     "start": 67.38,
+     "end": 67.46
+    },
+    {
+     "w": "en",
+     "start": 67.46,
+     "end": 67.58
+    },
+    {
+     "w": "stocke,",
+     "start": 67.58,
+     "end": 67.96
+    },
+    {
+     "w": "et",
+     "start": 67.96,
+     "end": 68.08
+    },
+    {
+     "w": "il",
+     "start": 68.08,
+     "end": 68.2
+    },
+    {
+     "w": "peut",
+     "start": 68.2,
+     "end": 68.3
+    },
+    {
+     "w": "figer",
+     "start": 68.3,
+     "end": 68.58
+    },
+    {
+     "w": "un",
+     "start": 68.58,
+     "end": 68.7
+    },
+    {
+     "w": "adversaire",
+     "start": 68.7,
+     "end": 69.06
+    },
+    {
+     "w": "net",
+     "start": 69.12,
+     "end": 69.2
+    },
+    {
+     "w": "au",
+     "start": 69.2,
+     "end": 69.34
+    },
+    {
+     "w": "milieu",
+     "start": 69.34,
+     "end": 69.48
+    },
+    {
+     "w": "d'un",
+     "start": 69.48,
+     "end": 69.66
+    },
+    {
+     "w": "combat.",
+     "start": 69.66,
+     "end": 69.86
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 70.08,
+   "end": 76.06,
+   "slot_end": 76.253,
+   "text": "Et à mon avis on a encore rien vu de ce qu'il cache. Ceux qui ont lu le manga savent très bien de quoi je parle.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 70.08,
+     "end": 70.26
+    },
+    {
+     "w": "à",
+     "start": 70.26,
+     "end": 70.46
+    },
+    {
+     "w": "mon",
+     "start": 70.46,
+     "end": 70.56
+    },
+    {
+     "w": "avis",
+     "start": 70.56,
+     "end": 70.74
+    },
+    {
+     "w": "on",
+     "start": 70.86,
+     "end": 70.91
+    },
+    {
+     "w": "a",
+     "start": 70.98,
+     "end": 71.03
+    },
+    {
+     "w": "encore",
+     "start": 70.98,
+     "end": 71.14
+    },
+    {
+     "w": "rien",
+     "start": 71.14,
+     "end": 71.3
+    },
+    {
+     "w": "vu",
+     "start": 71.3,
+     "end": 71.44
+    },
+    {
+     "w": "de",
+     "start": 71.44,
+     "end": 71.54
+    },
+    {
+     "w": "ce",
+     "start": 71.54,
+     "end": 71.64
+    },
+    {
+     "w": "qu'il",
+     "start": 71.64,
+     "end": 71.72
+    },
+    {
+     "w": "cache.",
+     "start": 71.72,
+     "end": 72.02
+    },
+    {
+     "w": "Ceux",
+     "start": 73.36,
+     "end": 73.46
+    },
+    {
+     "w": "qui",
+     "start": 73.46,
+     "end": 73.62
+    },
+    {
+     "w": "ont",
+     "start": 73.62,
+     "end": 73.72
+    },
+    {
+     "w": "lu",
+     "start": 73.72,
+     "end": 73.86
+    },
+    {
+     "w": "le",
+     "start": 73.86,
+     "end": 74.0
+    },
+    {
+     "w": "manga",
+     "start": 74.0,
+     "end": 74.1
+    },
+    {
+     "w": "savent",
+     "start": 74.34,
+     "end": 74.39
+    },
+    {
+     "w": "très",
+     "start": 74.38,
+     "end": 74.48
+    },
+    {
+     "w": "bien",
+     "start": 74.48,
+     "end": 74.7
+    },
+    {
+     "w": "de",
+     "start": 74.7,
+     "end": 74.82
+    },
+    {
+     "w": "quoi",
+     "start": 74.82,
+     "end": 74.92
+    },
+    {
+     "w": "je",
+     "start": 75.78,
+     "end": 75.84
+    },
+    {
+     "w": "parle.",
+     "start": 75.84,
+     "end": 76.06
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 76.24,
+   "end": 80.62,
+   "slot_end": 80.93,
+   "text": "Voilà mon top. Dis-moi en com' qui tu mets numéro 1, et si Asta mérite mieux que la deuxième place.",
+   "words": [
+    {
+     "w": "Voilà",
+     "start": 76.24,
+     "end": 76.36
+    },
+    {
+     "w": "mon",
+     "start": 76.36,
+     "end": 76.56
+    },
+    {
+     "w": "top.",
+     "start": 76.56,
+     "end": 76.78
+    },
+    {
+     "w": "Dis-moi",
+     "start": 77.12,
+     "end": 77.18
+    },
+    {
+     "w": "en",
+     "start": 77.18,
+     "end": 77.36
+    },
+    {
+     "w": "com'",
+     "start": 77.54,
+     "end": 77.74
+    },
+    {
+     "w": "qui",
+     "start": 77.74,
+     "end": 77.82
+    },
+    {
+     "w": "tu",
+     "start": 77.82,
+     "end": 77.94
+    },
+    {
+     "w": "mets",
+     "start": 77.94,
+     "end": 78.06
+    },
+    {
+     "w": "numéro",
+     "start": 78.06,
+     "end": 78.22
+    },
+    {
+     "w": "1,",
+     "start": 78.22,
+     "end": 78.56
+    },
+    {
+     "w": "et",
+     "start": 78.92,
+     "end": 78.97
+    },
+    {
+     "w": "si",
+     "start": 78.96,
+     "end": 79.1
+    },
+    {
+     "w": "Asta",
+     "start": 79.1,
+     "end": 79.3
+    },
+    {
+     "w": "mérite",
+     "start": 79.3,
+     "end": 79.66
+    },
+    {
+     "w": "mieux",
+     "start": 79.66,
+     "end": 79.86
+    },
+    {
+     "w": "que",
+     "start": 79.86,
+     "end": 79.98
+    },
+    {
+     "w": "la",
+     "start": 79.98,
+     "end": 80.08
+    },
+    {
+     "w": "deuxième",
+     "start": 80.08,
+     "end": 80.3
+    },
+    {
+     "w": "place.",
+     "start": 80.3,
+     "end": 80.62
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 80.92,
+   "end": 83.1,
+   "slot_end": 83.91,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 80.92,
+     "end": 81.1
+    },
+    {
+     "w": "Asura.",
+     "start": 81.1,
+     "end": 81.46
+    },
+    {
+     "w": "On",
+     "start": 81.74,
+     "end": 81.92
+    },
+    {
+     "w": "se",
+     "start": 81.92,
+     "end": 82.04
+    },
+    {
+     "w": "capte",
+     "start": 82.04,
+     "end": 82.32
+    },
+    {
+     "w": "au",
+     "start": 82.32,
+     "end": 82.4
+    },
+    {
+     "w": "prochain",
+     "start": 82.4,
+     "end": 82.62
+    },
+    {
+     "w": "épisode.",
+     "start": 82.62,
+     "end": 83.1
+    }
+   ]
+  }
+ ],
+ "aligned": 0.994
+}
