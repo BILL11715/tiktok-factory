@@ -1,0 +1,1631 @@
+{
+ "engine": "clone",
+ "path": "/home/claude/tiktok-factory/runs/2026-09-28_1145/voice.wav",
+ "duration": 83.465,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 3.08,
+   "slot_end": 3.271,
+   "text": "Elle goûte des poisons pour le plaisir, et l'empereur a besoin d'elle.",
+   "words": [
+    {
+     "w": "Elle",
+     "start": 0.0,
+     "end": 0.16
+    },
+    {
+     "w": "goûte",
+     "start": 0.16,
+     "end": 0.52
+    },
+    {
+     "w": "des",
+     "start": 0.52,
+     "end": 0.76
+    },
+    {
+     "w": "poisons",
+     "start": 0.76,
+     "end": 1.08
+    },
+    {
+     "w": "pour",
+     "start": 1.08,
+     "end": 1.28
+    },
+    {
+     "w": "le",
+     "start": 1.28,
+     "end": 1.4
+    },
+    {
+     "w": "plaisir,",
+     "start": 1.4,
+     "end": 1.68
+    },
+    {
+     "w": "et",
+     "start": 2.12,
+     "end": 2.17
+    },
+    {
+     "w": "l'empereur",
+     "start": 2.16,
+     "end": 2.5
+    },
+    {
+     "w": "a",
+     "start": 2.5,
+     "end": 2.62
+    },
+    {
+     "w": "besoin",
+     "start": 2.62,
+     "end": 2.78
+    },
+    {
+     "w": "d'elle.",
+     "start": 2.78,
+     "end": 3.08
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 3.26,
+   "end": 6.2,
+   "slot_end": 8.488,
+   "text": "Reste jusqu'au bout, j'te donne le nom à la fin, et la suite arrive bientôt.",
+   "words": [
+    {
+     "w": "Reste",
+     "start": 3.26,
+     "end": 3.54
+    },
+    {
+     "w": "jusqu'au",
+     "start": 3.54,
+     "end": 3.92
+    },
+    {
+     "w": "bout,",
+     "start": 3.92,
+     "end": 4.1
+    },
+    {
+     "w": "j'te",
+     "start": 4.16,
+     "end": 4.3
+    },
+    {
+     "w": "donne",
+     "start": 4.3,
+     "end": 4.48
+    },
+    {
+     "w": "le",
+     "start": 4.48,
+     "end": 4.64
+    },
+    {
+     "w": "nom",
+     "start": 4.64,
+     "end": 4.76
+    },
+    {
+     "w": "à",
+     "start": 4.76,
+     "end": 4.84
+    },
+    {
+     "w": "la",
+     "start": 4.84,
+     "end": 4.94
+    },
+    {
+     "w": "fin,",
+     "start": 4.94,
+     "end": 5.12
+    },
+    {
+     "w": "et",
+     "start": 5.28,
+     "end": 5.33
+    },
+    {
+     "w": "la",
+     "start": 5.3,
+     "end": 5.42
+    },
+    {
+     "w": "suite",
+     "start": 5.42,
+     "end": 5.54
+    },
+    {
+     "w": "arrive",
+     "start": 5.54,
+     "end": 5.8
+    },
+    {
+     "w": "bientôt.",
+     "start": 5.8,
+     "end": 6.2
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 8.28,
+   "end": 12.46,
+   "slot_end": 12.563,
+   "text": "Alors l'histoire. Maomao, c'est une apothicaire qui a grandi dans le quartier des plaisirs.",
+   "words": [
+    {
+     "w": "Alors",
+     "start": 8.28,
+     "end": 8.6
+    },
+    {
+     "w": "l'histoire.",
+     "start": 8.6,
+     "end": 8.98
+    },
+    {
+     "w": "Maomao,",
+     "start": 9.36,
+     "end": 9.78
+    },
+    {
+     "w": "c'est",
+     "start": 10.08,
+     "end": 10.24
+    },
+    {
+     "w": "une",
+     "start": 10.24,
+     "end": 10.4
+    },
+    {
+     "w": "apothicaire",
+     "start": 10.4,
+     "end": 10.98
+    },
+    {
+     "w": "qui",
+     "start": 10.98,
+     "end": 11.12
+    },
+    {
+     "w": "a",
+     "start": 11.12,
+     "end": 11.22
+    },
+    {
+     "w": "grandi",
+     "start": 11.22,
+     "end": 11.46
+    },
+    {
+     "w": "dans",
+     "start": 11.46,
+     "end": 11.62
+    },
+    {
+     "w": "le",
+     "start": 11.62,
+     "end": 11.72
+    },
+    {
+     "w": "quartier",
+     "start": 11.72,
+     "end": 11.96
+    },
+    {
+     "w": "des",
+     "start": 11.96,
+     "end": 12.06
+    },
+    {
+     "w": "plaisirs.",
+     "start": 12.06,
+     "end": 12.46
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 12.58,
+   "end": 17.24,
+   "slot_end": 17.356,
+   "text": "Un jour, elle se fait kidnapper et revendre comme servante au palais intérieur. En gros, le harem de l'empereur.",
+   "words": [
+    {
+     "w": "Un",
+     "start": 12.58,
+     "end": 12.64
+    },
+    {
+     "w": "jour,",
+     "start": 12.64,
+     "end": 12.76
+    },
+    {
+     "w": "elle",
+     "start": 12.84,
+     "end": 12.96
+    },
+    {
+     "w": "se",
+     "start": 12.96,
+     "end": 13.04
+    },
+    {
+     "w": "fait",
+     "start": 13.04,
+     "end": 13.18
+    },
+    {
+     "w": "kidnapper",
+     "start": 13.18,
+     "end": 13.68
+    },
+    {
+     "w": "et",
+     "start": 13.68,
+     "end": 13.96
+    },
+    {
+     "w": "revendre",
+     "start": 13.96,
+     "end": 14.26
+    },
+    {
+     "w": "comme",
+     "start": 14.26,
+     "end": 14.42
+    },
+    {
+     "w": "servante",
+     "start": 14.42,
+     "end": 14.82
+    },
+    {
+     "w": "au",
+     "start": 14.82,
+     "end": 14.94
+    },
+    {
+     "w": "palais",
+     "start": 14.94,
+     "end": 15.08
+    },
+    {
+     "w": "intérieur.",
+     "start": 15.08,
+     "end": 15.5
+    },
+    {
+     "w": "En",
+     "start": 15.96,
+     "end": 16.08
+    },
+    {
+     "w": "gros,",
+     "start": 16.08,
+     "end": 16.26
+    },
+    {
+     "w": "le",
+     "start": 16.46,
+     "end": 16.52
+    },
+    {
+     "w": "harem",
+     "start": 16.52,
+     "end": 16.7
+    },
+    {
+     "w": "de",
+     "start": 16.7,
+     "end": 16.84
+    },
+    {
+     "w": "l'empereur.",
+     "start": 16.84,
+     "end": 17.24
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 17.34,
+   "end": 24.04,
+   "slot_end": 24.682,
+   "text": "Son plan, c'est de faire profil bas et d'attendre la fin de son contrat. Sauf que les bébés de l'empereur tombent malades, un par un.",
+   "words": [
+    {
+     "w": "Son",
+     "start": 17.34,
+     "end": 17.48
+    },
+    {
+     "w": "plan,",
+     "start": 17.48,
+     "end": 17.68
+    },
+    {
+     "w": "c'est",
+     "start": 17.88,
+     "end": 18.08
+    },
+    {
+     "w": "de",
+     "start": 18.08,
+     "end": 18.2
+    },
+    {
+     "w": "faire",
+     "start": 18.2,
+     "end": 18.34
+    },
+    {
+     "w": "profil",
+     "start": 18.34,
+     "end": 18.76
+    },
+    {
+     "w": "bas",
+     "start": 18.76,
+     "end": 18.98
+    },
+    {
+     "w": "et",
+     "start": 18.98,
+     "end": 19.46
+    },
+    {
+     "w": "d'attendre",
+     "start": 19.46,
+     "end": 19.7
+    },
+    {
+     "w": "la",
+     "start": 19.7,
+     "end": 19.94
+    },
+    {
+     "w": "fin",
+     "start": 19.94,
+     "end": 20.06
+    },
+    {
+     "w": "de",
+     "start": 20.06,
+     "end": 20.12
+    },
+    {
+     "w": "son",
+     "start": 20.12,
+     "end": 20.22
+    },
+    {
+     "w": "contrat.",
+     "start": 20.22,
+     "end": 20.56
+    },
+    {
+     "w": "Sauf",
+     "start": 21.44,
+     "end": 21.74
+    },
+    {
+     "w": "que",
+     "start": 21.74,
+     "end": 21.9
+    },
+    {
+     "w": "les",
+     "start": 21.9,
+     "end": 22.02
+    },
+    {
+     "w": "bébés",
+     "start": 22.02,
+     "end": 22.22
+    },
+    {
+     "w": "de",
+     "start": 22.22,
+     "end": 22.36
+    },
+    {
+     "w": "l'empereur",
+     "start": 22.36,
+     "end": 22.74
+    },
+    {
+     "w": "tombent",
+     "start": 22.74,
+     "end": 22.98
+    },
+    {
+     "w": "malades,",
+     "start": 22.98,
+     "end": 23.4
+    },
+    {
+     "w": "un",
+     "start": 23.56,
+     "end": 23.64
+    },
+    {
+     "w": "par",
+     "start": 23.64,
+     "end": 23.84
+    },
+    {
+     "w": "un.",
+     "start": 23.84,
+     "end": 24.04
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 24.44,
+   "end": 30.42,
+   "slot_end": 30.608,
+   "text": "Et elle, elle capte direct d'où ça vient. Le truc que tout le palais prend pour une malédiction, c'est un poison.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 24.44,
+     "end": 24.8
+    },
+    {
+     "w": "elle,",
+     "start": 24.8,
+     "end": 25.02
+    },
+    {
+     "w": "elle",
+     "start": 25.02,
+     "end": 25.07
+    },
+    {
+     "w": "capte",
+     "start": 25.02,
+     "end": 26.18
+    },
+    {
+     "w": "direct",
+     "start": 26.18,
+     "end": 26.44
+    },
+    {
+     "w": "d'où",
+     "start": 26.44,
+     "end": 26.65
+    },
+    {
+     "w": "ça",
+     "start": 26.65,
+     "end": 26.755
+    },
+    {
+     "w": "vient.",
+     "start": 26.755,
+     "end": 26.86
+    },
+    {
+     "w": "Le",
+     "start": 27.0,
+     "end": 27.1
+    },
+    {
+     "w": "truc",
+     "start": 27.1,
+     "end": 27.3
+    },
+    {
+     "w": "que",
+     "start": 27.3,
+     "end": 27.52
+    },
+    {
+     "w": "tout",
+     "start": 27.52,
+     "end": 27.62
+    },
+    {
+     "w": "le",
+     "start": 27.62,
+     "end": 27.67
+    },
+    {
+     "w": "palais",
+     "start": 27.62,
+     "end": 27.88
+    },
+    {
+     "w": "prend",
+     "start": 27.88,
+     "end": 28.08
+    },
+    {
+     "w": "pour",
+     "start": 28.08,
+     "end": 28.28
+    },
+    {
+     "w": "une",
+     "start": 28.28,
+     "end": 28.4
+    },
+    {
+     "w": "malédiction,",
+     "start": 28.4,
+     "end": 28.84
+    },
+    {
+     "w": "c'est",
+     "start": 29.36,
+     "end": 30.12
+    },
+    {
+     "w": "un",
+     "start": 30.12,
+     "end": 30.22
+    },
+    {
+     "w": "poison.",
+     "start": 30.22,
+     "end": 30.42
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 30.6,
+   "end": 35.82,
+   "slot_end": 35.948,
+   "text": "Elle laisse un message anonyme pour prévenir, en pensant que personne remontera jusqu'à elle. Grosse erreur.",
+   "words": [
+    {
+     "w": "Elle",
+     "start": 30.6,
+     "end": 30.7
+    },
+    {
+     "w": "laisse",
+     "start": 30.7,
+     "end": 30.96
+    },
+    {
+     "w": "un",
+     "start": 30.96,
+     "end": 31.08
+    },
+    {
+     "w": "message",
+     "start": 31.08,
+     "end": 31.38
+    },
+    {
+     "w": "anonyme",
+     "start": 31.38,
+     "end": 31.9
+    },
+    {
+     "w": "pour",
+     "start": 31.9,
+     "end": 32.06
+    },
+    {
+     "w": "prévenir,",
+     "start": 32.06,
+     "end": 32.52
+    },
+    {
+     "w": "en",
+     "start": 32.52,
+     "end": 32.9
+    },
+    {
+     "w": "pensant",
+     "start": 32.9,
+     "end": 33.18
+    },
+    {
+     "w": "que",
+     "start": 33.18,
+     "end": 33.3
+    },
+    {
+     "w": "personne",
+     "start": 33.3,
+     "end": 33.56
+    },
+    {
+     "w": "remontera",
+     "start": 33.56,
+     "end": 34.04
+    },
+    {
+     "w": "jusqu'à",
+     "start": 34.04,
+     "end": 34.46
+    },
+    {
+     "w": "elle.",
+     "start": 34.46,
+     "end": 34.64
+    },
+    {
+     "w": "Grosse",
+     "start": 35.1,
+     "end": 35.46
+    },
+    {
+     "w": "erreur.",
+     "start": 35.46,
+     "end": 35.82
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 35.92,
+   "end": 40.02,
+   "slot_end": 41.952,
+   "text": "Parce que Jinshi, un eunuque beaucoup trop beau pour être vrai, la retrouve presque instantanément.",
+   "words": [
+    {
+     "w": "Parce",
+     "start": 35.92,
+     "end": 36.04
+    },
+    {
+     "w": "que",
+     "start": 36.04,
+     "end": 36.18
+    },
+    {
+     "w": "Jinshi,",
+     "start": 36.18,
+     "end": 36.54
+    },
+    {
+     "w": "un",
+     "start": 36.6,
+     "end": 36.7
+    },
+    {
+     "w": "eunuque",
+     "start": 36.7,
+     "end": 37.0
+    },
+    {
+     "w": "beaucoup",
+     "start": 37.0,
+     "end": 37.2
+    },
+    {
+     "w": "trop",
+     "start": 37.2,
+     "end": 37.36
+    },
+    {
+     "w": "beau",
+     "start": 37.36,
+     "end": 37.54
+    },
+    {
+     "w": "pour",
+     "start": 37.54,
+     "end": 37.72
+    },
+    {
+     "w": "être",
+     "start": 37.72,
+     "end": 37.84
+    },
+    {
+     "w": "vrai,",
+     "start": 37.84,
+     "end": 38.18
+    },
+    {
+     "w": "la",
+     "start": 38.8,
+     "end": 38.94
+    },
+    {
+     "w": "retrouve",
+     "start": 38.94,
+     "end": 39.24
+    },
+    {
+     "w": "presque",
+     "start": 39.24,
+     "end": 39.4
+    },
+    {
+     "w": "instantanément.",
+     "start": 39.4,
+     "end": 40.02
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 41.7,
+   "end": 45.32,
+   "slot_end": 45.464,
+   "text": "Si tu veux une reco comme ça tous les jours, abonne-toi, c'est littéralement ce que je fais ici.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 41.7,
+     "end": 42.06
+    },
+    {
+     "w": "tu",
+     "start": 42.06,
+     "end": 42.18
+    },
+    {
+     "w": "veux",
+     "start": 42.18,
+     "end": 42.32
+    },
+    {
+     "w": "une",
+     "start": 42.32,
+     "end": 42.46
+    },
+    {
+     "w": "reco",
+     "start": 42.46,
+     "end": 42.66
+    },
+    {
+     "w": "comme",
+     "start": 42.66,
+     "end": 42.92
+    },
+    {
+     "w": "ça",
+     "start": 42.92,
+     "end": 43.08
+    },
+    {
+     "w": "tous",
+     "start": 43.08,
+     "end": 43.22
+    },
+    {
+     "w": "les",
+     "start": 43.22,
+     "end": 43.34
+    },
+    {
+     "w": "jours,",
+     "start": 43.34,
+     "end": 43.48
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 43.66,
+     "end": 44.1
+    },
+    {
+     "w": "c'est",
+     "start": 44.26,
+     "end": 44.32
+    },
+    {
+     "w": "littéralement",
+     "start": 44.32,
+     "end": 44.74
+    },
+    {
+     "w": "ce",
+     "start": 44.74,
+     "end": 44.84
+    },
+    {
+     "w": "que",
+     "start": 44.84,
+     "end": 44.9
+    },
+    {
+     "w": "je",
+     "start": 44.9,
+     "end": 45.0
+    },
+    {
+     "w": "fais",
+     "start": 45.0,
+     "end": 45.1
+    },
+    {
+     "w": "ici.",
+     "start": 45.1,
+     "end": 45.32
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 45.5,
+   "end": 51.16,
+   "slot_end": 51.256,
+   "text": "Et le meilleur, c'est leur duo. Lui il sort tout son charme, et Maomao le regarde comme une limace.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 45.5,
+     "end": 45.55
+    },
+    {
+     "w": "le",
+     "start": 45.54,
+     "end": 45.66
+    },
+    {
+     "w": "meilleur,",
+     "start": 45.66,
+     "end": 45.92
+    },
+    {
+     "w": "c'est",
+     "start": 46.12,
+     "end": 46.2
+    },
+    {
+     "w": "leur",
+     "start": 46.2,
+     "end": 46.38
+    },
+    {
+     "w": "duo.",
+     "start": 46.38,
+     "end": 46.62
+    },
+    {
+     "w": "Lui",
+     "start": 47.3,
+     "end": 47.6
+    },
+    {
+     "w": "il",
+     "start": 47.7,
+     "end": 47.76
+    },
+    {
+     "w": "sort",
+     "start": 47.76,
+     "end": 48.0
+    },
+    {
+     "w": "tout",
+     "start": 48.0,
+     "end": 48.2
+    },
+    {
+     "w": "son",
+     "start": 48.2,
+     "end": 48.38
+    },
+    {
+     "w": "charme,",
+     "start": 48.38,
+     "end": 48.82
+    },
+    {
+     "w": "et",
+     "start": 49.12,
+     "end": 49.26
+    },
+    {
+     "w": "Maomao",
+     "start": 49.26,
+     "end": 49.7
+    },
+    {
+     "w": "le",
+     "start": 49.7,
+     "end": 50.1
+    },
+    {
+     "w": "regarde",
+     "start": 50.1,
+     "end": 50.38
+    },
+    {
+     "w": "comme",
+     "start": 50.38,
+     "end": 50.62
+    },
+    {
+     "w": "une",
+     "start": 50.62,
+     "end": 50.76
+    },
+    {
+     "w": "limace.",
+     "start": 50.76,
+     "end": 51.16
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 51.28,
+   "end": 57.44,
+   "slot_end": 57.962,
+   "text": "L'amour, elle s'en fiche. Elle, c'est les poisons. Elle se teste des trucs sur son propre bras, frr, elle est pas bien.",
+   "words": [
+    {
+     "w": "L'amour,",
+     "start": 51.28,
+     "end": 51.48
+    },
+    {
+     "w": "elle",
+     "start": 51.56,
+     "end": 51.64
+    },
+    {
+     "w": "s'en",
+     "start": 51.64,
+     "end": 51.82
+    },
+    {
+     "w": "fiche.",
+     "start": 51.82,
+     "end": 52.16
+    },
+    {
+     "w": "Elle,",
+     "start": 52.52,
+     "end": 52.8
+    },
+    {
+     "w": "c'est",
+     "start": 54.14,
+     "end": 54.56
+    },
+    {
+     "w": "les",
+     "start": 54.56,
+     "end": 54.62
+    },
+    {
+     "w": "poisons.",
+     "start": 54.62,
+     "end": 54.98
+    },
+    {
+     "w": "Elle",
+     "start": 55.12,
+     "end": 55.18
+    },
+    {
+     "w": "se",
+     "start": 55.18,
+     "end": 55.32
+    },
+    {
+     "w": "teste",
+     "start": 55.32,
+     "end": 55.5
+    },
+    {
+     "w": "des",
+     "start": 55.5,
+     "end": 55.74
+    },
+    {
+     "w": "trucs",
+     "start": 55.74,
+     "end": 55.9
+    },
+    {
+     "w": "sur",
+     "start": 55.9,
+     "end": 56.08
+    },
+    {
+     "w": "son",
+     "start": 56.08,
+     "end": 56.24
+    },
+    {
+     "w": "propre",
+     "start": 56.24,
+     "end": 56.44
+    },
+    {
+     "w": "bras,",
+     "start": 56.44,
+     "end": 56.74
+    },
+    {
+     "w": "frr,",
+     "start": 56.74,
+     "end": 56.82
+    },
+    {
+     "w": "elle",
+     "start": 56.82,
+     "end": 57.02
+    },
+    {
+     "w": "est",
+     "start": 57.02,
+     "end": 57.16
+    },
+    {
+     "w": "pas",
+     "start": 57.16,
+     "end": 57.26
+    },
+    {
+     "w": "bien.",
+     "start": 57.26,
+     "end": 57.44
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 57.8,
+   "end": 63.52,
+   "slot_end": 63.586,
+   "text": "Presque chaque épisode, t'as une petite enquête. Un plat empoisonné, une mort louche, et elle démêle tout avec ses plantes.",
+   "words": [
+    {
+     "w": "Presque",
+     "start": 57.8,
+     "end": 58.12
+    },
+    {
+     "w": "chaque",
+     "start": 58.12,
+     "end": 58.42
+    },
+    {
+     "w": "épisode,",
+     "start": 58.42,
+     "end": 58.78
+    },
+    {
+     "w": "t'as",
+     "start": 58.78,
+     "end": 58.94
+    },
+    {
+     "w": "une",
+     "start": 58.94,
+     "end": 59.14
+    },
+    {
+     "w": "petite",
+     "start": 59.14,
+     "end": 59.3
+    },
+    {
+     "w": "enquête.",
+     "start": 59.3,
+     "end": 59.76
+    },
+    {
+     "w": "Un",
+     "start": 59.86,
+     "end": 59.96
+    },
+    {
+     "w": "plat",
+     "start": 59.96,
+     "end": 60.1
+    },
+    {
+     "w": "empoisonné,",
+     "start": 60.1,
+     "end": 60.66
+    },
+    {
+     "w": "une",
+     "start": 61.12,
+     "end": 61.3
+    },
+    {
+     "w": "mort",
+     "start": 61.3,
+     "end": 61.5
+    },
+    {
+     "w": "louche,",
+     "start": 61.5,
+     "end": 61.94
+    },
+    {
+     "w": "et",
+     "start": 62.2,
+     "end": 62.28
+    },
+    {
+     "w": "elle",
+     "start": 62.28,
+     "end": 62.38
+    },
+    {
+     "w": "démêle",
+     "start": 62.38,
+     "end": 62.64
+    },
+    {
+     "w": "tout",
+     "start": 62.64,
+     "end": 62.74
+    },
+    {
+     "w": "avec",
+     "start": 62.74,
+     "end": 62.92
+    },
+    {
+     "w": "ses",
+     "start": 62.92,
+     "end": 63.08
+    },
+    {
+     "w": "plantes.",
+     "start": 63.08,
+     "end": 63.52
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 63.62,
+   "end": 68.32,
+   "slot_end": 69.021,
+   "text": "Mais attends, derrière y'a une vraie intrigue politique, et des secrets sur les persos que j'te dirai pas.",
+   "words": [
+    {
+     "w": "Mais",
+     "start": 63.62,
+     "end": 63.72
+    },
+    {
+     "w": "attends,",
+     "start": 63.72,
+     "end": 64.06
+    },
+    {
+     "w": "derrière",
+     "start": 64.34,
+     "end": 64.6
+    },
+    {
+     "w": "y'a",
+     "start": 64.6,
+     "end": 65.2
+    },
+    {
+     "w": "une",
+     "start": 65.2,
+     "end": 65.42
+    },
+    {
+     "w": "vraie",
+     "start": 65.42,
+     "end": 65.62
+    },
+    {
+     "w": "intrigue",
+     "start": 65.62,
+     "end": 65.96
+    },
+    {
+     "w": "politique,",
+     "start": 65.96,
+     "end": 66.34
+    },
+    {
+     "w": "et",
+     "start": 66.34,
+     "end": 66.8
+    },
+    {
+     "w": "des",
+     "start": 66.8,
+     "end": 66.9
+    },
+    {
+     "w": "secrets",
+     "start": 66.9,
+     "end": 67.14
+    },
+    {
+     "w": "sur",
+     "start": 67.14,
+     "end": 67.28
+    },
+    {
+     "w": "les",
+     "start": 67.28,
+     "end": 67.4
+    },
+    {
+     "w": "persos",
+     "start": 67.4,
+     "end": 67.7
+    },
+    {
+     "w": "que",
+     "start": 67.7,
+     "end": 67.78
+    },
+    {
+     "w": "j'te",
+     "start": 67.78,
+     "end": 67.94
+    },
+    {
+     "w": "dirai",
+     "start": 67.94,
+     "end": 68.16
+    },
+    {
+     "w": "pas.",
+     "start": 68.16,
+     "end": 68.32
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 69.12,
+   "end": 73.06,
+   "slot_end": 73.278,
+   "text": "Franchement, pour moi c'est un des meilleurs animes de ces dernières années, et c'est magnifique à regarder.",
+   "words": [
+    {
+     "w": "Franchement,",
+     "start": 69.12,
+     "end": 69.44
+    },
+    {
+     "w": "pour",
+     "start": 69.62,
+     "end": 69.67
+    },
+    {
+     "w": "moi",
+     "start": 69.66,
+     "end": 69.82
+    },
+    {
+     "w": "c'est",
+     "start": 69.82,
+     "end": 70.02
+    },
+    {
+     "w": "un",
+     "start": 70.02,
+     "end": 70.14
+    },
+    {
+     "w": "des",
+     "start": 70.14,
+     "end": 70.22
+    },
+    {
+     "w": "meilleurs",
+     "start": 70.22,
+     "end": 70.46
+    },
+    {
+     "w": "animes",
+     "start": 70.46,
+     "end": 70.7
+    },
+    {
+     "w": "de",
+     "start": 70.7,
+     "end": 70.82
+    },
+    {
+     "w": "ces",
+     "start": 70.82,
+     "end": 70.96
+    },
+    {
+     "w": "dernières",
+     "start": 70.96,
+     "end": 71.28
+    },
+    {
+     "w": "années,",
+     "start": 71.28,
+     "end": 71.52
+    },
+    {
+     "w": "et",
+     "start": 72.0,
+     "end": 72.1
+    },
+    {
+     "w": "c'est",
+     "start": 72.1,
+     "end": 72.26
+    },
+    {
+     "w": "magnifique",
+     "start": 72.26,
+     "end": 72.64
+    },
+    {
+     "w": "à",
+     "start": 72.64,
+     "end": 72.74
+    },
+    {
+     "w": "regarder.",
+     "start": 72.74,
+     "end": 73.06
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 73.3,
+   "end": 77.1,
+   "slot_end": 77.231,
+   "text": "La saison 3 débarque le 2 octobre, donc t'as quelques jours pour rattraper les deux premières. Largement faisable.",
+   "words": [
+    {
+     "w": "La",
+     "start": 73.3,
+     "end": 73.36
+    },
+    {
+     "w": "saison",
+     "start": 73.36,
+     "end": 73.56
+    },
+    {
+     "w": "3",
+     "start": 73.56,
+     "end": 73.76
+    },
+    {
+     "w": "débarque",
+     "start": 73.76,
+     "end": 74.04
+    },
+    {
+     "w": "le",
+     "start": 74.04,
+     "end": 74.14
+    },
+    {
+     "w": "2",
+     "start": 74.14,
+     "end": 74.22
+    },
+    {
+     "w": "octobre,",
+     "start": 74.22,
+     "end": 74.56
+    },
+    {
+     "w": "donc",
+     "start": 74.56,
+     "end": 74.64
+    },
+    {
+     "w": "t'as",
+     "start": 74.64,
+     "end": 74.8
+    },
+    {
+     "w": "quelques",
+     "start": 74.8,
+     "end": 74.94
+    },
+    {
+     "w": "jours",
+     "start": 74.94,
+     "end": 75.18
+    },
+    {
+     "w": "pour",
+     "start": 75.18,
+     "end": 75.34
+    },
+    {
+     "w": "rattraper",
+     "start": 75.34,
+     "end": 75.64
+    },
+    {
+     "w": "les",
+     "start": 75.64,
+     "end": 75.76
+    },
+    {
+     "w": "deux",
+     "start": 75.76,
+     "end": 75.86
+    },
+    {
+     "w": "premières.",
+     "start": 75.86,
+     "end": 76.2
+    },
+    {
+     "w": "Largement",
+     "start": 76.34,
+     "end": 76.7
+    },
+    {
+     "w": "faisable.",
+     "start": 76.7,
+     "end": 77.1
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "start": 77.26,
+   "end": 80.26,
+   "slot_end": 80.485,
+   "text": "Le nom, c'est Les Carnets de l'apothicaire. Tu l'as déjà vu ou pas ? Dis-moi en com'.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 77.26,
+     "end": 77.34
+    },
+    {
+     "w": "nom,",
+     "start": 77.34,
+     "end": 77.5
+    },
+    {
+     "w": "c'est",
+     "start": 77.5,
+     "end": 77.66
+    },
+    {
+     "w": "Les",
+     "start": 77.66,
+     "end": 77.72
+    },
+    {
+     "w": "Carnets",
+     "start": 77.72,
+     "end": 77.94
+    },
+    {
+     "w": "de",
+     "start": 77.94,
+     "end": 78.0
+    },
+    {
+     "w": "l'apothicaire.",
+     "start": 78.0,
+     "end": 78.56
+    },
+    {
+     "w": "Tu",
+     "start": 78.82,
+     "end": 78.9
+    },
+    {
+     "w": "l'as",
+     "start": 78.9,
+     "end": 79.0
+    },
+    {
+     "w": "déjà",
+     "start": 79.0,
+     "end": 79.16
+    },
+    {
+     "w": "vu",
+     "start": 79.16,
+     "end": 79.34
+    },
+    {
+     "w": "ou",
+     "start": 79.34,
+     "end": 79.46
+    },
+    {
+     "w": "pas",
+     "start": 79.46,
+     "end": 79.62
+    },
+    {
+     "w": "?",
+     "start": 79.88,
+     "end": 79.93
+    },
+    {
+     "w": "Dis-moi",
+     "start": 79.9,
+     "end": 80.04
+    },
+    {
+     "w": "en",
+     "start": 80.04,
+     "end": 80.14
+    },
+    {
+     "w": "com'.",
+     "start": 80.14,
+     "end": 80.26
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "start": 80.48,
+   "end": 82.62,
+   "slot_end": 83.465,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 80.48,
+     "end": 80.66
+    },
+    {
+     "w": "Asura.",
+     "start": 80.66,
+     "end": 81.1
+    },
+    {
+     "w": "On",
+     "start": 81.38,
+     "end": 81.48
+    },
+    {
+     "w": "se",
+     "start": 81.48,
+     "end": 81.58
+    },
+    {
+     "w": "capte",
+     "start": 81.58,
+     "end": 81.88
+    },
+    {
+     "w": "au",
+     "start": 81.88,
+     "end": 81.94
+    },
+    {
+     "w": "prochain",
+     "start": 81.94,
+     "end": 82.16
+    },
+    {
+     "w": "épisode.",
+     "start": 82.16,
+     "end": 82.62
+    }
+   ]
+  }
+ ],
+ "aligned": 0.99
+}
