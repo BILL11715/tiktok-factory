@@ -1,0 +1,1686 @@
+{
+ "engine": "fish",
+ "path": "/home/claude/tiktok-factory/runs/2026-09-27_2045f/voice.wav",
+ "duration": 96.012,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 2.58,
+   "slot_end": 2.714,
+   "text": "Aizen a gagné la guerre de mille ans, et personne l'a vu.",
+   "words": [
+    {
+     "w": "Aizen",
+     "start": 0.0,
+     "end": 0.26
+    },
+    {
+     "w": "a",
+     "start": 0.26,
+     "end": 0.44
+    },
+    {
+     "w": "gagné",
+     "start": 0.44,
+     "end": 0.62
+    },
+    {
+     "w": "la",
+     "start": 0.62,
+     "end": 0.8
+    },
+    {
+     "w": "guerre",
+     "start": 0.8,
+     "end": 0.88
+    },
+    {
+     "w": "de",
+     "start": 0.88,
+     "end": 1.08
+    },
+    {
+     "w": "mille",
+     "start": 1.08,
+     "end": 1.32
+    },
+    {
+     "w": "ans,",
+     "start": 1.32,
+     "end": 1.48
+    },
+    {
+     "w": "et",
+     "start": 1.48,
+     "end": 1.78
+    },
+    {
+     "w": "personne",
+     "start": 1.78,
+     "end": 2.16
+    },
+    {
+     "w": "l'a",
+     "start": 2.16,
+     "end": 2.4
+    },
+    {
+     "w": "vu.",
+     "start": 2.4,
+     "end": 2.58
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 2.72,
+   "end": 7.723,
+   "slot_end": 7.71,
+   "text": "Attention, c'est une théorie, et reste jusqu'au bout parce que le dernier indice change tout.",
+   "words": [
+    {
+     "w": "Attention,",
+     "start": 2.72,
+     "end": 3.0
+    },
+    {
+     "w": "c'est",
+     "start": 3.36,
+     "end": 3.42
+    },
+    {
+     "w": "une",
+     "start": 3.42,
+     "end": 3.56
+    },
+    {
+     "w": "théorie,",
+     "start": 3.56,
+     "end": 3.98
+    },
+    {
+     "w": "et",
+     "start": 4.42,
+     "end": 4.47
+    },
+    {
+     "w": "reste",
+     "start": 4.46,
+     "end": 4.74
+    },
+    {
+     "w": "jusqu'au",
+     "start": 4.74,
+     "end": 5.24
+    },
+    {
+     "w": "bout",
+     "start": 5.24,
+     "end": 5.42
+    },
+    {
+     "w": "parce",
+     "start": 5.42,
+     "end": 5.68
+    },
+    {
+     "w": "que",
+     "start": 5.68,
+     "end": 5.84
+    },
+    {
+     "w": "le",
+     "start": 5.84,
+     "end": 6.217
+    },
+    {
+     "w": "dernier",
+     "start": 6.217,
+     "end": 6.593
+    },
+    {
+     "w": "indice",
+     "start": 6.593,
+     "end": 6.97
+    },
+    {
+     "w": "change",
+     "start": 6.97,
+     "end": 7.347
+    },
+    {
+     "w": "tout.",
+     "start": 7.347,
+     "end": 7.723
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 7.723,
+   "end": 14.247,
+   "slot_end": 14.478,
+   "text": "Bleach sort sa dernière partie, The Calamity, et l'anime rend cette guerre encore plus chaude que le manga.",
+   "words": [
+    {
+     "w": "Bleach",
+     "start": 7.723,
+     "end": 8.1
+    },
+    {
+     "w": "sort",
+     "start": 8.1,
+     "end": 8.54
+    },
+    {
+     "w": "sa",
+     "start": 8.54,
+     "end": 8.74
+    },
+    {
+     "w": "dernière",
+     "start": 8.74,
+     "end": 9.04
+    },
+    {
+     "w": "partie,",
+     "start": 9.04,
+     "end": 9.56
+    },
+    {
+     "w": "The",
+     "start": 9.9,
+     "end": 10.02
+    },
+    {
+     "w": "Calamity,",
+     "start": 10.02,
+     "end": 10.54
+    },
+    {
+     "w": "et",
+     "start": 10.94,
+     "end": 11.1
+    },
+    {
+     "w": "l'anime",
+     "start": 11.1,
+     "end": 11.44
+    },
+    {
+     "w": "rend",
+     "start": 11.44,
+     "end": 11.84
+    },
+    {
+     "w": "cette",
+     "start": 11.84,
+     "end": 12.14
+    },
+    {
+     "w": "guerre",
+     "start": 12.14,
+     "end": 12.4
+    },
+    {
+     "w": "encore",
+     "start": 12.4,
+     "end": 12.64
+    },
+    {
+     "w": "plus",
+     "start": 12.64,
+     "end": 13.06
+    },
+    {
+     "w": "chaude",
+     "start": 13.06,
+     "end": 13.54
+    },
+    {
+     "w": "que",
+     "start": 13.54,
+     "end": 13.74
+    },
+    {
+     "w": "le",
+     "start": 13.74,
+     "end": 13.92
+    },
+    {
+     "w": "manga.",
+     "start": 13.92,
+     "end": 14.247
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 14.247,
+   "end": 20.22,
+   "slot_end": 20.362,
+   "text": "Petit rappel. Aizen, c'est le traître qui finit enfermé au fond de Muken, attaché à une chaise pour des milliers d'années.",
+   "words": [
+    {
+     "w": "Petit",
+     "start": 14.247,
+     "end": 14.573
+    },
+    {
+     "w": "rappel.",
+     "start": 14.573,
+     "end": 14.9
+    },
+    {
+     "w": "Aizen,",
+     "start": 15.42,
+     "end": 15.6
+    },
+    {
+     "w": "c'est",
+     "start": 15.82,
+     "end": 15.87
+    },
+    {
+     "w": "le",
+     "start": 15.86,
+     "end": 15.98
+    },
+    {
+     "w": "traître",
+     "start": 15.98,
+     "end": 16.16
+    },
+    {
+     "w": "qui",
+     "start": 16.16,
+     "end": 16.36
+    },
+    {
+     "w": "finit",
+     "start": 16.36,
+     "end": 16.64
+    },
+    {
+     "w": "enfermé",
+     "start": 16.64,
+     "end": 17.2
+    },
+    {
+     "w": "au",
+     "start": 17.2,
+     "end": 17.38
+    },
+    {
+     "w": "fond",
+     "start": 17.38,
+     "end": 17.52
+    },
+    {
+     "w": "de",
+     "start": 17.52,
+     "end": 17.72
+    },
+    {
+     "w": "Muken,",
+     "start": 17.72,
+     "end": 18.12
+    },
+    {
+     "w": "attaché",
+     "start": 18.34,
+     "end": 18.8
+    },
+    {
+     "w": "à",
+     "start": 18.8,
+     "end": 18.9
+    },
+    {
+     "w": "une",
+     "start": 18.9,
+     "end": 19.04
+    },
+    {
+     "w": "chaise",
+     "start": 19.04,
+     "end": 19.3
+    },
+    {
+     "w": "pour",
+     "start": 19.3,
+     "end": 19.48
+    },
+    {
+     "w": "des",
+     "start": 19.48,
+     "end": 19.66
+    },
+    {
+     "w": "milliers",
+     "start": 19.66,
+     "end": 19.94
+    },
+    {
+     "w": "d'années.",
+     "start": 19.94,
+     "end": 20.22
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 20.34,
+   "end": 27.96,
+   "slot_end": 28.102,
+   "text": "Premier indice. Dans la fausse Karakura, il balance à Ichigo qu'il le surveille depuis le début, et que tous ses combats faisaient partie du plan.",
+   "words": [
+    {
+     "w": "Premier",
+     "start": 20.34,
+     "end": 20.54
+    },
+    {
+     "w": "indice.",
+     "start": 20.54,
+     "end": 21.08
+    },
+    {
+     "w": "Dans",
+     "start": 21.5,
+     "end": 21.64
+    },
+    {
+     "w": "la",
+     "start": 21.64,
+     "end": 21.8
+    },
+    {
+     "w": "fausse",
+     "start": 21.8,
+     "end": 22.14
+    },
+    {
+     "w": "Karakura,",
+     "start": 22.14,
+     "end": 22.58
+    },
+    {
+     "w": "il",
+     "start": 22.92,
+     "end": 23.0
+    },
+    {
+     "w": "balance",
+     "start": 23.0,
+     "end": 23.3
+    },
+    {
+     "w": "à",
+     "start": 23.3,
+     "end": 23.5
+    },
+    {
+     "w": "Ichigo",
+     "start": 23.5,
+     "end": 23.86
+    },
+    {
+     "w": "qu'il",
+     "start": 23.86,
+     "end": 24.1
+    },
+    {
+     "w": "le",
+     "start": 24.1,
+     "end": 24.3
+    },
+    {
+     "w": "surveille",
+     "start": 24.3,
+     "end": 24.78
+    },
+    {
+     "w": "depuis",
+     "start": 24.78,
+     "end": 25.0
+    },
+    {
+     "w": "le",
+     "start": 25.0,
+     "end": 25.18
+    },
+    {
+     "w": "début,",
+     "start": 25.18,
+     "end": 25.42
+    },
+    {
+     "w": "et",
+     "start": 25.42,
+     "end": 26.08
+    },
+    {
+     "w": "que",
+     "start": 26.08,
+     "end": 26.2
+    },
+    {
+     "w": "tous",
+     "start": 26.2,
+     "end": 26.42
+    },
+    {
+     "w": "ses",
+     "start": 26.42,
+     "end": 26.6
+    },
+    {
+     "w": "combats",
+     "start": 26.6,
+     "end": 26.9
+    },
+    {
+     "w": "faisaient",
+     "start": 26.9,
+     "end": 27.24
+    },
+    {
+     "w": "partie",
+     "start": 27.24,
+     "end": 27.54
+    },
+    {
+     "w": "du",
+     "start": 27.54,
+     "end": 27.76
+    },
+    {
+     "w": "plan.",
+     "start": 27.76,
+     "end": 27.96
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 27.96,
+   "end": 36.22,
+   "slot_end": 36.38,
+   "text": "Genre, tout. Rukia qui débarque dans sa vie, ses pouvoirs, sa progression. Aizen a élevé l'arme qui allait sauver le monde.",
+   "words": [
+    {
+     "w": "Genre,",
+     "start": 27.96,
+     "end": 28.82
+    },
+    {
+     "w": "tout.",
+     "start": 28.98,
+     "end": 29.06
+    },
+    {
+     "w": "Rukia",
+     "start": 30.02,
+     "end": 30.46
+    },
+    {
+     "w": "qui",
+     "start": 30.46,
+     "end": 30.68
+    },
+    {
+     "w": "débarque",
+     "start": 30.68,
+     "end": 31.24
+    },
+    {
+     "w": "dans",
+     "start": 31.24,
+     "end": 31.4
+    },
+    {
+     "w": "sa",
+     "start": 31.4,
+     "end": 31.6
+    },
+    {
+     "w": "vie,",
+     "start": 31.6,
+     "end": 31.82
+    },
+    {
+     "w": "ses",
+     "start": 31.96,
+     "end": 32.08
+    },
+    {
+     "w": "pouvoirs,",
+     "start": 32.08,
+     "end": 32.56
+    },
+    {
+     "w": "sa",
+     "start": 32.62,
+     "end": 32.7
+    },
+    {
+     "w": "progression.",
+     "start": 32.7,
+     "end": 33.14
+    },
+    {
+     "w": "Aizen",
+     "start": 33.54,
+     "end": 33.82
+    },
+    {
+     "w": "a",
+     "start": 33.82,
+     "end": 34.34
+    },
+    {
+     "w": "élevé",
+     "start": 34.34,
+     "end": 34.64
+    },
+    {
+     "w": "l'arme",
+     "start": 34.64,
+     "end": 34.92
+    },
+    {
+     "w": "qui",
+     "start": 34.92,
+     "end": 35.22
+    },
+    {
+     "w": "allait",
+     "start": 35.22,
+     "end": 35.4
+    },
+    {
+     "w": "sauver",
+     "start": 35.4,
+     "end": 35.8
+    },
+    {
+     "w": "le",
+     "start": 35.8,
+     "end": 36.04
+    },
+    {
+     "w": "monde.",
+     "start": 36.04,
+     "end": 36.22
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 36.38,
+   "end": 40.1,
+   "slot_end": 40.33,
+   "text": "Si t'aimes quand on démonte Bleach comme ça, abonne-toi, j'en sors toutes les semaines.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 36.38,
+     "end": 36.52
+    },
+    {
+     "w": "t'aimes",
+     "start": 36.52,
+     "end": 36.76
+    },
+    {
+     "w": "quand",
+     "start": 36.76,
+     "end": 36.98
+    },
+    {
+     "w": "on",
+     "start": 36.98,
+     "end": 37.14
+    },
+    {
+     "w": "démonte",
+     "start": 37.14,
+     "end": 37.51
+    },
+    {
+     "w": "Bleach",
+     "start": 37.51,
+     "end": 37.88
+    },
+    {
+     "w": "comme",
+     "start": 37.88,
+     "end": 38.06
+    },
+    {
+     "w": "ça,",
+     "start": 38.06,
+     "end": 38.34
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 38.58,
+     "end": 38.98
+    },
+    {
+     "w": "j'en",
+     "start": 39.18,
+     "end": 39.28
+    },
+    {
+     "w": "sors",
+     "start": 39.28,
+     "end": 39.48
+    },
+    {
+     "w": "toutes",
+     "start": 39.48,
+     "end": 39.68
+    },
+    {
+     "w": "les",
+     "start": 39.68,
+     "end": 39.88
+    },
+    {
+     "w": "semaines.",
+     "start": 39.88,
+     "end": 40.1
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 40.44,
+   "end": 48.92,
+   "slot_end": 49.07,
+   "text": "Deuxième indice. Quand Yhwach débarque, Kyoraku descend chercher Aizen en prison. Le Gotei 13 libère son pire ennemi.",
+   "words": [
+    {
+     "w": "Deuxième",
+     "start": 40.44,
+     "end": 40.76
+    },
+    {
+     "w": "indice.",
+     "start": 40.76,
+     "end": 41.22
+    },
+    {
+     "w": "Quand",
+     "start": 41.84,
+     "end": 42.0
+    },
+    {
+     "w": "Yhwach",
+     "start": 42.0,
+     "end": 42.66
+    },
+    {
+     "w": "débarque,",
+     "start": 42.66,
+     "end": 43.28
+    },
+    {
+     "w": "Kyoraku",
+     "start": 43.54,
+     "end": 43.88
+    },
+    {
+     "w": "descend",
+     "start": 43.88,
+     "end": 44.3
+    },
+    {
+     "w": "chercher",
+     "start": 44.3,
+     "end": 44.72
+    },
+    {
+     "w": "Aizen",
+     "start": 44.72,
+     "end": 45.3
+    },
+    {
+     "w": "en",
+     "start": 45.3,
+     "end": 45.58
+    },
+    {
+     "w": "prison.",
+     "start": 45.58,
+     "end": 45.86
+    },
+    {
+     "w": "Le",
+     "start": 46.76,
+     "end": 46.92
+    },
+    {
+     "w": "Gotei",
+     "start": 46.92,
+     "end": 47.16
+    },
+    {
+     "w": "13",
+     "start": 47.16,
+     "end": 47.58
+    },
+    {
+     "w": "libère",
+     "start": 47.58,
+     "end": 48.04
+    },
+    {
+     "w": "son",
+     "start": 48.04,
+     "end": 48.24
+    },
+    {
+     "w": "pire",
+     "start": 48.24,
+     "end": 48.58
+    },
+    {
+     "w": "ennemi.",
+     "start": 48.58,
+     "end": 48.92
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 49.08,
+   "end": 53.855,
+   "slot_end": 53.955,
+   "text": "Un mec comme Aizen qui sort pile au bon moment, tu crois vraiment qu'il avait pas prévu le coup ?",
+   "words": [
+    {
+     "w": "Un",
+     "start": 49.08,
+     "end": 49.22
+    },
+    {
+     "w": "mec",
+     "start": 49.22,
+     "end": 49.36
+    },
+    {
+     "w": "comme",
+     "start": 49.36,
+     "end": 49.58
+    },
+    {
+     "w": "Aizen",
+     "start": 49.58,
+     "end": 49.82
+    },
+    {
+     "w": "qui",
+     "start": 49.82,
+     "end": 50.2
+    },
+    {
+     "w": "sort",
+     "start": 50.2,
+     "end": 50.5
+    },
+    {
+     "w": "pile",
+     "start": 50.5,
+     "end": 51.02
+    },
+    {
+     "w": "au",
+     "start": 51.02,
+     "end": 51.2
+    },
+    {
+     "w": "bon",
+     "start": 51.2,
+     "end": 51.34
+    },
+    {
+     "w": "moment,",
+     "start": 51.34,
+     "end": 51.64
+    },
+    {
+     "w": "tu",
+     "start": 51.82,
+     "end": 51.9
+    },
+    {
+     "w": "crois",
+     "start": 51.9,
+     "end": 52.18
+    },
+    {
+     "w": "vraiment",
+     "start": 52.18,
+     "end": 52.56
+    },
+    {
+     "w": "qu'il",
+     "start": 52.56,
+     "end": 52.8
+    },
+    {
+     "w": "avait",
+     "start": 52.94,
+     "end": 52.99
+    },
+    {
+     "w": "pas",
+     "start": 52.94,
+     "end": 53.18
+    },
+    {
+     "w": "prévu",
+     "start": 53.18,
+     "end": 53.44
+    },
+    {
+     "w": "le",
+     "start": 53.44,
+     "end": 53.62
+    },
+    {
+     "w": "coup",
+     "start": 53.62,
+     "end": 53.78
+    },
+    {
+     "w": "?",
+     "start": 53.78,
+     "end": 53.855
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 53.96,
+   "end": 59.64,
+   "slot_end": 59.911,
+   "text": "Troisième indice, le plus lourd. The Almighty, le pouvoir de Yhwach, voit l'avenir et peut le réécrire.",
+   "words": [
+    {
+     "w": "Troisième",
+     "start": 53.96,
+     "end": 54.3
+    },
+    {
+     "w": "indice,",
+     "start": 54.3,
+     "end": 54.7
+    },
+    {
+     "w": "le",
+     "start": 54.86,
+     "end": 54.96
+    },
+    {
+     "w": "plus",
+     "start": 54.96,
+     "end": 55.24
+    },
+    {
+     "w": "lourd.",
+     "start": 55.24,
+     "end": 55.5
+    },
+    {
+     "w": "The",
+     "start": 55.5,
+     "end": 55.72
+    },
+    {
+     "w": "Almighty,",
+     "start": 55.72,
+     "end": 56.1
+    },
+    {
+     "w": "le",
+     "start": 56.5,
+     "end": 56.62
+    },
+    {
+     "w": "pouvoir",
+     "start": 56.62,
+     "end": 56.92
+    },
+    {
+     "w": "de",
+     "start": 56.92,
+     "end": 57.12
+    },
+    {
+     "w": "Yhwach,",
+     "start": 57.12,
+     "end": 57.54
+    },
+    {
+     "w": "voit",
+     "start": 57.78,
+     "end": 58.02
+    },
+    {
+     "w": "l'avenir",
+     "start": 58.02,
+     "end": 58.62
+    },
+    {
+     "w": "et",
+     "start": 58.62,
+     "end": 58.84
+    },
+    {
+     "w": "peut",
+     "start": 58.84,
+     "end": 58.98
+    },
+    {
+     "w": "le",
+     "start": 58.98,
+     "end": 59.2
+    },
+    {
+     "w": "réécrire.",
+     "start": 59.2,
+     "end": 59.64
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 59.98,
+   "end": 66.38,
+   "slot_end": 66.586,
+   "text": "Sauf qu'au moment décisif, c'est l'illusion de Kyoka Suigetsu qui le piège. Aizen trompe le seul mec qui voit le futur.",
+   "words": [
+    {
+     "w": "Sauf",
+     "start": 59.98,
+     "end": 60.12
+    },
+    {
+     "w": "qu'au",
+     "start": 60.12,
+     "end": 60.56
+    },
+    {
+     "w": "moment",
+     "start": 60.56,
+     "end": 60.8
+    },
+    {
+     "w": "décisif,",
+     "start": 60.8,
+     "end": 61.46
+    },
+    {
+     "w": "c'est",
+     "start": 61.62,
+     "end": 61.72
+    },
+    {
+     "w": "l'illusion",
+     "start": 61.72,
+     "end": 62.3
+    },
+    {
+     "w": "de",
+     "start": 62.3,
+     "end": 62.56
+    },
+    {
+     "w": "Kyoka",
+     "start": 62.56,
+     "end": 63.06
+    },
+    {
+     "w": "Suigetsu",
+     "start": 63.06,
+     "end": 63.56
+    },
+    {
+     "w": "qui",
+     "start": 63.56,
+     "end": 63.74
+    },
+    {
+     "w": "le",
+     "start": 63.74,
+     "end": 63.94
+    },
+    {
+     "w": "piège.",
+     "start": 63.94,
+     "end": 64.34
+    },
+    {
+     "w": "Aizen",
+     "start": 64.48,
+     "end": 64.72
+    },
+    {
+     "w": "trompe",
+     "start": 64.72,
+     "end": 64.92
+    },
+    {
+     "w": "le",
+     "start": 64.92,
+     "end": 65.12
+    },
+    {
+     "w": "seul",
+     "start": 65.12,
+     "end": 65.4
+    },
+    {
+     "w": "mec",
+     "start": 65.46,
+     "end": 65.6
+    },
+    {
+     "w": "qui",
+     "start": 65.6,
+     "end": 65.78
+    },
+    {
+     "w": "voit",
+     "start": 65.78,
+     "end": 65.94
+    },
+    {
+     "w": "le",
+     "start": 65.94,
+     "end": 66.06
+    },
+    {
+     "w": "futur.",
+     "start": 66.06,
+     "end": 66.38
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 66.64,
+   "end": 68.88,
+   "slot_end": 69.058,
+   "text": "Bon, la flèche d'Uryu a aidé aussi, faut être honnête.",
+   "words": [
+    {
+     "w": "Bon,",
+     "start": 66.64,
+     "end": 66.74
+    },
+    {
+     "w": "la",
+     "start": 66.84,
+     "end": 66.92
+    },
+    {
+     "w": "flèche",
+     "start": 66.92,
+     "end": 67.14
+    },
+    {
+     "w": "d'Uryu",
+     "start": 67.14,
+     "end": 67.48
+    },
+    {
+     "w": "a",
+     "start": 67.48,
+     "end": 67.65
+    },
+    {
+     "w": "aidé",
+     "start": 67.65,
+     "end": 67.82
+    },
+    {
+     "w": "aussi,",
+     "start": 67.82,
+     "end": 68.12
+    },
+    {
+     "w": "faut",
+     "start": 68.32,
+     "end": 68.37
+    },
+    {
+     "w": "être",
+     "start": 68.36,
+     "end": 68.54
+    },
+    {
+     "w": "honnête.",
+     "start": 68.54,
+     "end": 68.88
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 69.14,
+   "end": 75.84,
+   "slot_end": 76.016,
+   "text": "Et le rêve d'Aizen, c'était de renverser le Roi des Esprits. À la fin, le Roi est détruit, et c'est pas lui qui s'est sali les mains.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 69.14,
+     "end": 69.19
+    },
+    {
+     "w": "le",
+     "start": 69.14,
+     "end": 69.28
+    },
+    {
+     "w": "rêve",
+     "start": 69.28,
+     "end": 69.46
+    },
+    {
+     "w": "d'Aizen,",
+     "start": 69.46,
+     "end": 69.82
+    },
+    {
+     "w": "c'était",
+     "start": 70.0,
+     "end": 70.16
+    },
+    {
+     "w": "de",
+     "start": 70.16,
+     "end": 70.42
+    },
+    {
+     "w": "renverser",
+     "start": 70.42,
+     "end": 70.98
+    },
+    {
+     "w": "le",
+     "start": 70.98,
+     "end": 71.16
+    },
+    {
+     "w": "Roi",
+     "start": 71.16,
+     "end": 71.42
+    },
+    {
+     "w": "des",
+     "start": 71.42,
+     "end": 71.58
+    },
+    {
+     "w": "Esprits.",
+     "start": 71.58,
+     "end": 71.9
+    },
+    {
+     "w": "À",
+     "start": 72.02,
+     "end": 72.1
+    },
+    {
+     "w": "la",
+     "start": 72.1,
+     "end": 72.18
+    },
+    {
+     "w": "fin,",
+     "start": 72.18,
+     "end": 72.42
+    },
+    {
+     "w": "le",
+     "start": 72.96,
+     "end": 73.12
+    },
+    {
+     "w": "Roi",
+     "start": 73.12,
+     "end": 73.4
+    },
+    {
+     "w": "est",
+     "start": 73.4,
+     "end": 73.54
+    },
+    {
+     "w": "détruit,",
+     "start": 73.54,
+     "end": 73.88
+    },
+    {
+     "w": "et",
+     "start": 73.88,
+     "end": 74.5
+    },
+    {
+     "w": "c'est",
+     "start": 74.5,
+     "end": 74.66
+    },
+    {
+     "w": "pas",
+     "start": 74.66,
+     "end": 74.82
+    },
+    {
+     "w": "lui",
+     "start": 74.82,
+     "end": 74.94
+    },
+    {
+     "w": "qui",
+     "start": 74.94,
+     "end": 75.08
+    },
+    {
+     "w": "s'est",
+     "start": 75.08,
+     "end": 75.387
+    },
+    {
+     "w": "sali",
+     "start": 75.387,
+     "end": 75.54
+    },
+    {
+     "w": "les",
+     "start": 75.54,
+     "end": 75.68
+    },
+    {
+     "w": "mains.",
+     "start": 75.68,
+     "end": 75.84
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 76.02,
+   "end": 82.04,
+   "slot_end": 81.478,
+   "text": "Ce qui contredit tout ça ? Aizen retourne en prison. S'il avait tout prévu, pourquoi il est encore attaché ?",
+   "words": [
+    {
+     "w": "Ce",
+     "start": 76.02,
+     "end": 76.24
+    },
+    {
+     "w": "qui",
+     "start": 76.24,
+     "end": 76.42
+    },
+    {
+     "w": "contredit",
+     "start": 76.42,
+     "end": 76.78
+    },
+    {
+     "w": "tout",
+     "start": 76.78,
+     "end": 77.02
+    },
+    {
+     "w": "ça",
+     "start": 77.02,
+     "end": 77.26
+    },
+    {
+     "w": "?",
+     "start": 77.26,
+     "end": 77.66
+    },
+    {
+     "w": "Aizen",
+     "start": 77.8,
+     "end": 78.1
+    },
+    {
+     "w": "retourne",
+     "start": 78.1,
+     "end": 78.6
+    },
+    {
+     "w": "en",
+     "start": 78.6,
+     "end": 78.7
+    },
+    {
+     "w": "prison.",
+     "start": 78.7,
+     "end": 78.94
+    },
+    {
+     "w": "S'il",
+     "start": 79.26,
+     "end": 79.32
+    },
+    {
+     "w": "avait",
+     "start": 79.32,
+     "end": 79.54
+    },
+    {
+     "w": "tout",
+     "start": 79.54,
+     "end": 79.7
+    },
+    {
+     "w": "prévu,",
+     "start": 79.7,
+     "end": 80.04
+    },
+    {
+     "w": "pourquoi",
+     "start": 80.24,
+     "end": 80.32
+    },
+    {
+     "w": "il",
+     "start": 80.32,
+     "end": 80.52
+    },
+    {
+     "w": "est",
+     "start": 80.52,
+     "end": 80.62
+    },
+    {
+     "w": "encore",
+     "start": 80.62,
+     "end": 80.78
+    },
+    {
+     "w": "attaché",
+     "start": 80.78,
+     "end": 81.3
+    },
+    {
+     "w": "?",
+     "start": 81.86,
+     "end": 82.04
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 82.04,
+   "end": 87.36,
+   "slot_end": 87.446,
+   "text": "Perso j'ai une réponse, et elle fait peur. Aizen se fiche d'être libre, il voulait juste prouver qu'il avait raison.",
+   "words": [
+    {
+     "w": "Perso",
+     "start": 82.04,
+     "end": 82.22
+    },
+    {
+     "w": "j'ai",
+     "start": 82.28,
+     "end": 82.38
+    },
+    {
+     "w": "une",
+     "start": 82.38,
+     "end": 82.52
+    },
+    {
+     "w": "réponse,",
+     "start": 82.52,
+     "end": 82.92
+    },
+    {
+     "w": "et",
+     "start": 82.92,
+     "end": 83.42
+    },
+    {
+     "w": "elle",
+     "start": 83.42,
+     "end": 83.58
+    },
+    {
+     "w": "fait",
+     "start": 83.58,
+     "end": 83.72
+    },
+    {
+     "w": "peur.",
+     "start": 83.72,
+     "end": 83.92
+    },
+    {
+     "w": "Aizen",
+     "start": 83.92,
+     "end": 84.34
+    },
+    {
+     "w": "se",
+     "start": 84.34,
+     "end": 84.56
+    },
+    {
+     "w": "fiche",
+     "start": 84.56,
+     "end": 84.78
+    },
+    {
+     "w": "d'être",
+     "start": 84.78,
+     "end": 84.96
+    },
+    {
+     "w": "libre,",
+     "start": 84.96,
+     "end": 85.34
+    },
+    {
+     "w": "il",
+     "start": 85.52,
+     "end": 85.57
+    },
+    {
+     "w": "voulait",
+     "start": 85.56,
+     "end": 85.84
+    },
+    {
+     "w": "juste",
+     "start": 85.84,
+     "end": 86.02
+    },
+    {
+     "w": "prouver",
+     "start": 86.02,
+     "end": 86.5
+    },
+    {
+     "w": "qu'il",
+     "start": 86.5,
+     "end": 86.72
+    },
+    {
+     "w": "avait",
+     "start": 86.72,
+     "end": 87.04
+    },
+    {
+     "w": "raison.",
+     "start": 87.04,
+     "end": 87.36
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "start": 87.46,
+   "end": 92.419,
+   "slot_end": 92.519,
+   "text": "Alors dis-moi en com', Aizen c'est le génie ultime, ou il a juste eu de la chance ?",
+   "words": [
+    {
+     "w": "Alors",
+     "start": 87.46,
+     "end": 87.66
+    },
+    {
+     "w": "dis-moi",
+     "start": 87.66,
+     "end": 87.92
+    },
+    {
+     "w": "en",
+     "start": 87.92,
+     "end": 88.04
+    },
+    {
+     "w": "com',",
+     "start": 88.04,
+     "end": 88.4
+    },
+    {
+     "w": "Aizen",
+     "start": 88.82,
+     "end": 89.12
+    },
+    {
+     "w": "c'est",
+     "start": 89.12,
+     "end": 89.4
+    },
+    {
+     "w": "le",
+     "start": 89.4,
+     "end": 89.54
+    },
+    {
+     "w": "génie",
+     "start": 89.54,
+     "end": 89.96
+    },
+    {
+     "w": "ultime,",
+     "start": 89.96,
+     "end": 90.56
+    },
+    {
+     "w": "ou",
+     "start": 90.56,
+     "end": 91.06
+    },
+    {
+     "w": "il",
+     "start": 91.06,
+     "end": 91.26
+    },
+    {
+     "w": "a",
+     "start": 91.26,
+     "end": 91.34
+    },
+    {
+     "w": "juste",
+     "start": 91.34,
+     "end": 91.6
+    },
+    {
+     "w": "eu",
+     "start": 91.6,
+     "end": 91.74
+    },
+    {
+     "w": "de",
+     "start": 91.74,
+     "end": 91.84
+    },
+    {
+     "w": "la",
+     "start": 91.84,
+     "end": 91.98
+    },
+    {
+     "w": "chance",
+     "start": 91.98,
+     "end": 92.24
+    },
+    {
+     "w": "?",
+     "start": 92.24,
+     "end": 92.419
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "start": 92.5,
+   "end": 95.18,
+   "slot_end": 96.012,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 92.5,
+     "end": 92.82
+    },
+    {
+     "w": "Asura.",
+     "start": 92.82,
+     "end": 93.36
+    },
+    {
+     "w": "On",
+     "start": 93.76,
+     "end": 93.9
+    },
+    {
+     "w": "se",
+     "start": 93.9,
+     "end": 94.04
+    },
+    {
+     "w": "capte",
+     "start": 94.04,
+     "end": 94.18
+    },
+    {
+     "w": "au",
+     "start": 94.18,
+     "end": 94.44
+    },
+    {
+     "w": "prochain",
+     "start": 94.44,
+     "end": 94.74
+    },
+    {
+     "w": "épisode.",
+     "start": 94.74,
+     "end": 95.18
+    }
+   ]
+  }
+ ],
+ "aligned": 0.99
+}
