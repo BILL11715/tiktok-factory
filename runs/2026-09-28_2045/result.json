@@ -1,0 +1,22 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-09-28_2045/video.mp4",
+ "duration": 93.41,
+ "shots": 68,
+ "sources": [
+  "https://anilist.co/anime/120377",
+  "https://anilist.co/anime/195539",
+  "https://kitsu.io/anime/cyberpunk-edgerunners"
+ ],
+ "music": {
+  "file": "mystere.mp3",
+  "bpm": 152.0,
+  "offset": 11.590000000000003
+ },
+ "sfx": 23,
+ "engine": "remotion (OpenMontage)",
+ "voice_engine": "clone",
+ "repo_path": "videos/2026/09/2026-09-28_2045.mp4",
+ "raw_url": "https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/videos/2026/09/2026-09-28_2045.mp4",
+ "lint": [],
+ "render_seconds": 2155.6
+}

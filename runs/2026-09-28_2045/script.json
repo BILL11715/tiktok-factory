@@ -1,0 +1,129 @@
+{
+ "title": "Théorie Edgerunners 2 : Lucy va revenir",
+ "format": "theorie",
+ "tone": "conteur",
+ "music": "mystere",
+ "animes": [
+  "Cyberpunk: Edgerunners 2",
+  "Cyberpunk: Edgerunners"
+ ],
+ "hook_text": "Lucy va revenir dans Edgerunners 2, et le scénariste s'est trahi tout seul",
+ "spoiler": true,
+ "spoiler_label": "fin de la saison 1",
+ "segments": [
+  {
+   "text": "Lucy va revenir dans Edgerunners 2, et le scénariste s'est trahi tout seul.",
+   "sfx": true,
+   "emphasis": [
+    "Lucy",
+    "trahi"
+   ]
+  },
+  {
+   "text": "[whispering] Attention, ça spoile la fin de la saison 1. Et reste jusqu'au bout, le deuxième indice est le plus chaud.",
+   "emphasis": [
+    "spoile"
+   ]
+  },
+  {
+   "text": "Petit rappel. Edgerunners 2 sort le 20 octobre sur Netflix, dix épisodes, avec des persos tout neufs.",
+   "emphasis": [
+    "20 octobre"
+   ]
+  },
+  {
+   "text": "Donc sur le papier, Lucy a rien à faire là. Sauf que y'a trois trucs qui me font tiquer.",
+   "emphasis": [
+    "tiquer"
+   ]
+  },
+  {
+   "text": "[sad] Premier indice, la fin de la saison 1. Rebecca tombe, puis David meurt face à Adam Smasher, et frr j'm'en suis toujours pas remis.",
+   "grade": "bw",
+   "emphasis": [
+    "David"
+   ],
+   "shots": [
+    {
+     "anime": "Cyberpunk: Edgerunners",
+     "kind": "character",
+     "character": "Adam Smasher",
+     "at": "Smasher"
+    }
+   ]
+  },
+  {
+   "text": "Mais Lucy, elle, elle survit. Elle finit sur la Lune, le rêve qu'elle avait avec David. Vivante, et toute seule.",
+   "grade": "bw",
+   "emphasis": [
+    "Lune"
+   ],
+   "shots": [
+    {
+     "anime": "Cyberpunk: Edgerunners",
+     "kind": "character",
+     "character": "Lucy",
+     "at": "Lucy"
+    }
+   ]
+  },
+  {
+   "text": "D'ailleurs si tu kiffes les théories comme ça, abonne-toi, j'en sors tous les jours, et le 20 octobre on verra qui avait raison.",
+   "cta": true
+  },
+  {
+   "text": "[excited] Deuxième indice, le plus chaud. À l'Anime Expo 2025, Bartosz Sztybor, le scénariste, fait le point sur les morts.",
+   "sfx": true,
+   "emphasis": [
+    "scénariste"
+   ]
+  },
+  {
+   "text": "Il confirme que David est mort. Il confirme que Rebecca est morte. Et là il dit, et Lucy est... Et il s'arrête net. Il passe à autre chose.",
+   "sfx": true,
+   "stamp": "SUSPECT",
+   "emphasis": [
+    "s'arrête"
+   ]
+  },
+  {
+   "text": "[laughing] T'avais une phrase super facile à finir, et tu la finis pas. Ça, c'est pas un oubli, c'est du teasing.",
+   "emphasis": [
+    "teasing"
+   ]
+  },
+  {
+   "text": "Troisième indice, Edgerunners se passe dans le monde de Cyberpunk 2077. Et Lucy, c'est une netrunneuse de fou, toujours vivante.",
+   "emphasis": [
+    "vivante"
+   ]
+  },
+  {
+   "text": "Mon avis, elle revient pas en héroïne principale. Plutôt en caméo, le genre de scène qui te détruit en deux secondes.",
+   "emphasis": [
+    "caméo"
+   ]
+  },
+  {
+   "text": "[sigh] Après, y'a un vrai contre-argument. C'est censé être une nouvelle histoire, et ramener Lucy pourrait gâcher une fin quasi parfaite.",
+   "emphasis": [
+    "contre-argument"
+   ]
+  },
+  {
+   "text": "Donc ouais, ça reste une théorie. Mais moi j'y crois à fond. Et toi, tu veux revoir Lucy, ou tu la laisses tranquille sur la Lune ?",
+   "emphasis": [
+    "Lune"
+   ]
+  }
+ ],
+ "caption": "Le scénariste a laissé une phrase en suspens et franchement ça change tout 👀 Lucy doit revenir ou pas ?",
+ "hashtags": [
+  "#anime",
+  "#manga",
+  "#animefr",
+  "#otakufr",
+  "#cyberpunkedgerunners",
+  "#theorie"
+ ]
+}
