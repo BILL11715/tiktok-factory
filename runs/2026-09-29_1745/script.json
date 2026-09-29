@@ -1,0 +1,30 @@
+{
+  "title": "Reco : le loser qui remonte 12 ans en arrière pour sauver son ex",
+  "format": "reco",
+  "tone": "pote",
+  "music": "pote",
+  "animes": ["Tokyo Revengers: Santen Sensou-hen"],
+  "hook_text": "Un loser de 26 ans remonte 12 ans en arrière pour sauver son ex",
+  "spoiler": false,
+  "segments": [
+    {"text": "Un loser de 26 ans remonte 12 ans en arrière pour sauver son ex.", "sfx": true, "emphasis": ["12 ans"]},
+    {"text": "[whispering] Le nom de l'anime, j'te le donne à la fin, parce que la suite sort dans quelques jours à peine."},
+    {"text": "Le mec s'appelle Takemichi. Petit boulot, appart pourri, il s'excuse même devant des gens plus jeunes que lui.", "emphasis": ["Takemichi"]},
+    {"text": "Un soir, il apprend aux infos que Hina, sa copine du collège, est morte. Tuée à cause d'un gang.", "grade": "bw", "emphasis": ["Hina"]},
+    {"text": "Le lendemain, il se fait pousser sur les rails du métro. Et au lieu de mourir, il se réveille au collège.", "sfx": true, "emphasis": ["collège"]},
+    {"text": "[excited] Et là t'as le concept qui m'a rendu accro. Chaque fois qu'il serre la main de Naoto, le petit frère de Hina, il saute entre le passé et le présent.", "emphasis": ["Naoto"]},
+    {"text": "Tout ce qu'il change au collège modifie le futur. Sauf que la moitié du temps, il rend les choses encore pires."},
+    {"text": "Si t'aimes quand je te sors ce genre d'anime avant tout le monde, abonne-toi, y'a une reco tous les jours ici.", "cta": true},
+    {"text": "Pour sauver Hina, il doit grimper dans le gang le plus dangereux de Tokyo, le Toman. Lui qui sait même pas se battre, frr.", "emphasis": ["Toman"]},
+    {"text": "Et le chef, c'est Mikey. Il a l'air d'un collégien tranquille, et il met des mecs KO d'un seul coup de pied.", "sfx": true, "stamp": "INVINCIBLE", "emphasis": ["Mikey"]},
+    {"text": "[laughing] À côté t'as Draken, son bras droit, avec le dragon tatoué sur la tempe. Mon perso préféré de toute la série, j'assume.", "emphasis": ["Draken"]},
+    {"text": "Mon avis, franchement ? Le début est un peu lent, et Takemichi pleure beaucoup trop. Mais une fois que ça démarre, tu enchaînes les épisodes sans t'en rendre compte."},
+    {"text": "Et le pire, c'est que plus il sauve de monde, plus il comprend que le vrai danger, c'est pas forcément le gang.", "grade": "bw"},
+    {"text": "[excited] La nouvelle saison, l'arc des trois dieux, commence le 3 octobre. Trois gangs qui se partagent Tokyo, et Mikey est au milieu de tout ça.", "emphasis": ["3 octobre"]},
+    {"text": "T'as encore quelques jours pour rattraper les saisons d'avant. Dis-moi en com' si t'es team Mikey ou team Draken."}
+  ],
+  "reveal_text": "Tokyo Revengers",
+  "reveal_segments": 1,
+  "caption": "Il remonte le temps pour la sauver, et il empire tout 😭 t'es team Mikey ou team Draken ?",
+  "hashtags": ["#anime", "#manga", "#animefr", "#tokyorevengers", "#recommandationanime"]
+}
