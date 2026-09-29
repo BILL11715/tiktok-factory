@@ -1,0 +1,16 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-09-29_2045/video.mp4",
+ "duration": 89.425,
+ "shots": 62,
+ "sources": [
+  "https://anilist.co/anime/160275",
+  "https://kitsu.io/anime/Made-in-Abyss-Mezameru-Shinpi"
+ ],
+ "music": {
+  "file": "hype2.mp3",
+  "bpm": 92.3,
+  "offset": 12.375
+ },
+ "sfx": 25,
+ "engine": "remotion (OpenMontage)"
+}
