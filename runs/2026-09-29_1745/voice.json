@@ -1,0 +1,1827 @@
+{
+ "engine": "clone",
+ "path": "/home/claude/tiktok-factory/runs/2026-09-29_1745/voice.wav",
+ "duration": 86.396,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 3.74,
+   "slot_end": 3.924,
+   "text": "Un loser de 26 ans remonte 12 ans en arrière pour sauver son ex.",
+   "words": [
+    {
+     "w": "Un",
+     "start": 0.0,
+     "end": 0.1
+    },
+    {
+     "w": "loser",
+     "start": 0.1,
+     "end": 0.4
+    },
+    {
+     "w": "de",
+     "start": 0.4,
+     "end": 0.46
+    },
+    {
+     "w": "26",
+     "start": 0.46,
+     "end": 0.8
+    },
+    {
+     "w": "ans",
+     "start": 0.8,
+     "end": 1.1
+    },
+    {
+     "w": "remonte",
+     "start": 1.1,
+     "end": 1.84
+    },
+    {
+     "w": "12",
+     "start": 1.84,
+     "end": 2.1
+    },
+    {
+     "w": "ans",
+     "start": 2.1,
+     "end": 2.32
+    },
+    {
+     "w": "en",
+     "start": 2.32,
+     "end": 2.48
+    },
+    {
+     "w": "arrière",
+     "start": 2.48,
+     "end": 2.9
+    },
+    {
+     "w": "pour",
+     "start": 2.9,
+     "end": 3.06
+    },
+    {
+     "w": "sauver",
+     "start": 3.06,
+     "end": 3.3
+    },
+    {
+     "w": "son",
+     "start": 3.3,
+     "end": 3.48
+    },
+    {
+     "w": "ex.",
+     "start": 3.48,
+     "end": 3.74
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 3.92,
+   "end": 7.34,
+   "slot_end": 10.43,
+   "text": "Le nom de l'anime, j'te le donne à la fin, parce que la suite sort dans quelques jours à peine.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 3.92,
+     "end": 4.02
+    },
+    {
+     "w": "nom",
+     "start": 4.02,
+     "end": 4.16
+    },
+    {
+     "w": "de",
+     "start": 4.16,
+     "end": 4.24
+    },
+    {
+     "w": "l'anime,",
+     "start": 4.24,
+     "end": 4.58
+    },
+    {
+     "w": "j'te",
+     "start": 4.62,
+     "end": 4.82
+    },
+    {
+     "w": "le",
+     "start": 4.82,
+     "end": 4.92
+    },
+    {
+     "w": "donne",
+     "start": 4.92,
+     "end": 5.06
+    },
+    {
+     "w": "à",
+     "start": 5.06,
+     "end": 5.14
+    },
+    {
+     "w": "la",
+     "start": 5.14,
+     "end": 5.24
+    },
+    {
+     "w": "fin,",
+     "start": 5.24,
+     "end": 5.42
+    },
+    {
+     "w": "parce",
+     "start": 5.42,
+     "end": 5.64
+    },
+    {
+     "w": "que",
+     "start": 5.64,
+     "end": 5.82
+    },
+    {
+     "w": "la",
+     "start": 5.82,
+     "end": 6.02
+    },
+    {
+     "w": "suite",
+     "start": 6.02,
+     "end": 6.18
+    },
+    {
+     "w": "sort",
+     "start": 6.18,
+     "end": 6.44
+    },
+    {
+     "w": "dans",
+     "start": 6.44,
+     "end": 6.56
+    },
+    {
+     "w": "quelques",
+     "start": 6.56,
+     "end": 6.7
+    },
+    {
+     "w": "jours",
+     "start": 6.7,
+     "end": 6.96
+    },
+    {
+     "w": "à",
+     "start": 6.96,
+     "end": 7.12
+    },
+    {
+     "w": "peine.",
+     "start": 7.12,
+     "end": 7.34
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 10.24,
+   "end": 14.56,
+   "slot_end": 16.357,
+   "text": "Le mec s'appelle Takemichi. Petit boulot, appart pourri, il s'excuse même devant des gens plus jeunes que lui.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 10.24,
+     "end": 10.29
+    },
+    {
+     "w": "mec",
+     "start": 10.24,
+     "end": 10.66
+    },
+    {
+     "w": "s'appelle",
+     "start": 10.66,
+     "end": 10.88
+    },
+    {
+     "w": "Takemichi.",
+     "start": 10.88,
+     "end": 11.44
+    },
+    {
+     "w": "Petit",
+     "start": 11.6,
+     "end": 11.78
+    },
+    {
+     "w": "boulot,",
+     "start": 11.78,
+     "end": 12.08
+    },
+    {
+     "w": "appart",
+     "start": 12.16,
+     "end": 12.3
+    },
+    {
+     "w": "pourri,",
+     "start": 12.3,
+     "end": 12.62
+    },
+    {
+     "w": "il",
+     "start": 12.94,
+     "end": 13.02
+    },
+    {
+     "w": "s'excuse",
+     "start": 13.02,
+     "end": 13.28
+    },
+    {
+     "w": "même",
+     "start": 13.28,
+     "end": 13.48
+    },
+    {
+     "w": "devant",
+     "start": 13.48,
+     "end": 13.72
+    },
+    {
+     "w": "des",
+     "start": 13.72,
+     "end": 13.86
+    },
+    {
+     "w": "gens",
+     "start": 13.86,
+     "end": 13.94
+    },
+    {
+     "w": "plus",
+     "start": 13.94,
+     "end": 14.08
+    },
+    {
+     "w": "jeunes",
+     "start": 14.08,
+     "end": 14.22
+    },
+    {
+     "w": "que",
+     "start": 14.22,
+     "end": 14.4
+    },
+    {
+     "w": "lui.",
+     "start": 14.4,
+     "end": 14.56
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 16.14,
+   "end": 20.64,
+   "slot_end": 20.944,
+   "text": "Un soir, il apprend aux infos que Hina, sa copine du collège, est morte. Tuée à cause d'un gang.",
+   "words": [
+    {
+     "w": "Un",
+     "start": 16.14,
+     "end": 16.46
+    },
+    {
+     "w": "soir,",
+     "start": 16.46,
+     "end": 16.62
+    },
+    {
+     "w": "il",
+     "start": 16.62,
+     "end": 16.8
+    },
+    {
+     "w": "apprend",
+     "start": 16.8,
+     "end": 17.02
+    },
+    {
+     "w": "aux",
+     "start": 17.02,
+     "end": 17.16
+    },
+    {
+     "w": "infos",
+     "start": 17.16,
+     "end": 17.4
+    },
+    {
+     "w": "que",
+     "start": 17.4,
+     "end": 17.56
+    },
+    {
+     "w": "Hina,",
+     "start": 17.56,
+     "end": 17.82
+    },
+    {
+     "w": "sa",
+     "start": 17.96,
+     "end": 18.04
+    },
+    {
+     "w": "copine",
+     "start": 18.04,
+     "end": 18.3
+    },
+    {
+     "w": "du",
+     "start": 18.3,
+     "end": 18.44
+    },
+    {
+     "w": "collège,",
+     "start": 18.44,
+     "end": 18.78
+    },
+    {
+     "w": "est",
+     "start": 18.78,
+     "end": 19.06
+    },
+    {
+     "w": "morte.",
+     "start": 19.06,
+     "end": 19.3
+    },
+    {
+     "w": "Tuée",
+     "start": 19.92,
+     "end": 20.06
+    },
+    {
+     "w": "à",
+     "start": 20.06,
+     "end": 20.14
+    },
+    {
+     "w": "cause",
+     "start": 20.14,
+     "end": 20.26
+    },
+    {
+     "w": "d'un",
+     "start": 20.26,
+     "end": 20.44
+    },
+    {
+     "w": "gang.",
+     "start": 20.44,
+     "end": 20.64
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 21.02,
+   "end": 25.4,
+   "slot_end": 25.495,
+   "text": "Le lendemain, il se fait pousser sur les rails du métro. Et au lieu de mourir, il se réveille au collège.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 21.02,
+     "end": 21.1
+    },
+    {
+     "w": "lendemain,",
+     "start": 21.1,
+     "end": 21.6
+    },
+    {
+     "w": "il",
+     "start": 21.62,
+     "end": 21.78
+    },
+    {
+     "w": "se",
+     "start": 21.78,
+     "end": 21.92
+    },
+    {
+     "w": "fait",
+     "start": 21.92,
+     "end": 22.06
+    },
+    {
+     "w": "pousser",
+     "start": 22.06,
+     "end": 22.4
+    },
+    {
+     "w": "sur",
+     "start": 22.4,
+     "end": 22.56
+    },
+    {
+     "w": "les",
+     "start": 22.56,
+     "end": 22.72
+    },
+    {
+     "w": "rails",
+     "start": 22.72,
+     "end": 22.86
+    },
+    {
+     "w": "du",
+     "start": 22.86,
+     "end": 23.04
+    },
+    {
+     "w": "métro.",
+     "start": 23.04,
+     "end": 23.36
+    },
+    {
+     "w": "Et",
+     "start": 23.56,
+     "end": 23.62
+    },
+    {
+     "w": "au",
+     "start": 23.62,
+     "end": 23.76
+    },
+    {
+     "w": "lieu",
+     "start": 23.76,
+     "end": 23.86
+    },
+    {
+     "w": "de",
+     "start": 23.86,
+     "end": 24.0
+    },
+    {
+     "w": "mourir,",
+     "start": 24.0,
+     "end": 24.36
+    },
+    {
+     "w": "il",
+     "start": 24.48,
+     "end": 24.54
+    },
+    {
+     "w": "se",
+     "start": 24.54,
+     "end": 24.7
+    },
+    {
+     "w": "réveille",
+     "start": 24.7,
+     "end": 24.96
+    },
+    {
+     "w": "au",
+     "start": 24.96,
+     "end": 25.04
+    },
+    {
+     "w": "collège.",
+     "start": 25.04,
+     "end": 25.4
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 25.54,
+   "end": 32.92,
+   "slot_end": 33.086,
+   "text": "Et là t'as le concept qui m'a rendu accro. Chaque fois qu'il serre la main de Naoto, le petit frère de Hina, il saute entre le passé et le présent.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 25.54,
+     "end": 25.59
+    },
+    {
+     "w": "là",
+     "start": 25.58,
+     "end": 25.66
+    },
+    {
+     "w": "t'as",
+     "start": 25.66,
+     "end": 25.86
+    },
+    {
+     "w": "le",
+     "start": 25.86,
+     "end": 26.0
+    },
+    {
+     "w": "concept",
+     "start": 26.0,
+     "end": 26.22
+    },
+    {
+     "w": "qui",
+     "start": 26.22,
+     "end": 26.44
+    },
+    {
+     "w": "m'a",
+     "start": 26.44,
+     "end": 26.56
+    },
+    {
+     "w": "rendu",
+     "start": 26.56,
+     "end": 26.78
+    },
+    {
+     "w": "accro.",
+     "start": 26.78,
+     "end": 27.08
+    },
+    {
+     "w": "Chaque",
+     "start": 27.8,
+     "end": 28.12
+    },
+    {
+     "w": "fois",
+     "start": 28.12,
+     "end": 28.26
+    },
+    {
+     "w": "qu'il",
+     "start": 28.26,
+     "end": 28.42
+    },
+    {
+     "w": "serre",
+     "start": 28.42,
+     "end": 28.62
+    },
+    {
+     "w": "la",
+     "start": 28.62,
+     "end": 28.78
+    },
+    {
+     "w": "main",
+     "start": 28.78,
+     "end": 28.92
+    },
+    {
+     "w": "de",
+     "start": 28.92,
+     "end": 29.08
+    },
+    {
+     "w": "Naoto,",
+     "start": 29.08,
+     "end": 29.52
+    },
+    {
+     "w": "le",
+     "start": 30.0,
+     "end": 30.16
+    },
+    {
+     "w": "petit",
+     "start": 30.16,
+     "end": 30.36
+    },
+    {
+     "w": "frère",
+     "start": 30.36,
+     "end": 30.64
+    },
+    {
+     "w": "de",
+     "start": 30.64,
+     "end": 30.74
+    },
+    {
+     "w": "Hina,",
+     "start": 30.74,
+     "end": 31.0
+    },
+    {
+     "w": "il",
+     "start": 31.1,
+     "end": 31.44
+    },
+    {
+     "w": "saute",
+     "start": 31.44,
+     "end": 31.64
+    },
+    {
+     "w": "entre",
+     "start": 31.64,
+     "end": 31.86
+    },
+    {
+     "w": "le",
+     "start": 31.86,
+     "end": 32.02
+    },
+    {
+     "w": "passé",
+     "start": 32.02,
+     "end": 32.28
+    },
+    {
+     "w": "et",
+     "start": 32.28,
+     "end": 32.52
+    },
+    {
+     "w": "le",
+     "start": 32.52,
+     "end": 32.64
+    },
+    {
+     "w": "présent.",
+     "start": 32.64,
+     "end": 32.92
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 33.06,
+   "end": 37.3,
+   "slot_end": 37.48,
+   "text": "Tout ce qu'il change au collège modifie le futur. Sauf que la moitié du temps, il rend les choses encore pires.",
+   "words": [
+    {
+     "w": "Tout",
+     "start": 33.06,
+     "end": 33.18
+    },
+    {
+     "w": "ce",
+     "start": 33.18,
+     "end": 33.26
+    },
+    {
+     "w": "qu'il",
+     "start": 33.26,
+     "end": 33.36
+    },
+    {
+     "w": "change",
+     "start": 33.36,
+     "end": 33.62
+    },
+    {
+     "w": "au",
+     "start": 33.62,
+     "end": 33.78
+    },
+    {
+     "w": "collège",
+     "start": 33.78,
+     "end": 34.06
+    },
+    {
+     "w": "modifie",
+     "start": 34.06,
+     "end": 34.4
+    },
+    {
+     "w": "le",
+     "start": 34.4,
+     "end": 34.58
+    },
+    {
+     "w": "futur.",
+     "start": 34.58,
+     "end": 34.84
+    },
+    {
+     "w": "Sauf",
+     "start": 35.0,
+     "end": 35.2
+    },
+    {
+     "w": "que",
+     "start": 35.2,
+     "end": 35.38
+    },
+    {
+     "w": "la",
+     "start": 35.38,
+     "end": 35.46
+    },
+    {
+     "w": "moitié",
+     "start": 35.46,
+     "end": 35.68
+    },
+    {
+     "w": "du",
+     "start": 35.68,
+     "end": 35.82
+    },
+    {
+     "w": "temps,",
+     "start": 35.82,
+     "end": 36.04
+    },
+    {
+     "w": "il",
+     "start": 36.2,
+     "end": 36.3
+    },
+    {
+     "w": "rend",
+     "start": 36.3,
+     "end": 36.42
+    },
+    {
+     "w": "les",
+     "start": 36.42,
+     "end": 36.54
+    },
+    {
+     "w": "choses",
+     "start": 36.54,
+     "end": 36.7
+    },
+    {
+     "w": "encore",
+     "start": 36.7,
+     "end": 36.9
+    },
+    {
+     "w": "pires.",
+     "start": 36.9,
+     "end": 37.3
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 37.5,
+   "end": 41.92,
+   "slot_end": 42.12,
+   "text": "Si t'aimes quand je te sors ce genre d'anime avant tout le monde, abonne-toi, y'a une reco tous les jours ici.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 37.5,
+     "end": 37.62
+    },
+    {
+     "w": "t'aimes",
+     "start": 37.62,
+     "end": 37.88
+    },
+    {
+     "w": "quand",
+     "start": 37.88,
+     "end": 38.02
+    },
+    {
+     "w": "je",
+     "start": 38.02,
+     "end": 38.14
+    },
+    {
+     "w": "te",
+     "start": 38.14,
+     "end": 38.28
+    },
+    {
+     "w": "sors",
+     "start": 38.28,
+     "end": 38.56
+    },
+    {
+     "w": "ce",
+     "start": 38.56,
+     "end": 38.74
+    },
+    {
+     "w": "genre",
+     "start": 38.74,
+     "end": 38.9
+    },
+    {
+     "w": "d'anime",
+     "start": 38.9,
+     "end": 39.2
+    },
+    {
+     "w": "avant",
+     "start": 39.2,
+     "end": 39.36
+    },
+    {
+     "w": "tout",
+     "start": 39.36,
+     "end": 39.52
+    },
+    {
+     "w": "le",
+     "start": 39.52,
+     "end": 39.6
+    },
+    {
+     "w": "monde,",
+     "start": 39.6,
+     "end": 39.74
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 39.8,
+     "end": 40.72
+    },
+    {
+     "w": "y'a",
+     "start": 40.72,
+     "end": 40.77
+    },
+    {
+     "w": "une",
+     "start": 40.76,
+     "end": 40.92
+    },
+    {
+     "w": "reco",
+     "start": 40.92,
+     "end": 41.18
+    },
+    {
+     "w": "tous",
+     "start": 41.18,
+     "end": 41.32
+    },
+    {
+     "w": "les",
+     "start": 41.32,
+     "end": 41.46
+    },
+    {
+     "w": "jours",
+     "start": 41.46,
+     "end": 41.6
+    },
+    {
+     "w": "ici.",
+     "start": 41.6,
+     "end": 41.92
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 41.92,
+   "end": 47.56,
+   "slot_end": 47.671,
+   "text": "Pour sauver Hina, il doit grimper dans le gang le plus dangereux de Tokyo, le Toman. Lui qui sait même pas se battre, frr.",
+   "words": [
+    {
+     "w": "Pour",
+     "start": 41.92,
+     "end": 42.22
+    },
+    {
+     "w": "sauver",
+     "start": 42.22,
+     "end": 42.5
+    },
+    {
+     "w": "Hina,",
+     "start": 42.5,
+     "end": 42.86
+    },
+    {
+     "w": "il",
+     "start": 43.28,
+     "end": 43.4
+    },
+    {
+     "w": "doit",
+     "start": 43.4,
+     "end": 43.52
+    },
+    {
+     "w": "grimper",
+     "start": 43.52,
+     "end": 43.82
+    },
+    {
+     "w": "dans",
+     "start": 43.82,
+     "end": 43.96
+    },
+    {
+     "w": "le",
+     "start": 43.96,
+     "end": 44.08
+    },
+    {
+     "w": "gang",
+     "start": 44.08,
+     "end": 44.22
+    },
+    {
+     "w": "le",
+     "start": 44.22,
+     "end": 44.4
+    },
+    {
+     "w": "plus",
+     "start": 44.4,
+     "end": 44.45
+    },
+    {
+     "w": "dangereux",
+     "start": 44.44,
+     "end": 44.68
+    },
+    {
+     "w": "de",
+     "start": 44.68,
+     "end": 44.82
+    },
+    {
+     "w": "Tokyo,",
+     "start": 44.82,
+     "end": 45.02
+    },
+    {
+     "w": "le",
+     "start": 45.36,
+     "end": 45.41
+    },
+    {
+     "w": "Toman.",
+     "start": 45.4,
+     "end": 45.64
+    },
+    {
+     "w": "Lui",
+     "start": 46.08,
+     "end": 46.28
+    },
+    {
+     "w": "qui",
+     "start": 46.28,
+     "end": 46.4
+    },
+    {
+     "w": "sait",
+     "start": 46.52,
+     "end": 46.57
+    },
+    {
+     "w": "même",
+     "start": 46.54,
+     "end": 46.68
+    },
+    {
+     "w": "pas",
+     "start": 46.68,
+     "end": 46.84
+    },
+    {
+     "w": "se",
+     "start": 46.84,
+     "end": 46.94
+    },
+    {
+     "w": "battre,",
+     "start": 46.94,
+     "end": 47.2
+    },
+    {
+     "w": "frr.",
+     "start": 47.34,
+     "end": 47.56
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 47.78,
+   "end": 52.16,
+   "slot_end": 52.258,
+   "text": "Et le chef, c'est Mikey. Il a l'air d'un collégien tranquille, et il met des mecs KO d'un seul coup de pied.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 47.78,
+     "end": 47.83
+    },
+    {
+     "w": "le",
+     "start": 47.78,
+     "end": 47.98
+    },
+    {
+     "w": "chef,",
+     "start": 47.98,
+     "end": 48.2
+    },
+    {
+     "w": "c'est",
+     "start": 48.5,
+     "end": 48.55
+    },
+    {
+     "w": "Mikey.",
+     "start": 48.54,
+     "end": 48.86
+    },
+    {
+     "w": "Il",
+     "start": 49.1,
+     "end": 49.3
+    },
+    {
+     "w": "a",
+     "start": 49.3,
+     "end": 49.4
+    },
+    {
+     "w": "l'air",
+     "start": 49.4,
+     "end": 49.48
+    },
+    {
+     "w": "d'un",
+     "start": 49.48,
+     "end": 49.62
+    },
+    {
+     "w": "collégien",
+     "start": 49.62,
+     "end": 49.92
+    },
+    {
+     "w": "tranquille,",
+     "start": 49.92,
+     "end": 50.38
+    },
+    {
+     "w": "et",
+     "start": 50.38,
+     "end": 50.94
+    },
+    {
+     "w": "il",
+     "start": 50.94,
+     "end": 51.04
+    },
+    {
+     "w": "met",
+     "start": 51.04,
+     "end": 51.16
+    },
+    {
+     "w": "des",
+     "start": 51.16,
+     "end": 51.28
+    },
+    {
+     "w": "mecs",
+     "start": 51.28,
+     "end": 51.44
+    },
+    {
+     "w": "KO",
+     "start": 51.44,
+     "end": 51.58
+    },
+    {
+     "w": "d'un",
+     "start": 51.58,
+     "end": 51.7
+    },
+    {
+     "w": "seul",
+     "start": 51.7,
+     "end": 51.84
+    },
+    {
+     "w": "coup",
+     "start": 51.84,
+     "end": 51.98
+    },
+    {
+     "w": "de",
+     "start": 51.98,
+     "end": 52.04
+    },
+    {
+     "w": "pied.",
+     "start": 52.04,
+     "end": 52.16
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 52.26,
+   "end": 57.64,
+   "slot_end": 57.838,
+   "text": "À côté t'as Draken, son bras droit, avec le dragon tatoué sur la tempe. Mon perso préféré de toute la série, j'assume.",
+   "words": [
+    {
+     "w": "À",
+     "start": 52.26,
+     "end": 52.36
+    },
+    {
+     "w": "côté",
+     "start": 52.36,
+     "end": 52.56
+    },
+    {
+     "w": "t'as",
+     "start": 52.56,
+     "end": 52.96
+    },
+    {
+     "w": "Draken,",
+     "start": 52.96,
+     "end": 53.16
+    },
+    {
+     "w": "son",
+     "start": 53.36,
+     "end": 53.48
+    },
+    {
+     "w": "bras",
+     "start": 53.48,
+     "end": 53.66
+    },
+    {
+     "w": "droit,",
+     "start": 53.66,
+     "end": 53.86
+    },
+    {
+     "w": "avec",
+     "start": 54.08,
+     "end": 54.24
+    },
+    {
+     "w": "le",
+     "start": 54.24,
+     "end": 54.42
+    },
+    {
+     "w": "dragon",
+     "start": 54.42,
+     "end": 54.62
+    },
+    {
+     "w": "tatoué",
+     "start": 54.62,
+     "end": 55.0
+    },
+    {
+     "w": "sur",
+     "start": 55.0,
+     "end": 55.14
+    },
+    {
+     "w": "la",
+     "start": 55.14,
+     "end": 55.28
+    },
+    {
+     "w": "tempe.",
+     "start": 55.28,
+     "end": 55.44
+    },
+    {
+     "w": "Mon",
+     "start": 55.78,
+     "end": 55.88
+    },
+    {
+     "w": "perso",
+     "start": 55.88,
+     "end": 56.28
+    },
+    {
+     "w": "préféré",
+     "start": 56.28,
+     "end": 56.64
+    },
+    {
+     "w": "de",
+     "start": 56.64,
+     "end": 56.78
+    },
+    {
+     "w": "toute",
+     "start": 56.78,
+     "end": 56.88
+    },
+    {
+     "w": "la",
+     "start": 56.88,
+     "end": 57.04
+    },
+    {
+     "w": "série,",
+     "start": 57.04,
+     "end": 57.24
+    },
+    {
+     "w": "j'assume.",
+     "start": 57.32,
+     "end": 57.64
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 57.64,
+   "end": 64.38,
+   "slot_end": 65.192,
+   "text": "Mon avis, franchement ? Le début est un peu lent, et Takemichi pleure beaucoup trop. Mais une fois que ça démarre, tu enchaînes les épisodes sans t'en rendre compte.",
+   "words": [
+    {
+     "w": "Mon",
+     "start": 57.64,
+     "end": 57.94
+    },
+    {
+     "w": "avis,",
+     "start": 57.94,
+     "end": 58.14
+    },
+    {
+     "w": "franchement",
+     "start": 58.4,
+     "end": 58.66
+    },
+    {
+     "w": "?",
+     "start": 58.66,
+     "end": 58.94
+    },
+    {
+     "w": "Le",
+     "start": 58.94,
+     "end": 59.06
+    },
+    {
+     "w": "début",
+     "start": 59.06,
+     "end": 59.28
+    },
+    {
+     "w": "est",
+     "start": 59.28,
+     "end": 59.44
+    },
+    {
+     "w": "un",
+     "start": 59.44,
+     "end": 59.52
+    },
+    {
+     "w": "peu",
+     "start": 59.52,
+     "end": 59.6
+    },
+    {
+     "w": "lent,",
+     "start": 59.6,
+     "end": 59.78
+    },
+    {
+     "w": "et",
+     "start": 59.78,
+     "end": 59.96
+    },
+    {
+     "w": "Takemichi",
+     "start": 59.96,
+     "end": 60.24
+    },
+    {
+     "w": "pleure",
+     "start": 60.24,
+     "end": 60.44
+    },
+    {
+     "w": "beaucoup",
+     "start": 60.44,
+     "end": 60.74
+    },
+    {
+     "w": "trop.",
+     "start": 60.74,
+     "end": 61.08
+    },
+    {
+     "w": "Mais",
+     "start": 61.48,
+     "end": 61.88
+    },
+    {
+     "w": "une",
+     "start": 61.88,
+     "end": 61.98
+    },
+    {
+     "w": "fois",
+     "start": 61.98,
+     "end": 62.08
+    },
+    {
+     "w": "que",
+     "start": 62.08,
+     "end": 62.16
+    },
+    {
+     "w": "ça",
+     "start": 62.16,
+     "end": 62.24
+    },
+    {
+     "w": "démarre,",
+     "start": 62.24,
+     "end": 62.56
+    },
+    {
+     "w": "tu",
+     "start": 62.64,
+     "end": 62.7
+    },
+    {
+     "w": "enchaînes",
+     "start": 62.7,
+     "end": 62.96
+    },
+    {
+     "w": "les",
+     "start": 62.96,
+     "end": 63.12
+    },
+    {
+     "w": "épisodes",
+     "start": 63.12,
+     "end": 63.52
+    },
+    {
+     "w": "sans",
+     "start": 63.52,
+     "end": 63.66
+    },
+    {
+     "w": "t'en",
+     "start": 63.66,
+     "end": 63.82
+    },
+    {
+     "w": "rendre",
+     "start": 63.82,
+     "end": 64.0
+    },
+    {
+     "w": "compte.",
+     "start": 64.0,
+     "end": 64.38
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 65.04,
+   "end": 69.24,
+   "slot_end": 69.515,
+   "text": "Et le pire, c'est que plus il sauve de monde, plus il comprend que le vrai danger, c'est pas forcément le gang.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 65.04,
+     "end": 65.28
+    },
+    {
+     "w": "le",
+     "start": 65.28,
+     "end": 65.46
+    },
+    {
+     "w": "pire,",
+     "start": 65.46,
+     "end": 65.8
+    },
+    {
+     "w": "c'est",
+     "start": 66.02,
+     "end": 66.16
+    },
+    {
+     "w": "que",
+     "start": 66.16,
+     "end": 66.28
+    },
+    {
+     "w": "plus",
+     "start": 66.28,
+     "end": 66.46
+    },
+    {
+     "w": "il",
+     "start": 66.46,
+     "end": 66.62
+    },
+    {
+     "w": "sauve",
+     "start": 66.62,
+     "end": 66.8
+    },
+    {
+     "w": "de",
+     "start": 66.8,
+     "end": 66.92
+    },
+    {
+     "w": "monde,",
+     "start": 66.92,
+     "end": 67.12
+    },
+    {
+     "w": "plus",
+     "start": 67.38,
+     "end": 67.5
+    },
+    {
+     "w": "il",
+     "start": 67.5,
+     "end": 67.64
+    },
+    {
+     "w": "comprend",
+     "start": 67.64,
+     "end": 67.86
+    },
+    {
+     "w": "que",
+     "start": 67.86,
+     "end": 68.02
+    },
+    {
+     "w": "le",
+     "start": 68.02,
+     "end": 68.1
+    },
+    {
+     "w": "vrai",
+     "start": 68.1,
+     "end": 68.22
+    },
+    {
+     "w": "danger,",
+     "start": 68.22,
+     "end": 68.42
+    },
+    {
+     "w": "c'est",
+     "start": 68.42,
+     "end": 68.62
+    },
+    {
+     "w": "pas",
+     "start": 68.62,
+     "end": 68.74
+    },
+    {
+     "w": "forcément",
+     "start": 68.74,
+     "end": 68.96
+    },
+    {
+     "w": "le",
+     "start": 68.96,
+     "end": 69.16
+    },
+    {
+     "w": "gang.",
+     "start": 69.16,
+     "end": 69.24
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 69.52,
+   "end": 76.32,
+   "slot_end": 78.41,
+   "text": "La nouvelle saison, l'arc des trois dieux, commence le 3 octobre. Trois gangs qui se partagent Tokyo, et Mikey est au milieu de tout ça.",
+   "words": [
+    {
+     "w": "La",
+     "start": 69.52,
+     "end": 69.62
+    },
+    {
+     "w": "nouvelle",
+     "start": 69.62,
+     "end": 69.78
+    },
+    {
+     "w": "saison,",
+     "start": 69.78,
+     "end": 70.24
+    },
+    {
+     "w": "l'arc",
+     "start": 70.5,
+     "end": 70.76
+    },
+    {
+     "w": "des",
+     "start": 70.76,
+     "end": 70.88
+    },
+    {
+     "w": "trois",
+     "start": 70.88,
+     "end": 71.08
+    },
+    {
+     "w": "dieux,",
+     "start": 71.08,
+     "end": 71.26
+    },
+    {
+     "w": "commence",
+     "start": 71.26,
+     "end": 71.52
+    },
+    {
+     "w": "le",
+     "start": 71.52,
+     "end": 71.76
+    },
+    {
+     "w": "3",
+     "start": 71.76,
+     "end": 71.92
+    },
+    {
+     "w": "octobre.",
+     "start": 71.92,
+     "end": 72.8
+    },
+    {
+     "w": "Trois",
+     "start": 73.1,
+     "end": 73.3
+    },
+    {
+     "w": "gangs",
+     "start": 73.3,
+     "end": 73.52
+    },
+    {
+     "w": "qui",
+     "start": 73.52,
+     "end": 73.76
+    },
+    {
+     "w": "se",
+     "start": 73.76,
+     "end": 73.88
+    },
+    {
+     "w": "partagent",
+     "start": 73.88,
+     "end": 74.2
+    },
+    {
+     "w": "Tokyo,",
+     "start": 74.2,
+     "end": 74.5
+    },
+    {
+     "w": "et",
+     "start": 74.5,
+     "end": 75.06
+    },
+    {
+     "w": "Mikey",
+     "start": 75.06,
+     "end": 75.32
+    },
+    {
+     "w": "est",
+     "start": 75.32,
+     "end": 75.58
+    },
+    {
+     "w": "au",
+     "start": 75.58,
+     "end": 75.68
+    },
+    {
+     "w": "milieu",
+     "start": 75.68,
+     "end": 75.84
+    },
+    {
+     "w": "de",
+     "start": 75.84,
+     "end": 76.0
+    },
+    {
+     "w": "tout",
+     "start": 76.0,
+     "end": 76.12
+    },
+    {
+     "w": "ça.",
+     "start": 76.12,
+     "end": 76.32
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 78.34,
+   "end": 83.04,
+   "slot_end": 83.416,
+   "text": "T'as encore quelques jours pour rattraper les saisons d'avant. Dis-moi en com' si t'es team Mikey ou team Draken.",
+   "words": [
+    {
+     "w": "T'as",
+     "start": 78.34,
+     "end": 78.48
+    },
+    {
+     "w": "encore",
+     "start": 78.48,
+     "end": 78.72
+    },
+    {
+     "w": "quelques",
+     "start": 78.72,
+     "end": 78.94
+    },
+    {
+     "w": "jours",
+     "start": 78.94,
+     "end": 79.24
+    },
+    {
+     "w": "pour",
+     "start": 79.24,
+     "end": 79.46
+    },
+    {
+     "w": "rattraper",
+     "start": 79.46,
+     "end": 79.78
+    },
+    {
+     "w": "les",
+     "start": 79.78,
+     "end": 79.88
+    },
+    {
+     "w": "saisons",
+     "start": 79.88,
+     "end": 80.1
+    },
+    {
+     "w": "d'avant.",
+     "start": 80.1,
+     "end": 80.36
+    },
+    {
+     "w": "Dis-moi",
+     "start": 80.48,
+     "end": 80.7
+    },
+    {
+     "w": "en",
+     "start": 80.9,
+     "end": 80.95
+    },
+    {
+     "w": "com'",
+     "start": 80.92,
+     "end": 81.085
+    },
+    {
+     "w": "si",
+     "start": 81.085,
+     "end": 81.25
+    },
+    {
+     "w": "t'es",
+     "start": 81.25,
+     "end": 81.58
+    },
+    {
+     "w": "team",
+     "start": 81.58,
+     "end": 81.78
+    },
+    {
+     "w": "Mikey",
+     "start": 81.78,
+     "end": 82.1
+    },
+    {
+     "w": "ou",
+     "start": 82.1,
+     "end": 82.5
+    },
+    {
+     "w": "team",
+     "start": 82.5,
+     "end": 82.76
+    },
+    {
+     "w": "Draken.",
+     "start": 82.76,
+     "end": 83.04
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "start": 83.42,
+   "end": 85.56,
+   "slot_end": 86.396,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 83.42,
+     "end": 83.58
+    },
+    {
+     "w": "Asura.",
+     "start": 83.58,
+     "end": 83.96
+    },
+    {
+     "w": "On",
+     "start": 84.26,
+     "end": 84.4
+    },
+    {
+     "w": "se",
+     "start": 84.4,
+     "end": 84.52
+    },
+    {
+     "w": "capte",
+     "start": 84.52,
+     "end": 84.8
+    },
+    {
+     "w": "au",
+     "start": 84.8,
+     "end": 84.88
+    },
+    {
+     "w": "prochain",
+     "start": 84.88,
+     "end": 85.1
+    },
+    {
+     "w": "épisode.",
+     "start": 85.1,
+     "end": 85.56
+    }
+   ]
+  }
+ ],
+ "aligned": 0.997
+}
