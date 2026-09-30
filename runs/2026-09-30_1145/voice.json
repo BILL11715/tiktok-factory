@@ -1,0 +1,1661 @@
+{
+ "engine": "clone",
+ "path": "/home/claude/tiktok-factory/runs/2026-09-30_1145/voice.wav",
+ "duration": 88.646,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 1.9,
+   "slot_end": 2.077,
+   "text": "Si Okarun récupère toutes ses boules, il est fini.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 0.0,
+     "end": 0.12
+    },
+    {
+     "w": "Okarun",
+     "start": 0.12,
+     "end": 0.48
+    },
+    {
+     "w": "récupère",
+     "start": 0.48,
+     "end": 0.82
+    },
+    {
+     "w": "toutes",
+     "start": 0.82,
+     "end": 0.98
+    },
+    {
+     "w": "ses",
+     "start": 0.98,
+     "end": 1.18
+    },
+    {
+     "w": "boules,",
+     "start": 1.18,
+     "end": 1.34
+    },
+    {
+     "w": "il",
+     "start": 1.44,
+     "end": 1.56
+    },
+    {
+     "w": "est",
+     "start": 1.56,
+     "end": 1.72
+    },
+    {
+     "w": "fini.",
+     "start": 1.72,
+     "end": 1.9
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 2.1,
+   "end": 4.48,
+   "slot_end": 4.627,
+   "text": "Reste jusqu'au bout, la vraie coupable c'est pas celle que tu crois.",
+   "words": [
+    {
+     "w": "Reste",
+     "start": 2.1,
+     "end": 2.38
+    },
+    {
+     "w": "jusqu'au",
+     "start": 2.38,
+     "end": 2.76
+    },
+    {
+     "w": "bout,",
+     "start": 2.76,
+     "end": 2.9
+    },
+    {
+     "w": "la",
+     "start": 2.98,
+     "end": 3.06
+    },
+    {
+     "w": "vraie",
+     "start": 3.06,
+     "end": 3.22
+    },
+    {
+     "w": "coupable",
+     "start": 3.22,
+     "end": 3.54
+    },
+    {
+     "w": "c'est",
+     "start": 3.6,
+     "end": 3.72
+    },
+    {
+     "w": "pas",
+     "start": 3.72,
+     "end": 3.84
+    },
+    {
+     "w": "celle",
+     "start": 3.84,
+     "end": 3.98
+    },
+    {
+     "w": "que",
+     "start": 3.98,
+     "end": 4.14
+    },
+    {
+     "w": "tu",
+     "start": 4.14,
+     "end": 4.24
+    },
+    {
+     "w": "crois.",
+     "start": 4.24,
+     "end": 4.48
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 4.78,
+   "end": 9.46,
+   "slot_end": 10.998,
+   "text": "Okarun, le binoclard que personne calcule, va dans un tunnel hanté pour prouver que les fantômes existent pas.",
+   "words": [
+    {
+     "w": "Okarun,",
+     "start": 4.78,
+     "end": 5.1
+    },
+    {
+     "w": "le",
+     "start": 5.2,
+     "end": 5.28
+    },
+    {
+     "w": "binoclard",
+     "start": 5.28,
+     "end": 5.68
+    },
+    {
+     "w": "que",
+     "start": 5.68,
+     "end": 5.78
+    },
+    {
+     "w": "personne",
+     "start": 5.78,
+     "end": 6.06
+    },
+    {
+     "w": "calcule,",
+     "start": 6.06,
+     "end": 6.5
+    },
+    {
+     "w": "va",
+     "start": 6.6,
+     "end": 6.68
+    },
+    {
+     "w": "dans",
+     "start": 6.68,
+     "end": 6.82
+    },
+    {
+     "w": "un",
+     "start": 6.82,
+     "end": 7.02
+    },
+    {
+     "w": "tunnel",
+     "start": 7.02,
+     "end": 7.24
+    },
+    {
+     "w": "hanté",
+     "start": 7.24,
+     "end": 7.64
+    },
+    {
+     "w": "pour",
+     "start": 7.64,
+     "end": 7.88
+    },
+    {
+     "w": "prouver",
+     "start": 7.88,
+     "end": 8.26
+    },
+    {
+     "w": "que",
+     "start": 8.26,
+     "end": 8.46
+    },
+    {
+     "w": "les",
+     "start": 8.46,
+     "end": 8.58
+    },
+    {
+     "w": "fantômes",
+     "start": 8.58,
+     "end": 8.84
+    },
+    {
+     "w": "existent",
+     "start": 9.02,
+     "end": 9.28
+    },
+    {
+     "w": "pas.",
+     "start": 9.28,
+     "end": 9.46
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 10.86,
+   "end": 16.56,
+   "slot_end": 16.828,
+   "text": "Et là, Turbo Granny lui pique ses bijoux de famille. Littéralement. Depuis, il court après ses boules avec Momo.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 10.86,
+     "end": 11.1
+    },
+    {
+     "w": "là,",
+     "start": 11.1,
+     "end": 11.24
+    },
+    {
+     "w": "Turbo",
+     "start": 11.36,
+     "end": 11.56
+    },
+    {
+     "w": "Granny",
+     "start": 11.56,
+     "end": 11.96
+    },
+    {
+     "w": "lui",
+     "start": 12.06,
+     "end": 12.18
+    },
+    {
+     "w": "pique",
+     "start": 12.18,
+     "end": 12.38
+    },
+    {
+     "w": "ses",
+     "start": 12.38,
+     "end": 12.56
+    },
+    {
+     "w": "bijoux",
+     "start": 12.56,
+     "end": 12.74
+    },
+    {
+     "w": "de",
+     "start": 12.74,
+     "end": 12.88
+    },
+    {
+     "w": "famille.",
+     "start": 12.88,
+     "end": 13.14
+    },
+    {
+     "w": "Littéralement.",
+     "start": 13.92,
+     "end": 14.24
+    },
+    {
+     "w": "Depuis,",
+     "start": 14.4,
+     "end": 14.68
+    },
+    {
+     "w": "il",
+     "start": 14.68,
+     "end": 15.22
+    },
+    {
+     "w": "court",
+     "start": 15.22,
+     "end": 15.44
+    },
+    {
+     "w": "après",
+     "start": 15.44,
+     "end": 15.72
+    },
+    {
+     "w": "ses",
+     "start": 15.72,
+     "end": 15.94
+    },
+    {
+     "w": "boules",
+     "start": 15.94,
+     "end": 16.1
+    },
+    {
+     "w": "avec",
+     "start": 16.1,
+     "end": 16.32
+    },
+    {
+     "w": "Momo.",
+     "start": 16.32,
+     "end": 16.56
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 16.82,
+   "end": 19.6,
+   "slot_end": 19.801,
+   "text": "Oui c'est le pitch le plus débile de l'anime, et c'est pour ça qu'on l'aime.",
+   "words": [
+    {
+     "w": "Oui",
+     "start": 16.82,
+     "end": 16.94
+    },
+    {
+     "w": "c'est",
+     "start": 17.16,
+     "end": 17.3
+    },
+    {
+     "w": "le",
+     "start": 17.3,
+     "end": 17.42
+    },
+    {
+     "w": "pitch",
+     "start": 17.42,
+     "end": 17.58
+    },
+    {
+     "w": "le",
+     "start": 17.58,
+     "end": 17.82
+    },
+    {
+     "w": "plus",
+     "start": 17.82,
+     "end": 17.96
+    },
+    {
+     "w": "débile",
+     "start": 17.96,
+     "end": 18.3
+    },
+    {
+     "w": "de",
+     "start": 18.3,
+     "end": 18.44
+    },
+    {
+     "w": "l'anime,",
+     "start": 18.44,
+     "end": 18.74
+    },
+    {
+     "w": "et",
+     "start": 18.74,
+     "end": 18.79
+    },
+    {
+     "w": "c'est",
+     "start": 18.74,
+     "end": 18.98
+    },
+    {
+     "w": "pour",
+     "start": 18.98,
+     "end": 19.14
+    },
+    {
+     "w": "ça",
+     "start": 19.14,
+     "end": 19.26
+    },
+    {
+     "w": "qu'on",
+     "start": 19.26,
+     "end": 19.42
+    },
+    {
+     "w": "l'aime.",
+     "start": 19.42,
+     "end": 19.6
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 19.8,
+   "end": 22.46,
+   "slot_end": 22.79,
+   "text": "Sauf que j'ai une théorie, et plus je revois les épisodes, plus j'y crois.",
+   "words": [
+    {
+     "w": "Sauf",
+     "start": 19.8,
+     "end": 19.94
+    },
+    {
+     "w": "que",
+     "start": 19.94,
+     "end": 20.14
+    },
+    {
+     "w": "j'ai",
+     "start": 20.14,
+     "end": 20.28
+    },
+    {
+     "w": "une",
+     "start": 20.28,
+     "end": 20.38
+    },
+    {
+     "w": "théorie,",
+     "start": 20.38,
+     "end": 20.66
+    },
+    {
+     "w": "et",
+     "start": 20.66,
+     "end": 20.86
+    },
+    {
+     "w": "plus",
+     "start": 20.86,
+     "end": 21.0
+    },
+    {
+     "w": "je",
+     "start": 21.0,
+     "end": 21.1
+    },
+    {
+     "w": "revois",
+     "start": 21.1,
+     "end": 21.36
+    },
+    {
+     "w": "les",
+     "start": 21.36,
+     "end": 21.52
+    },
+    {
+     "w": "épisodes,",
+     "start": 21.52,
+     "end": 21.9
+    },
+    {
+     "w": "plus",
+     "start": 22.06,
+     "end": 22.12
+    },
+    {
+     "w": "j'y",
+     "start": 22.12,
+     "end": 22.32
+    },
+    {
+     "w": "crois.",
+     "start": 22.32,
+     "end": 22.46
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 22.76,
+   "end": 30.82,
+   "slot_end": 31.019,
+   "text": "Premier indice. La vitesse d'Okarun, sa forme aux cheveux blancs, ça vient pas de lui. Ça vient de la malédiction de Turbo Granny.",
+   "words": [
+    {
+     "w": "Premier",
+     "start": 22.76,
+     "end": 22.98
+    },
+    {
+     "w": "indice.",
+     "start": 22.98,
+     "end": 23.42
+    },
+    {
+     "w": "La",
+     "start": 23.96,
+     "end": 24.1
+    },
+    {
+     "w": "vitesse",
+     "start": 24.1,
+     "end": 24.32
+    },
+    {
+     "w": "d'Okarun,",
+     "start": 24.32,
+     "end": 24.88
+    },
+    {
+     "w": "sa",
+     "start": 24.94,
+     "end": 25.06
+    },
+    {
+     "w": "forme",
+     "start": 25.06,
+     "end": 25.28
+    },
+    {
+     "w": "aux",
+     "start": 25.28,
+     "end": 25.4
+    },
+    {
+     "w": "cheveux",
+     "start": 25.4,
+     "end": 25.66
+    },
+    {
+     "w": "blancs,",
+     "start": 25.66,
+     "end": 26.04
+    },
+    {
+     "w": "ça",
+     "start": 26.04,
+     "end": 26.14
+    },
+    {
+     "w": "vient",
+     "start": 26.14,
+     "end": 26.24
+    },
+    {
+     "w": "pas",
+     "start": 26.24,
+     "end": 26.4
+    },
+    {
+     "w": "de",
+     "start": 26.4,
+     "end": 26.52
+    },
+    {
+     "w": "lui.",
+     "start": 26.52,
+     "end": 26.64
+    },
+    {
+     "w": "Ça",
+     "start": 28.5,
+     "end": 28.86
+    },
+    {
+     "w": "vient",
+     "start": 28.86,
+     "end": 29.22
+    },
+    {
+     "w": "de",
+     "start": 29.22,
+     "end": 29.32
+    },
+    {
+     "w": "la",
+     "start": 29.32,
+     "end": 29.4
+    },
+    {
+     "w": "malédiction",
+     "start": 29.4,
+     "end": 29.9
+    },
+    {
+     "w": "de",
+     "start": 29.9,
+     "end": 30.1
+    },
+    {
+     "w": "Turbo",
+     "start": 30.1,
+     "end": 30.4
+    },
+    {
+     "w": "Granny.",
+     "start": 30.4,
+     "end": 30.82
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 30.96,
+   "end": 36.26,
+   "slot_end": 36.401,
+   "text": "Deuxième indice. Aira tombe sur une seule de ces boules, et d'un coup elle a des pouvoirs. Ces boules, c'est une batterie.",
+   "words": [
+    {
+     "w": "Deuxième",
+     "start": 30.96,
+     "end": 31.26
+    },
+    {
+     "w": "indice.",
+     "start": 31.26,
+     "end": 31.78
+    },
+    {
+     "w": "Aira",
+     "start": 32.24,
+     "end": 32.3
+    },
+    {
+     "w": "tombe",
+     "start": 32.3,
+     "end": 32.64
+    },
+    {
+     "w": "sur",
+     "start": 32.64,
+     "end": 32.86
+    },
+    {
+     "w": "une",
+     "start": 32.86,
+     "end": 33.0
+    },
+    {
+     "w": "seule",
+     "start": 33.0,
+     "end": 33.16
+    },
+    {
+     "w": "de",
+     "start": 33.16,
+     "end": 33.3
+    },
+    {
+     "w": "ces",
+     "start": 33.3,
+     "end": 33.46
+    },
+    {
+     "w": "boules,",
+     "start": 33.46,
+     "end": 33.76
+    },
+    {
+     "w": "et",
+     "start": 33.76,
+     "end": 33.9
+    },
+    {
+     "w": "d'un",
+     "start": 33.9,
+     "end": 34.06
+    },
+    {
+     "w": "coup",
+     "start": 34.06,
+     "end": 34.2
+    },
+    {
+     "w": "elle",
+     "start": 34.2,
+     "end": 34.32
+    },
+    {
+     "w": "a",
+     "start": 34.32,
+     "end": 34.42
+    },
+    {
+     "w": "des",
+     "start": 34.42,
+     "end": 34.5
+    },
+    {
+     "w": "pouvoirs.",
+     "start": 34.5,
+     "end": 35.16
+    },
+    {
+     "w": "Ces",
+     "start": 35.16,
+     "end": 35.32
+    },
+    {
+     "w": "boules,",
+     "start": 35.32,
+     "end": 35.58
+    },
+    {
+     "w": "c'est",
+     "start": 35.58,
+     "end": 35.74
+    },
+    {
+     "w": "une",
+     "start": 35.74,
+     "end": 35.88
+    },
+    {
+     "w": "batterie.",
+     "start": 35.88,
+     "end": 36.26
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 36.38,
+   "end": 42.08,
+   "slot_end": 42.248,
+   "text": "Si tu kiffes quand on décortique un anime comme ça, abonne-toi, la saison 3 est annoncée et j'vais tout suivre avec toi.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 36.38,
+     "end": 36.5
+    },
+    {
+     "w": "tu",
+     "start": 36.5,
+     "end": 36.64
+    },
+    {
+     "w": "kiffes",
+     "start": 36.64,
+     "end": 36.92
+    },
+    {
+     "w": "quand",
+     "start": 36.92,
+     "end": 37.04
+    },
+    {
+     "w": "on",
+     "start": 37.04,
+     "end": 37.18
+    },
+    {
+     "w": "décortique",
+     "start": 37.18,
+     "end": 37.427
+    },
+    {
+     "w": "un",
+     "start": 37.427,
+     "end": 37.673
+    },
+    {
+     "w": "anime",
+     "start": 37.673,
+     "end": 37.92
+    },
+    {
+     "w": "comme",
+     "start": 37.92,
+     "end": 38.1
+    },
+    {
+     "w": "ça,",
+     "start": 38.1,
+     "end": 38.4
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 38.4,
+     "end": 39.0
+    },
+    {
+     "w": "la",
+     "start": 39.5,
+     "end": 39.6
+    },
+    {
+     "w": "saison",
+     "start": 39.6,
+     "end": 39.84
+    },
+    {
+     "w": "3",
+     "start": 39.84,
+     "end": 40.12
+    },
+    {
+     "w": "est",
+     "start": 40.12,
+     "end": 40.26
+    },
+    {
+     "w": "annoncée",
+     "start": 40.26,
+     "end": 40.8
+    },
+    {
+     "w": "et",
+     "start": 40.8,
+     "end": 40.96
+    },
+    {
+     "w": "j'vais",
+     "start": 40.96,
+     "end": 41.16
+    },
+    {
+     "w": "tout",
+     "start": 41.16,
+     "end": 41.32
+    },
+    {
+     "w": "suivre",
+     "start": 41.32,
+     "end": 41.58
+    },
+    {
+     "w": "avec",
+     "start": 41.58,
+     "end": 41.82
+    },
+    {
+     "w": "toi.",
+     "start": 41.82,
+     "end": 42.08
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 42.26,
+   "end": 49.0,
+   "slot_end": 50.834,
+   "text": "Troisième indice, celui qui m'a fait tilter. Turbo Granny aide Okarun de plus en plus. Elle râle, mais elle est toujours là.",
+   "words": [
+    {
+     "w": "Troisième",
+     "start": 42.26,
+     "end": 42.62
+    },
+    {
+     "w": "indice,",
+     "start": 42.62,
+     "end": 43.18
+    },
+    {
+     "w": "celui",
+     "start": 43.38,
+     "end": 43.52
+    },
+    {
+     "w": "qui",
+     "start": 43.52,
+     "end": 43.7
+    },
+    {
+     "w": "m'a",
+     "start": 43.7,
+     "end": 43.86
+    },
+    {
+     "w": "fait",
+     "start": 43.86,
+     "end": 44.02
+    },
+    {
+     "w": "tilter.",
+     "start": 44.02,
+     "end": 44.36
+    },
+    {
+     "w": "Turbo",
+     "start": 44.46,
+     "end": 44.66
+    },
+    {
+     "w": "Granny",
+     "start": 44.66,
+     "end": 45.16
+    },
+    {
+     "w": "aide",
+     "start": 45.16,
+     "end": 45.6
+    },
+    {
+     "w": "Okarun",
+     "start": 45.6,
+     "end": 46.14
+    },
+    {
+     "w": "de",
+     "start": 46.14,
+     "end": 46.3
+    },
+    {
+     "w": "plus",
+     "start": 46.3,
+     "end": 46.46
+    },
+    {
+     "w": "en",
+     "start": 46.46,
+     "end": 46.62
+    },
+    {
+     "w": "plus.",
+     "start": 46.62,
+     "end": 46.86
+    },
+    {
+     "w": "Elle",
+     "start": 47.22,
+     "end": 47.38
+    },
+    {
+     "w": "râle,",
+     "start": 47.38,
+     "end": 47.74
+    },
+    {
+     "w": "mais",
+     "start": 47.74,
+     "end": 48.32
+    },
+    {
+     "w": "elle",
+     "start": 48.32,
+     "end": 48.4
+    },
+    {
+     "w": "est",
+     "start": 48.4,
+     "end": 48.48
+    },
+    {
+     "w": "toujours",
+     "start": 48.48,
+     "end": 48.7
+    },
+    {
+     "w": "là.",
+     "start": 48.7,
+     "end": 49.0
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 50.88,
+   "end": 56.02,
+   "slot_end": 56.16,
+   "text": "Une yokai qui voulait le tuer, devenue coach perso? J'y crois pas une seconde. Elle a besoin qu'il tienne jusqu'à la dernière boule.",
+   "words": [
+    {
+     "w": "Une",
+     "start": 50.88,
+     "end": 51.06
+    },
+    {
+     "w": "yokai",
+     "start": 51.06,
+     "end": 51.24
+    },
+    {
+     "w": "qui",
+     "start": 51.24,
+     "end": 51.4
+    },
+    {
+     "w": "voulait",
+     "start": 51.4,
+     "end": 51.6
+    },
+    {
+     "w": "le",
+     "start": 51.6,
+     "end": 51.7
+    },
+    {
+     "w": "tuer,",
+     "start": 51.7,
+     "end": 51.92
+    },
+    {
+     "w": "devenue",
+     "start": 51.92,
+     "end": 52.26
+    },
+    {
+     "w": "coach",
+     "start": 52.26,
+     "end": 52.46
+    },
+    {
+     "w": "perso?",
+     "start": 52.46,
+     "end": 52.9
+    },
+    {
+     "w": "J'y",
+     "start": 53.16,
+     "end": 53.28
+    },
+    {
+     "w": "crois",
+     "start": 53.28,
+     "end": 53.36
+    },
+    {
+     "w": "pas",
+     "start": 53.36,
+     "end": 53.52
+    },
+    {
+     "w": "une",
+     "start": 53.52,
+     "end": 53.66
+    },
+    {
+     "w": "seconde.",
+     "start": 53.66,
+     "end": 54.1
+    },
+    {
+     "w": "Elle",
+     "start": 54.1,
+     "end": 54.26
+    },
+    {
+     "w": "a",
+     "start": 54.26,
+     "end": 54.36
+    },
+    {
+     "w": "besoin",
+     "start": 54.36,
+     "end": 54.56
+    },
+    {
+     "w": "qu'il",
+     "start": 54.56,
+     "end": 54.78
+    },
+    {
+     "w": "tienne",
+     "start": 54.78,
+     "end": 55.04
+    },
+    {
+     "w": "jusqu'à",
+     "start": 55.04,
+     "end": 55.32
+    },
+    {
+     "w": "la",
+     "start": 55.32,
+     "end": 55.42
+    },
+    {
+     "w": "dernière",
+     "start": 55.42,
+     "end": 55.64
+    },
+    {
+     "w": "boule.",
+     "start": 55.64,
+     "end": 56.02
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 56.2,
+   "end": 61.96,
+   "slot_end": 63.191,
+   "text": "Ma théorie, c'est que le jour où il récupère tout, le pouvoir repart avec, et Okarun redevient le gars sans défense du début.",
+   "words": [
+    {
+     "w": "Ma",
+     "start": 56.2,
+     "end": 56.28
+    },
+    {
+     "w": "théorie,",
+     "start": 56.28,
+     "end": 56.62
+    },
+    {
+     "w": "c'est",
+     "start": 56.78,
+     "end": 56.88
+    },
+    {
+     "w": "que",
+     "start": 56.88,
+     "end": 56.98
+    },
+    {
+     "w": "le",
+     "start": 56.98,
+     "end": 57.1
+    },
+    {
+     "w": "jour",
+     "start": 57.1,
+     "end": 57.24
+    },
+    {
+     "w": "où",
+     "start": 57.24,
+     "end": 57.38
+    },
+    {
+     "w": "il",
+     "start": 57.38,
+     "end": 57.43
+    },
+    {
+     "w": "récupère",
+     "start": 57.4,
+     "end": 57.7
+    },
+    {
+     "w": "tout,",
+     "start": 57.7,
+     "end": 57.96
+    },
+    {
+     "w": "le",
+     "start": 57.96,
+     "end": 58.58
+    },
+    {
+     "w": "pouvoir",
+     "start": 58.58,
+     "end": 58.78
+    },
+    {
+     "w": "repart",
+     "start": 58.78,
+     "end": 59.12
+    },
+    {
+     "w": "avec,",
+     "start": 59.12,
+     "end": 59.46
+    },
+    {
+     "w": "et",
+     "start": 59.46,
+     "end": 59.88
+    },
+    {
+     "w": "Okarun",
+     "start": 59.88,
+     "end": 60.26
+    },
+    {
+     "w": "redevient",
+     "start": 60.26,
+     "end": 60.72
+    },
+    {
+     "w": "le",
+     "start": 60.72,
+     "end": 60.88
+    },
+    {
+     "w": "gars",
+     "start": 60.88,
+     "end": 61.0
+    },
+    {
+     "w": "sans",
+     "start": 61.0,
+     "end": 61.2
+    },
+    {
+     "w": "défense",
+     "start": 61.2,
+     "end": 61.5
+    },
+    {
+     "w": "du",
+     "start": 61.5,
+     "end": 61.68
+    },
+    {
+     "w": "début.",
+     "start": 61.68,
+     "end": 61.96
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 62.94,
+   "end": 67.56,
+   "slot_end": 69.475,
+   "text": "Et Seiko, la grand-mère de Momo, a toujours l'air d'en savoir plus qu'elle le dit.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 62.94,
+     "end": 63.28
+    },
+    {
+     "w": "Seiko,",
+     "start": 63.28,
+     "end": 63.66
+    },
+    {
+     "w": "la",
+     "start": 63.96,
+     "end": 64.1
+    },
+    {
+     "w": "grand-mère",
+     "start": 64.1,
+     "end": 64.52
+    },
+    {
+     "w": "de",
+     "start": 64.52,
+     "end": 64.72
+    },
+    {
+     "w": "Momo,",
+     "start": 64.72,
+     "end": 64.98
+    },
+    {
+     "w": "a",
+     "start": 65.6,
+     "end": 65.72
+    },
+    {
+     "w": "toujours",
+     "start": 65.72,
+     "end": 65.98
+    },
+    {
+     "w": "l'air",
+     "start": 65.98,
+     "end": 66.28
+    },
+    {
+     "w": "d'en",
+     "start": 66.28,
+     "end": 66.46
+    },
+    {
+     "w": "savoir",
+     "start": 66.46,
+     "end": 66.76
+    },
+    {
+     "w": "plus",
+     "start": 66.76,
+     "end": 66.98
+    },
+    {
+     "w": "qu'elle",
+     "start": 66.98,
+     "end": 67.22
+    },
+    {
+     "w": "le",
+     "start": 67.22,
+     "end": 67.38
+    },
+    {
+     "w": "dit.",
+     "start": 67.38,
+     "end": 67.56
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 69.18,
+   "end": 74.52,
+   "slot_end": 74.699,
+   "text": "Le problème de ma théorie? Yukinobu Tatsu adore casser nos attentes, il peut tout retourner.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 69.18,
+     "end": 69.58
+    },
+    {
+     "w": "problème",
+     "start": 69.58,
+     "end": 69.94
+    },
+    {
+     "w": "de",
+     "start": 69.94,
+     "end": 70.12
+    },
+    {
+     "w": "ma",
+     "start": 70.12,
+     "end": 70.24
+    },
+    {
+     "w": "théorie?",
+     "start": 70.24,
+     "end": 70.64
+    },
+    {
+     "w": "Yukinobu",
+     "start": 71.14,
+     "end": 71.68
+    },
+    {
+     "w": "Tatsu",
+     "start": 71.68,
+     "end": 72.0
+    },
+    {
+     "w": "adore",
+     "start": 72.0,
+     "end": 72.3
+    },
+    {
+     "w": "casser",
+     "start": 72.3,
+     "end": 72.72
+    },
+    {
+     "w": "nos",
+     "start": 72.72,
+     "end": 72.92
+    },
+    {
+     "w": "attentes,",
+     "start": 72.92,
+     "end": 73.3
+    },
+    {
+     "w": "il",
+     "start": 73.76,
+     "end": 73.81
+    },
+    {
+     "w": "peut",
+     "start": 73.8,
+     "end": 73.92
+    },
+    {
+     "w": "tout",
+     "start": 73.92,
+     "end": 74.06
+    },
+    {
+     "w": "retourner.",
+     "start": 74.06,
+     "end": 74.52
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 74.64,
+   "end": 80.26,
+   "slot_end": 81.584,
+   "text": "Mais un héros qui doit choisir entre redevenir normal et garder le pouvoir de son pire ennemi, c'est trop beau pour pas être le plan.",
+   "words": [
+    {
+     "w": "Mais",
+     "start": 74.64,
+     "end": 74.86
+    },
+    {
+     "w": "un",
+     "start": 74.86,
+     "end": 75.22
+    },
+    {
+     "w": "héros",
+     "start": 75.22,
+     "end": 75.48
+    },
+    {
+     "w": "qui",
+     "start": 75.48,
+     "end": 75.68
+    },
+    {
+     "w": "doit",
+     "start": 75.68,
+     "end": 75.86
+    },
+    {
+     "w": "choisir",
+     "start": 75.86,
+     "end": 76.28
+    },
+    {
+     "w": "entre",
+     "start": 76.28,
+     "end": 76.46
+    },
+    {
+     "w": "redevenir",
+     "start": 76.46,
+     "end": 76.94
+    },
+    {
+     "w": "normal",
+     "start": 76.94,
+     "end": 77.32
+    },
+    {
+     "w": "et",
+     "start": 77.32,
+     "end": 77.5
+    },
+    {
+     "w": "garder",
+     "start": 77.5,
+     "end": 77.74
+    },
+    {
+     "w": "le",
+     "start": 77.74,
+     "end": 77.9
+    },
+    {
+     "w": "pouvoir",
+     "start": 77.9,
+     "end": 78.14
+    },
+    {
+     "w": "de",
+     "start": 78.14,
+     "end": 78.32
+    },
+    {
+     "w": "son",
+     "start": 78.32,
+     "end": 78.44
+    },
+    {
+     "w": "pire",
+     "start": 78.44,
+     "end": 78.62
+    },
+    {
+     "w": "ennemi,",
+     "start": 78.62,
+     "end": 78.88
+    },
+    {
+     "w": "c'est",
+     "start": 78.94,
+     "end": 79.1
+    },
+    {
+     "w": "trop",
+     "start": 79.1,
+     "end": 79.28
+    },
+    {
+     "w": "beau",
+     "start": 79.28,
+     "end": 79.44
+    },
+    {
+     "w": "pour",
+     "start": 79.44,
+     "end": 79.56
+    },
+    {
+     "w": "pas",
+     "start": 79.56,
+     "end": 79.68
+    },
+    {
+     "w": "être",
+     "start": 79.68,
+     "end": 79.86
+    },
+    {
+     "w": "le",
+     "start": 79.86,
+     "end": 80.04
+    },
+    {
+     "w": "plan.",
+     "start": 80.04,
+     "end": 80.26
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "start": 81.58,
+   "end": 85.02,
+   "slot_end": 85.666,
+   "text": "Alors, Okarun doit récupérer ses boules ou les laisser où elles sont? Dis-moi en com'.",
+   "words": [
+    {
+     "w": "Alors,",
+     "start": 81.58,
+     "end": 81.96
+    },
+    {
+     "w": "Okarun",
+     "start": 81.96,
+     "end": 82.34
+    },
+    {
+     "w": "doit",
+     "start": 82.34,
+     "end": 82.44
+    },
+    {
+     "w": "récupérer",
+     "start": 82.44,
+     "end": 82.92
+    },
+    {
+     "w": "ses",
+     "start": 82.92,
+     "end": 83.1
+    },
+    {
+     "w": "boules",
+     "start": 83.1,
+     "end": 83.38
+    },
+    {
+     "w": "ou",
+     "start": 83.38,
+     "end": 83.46
+    },
+    {
+     "w": "les",
+     "start": 83.46,
+     "end": 83.58
+    },
+    {
+     "w": "laisser",
+     "start": 83.58,
+     "end": 83.8
+    },
+    {
+     "w": "où",
+     "start": 83.8,
+     "end": 83.96
+    },
+    {
+     "w": "elles",
+     "start": 83.96,
+     "end": 84.1
+    },
+    {
+     "w": "sont?",
+     "start": 84.1,
+     "end": 84.3
+    },
+    {
+     "w": "Dis-moi",
+     "start": 84.56,
+     "end": 84.76
+    },
+    {
+     "w": "en",
+     "start": 84.76,
+     "end": 84.9
+    },
+    {
+     "w": "com'.",
+     "start": 84.9,
+     "end": 85.02
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "start": 85.46,
+   "end": 87.8,
+   "slot_end": 88.646,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 85.46,
+     "end": 85.84
+    },
+    {
+     "w": "Asura.",
+     "start": 85.84,
+     "end": 86.3
+    },
+    {
+     "w": "On",
+     "start": 86.56,
+     "end": 86.66
+    },
+    {
+     "w": "se",
+     "start": 86.66,
+     "end": 86.78
+    },
+    {
+     "w": "capte",
+     "start": 86.78,
+     "end": 87.06
+    },
+    {
+     "w": "au",
+     "start": 87.06,
+     "end": 87.14
+    },
+    {
+     "w": "prochain",
+     "start": 87.14,
+     "end": 87.36
+    },
+    {
+     "w": "épisode.",
+     "start": 87.36,
+     "end": 87.8
+    }
+   ]
+  }
+ ],
+ "aligned": 0.997
+}

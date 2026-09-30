@@ -1,0 +1,34 @@
+{
+ "Dandadan 3rd Season": {
+  "meta": {
+   "id": "50163",
+   "title": "Dandadan 3rd Season",
+   "titles": {
+    "en": "DAN DA DAN Season 3",
+    "en_jp": "Dandadan 3rd Season",
+    "ja_jp": "ダンダダン 第3期"
+   },
+   "synopsis": "The third season of Dandadan.",
+   "episodes": null,
+   "start": "2027-12-31",
+   "source": "https://kitsu.io/anime/dandadan-3"
+  },
+  "wide": [],
+  "tall": [
+   "/home/claude/tiktok-factory/runs/2026-09-30_1145/images/73e29d76f4c8.jpg",
+   "/home/claude/tiktok-factory/runs/2026-09-30_1145/images/bb0184791007.jpg"
+  ],
+  "characters": {
+   "Momo Ayase": "/home/claude/tiktok-factory/runs/2026-09-30_1145/images/e893d1b797ad.png",
+   "Ken Takakura": "/home/claude/tiktok-factory/runs/2026-09-30_1145/images/061287f354b4.png",
+   "Vamola": "/home/claude/tiktok-factory/runs/2026-09-30_1145/images/e7ff844cbf24.png",
+   "Aira Shiratori": "/home/claude/tiktok-factory/runs/2026-09-30_1145/images/d7f160f2bd6d.png",
+   "Jin Enjouji": "/home/claude/tiktok-factory/runs/2026-09-30_1145/images/f69e1bd56f55.png",
+   "Turbo Babaa": "/home/claude/tiktok-factory/runs/2026-09-30_1145/images/a1a593e9254b.png"
+  },
+  "sources": [
+   "https://kitsu.io/anime/dandadan-3",
+   "https://anilist.co/anime/198966"
+  ]
+ }
+}
