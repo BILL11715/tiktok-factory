@@ -1,0 +1,1672 @@
+{
+ "engine": "clone",
+ "path": "/home/claude/tiktok-factory/runs/2026-09-30_2045/voice.wav",
+ "duration": 85.285,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 2.76,
+   "slot_end": 2.943,
+   "text": "Le Bankai numéro 1 est tellement chaud qu'il peut cramer toute la Soul Society.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 0.0,
+     "end": 0.12
+    },
+    {
+     "w": "Bankai",
+     "start": 0.12,
+     "end": 0.36
+    },
+    {
+     "w": "numéro",
+     "start": 0.36,
+     "end": 0.6
+    },
+    {
+     "w": "1",
+     "start": 0.6,
+     "end": 0.84
+    },
+    {
+     "w": "est",
+     "start": 0.84,
+     "end": 1.02
+    },
+    {
+     "w": "tellement",
+     "start": 1.02,
+     "end": 1.18
+    },
+    {
+     "w": "chaud",
+     "start": 1.18,
+     "end": 1.38
+    },
+    {
+     "w": "qu'il",
+     "start": 1.38,
+     "end": 1.5
+    },
+    {
+     "w": "peut",
+     "start": 1.5,
+     "end": 1.6
+    },
+    {
+     "w": "cramer",
+     "start": 1.6,
+     "end": 1.86
+    },
+    {
+     "w": "toute",
+     "start": 1.86,
+     "end": 2.085
+    },
+    {
+     "w": "la",
+     "start": 2.085,
+     "end": 2.31
+    },
+    {
+     "w": "Soul",
+     "start": 2.31,
+     "end": 2.535
+    },
+    {
+     "w": "Society.",
+     "start": 2.535,
+     "end": 2.76
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 2.76,
+   "end": 5.554,
+   "slot_end": 5.72,
+   "text": "Reste jusqu'au bout, la fin du numéro 1, j'l'ai jamais digérée.",
+   "words": [
+    {
+     "w": "Reste",
+     "start": 2.76,
+     "end": 2.985
+    },
+    {
+     "w": "jusqu'au",
+     "start": 2.985,
+     "end": 3.435
+    },
+    {
+     "w": "bout,",
+     "start": 3.435,
+     "end": 3.66
+    },
+    {
+     "w": "la",
+     "start": 3.86,
+     "end": 3.94
+    },
+    {
+     "w": "fin",
+     "start": 3.94,
+     "end": 4.08
+    },
+    {
+     "w": "du",
+     "start": 4.08,
+     "end": 4.2
+    },
+    {
+     "w": "numéro",
+     "start": 4.2,
+     "end": 4.427
+    },
+    {
+     "w": "1,",
+     "start": 4.427,
+     "end": 4.653
+    },
+    {
+     "w": "j'l'ai",
+     "start": 4.653,
+     "end": 4.96
+    },
+    {
+     "w": "jamais",
+     "start": 4.96,
+     "end": 5.12
+    },
+    {
+     "w": "digérée.",
+     "start": 5.12,
+     "end": 5.554
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 5.554,
+   "end": 11.34,
+   "slot_end": 11.611,
+   "text": "Numéro 5, Rukia. Hakka no Togame, son corps descend au zéro absolu et tout ce qu'elle touche gèle direct.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 5.554,
+     "end": 5.989
+    },
+    {
+     "w": "5,",
+     "start": 5.989,
+     "end": 6.423
+    },
+    {
+     "w": "Rukia.",
+     "start": 6.423,
+     "end": 6.857
+    },
+    {
+     "w": "Hakka",
+     "start": 6.857,
+     "end": 7.291
+    },
+    {
+     "w": "no",
+     "start": 7.291,
+     "end": 7.726
+    },
+    {
+     "w": "Togame,",
+     "start": 7.726,
+     "end": 8.16
+    },
+    {
+     "w": "son",
+     "start": 8.32,
+     "end": 8.4
+    },
+    {
+     "w": "corps",
+     "start": 8.4,
+     "end": 8.58
+    },
+    {
+     "w": "descend",
+     "start": 8.58,
+     "end": 8.84
+    },
+    {
+     "w": "au",
+     "start": 8.84,
+     "end": 9.04
+    },
+    {
+     "w": "zéro",
+     "start": 9.04,
+     "end": 9.18
+    },
+    {
+     "w": "absolu",
+     "start": 9.18,
+     "end": 9.62
+    },
+    {
+     "w": "et",
+     "start": 9.96,
+     "end": 10.06
+    },
+    {
+     "w": "tout",
+     "start": 10.06,
+     "end": 10.16
+    },
+    {
+     "w": "ce",
+     "start": 10.16,
+     "end": 10.24
+    },
+    {
+     "w": "qu'elle",
+     "start": 10.24,
+     "end": 10.34
+    },
+    {
+     "w": "touche",
+     "start": 10.34,
+     "end": 10.62
+    },
+    {
+     "w": "gèle",
+     "start": 10.62,
+     "end": 10.94
+    },
+    {
+     "w": "direct.",
+     "start": 10.94,
+     "end": 11.34
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 11.56,
+   "end": 18.04,
+   "slot_end": 19.124,
+   "text": "Le truc de fou, c'est qu'elle gèle elle aussi. Si elle revient trop vite à la normale, son propre corps se brise en morceaux.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 11.56,
+     "end": 11.76
+    },
+    {
+     "w": "truc",
+     "start": 11.76,
+     "end": 11.96
+    },
+    {
+     "w": "de",
+     "start": 11.96,
+     "end": 12.12
+    },
+    {
+     "w": "fou,",
+     "start": 12.12,
+     "end": 12.26
+    },
+    {
+     "w": "c'est",
+     "start": 12.46,
+     "end": 12.58
+    },
+    {
+     "w": "qu'elle",
+     "start": 12.58,
+     "end": 12.793
+    },
+    {
+     "w": "gèle",
+     "start": 12.793,
+     "end": 12.9
+    },
+    {
+     "w": "elle",
+     "start": 12.9,
+     "end": 13.02
+    },
+    {
+     "w": "aussi.",
+     "start": 13.02,
+     "end": 13.28
+    },
+    {
+     "w": "Si",
+     "start": 14.2,
+     "end": 14.66
+    },
+    {
+     "w": "elle",
+     "start": 14.66,
+     "end": 15.16
+    },
+    {
+     "w": "revient",
+     "start": 15.16,
+     "end": 15.4
+    },
+    {
+     "w": "trop",
+     "start": 15.4,
+     "end": 15.56
+    },
+    {
+     "w": "vite",
+     "start": 15.56,
+     "end": 15.72
+    },
+    {
+     "w": "à",
+     "start": 15.72,
+     "end": 15.84
+    },
+    {
+     "w": "la",
+     "start": 15.84,
+     "end": 15.9
+    },
+    {
+     "w": "normale,",
+     "start": 15.9,
+     "end": 16.16
+    },
+    {
+     "w": "son",
+     "start": 16.34,
+     "end": 16.44
+    },
+    {
+     "w": "propre",
+     "start": 16.44,
+     "end": 16.68
+    },
+    {
+     "w": "corps",
+     "start": 16.68,
+     "end": 17.04
+    },
+    {
+     "w": "se",
+     "start": 17.04,
+     "end": 17.32
+    },
+    {
+     "w": "brise",
+     "start": 17.32,
+     "end": 17.5
+    },
+    {
+     "w": "en",
+     "start": 17.5,
+     "end": 17.62
+    },
+    {
+     "w": "morceaux.",
+     "start": 17.62,
+     "end": 18.04
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 19.42,
+   "end": 24.82,
+   "slot_end": 25.192,
+   "text": "Numéro 4, Byakuya. Senbonzakura Kageyoshi, sa lame explose en milliers de petites lames comme des pétales de cerisier.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 19.42,
+     "end": 19.78
+    },
+    {
+     "w": "4,",
+     "start": 20.14,
+     "end": 20.5
+    },
+    {
+     "w": "Byakuya.",
+     "start": 20.82,
+     "end": 20.94
+    },
+    {
+     "w": "Senbonzakura",
+     "start": 20.94,
+     "end": 21.42
+    },
+    {
+     "w": "Kageyoshi,",
+     "start": 21.42,
+     "end": 21.96
+    },
+    {
+     "w": "sa",
+     "start": 22.48,
+     "end": 22.58
+    },
+    {
+     "w": "lame",
+     "start": 22.58,
+     "end": 22.72
+    },
+    {
+     "w": "explose",
+     "start": 22.72,
+     "end": 23.12
+    },
+    {
+     "w": "en",
+     "start": 23.12,
+     "end": 23.3
+    },
+    {
+     "w": "milliers",
+     "start": 23.3,
+     "end": 23.46
+    },
+    {
+     "w": "de",
+     "start": 23.46,
+     "end": 23.6
+    },
+    {
+     "w": "petites",
+     "start": 23.6,
+     "end": 23.8
+    },
+    {
+     "w": "lames",
+     "start": 23.8,
+     "end": 24.04
+    },
+    {
+     "w": "comme",
+     "start": 24.04,
+     "end": 24.18
+    },
+    {
+     "w": "des",
+     "start": 24.18,
+     "end": 24.32
+    },
+    {
+     "w": "pétales",
+     "start": 24.32,
+     "end": 24.52
+    },
+    {
+     "w": "de",
+     "start": 24.52,
+     "end": 24.68
+    },
+    {
+     "w": "cerisier.",
+     "start": 24.68,
+     "end": 24.82
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 24.82,
+   "end": 28.96,
+   "slot_end": 29.19,
+   "text": "Et frr, c'est la classe absolue. Il bouge à peine, il guide tout avec la main et t'es découpé de partout.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 24.82,
+     "end": 24.96
+    },
+    {
+     "w": "frr,",
+     "start": 24.96,
+     "end": 25.1
+    },
+    {
+     "w": "c'est",
+     "start": 25.1,
+     "end": 25.34
+    },
+    {
+     "w": "la",
+     "start": 25.52,
+     "end": 25.64
+    },
+    {
+     "w": "classe",
+     "start": 25.64,
+     "end": 25.76
+    },
+    {
+     "w": "absolue.",
+     "start": 25.76,
+     "end": 26.2
+    },
+    {
+     "w": "Il",
+     "start": 26.44,
+     "end": 26.49
+    },
+    {
+     "w": "bouge",
+     "start": 26.48,
+     "end": 26.68
+    },
+    {
+     "w": "à",
+     "start": 26.68,
+     "end": 26.8
+    },
+    {
+     "w": "peine,",
+     "start": 26.8,
+     "end": 26.94
+    },
+    {
+     "w": "il",
+     "start": 27.12,
+     "end": 27.22
+    },
+    {
+     "w": "guide",
+     "start": 27.22,
+     "end": 27.34
+    },
+    {
+     "w": "tout",
+     "start": 27.34,
+     "end": 27.5
+    },
+    {
+     "w": "avec",
+     "start": 27.5,
+     "end": 27.7
+    },
+    {
+     "w": "la",
+     "start": 27.7,
+     "end": 27.88
+    },
+    {
+     "w": "main",
+     "start": 27.88,
+     "end": 28.02
+    },
+    {
+     "w": "et",
+     "start": 28.18,
+     "end": 28.23
+    },
+    {
+     "w": "t'es",
+     "start": 28.207,
+     "end": 28.26
+    },
+    {
+     "w": "découpé",
+     "start": 28.26,
+     "end": 28.62
+    },
+    {
+     "w": "de",
+     "start": 28.62,
+     "end": 28.72
+    },
+    {
+     "w": "partout.",
+     "start": 28.72,
+     "end": 28.96
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 28.96,
+   "end": 32.28,
+   "slot_end": 34.728,
+   "text": "Petite pause. Si tu kiffes les classements Bleach, abonne-toi, j'en sors tous les jours.",
+   "words": [
+    {
+     "w": "Petite",
+     "start": 28.96,
+     "end": 29.4
+    },
+    {
+     "w": "pause.",
+     "start": 29.4,
+     "end": 29.7
+    },
+    {
+     "w": "Si",
+     "start": 29.9,
+     "end": 30.04
+    },
+    {
+     "w": "tu",
+     "start": 30.04,
+     "end": 30.14
+    },
+    {
+     "w": "kiffes",
+     "start": 30.14,
+     "end": 30.36
+    },
+    {
+     "w": "les",
+     "start": 30.36,
+     "end": 30.48
+    },
+    {
+     "w": "classements",
+     "start": 30.48,
+     "end": 30.807
+    },
+    {
+     "w": "Bleach,",
+     "start": 30.807,
+     "end": 31.133
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 31.133,
+     "end": 31.46
+    },
+    {
+     "w": "j'en",
+     "start": 31.56,
+     "end": 31.68
+    },
+    {
+     "w": "sors",
+     "start": 31.68,
+     "end": 31.84
+    },
+    {
+     "w": "tous",
+     "start": 31.84,
+     "end": 31.96
+    },
+    {
+     "w": "les",
+     "start": 31.96,
+     "end": 32.08
+    },
+    {
+     "w": "jours.",
+     "start": 32.08,
+     "end": 32.28
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 34.64,
+   "end": 38.62,
+   "slot_end": 38.712,
+   "text": "Numéro 3, Hitsugaya. Pendant des années, on se moquait de lui parce que son Bankai était pas terminé.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 34.64,
+     "end": 34.98
+    },
+    {
+     "w": "3,",
+     "start": 34.98,
+     "end": 35.24
+    },
+    {
+     "w": "Hitsugaya.",
+     "start": 35.46,
+     "end": 35.92
+    },
+    {
+     "w": "Pendant",
+     "start": 36.22,
+     "end": 36.38
+    },
+    {
+     "w": "des",
+     "start": 36.38,
+     "end": 36.6
+    },
+    {
+     "w": "années,",
+     "start": 36.6,
+     "end": 36.74
+    },
+    {
+     "w": "on",
+     "start": 36.82,
+     "end": 36.87
+    },
+    {
+     "w": "se",
+     "start": 36.84,
+     "end": 36.96
+    },
+    {
+     "w": "moquait",
+     "start": 36.96,
+     "end": 37.14
+    },
+    {
+     "w": "de",
+     "start": 37.14,
+     "end": 37.28
+    },
+    {
+     "w": "lui",
+     "start": 37.28,
+     "end": 37.38
+    },
+    {
+     "w": "parce",
+     "start": 37.38,
+     "end": 37.52
+    },
+    {
+     "w": "que",
+     "start": 37.52,
+     "end": 37.64
+    },
+    {
+     "w": "son",
+     "start": 37.64,
+     "end": 37.74
+    },
+    {
+     "w": "Bankai",
+     "start": 37.74,
+     "end": 37.94
+    },
+    {
+     "w": "était",
+     "start": 37.94,
+     "end": 38.14
+    },
+    {
+     "w": "pas",
+     "start": 38.14,
+     "end": 38.28
+    },
+    {
+     "w": "terminé.",
+     "start": 38.28,
+     "end": 38.62
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 38.7,
+   "end": 43.88,
+   "slot_end": 43.941,
+   "text": "Sauf que dans la guerre de mille ans, on voit enfin sa forme complète, et il devient adulte d'un coup. Ça m'a mis une claque.",
+   "words": [
+    {
+     "w": "Sauf",
+     "start": 38.7,
+     "end": 38.92
+    },
+    {
+     "w": "que",
+     "start": 38.92,
+     "end": 39.08
+    },
+    {
+     "w": "dans",
+     "start": 39.08,
+     "end": 39.2
+    },
+    {
+     "w": "la",
+     "start": 39.2,
+     "end": 39.34
+    },
+    {
+     "w": "guerre",
+     "start": 39.34,
+     "end": 39.48
+    },
+    {
+     "w": "de",
+     "start": 39.48,
+     "end": 39.62
+    },
+    {
+     "w": "mille",
+     "start": 39.62,
+     "end": 39.72
+    },
+    {
+     "w": "ans,",
+     "start": 39.72,
+     "end": 39.82
+    },
+    {
+     "w": "on",
+     "start": 40.04,
+     "end": 40.09
+    },
+    {
+     "w": "voit",
+     "start": 40.06,
+     "end": 40.22
+    },
+    {
+     "w": "enfin",
+     "start": 40.22,
+     "end": 40.46
+    },
+    {
+     "w": "sa",
+     "start": 40.46,
+     "end": 40.64
+    },
+    {
+     "w": "forme",
+     "start": 40.64,
+     "end": 40.88
+    },
+    {
+     "w": "complète,",
+     "start": 40.88,
+     "end": 41.32
+    },
+    {
+     "w": "et",
+     "start": 41.32,
+     "end": 41.44
+    },
+    {
+     "w": "il",
+     "start": 41.44,
+     "end": 41.5
+    },
+    {
+     "w": "devient",
+     "start": 41.5,
+     "end": 41.7
+    },
+    {
+     "w": "adulte",
+     "start": 41.7,
+     "end": 42.18
+    },
+    {
+     "w": "d'un",
+     "start": 42.18,
+     "end": 42.38
+    },
+    {
+     "w": "coup.",
+     "start": 42.38,
+     "end": 42.6
+    },
+    {
+     "w": "Ça",
+     "start": 43.02,
+     "end": 43.24
+    },
+    {
+     "w": "m'a",
+     "start": 43.24,
+     "end": 43.36
+    },
+    {
+     "w": "mis",
+     "start": 43.36,
+     "end": 43.48
+    },
+    {
+     "w": "une",
+     "start": 43.48,
+     "end": 43.6
+    },
+    {
+     "w": "claque.",
+     "start": 43.6,
+     "end": 43.88
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 43.94,
+   "end": 50.5,
+   "slot_end": 51.008,
+   "text": "Numéro 2, Kyoraku. Katen Kyokotsu Karamatsu Shinju, et là c'est plus un combat, c'est une pièce de théâtre tragique.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 43.94,
+     "end": 44.2
+    },
+    {
+     "w": "2,",
+     "start": 44.2,
+     "end": 44.46
+    },
+    {
+     "w": "Kyoraku.",
+     "start": 44.62,
+     "end": 45.233
+    },
+    {
+     "w": "Katen",
+     "start": 45.233,
+     "end": 45.847
+    },
+    {
+     "w": "Kyokotsu",
+     "start": 45.847,
+     "end": 46.46
+    },
+    {
+     "w": "Karamatsu",
+     "start": 46.6,
+     "end": 46.92
+    },
+    {
+     "w": "Shinju,",
+     "start": 46.92,
+     "end": 47.56
+    },
+    {
+     "w": "et",
+     "start": 47.8,
+     "end": 47.85
+    },
+    {
+     "w": "là",
+     "start": 47.84,
+     "end": 47.96
+    },
+    {
+     "w": "c'est",
+     "start": 47.96,
+     "end": 48.12
+    },
+    {
+     "w": "plus",
+     "start": 48.12,
+     "end": 48.24
+    },
+    {
+     "w": "un",
+     "start": 48.24,
+     "end": 48.42
+    },
+    {
+     "w": "combat,",
+     "start": 48.42,
+     "end": 48.64
+    },
+    {
+     "w": "c'est",
+     "start": 48.74,
+     "end": 48.82
+    },
+    {
+     "w": "une",
+     "start": 48.82,
+     "end": 48.98
+    },
+    {
+     "w": "pièce",
+     "start": 48.98,
+     "end": 49.12
+    },
+    {
+     "w": "de",
+     "start": 49.12,
+     "end": 49.24
+    },
+    {
+     "w": "théâtre",
+     "start": 49.24,
+     "end": 49.52
+    },
+    {
+     "w": "tragique.",
+     "start": 49.52,
+     "end": 50.5
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 51.0,
+   "end": 55.8,
+   "slot_end": 57.193,
+   "text": "Tous ceux qui sont autour sombrent dans le désespoir, même ses alliés. Pour moi, c'est le Bankai le plus sous-coté de la série.",
+   "words": [
+    {
+     "w": "Tous",
+     "start": 51.0,
+     "end": 51.1
+    },
+    {
+     "w": "ceux",
+     "start": 51.1,
+     "end": 51.3
+    },
+    {
+     "w": "qui",
+     "start": 51.3,
+     "end": 51.46
+    },
+    {
+     "w": "sont",
+     "start": 51.46,
+     "end": 51.64
+    },
+    {
+     "w": "autour",
+     "start": 51.64,
+     "end": 51.94
+    },
+    {
+     "w": "sombrent",
+     "start": 51.94,
+     "end": 52.34
+    },
+    {
+     "w": "dans",
+     "start": 52.34,
+     "end": 52.5
+    },
+    {
+     "w": "le",
+     "start": 52.5,
+     "end": 52.62
+    },
+    {
+     "w": "désespoir,",
+     "start": 52.62,
+     "end": 53.24
+    },
+    {
+     "w": "même",
+     "start": 53.28,
+     "end": 53.46
+    },
+    {
+     "w": "ses",
+     "start": 53.46,
+     "end": 53.64
+    },
+    {
+     "w": "alliés.",
+     "start": 53.64,
+     "end": 53.96
+    },
+    {
+     "w": "Pour",
+     "start": 54.02,
+     "end": 54.12
+    },
+    {
+     "w": "moi,",
+     "start": 54.12,
+     "end": 54.3
+    },
+    {
+     "w": "c'est",
+     "start": 54.44,
+     "end": 54.52
+    },
+    {
+     "w": "le",
+     "start": 54.52,
+     "end": 54.64
+    },
+    {
+     "w": "Bankai",
+     "start": 54.64,
+     "end": 54.84
+    },
+    {
+     "w": "le",
+     "start": 54.84,
+     "end": 54.96
+    },
+    {
+     "w": "plus",
+     "start": 54.96,
+     "end": 55.08
+    },
+    {
+     "w": "sous-coté",
+     "start": 55.08,
+     "end": 55.44
+    },
+    {
+     "w": "de",
+     "start": 55.44,
+     "end": 55.49
+    },
+    {
+     "w": "la",
+     "start": 55.48,
+     "end": 55.6
+    },
+    {
+     "w": "série.",
+     "start": 55.6,
+     "end": 55.8
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 56.38,
+   "end": 62.46,
+   "slot_end": 62.567,
+   "text": "Et numéro 1, Yamamoto. Zanka no Tachi, toutes ses flammes rentrent dans la lame et elle brûle comme un soleil.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 56.38,
+     "end": 57.24
+    },
+    {
+     "w": "numéro",
+     "start": 57.24,
+     "end": 57.42
+    },
+    {
+     "w": "1,",
+     "start": 57.42,
+     "end": 57.84
+    },
+    {
+     "w": "Yamamoto.",
+     "start": 58.04,
+     "end": 58.42
+    },
+    {
+     "w": "Zanka",
+     "start": 59.18,
+     "end": 59.393
+    },
+    {
+     "w": "no",
+     "start": 59.393,
+     "end": 59.607
+    },
+    {
+     "w": "Tachi,",
+     "start": 59.607,
+     "end": 59.82
+    },
+    {
+     "w": "toutes",
+     "start": 60.04,
+     "end": 60.1
+    },
+    {
+     "w": "ses",
+     "start": 60.1,
+     "end": 60.26
+    },
+    {
+     "w": "flammes",
+     "start": 60.26,
+     "end": 60.46
+    },
+    {
+     "w": "rentrent",
+     "start": 60.46,
+     "end": 60.66
+    },
+    {
+     "w": "dans",
+     "start": 60.66,
+     "end": 60.82
+    },
+    {
+     "w": "la",
+     "start": 60.82,
+     "end": 60.96
+    },
+    {
+     "w": "lame",
+     "start": 60.96,
+     "end": 61.18
+    },
+    {
+     "w": "et",
+     "start": 61.46,
+     "end": 61.51
+    },
+    {
+     "w": "elle",
+     "start": 61.48,
+     "end": 61.6
+    },
+    {
+     "w": "brûle",
+     "start": 61.6,
+     "end": 61.84
+    },
+    {
+     "w": "comme",
+     "start": 61.84,
+     "end": 61.96
+    },
+    {
+     "w": "un",
+     "start": 61.96,
+     "end": 62.1
+    },
+    {
+     "w": "soleil.",
+     "start": 62.1,
+     "end": 62.46
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 62.56,
+   "end": 68.46,
+   "slot_end": 68.664,
+   "text": "Rien qu'en le sortant, il assèche l'air de la Soul Society. S'il le garde trop longtemps, tout le monde y passe, ses propres gars compris.",
+   "words": [
+    {
+     "w": "Rien",
+     "start": 62.56,
+     "end": 62.74
+    },
+    {
+     "w": "qu'en",
+     "start": 62.74,
+     "end": 62.9
+    },
+    {
+     "w": "le",
+     "start": 62.9,
+     "end": 62.95
+    },
+    {
+     "w": "sortant,",
+     "start": 62.9,
+     "end": 63.36
+    },
+    {
+     "w": "il",
+     "start": 63.48,
+     "end": 63.54
+    },
+    {
+     "w": "assèche",
+     "start": 63.54,
+     "end": 63.84
+    },
+    {
+     "w": "l'air",
+     "start": 63.84,
+     "end": 64.0
+    },
+    {
+     "w": "de",
+     "start": 64.0,
+     "end": 64.12
+    },
+    {
+     "w": "la",
+     "start": 64.12,
+     "end": 64.22
+    },
+    {
+     "w": "Soul",
+     "start": 64.22,
+     "end": 64.46
+    },
+    {
+     "w": "Society.",
+     "start": 64.46,
+     "end": 64.7
+    },
+    {
+     "w": "S'il",
+     "start": 64.7,
+     "end": 65.18
+    },
+    {
+     "w": "le",
+     "start": 65.18,
+     "end": 65.42
+    },
+    {
+     "w": "garde",
+     "start": 65.42,
+     "end": 65.66
+    },
+    {
+     "w": "trop",
+     "start": 65.66,
+     "end": 65.8
+    },
+    {
+     "w": "longtemps,",
+     "start": 65.8,
+     "end": 66.1
+    },
+    {
+     "w": "tout",
+     "start": 66.66,
+     "end": 66.78
+    },
+    {
+     "w": "le",
+     "start": 66.78,
+     "end": 66.88
+    },
+    {
+     "w": "monde",
+     "start": 66.88,
+     "end": 66.98
+    },
+    {
+     "w": "y",
+     "start": 66.98,
+     "end": 67.12
+    },
+    {
+     "w": "passe,",
+     "start": 67.12,
+     "end": 67.34
+    },
+    {
+     "w": "ses",
+     "start": 67.62,
+     "end": 67.72
+    },
+    {
+     "w": "propres",
+     "start": 67.72,
+     "end": 68.0
+    },
+    {
+     "w": "gars",
+     "start": 68.0,
+     "end": 68.16
+    },
+    {
+     "w": "compris.",
+     "start": 68.16,
+     "end": 68.46
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 68.68,
+   "end": 75.9,
+   "slot_end": 78.03,
+   "text": "Et le pire, c'est la fin. Yhwach arrive, le coupe en deux et lui vole son Bankai. Le capitaine le plus fort de l'histoire, parti comme ça.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 68.68,
+     "end": 68.74
+    },
+    {
+     "w": "le",
+     "start": 68.74,
+     "end": 68.86
+    },
+    {
+     "w": "pire,",
+     "start": 68.86,
+     "end": 69.1
+    },
+    {
+     "w": "c'est",
+     "start": 69.2,
+     "end": 69.26
+    },
+    {
+     "w": "la",
+     "start": 69.26,
+     "end": 69.38
+    },
+    {
+     "w": "fin.",
+     "start": 69.38,
+     "end": 69.5
+    },
+    {
+     "w": "Yhwach",
+     "start": 69.88,
+     "end": 70.18
+    },
+    {
+     "w": "arrive,",
+     "start": 70.18,
+     "end": 70.58
+    },
+    {
+     "w": "le",
+     "start": 71.04,
+     "end": 71.16
+    },
+    {
+     "w": "coupe",
+     "start": 71.16,
+     "end": 71.38
+    },
+    {
+     "w": "en",
+     "start": 71.38,
+     "end": 71.6
+    },
+    {
+     "w": "deux",
+     "start": 71.6,
+     "end": 71.68
+    },
+    {
+     "w": "et",
+     "start": 71.8,
+     "end": 71.85
+    },
+    {
+     "w": "lui",
+     "start": 71.82,
+     "end": 71.94
+    },
+    {
+     "w": "vole",
+     "start": 71.94,
+     "end": 72.06
+    },
+    {
+     "w": "son",
+     "start": 72.06,
+     "end": 72.22
+    },
+    {
+     "w": "Bankai.",
+     "start": 72.22,
+     "end": 72.56
+    },
+    {
+     "w": "Le",
+     "start": 73.68,
+     "end": 73.98
+    },
+    {
+     "w": "capitaine",
+     "start": 73.98,
+     "end": 74.36
+    },
+    {
+     "w": "le",
+     "start": 74.36,
+     "end": 74.46
+    },
+    {
+     "w": "plus",
+     "start": 74.46,
+     "end": 74.58
+    },
+    {
+     "w": "fort",
+     "start": 74.58,
+     "end": 74.74
+    },
+    {
+     "w": "de",
+     "start": 74.74,
+     "end": 74.84
+    },
+    {
+     "w": "l'histoire,",
+     "start": 74.84,
+     "end": 75.14
+    },
+    {
+     "w": "parti",
+     "start": 75.36,
+     "end": 75.52
+    },
+    {
+     "w": "comme",
+     "start": 75.52,
+     "end": 75.68
+    },
+    {
+     "w": "ça.",
+     "start": 75.68,
+     "end": 75.9
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 78.06,
+   "end": 81.44,
+   "slot_end": 82.305,
+   "text": "Alors, c'est quoi ton top 1 ? Dis-le moi en com', même si tu mets Ichigo en premier.",
+   "words": [
+    {
+     "w": "Alors,",
+     "start": 78.06,
+     "end": 78.12
+    },
+    {
+     "w": "c'est",
+     "start": 78.12,
+     "end": 78.36
+    },
+    {
+     "w": "quoi",
+     "start": 78.36,
+     "end": 78.46
+    },
+    {
+     "w": "ton",
+     "start": 78.46,
+     "end": 78.64
+    },
+    {
+     "w": "top",
+     "start": 78.64,
+     "end": 78.82
+    },
+    {
+     "w": "1",
+     "start": 78.82,
+     "end": 79.12
+    },
+    {
+     "w": "?",
+     "start": 79.36,
+     "end": 79.41
+    },
+    {
+     "w": "Dis-le",
+     "start": 79.38,
+     "end": 79.52
+    },
+    {
+     "w": "moi",
+     "start": 79.52,
+     "end": 79.6
+    },
+    {
+     "w": "en",
+     "start": 79.6,
+     "end": 79.72
+    },
+    {
+     "w": "com',",
+     "start": 79.72,
+     "end": 79.9
+    },
+    {
+     "w": "même",
+     "start": 79.9,
+     "end": 80.08
+    },
+    {
+     "w": "si",
+     "start": 80.08,
+     "end": 80.26
+    },
+    {
+     "w": "tu",
+     "start": 80.26,
+     "end": 80.44
+    },
+    {
+     "w": "mets",
+     "start": 80.44,
+     "end": 80.62
+    },
+    {
+     "w": "Ichigo",
+     "start": 80.62,
+     "end": 80.92
+    },
+    {
+     "w": "en",
+     "start": 80.92,
+     "end": 81.14
+    },
+    {
+     "w": "premier.",
+     "start": 81.14,
+     "end": 81.44
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "start": 82.22,
+   "end": 84.38,
+   "slot_end": 85.285,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 82.22,
+     "end": 82.48
+    },
+    {
+     "w": "Asura.",
+     "start": 82.48,
+     "end": 82.84
+    },
+    {
+     "w": "On",
+     "start": 83.2,
+     "end": 83.28
+    },
+    {
+     "w": "se",
+     "start": 83.28,
+     "end": 83.4
+    },
+    {
+     "w": "capte",
+     "start": 83.5,
+     "end": 83.7
+    },
+    {
+     "w": "au",
+     "start": 83.7,
+     "end": 83.78
+    },
+    {
+     "w": "prochain",
+     "start": 83.78,
+     "end": 84.0
+    },
+    {
+     "w": "épisode.",
+     "start": 84.0,
+     "end": 84.38
+    }
+   ]
+  }
+ ],
+ "aligned": 0.997
+}
