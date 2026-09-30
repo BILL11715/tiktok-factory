@@ -1,0 +1,16 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-09-30_1745/video.mp4",
+ "duration": 87.745,
+ "shots": 66,
+ "sources": [
+  "https://anilist.co/anime/189123",
+  "https://kitsu.io/anime/ao-no-hako-2"
+ ],
+ "music": {
+  "file": "pote.mp3",
+  "bpm": 184.6,
+  "offset": 47.39
+ },
+ "sfx": 29,
+ "engine": "remotion (OpenMontage)"
+}
