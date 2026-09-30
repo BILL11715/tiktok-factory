@@ -1,0 +1,30 @@
+{
+  "title": "Reco : son crush emménage chez lui en secret",
+  "format": "reco",
+  "tone": "pote",
+  "music": "pote",
+  "animes": ["Blue Box Season 2"],
+  "hook_text": "Son crush emménage chez lui, et personne au lycée doit le savoir",
+  "spoiler": false,
+  "segments": [
+    {"text": "Son crush emménage chez lui, et personne au lycée doit le savoir.", "sfx": true, "emphasis": ["crush"]},
+    {"text": "[whispering] Reste jusqu'au bout, j'te donne le nom de l'anime et la date de la saison 2.", "emphasis": ["saison 2"]},
+    {"text": "Le gars s'appelle Taiki. Il fait du badminton, et tous les matins il arrive au gymnase avant tout le monde.", "emphasis": ["Taiki"]},
+    {"text": "Sauf qu'y a une fille qui est toujours là avant lui. Elle, c'est Chinatsu, la star de l'équipe de basket, et elle a un an de plus.", "emphasis": ["Chinatsu"]},
+    {"text": "[laughing] Évidemment, il est raide dingue d'elle. Il arrive même pas à lui parler normalement sans bégayer.", "emphasis": ["raide dingue"]},
+    {"text": "Et là, ses parents à elle partent vivre à l'étranger. Pour pas changer de lycée, elle vient habiter chez la famille de Taiki, parce que leurs mères se connaissent.", "sfx": true, "stamp": "COLOC", "emphasis": ["chez"]},
+    {"text": "Donc t'as le mec qui croise son crush en pyjama au petit déj, et interdit d'en parler à qui que ce soit.", "emphasis": ["interdit"]},
+    {"text": "Si toi aussi t'aimes les recos qui changent un peu des combats, abonne-toi, j'en sors tous les jours.", "cta": true, "emphasis": ["abonne-toi"]},
+    {"text": "[excited] Et le truc, c'est que ça reste un vrai anime de sport, avec de la sueur et des défaites.", "emphasis": ["sport"]},
+    {"text": "Taiki veut se qualifier pour l'Inter-High, les championnats nationaux. Chinatsu vise la même chose au basket, donc il s'entraîne comme un malade pour être à sa hauteur.", "emphasis": ["Inter-High"]},
+    {"text": "Et puis y'a Hina, son amie d'enfance, qui fait de la gymnastique rythmique. Et frr, elle aussi elle a des sentiments pour lui.", "sfx": true, "emphasis": ["Hina"]},
+    {"text": "[sigh] Ce triangle amoureux fait mal, j'te préviens. Y'a des scènes où j'étais plus du côté de Hina que de Taiki.", "grade": "bw", "emphasis": ["mal"]},
+    {"text": "Mon avis ? C'est une des romances les plus propres du Shonen Jump. Pas de fan service gratuit, juste des persos qui bossent dur et qui ont peur de tout gâcher.", "stamp": "VALIDÉ", "emphasis": ["propres"]},
+    {"text": "La saison 2 arrive le 4 octobre, donc t'as encore le temps de rattraper la première tranquille ce week-end.", "emphasis": ["4 octobre"]},
+    {"text": "C'est Blue Box, Ao no Hako en VO. Dis-moi en com' si t'es team Chinatsu ou team Hina.", "emphasis": ["Blue Box"]}
+  ],
+  "reveal_text": "Blue Box",
+  "reveal_segments": 1,
+  "caption": "Imagine vivre avec ton crush sans pouvoir le dire à personne 😭 team Chinatsu ou team Hina ?",
+  "hashtags": ["#anime", "#manga", "#animefr", "#mangafr", "#bluebox", "#recommandationanime"]
+}
