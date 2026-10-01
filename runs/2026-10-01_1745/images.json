@@ -1,0 +1,46 @@
+{
+ "STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE": {
+  "meta": {
+   "id": "49847",
+   "title": "Steel Ball Run: JoJo no Kimyou na Bouken",
+   "titles": {
+    "en": "Steel Ball Run: JoJo's Bizarre Adventure",
+    "en_jp": "Steel Ball Run: JoJo no Kimyou na Bouken",
+    "en_us": "STEEL BALL RUN JoJo's Bizarre Adventure",
+    "ja_jp": "スティール・ボール・ラン ジョジョの奇妙な冒険"
+   },
+   "synopsis": "It’s 1890, in America, the Steel Ball Run — the first horse racing championship across the North American continent — was about to begin. Spanning around 4,000 miles, the race offered 50 million dollars as the winning prize.\n\nJohnny Joestar, once hailed as a genius jockey, is now paralysed and lost in despair.\n\nHe finds hope in the mysterious phenomena caused by Gyro Zeppeli, an outlaw aiming to win the race, and determines to participate in the Steel Ball Run Race.\n\nEach having their own goal in mind, the two form an alliance and set foot upon the gruelling adventure and race.\n\n(Source: STEEL BALL RUN: JoJo no Kimyou na Bouken Site, edited)\n\nNote: The first episode initially aired early on March 19th with a runtime of 47 minutes for the First Stage. The eleven episodes for the Second and Third stages began airing weekly on September 25th.",
+   "episodes": 12,
+   "start": "2026-03-19",
+   "source": "https://kitsu.io/anime/steel-ball-run-jojo-no-kimyou-na-bouken"
+  },
+  "wide": [
+   "/home/claude/tiktok-factory/runs/2026-10-01_1745/images/e82b4da74a17.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-01_1745/images/7068ee3b0048.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-01_1745/images/e39375d24e60.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-01_1745/images/6816697b9d98.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-01_1745/images/d6bef8f0d8e6.jpg"
+  ],
+  "tall": [
+   "/home/claude/tiktok-factory/runs/2026-10-01_1745/images/5252e27d9125.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-01_1745/images/392094f023ce.png"
+  ],
+  "characters": {
+   "Johnny Joestar": "/home/claude/tiktok-factory/runs/2026-10-01_1745/images/b42c9a702295.jpg",
+   "Gyro Zeppeli": "/home/claude/tiktok-factory/runs/2026-10-01_1745/images/c0ece76384f6.png",
+   "Hot Pants": "/home/claude/tiktok-factory/runs/2026-10-01_1745/images/c6d478282c70.jpg",
+   "Diego Brando": "/home/claude/tiktok-factory/runs/2026-10-01_1745/images/3d862ed9b57e.png",
+   "Lucy Steel": "/home/claude/tiktok-factory/runs/2026-10-01_1745/images/e8f5d29f13aa.png",
+   "Funny Valentine": "/home/claude/tiktok-factory/runs/2026-10-01_1745/images/d2f549cdbc21.png",
+   "Steven Steel": "/home/claude/tiktok-factory/runs/2026-10-01_1745/images/d035af51b929.png",
+   "Sandman": "/home/claude/tiktok-factory/runs/2026-10-01_1745/images/b0a639d62b03.png",
+   "Pocoloco": "/home/claude/tiktok-factory/runs/2026-10-01_1745/images/1bbc3e191019.png",
+   "Mountain Tim": "/home/claude/tiktok-factory/runs/2026-10-01_1745/images/360991497c47.png",
+   "Mrs.  Robinson": "/home/claude/tiktok-factory/runs/2026-10-01_1745/images/885e5b3f3d19.jpg"
+  },
+  "sources": [
+   "https://kitsu.io/anime/steel-ball-run-jojo-no-kimyou-na-bouken",
+   "https://anilist.co/anime/210482"
+  ]
+ }
+}

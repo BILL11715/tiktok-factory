@@ -1,0 +1,1707 @@
+{
+ "engine": "clone",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-01_1745/voice.wav",
+ "duration": 82.686,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 2.96,
+   "slot_end": 3.163,
+   "text": "Un jockey paralysé traverse l'Amérique à cheval pour 50 millions de dollars.",
+   "words": [
+    {
+     "w": "Un",
+     "start": 0.0,
+     "end": 0.08
+    },
+    {
+     "w": "jockey",
+     "start": 0.08,
+     "end": 0.36
+    },
+    {
+     "w": "paralysé",
+     "start": 0.36,
+     "end": 0.76
+    },
+    {
+     "w": "traverse",
+     "start": 0.8,
+     "end": 0.98
+    },
+    {
+     "w": "l'Amérique",
+     "start": 0.98,
+     "end": 1.38
+    },
+    {
+     "w": "à",
+     "start": 1.38,
+     "end": 1.52
+    },
+    {
+     "w": "cheval",
+     "start": 1.52,
+     "end": 1.74
+    },
+    {
+     "w": "pour",
+     "start": 1.74,
+     "end": 1.92
+    },
+    {
+     "w": "50",
+     "start": 1.92,
+     "end": 2.22
+    },
+    {
+     "w": "millions",
+     "start": 2.22,
+     "end": 2.5
+    },
+    {
+     "w": "de",
+     "start": 2.5,
+     "end": 2.64
+    },
+    {
+     "w": "dollars.",
+     "start": 2.64,
+     "end": 2.96
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 3.16,
+   "end": 5.9,
+   "slot_end": 6.033,
+   "text": "Reste jusqu'au bout, le nom de l'anime va te surprendre, j'te jure.",
+   "words": [
+    {
+     "w": "Reste",
+     "start": 3.16,
+     "end": 3.34
+    },
+    {
+     "w": "jusqu'au",
+     "start": 3.34,
+     "end": 3.62
+    },
+    {
+     "w": "bout,",
+     "start": 3.62,
+     "end": 3.82
+    },
+    {
+     "w": "le",
+     "start": 3.96,
+     "end": 4.06
+    },
+    {
+     "w": "nom",
+     "start": 4.06,
+     "end": 4.18
+    },
+    {
+     "w": "de",
+     "start": 4.18,
+     "end": 4.26
+    },
+    {
+     "w": "l'anime",
+     "start": 4.26,
+     "end": 4.52
+    },
+    {
+     "w": "va",
+     "start": 4.52,
+     "end": 4.66
+    },
+    {
+     "w": "te",
+     "start": 4.66,
+     "end": 4.76
+    },
+    {
+     "w": "surprendre,",
+     "start": 4.76,
+     "end": 5.34
+    },
+    {
+     "w": "j'te",
+     "start": 5.4,
+     "end": 5.62
+    },
+    {
+     "w": "jure.",
+     "start": 5.62,
+     "end": 5.9
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 6.02,
+   "end": 13.01,
+   "slot_end": 12.93,
+   "text": "On est en 1890. Une course de chevaux part de San Diego et doit traverser tout le pays jusqu'à New York, genre six mille bornes.",
+   "words": [
+    {
+     "w": "On",
+     "start": 6.02,
+     "end": 6.12
+    },
+    {
+     "w": "est",
+     "start": 6.12,
+     "end": 6.26
+    },
+    {
+     "w": "en",
+     "start": 6.26,
+     "end": 6.31
+    },
+    {
+     "w": "1890.",
+     "start": 6.28,
+     "end": 7.14
+    },
+    {
+     "w": "Une",
+     "start": 7.7,
+     "end": 7.9
+    },
+    {
+     "w": "course",
+     "start": 7.9,
+     "end": 8.12
+    },
+    {
+     "w": "de",
+     "start": 8.12,
+     "end": 8.34
+    },
+    {
+     "w": "chevaux",
+     "start": 8.34,
+     "end": 8.68
+    },
+    {
+     "w": "part",
+     "start": 8.68,
+     "end": 8.92
+    },
+    {
+     "w": "de",
+     "start": 8.92,
+     "end": 9.16
+    },
+    {
+     "w": "San",
+     "start": 9.16,
+     "end": 9.4
+    },
+    {
+     "w": "Diego",
+     "start": 9.4,
+     "end": 9.64
+    },
+    {
+     "w": "et",
+     "start": 9.64,
+     "end": 9.72
+    },
+    {
+     "w": "doit",
+     "start": 9.72,
+     "end": 9.9
+    },
+    {
+     "w": "traverser",
+     "start": 9.9,
+     "end": 10.36
+    },
+    {
+     "w": "tout",
+     "start": 10.36,
+     "end": 10.46
+    },
+    {
+     "w": "le",
+     "start": 10.46,
+     "end": 10.58
+    },
+    {
+     "w": "pays",
+     "start": 10.58,
+     "end": 10.74
+    },
+    {
+     "w": "jusqu'à",
+     "start": 10.74,
+     "end": 11.06
+    },
+    {
+     "w": "New",
+     "start": 11.06,
+     "end": 11.18
+    },
+    {
+     "w": "York,",
+     "start": 11.18,
+     "end": 11.5
+    },
+    {
+     "w": "genre",
+     "start": 11.88,
+     "end": 12.08
+    },
+    {
+     "w": "six",
+     "start": 12.08,
+     "end": 12.34
+    },
+    {
+     "w": "mille",
+     "start": 12.34,
+     "end": 12.8
+    },
+    {
+     "w": "bornes.",
+     "start": 12.96,
+     "end": 13.01
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 12.98,
+   "end": 16.64,
+   "slot_end": 16.836,
+   "text": "Y'a une tonne de cavaliers au départ, et le premier arrivé repart avec le pactole.",
+   "words": [
+    {
+     "w": "Y'a",
+     "start": 12.98,
+     "end": 13.04
+    },
+    {
+     "w": "une",
+     "start": 13.04,
+     "end": 13.18
+    },
+    {
+     "w": "tonne",
+     "start": 13.18,
+     "end": 13.38
+    },
+    {
+     "w": "de",
+     "start": 13.38,
+     "end": 13.48
+    },
+    {
+     "w": "cavaliers",
+     "start": 13.48,
+     "end": 13.86
+    },
+    {
+     "w": "au",
+     "start": 13.86,
+     "end": 13.96
+    },
+    {
+     "w": "départ,",
+     "start": 13.96,
+     "end": 14.22
+    },
+    {
+     "w": "et",
+     "start": 14.22,
+     "end": 14.68
+    },
+    {
+     "w": "le",
+     "start": 14.68,
+     "end": 14.82
+    },
+    {
+     "w": "premier",
+     "start": 14.82,
+     "end": 15.06
+    },
+    {
+     "w": "arrivé",
+     "start": 15.06,
+     "end": 15.46
+    },
+    {
+     "w": "repart",
+     "start": 15.46,
+     "end": 15.86
+    },
+    {
+     "w": "avec",
+     "start": 15.86,
+     "end": 16.08
+    },
+    {
+     "w": "le",
+     "start": 16.08,
+     "end": 16.24
+    },
+    {
+     "w": "pactole.",
+     "start": 16.24,
+     "end": 16.64
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 16.82,
+   "end": 21.48,
+   "slot_end": 21.643,
+   "text": "Dans la foule y'a Johnny. Ancien jockey star, il a perdu l'usage de ses jambes, il est en fauteuil et il a plus rien.",
+   "words": [
+    {
+     "w": "Dans",
+     "start": 16.82,
+     "end": 16.94
+    },
+    {
+     "w": "la",
+     "start": 16.94,
+     "end": 17.08
+    },
+    {
+     "w": "foule",
+     "start": 17.08,
+     "end": 17.21
+    },
+    {
+     "w": "y'a",
+     "start": 17.21,
+     "end": 17.4
+    },
+    {
+     "w": "Johnny.",
+     "start": 17.4,
+     "end": 17.64
+    },
+    {
+     "w": "Ancien",
+     "start": 18.12,
+     "end": 18.4
+    },
+    {
+     "w": "jockey",
+     "start": 18.4,
+     "end": 18.6
+    },
+    {
+     "w": "star,",
+     "start": 18.6,
+     "end": 18.92
+    },
+    {
+     "w": "il",
+     "start": 19.12,
+     "end": 19.18
+    },
+    {
+     "w": "a",
+     "start": 19.18,
+     "end": 19.26
+    },
+    {
+     "w": "perdu",
+     "start": 19.26,
+     "end": 19.4
+    },
+    {
+     "w": "l'usage",
+     "start": 19.4,
+     "end": 19.74
+    },
+    {
+     "w": "de",
+     "start": 19.74,
+     "end": 19.86
+    },
+    {
+     "w": "ses",
+     "start": 19.86,
+     "end": 19.96
+    },
+    {
+     "w": "jambes,",
+     "start": 19.96,
+     "end": 20.3
+    },
+    {
+     "w": "il",
+     "start": 20.4,
+     "end": 20.45
+    },
+    {
+     "w": "est",
+     "start": 20.42,
+     "end": 20.5
+    },
+    {
+     "w": "en",
+     "start": 20.5,
+     "end": 20.6
+    },
+    {
+     "w": "fauteuil",
+     "start": 20.6,
+     "end": 20.92
+    },
+    {
+     "w": "et",
+     "start": 20.92,
+     "end": 21.04
+    },
+    {
+     "w": "il",
+     "start": 21.04,
+     "end": 21.1
+    },
+    {
+     "w": "a",
+     "start": 21.16,
+     "end": 21.21
+    },
+    {
+     "w": "plus",
+     "start": 21.16,
+     "end": 21.26
+    },
+    {
+     "w": "rien.",
+     "start": 21.26,
+     "end": 21.48
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 21.72,
+   "end": 27.66,
+   "slot_end": 27.741,
+   "text": "Et là il croise Gyro, un mec chelou qui fait tourner des boules d'acier. Johnny en touche une, et ses jambes bougent. Juste une seconde.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 21.72,
+     "end": 21.77
+    },
+    {
+     "w": "là",
+     "start": 21.76,
+     "end": 21.9
+    },
+    {
+     "w": "il",
+     "start": 21.9,
+     "end": 22.02
+    },
+    {
+     "w": "croise",
+     "start": 22.02,
+     "end": 22.34
+    },
+    {
+     "w": "Gyro,",
+     "start": 22.34,
+     "end": 22.86
+    },
+    {
+     "w": "un",
+     "start": 23.1,
+     "end": 23.2
+    },
+    {
+     "w": "mec",
+     "start": 23.2,
+     "end": 23.34
+    },
+    {
+     "w": "chelou",
+     "start": 23.34,
+     "end": 23.64
+    },
+    {
+     "w": "qui",
+     "start": 23.64,
+     "end": 24.04
+    },
+    {
+     "w": "fait",
+     "start": 24.04,
+     "end": 24.18
+    },
+    {
+     "w": "tourner",
+     "start": 24.18,
+     "end": 24.44
+    },
+    {
+     "w": "des",
+     "start": 24.44,
+     "end": 24.56
+    },
+    {
+     "w": "boules",
+     "start": 24.56,
+     "end": 24.72
+    },
+    {
+     "w": "d'acier.",
+     "start": 24.72,
+     "end": 25.06
+    },
+    {
+     "w": "Johnny",
+     "start": 25.18,
+     "end": 25.4
+    },
+    {
+     "w": "en",
+     "start": 25.4,
+     "end": 25.5
+    },
+    {
+     "w": "touche",
+     "start": 25.5,
+     "end": 25.8
+    },
+    {
+     "w": "une,",
+     "start": 25.8,
+     "end": 25.96
+    },
+    {
+     "w": "et",
+     "start": 25.96,
+     "end": 26.14
+    },
+    {
+     "w": "ses",
+     "start": 26.14,
+     "end": 26.26
+    },
+    {
+     "w": "jambes",
+     "start": 26.26,
+     "end": 26.46
+    },
+    {
+     "w": "bougent.",
+     "start": 26.46,
+     "end": 26.84
+    },
+    {
+     "w": "Juste",
+     "start": 26.88,
+     "end": 27.1
+    },
+    {
+     "w": "une",
+     "start": 27.1,
+     "end": 27.28
+    },
+    {
+     "w": "seconde.",
+     "start": 27.28,
+     "end": 27.66
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 27.66,
+   "end": 33.82,
+   "slot_end": 33.797,
+   "text": "Du coup il s'inscrit à la course alors qu'il tient à peine sur un cheval. Il veut qu'une chose, le secret de Gyro.",
+   "words": [
+    {
+     "w": "Du",
+     "start": 27.66,
+     "end": 27.88
+    },
+    {
+     "w": "coup",
+     "start": 27.88,
+     "end": 28.14
+    },
+    {
+     "w": "il",
+     "start": 28.38,
+     "end": 28.44
+    },
+    {
+     "w": "s'inscrit",
+     "start": 28.44,
+     "end": 28.86
+    },
+    {
+     "w": "à",
+     "start": 28.86,
+     "end": 29.1
+    },
+    {
+     "w": "la",
+     "start": 29.1,
+     "end": 29.22
+    },
+    {
+     "w": "course",
+     "start": 29.22,
+     "end": 29.44
+    },
+    {
+     "w": "alors",
+     "start": 29.44,
+     "end": 29.72
+    },
+    {
+     "w": "qu'il",
+     "start": 29.72,
+     "end": 29.96
+    },
+    {
+     "w": "tient",
+     "start": 29.96,
+     "end": 30.1
+    },
+    {
+     "w": "à",
+     "start": 30.1,
+     "end": 30.3
+    },
+    {
+     "w": "peine",
+     "start": 30.3,
+     "end": 30.44
+    },
+    {
+     "w": "sur",
+     "start": 30.44,
+     "end": 30.64
+    },
+    {
+     "w": "un",
+     "start": 30.64,
+     "end": 30.72
+    },
+    {
+     "w": "cheval.",
+     "start": 30.72,
+     "end": 31.0
+    },
+    {
+     "w": "Il",
+     "start": 31.18,
+     "end": 31.23
+    },
+    {
+     "w": "veut",
+     "start": 31.18,
+     "end": 31.26
+    },
+    {
+     "w": "qu'une",
+     "start": 31.26,
+     "end": 31.44
+    },
+    {
+     "w": "chose,",
+     "start": 31.44,
+     "end": 31.64
+    },
+    {
+     "w": "le",
+     "start": 33.06,
+     "end": 33.26
+    },
+    {
+     "w": "secret",
+     "start": 33.26,
+     "end": 33.62
+    },
+    {
+     "w": "de",
+     "start": 33.62,
+     "end": 33.72
+    },
+    {
+     "w": "Gyro.",
+     "start": 33.72,
+     "end": 33.82
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 33.82,
+   "end": 38.06,
+   "slot_end": 38.193,
+   "text": "Si t'aimes les recos comme ça, abonne-toi, j'en sors une tous les jours et la prochaine est encore plus folle.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 33.82,
+     "end": 33.92
+    },
+    {
+     "w": "t'aimes",
+     "start": 33.92,
+     "end": 34.18
+    },
+    {
+     "w": "les",
+     "start": 34.18,
+     "end": 34.34
+    },
+    {
+     "w": "recos",
+     "start": 34.34,
+     "end": 34.6
+    },
+    {
+     "w": "comme",
+     "start": 34.6,
+     "end": 34.8
+    },
+    {
+     "w": "ça,",
+     "start": 34.8,
+     "end": 35.0
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 35.22,
+     "end": 35.6
+    },
+    {
+     "w": "j'en",
+     "start": 35.98,
+     "end": 36.14
+    },
+    {
+     "w": "sors",
+     "start": 36.14,
+     "end": 36.28
+    },
+    {
+     "w": "une",
+     "start": 36.28,
+     "end": 36.42
+    },
+    {
+     "w": "tous",
+     "start": 36.42,
+     "end": 36.58
+    },
+    {
+     "w": "les",
+     "start": 36.58,
+     "end": 36.7
+    },
+    {
+     "w": "jours",
+     "start": 36.7,
+     "end": 36.84
+    },
+    {
+     "w": "et",
+     "start": 36.84,
+     "end": 36.92
+    },
+    {
+     "w": "la",
+     "start": 36.92,
+     "end": 37.0
+    },
+    {
+     "w": "prochaine",
+     "start": 37.0,
+     "end": 37.24
+    },
+    {
+     "w": "est",
+     "start": 37.24,
+     "end": 37.38
+    },
+    {
+     "w": "encore",
+     "start": 37.38,
+     "end": 37.54
+    },
+    {
+     "w": "plus",
+     "start": 37.54,
+     "end": 37.74
+    },
+    {
+     "w": "folle.",
+     "start": 37.74,
+     "end": 38.06
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 38.18,
+   "end": 43.8,
+   "slot_end": 43.94,
+   "text": "Mais attends, c'est pas juste une course. Des morceaux d'un cadavre légendaire sont cachés le long du parcours, et tout le monde se les arrache.",
+   "words": [
+    {
+     "w": "Mais",
+     "start": 38.18,
+     "end": 38.36
+    },
+    {
+     "w": "attends,",
+     "start": 38.36,
+     "end": 38.66
+    },
+    {
+     "w": "c'est",
+     "start": 38.94,
+     "end": 39.04
+    },
+    {
+     "w": "pas",
+     "start": 39.04,
+     "end": 39.14
+    },
+    {
+     "w": "juste",
+     "start": 39.14,
+     "end": 39.32
+    },
+    {
+     "w": "une",
+     "start": 39.32,
+     "end": 39.48
+    },
+    {
+     "w": "course.",
+     "start": 39.48,
+     "end": 39.76
+    },
+    {
+     "w": "Des",
+     "start": 40.02,
+     "end": 40.1
+    },
+    {
+     "w": "morceaux",
+     "start": 40.1,
+     "end": 40.36
+    },
+    {
+     "w": "d'un",
+     "start": 40.36,
+     "end": 40.52
+    },
+    {
+     "w": "cadavre",
+     "start": 40.52,
+     "end": 40.76
+    },
+    {
+     "w": "légendaire",
+     "start": 40.76,
+     "end": 41.22
+    },
+    {
+     "w": "sont",
+     "start": 41.22,
+     "end": 41.34
+    },
+    {
+     "w": "cachés",
+     "start": 41.34,
+     "end": 41.62
+    },
+    {
+     "w": "le",
+     "start": 41.62,
+     "end": 41.74
+    },
+    {
+     "w": "long",
+     "start": 41.74,
+     "end": 41.84
+    },
+    {
+     "w": "du",
+     "start": 41.84,
+     "end": 41.94
+    },
+    {
+     "w": "parcours,",
+     "start": 41.94,
+     "end": 42.42
+    },
+    {
+     "w": "et",
+     "start": 42.74,
+     "end": 42.9
+    },
+    {
+     "w": "tout",
+     "start": 42.9,
+     "end": 43.02
+    },
+    {
+     "w": "le",
+     "start": 43.02,
+     "end": 43.08
+    },
+    {
+     "w": "monde",
+     "start": 43.08,
+     "end": 43.18
+    },
+    {
+     "w": "se",
+     "start": 43.18,
+     "end": 43.3
+    },
+    {
+     "w": "les",
+     "start": 43.3,
+     "end": 43.4
+    },
+    {
+     "w": "arrache.",
+     "start": 43.4,
+     "end": 43.8
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 43.96,
+   "end": 49.44,
+   "slot_end": 50.74,
+   "text": "Même le président des États-Unis, Valentine, envoie ses tueurs pour les récupérer. Ouais, le président en personne.",
+   "words": [
+    {
+     "w": "Même",
+     "start": 43.96,
+     "end": 44.1
+    },
+    {
+     "w": "le",
+     "start": 44.1,
+     "end": 44.3
+    },
+    {
+     "w": "président",
+     "start": 44.3,
+     "end": 44.6
+    },
+    {
+     "w": "des",
+     "start": 44.6,
+     "end": 44.8
+    },
+    {
+     "w": "États-Unis,",
+     "start": 44.8,
+     "end": 45.47
+    },
+    {
+     "w": "Valentine,",
+     "start": 45.47,
+     "end": 46.14
+    },
+    {
+     "w": "envoie",
+     "start": 46.5,
+     "end": 46.8
+    },
+    {
+     "w": "ses",
+     "start": 46.8,
+     "end": 46.98
+    },
+    {
+     "w": "tueurs",
+     "start": 46.98,
+     "end": 47.22
+    },
+    {
+     "w": "pour",
+     "start": 47.22,
+     "end": 47.34
+    },
+    {
+     "w": "les",
+     "start": 47.34,
+     "end": 47.46
+    },
+    {
+     "w": "récupérer.",
+     "start": 47.46,
+     "end": 47.9
+    },
+    {
+     "w": "Ouais,",
+     "start": 48.3,
+     "end": 48.42
+    },
+    {
+     "w": "le",
+     "start": 48.5,
+     "end": 48.56
+    },
+    {
+     "w": "président",
+     "start": 48.56,
+     "end": 48.86
+    },
+    {
+     "w": "en",
+     "start": 48.86,
+     "end": 49.08
+    },
+    {
+     "w": "personne.",
+     "start": 49.08,
+     "end": 49.44
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 50.78,
+   "end": 58.12,
+   "slot_end": 58.265,
+   "text": "Et le duo Johnny et Gyro, c'est le meilleur du truc. Gyro qui chante sa chanson débile sur le fromage pendant que Johnny galère, j'en peux plus.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 50.78,
+     "end": 50.84
+    },
+    {
+     "w": "le",
+     "start": 50.84,
+     "end": 51.0
+    },
+    {
+     "w": "duo",
+     "start": 51.0,
+     "end": 51.16
+    },
+    {
+     "w": "Johnny",
+     "start": 51.16,
+     "end": 51.5
+    },
+    {
+     "w": "et",
+     "start": 51.5,
+     "end": 51.68
+    },
+    {
+     "w": "Gyro,",
+     "start": 51.68,
+     "end": 51.94
+    },
+    {
+     "w": "c'est",
+     "start": 52.04,
+     "end": 52.12
+    },
+    {
+     "w": "le",
+     "start": 52.12,
+     "end": 52.2
+    },
+    {
+     "w": "meilleur",
+     "start": 52.2,
+     "end": 52.36
+    },
+    {
+     "w": "du",
+     "start": 52.36,
+     "end": 52.52
+    },
+    {
+     "w": "truc.",
+     "start": 52.52,
+     "end": 52.8
+    },
+    {
+     "w": "Gyro",
+     "start": 53.56,
+     "end": 54.66
+    },
+    {
+     "w": "qui",
+     "start": 54.66,
+     "end": 54.9
+    },
+    {
+     "w": "chante",
+     "start": 54.9,
+     "end": 55.08
+    },
+    {
+     "w": "sa",
+     "start": 55.08,
+     "end": 55.26
+    },
+    {
+     "w": "chanson",
+     "start": 55.26,
+     "end": 55.46
+    },
+    {
+     "w": "débile",
+     "start": 55.46,
+     "end": 55.9
+    },
+    {
+     "w": "sur",
+     "start": 55.9,
+     "end": 56.06
+    },
+    {
+     "w": "le",
+     "start": 56.06,
+     "end": 56.16
+    },
+    {
+     "w": "fromage",
+     "start": 56.16,
+     "end": 56.52
+    },
+    {
+     "w": "pendant",
+     "start": 56.52,
+     "end": 56.7
+    },
+    {
+     "w": "que",
+     "start": 56.7,
+     "end": 56.9
+    },
+    {
+     "w": "Johnny",
+     "start": 56.9,
+     "end": 57.1
+    },
+    {
+     "w": "galère,",
+     "start": 57.1,
+     "end": 57.42
+    },
+    {
+     "w": "j'en",
+     "start": 57.42,
+     "end": 57.72
+    },
+    {
+     "w": "peux",
+     "start": 57.72,
+     "end": 57.82
+    },
+    {
+     "w": "plus.",
+     "start": 57.82,
+     "end": 58.12
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 58.3,
+   "end": 65.64,
+   "slot_end": 66.989,
+   "text": "Mon avis, c'est la meilleure partie de toute la saga, et je pèse mes mots. Le dessin est fou et la fin m'a retourné le cerveau.",
+   "words": [
+    {
+     "w": "Mon",
+     "start": 58.3,
+     "end": 58.35
+    },
+    {
+     "w": "avis,",
+     "start": 58.34,
+     "end": 58.52
+    },
+    {
+     "w": "c'est",
+     "start": 58.52,
+     "end": 58.76
+    },
+    {
+     "w": "la",
+     "start": 58.76,
+     "end": 58.86
+    },
+    {
+     "w": "meilleure",
+     "start": 58.86,
+     "end": 59.08
+    },
+    {
+     "w": "partie",
+     "start": 59.08,
+     "end": 59.3
+    },
+    {
+     "w": "de",
+     "start": 59.3,
+     "end": 59.46
+    },
+    {
+     "w": "toute",
+     "start": 59.46,
+     "end": 59.56
+    },
+    {
+     "w": "la",
+     "start": 59.56,
+     "end": 59.74
+    },
+    {
+     "w": "saga,",
+     "start": 59.74,
+     "end": 59.94
+    },
+    {
+     "w": "et",
+     "start": 59.94,
+     "end": 60.64
+    },
+    {
+     "w": "je",
+     "start": 60.64,
+     "end": 60.76
+    },
+    {
+     "w": "pèse",
+     "start": 60.76,
+     "end": 61.0
+    },
+    {
+     "w": "mes",
+     "start": 61.0,
+     "end": 61.16
+    },
+    {
+     "w": "mots.",
+     "start": 61.16,
+     "end": 61.36
+    },
+    {
+     "w": "Le",
+     "start": 62.7,
+     "end": 63.06
+    },
+    {
+     "w": "dessin",
+     "start": 63.06,
+     "end": 63.52
+    },
+    {
+     "w": "est",
+     "start": 63.52,
+     "end": 63.74
+    },
+    {
+     "w": "fou",
+     "start": 63.74,
+     "end": 64.04
+    },
+    {
+     "w": "et",
+     "start": 64.04,
+     "end": 64.34
+    },
+    {
+     "w": "la",
+     "start": 64.34,
+     "end": 64.46
+    },
+    {
+     "w": "fin",
+     "start": 64.46,
+     "end": 64.64
+    },
+    {
+     "w": "m'a",
+     "start": 64.64,
+     "end": 64.82
+    },
+    {
+     "w": "retourné",
+     "start": 64.82,
+     "end": 65.14
+    },
+    {
+     "w": "le",
+     "start": 65.14,
+     "end": 65.22
+    },
+    {
+     "w": "cerveau.",
+     "start": 65.22,
+     "end": 65.64
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 66.9,
+   "end": 71.88,
+   "slot_end": 73.062,
+   "text": "Et si t'as jamais osé commencer cette saga parce qu'elle est trop longue, bonne nouvelle, cette histoire se suit toute seule.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 66.9,
+     "end": 67.08
+    },
+    {
+     "w": "si",
+     "start": 67.08,
+     "end": 67.22
+    },
+    {
+     "w": "t'as",
+     "start": 67.22,
+     "end": 67.36
+    },
+    {
+     "w": "jamais",
+     "start": 67.36,
+     "end": 67.58
+    },
+    {
+     "w": "osé",
+     "start": 67.58,
+     "end": 67.88
+    },
+    {
+     "w": "commencer",
+     "start": 67.88,
+     "end": 68.12
+    },
+    {
+     "w": "cette",
+     "start": 68.12,
+     "end": 68.46
+    },
+    {
+     "w": "saga",
+     "start": 68.46,
+     "end": 68.74
+    },
+    {
+     "w": "parce",
+     "start": 68.74,
+     "end": 68.92
+    },
+    {
+     "w": "qu'elle",
+     "start": 68.92,
+     "end": 69.08
+    },
+    {
+     "w": "est",
+     "start": 69.08,
+     "end": 69.16
+    },
+    {
+     "w": "trop",
+     "start": 69.16,
+     "end": 69.3
+    },
+    {
+     "w": "longue,",
+     "start": 69.3,
+     "end": 69.6
+    },
+    {
+     "w": "bonne",
+     "start": 69.84,
+     "end": 69.96
+    },
+    {
+     "w": "nouvelle,",
+     "start": 69.96,
+     "end": 70.26
+    },
+    {
+     "w": "cette",
+     "start": 70.68,
+     "end": 70.82
+    },
+    {
+     "w": "histoire",
+     "start": 70.82,
+     "end": 71.16
+    },
+    {
+     "w": "se",
+     "start": 71.16,
+     "end": 71.32
+    },
+    {
+     "w": "suit",
+     "start": 71.32,
+     "end": 71.48
+    },
+    {
+     "w": "toute",
+     "start": 71.48,
+     "end": 71.64
+    },
+    {
+     "w": "seule.",
+     "start": 71.64,
+     "end": 71.88
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 72.86,
+   "end": 75.38,
+   "slot_end": 75.529,
+   "text": "La suite de l'anime sort en ce moment, c'est le moment de rattraper.",
+   "words": [
+    {
+     "w": "La",
+     "start": 72.86,
+     "end": 73.14
+    },
+    {
+     "w": "suite",
+     "start": 73.14,
+     "end": 73.28
+    },
+    {
+     "w": "de",
+     "start": 73.28,
+     "end": 73.46
+    },
+    {
+     "w": "l'anime",
+     "start": 73.46,
+     "end": 73.74
+    },
+    {
+     "w": "sort",
+     "start": 73.74,
+     "end": 73.96
+    },
+    {
+     "w": "en",
+     "start": 73.96,
+     "end": 74.1
+    },
+    {
+     "w": "ce",
+     "start": 74.1,
+     "end": 74.22
+    },
+    {
+     "w": "moment,",
+     "start": 74.22,
+     "end": 74.46
+    },
+    {
+     "w": "c'est",
+     "start": 74.54,
+     "end": 74.64
+    },
+    {
+     "w": "le",
+     "start": 74.64,
+     "end": 74.72
+    },
+    {
+     "w": "moment",
+     "start": 74.72,
+     "end": 74.84
+    },
+    {
+     "w": "de",
+     "start": 74.84,
+     "end": 74.98
+    },
+    {
+     "w": "rattraper.",
+     "start": 74.98,
+     "end": 75.38
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 75.38,
+   "end": 79.44,
+   "slot_end": 79.706,
+   "text": "C'est Steel Ball Run, la partie 7 de JoJo. Dis-moi en com' si t'as déjà lu le manga.",
+   "words": [
+    {
+     "w": "C'est",
+     "start": 75.38,
+     "end": 75.804
+    },
+    {
+     "w": "Steel",
+     "start": 75.804,
+     "end": 76.016
+    },
+    {
+     "w": "Ball",
+     "start": 76.016,
+     "end": 76.228
+    },
+    {
+     "w": "Run,",
+     "start": 76.228,
+     "end": 76.44
+    },
+    {
+     "w": "la",
+     "start": 76.84,
+     "end": 76.98
+    },
+    {
+     "w": "partie",
+     "start": 76.98,
+     "end": 77.2
+    },
+    {
+     "w": "7",
+     "start": 77.2,
+     "end": 77.46
+    },
+    {
+     "w": "de",
+     "start": 77.46,
+     "end": 77.62
+    },
+    {
+     "w": "JoJo.",
+     "start": 77.62,
+     "end": 77.9
+    },
+    {
+     "w": "Dis-moi",
+     "start": 78.02,
+     "end": 78.1
+    },
+    {
+     "w": "en",
+     "start": 78.1,
+     "end": 78.28
+    },
+    {
+     "w": "com'",
+     "start": 78.38,
+     "end": 78.5
+    },
+    {
+     "w": "si",
+     "start": 78.5,
+     "end": 78.74
+    },
+    {
+     "w": "t'as",
+     "start": 78.74,
+     "end": 78.86
+    },
+    {
+     "w": "déjà",
+     "start": 78.86,
+     "end": 79.06
+    },
+    {
+     "w": "lu",
+     "start": 79.06,
+     "end": 79.18
+    },
+    {
+     "w": "le",
+     "start": 79.18,
+     "end": 79.28
+    },
+    {
+     "w": "manga.",
+     "start": 79.28,
+     "end": 79.44
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "start": 79.72,
+   "end": 81.84,
+   "slot_end": 82.686,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 79.72,
+     "end": 79.88
+    },
+    {
+     "w": "Asura.",
+     "start": 79.88,
+     "end": 80.32
+    },
+    {
+     "w": "On",
+     "start": 80.6,
+     "end": 80.68
+    },
+    {
+     "w": "se",
+     "start": 80.68,
+     "end": 80.82
+    },
+    {
+     "w": "capte",
+     "start": 80.82,
+     "end": 81.1
+    },
+    {
+     "w": "au",
+     "start": 81.1,
+     "end": 81.16
+    },
+    {
+     "w": "prochain",
+     "start": 81.16,
+     "end": 81.4
+    },
+    {
+     "w": "épisode.",
+     "start": 81.4,
+     "end": 81.84
+    }
+   ]
+  }
+ ],
+ "aligned": 1.0
+}
