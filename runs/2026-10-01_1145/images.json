@@ -1,0 +1,32 @@
+{
+ "Kage no Jitsuryokusha ni Naritakute!: Zankyou-hen": {
+  "meta": {
+   "id": "48346",
+   "title": "Kage no Jitsuryokusha ni Naritakute!: Zankyou-hen",
+   "titles": {
+    "en": "The Eminence in Shadow: Lost Echoes",
+    "en_jp": "Kage no Jitsuryokusha ni Naritakute!: Zankyou-hen",
+    "ja_jp": "劇場版 陰の実力者になりたくて！ 残響編"
+   },
+   "synopsis": "Theatrical follow-up to Kage no Jitsuryokusha ni Naritakute! 2nd season.",
+   "episodes": 1,
+   "start": null,
+   "source": "https://kitsu.io/anime/Kage-no-Jitsuryokusha-ni-Naritakute-Zankyouhen"
+  },
+  "wide": [],
+  "tall": [
+   "/home/claude/tiktok-factory/runs/2026-10-01_1145/images/8db0f6a5b404.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-01_1145/images/93da3f897575.jpg"
+  ],
+  "characters": {
+   "Cid Kagenou": "/home/claude/tiktok-factory/runs/2026-10-01_1145/images/9b1f4e735b68.jpg",
+   "Beta": "/home/claude/tiktok-factory/runs/2026-10-01_1145/images/4b876e4a314b.png",
+   "Akane Nishino": "/home/claude/tiktok-factory/runs/2026-10-01_1145/images/9b65f983ab28.png",
+   "Mordred": "/home/claude/tiktok-factory/runs/2026-10-01_1145/images/4530b353c1ed.png"
+  },
+  "sources": [
+   "https://kitsu.io/anime/Kage-no-Jitsuryokusha-ni-Naritakute-Zankyouhen",
+   "https://anilist.co/anime/171952"
+  ]
+ }
+}

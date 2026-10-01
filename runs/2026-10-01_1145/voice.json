@@ -1,0 +1,1693 @@
+{
+ "engine": "clone",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-01_1145/voice.wav",
+ "duration": 85.84,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 2.46,
+   "slot_end": 2.582,
+   "text": "Cid fait pas semblant d'être fort, il fait semblant d'être bête.",
+   "words": [
+    {
+     "w": "Cid",
+     "start": 0.0,
+     "end": 0.22
+    },
+    {
+     "w": "fait",
+     "start": 0.22,
+     "end": 0.44
+    },
+    {
+     "w": "pas",
+     "start": 0.44,
+     "end": 0.62
+    },
+    {
+     "w": "semblant",
+     "start": 0.62,
+     "end": 0.9
+    },
+    {
+     "w": "d'être",
+     "start": 0.9,
+     "end": 1.1
+    },
+    {
+     "w": "fort,",
+     "start": 1.1,
+     "end": 1.44
+    },
+    {
+     "w": "il",
+     "start": 1.54,
+     "end": 1.59
+    },
+    {
+     "w": "fait",
+     "start": 1.56,
+     "end": 1.7
+    },
+    {
+     "w": "semblant",
+     "start": 1.7,
+     "end": 1.94
+    },
+    {
+     "w": "d'être",
+     "start": 1.94,
+     "end": 2.14
+    },
+    {
+     "w": "bête.",
+     "start": 2.14,
+     "end": 2.46
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 2.54,
+   "end": 5.18,
+   "slot_end": 5.386,
+   "text": "Reste jusqu'au bout, le dernier point change toute la série.",
+   "words": [
+    {
+     "w": "Reste",
+     "start": 2.54,
+     "end": 2.7
+    },
+    {
+     "w": "jusqu'au",
+     "start": 2.7,
+     "end": 3.32
+    },
+    {
+     "w": "bout,",
+     "start": 3.32,
+     "end": 3.48
+    },
+    {
+     "w": "le",
+     "start": 3.7,
+     "end": 3.78
+    },
+    {
+     "w": "dernier",
+     "start": 3.78,
+     "end": 3.98
+    },
+    {
+     "w": "point",
+     "start": 3.98,
+     "end": 4.26
+    },
+    {
+     "w": "change",
+     "start": 4.26,
+     "end": 4.5
+    },
+    {
+     "w": "toute",
+     "start": 4.5,
+     "end": 4.76
+    },
+    {
+     "w": "la",
+     "start": 4.76,
+     "end": 4.92
+    },
+    {
+     "w": "série.",
+     "start": 4.92,
+     "end": 5.18
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 5.38,
+   "end": 12.52,
+   "slot_end": 12.638,
+   "text": "Rappel rapide. Cid se fait renverser par un camion, se réincarne dans un monde de magie, et son seul rêve c'est de devenir l'éminence dans l'ombre.",
+   "words": [
+    {
+     "w": "Rappel",
+     "start": 5.38,
+     "end": 5.56
+    },
+    {
+     "w": "rapide.",
+     "start": 5.56,
+     "end": 6.06
+    },
+    {
+     "w": "Cid",
+     "start": 6.66,
+     "end": 6.8
+    },
+    {
+     "w": "se",
+     "start": 6.8,
+     "end": 6.98
+    },
+    {
+     "w": "fait",
+     "start": 6.98,
+     "end": 7.08
+    },
+    {
+     "w": "renverser",
+     "start": 7.08,
+     "end": 7.48
+    },
+    {
+     "w": "par",
+     "start": 7.48,
+     "end": 7.62
+    },
+    {
+     "w": "un",
+     "start": 7.62,
+     "end": 7.76
+    },
+    {
+     "w": "camion,",
+     "start": 7.76,
+     "end": 8.06
+    },
+    {
+     "w": "se",
+     "start": 8.24,
+     "end": 8.29
+    },
+    {
+     "w": "réincarne",
+     "start": 8.28,
+     "end": 8.64
+    },
+    {
+     "w": "dans",
+     "start": 8.64,
+     "end": 8.8
+    },
+    {
+     "w": "un",
+     "start": 8.8,
+     "end": 8.96
+    },
+    {
+     "w": "monde",
+     "start": 8.96,
+     "end": 9.1
+    },
+    {
+     "w": "de",
+     "start": 9.1,
+     "end": 9.24
+    },
+    {
+     "w": "magie,",
+     "start": 9.24,
+     "end": 9.62
+    },
+    {
+     "w": "et",
+     "start": 10.1,
+     "end": 10.16
+    },
+    {
+     "w": "son",
+     "start": 10.16,
+     "end": 10.3
+    },
+    {
+     "w": "seul",
+     "start": 10.3,
+     "end": 10.54
+    },
+    {
+     "w": "rêve",
+     "start": 10.54,
+     "end": 10.84
+    },
+    {
+     "w": "c'est",
+     "start": 10.84,
+     "end": 11.0
+    },
+    {
+     "w": "de",
+     "start": 11.0,
+     "end": 11.1
+    },
+    {
+     "w": "devenir",
+     "start": 11.1,
+     "end": 11.42
+    },
+    {
+     "w": "l'éminence",
+     "start": 11.42,
+     "end": 11.98
+    },
+    {
+     "w": "dans",
+     "start": 11.98,
+     "end": 12.14
+    },
+    {
+     "w": "l'ombre.",
+     "start": 12.14,
+     "end": 12.52
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 12.72,
+   "end": 19.48,
+   "slot_end": 19.712,
+   "text": "Le boss caché qui tire les ficelles. Pour ça il monte Shadow Garden avec Alpha, et il invente un ennemi bidon, le culte de Diablos.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 12.72,
+     "end": 12.82
+    },
+    {
+     "w": "boss",
+     "start": 12.82,
+     "end": 13.0
+    },
+    {
+     "w": "caché",
+     "start": 13.0,
+     "end": 13.42
+    },
+    {
+     "w": "qui",
+     "start": 13.42,
+     "end": 13.6
+    },
+    {
+     "w": "tire",
+     "start": 13.6,
+     "end": 13.8
+    },
+    {
+     "w": "les",
+     "start": 13.8,
+     "end": 13.94
+    },
+    {
+     "w": "ficelles.",
+     "start": 13.94,
+     "end": 14.38
+    },
+    {
+     "w": "Pour",
+     "start": 14.78,
+     "end": 14.92
+    },
+    {
+     "w": "ça",
+     "start": 14.92,
+     "end": 15.08
+    },
+    {
+     "w": "il",
+     "start": 15.08,
+     "end": 15.16
+    },
+    {
+     "w": "monte",
+     "start": 15.16,
+     "end": 15.26
+    },
+    {
+     "w": "Shadow",
+     "start": 15.26,
+     "end": 15.84
+    },
+    {
+     "w": "Garden",
+     "start": 15.84,
+     "end": 16.02
+    },
+    {
+     "w": "avec",
+     "start": 16.02,
+     "end": 16.24
+    },
+    {
+     "w": "Alpha,",
+     "start": 16.24,
+     "end": 16.54
+    },
+    {
+     "w": "et",
+     "start": 17.12,
+     "end": 17.24
+    },
+    {
+     "w": "il",
+     "start": 17.24,
+     "end": 17.32
+    },
+    {
+     "w": "invente",
+     "start": 17.32,
+     "end": 17.62
+    },
+    {
+     "w": "un",
+     "start": 17.62,
+     "end": 17.76
+    },
+    {
+     "w": "ennemi",
+     "start": 17.76,
+     "end": 17.96
+    },
+    {
+     "w": "bidon,",
+     "start": 17.96,
+     "end": 18.38
+    },
+    {
+     "w": "le",
+     "start": 18.64,
+     "end": 18.74
+    },
+    {
+     "w": "culte",
+     "start": 18.74,
+     "end": 19.0
+    },
+    {
+     "w": "de",
+     "start": 19.0,
+     "end": 19.1
+    },
+    {
+     "w": "Diablos.",
+     "start": 19.1,
+     "end": 19.48
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 19.7,
+   "end": 24.54,
+   "slot_end": 25.714,
+   "text": "Sauf que ce culte existe vraiment, avec ce nom-là exactement. Et lui croit toujours que c'est un jeu de rôle.",
+   "words": [
+    {
+     "w": "Sauf",
+     "start": 19.7,
+     "end": 19.96
+    },
+    {
+     "w": "que",
+     "start": 19.96,
+     "end": 20.1
+    },
+    {
+     "w": "ce",
+     "start": 20.1,
+     "end": 20.24
+    },
+    {
+     "w": "culte",
+     "start": 20.24,
+     "end": 20.5
+    },
+    {
+     "w": "existe",
+     "start": 20.5,
+     "end": 20.78
+    },
+    {
+     "w": "vraiment,",
+     "start": 20.78,
+     "end": 21.22
+    },
+    {
+     "w": "avec",
+     "start": 21.44,
+     "end": 21.62
+    },
+    {
+     "w": "ce",
+     "start": 21.62,
+     "end": 21.82
+    },
+    {
+     "w": "nom-là",
+     "start": 21.82,
+     "end": 22.02
+    },
+    {
+     "w": "exactement.",
+     "start": 22.02,
+     "end": 22.3
+    },
+    {
+     "w": "Et",
+     "start": 22.66,
+     "end": 22.71
+    },
+    {
+     "w": "lui",
+     "start": 22.7,
+     "end": 22.75
+    },
+    {
+     "w": "croit",
+     "start": 22.74,
+     "end": 23.18
+    },
+    {
+     "w": "toujours",
+     "start": 23.18,
+     "end": 23.46
+    },
+    {
+     "w": "que",
+     "start": 23.46,
+     "end": 23.64
+    },
+    {
+     "w": "c'est",
+     "start": 23.64,
+     "end": 23.8
+    },
+    {
+     "w": "un",
+     "start": 23.8,
+     "end": 23.96
+    },
+    {
+     "w": "jeu",
+     "start": 23.96,
+     "end": 24.12
+    },
+    {
+     "w": "de",
+     "start": 24.12,
+     "end": 24.26
+    },
+    {
+     "w": "rôle.",
+     "start": 24.26,
+     "end": 24.54
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 25.714,
+   "end": 31.04,
+   "slot_end": 32.448,
+   "text": "Tout le monde en rigole, c'est la grosse vanne de l'anime. Moi j'ai une théorie, mais c'est juste une théorie hein.",
+   "words": [
+    {
+     "w": "Tout",
+     "start": 25.714,
+     "end": 25.764
+    },
+    {
+     "w": "le",
+     "start": 25.714,
+     "end": 25.72
+    },
+    {
+     "w": "monde",
+     "start": 25.72,
+     "end": 25.94
+    },
+    {
+     "w": "en",
+     "start": 25.94,
+     "end": 26.08
+    },
+    {
+     "w": "rigole,",
+     "start": 26.08,
+     "end": 26.36
+    },
+    {
+     "w": "c'est",
+     "start": 26.46,
+     "end": 26.52
+    },
+    {
+     "w": "la",
+     "start": 26.52,
+     "end": 26.62
+    },
+    {
+     "w": "grosse",
+     "start": 26.62,
+     "end": 26.76
+    },
+    {
+     "w": "vanne",
+     "start": 26.76,
+     "end": 27.0
+    },
+    {
+     "w": "de",
+     "start": 27.0,
+     "end": 27.08
+    },
+    {
+     "w": "l'anime.",
+     "start": 27.08,
+     "end": 27.4
+    },
+    {
+     "w": "Moi",
+     "start": 28.38,
+     "end": 29.18
+    },
+    {
+     "w": "j'ai",
+     "start": 29.18,
+     "end": 29.44
+    },
+    {
+     "w": "une",
+     "start": 29.44,
+     "end": 29.52
+    },
+    {
+     "w": "théorie,",
+     "start": 29.52,
+     "end": 29.84
+    },
+    {
+     "w": "mais",
+     "start": 29.84,
+     "end": 30.02
+    },
+    {
+     "w": "c'est",
+     "start": 30.02,
+     "end": 30.2
+    },
+    {
+     "w": "juste",
+     "start": 30.2,
+     "end": 30.36
+    },
+    {
+     "w": "une",
+     "start": 30.36,
+     "end": 30.54
+    },
+    {
+     "w": "théorie",
+     "start": 30.54,
+     "end": 30.84
+    },
+    {
+     "w": "hein.",
+     "start": 30.84,
+     "end": 31.04
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 31.88,
+   "end": 40.5,
+   "slot_end": 41.47,
+   "text": "Premier indice. Chaque fois qu'il invente un ennemi imaginaire, il tombe pile sur un vrai complot. Une fois c'est de la chance, à chaque fois c'est louche.",
+   "words": [
+    {
+     "w": "Premier",
+     "start": 31.88,
+     "end": 32.64
+    },
+    {
+     "w": "indice.",
+     "start": 32.64,
+     "end": 33.22
+    },
+    {
+     "w": "Chaque",
+     "start": 33.44,
+     "end": 33.62
+    },
+    {
+     "w": "fois",
+     "start": 33.62,
+     "end": 33.88
+    },
+    {
+     "w": "qu'il",
+     "start": 33.88,
+     "end": 34.06
+    },
+    {
+     "w": "invente",
+     "start": 34.06,
+     "end": 34.38
+    },
+    {
+     "w": "un",
+     "start": 34.38,
+     "end": 34.54
+    },
+    {
+     "w": "ennemi",
+     "start": 34.54,
+     "end": 34.86
+    },
+    {
+     "w": "imaginaire,",
+     "start": 34.86,
+     "end": 35.5
+    },
+    {
+     "w": "il",
+     "start": 35.5,
+     "end": 36.08
+    },
+    {
+     "w": "tombe",
+     "start": 36.08,
+     "end": 36.36
+    },
+    {
+     "w": "pile",
+     "start": 36.36,
+     "end": 36.66
+    },
+    {
+     "w": "sur",
+     "start": 36.66,
+     "end": 36.86
+    },
+    {
+     "w": "un",
+     "start": 36.86,
+     "end": 37.0
+    },
+    {
+     "w": "vrai",
+     "start": 37.0,
+     "end": 37.18
+    },
+    {
+     "w": "complot.",
+     "start": 37.18,
+     "end": 38.04
+    },
+    {
+     "w": "Une",
+     "start": 38.14,
+     "end": 38.82
+    },
+    {
+     "w": "fois",
+     "start": 38.82,
+     "end": 38.96
+    },
+    {
+     "w": "c'est",
+     "start": 38.96,
+     "end": 39.12
+    },
+    {
+     "w": "de",
+     "start": 39.12,
+     "end": 39.18
+    },
+    {
+     "w": "la",
+     "start": 39.18,
+     "end": 39.26
+    },
+    {
+     "w": "chance,",
+     "start": 39.26,
+     "end": 39.48
+    },
+    {
+     "w": "à",
+     "start": 39.68,
+     "end": 39.74
+    },
+    {
+     "w": "chaque",
+     "start": 39.74,
+     "end": 39.88
+    },
+    {
+     "w": "fois",
+     "start": 39.88,
+     "end": 40.02
+    },
+    {
+     "w": "c'est",
+     "start": 40.02,
+     "end": 40.14
+    },
+    {
+     "w": "louche.",
+     "start": 40.14,
+     "end": 40.5
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 41.3,
+   "end": 45.66,
+   "slot_end": 45.778,
+   "text": "Si t'aimes les théories tordues comme ça, abonne-toi, j'en sors tous les jours et la suite est déjà annoncée.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 41.3,
+     "end": 41.64
+    },
+    {
+     "w": "t'aimes",
+     "start": 41.64,
+     "end": 41.94
+    },
+    {
+     "w": "les",
+     "start": 41.94,
+     "end": 42.1
+    },
+    {
+     "w": "théories",
+     "start": 42.1,
+     "end": 42.42
+    },
+    {
+     "w": "tordues",
+     "start": 42.42,
+     "end": 42.72
+    },
+    {
+     "w": "comme",
+     "start": 42.72,
+     "end": 42.88
+    },
+    {
+     "w": "ça,",
+     "start": 42.88,
+     "end": 43.1
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 43.1,
+     "end": 43.6
+    },
+    {
+     "w": "j'en",
+     "start": 43.6,
+     "end": 43.86
+    },
+    {
+     "w": "sors",
+     "start": 43.86,
+     "end": 44.0
+    },
+    {
+     "w": "tous",
+     "start": 44.0,
+     "end": 44.14
+    },
+    {
+     "w": "les",
+     "start": 44.14,
+     "end": 44.26
+    },
+    {
+     "w": "jours",
+     "start": 44.26,
+     "end": 44.42
+    },
+    {
+     "w": "et",
+     "start": 44.42,
+     "end": 44.64
+    },
+    {
+     "w": "la",
+     "start": 44.64,
+     "end": 44.76
+    },
+    {
+     "w": "suite",
+     "start": 44.76,
+     "end": 44.88
+    },
+    {
+     "w": "est",
+     "start": 44.88,
+     "end": 45.02
+    },
+    {
+     "w": "déjà",
+     "start": 45.02,
+     "end": 45.24
+    },
+    {
+     "w": "annoncée.",
+     "start": 45.24,
+     "end": 45.66
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 45.84,
+   "end": 54.66,
+   "slot_end": 54.784,
+   "text": "Deuxième indice, Alpha. Plus maligne que tout le monde, elle bâtit un réseau énorme pour lui sans jamais douter. Et Beta, Delta, toutes le prennent pour un dieu.",
+   "words": [
+    {
+     "w": "Deuxième",
+     "start": 45.84,
+     "end": 46.24
+    },
+    {
+     "w": "indice,",
+     "start": 46.24,
+     "end": 46.68
+    },
+    {
+     "w": "Alpha.",
+     "start": 46.68,
+     "end": 47.06
+    },
+    {
+     "w": "Plus",
+     "start": 47.58,
+     "end": 47.7
+    },
+    {
+     "w": "maligne",
+     "start": 47.7,
+     "end": 47.96
+    },
+    {
+     "w": "que",
+     "start": 47.96,
+     "end": 48.1
+    },
+    {
+     "w": "tout",
+     "start": 48.1,
+     "end": 48.22
+    },
+    {
+     "w": "le",
+     "start": 48.22,
+     "end": 48.3
+    },
+    {
+     "w": "monde,",
+     "start": 48.3,
+     "end": 48.46
+    },
+    {
+     "w": "elle",
+     "start": 48.46,
+     "end": 48.72
+    },
+    {
+     "w": "bâtit",
+     "start": 48.72,
+     "end": 48.98
+    },
+    {
+     "w": "un",
+     "start": 48.98,
+     "end": 49.1
+    },
+    {
+     "w": "réseau",
+     "start": 49.1,
+     "end": 49.34
+    },
+    {
+     "w": "énorme",
+     "start": 49.34,
+     "end": 50.04
+    },
+    {
+     "w": "pour",
+     "start": 50.04,
+     "end": 50.3
+    },
+    {
+     "w": "lui",
+     "start": 50.3,
+     "end": 50.46
+    },
+    {
+     "w": "sans",
+     "start": 50.46,
+     "end": 50.68
+    },
+    {
+     "w": "jamais",
+     "start": 50.68,
+     "end": 50.96
+    },
+    {
+     "w": "douter.",
+     "start": 50.96,
+     "end": 51.3
+    },
+    {
+     "w": "Et",
+     "start": 51.5,
+     "end": 52.14
+    },
+    {
+     "w": "Beta,",
+     "start": 52.14,
+     "end": 52.78
+    },
+    {
+     "w": "Delta,",
+     "start": 53.02,
+     "end": 53.14
+    },
+    {
+     "w": "toutes",
+     "start": 53.66,
+     "end": 53.71
+    },
+    {
+     "w": "le",
+     "start": 53.68,
+     "end": 53.84
+    },
+    {
+     "w": "prennent",
+     "start": 53.84,
+     "end": 54.18
+    },
+    {
+     "w": "pour",
+     "start": 54.18,
+     "end": 54.32
+    },
+    {
+     "w": "un",
+     "start": 54.32,
+     "end": 54.46
+    },
+    {
+     "w": "dieu.",
+     "start": 54.46,
+     "end": 54.66
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 54.78,
+   "end": 58.7,
+   "slot_end": 58.793,
+   "text": "Des génies pareilles qui suivent un mec qui ferait juste du cosplay ? J'y crois pas une seconde.",
+   "words": [
+    {
+     "w": "Des",
+     "start": 54.78,
+     "end": 54.92
+    },
+    {
+     "w": "génies",
+     "start": 54.92,
+     "end": 55.16
+    },
+    {
+     "w": "pareilles",
+     "start": 55.16,
+     "end": 55.58
+    },
+    {
+     "w": "qui",
+     "start": 55.58,
+     "end": 55.72
+    },
+    {
+     "w": "suivent",
+     "start": 55.72,
+     "end": 56.02
+    },
+    {
+     "w": "un",
+     "start": 56.02,
+     "end": 56.2
+    },
+    {
+     "w": "mec",
+     "start": 56.2,
+     "end": 56.38
+    },
+    {
+     "w": "qui",
+     "start": 56.38,
+     "end": 56.6
+    },
+    {
+     "w": "ferait",
+     "start": 56.6,
+     "end": 56.8
+    },
+    {
+     "w": "juste",
+     "start": 56.8,
+     "end": 56.94
+    },
+    {
+     "w": "du",
+     "start": 56.94,
+     "end": 57.14
+    },
+    {
+     "w": "cosplay",
+     "start": 57.14,
+     "end": 57.54
+    },
+    {
+     "w": "?",
+     "start": 57.54,
+     "end": 57.8
+    },
+    {
+     "w": "J'y",
+     "start": 57.8,
+     "end": 57.92
+    },
+    {
+     "w": "crois",
+     "start": 57.92,
+     "end": 58.02
+    },
+    {
+     "w": "pas",
+     "start": 58.02,
+     "end": 58.14
+    },
+    {
+     "w": "une",
+     "start": 58.14,
+     "end": 58.26
+    },
+    {
+     "w": "seconde.",
+     "start": 58.26,
+     "end": 58.7
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 58.78,
+   "end": 65.58,
+   "slot_end": 65.774,
+   "text": "Troisième indice, le plus chaud. En mode Shadow, il sort toujours la phrase parfaite au moment parfait. Pour un gars qui improvise, c'est trop propre.",
+   "words": [
+    {
+     "w": "Troisième",
+     "start": 58.78,
+     "end": 59.18
+    },
+    {
+     "w": "indice,",
+     "start": 59.18,
+     "end": 59.58
+    },
+    {
+     "w": "le",
+     "start": 59.78,
+     "end": 59.88
+    },
+    {
+     "w": "plus",
+     "start": 59.88,
+     "end": 60.06
+    },
+    {
+     "w": "chaud.",
+     "start": 60.06,
+     "end": 60.3
+    },
+    {
+     "w": "En",
+     "start": 60.8,
+     "end": 60.9
+    },
+    {
+     "w": "mode",
+     "start": 60.9,
+     "end": 61.06
+    },
+    {
+     "w": "Shadow,",
+     "start": 61.06,
+     "end": 61.36
+    },
+    {
+     "w": "il",
+     "start": 61.6,
+     "end": 61.65
+    },
+    {
+     "w": "sort",
+     "start": 61.64,
+     "end": 61.82
+    },
+    {
+     "w": "toujours",
+     "start": 61.82,
+     "end": 62.1
+    },
+    {
+     "w": "la",
+     "start": 62.1,
+     "end": 62.22
+    },
+    {
+     "w": "phrase",
+     "start": 62.22,
+     "end": 62.36
+    },
+    {
+     "w": "parfaite",
+     "start": 62.36,
+     "end": 62.74
+    },
+    {
+     "w": "au",
+     "start": 62.74,
+     "end": 62.84
+    },
+    {
+     "w": "moment",
+     "start": 62.84,
+     "end": 62.98
+    },
+    {
+     "w": "parfait.",
+     "start": 62.98,
+     "end": 63.34
+    },
+    {
+     "w": "Pour",
+     "start": 63.44,
+     "end": 63.54
+    },
+    {
+     "w": "un",
+     "start": 63.54,
+     "end": 63.72
+    },
+    {
+     "w": "gars",
+     "start": 63.72,
+     "end": 63.86
+    },
+    {
+     "w": "qui",
+     "start": 63.86,
+     "end": 64.04
+    },
+    {
+     "w": "improvise,",
+     "start": 64.04,
+     "end": 64.72
+    },
+    {
+     "w": "c'est",
+     "start": 65.0,
+     "end": 65.08
+    },
+    {
+     "w": "trop",
+     "start": 65.08,
+     "end": 65.24
+    },
+    {
+     "w": "propre.",
+     "start": 65.24,
+     "end": 65.58
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 65.8,
+   "end": 71.5,
+   "slot_end": 71.667,
+   "text": "Bon, soyons honnêtes. Le gros problème, c'est qu'on entend ses pensées, et dans sa tête il est complètement à côté de la plaque.",
+   "words": [
+    {
+     "w": "Bon,",
+     "start": 65.8,
+     "end": 65.92
+    },
+    {
+     "w": "soyons",
+     "start": 65.92,
+     "end": 66.34
+    },
+    {
+     "w": "honnêtes.",
+     "start": 66.34,
+     "end": 66.72
+    },
+    {
+     "w": "Le",
+     "start": 67.24,
+     "end": 67.36
+    },
+    {
+     "w": "gros",
+     "start": 67.36,
+     "end": 67.54
+    },
+    {
+     "w": "problème,",
+     "start": 67.54,
+     "end": 67.96
+    },
+    {
+     "w": "c'est",
+     "start": 67.96,
+     "end": 68.2
+    },
+    {
+     "w": "qu'on",
+     "start": 68.2,
+     "end": 68.34
+    },
+    {
+     "w": "entend",
+     "start": 68.34,
+     "end": 68.52
+    },
+    {
+     "w": "ses",
+     "start": 68.52,
+     "end": 68.74
+    },
+    {
+     "w": "pensées,",
+     "start": 68.74,
+     "end": 69.2
+    },
+    {
+     "w": "et",
+     "start": 69.6,
+     "end": 69.65
+    },
+    {
+     "w": "dans",
+     "start": 69.62,
+     "end": 69.76
+    },
+    {
+     "w": "sa",
+     "start": 69.76,
+     "end": 69.92
+    },
+    {
+     "w": "tête",
+     "start": 69.92,
+     "end": 70.08
+    },
+    {
+     "w": "il",
+     "start": 70.08,
+     "end": 70.22
+    },
+    {
+     "w": "est",
+     "start": 70.22,
+     "end": 70.32
+    },
+    {
+     "w": "complètement",
+     "start": 70.32,
+     "end": 70.58
+    },
+    {
+     "w": "à",
+     "start": 70.58,
+     "end": 70.84
+    },
+    {
+     "w": "côté",
+     "start": 70.84,
+     "end": 70.98
+    },
+    {
+     "w": "de",
+     "start": 70.98,
+     "end": 71.12
+    },
+    {
+     "w": "la",
+     "start": 71.12,
+     "end": 71.22
+    },
+    {
+     "w": "plaque.",
+     "start": 71.22,
+     "end": 71.5
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 71.64,
+   "end": 75.96,
+   "slot_end": 76.495,
+   "text": "Sauf que voilà. Un mec qui rêve de rester dans l'ombre, il cache tout. Même à nous, même dans sa tête.",
+   "words": [
+    {
+     "w": "Sauf",
+     "start": 71.64,
+     "end": 71.8
+    },
+    {
+     "w": "que",
+     "start": 71.8,
+     "end": 71.92
+    },
+    {
+     "w": "voilà.",
+     "start": 71.92,
+     "end": 72.12
+    },
+    {
+     "w": "Un",
+     "start": 72.62,
+     "end": 72.8
+    },
+    {
+     "w": "mec",
+     "start": 72.8,
+     "end": 72.98
+    },
+    {
+     "w": "qui",
+     "start": 72.98,
+     "end": 73.14
+    },
+    {
+     "w": "rêve",
+     "start": 73.14,
+     "end": 73.3
+    },
+    {
+     "w": "de",
+     "start": 73.3,
+     "end": 73.44
+    },
+    {
+     "w": "rester",
+     "start": 73.44,
+     "end": 73.6
+    },
+    {
+     "w": "dans",
+     "start": 73.6,
+     "end": 73.82
+    },
+    {
+     "w": "l'ombre,",
+     "start": 73.82,
+     "end": 74.06
+    },
+    {
+     "w": "il",
+     "start": 74.12,
+     "end": 74.2
+    },
+    {
+     "w": "cache",
+     "start": 74.2,
+     "end": 74.38
+    },
+    {
+     "w": "tout.",
+     "start": 74.38,
+     "end": 74.56
+    },
+    {
+     "w": "Même",
+     "start": 74.76,
+     "end": 74.86
+    },
+    {
+     "w": "à",
+     "start": 74.86,
+     "end": 75.06
+    },
+    {
+     "w": "nous,",
+     "start": 75.06,
+     "end": 75.16
+    },
+    {
+     "w": "même",
+     "start": 75.3,
+     "end": 75.4
+    },
+    {
+     "w": "dans",
+     "start": 75.4,
+     "end": 75.56
+    },
+    {
+     "w": "sa",
+     "start": 75.56,
+     "end": 75.74
+    },
+    {
+     "w": "tête.",
+     "start": 75.74,
+     "end": 75.96
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 76.48,
+   "end": 82.76,
+   "slot_end": 82.86,
+   "text": "Avec la suite qui arrive, on va peut-être être fixés. Alors dis-moi en com', Cid il est à l'ouest, ou c'est le plus gros manipulateur de l'anime ?",
+   "words": [
+    {
+     "w": "Avec",
+     "start": 76.48,
+     "end": 76.64
+    },
+    {
+     "w": "la",
+     "start": 76.64,
+     "end": 76.88
+    },
+    {
+     "w": "suite",
+     "start": 76.88,
+     "end": 76.98
+    },
+    {
+     "w": "qui",
+     "start": 76.98,
+     "end": 77.18
+    },
+    {
+     "w": "arrive,",
+     "start": 77.18,
+     "end": 77.34
+    },
+    {
+     "w": "on",
+     "start": 77.48,
+     "end": 77.54
+    },
+    {
+     "w": "va",
+     "start": 77.54,
+     "end": 77.64
+    },
+    {
+     "w": "peut-être",
+     "start": 77.64,
+     "end": 77.8
+    },
+    {
+     "w": "être",
+     "start": 77.8,
+     "end": 78.0
+    },
+    {
+     "w": "fixés.",
+     "start": 78.0,
+     "end": 78.68
+    },
+    {
+     "w": "Alors",
+     "start": 78.8,
+     "end": 78.92
+    },
+    {
+     "w": "dis-moi",
+     "start": 78.92,
+     "end": 79.14
+    },
+    {
+     "w": "en",
+     "start": 79.14,
+     "end": 79.36
+    },
+    {
+     "w": "com',",
+     "start": 79.36,
+     "end": 79.58
+    },
+    {
+     "w": "Cid",
+     "start": 79.58,
+     "end": 79.8
+    },
+    {
+     "w": "il",
+     "start": 79.8,
+     "end": 79.92
+    },
+    {
+     "w": "est",
+     "start": 79.92,
+     "end": 79.98
+    },
+    {
+     "w": "à",
+     "start": 79.98,
+     "end": 80.08
+    },
+    {
+     "w": "l'ouest,",
+     "start": 80.08,
+     "end": 80.36
+    },
+    {
+     "w": "ou",
+     "start": 80.46,
+     "end": 80.64
+    },
+    {
+     "w": "c'est",
+     "start": 80.64,
+     "end": 81.04
+    },
+    {
+     "w": "le",
+     "start": 81.04,
+     "end": 81.18
+    },
+    {
+     "w": "plus",
+     "start": 81.18,
+     "end": 81.3
+    },
+    {
+     "w": "gros",
+     "start": 81.3,
+     "end": 81.5
+    },
+    {
+     "w": "manipulateur",
+     "start": 81.5,
+     "end": 82.18
+    },
+    {
+     "w": "de",
+     "start": 82.18,
+     "end": 82.26
+    },
+    {
+     "w": "l'anime",
+     "start": 82.26,
+     "end": 82.64
+    },
+    {
+     "w": "?",
+     "start": 82.64,
+     "end": 82.76
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 82.84,
+   "end": 84.92,
+   "slot_end": 85.84,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 82.84,
+     "end": 83.06
+    },
+    {
+     "w": "Asura.",
+     "start": 83.06,
+     "end": 83.42
+    },
+    {
+     "w": "On",
+     "start": 83.7,
+     "end": 83.84
+    },
+    {
+     "w": "se",
+     "start": 83.84,
+     "end": 83.96
+    },
+    {
+     "w": "capte",
+     "start": 83.96,
+     "end": 84.26
+    },
+    {
+     "w": "au",
+     "start": 84.26,
+     "end": 84.32
+    },
+    {
+     "w": "prochain",
+     "start": 84.32,
+     "end": 84.54
+    },
+    {
+     "w": "épisode.",
+     "start": 84.54,
+     "end": 84.92
+    }
+   ]
+  }
+ ],
+ "aligned": 0.99
+}
