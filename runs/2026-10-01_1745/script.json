@@ -1,0 +1,119 @@
+{
+ "title": "Reco : un jockey paralysé traverse l'Amérique pour 50 millions",
+ "format": "reco",
+ "tone": "pote",
+ "music": "pote",
+ "animes": [
+  "STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE"
+ ],
+ "hook_text": "Un jockey paralysé traverse l'Amérique à cheval pour 50 millions de dollars",
+ "spoiler": false,
+ "segments": [
+  {
+   "text": "Un jockey paralysé traverse l'Amérique à cheval pour 50 millions de dollars.",
+   "sfx": true,
+   "emphasis": [
+    "paralysé"
+   ]
+  },
+  {
+   "text": "[whispering] Reste jusqu'au bout, le nom de l'anime va te surprendre, j'te jure.",
+   "emphasis": [
+    "bout"
+   ]
+  },
+  {
+   "text": "On est en 1890. Une course de chevaux part de San Diego et doit traverser tout le pays jusqu'à New York, genre six mille bornes.",
+   "emphasis": [
+    "1890"
+   ]
+  },
+  {
+   "text": "Y'a une tonne de cavaliers au départ, et le premier arrivé repart avec le pactole.",
+   "emphasis": [
+    "pactole"
+   ]
+  },
+  {
+   "text": "Dans la foule y'a Johnny. Ancien jockey star, il a perdu l'usage de ses jambes, il est en fauteuil et il a plus rien.",
+   "grade": "bw",
+   "emphasis": [
+    "Johnny"
+   ]
+  },
+  {
+   "text": "[surprised] Et là il croise Gyro, un mec chelou qui fait tourner des boules d'acier. Johnny en touche une, et ses jambes bougent. Juste une seconde.",
+   "sfx": true,
+   "emphasis": [
+    "bougent"
+   ]
+  },
+  {
+   "text": "Du coup il s'inscrit à la course alors qu'il tient à peine sur un cheval. Il veut qu'une chose, le secret de Gyro.",
+   "emphasis": [
+    "secret"
+   ]
+  },
+  {
+   "text": "Si t'aimes les recos comme ça, abonne-toi, j'en sors une tous les jours et la prochaine est encore plus folle.",
+   "cta": true
+  },
+  {
+   "text": "Mais attends, c'est pas juste une course. Des morceaux d'un cadavre légendaire sont cachés le long du parcours, et tout le monde se les arrache.",
+   "emphasis": [
+    "cadavre"
+   ]
+  },
+  {
+   "text": "[excited] Même le président des États-Unis, Valentine, envoie ses tueurs pour les récupérer. Ouais, le président en personne.",
+   "sfx": true,
+   "grade": "bw",
+   "stamp": "CHAUD",
+   "emphasis": [
+    "président"
+   ]
+  },
+  {
+   "text": "[laughing] Et le duo Johnny et Gyro, c'est le meilleur du truc. Gyro qui chante sa chanson débile sur le fromage pendant que Johnny galère, j'en peux plus.",
+   "emphasis": [
+    "fromage"
+   ]
+  },
+  {
+   "text": "Mon avis, c'est la meilleure partie de toute la saga, et je pèse mes mots. Le dessin est fou et la fin m'a retourné le cerveau.",
+   "stamp": "VALIDÉ",
+   "emphasis": [
+    "meilleure"
+   ]
+  },
+  {
+   "text": "Et si t'as jamais osé commencer cette saga parce qu'elle est trop longue, bonne nouvelle, cette histoire se suit toute seule.",
+   "emphasis": [
+    "toute seule"
+   ]
+  },
+  {
+   "text": "La suite de l'anime sort en ce moment, c'est le moment de rattraper.",
+   "emphasis": [
+    "en ce moment"
+   ]
+  },
+  {
+   "text": "C'est Steel Ball Run, la partie 7 de JoJo. Dis-moi en com' si t'as déjà lu le manga.",
+   "emphasis": [
+    "JoJo"
+   ]
+  }
+ ],
+ "reveal_text": "Steel Ball Run",
+ "reveal_segments": 1,
+ "caption": "Un mec en fauteuil contre tout un pays, et c'est la meilleure partie de JoJo 🐎 t'as déjà lu ?",
+ "hashtags": [
+  "#anime",
+  "#manga",
+  "#animefr",
+  "#mangafr",
+  "#jojo",
+  "#recommandationanime"
+ ]
+}
