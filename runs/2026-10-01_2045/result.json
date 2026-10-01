@@ -1,0 +1,21 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-01_2045/video.mp4",
+ "duration": 84.382,
+ "shots": 67,
+ "sources": [
+  "https://anilist.co/anime/184237",
+  "https://kitsu.io/anime/sakamoto-days-season-2"
+ ],
+ "music": {
+  "file": "hype2.mp3",
+  "bpm": 92.3,
+  "offset": 16.35
+ },
+ "sfx": 28,
+ "engine": "remotion (OpenMontage)",
+ "voice_engine": "piper",
+ "repo_path": "videos/2026/10/2026-10-01_2045.mp4",
+ "raw_url": "https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/videos/2026/10/2026-10-01_2045.mp4",
+ "lint": [],
+ "render_seconds": 1062.5
+}
