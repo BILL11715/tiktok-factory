@@ -1,0 +1,56 @@
+{
+ "SAKAMOTO DAYS Season 2": {
+  "meta": {
+   "id": "50401",
+   "title": "SAKAMOTO DAYS 2nd Season",
+   "titles": {
+    "en": "Sakamoto Days Season 2",
+    "en_jp": "SAKAMOTO DAYS 2nd Season",
+    "ja_jp": "SAKAMOTO DAYS 第2期"
+   },
+   "synopsis": "The second season of SAKAMOTO DAYS.",
+   "episodes": null,
+   "start": "2027-01-31",
+   "source": "https://kitsu.io/anime/sakamoto-days-season-2"
+  },
+  "wide": [
+   "/home/claude/tiktok-factory/runs/2026-10-01_2045/images/0f4eb8e06e71.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-01_2045/images/370e6dc3ca75.jpg"
+  ],
+  "tall": [
+   "/home/claude/tiktok-factory/runs/2026-10-01_2045/images/baf50115dc15.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-01_2045/images/120b86f0f041.jpg"
+  ],
+  "characters": {
+   "Tarou Sakamoto": "/home/claude/tiktok-factory/runs/2026-10-01_2045/images/817647ecafd1.png",
+   "Shin Asakura": "/home/claude/tiktok-factory/runs/2026-10-01_2045/images/33544c54e5d6.png",
+   "Yoichi Nagumo": "/home/claude/tiktok-factory/runs/2026-10-01_2045/images/aecf495d8295.png",
+   "Osaragi": "/home/claude/tiktok-factory/runs/2026-10-01_2045/images/ef7e71251aea.png",
+   "Shaotang Lu": "/home/claude/tiktok-factory/runs/2026-10-01_2045/images/8f5a23e6a44c.png",
+   "Heisuke Mashimo": "/home/claude/tiktok-factory/runs/2026-10-01_2045/images/34bd3f3b2724.jpg",
+   "Gaku": "/home/claude/tiktok-factory/runs/2026-10-01_2045/images/2f9abf3f3904.png",
+   "Kei Uzuki": "/home/claude/tiktok-factory/runs/2026-10-01_2045/images/4cbd7c32353b.jpg",
+   "Akira Akao": "/home/claude/tiktok-factory/runs/2026-10-01_2045/images/3887ea1097d2.png",
+   "Takamura": "/home/claude/tiktok-factory/runs/2026-10-01_2045/images/e4437d468973.png",
+   "Shishiba": "/home/claude/tiktok-factory/runs/2026-10-01_2045/images/f68aefca8f0e.png",
+   "Natsuki Seba": "/home/claude/tiktok-factory/runs/2026-10-01_2045/images/691cdbc8e098.jpg",
+   "Aoi Sakamoto": "/home/claude/tiktok-factory/runs/2026-10-01_2045/images/83659d35fc86.png",
+   "Mafuyu Seba": "/home/claude/tiktok-factory/runs/2026-10-01_2045/images/f11f5c804703.png",
+   "Nao Toramaru": "/home/claude/tiktok-factory/runs/2026-10-01_2045/images/d20831b5ed69.jpg",
+   "Hana Sakamoto": "/home/claude/tiktok-factory/runs/2026-10-01_2045/images/4d28244df353.png",
+   "Jouichirou Kaji": "/home/claude/tiktok-factory/runs/2026-10-01_2045/images/da28f326b91a.jpg",
+   "Hyou": "/home/claude/tiktok-factory/runs/2026-10-01_2045/images/2b298dbdf603.png",
+   "Apart": "/home/claude/tiktok-factory/runs/2026-10-01_2045/images/4b00690b0fab.jpg",
+   "Kanaguri": "/home/claude/tiktok-factory/runs/2026-10-01_2045/images/d9e175f70cbe.png",
+   "Kashima": "/home/claude/tiktok-factory/runs/2026-10-01_2045/images/4919a365cfb4.jpg",
+   "Wutang Lu": "/home/claude/tiktok-factory/runs/2026-10-01_2045/images/70a145ef4dcd.jpg",
+   "Dump": "/home/claude/tiktok-factory/runs/2026-10-01_2045/images/1ab26fd0b62e.jpg",
+   "Minimalist": "/home/claude/tiktok-factory/runs/2026-10-01_2045/images/d8500c8d2441.jpg",
+   "Shinaya": "/home/claude/tiktok-factory/runs/2026-10-01_2045/images/74ce6a5db325.png"
+  },
+  "sources": [
+   "https://kitsu.io/anime/sakamoto-days-season-2",
+   "https://anilist.co/anime/184237"
+  ]
+ }
+}

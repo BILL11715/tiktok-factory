@@ -1,0 +1,1633 @@
+{
+ "engine": "piper",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-01_2045/voice.wav",
+ "duration": 84.382,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 3.359,
+   "slot_end": 3.459,
+   "text": "Le numéro 1 de Sakamoto Days, c'est même pas Sakamoto.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 0.0,
+     "end": 0.19
+    },
+    {
+     "w": "numéro",
+     "start": 0.19,
+     "end": 0.596
+    },
+    {
+     "w": "1",
+     "start": 0.596,
+     "end": 0.731
+    },
+    {
+     "w": "de",
+     "start": 0.731,
+     "end": 0.921
+    },
+    {
+     "w": "Sakamoto",
+     "start": 0.921,
+     "end": 1.436
+    },
+    {
+     "w": "Days,",
+     "start": 1.436,
+     "end": 1.869
+    },
+    {
+     "w": "c'est",
+     "start": 1.869,
+     "end": 2.167
+    },
+    {
+     "w": "même",
+     "start": 2.167,
+     "end": 2.465
+    },
+    {
+     "w": "pas",
+     "start": 2.465,
+     "end": 2.709
+    },
+    {
+     "w": "Sakamoto.",
+     "start": 2.709,
+     "end": 3.359
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 3.459,
+   "end": 8.845,
+   "slot_end": 8.945,
+   "text": "La suite de l'anime arrive en janvier 2027, et reste jusqu'au bout, le numéro 1 va en énerver plus d'un.",
+   "words": [
+    {
+     "w": "La",
+     "start": 3.459,
+     "end": 3.621
+    },
+    {
+     "w": "suite",
+     "start": 3.621,
+     "end": 3.922
+    },
+    {
+     "w": "de",
+     "start": 3.922,
+     "end": 4.083
+    },
+    {
+     "w": "l'anime",
+     "start": 4.083,
+     "end": 4.43
+    },
+    {
+     "w": "arrive",
+     "start": 4.43,
+     "end": 4.777
+    },
+    {
+     "w": "en",
+     "start": 4.777,
+     "end": 4.939
+    },
+    {
+     "w": "janvier",
+     "start": 4.939,
+     "end": 5.332
+    },
+    {
+     "w": "2027,",
+     "start": 5.332,
+     "end": 5.701
+    },
+    {
+     "w": "et",
+     "start": 5.701,
+     "end": 5.863
+    },
+    {
+     "w": "reste",
+     "start": 5.863,
+     "end": 6.164
+    },
+    {
+     "w": "jusqu'au",
+     "start": 6.164,
+     "end": 6.557
+    },
+    {
+     "w": "bout,",
+     "start": 6.557,
+     "end": 6.927
+    },
+    {
+     "w": "le",
+     "start": 6.927,
+     "end": 7.088
+    },
+    {
+     "w": "numéro",
+     "start": 7.088,
+     "end": 7.435
+    },
+    {
+     "w": "1",
+     "start": 7.435,
+     "end": 7.551
+    },
+    {
+     "w": "va",
+     "start": 7.551,
+     "end": 7.712
+    },
+    {
+     "w": "en",
+     "start": 7.712,
+     "end": 7.874
+    },
+    {
+     "w": "énerver",
+     "start": 7.874,
+     "end": 8.267
+    },
+    {
+     "w": "plus",
+     "start": 8.267,
+     "end": 8.522
+    },
+    {
+     "w": "d'un.",
+     "start": 8.522,
+     "end": 8.845
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 8.945,
+   "end": 15.785,
+   "slot_end": 15.885,
+   "text": "Numéro 5, Shin. Le gars lit dans les pensées, genre il sait ce que tu vas faire avant toi. En combat c'est un cheat code.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 8.945,
+     "end": 9.309
+    },
+    {
+     "w": "5,",
+     "start": 9.309,
+     "end": 9.552
+    },
+    {
+     "w": "Shin.",
+     "start": 9.552,
+     "end": 9.94
+    },
+    {
+     "w": "Le",
+     "start": 9.94,
+     "end": 10.109
+    },
+    {
+     "w": "gars",
+     "start": 10.109,
+     "end": 10.376
+    },
+    {
+     "w": "lit",
+     "start": 10.376,
+     "end": 10.595
+    },
+    {
+     "w": "dans",
+     "start": 10.595,
+     "end": 10.861
+    },
+    {
+     "w": "les",
+     "start": 10.861,
+     "end": 11.08
+    },
+    {
+     "w": "pensées,",
+     "start": 11.08,
+     "end": 11.613
+    },
+    {
+     "w": "genre",
+     "start": 11.613,
+     "end": 11.929
+    },
+    {
+     "w": "il",
+     "start": 11.929,
+     "end": 12.098
+    },
+    {
+     "w": "sait",
+     "start": 12.098,
+     "end": 12.365
+    },
+    {
+     "w": "ce",
+     "start": 12.365,
+     "end": 12.535
+    },
+    {
+     "w": "que",
+     "start": 12.535,
+     "end": 12.753
+    },
+    {
+     "w": "tu",
+     "start": 12.753,
+     "end": 12.923
+    },
+    {
+     "w": "vas",
+     "start": 12.923,
+     "end": 13.141
+    },
+    {
+     "w": "faire",
+     "start": 13.141,
+     "end": 13.457
+    },
+    {
+     "w": "avant",
+     "start": 13.457,
+     "end": 13.772
+    },
+    {
+     "w": "toi.",
+     "start": 13.772,
+     "end": 14.112
+    },
+    {
+     "w": "En",
+     "start": 14.112,
+     "end": 14.281
+    },
+    {
+     "w": "combat",
+     "start": 14.281,
+     "end": 14.645
+    },
+    {
+     "w": "c'est",
+     "start": 14.645,
+     "end": 14.912
+    },
+    {
+     "w": "un",
+     "start": 14.912,
+     "end": 15.082
+    },
+    {
+     "w": "cheat",
+     "start": 15.082,
+     "end": 15.397
+    },
+    {
+     "w": "code.",
+     "start": 15.397,
+     "end": 15.785
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 15.885,
+   "end": 23.017,
+   "slot_end": 23.117,
+   "text": "Numéro 4, Nagumo. L'ancien camarade de Sakamoto à l'école des tueurs, maître du déguisement, et membre de l'Order, l'élite des tueurs du Japon.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 15.885,
+     "end": 16.218
+    },
+    {
+     "w": "4,",
+     "start": 16.218,
+     "end": 16.441
+    },
+    {
+     "w": "Nagumo.",
+     "start": 16.441,
+     "end": 16.885
+    },
+    {
+     "w": "L'ancien",
+     "start": 16.885,
+     "end": 17.263
+    },
+    {
+     "w": "camarade",
+     "start": 17.263,
+     "end": 17.685
+    },
+    {
+     "w": "de",
+     "start": 17.685,
+     "end": 17.84
+    },
+    {
+     "w": "Sakamoto",
+     "start": 17.84,
+     "end": 18.262
+    },
+    {
+     "w": "à",
+     "start": 18.262,
+     "end": 18.374
+    },
+    {
+     "w": "l'école",
+     "start": 18.374,
+     "end": 18.707
+    },
+    {
+     "w": "des",
+     "start": 18.707,
+     "end": 18.907
+    },
+    {
+     "w": "tueurs,",
+     "start": 18.907,
+     "end": 19.351
+    },
+    {
+     "w": "maître",
+     "start": 19.351,
+     "end": 19.684
+    },
+    {
+     "w": "du",
+     "start": 19.684,
+     "end": 19.84
+    },
+    {
+     "w": "déguisement,",
+     "start": 19.84,
+     "end": 20.506
+    },
+    {
+     "w": "et",
+     "start": 20.506,
+     "end": 20.662
+    },
+    {
+     "w": "membre",
+     "start": 20.662,
+     "end": 20.995
+    },
+    {
+     "w": "de",
+     "start": 20.995,
+     "end": 21.151
+    },
+    {
+     "w": "l'Order,",
+     "start": 21.151,
+     "end": 21.595
+    },
+    {
+     "w": "l'élite",
+     "start": 21.595,
+     "end": 21.928
+    },
+    {
+     "w": "des",
+     "start": 21.928,
+     "end": 22.128
+    },
+    {
+     "w": "tueurs",
+     "start": 22.128,
+     "end": 22.462
+    },
+    {
+     "w": "du",
+     "start": 22.462,
+     "end": 22.617
+    },
+    {
+     "w": "Japon.",
+     "start": 22.617,
+     "end": 23.017
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 23.117,
+   "end": 27.517,
+   "slot_end": 27.617,
+   "text": "Le pire c'est qu'il garde le sourire pendant qu'il te découpe. Ce perso est flippant, j'te jure.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 23.117,
+     "end": 23.262
+    },
+    {
+     "w": "pire",
+     "start": 23.262,
+     "end": 23.491
+    },
+    {
+     "w": "c'est",
+     "start": 23.491,
+     "end": 23.719
+    },
+    {
+     "w": "qu'il",
+     "start": 23.719,
+     "end": 23.947
+    },
+    {
+     "w": "garde",
+     "start": 23.947,
+     "end": 24.217
+    },
+    {
+     "w": "le",
+     "start": 24.217,
+     "end": 24.362
+    },
+    {
+     "w": "sourire",
+     "start": 24.362,
+     "end": 24.715
+    },
+    {
+     "w": "pendant",
+     "start": 24.715,
+     "end": 25.068
+    },
+    {
+     "w": "qu'il",
+     "start": 25.068,
+     "end": 25.296
+    },
+    {
+     "w": "te",
+     "start": 25.296,
+     "end": 25.442
+    },
+    {
+     "w": "découpe.",
+     "start": 25.442,
+     "end": 25.898
+    },
+    {
+     "w": "Ce",
+     "start": 25.898,
+     "end": 26.044
+    },
+    {
+     "w": "perso",
+     "start": 26.044,
+     "end": 26.314
+    },
+    {
+     "w": "est",
+     "start": 26.314,
+     "end": 26.5
+    },
+    {
+     "w": "flippant,",
+     "start": 26.5,
+     "end": 26.998
+    },
+    {
+     "w": "j'te",
+     "start": 26.998,
+     "end": 27.185
+    },
+    {
+     "w": "jure.",
+     "start": 27.185,
+     "end": 27.517
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 27.617,
+   "end": 34.498,
+   "slot_end": 34.598,
+   "text": "Numéro 3, Slur. Le grand méchant qui veut renverser le monde des tueurs. Deux personnalités dans la même tête, tu sais jamais laquelle va parler.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 27.617,
+     "end": 27.94
+    },
+    {
+     "w": "3,",
+     "start": 27.94,
+     "end": 28.155
+    },
+    {
+     "w": "Slur.",
+     "start": 28.155,
+     "end": 28.499
+    },
+    {
+     "w": "Le",
+     "start": 28.499,
+     "end": 28.65
+    },
+    {
+     "w": "grand",
+     "start": 28.65,
+     "end": 28.929
+    },
+    {
+     "w": "méchant",
+     "start": 28.929,
+     "end": 29.295
+    },
+    {
+     "w": "qui",
+     "start": 29.295,
+     "end": 29.489
+    },
+    {
+     "w": "veut",
+     "start": 29.489,
+     "end": 29.725
+    },
+    {
+     "w": "renverser",
+     "start": 29.725,
+     "end": 30.177
+    },
+    {
+     "w": "le",
+     "start": 30.177,
+     "end": 30.327
+    },
+    {
+     "w": "monde",
+     "start": 30.327,
+     "end": 30.607
+    },
+    {
+     "w": "des",
+     "start": 30.607,
+     "end": 30.801
+    },
+    {
+     "w": "tueurs.",
+     "start": 30.801,
+     "end": 31.231
+    },
+    {
+     "w": "Deux",
+     "start": 31.281,
+     "end": 31.496
+    },
+    {
+     "w": "personnalités",
+     "start": 31.496,
+     "end": 32.065
+    },
+    {
+     "w": "dans",
+     "start": 32.065,
+     "end": 32.281
+    },
+    {
+     "w": "la",
+     "start": 32.281,
+     "end": 32.418
+    },
+    {
+     "w": "même",
+     "start": 32.418,
+     "end": 32.634
+    },
+    {
+     "w": "tête,",
+     "start": 32.634,
+     "end": 32.948
+    },
+    {
+     "w": "tu",
+     "start": 32.948,
+     "end": 33.085
+    },
+    {
+     "w": "sais",
+     "start": 33.085,
+     "end": 33.301
+    },
+    {
+     "w": "jamais",
+     "start": 33.301,
+     "end": 33.596
+    },
+    {
+     "w": "laquelle",
+     "start": 33.596,
+     "end": 33.968
+    },
+    {
+     "w": "va",
+     "start": 33.968,
+     "end": 34.106
+    },
+    {
+     "w": "parler.",
+     "start": 34.106,
+     "end": 34.498
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 34.598,
+   "end": 38.22,
+   "slot_end": 38.32,
+   "text": "Petite pause, si t'aimes ce genre de classement, abonne-toi, j'en sors tous les jours.",
+   "words": [
+    {
+     "w": "Petite",
+     "start": 34.598,
+     "end": 34.878
+    },
+    {
+     "w": "pause,",
+     "start": 34.878,
+     "end": 35.214
+    },
+    {
+     "w": "si",
+     "start": 35.214,
+     "end": 35.345
+    },
+    {
+     "w": "t'aimes",
+     "start": 35.345,
+     "end": 35.625
+    },
+    {
+     "w": "ce",
+     "start": 35.625,
+     "end": 35.756
+    },
+    {
+     "w": "genre",
+     "start": 35.756,
+     "end": 35.998
+    },
+    {
+     "w": "de",
+     "start": 35.998,
+     "end": 36.129
+    },
+    {
+     "w": "classement,",
+     "start": 36.129,
+     "end": 36.652
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 36.652,
+     "end": 37.137
+    },
+    {
+     "w": "j'en",
+     "start": 37.137,
+     "end": 37.305
+    },
+    {
+     "w": "sors",
+     "start": 37.305,
+     "end": 37.511
+    },
+    {
+     "w": "tous",
+     "start": 37.511,
+     "end": 37.716
+    },
+    {
+     "w": "les",
+     "start": 37.716,
+     "end": 37.884
+    },
+    {
+     "w": "jours.",
+     "start": 37.884,
+     "end": 38.22
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 38.32,
+   "end": 41.757,
+   "slot_end": 41.857,
+   "text": "Et c'est lui qui tire les ficelles depuis le début, pendant que les autres courent derrière.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 38.32,
+     "end": 38.437
+    },
+    {
+     "w": "c'est",
+     "start": 38.437,
+     "end": 38.621
+    },
+    {
+     "w": "lui",
+     "start": 38.621,
+     "end": 38.771
+    },
+    {
+     "w": "qui",
+     "start": 38.771,
+     "end": 38.921
+    },
+    {
+     "w": "tire",
+     "start": 38.921,
+     "end": 39.105
+    },
+    {
+     "w": "les",
+     "start": 39.105,
+     "end": 39.255
+    },
+    {
+     "w": "ficelles",
+     "start": 39.255,
+     "end": 39.572
+    },
+    {
+     "w": "depuis",
+     "start": 39.572,
+     "end": 39.822
+    },
+    {
+     "w": "le",
+     "start": 39.822,
+     "end": 39.939
+    },
+    {
+     "w": "début,",
+     "start": 39.939,
+     "end": 40.239
+    },
+    {
+     "w": "pendant",
+     "start": 40.239,
+     "end": 40.523
+    },
+    {
+     "w": "que",
+     "start": 40.523,
+     "end": 40.673
+    },
+    {
+     "w": "les",
+     "start": 40.673,
+     "end": 40.823
+    },
+    {
+     "w": "autres",
+     "start": 40.823,
+     "end": 41.073
+    },
+    {
+     "w": "courent",
+     "start": 41.073,
+     "end": 41.357
+    },
+    {
+     "w": "derrière.",
+     "start": 41.357,
+     "end": 41.757
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 41.857,
+   "end": 50.294,
+   "slot_end": 50.394,
+   "text": "Numéro 2, Sakamoto. Ouais, le héros est que deuxième. L'ancien plus grand tueur du Japon, qui a tout lâché par amour pour Aoi et tient une supérette.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 41.857,
+     "end": 42.342
+    },
+    {
+     "w": "2,",
+     "start": 42.342,
+     "end": 42.665
+    },
+    {
+     "w": "Sakamoto.",
+     "start": 42.665,
+     "end": 43.441
+    },
+    {
+     "w": "Ouais,",
+     "start": 43.441,
+     "end": 44.022
+    },
+    {
+     "w": "le",
+     "start": 44.022,
+     "end": 44.248
+    },
+    {
+     "w": "héros",
+     "start": 44.248,
+     "end": 44.669
+    },
+    {
+     "w": "est",
+     "start": 44.669,
+     "end": 44.959
+    },
+    {
+     "w": "que",
+     "start": 44.959,
+     "end": 45.25
+    },
+    {
+     "w": "deuxième.",
+     "start": 45.25,
+     "end": 46.026
+    },
+    {
+     "w": "L'ancien",
+     "start": 46.076,
+     "end": 46.411
+    },
+    {
+     "w": "plus",
+     "start": 46.411,
+     "end": 46.628
+    },
+    {
+     "w": "grand",
+     "start": 46.628,
+     "end": 46.884
+    },
+    {
+     "w": "tueur",
+     "start": 46.884,
+     "end": 47.14
+    },
+    {
+     "w": "du",
+     "start": 47.14,
+     "end": 47.278
+    },
+    {
+     "w": "Japon,",
+     "start": 47.278,
+     "end": 47.633
+    },
+    {
+     "w": "qui",
+     "start": 47.633,
+     "end": 47.81
+    },
+    {
+     "w": "a",
+     "start": 47.81,
+     "end": 47.909
+    },
+    {
+     "w": "tout",
+     "start": 47.909,
+     "end": 48.126
+    },
+    {
+     "w": "lâché",
+     "start": 48.126,
+     "end": 48.382
+    },
+    {
+     "w": "par",
+     "start": 48.382,
+     "end": 48.559
+    },
+    {
+     "w": "amour",
+     "start": 48.559,
+     "end": 48.815
+    },
+    {
+     "w": "pour",
+     "start": 48.815,
+     "end": 49.032
+    },
+    {
+     "w": "Aoi",
+     "start": 49.032,
+     "end": 49.21
+    },
+    {
+     "w": "et",
+     "start": 49.21,
+     "end": 49.348
+    },
+    {
+     "w": "tient",
+     "start": 49.348,
+     "end": 49.604
+    },
+    {
+     "w": "une",
+     "start": 49.604,
+     "end": 49.781
+    },
+    {
+     "w": "supérette.",
+     "start": 49.781,
+     "end": 50.294
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 50.394,
+   "end": 59.497,
+   "slot_end": 59.597,
+   "text": "Il a promis de plus jamais tuer, alors il se bat avec une cuillère ou un stylo. Et quand il devient sérieux, il perd son ventre en plein combat. Le seul régime qui marche vraiment.",
+   "words": [
+    {
+     "w": "Il",
+     "start": 50.394,
+     "end": 50.516
+    },
+    {
+     "w": "a",
+     "start": 50.516,
+     "end": 50.603
+    },
+    {
+     "w": "promis",
+     "start": 50.603,
+     "end": 50.864
+    },
+    {
+     "w": "de",
+     "start": 50.864,
+     "end": 50.986
+    },
+    {
+     "w": "plus",
+     "start": 50.986,
+     "end": 51.178
+    },
+    {
+     "w": "jamais",
+     "start": 51.178,
+     "end": 51.439
+    },
+    {
+     "w": "tuer,",
+     "start": 51.439,
+     "end": 51.718
+    },
+    {
+     "w": "alors",
+     "start": 51.718,
+     "end": 51.944
+    },
+    {
+     "w": "il",
+     "start": 51.944,
+     "end": 52.066
+    },
+    {
+     "w": "se",
+     "start": 52.066,
+     "end": 52.188
+    },
+    {
+     "w": "bat",
+     "start": 52.188,
+     "end": 52.345
+    },
+    {
+     "w": "avec",
+     "start": 52.345,
+     "end": 52.537
+    },
+    {
+     "w": "une",
+     "start": 52.537,
+     "end": 52.694
+    },
+    {
+     "w": "cuillère",
+     "start": 52.694,
+     "end": 53.025
+    },
+    {
+     "w": "ou",
+     "start": 53.025,
+     "end": 53.147
+    },
+    {
+     "w": "un",
+     "start": 53.147,
+     "end": 53.269
+    },
+    {
+     "w": "stylo.",
+     "start": 53.269,
+     "end": 53.582
+    },
+    {
+     "w": "Et",
+     "start": 53.632,
+     "end": 53.761
+    },
+    {
+     "w": "quand",
+     "start": 53.761,
+     "end": 54.001
+    },
+    {
+     "w": "il",
+     "start": 54.001,
+     "end": 54.131
+    },
+    {
+     "w": "devient",
+     "start": 54.131,
+     "end": 54.444
+    },
+    {
+     "w": "sérieux,",
+     "start": 54.444,
+     "end": 54.851
+    },
+    {
+     "w": "il",
+     "start": 54.851,
+     "end": 54.98
+    },
+    {
+     "w": "perd",
+     "start": 54.98,
+     "end": 55.183
+    },
+    {
+     "w": "son",
+     "start": 55.183,
+     "end": 55.349
+    },
+    {
+     "w": "ventre",
+     "start": 55.349,
+     "end": 55.626
+    },
+    {
+     "w": "en",
+     "start": 55.626,
+     "end": 55.755
+    },
+    {
+     "w": "plein",
+     "start": 55.755,
+     "end": 55.995
+    },
+    {
+     "w": "combat.",
+     "start": 55.995,
+     "end": 56.364
+    },
+    {
+     "w": "Le",
+     "start": 56.414,
+     "end": 56.681
+    },
+    {
+     "w": "seul",
+     "start": 56.681,
+     "end": 57.099
+    },
+    {
+     "w": "régime",
+     "start": 57.099,
+     "end": 57.67
+    },
+    {
+     "w": "qui",
+     "start": 57.67,
+     "end": 58.013
+    },
+    {
+     "w": "marche",
+     "start": 58.013,
+     "end": 58.584
+    },
+    {
+     "w": "vraiment.",
+     "start": 58.584,
+     "end": 59.497
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 59.597,
+   "end": 64.126,
+   "slot_end": 64.226,
+   "text": "Et numéro 1, Takamura. Le doyen de l'Order, un vieux qui a l'air complètement perdu.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 59.597,
+     "end": 59.761
+    },
+    {
+     "w": "numéro",
+     "start": 59.761,
+     "end": 60.113
+    },
+    {
+     "w": "1,",
+     "start": 60.113,
+     "end": 60.348
+    },
+    {
+     "w": "Takamura.",
+     "start": 60.348,
+     "end": 60.911
+    },
+    {
+     "w": "Le",
+     "start": 60.911,
+     "end": 61.075
+    },
+    {
+     "w": "doyen",
+     "start": 61.075,
+     "end": 61.38
+    },
+    {
+     "w": "de",
+     "start": 61.38,
+     "end": 61.545
+    },
+    {
+     "w": "l'Order,",
+     "start": 61.545,
+     "end": 62.014
+    },
+    {
+     "w": "un",
+     "start": 62.014,
+     "end": 62.178
+    },
+    {
+     "w": "vieux",
+     "start": 62.178,
+     "end": 62.483
+    },
+    {
+     "w": "qui",
+     "start": 62.483,
+     "end": 62.695
+    },
+    {
+     "w": "a",
+     "start": 62.695,
+     "end": 62.812
+    },
+    {
+     "w": "l'air",
+     "start": 62.812,
+     "end": 63.07
+    },
+    {
+     "w": "complètement",
+     "start": 63.07,
+     "end": 63.704
+    },
+    {
+     "w": "perdu.",
+     "start": 63.704,
+     "end": 64.126
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 64.226,
+   "end": 69.248,
+   "slot_end": 69.348,
+   "text": "Sauf qu'avec son sabre il coupe absolument tout ce qui passe devant lui. Quand il débarque, les autres tueurs se taisent direct.",
+   "words": [
+    {
+     "w": "Sauf",
+     "start": 64.226,
+     "end": 64.431
+    },
+    {
+     "w": "qu'avec",
+     "start": 64.431,
+     "end": 64.709
+    },
+    {
+     "w": "son",
+     "start": 64.709,
+     "end": 64.876
+    },
+    {
+     "w": "sabre",
+     "start": 64.876,
+     "end": 65.118
+    },
+    {
+     "w": "il",
+     "start": 65.118,
+     "end": 65.248
+    },
+    {
+     "w": "coupe",
+     "start": 65.248,
+     "end": 65.49
+    },
+    {
+     "w": "absolument",
+     "start": 65.49,
+     "end": 65.917
+    },
+    {
+     "w": "tout",
+     "start": 65.917,
+     "end": 66.121
+    },
+    {
+     "w": "ce",
+     "start": 66.121,
+     "end": 66.251
+    },
+    {
+     "w": "qui",
+     "start": 66.251,
+     "end": 66.419
+    },
+    {
+     "w": "passe",
+     "start": 66.419,
+     "end": 66.66
+    },
+    {
+     "w": "devant",
+     "start": 66.66,
+     "end": 66.939
+    },
+    {
+     "w": "lui.",
+     "start": 66.939,
+     "end": 67.199
+    },
+    {
+     "w": "Quand",
+     "start": 67.249,
+     "end": 67.454
+    },
+    {
+     "w": "il",
+     "start": 67.454,
+     "end": 67.564
+    },
+    {
+     "w": "débarque,",
+     "start": 67.564,
+     "end": 67.942
+    },
+    {
+     "w": "les",
+     "start": 67.942,
+     "end": 68.083
+    },
+    {
+     "w": "autres",
+     "start": 68.083,
+     "end": 68.319
+    },
+    {
+     "w": "tueurs",
+     "start": 68.319,
+     "end": 68.555
+    },
+    {
+     "w": "se",
+     "start": 68.555,
+     "end": 68.666
+    },
+    {
+     "w": "taisent",
+     "start": 68.666,
+     "end": 68.933
+    },
+    {
+     "w": "direct.",
+     "start": 68.933,
+     "end": 69.248
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 69.348,
+   "end": 74.943,
+   "slot_end": 75.043,
+   "text": "Mon avis, Sakamoto à fond pourrait peut-être le gérer, mais pour l'instant Takamura c'est le boss final, y'a pas débat.",
+   "words": [
+    {
+     "w": "Mon",
+     "start": 69.348,
+     "end": 69.539
+    },
+    {
+     "w": "avis,",
+     "start": 69.539,
+     "end": 69.878
+    },
+    {
+     "w": "Sakamoto",
+     "start": 69.878,
+     "end": 70.28
+    },
+    {
+     "w": "à",
+     "start": 70.28,
+     "end": 70.386
+    },
+    {
+     "w": "fond",
+     "start": 70.386,
+     "end": 70.619
+    },
+    {
+     "w": "pourrait",
+     "start": 70.619,
+     "end": 71.022
+    },
+    {
+     "w": "peut-être",
+     "start": 71.022,
+     "end": 71.425
+    },
+    {
+     "w": "le",
+     "start": 71.425,
+     "end": 71.573
+    },
+    {
+     "w": "gérer,",
+     "start": 71.573,
+     "end": 71.955
+    },
+    {
+     "w": "mais",
+     "start": 71.955,
+     "end": 72.188
+    },
+    {
+     "w": "pour",
+     "start": 72.188,
+     "end": 72.421
+    },
+    {
+     "w": "l'instant",
+     "start": 72.421,
+     "end": 72.823
+    },
+    {
+     "w": "Takamura",
+     "start": 72.823,
+     "end": 73.226
+    },
+    {
+     "w": "c'est",
+     "start": 73.226,
+     "end": 73.459
+    },
+    {
+     "w": "le",
+     "start": 73.459,
+     "end": 73.608
+    },
+    {
+     "w": "boss",
+     "start": 73.608,
+     "end": 73.841
+    },
+    {
+     "w": "final,",
+     "start": 73.841,
+     "end": 74.222
+    },
+    {
+     "w": "y'a",
+     "start": 74.222,
+     "end": 74.37
+    },
+    {
+     "w": "pas",
+     "start": 74.37,
+     "end": 74.561
+    },
+    {
+     "w": "débat.",
+     "start": 74.561,
+     "end": 74.943
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 75.043,
+   "end": 80.236,
+   "slot_end": 80.336,
+   "text": "Et toi, c'est quoi ton top 1 de Sakamoto Days ? Dis-moi en com', je veux voir qui va défendre Nagumo.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 75.043,
+     "end": 75.193
+    },
+    {
+     "w": "toi,",
+     "start": 75.193,
+     "end": 75.493
+    },
+    {
+     "w": "c'est",
+     "start": 75.493,
+     "end": 75.728
+    },
+    {
+     "w": "quoi",
+     "start": 75.728,
+     "end": 75.964
+    },
+    {
+     "w": "ton",
+     "start": 75.964,
+     "end": 76.157
+    },
+    {
+     "w": "top",
+     "start": 76.157,
+     "end": 76.349
+    },
+    {
+     "w": "1",
+     "start": 76.349,
+     "end": 76.456
+    },
+    {
+     "w": "de",
+     "start": 76.456,
+     "end": 76.606
+    },
+    {
+     "w": "Sakamoto",
+     "start": 76.606,
+     "end": 77.013
+    },
+    {
+     "w": "Days",
+     "start": 77.013,
+     "end": 77.249
+    },
+    {
+     "w": "?",
+     "start": 77.249,
+     "end": 77.42
+    },
+    {
+     "w": "Dis-moi",
+     "start": 77.47,
+     "end": 77.816
+    },
+    {
+     "w": "en",
+     "start": 77.816,
+     "end": 77.977
+    },
+    {
+     "w": "com',",
+     "start": 77.977,
+     "end": 78.3
+    },
+    {
+     "w": "je",
+     "start": 78.3,
+     "end": 78.461
+    },
+    {
+     "w": "veux",
+     "start": 78.461,
+     "end": 78.715
+    },
+    {
+     "w": "voir",
+     "start": 78.715,
+     "end": 78.968
+    },
+    {
+     "w": "qui",
+     "start": 78.968,
+     "end": 79.176
+    },
+    {
+     "w": "va",
+     "start": 79.176,
+     "end": 79.337
+    },
+    {
+     "w": "défendre",
+     "start": 79.337,
+     "end": 79.775
+    },
+    {
+     "w": "Nagumo.",
+     "start": 79.775,
+     "end": 80.236
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 80.336,
+   "end": 83.682,
+   "slot_end": 84.382,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 80.336,
+     "end": 80.801
+    },
+    {
+     "w": "Asura.",
+     "start": 80.801,
+     "end": 81.358
+    },
+    {
+     "w": "On",
+     "start": 81.358,
+     "end": 81.575
+    },
+    {
+     "w": "se",
+     "start": 81.575,
+     "end": 81.792
+    },
+    {
+     "w": "capte",
+     "start": 81.792,
+     "end": 82.195
+    },
+    {
+     "w": "au",
+     "start": 82.195,
+     "end": 82.412
+    },
+    {
+     "w": "prochain",
+     "start": 82.412,
+     "end": 83.0
+    },
+    {
+     "w": "épisode.",
+     "start": 83.0,
+     "end": 83.682
+    }
+   ]
+  }
+ ],
+ "aligned": false
+}
