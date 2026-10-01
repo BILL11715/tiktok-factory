@@ -1,0 +1,21 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-01_1145/video.mp4",
+ "duration": 85.84,
+ "shots": 67,
+ "sources": [
+  "https://anilist.co/anime/171952",
+  "https://kitsu.io/anime/Kage-no-Jitsuryokusha-ni-Naritakute-Zankyouhen"
+ ],
+ "music": {
+  "file": "mystere.mp3",
+  "bpm": 152.0,
+  "offset": 19.159999999999997
+ },
+ "sfx": 15,
+ "engine": "remotion (OpenMontage)",
+ "voice_engine": "clone",
+ "repo_path": "videos/2026/10/2026-10-01_1145.mp4",
+ "raw_url": "https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/videos/2026/10/2026-10-01_1145.mp4",
+ "lint": [],
+ "render_seconds": 1975.4
+}
