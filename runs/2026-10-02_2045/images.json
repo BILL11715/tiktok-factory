@@ -1,0 +1,37 @@
+{
+ "Shangri-La Frontier Season 3": {
+  "meta": {
+   "id": "49778",
+   "title": "Shangri-La Frontier 3rd Season",
+   "titles": {
+    "en": "Shangri-La Frontier Season 3",
+    "en_jp": "Shangri-La Frontier 3rd Season",
+    "ja_jp": "シャングリラ・フロンティア 3rd season"
+   },
+   "synopsis": "The third season of Shangri-La Frontier.",
+   "episodes": null,
+   "start": "2027-01-10",
+   "source": "https://kitsu.io/anime/shangri-la-frontier-3rd-season"
+  },
+  "wide": [],
+  "tall": [
+   "/home/claude/tiktok-factory/runs/2026-10-02_2045/images/8fe3c84f3f8e.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-02_2045/images/f703e6fea274.jpg"
+  ],
+  "characters": {
+   "Rakurou Hizutome": "/home/claude/tiktok-factory/runs/2026-10-02_2045/images/ca1b9db692c5.png",
+   "Towa Amane": "/home/claude/tiktok-factory/runs/2026-10-02_2045/images/5e54324ee2c0.png",
+   "Emul": "/home/claude/tiktok-factory/runs/2026-10-02_2045/images/22cb8028afef.jpg",
+   "Kei Uomi": "/home/claude/tiktok-factory/runs/2026-10-02_2045/images/3eefc64414a7.png",
+   "Rei Saiga": "/home/claude/tiktok-factory/runs/2026-10-02_2045/images/b68d82539453.png",
+   "Akane Akitsu": "/home/claude/tiktok-factory/runs/2026-10-02_2045/images/e4b99acc3f7e.png",
+   "Rust": "/home/claude/tiktok-factory/runs/2026-10-02_2045/images/ff076233dfb8.png",
+   "Ceecrue": "/home/claude/tiktok-factory/runs/2026-10-02_2045/images/a741602ddc5d.jpg",
+   "Mordo": "/home/claude/tiktok-factory/runs/2026-10-02_2045/images/e2e25f2b8ba6.jpg"
+  },
+  "sources": [
+   "https://kitsu.io/anime/shangri-la-frontier-3rd-season",
+   "https://anilist.co/anime/189323"
+  ]
+ }
+}

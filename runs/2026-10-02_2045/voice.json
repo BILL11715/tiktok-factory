@@ -1,0 +1,1747 @@
+{
+ "engine": "piper",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-02_2045/voice.wav",
+ "duration": 107.22,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 4.397,
+   "slot_end": 4.497,
+   "text": "Shangri-La Frontier, c'est pas un jeu vidéo, et y'a des indices partout.",
+   "words": [
+    {
+     "w": "Shangri-La",
+     "start": 0.0,
+     "end": 0.574
+    },
+    {
+     "w": "Frontier,",
+     "start": 0.574,
+     "end": 1.229
+    },
+    {
+     "w": "c'est",
+     "start": 1.229,
+     "end": 1.53
+    },
+    {
+     "w": "pas",
+     "start": 1.53,
+     "end": 1.775
+    },
+    {
+     "w": "un",
+     "start": 1.775,
+     "end": 1.967
+    },
+    {
+     "w": "jeu",
+     "start": 1.967,
+     "end": 2.212
+    },
+    {
+     "w": "vidéo,",
+     "start": 2.212,
+     "end": 2.704
+    },
+    {
+     "w": "et",
+     "start": 2.704,
+     "end": 2.895
+    },
+    {
+     "w": "y'a",
+     "start": 2.895,
+     "end": 3.086
+    },
+    {
+     "w": "des",
+     "start": 3.086,
+     "end": 3.332
+    },
+    {
+     "w": "indices",
+     "start": 3.332,
+     "end": 3.796
+    },
+    {
+     "w": "partout.",
+     "start": 3.796,
+     "end": 4.397
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 4.497,
+   "end": 8.383,
+   "slot_end": 8.483,
+   "text": "Reste jusqu'au bout, parce que le dernier indice m'a vraiment mis mal à l'aise.",
+   "words": [
+    {
+     "w": "Reste",
+     "start": 4.497,
+     "end": 4.788
+    },
+    {
+     "w": "jusqu'au",
+     "start": 4.788,
+     "end": 5.167
+    },
+    {
+     "w": "bout,",
+     "start": 5.167,
+     "end": 5.524
+    },
+    {
+     "w": "parce",
+     "start": 5.524,
+     "end": 5.815
+    },
+    {
+     "w": "que",
+     "start": 5.815,
+     "end": 6.016
+    },
+    {
+     "w": "le",
+     "start": 6.016,
+     "end": 6.172
+    },
+    {
+     "w": "dernier",
+     "start": 6.172,
+     "end": 6.552
+    },
+    {
+     "w": "indice",
+     "start": 6.552,
+     "end": 6.887
+    },
+    {
+     "w": "m'a",
+     "start": 6.887,
+     "end": 7.043
+    },
+    {
+     "w": "vraiment",
+     "start": 7.043,
+     "end": 7.467
+    },
+    {
+     "w": "mis",
+     "start": 7.467,
+     "end": 7.668
+    },
+    {
+     "w": "mal",
+     "start": 7.668,
+     "end": 7.869
+    },
+    {
+     "w": "à",
+     "start": 7.869,
+     "end": 7.981
+    },
+    {
+     "w": "l'aise.",
+     "start": 7.981,
+     "end": 8.383
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 8.483,
+   "end": 14.288,
+   "slot_end": 14.388,
+   "text": "Attention, c'est une théorie, rien n'est confirmé. Mais j'y pense depuis des semaines, j'te jure.",
+   "words": [
+    {
+     "w": "Attention,",
+     "start": 8.483,
+     "end": 9.154
+    },
+    {
+     "w": "c'est",
+     "start": 9.154,
+     "end": 9.438
+    },
+    {
+     "w": "une",
+     "start": 9.438,
+     "end": 9.67
+    },
+    {
+     "w": "théorie,",
+     "start": 9.67,
+     "end": 10.238
+    },
+    {
+     "w": "rien",
+     "start": 10.238,
+     "end": 10.522
+    },
+    {
+     "w": "n'est",
+     "start": 10.522,
+     "end": 10.806
+    },
+    {
+     "w": "confirmé.",
+     "start": 10.806,
+     "end": 11.426
+    },
+    {
+     "w": "Mais",
+     "start": 11.476,
+     "end": 11.774
+    },
+    {
+     "w": "j'y",
+     "start": 11.774,
+     "end": 11.963
+    },
+    {
+     "w": "pense",
+     "start": 11.963,
+     "end": 12.314
+    },
+    {
+     "w": "depuis",
+     "start": 12.314,
+     "end": 12.72
+    },
+    {
+     "w": "des",
+     "start": 12.72,
+     "end": 12.963
+    },
+    {
+     "w": "semaines,",
+     "start": 12.963,
+     "end": 13.612
+    },
+    {
+     "w": "j'te",
+     "start": 13.612,
+     "end": 13.855
+    },
+    {
+     "w": "jure.",
+     "start": 13.855,
+     "end": 14.288
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 14.388,
+   "end": 20.54,
+   "slot_end": 20.64,
+   "text": "Pour ceux qui connaissent pas, Sunraku, c'est le mec avec la tête d'oiseau qui joue qu'à des jeux pétés, les vrais jeux poubelles.",
+   "words": [
+    {
+     "w": "Pour",
+     "start": 14.388,
+     "end": 14.621
+    },
+    {
+     "w": "ceux",
+     "start": 14.621,
+     "end": 14.853
+    },
+    {
+     "w": "qui",
+     "start": 14.853,
+     "end": 15.043
+    },
+    {
+     "w": "connaissent",
+     "start": 15.043,
+     "end": 15.572
+    },
+    {
+     "w": "pas,",
+     "start": 15.572,
+     "end": 15.868
+    },
+    {
+     "w": "Sunraku,",
+     "start": 15.868,
+     "end": 16.333
+    },
+    {
+     "w": "c'est",
+     "start": 16.333,
+     "end": 16.565
+    },
+    {
+     "w": "le",
+     "start": 16.565,
+     "end": 16.713
+    },
+    {
+     "w": "mec",
+     "start": 16.713,
+     "end": 16.904
+    },
+    {
+     "w": "avec",
+     "start": 16.904,
+     "end": 17.136
+    },
+    {
+     "w": "la",
+     "start": 17.136,
+     "end": 17.284
+    },
+    {
+     "w": "tête",
+     "start": 17.284,
+     "end": 17.517
+    },
+    {
+     "w": "d'oiseau",
+     "start": 17.517,
+     "end": 17.876
+    },
+    {
+     "w": "qui",
+     "start": 17.876,
+     "end": 18.066
+    },
+    {
+     "w": "joue",
+     "start": 18.066,
+     "end": 18.299
+    },
+    {
+     "w": "qu'à",
+     "start": 18.299,
+     "end": 18.489
+    },
+    {
+     "w": "des",
+     "start": 18.489,
+     "end": 18.679
+    },
+    {
+     "w": "jeux",
+     "start": 18.679,
+     "end": 18.912
+    },
+    {
+     "w": "pétés,",
+     "start": 18.912,
+     "end": 19.292
+    },
+    {
+     "w": "les",
+     "start": 19.292,
+     "end": 19.483
+    },
+    {
+     "w": "vrais",
+     "start": 19.483,
+     "end": 19.757
+    },
+    {
+     "w": "jeux",
+     "start": 19.757,
+     "end": 19.99
+    },
+    {
+     "w": "poubelles.",
+     "start": 19.99,
+     "end": 20.54
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 20.64,
+   "end": 29.065,
+   "slot_end": 29.165,
+   "text": "Et un jour il lance Shangri-La Frontier, le jeu parfait. Sauf que là-dedans, il tombe sur des trucs qu'un jeu normal a aucune raison d'avoir.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 20.64,
+     "end": 20.832
+    },
+    {
+     "w": "un",
+     "start": 20.832,
+     "end": 21.024
+    },
+    {
+     "w": "jour",
+     "start": 21.024,
+     "end": 21.327
+    },
+    {
+     "w": "il",
+     "start": 21.327,
+     "end": 21.519
+    },
+    {
+     "w": "lance",
+     "start": 21.519,
+     "end": 21.876
+    },
+    {
+     "w": "Shangri-La",
+     "start": 21.876,
+     "end": 22.453
+    },
+    {
+     "w": "Frontier,",
+     "start": 22.453,
+     "end": 23.113
+    },
+    {
+     "w": "le",
+     "start": 23.113,
+     "end": 23.305
+    },
+    {
+     "w": "jeu",
+     "start": 23.305,
+     "end": 23.553
+    },
+    {
+     "w": "parfait.",
+     "start": 23.553,
+     "end": 24.157
+    },
+    {
+     "w": "Sauf",
+     "start": 24.207,
+     "end": 24.496
+    },
+    {
+     "w": "que",
+     "start": 24.496,
+     "end": 24.733
+    },
+    {
+     "w": "là-dedans,",
+     "start": 24.733,
+     "end": 25.363
+    },
+    {
+     "w": "il",
+     "start": 25.363,
+     "end": 25.547
+    },
+    {
+     "w": "tombe",
+     "start": 25.547,
+     "end": 25.888
+    },
+    {
+     "w": "sur",
+     "start": 25.888,
+     "end": 26.124
+    },
+    {
+     "w": "des",
+     "start": 26.124,
+     "end": 26.361
+    },
+    {
+     "w": "trucs",
+     "start": 26.361,
+     "end": 26.702
+    },
+    {
+     "w": "qu'un",
+     "start": 26.702,
+     "end": 26.991
+    },
+    {
+     "w": "jeu",
+     "start": 26.991,
+     "end": 27.227
+    },
+    {
+     "w": "normal",
+     "start": 27.227,
+     "end": 27.621
+    },
+    {
+     "w": "a",
+     "start": 27.621,
+     "end": 27.752
+    },
+    {
+     "w": "aucune",
+     "start": 27.752,
+     "end": 28.146
+    },
+    {
+     "w": "raison",
+     "start": 28.146,
+     "end": 28.54
+    },
+    {
+     "w": "d'avoir.",
+     "start": 28.54,
+     "end": 29.065
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 29.165,
+   "end": 36.738,
+   "slot_end": 36.838,
+   "text": "Premier indice, Emul. Le petit lapin qui le suit partout. Elle a peur, elle boude, elle s'attache à lui, genre pour de vrai.",
+   "words": [
+    {
+     "w": "Premier",
+     "start": 29.165,
+     "end": 29.608
+    },
+    {
+     "w": "indice,",
+     "start": 29.608,
+     "end": 30.13
+    },
+    {
+     "w": "Emul.",
+     "start": 30.13,
+     "end": 30.547
+    },
+    {
+     "w": "Le",
+     "start": 30.547,
+     "end": 30.729
+    },
+    {
+     "w": "petit",
+     "start": 30.729,
+     "end": 31.068
+    },
+    {
+     "w": "lapin",
+     "start": 31.068,
+     "end": 31.407
+    },
+    {
+     "w": "qui",
+     "start": 31.407,
+     "end": 31.642
+    },
+    {
+     "w": "le",
+     "start": 31.642,
+     "end": 31.824
+    },
+    {
+     "w": "suit",
+     "start": 31.824,
+     "end": 32.111
+    },
+    {
+     "w": "partout.",
+     "start": 32.111,
+     "end": 32.685
+    },
+    {
+     "w": "Elle",
+     "start": 32.735,
+     "end": 33.015
+    },
+    {
+     "w": "a",
+     "start": 33.015,
+     "end": 33.143
+    },
+    {
+     "w": "peur,",
+     "start": 33.143,
+     "end": 33.551
+    },
+    {
+     "w": "elle",
+     "start": 33.551,
+     "end": 33.831
+    },
+    {
+     "w": "boude,",
+     "start": 33.831,
+     "end": 34.29
+    },
+    {
+     "w": "elle",
+     "start": 34.29,
+     "end": 34.57
+    },
+    {
+     "w": "s'attache",
+     "start": 34.57,
+     "end": 35.055
+    },
+    {
+     "w": "à",
+     "start": 35.055,
+     "end": 35.182
+    },
+    {
+     "w": "lui,",
+     "start": 35.182,
+     "end": 35.539
+    },
+    {
+     "w": "genre",
+     "start": 35.539,
+     "end": 35.871
+    },
+    {
+     "w": "pour",
+     "start": 35.871,
+     "end": 36.151
+    },
+    {
+     "w": "de",
+     "start": 36.151,
+     "end": 36.33
+    },
+    {
+     "w": "vrai.",
+     "start": 36.33,
+     "end": 36.738
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 36.838,
+   "end": 47.51,
+   "slot_end": 47.61,
+   "text": "Un PNJ normal, ça te répète la même phrase en boucle. Elle, elle réagit à ce que Sunraku fait, comme une vraie personne. C'est chaud.",
+   "words": [
+    {
+     "w": "Un",
+     "start": 36.838,
+     "end": 37.031
+    },
+    {
+     "w": "PNJ",
+     "start": 37.031,
+     "end": 37.28
+    },
+    {
+     "w": "normal,",
+     "start": 37.28,
+     "end": 37.833
+    },
+    {
+     "w": "ça",
+     "start": 37.833,
+     "end": 38.026
+    },
+    {
+     "w": "te",
+     "start": 38.026,
+     "end": 38.22
+    },
+    {
+     "w": "répète",
+     "start": 38.22,
+     "end": 38.635
+    },
+    {
+     "w": "la",
+     "start": 38.635,
+     "end": 38.828
+    },
+    {
+     "w": "même",
+     "start": 38.828,
+     "end": 39.132
+    },
+    {
+     "w": "phrase",
+     "start": 39.132,
+     "end": 39.547
+    },
+    {
+     "w": "en",
+     "start": 39.547,
+     "end": 39.74
+    },
+    {
+     "w": "boucle.",
+     "start": 39.74,
+     "end": 40.293
+    },
+    {
+     "w": "Elle,",
+     "start": 40.343,
+     "end": 40.967
+    },
+    {
+     "w": "elle",
+     "start": 40.967,
+     "end": 41.395
+    },
+    {
+     "w": "réagit",
+     "start": 41.395,
+     "end": 41.979
+    },
+    {
+     "w": "à",
+     "start": 41.979,
+     "end": 42.174
+    },
+    {
+     "w": "ce",
+     "start": 42.174,
+     "end": 42.447
+    },
+    {
+     "w": "que",
+     "start": 42.447,
+     "end": 42.797
+    },
+    {
+     "w": "Sunraku",
+     "start": 42.797,
+     "end": 43.459
+    },
+    {
+     "w": "fait,",
+     "start": 43.459,
+     "end": 44.082
+    },
+    {
+     "w": "comme",
+     "start": 44.082,
+     "end": 44.589
+    },
+    {
+     "w": "une",
+     "start": 44.589,
+     "end": 44.939
+    },
+    {
+     "w": "vraie",
+     "start": 44.939,
+     "end": 45.446
+    },
+    {
+     "w": "personne.",
+     "start": 45.446,
+     "end": 46.381
+    },
+    {
+     "w": "C'est",
+     "start": 46.381,
+     "end": 46.809
+    },
+    {
+     "w": "chaud.",
+     "start": 46.809,
+     "end": 47.51
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 47.61,
+   "end": 52.832,
+   "slot_end": 52.932,
+   "text": "Si t'aimes ce genre de théorie, abonne-toi, j'en sors toute la semaine et la saison 3 arrive vite.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 47.61,
+     "end": 47.777
+    },
+    {
+     "w": "t'aimes",
+     "start": 47.777,
+     "end": 48.135
+    },
+    {
+     "w": "ce",
+     "start": 48.135,
+     "end": 48.302
+    },
+    {
+     "w": "genre",
+     "start": 48.302,
+     "end": 48.612
+    },
+    {
+     "w": "de",
+     "start": 48.612,
+     "end": 48.779
+    },
+    {
+     "w": "théorie,",
+     "start": 48.779,
+     "end": 49.303
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 49.303,
+     "end": 49.923
+    },
+    {
+     "w": "j'en",
+     "start": 49.923,
+     "end": 50.138
+    },
+    {
+     "w": "sors",
+     "start": 50.138,
+     "end": 50.4
+    },
+    {
+     "w": "toute",
+     "start": 50.4,
+     "end": 50.71
+    },
+    {
+     "w": "la",
+     "start": 50.71,
+     "end": 50.877
+    },
+    {
+     "w": "semaine",
+     "start": 50.877,
+     "end": 51.282
+    },
+    {
+     "w": "et",
+     "start": 51.282,
+     "end": 51.449
+    },
+    {
+     "w": "la",
+     "start": 51.449,
+     "end": 51.616
+    },
+    {
+     "w": "saison",
+     "start": 51.616,
+     "end": 51.974
+    },
+    {
+     "w": "3",
+     "start": 51.974,
+     "end": 52.093
+    },
+    {
+     "w": "arrive",
+     "start": 52.093,
+     "end": 52.451
+    },
+    {
+     "w": "vite.",
+     "start": 52.451,
+     "end": 52.832
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 52.932,
+   "end": 60.61,
+   "slot_end": 60.71,
+   "text": "Deuxième indice, Setsuna. Le fantôme qui attend depuis une éternité, et qui pleure pour Wethermon, le gardien de la tombe.",
+   "words": [
+    {
+     "w": "Deuxième",
+     "start": 52.932,
+     "end": 53.451
+    },
+    {
+     "w": "indice,",
+     "start": 53.451,
+     "end": 53.998
+    },
+    {
+     "w": "Setsuna.",
+     "start": 53.998,
+     "end": 54.599
+    },
+    {
+     "w": "Le",
+     "start": 54.599,
+     "end": 54.79
+    },
+    {
+     "w": "fantôme",
+     "start": 54.79,
+     "end": 55.255
+    },
+    {
+     "w": "qui",
+     "start": 55.255,
+     "end": 55.501
+    },
+    {
+     "w": "attend",
+     "start": 55.501,
+     "end": 55.911
+    },
+    {
+     "w": "depuis",
+     "start": 55.911,
+     "end": 56.32
+    },
+    {
+     "w": "une",
+     "start": 56.32,
+     "end": 56.566
+    },
+    {
+     "w": "éternité,",
+     "start": 56.566,
+     "end": 57.222
+    },
+    {
+     "w": "et",
+     "start": 57.222,
+     "end": 57.413
+    },
+    {
+     "w": "qui",
+     "start": 57.413,
+     "end": 57.659
+    },
+    {
+     "w": "pleure",
+     "start": 57.659,
+     "end": 58.069
+    },
+    {
+     "w": "pour",
+     "start": 58.069,
+     "end": 58.37
+    },
+    {
+     "w": "Wethermon,",
+     "start": 58.37,
+     "end": 59.08
+    },
+    {
+     "w": "le",
+     "start": 59.08,
+     "end": 59.271
+    },
+    {
+     "w": "gardien",
+     "start": 59.271,
+     "end": 59.736
+    },
+    {
+     "w": "de",
+     "start": 59.736,
+     "end": 59.927
+    },
+    {
+     "w": "la",
+     "start": 59.927,
+     "end": 60.118
+    },
+    {
+     "w": "tombe.",
+     "start": 60.118,
+     "end": 60.61
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 60.71,
+   "end": 66.114,
+   "slot_end": 66.214,
+   "text": "Cette scène m'a plus touché que la plupart des drames. Pour une simple quête de jeu, c'est bizarre, non ?",
+   "words": [
+    {
+     "w": "Cette",
+     "start": 60.71,
+     "end": 60.961
+    },
+    {
+     "w": "scène",
+     "start": 60.961,
+     "end": 61.212
+    },
+    {
+     "w": "m'a",
+     "start": 61.212,
+     "end": 61.347
+    },
+    {
+     "w": "plus",
+     "start": 61.347,
+     "end": 61.559
+    },
+    {
+     "w": "touché",
+     "start": 61.559,
+     "end": 61.848
+    },
+    {
+     "w": "que",
+     "start": 61.848,
+     "end": 62.022
+    },
+    {
+     "w": "la",
+     "start": 62.022,
+     "end": 62.157
+    },
+    {
+     "w": "plupart",
+     "start": 62.157,
+     "end": 62.485
+    },
+    {
+     "w": "des",
+     "start": 62.485,
+     "end": 62.659
+    },
+    {
+     "w": "drames.",
+     "start": 62.659,
+     "end": 63.044
+    },
+    {
+     "w": "Pour",
+     "start": 63.094,
+     "end": 63.374
+    },
+    {
+     "w": "une",
+     "start": 63.374,
+     "end": 63.602
+    },
+    {
+     "w": "simple",
+     "start": 63.602,
+     "end": 63.983
+    },
+    {
+     "w": "quête",
+     "start": 63.983,
+     "end": 64.313
+    },
+    {
+     "w": "de",
+     "start": 64.313,
+     "end": 64.49
+    },
+    {
+     "w": "jeu,",
+     "start": 64.49,
+     "end": 64.846
+    },
+    {
+     "w": "c'est",
+     "start": 64.846,
+     "end": 65.125
+    },
+    {
+     "w": "bizarre,",
+     "start": 65.125,
+     "end": 65.683
+    },
+    {
+     "w": "non",
+     "start": 65.683,
+     "end": 65.911
+    },
+    {
+     "w": "?",
+     "start": 65.911,
+     "end": 66.114
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 66.214,
+   "end": 74.937,
+   "slot_end": 75.037,
+   "text": "Et le troisième indice, c'est le plus gros. Sous ce monde de fantasy, y'a les ruines d'une civilisation hyper avancée, avec une techno qui a rien à faire là.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 66.214,
+     "end": 66.377
+    },
+    {
+     "w": "le",
+     "start": 66.377,
+     "end": 66.539
+    },
+    {
+     "w": "troisième",
+     "start": 66.539,
+     "end": 67.026
+    },
+    {
+     "w": "indice,",
+     "start": 67.026,
+     "end": 67.489
+    },
+    {
+     "w": "c'est",
+     "start": 67.489,
+     "end": 67.744
+    },
+    {
+     "w": "le",
+     "start": 67.744,
+     "end": 67.907
+    },
+    {
+     "w": "plus",
+     "start": 67.907,
+     "end": 68.162
+    },
+    {
+     "w": "gros.",
+     "start": 68.162,
+     "end": 68.532
+    },
+    {
+     "w": "Sous",
+     "start": 68.582,
+     "end": 68.858
+    },
+    {
+     "w": "ce",
+     "start": 68.858,
+     "end": 69.033
+    },
+    {
+     "w": "monde",
+     "start": 69.033,
+     "end": 69.358
+    },
+    {
+     "w": "de",
+     "start": 69.358,
+     "end": 69.533
+    },
+    {
+     "w": "fantasy,",
+     "start": 69.533,
+     "end": 70.083
+    },
+    {
+     "w": "y'a",
+     "start": 70.083,
+     "end": 70.259
+    },
+    {
+     "w": "les",
+     "start": 70.259,
+     "end": 70.484
+    },
+    {
+     "w": "ruines",
+     "start": 70.484,
+     "end": 70.859
+    },
+    {
+     "w": "d'une",
+     "start": 70.859,
+     "end": 71.134
+    },
+    {
+     "w": "civilisation",
+     "start": 71.134,
+     "end": 71.81
+    },
+    {
+     "w": "hyper",
+     "start": 71.81,
+     "end": 72.135
+    },
+    {
+     "w": "avancée,",
+     "start": 72.135,
+     "end": 72.685
+    },
+    {
+     "w": "avec",
+     "start": 72.685,
+     "end": 72.961
+    },
+    {
+     "w": "une",
+     "start": 72.961,
+     "end": 73.186
+    },
+    {
+     "w": "techno",
+     "start": 73.186,
+     "end": 73.561
+    },
+    {
+     "w": "qui",
+     "start": 73.561,
+     "end": 73.786
+    },
+    {
+     "w": "a",
+     "start": 73.786,
+     "end": 73.911
+    },
+    {
+     "w": "rien",
+     "start": 73.911,
+     "end": 74.186
+    },
+    {
+     "w": "à",
+     "start": 74.186,
+     "end": 74.311
+    },
+    {
+     "w": "faire",
+     "start": 74.311,
+     "end": 74.637
+    },
+    {
+     "w": "là.",
+     "start": 74.637,
+     "end": 74.937
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 75.037,
+   "end": 80.897,
+   "slot_end": 80.997,
+   "text": "Ma théorie, c'est que ce monde a existé pour de vrai, et que les joueurs revivent son histoire sans le savoir.",
+   "words": [
+    {
+     "w": "Ma",
+     "start": 75.037,
+     "end": 75.201
+    },
+    {
+     "w": "théorie,",
+     "start": 75.201,
+     "end": 75.717
+    },
+    {
+     "w": "c'est",
+     "start": 75.717,
+     "end": 75.975
+    },
+    {
+     "w": "que",
+     "start": 75.975,
+     "end": 76.186
+    },
+    {
+     "w": "ce",
+     "start": 76.186,
+     "end": 76.35
+    },
+    {
+     "w": "monde",
+     "start": 76.35,
+     "end": 76.654
+    },
+    {
+     "w": "a",
+     "start": 76.654,
+     "end": 76.772
+    },
+    {
+     "w": "existé",
+     "start": 76.772,
+     "end": 77.123
+    },
+    {
+     "w": "pour",
+     "start": 77.123,
+     "end": 77.381
+    },
+    {
+     "w": "de",
+     "start": 77.381,
+     "end": 77.545
+    },
+    {
+     "w": "vrai,",
+     "start": 77.545,
+     "end": 77.92
+    },
+    {
+     "w": "et",
+     "start": 77.92,
+     "end": 78.084
+    },
+    {
+     "w": "que",
+     "start": 78.084,
+     "end": 78.295
+    },
+    {
+     "w": "les",
+     "start": 78.295,
+     "end": 78.506
+    },
+    {
+     "w": "joueurs",
+     "start": 78.506,
+     "end": 78.905
+    },
+    {
+     "w": "revivent",
+     "start": 78.905,
+     "end": 79.35
+    },
+    {
+     "w": "son",
+     "start": 79.35,
+     "end": 79.561
+    },
+    {
+     "w": "histoire",
+     "start": 79.561,
+     "end": 80.007
+    },
+    {
+     "w": "sans",
+     "start": 80.007,
+     "end": 80.264
+    },
+    {
+     "w": "le",
+     "start": 80.264,
+     "end": 80.429
+    },
+    {
+     "w": "savoir.",
+     "start": 80.429,
+     "end": 80.897
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 80.997,
+   "end": 89.549,
+   "slot_end": 89.649,
+   "text": "Mais attends, y'a un truc qui contredit tout. Lycagon et les monstres uniques, eux, ils suivent des règles de jeu super claires, comme des vrais boss.",
+   "words": [
+    {
+     "w": "Mais",
+     "start": 80.997,
+     "end": 81.271
+    },
+    {
+     "w": "attends,",
+     "start": 81.271,
+     "end": 81.818
+    },
+    {
+     "w": "y'a",
+     "start": 81.818,
+     "end": 81.992
+    },
+    {
+     "w": "un",
+     "start": 81.992,
+     "end": 82.167
+    },
+    {
+     "w": "truc",
+     "start": 82.167,
+     "end": 82.44
+    },
+    {
+     "w": "qui",
+     "start": 82.44,
+     "end": 82.664
+    },
+    {
+     "w": "contredit",
+     "start": 82.664,
+     "end": 83.187
+    },
+    {
+     "w": "tout.",
+     "start": 83.187,
+     "end": 83.585
+    },
+    {
+     "w": "Lycagon",
+     "start": 83.635,
+     "end": 84.053
+    },
+    {
+     "w": "et",
+     "start": 84.053,
+     "end": 84.226
+    },
+    {
+     "w": "les",
+     "start": 84.226,
+     "end": 84.448
+    },
+    {
+     "w": "monstres",
+     "start": 84.448,
+     "end": 84.916
+    },
+    {
+     "w": "uniques,",
+     "start": 84.916,
+     "end": 85.458
+    },
+    {
+     "w": "eux,",
+     "start": 85.458,
+     "end": 85.803
+    },
+    {
+     "w": "ils",
+     "start": 85.803,
+     "end": 86.025
+    },
+    {
+     "w": "suivent",
+     "start": 86.025,
+     "end": 86.444
+    },
+    {
+     "w": "des",
+     "start": 86.444,
+     "end": 86.666
+    },
+    {
+     "w": "règles",
+     "start": 86.666,
+     "end": 87.035
+    },
+    {
+     "w": "de",
+     "start": 87.035,
+     "end": 87.208
+    },
+    {
+     "w": "jeu",
+     "start": 87.208,
+     "end": 87.43
+    },
+    {
+     "w": "super",
+     "start": 87.43,
+     "end": 87.75
+    },
+    {
+     "w": "claires,",
+     "start": 87.75,
+     "end": 88.292
+    },
+    {
+     "w": "comme",
+     "start": 88.292,
+     "end": 88.612
+    },
+    {
+     "w": "des",
+     "start": 88.612,
+     "end": 88.834
+    },
+    {
+     "w": "vrais",
+     "start": 88.834,
+     "end": 89.155
+    },
+    {
+     "w": "boss.",
+     "start": 89.155,
+     "end": 89.549
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 89.649,
+   "end": 94.858,
+   "slot_end": 94.958,
+   "text": "Donc soit l'auteur nous balade depuis le début, soit c'est le plus gros retournement des animes de jeu vidéo.",
+   "words": [
+    {
+     "w": "Donc",
+     "start": 89.649,
+     "end": 89.887
+    },
+    {
+     "w": "soit",
+     "start": 89.887,
+     "end": 90.124
+    },
+    {
+     "w": "l'auteur",
+     "start": 90.124,
+     "end": 90.492
+    },
+    {
+     "w": "nous",
+     "start": 90.492,
+     "end": 90.73
+    },
+    {
+     "w": "balade",
+     "start": 90.73,
+     "end": 91.054
+    },
+    {
+     "w": "depuis",
+     "start": 91.054,
+     "end": 91.378
+    },
+    {
+     "w": "le",
+     "start": 91.378,
+     "end": 91.529
+    },
+    {
+     "w": "début,",
+     "start": 91.529,
+     "end": 91.918
+    },
+    {
+     "w": "soit",
+     "start": 91.918,
+     "end": 92.156
+    },
+    {
+     "w": "c'est",
+     "start": 92.156,
+     "end": 92.394
+    },
+    {
+     "w": "le",
+     "start": 92.394,
+     "end": 92.545
+    },
+    {
+     "w": "plus",
+     "start": 92.545,
+     "end": 92.783
+    },
+    {
+     "w": "gros",
+     "start": 92.783,
+     "end": 93.021
+    },
+    {
+     "w": "retournement",
+     "start": 93.021,
+     "end": 93.604
+    },
+    {
+     "w": "des",
+     "start": 93.604,
+     "end": 93.799
+    },
+    {
+     "w": "animes",
+     "start": 93.799,
+     "end": 94.123
+    },
+    {
+     "w": "de",
+     "start": 94.123,
+     "end": 94.274
+    },
+    {
+     "w": "jeu",
+     "start": 94.274,
+     "end": 94.469
+    },
+    {
+     "w": "vidéo.",
+     "start": 94.469,
+     "end": 94.858
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 94.958,
+   "end": 102.577,
+   "slot_end": 102.677,
+   "text": "La saison 3 sort le 10 janvier 2027. Toi t'en penses quoi, simple jeu ou vrai monde ? Dis-moi en com'.",
+   "words": [
+    {
+     "w": "La",
+     "start": 94.958,
+     "end": 95.187
+    },
+    {
+     "w": "saison",
+     "start": 95.187,
+     "end": 95.677
+    },
+    {
+     "w": "3",
+     "start": 95.677,
+     "end": 95.841
+    },
+    {
+     "w": "sort",
+     "start": 95.841,
+     "end": 96.2
+    },
+    {
+     "w": "le",
+     "start": 96.2,
+     "end": 96.429
+    },
+    {
+     "w": "10",
+     "start": 96.429,
+     "end": 96.658
+    },
+    {
+     "w": "janvier",
+     "start": 96.658,
+     "end": 97.214
+    },
+    {
+     "w": "2027.",
+     "start": 97.214,
+     "end": 97.737
+    },
+    {
+     "w": "Toi",
+     "start": 97.737,
+     "end": 98.031
+    },
+    {
+     "w": "t'en",
+     "start": 98.031,
+     "end": 98.326
+    },
+    {
+     "w": "penses",
+     "start": 98.326,
+     "end": 98.816
+    },
+    {
+     "w": "quoi,",
+     "start": 98.816,
+     "end": 99.339
+    },
+    {
+     "w": "simple",
+     "start": 99.339,
+     "end": 99.83
+    },
+    {
+     "w": "jeu",
+     "start": 99.83,
+     "end": 100.124
+    },
+    {
+     "w": "ou",
+     "start": 100.124,
+     "end": 100.353
+    },
+    {
+     "w": "vrai",
+     "start": 100.353,
+     "end": 100.713
+    },
+    {
+     "w": "monde",
+     "start": 100.713,
+     "end": 101.138
+    },
+    {
+     "w": "?",
+     "start": 101.138,
+     "end": 101.399
+    },
+    {
+     "w": "Dis-moi",
+     "start": 101.399,
+     "end": 101.89
+    },
+    {
+     "w": "en",
+     "start": 101.89,
+     "end": 102.119
+    },
+    {
+     "w": "com'.",
+     "start": 102.119,
+     "end": 102.577
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "start": 102.677,
+   "end": 106.52,
+   "slot_end": 107.22,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 102.677,
+     "end": 103.21
+    },
+    {
+     "w": "Asura.",
+     "start": 103.21,
+     "end": 103.851
+    },
+    {
+     "w": "On",
+     "start": 103.851,
+     "end": 104.1
+    },
+    {
+     "w": "se",
+     "start": 104.1,
+     "end": 104.349
+    },
+    {
+     "w": "capte",
+     "start": 104.349,
+     "end": 104.812
+    },
+    {
+     "w": "au",
+     "start": 104.812,
+     "end": 105.061
+    },
+    {
+     "w": "prochain",
+     "start": 105.061,
+     "end": 105.737
+    },
+    {
+     "w": "épisode.",
+     "start": 105.737,
+     "end": 106.52
+    }
+   ]
+  }
+ ],
+ "aligned": false
+}

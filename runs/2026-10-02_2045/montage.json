@@ -1,0 +1,16 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-02_2045/video.mp4",
+ "duration": 107.22,
+ "shots": 89,
+ "sources": [
+  "https://anilist.co/anime/189323",
+  "https://kitsu.io/anime/shangri-la-frontier-3rd-season"
+ ],
+ "music": {
+  "file": "mystere.mp3",
+  "bpm": 152.0,
+  "offset": 0.0
+ },
+ "sfx": 22,
+ "engine": "remotion (OpenMontage)"
+}
