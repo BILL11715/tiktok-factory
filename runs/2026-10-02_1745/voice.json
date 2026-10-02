@@ -1,0 +1,1702 @@
+{
+ "engine": "piper",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-02_1745/voice.wav",
+ "duration": 88.545,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 3.397,
+   "slot_end": 3.497,
+   "text": "Dans le conte, le héros tue les démons. Sauf que lui, c'est le démon.",
+   "words": [
+    {
+     "w": "Dans",
+     "start": 0.0,
+     "end": 0.228
+    },
+    {
+     "w": "le",
+     "start": 0.228,
+     "end": 0.373
+    },
+    {
+     "w": "conte,",
+     "start": 0.373,
+     "end": 0.746
+    },
+    {
+     "w": "le",
+     "start": 0.746,
+     "end": 0.891
+    },
+    {
+     "w": "héros",
+     "start": 0.891,
+     "end": 1.16
+    },
+    {
+     "w": "tue",
+     "start": 1.16,
+     "end": 1.346
+    },
+    {
+     "w": "les",
+     "start": 1.346,
+     "end": 1.533
+    },
+    {
+     "w": "démons.",
+     "start": 1.533,
+     "end": 1.947
+    },
+    {
+     "w": "Sauf",
+     "start": 1.947,
+     "end": 2.175
+    },
+    {
+     "w": "que",
+     "start": 2.175,
+     "end": 2.362
+    },
+    {
+     "w": "lui,",
+     "start": 2.362,
+     "end": 2.652
+    },
+    {
+     "w": "c'est",
+     "start": 2.652,
+     "end": 2.879
+    },
+    {
+     "w": "le",
+     "start": 2.879,
+     "end": 3.024
+    },
+    {
+     "w": "démon.",
+     "start": 3.024,
+     "end": 3.397
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 3.497,
+   "end": 7.773,
+   "slot_end": 7.873,
+   "text": "Reste jusqu'au bout, j'te donne le nom, et la suite vient tout juste de commencer.",
+   "words": [
+    {
+     "w": "Reste",
+     "start": 3.497,
+     "end": 3.796
+    },
+    {
+     "w": "jusqu'au",
+     "start": 3.796,
+     "end": 4.187
+    },
+    {
+     "w": "bout,",
+     "start": 4.187,
+     "end": 4.555
+    },
+    {
+     "w": "j'te",
+     "start": 4.555,
+     "end": 4.762
+    },
+    {
+     "w": "donne",
+     "start": 4.762,
+     "end": 5.06
+    },
+    {
+     "w": "le",
+     "start": 5.06,
+     "end": 5.221
+    },
+    {
+     "w": "nom,",
+     "start": 5.221,
+     "end": 5.543
+    },
+    {
+     "w": "et",
+     "start": 5.543,
+     "end": 5.704
+    },
+    {
+     "w": "la",
+     "start": 5.704,
+     "end": 5.865
+    },
+    {
+     "w": "suite",
+     "start": 5.865,
+     "end": 6.164
+    },
+    {
+     "w": "vient",
+     "start": 6.164,
+     "end": 6.463
+    },
+    {
+     "w": "tout",
+     "start": 6.463,
+     "end": 6.715
+    },
+    {
+     "w": "juste",
+     "start": 6.715,
+     "end": 7.014
+    },
+    {
+     "w": "de",
+     "start": 7.014,
+     "end": 7.175
+    },
+    {
+     "w": "commencer.",
+     "start": 7.175,
+     "end": 7.773
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 7.873,
+   "end": 16.029,
+   "slot_end": 16.129,
+   "text": "Tu connais Momotaro ? Le petit garçon né dans une pêche, qui part sur une île pour tuer les démons. Tous les gamins japonais le connaissent.",
+   "words": [
+    {
+     "w": "Tu",
+     "start": 7.873,
+     "end": 8.064
+    },
+    {
+     "w": "connais",
+     "start": 8.064,
+     "end": 8.529
+    },
+    {
+     "w": "Momotaro",
+     "start": 8.529,
+     "end": 9.048
+    },
+    {
+     "w": "?",
+     "start": 9.048,
+     "end": 9.266
+    },
+    {
+     "w": "Le",
+     "start": 9.266,
+     "end": 9.458
+    },
+    {
+     "w": "petit",
+     "start": 9.458,
+     "end": 9.813
+    },
+    {
+     "w": "garçon",
+     "start": 9.813,
+     "end": 10.223
+    },
+    {
+     "w": "né",
+     "start": 10.223,
+     "end": 10.414
+    },
+    {
+     "w": "dans",
+     "start": 10.414,
+     "end": 10.714
+    },
+    {
+     "w": "une",
+     "start": 10.714,
+     "end": 10.96
+    },
+    {
+     "w": "pêche,",
+     "start": 10.96,
+     "end": 11.452
+    },
+    {
+     "w": "qui",
+     "start": 11.452,
+     "end": 11.698
+    },
+    {
+     "w": "part",
+     "start": 11.698,
+     "end": 11.999
+    },
+    {
+     "w": "sur",
+     "start": 11.999,
+     "end": 12.244
+    },
+    {
+     "w": "une",
+     "start": 12.244,
+     "end": 12.49
+    },
+    {
+     "w": "île",
+     "start": 12.49,
+     "end": 12.736
+    },
+    {
+     "w": "pour",
+     "start": 12.736,
+     "end": 13.037
+    },
+    {
+     "w": "tuer",
+     "start": 13.037,
+     "end": 13.337
+    },
+    {
+     "w": "les",
+     "start": 13.337,
+     "end": 13.583
+    },
+    {
+     "w": "démons.",
+     "start": 13.583,
+     "end": 14.13
+    },
+    {
+     "w": "Tous",
+     "start": 14.18,
+     "end": 14.403
+    },
+    {
+     "w": "les",
+     "start": 14.403,
+     "end": 14.586
+    },
+    {
+     "w": "gamins",
+     "start": 14.586,
+     "end": 14.891
+    },
+    {
+     "w": "japonais",
+     "start": 14.891,
+     "end": 15.277
+    },
+    {
+     "w": "le",
+     "start": 15.277,
+     "end": 15.42
+    },
+    {
+     "w": "connaissent.",
+     "start": 15.42,
+     "end": 16.029
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 16.129,
+   "end": 21.976,
+   "slot_end": 22.076,
+   "text": "Maintenant imagine que les descendants de Momotaro existent encore, qu'ils sont organisés, et qu'ils chassent les descendants des démons.",
+   "words": [
+    {
+     "w": "Maintenant",
+     "start": 16.129,
+     "end": 16.578
+    },
+    {
+     "w": "imagine",
+     "start": 16.578,
+     "end": 16.909
+    },
+    {
+     "w": "que",
+     "start": 16.909,
+     "end": 17.084
+    },
+    {
+     "w": "les",
+     "start": 17.084,
+     "end": 17.26
+    },
+    {
+     "w": "descendants",
+     "start": 17.26,
+     "end": 17.747
+    },
+    {
+     "w": "de",
+     "start": 17.747,
+     "end": 17.883
+    },
+    {
+     "w": "Momotaro",
+     "start": 17.883,
+     "end": 18.254
+    },
+    {
+     "w": "existent",
+     "start": 18.254,
+     "end": 18.624
+    },
+    {
+     "w": "encore,",
+     "start": 18.624,
+     "end": 19.014
+    },
+    {
+     "w": "qu'ils",
+     "start": 19.014,
+     "end": 19.267
+    },
+    {
+     "w": "sont",
+     "start": 19.267,
+     "end": 19.482
+    },
+    {
+     "w": "organisés,",
+     "start": 19.482,
+     "end": 19.988
+    },
+    {
+     "w": "et",
+     "start": 19.988,
+     "end": 20.125
+    },
+    {
+     "w": "qu'ils",
+     "start": 20.125,
+     "end": 20.378
+    },
+    {
+     "w": "chassent",
+     "start": 20.378,
+     "end": 20.748
+    },
+    {
+     "w": "les",
+     "start": 20.748,
+     "end": 20.924
+    },
+    {
+     "w": "descendants",
+     "start": 20.924,
+     "end": 21.411
+    },
+    {
+     "w": "des",
+     "start": 21.411,
+     "end": 21.586
+    },
+    {
+     "w": "démons.",
+     "start": 21.586,
+     "end": 21.976
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 22.076,
+   "end": 27.119,
+   "slot_end": 27.219,
+   "text": "Et Shiki, un ado bagarreur qui se croit normal, apprend en une seule nuit qu'il a du sang de démon.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 22.076,
+     "end": 22.232
+    },
+    {
+     "w": "Shiki,",
+     "start": 22.232,
+     "end": 22.631
+    },
+    {
+     "w": "un",
+     "start": 22.631,
+     "end": 22.787
+    },
+    {
+     "w": "ado",
+     "start": 22.787,
+     "end": 22.987
+    },
+    {
+     "w": "bagarreur",
+     "start": 22.987,
+     "end": 23.453
+    },
+    {
+     "w": "qui",
+     "start": 23.453,
+     "end": 23.653
+    },
+    {
+     "w": "se",
+     "start": 23.653,
+     "end": 23.809
+    },
+    {
+     "w": "croit",
+     "start": 23.809,
+     "end": 24.098
+    },
+    {
+     "w": "normal,",
+     "start": 24.098,
+     "end": 24.542
+    },
+    {
+     "w": "apprend",
+     "start": 24.542,
+     "end": 24.919
+    },
+    {
+     "w": "en",
+     "start": 24.919,
+     "end": 25.075
+    },
+    {
+     "w": "une",
+     "start": 25.075,
+     "end": 25.275
+    },
+    {
+     "w": "seule",
+     "start": 25.275,
+     "end": 25.564
+    },
+    {
+     "w": "nuit",
+     "start": 25.564,
+     "end": 25.808
+    },
+    {
+     "w": "qu'il",
+     "start": 25.808,
+     "end": 26.052
+    },
+    {
+     "w": "a",
+     "start": 26.052,
+     "end": 26.163
+    },
+    {
+     "w": "du",
+     "start": 26.163,
+     "end": 26.319
+    },
+    {
+     "w": "sang",
+     "start": 26.319,
+     "end": 26.563
+    },
+    {
+     "w": "de",
+     "start": 26.563,
+     "end": 26.719
+    },
+    {
+     "w": "démon.",
+     "start": 26.719,
+     "end": 27.119
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 27.219,
+   "end": 31.208,
+   "slot_end": 31.308,
+   "text": "Son père adoptif se fait tuer en essayant de le protéger. Il a rien vu venir.",
+   "words": [
+    {
+     "w": "Son",
+     "start": 27.219,
+     "end": 27.42
+    },
+    {
+     "w": "père",
+     "start": 27.42,
+     "end": 27.667
+    },
+    {
+     "w": "adoptif",
+     "start": 27.667,
+     "end": 28.048
+    },
+    {
+     "w": "se",
+     "start": 28.048,
+     "end": 28.205
+    },
+    {
+     "w": "fait",
+     "start": 28.205,
+     "end": 28.451
+    },
+    {
+     "w": "tuer",
+     "start": 28.451,
+     "end": 28.698
+    },
+    {
+     "w": "en",
+     "start": 28.698,
+     "end": 28.855
+    },
+    {
+     "w": "essayant",
+     "start": 28.855,
+     "end": 29.281
+    },
+    {
+     "w": "de",
+     "start": 29.281,
+     "end": 29.438
+    },
+    {
+     "w": "le",
+     "start": 29.438,
+     "end": 29.594
+    },
+    {
+     "w": "protéger.",
+     "start": 29.594,
+     "end": 30.132
+    },
+    {
+     "w": "Il",
+     "start": 30.132,
+     "end": 30.289
+    },
+    {
+     "w": "a",
+     "start": 30.289,
+     "end": 30.401
+    },
+    {
+     "w": "rien",
+     "start": 30.401,
+     "end": 30.648
+    },
+    {
+     "w": "vu",
+     "start": 30.648,
+     "end": 30.805
+    },
+    {
+     "w": "venir.",
+     "start": 30.805,
+     "end": 31.208
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 31.308,
+   "end": 38.386,
+   "slot_end": 38.486,
+   "text": "Et son pouvoir sort de son propre sang. Shiki est fan d'armes à feu, du coup son sang se transforme en flingues. C'est complètement débile et j'adore.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 31.308,
+     "end": 31.438
+    },
+    {
+     "w": "son",
+     "start": 31.438,
+     "end": 31.604
+    },
+    {
+     "w": "pouvoir",
+     "start": 31.604,
+     "end": 31.918
+    },
+    {
+     "w": "sort",
+     "start": 31.918,
+     "end": 32.122
+    },
+    {
+     "w": "de",
+     "start": 32.122,
+     "end": 32.251
+    },
+    {
+     "w": "son",
+     "start": 32.251,
+     "end": 32.417
+    },
+    {
+     "w": "propre",
+     "start": 32.417,
+     "end": 32.694
+    },
+    {
+     "w": "sang.",
+     "start": 32.694,
+     "end": 32.99
+    },
+    {
+     "w": "Shiki",
+     "start": 33.04,
+     "end": 33.325
+    },
+    {
+     "w": "est",
+     "start": 33.325,
+     "end": 33.522
+    },
+    {
+     "w": "fan",
+     "start": 33.522,
+     "end": 33.719
+    },
+    {
+     "w": "d'armes",
+     "start": 33.719,
+     "end": 34.048
+    },
+    {
+     "w": "à",
+     "start": 34.048,
+     "end": 34.158
+    },
+    {
+     "w": "feu,",
+     "start": 34.158,
+     "end": 34.464
+    },
+    {
+     "w": "du",
+     "start": 34.464,
+     "end": 34.618
+    },
+    {
+     "w": "coup",
+     "start": 34.618,
+     "end": 34.859
+    },
+    {
+     "w": "son",
+     "start": 34.859,
+     "end": 35.056
+    },
+    {
+     "w": "sang",
+     "start": 35.056,
+     "end": 35.297
+    },
+    {
+     "w": "se",
+     "start": 35.297,
+     "end": 35.45
+    },
+    {
+     "w": "transforme",
+     "start": 35.45,
+     "end": 35.954
+    },
+    {
+     "w": "en",
+     "start": 35.954,
+     "end": 36.108
+    },
+    {
+     "w": "flingues.",
+     "start": 36.108,
+     "end": 36.633
+    },
+    {
+     "w": "C'est",
+     "start": 36.633,
+     "end": 36.874
+    },
+    {
+     "w": "complètement",
+     "start": 36.874,
+     "end": 37.466
+    },
+    {
+     "w": "débile",
+     "start": 37.466,
+     "end": 37.795
+    },
+    {
+     "w": "et",
+     "start": 37.795,
+     "end": 37.948
+    },
+    {
+     "w": "j'adore.",
+     "start": 37.948,
+     "end": 38.386
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 38.486,
+   "end": 43.636,
+   "slot_end": 43.736,
+   "text": "Si tu veux plus de recos comme ça, abonne-toi, j'en sors presque tous les jours et celle de demain va te plaire.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 38.486,
+     "end": 38.629
+    },
+    {
+     "w": "tu",
+     "start": 38.629,
+     "end": 38.771
+    },
+    {
+     "w": "veux",
+     "start": 38.771,
+     "end": 38.995
+    },
+    {
+     "w": "plus",
+     "start": 38.995,
+     "end": 39.219
+    },
+    {
+     "w": "de",
+     "start": 39.219,
+     "end": 39.362
+    },
+    {
+     "w": "recos",
+     "start": 39.362,
+     "end": 39.626
+    },
+    {
+     "w": "comme",
+     "start": 39.626,
+     "end": 39.891
+    },
+    {
+     "w": "ça,",
+     "start": 39.891,
+     "end": 40.135
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 40.135,
+     "end": 40.664
+    },
+    {
+     "w": "j'en",
+     "start": 40.664,
+     "end": 40.847
+    },
+    {
+     "w": "sors",
+     "start": 40.847,
+     "end": 41.071
+    },
+    {
+     "w": "presque",
+     "start": 41.071,
+     "end": 41.417
+    },
+    {
+     "w": "tous",
+     "start": 41.417,
+     "end": 41.641
+    },
+    {
+     "w": "les",
+     "start": 41.641,
+     "end": 41.825
+    },
+    {
+     "w": "jours",
+     "start": 41.825,
+     "end": 42.089
+    },
+    {
+     "w": "et",
+     "start": 42.089,
+     "end": 42.232
+    },
+    {
+     "w": "celle",
+     "start": 42.232,
+     "end": 42.496
+    },
+    {
+     "w": "de",
+     "start": 42.496,
+     "end": 42.639
+    },
+    {
+     "w": "demain",
+     "start": 42.639,
+     "end": 42.944
+    },
+    {
+     "w": "va",
+     "start": 42.944,
+     "end": 43.087
+    },
+    {
+     "w": "te",
+     "start": 43.087,
+     "end": 43.229
+    },
+    {
+     "w": "plaire.",
+     "start": 43.229,
+     "end": 43.636
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 43.736,
+   "end": 50.436,
+   "slot_end": 50.536,
+   "text": "Ensuite on l'envoie dans une école pour démons, l'académie Rasetsu. Et son prof, c'est Mudano, le mec le plus froid de l'anime.",
+   "words": [
+    {
+     "w": "Ensuite",
+     "start": 43.736,
+     "end": 44.125
+    },
+    {
+     "w": "on",
+     "start": 44.125,
+     "end": 44.285
+    },
+    {
+     "w": "l'envoie",
+     "start": 44.285,
+     "end": 44.674
+    },
+    {
+     "w": "dans",
+     "start": 44.674,
+     "end": 44.926
+    },
+    {
+     "w": "une",
+     "start": 44.926,
+     "end": 45.132
+    },
+    {
+     "w": "école",
+     "start": 45.132,
+     "end": 45.43
+    },
+    {
+     "w": "pour",
+     "start": 45.43,
+     "end": 45.681
+    },
+    {
+     "w": "démons,",
+     "start": 45.681,
+     "end": 46.139
+    },
+    {
+     "w": "l'académie",
+     "start": 46.139,
+     "end": 46.62
+    },
+    {
+     "w": "Rasetsu.",
+     "start": 46.62,
+     "end": 47.123
+    },
+    {
+     "w": "Et",
+     "start": 47.173,
+     "end": 47.34
+    },
+    {
+     "w": "son",
+     "start": 47.34,
+     "end": 47.554
+    },
+    {
+     "w": "prof,",
+     "start": 47.554,
+     "end": 47.935
+    },
+    {
+     "w": "c'est",
+     "start": 47.935,
+     "end": 48.197
+    },
+    {
+     "w": "Mudano,",
+     "start": 48.197,
+     "end": 48.674
+    },
+    {
+     "w": "le",
+     "start": 48.674,
+     "end": 48.84
+    },
+    {
+     "w": "mec",
+     "start": 48.84,
+     "end": 49.055
+    },
+    {
+     "w": "le",
+     "start": 49.055,
+     "end": 49.221
+    },
+    {
+     "w": "plus",
+     "start": 49.221,
+     "end": 49.483
+    },
+    {
+     "w": "froid",
+     "start": 49.483,
+     "end": 49.793
+    },
+    {
+     "w": "de",
+     "start": 49.793,
+     "end": 49.96
+    },
+    {
+     "w": "l'anime.",
+     "start": 49.96,
+     "end": 50.436
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 50.536,
+   "end": 54.636,
+   "slot_end": 54.736,
+   "text": "Mudano sourit jamais et ses entraînements sont violents. Mais tu sens vite qu'il tient à ses élèves.",
+   "words": [
+    {
+     "w": "Mudano",
+     "start": 50.536,
+     "end": 50.815
+    },
+    {
+     "w": "sourit",
+     "start": 50.815,
+     "end": 51.093
+    },
+    {
+     "w": "jamais",
+     "start": 51.093,
+     "end": 51.372
+    },
+    {
+     "w": "et",
+     "start": 51.372,
+     "end": 51.502
+    },
+    {
+     "w": "ses",
+     "start": 51.502,
+     "end": 51.67
+    },
+    {
+     "w": "entraînements",
+     "start": 51.67,
+     "end": 52.209
+    },
+    {
+     "w": "sont",
+     "start": 52.209,
+     "end": 52.413
+    },
+    {
+     "w": "violents.",
+     "start": 52.413,
+     "end": 52.859
+    },
+    {
+     "w": "Mais",
+     "start": 52.909,
+     "end": 53.103
+    },
+    {
+     "w": "tu",
+     "start": 53.103,
+     "end": 53.226
+    },
+    {
+     "w": "sens",
+     "start": 53.226,
+     "end": 53.42
+    },
+    {
+     "w": "vite",
+     "start": 53.42,
+     "end": 53.614
+    },
+    {
+     "w": "qu'il",
+     "start": 53.614,
+     "end": 53.808
+    },
+    {
+     "w": "tient",
+     "start": 53.808,
+     "end": 54.037
+    },
+    {
+     "w": "à",
+     "start": 54.037,
+     "end": 54.125
+    },
+    {
+     "w": "ses",
+     "start": 54.125,
+     "end": 54.283
+    },
+    {
+     "w": "élèves.",
+     "start": 54.283,
+     "end": 54.636
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 54.736,
+   "end": 61.287,
+   "slot_end": 61.387,
+   "text": "Et le truc qui m'a eu, c'est que les gentils ici, c'est pas si clair. Les Momotaro se prennent pour des héros, et ils traquent des gamins.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 54.736,
+     "end": 54.887
+    },
+    {
+     "w": "le",
+     "start": 54.887,
+     "end": 55.037
+    },
+    {
+     "w": "truc",
+     "start": 55.037,
+     "end": 55.274
+    },
+    {
+     "w": "qui",
+     "start": 55.274,
+     "end": 55.468
+    },
+    {
+     "w": "m'a",
+     "start": 55.468,
+     "end": 55.619
+    },
+    {
+     "w": "eu,",
+     "start": 55.619,
+     "end": 55.877
+    },
+    {
+     "w": "c'est",
+     "start": 55.877,
+     "end": 56.114
+    },
+    {
+     "w": "que",
+     "start": 56.114,
+     "end": 56.308
+    },
+    {
+     "w": "les",
+     "start": 56.308,
+     "end": 56.502
+    },
+    {
+     "w": "gentils",
+     "start": 56.502,
+     "end": 56.868
+    },
+    {
+     "w": "ici,",
+     "start": 56.868,
+     "end": 57.17
+    },
+    {
+     "w": "c'est",
+     "start": 57.17,
+     "end": 57.407
+    },
+    {
+     "w": "pas",
+     "start": 57.407,
+     "end": 57.6
+    },
+    {
+     "w": "si",
+     "start": 57.6,
+     "end": 57.751
+    },
+    {
+     "w": "clair.",
+     "start": 57.751,
+     "end": 58.139
+    },
+    {
+     "w": "Les",
+     "start": 58.189,
+     "end": 58.368
+    },
+    {
+     "w": "Momotaro",
+     "start": 58.368,
+     "end": 58.745
+    },
+    {
+     "w": "se",
+     "start": 58.745,
+     "end": 58.884
+    },
+    {
+     "w": "prennent",
+     "start": 58.884,
+     "end": 59.261
+    },
+    {
+     "w": "pour",
+     "start": 59.261,
+     "end": 59.48
+    },
+    {
+     "w": "des",
+     "start": 59.48,
+     "end": 59.659
+    },
+    {
+     "w": "héros,",
+     "start": 59.659,
+     "end": 60.016
+    },
+    {
+     "w": "et",
+     "start": 60.016,
+     "end": 60.155
+    },
+    {
+     "w": "ils",
+     "start": 60.155,
+     "end": 60.334
+    },
+    {
+     "w": "traquent",
+     "start": 60.334,
+     "end": 60.711
+    },
+    {
+     "w": "des",
+     "start": 60.711,
+     "end": 60.89
+    },
+    {
+     "w": "gamins.",
+     "start": 60.89,
+     "end": 61.287
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 61.387,
+   "end": 66.332,
+   "slot_end": 66.432,
+   "text": "Mon avis ? C'est un des shonen les plus sous-cotés de l'an dernier, la saison 1 est passée sous les radars.",
+   "words": [
+    {
+     "w": "Mon",
+     "start": 61.387,
+     "end": 61.572
+    },
+    {
+     "w": "avis",
+     "start": 61.572,
+     "end": 61.799
+    },
+    {
+     "w": "?",
+     "start": 61.799,
+     "end": 61.964
+    },
+    {
+     "w": "C'est",
+     "start": 61.964,
+     "end": 62.191
+    },
+    {
+     "w": "un",
+     "start": 62.191,
+     "end": 62.335
+    },
+    {
+     "w": "des",
+     "start": 62.335,
+     "end": 62.52
+    },
+    {
+     "w": "shonen",
+     "start": 62.52,
+     "end": 62.829
+    },
+    {
+     "w": "les",
+     "start": 62.829,
+     "end": 63.015
+    },
+    {
+     "w": "plus",
+     "start": 63.015,
+     "end": 63.241
+    },
+    {
+     "w": "sous-cotés",
+     "start": 63.241,
+     "end": 63.674
+    },
+    {
+     "w": "de",
+     "start": 63.674,
+     "end": 63.818
+    },
+    {
+     "w": "l'an",
+     "start": 63.818,
+     "end": 64.004
+    },
+    {
+     "w": "dernier,",
+     "start": 64.004,
+     "end": 64.457
+    },
+    {
+     "w": "la",
+     "start": 64.457,
+     "end": 64.601
+    },
+    {
+     "w": "saison",
+     "start": 64.601,
+     "end": 64.91
+    },
+    {
+     "w": "1",
+     "start": 64.91,
+     "end": 65.013
+    },
+    {
+     "w": "est",
+     "start": 65.013,
+     "end": 65.199
+    },
+    {
+     "w": "passée",
+     "start": 65.199,
+     "end": 65.508
+    },
+    {
+     "w": "sous",
+     "start": 65.508,
+     "end": 65.734
+    },
+    {
+     "w": "les",
+     "start": 65.734,
+     "end": 65.92
+    },
+    {
+     "w": "radars.",
+     "start": 65.92,
+     "end": 66.332
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 66.432,
+   "end": 71.185,
+   "slot_end": 71.285,
+   "text": "Les combats au sang sont super stylés, et Shiki a ce côté tête brûlée, ça fait du bien.",
+   "words": [
+    {
+     "w": "Les",
+     "start": 66.432,
+     "end": 66.643
+    },
+    {
+     "w": "combats",
+     "start": 66.643,
+     "end": 67.041
+    },
+    {
+     "w": "au",
+     "start": 67.041,
+     "end": 67.205
+    },
+    {
+     "w": "sang",
+     "start": 67.205,
+     "end": 67.462
+    },
+    {
+     "w": "sont",
+     "start": 67.462,
+     "end": 67.72
+    },
+    {
+     "w": "super",
+     "start": 67.72,
+     "end": 68.024
+    },
+    {
+     "w": "stylés,",
+     "start": 68.024,
+     "end": 68.492
+    },
+    {
+     "w": "et",
+     "start": 68.492,
+     "end": 68.656
+    },
+    {
+     "w": "Shiki",
+     "start": 68.656,
+     "end": 68.961
+    },
+    {
+     "w": "a",
+     "start": 68.961,
+     "end": 69.078
+    },
+    {
+     "w": "ce",
+     "start": 69.078,
+     "end": 69.242
+    },
+    {
+     "w": "côté",
+     "start": 69.242,
+     "end": 69.499
+    },
+    {
+     "w": "tête",
+     "start": 69.499,
+     "end": 69.757
+    },
+    {
+     "w": "brûlée,",
+     "start": 69.757,
+     "end": 70.225
+    },
+    {
+     "w": "ça",
+     "start": 70.225,
+     "end": 70.389
+    },
+    {
+     "w": "fait",
+     "start": 70.389,
+     "end": 70.647
+    },
+    {
+     "w": "du",
+     "start": 70.647,
+     "end": 70.811
+    },
+    {
+     "w": "bien.",
+     "start": 70.811,
+     "end": 71.185
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 71.285,
+   "end": 78.118,
+   "slot_end": 78.218,
+   "text": "Si t'as kiffé Blue Exorcist ou Jujutsu Kaisen, c'est exactement ton délire. Rattrape la saison 1 vite fait.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 71.285,
+     "end": 71.485
+    },
+    {
+     "w": "t'as",
+     "start": 71.485,
+     "end": 71.743
+    },
+    {
+     "w": "kiffé",
+     "start": 71.743,
+     "end": 72.114
+    },
+    {
+     "w": "Blue",
+     "start": 72.114,
+     "end": 72.429
+    },
+    {
+     "w": "Exorcist",
+     "start": 72.429,
+     "end": 72.972
+    },
+    {
+     "w": "ou",
+     "start": 72.972,
+     "end": 73.172
+    },
+    {
+     "w": "Jujutsu",
+     "start": 73.172,
+     "end": 73.658
+    },
+    {
+     "w": "Kaisen,",
+     "start": 73.658,
+     "end": 74.23
+    },
+    {
+     "w": "c'est",
+     "start": 74.23,
+     "end": 74.545
+    },
+    {
+     "w": "exactement",
+     "start": 74.545,
+     "end": 75.202
+    },
+    {
+     "w": "ton",
+     "start": 75.202,
+     "end": 75.459
+    },
+    {
+     "w": "délire.",
+     "start": 75.459,
+     "end": 76.031
+    },
+    {
+     "w": "Rattrape",
+     "start": 76.031,
+     "end": 76.574
+    },
+    {
+     "w": "la",
+     "start": 76.574,
+     "end": 76.775
+    },
+    {
+     "w": "saison",
+     "start": 76.775,
+     "end": 77.203
+    },
+    {
+     "w": "1",
+     "start": 77.203,
+     "end": 77.346
+    },
+    {
+     "w": "vite",
+     "start": 77.346,
+     "end": 77.661
+    },
+    {
+     "w": "fait.",
+     "start": 77.661,
+     "end": 78.118
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 78.218,
+   "end": 83.822,
+   "slot_end": 83.922,
+   "text": "L'anime s'appelle Tougen Anki, et l'arc des chutes de Kegon vient de démarrer. Dis-moi en com' si tu connaissais déjà.",
+   "words": [
+    {
+     "w": "L'anime",
+     "start": 78.218,
+     "end": 78.548
+    },
+    {
+     "w": "s'appelle",
+     "start": 78.548,
+     "end": 78.965
+    },
+    {
+     "w": "Tougen",
+     "start": 78.965,
+     "end": 79.295
+    },
+    {
+     "w": "Anki,",
+     "start": 79.295,
+     "end": 79.646
+    },
+    {
+     "w": "et",
+     "start": 79.646,
+     "end": 79.8
+    },
+    {
+     "w": "l'arc",
+     "start": 79.8,
+     "end": 80.041
+    },
+    {
+     "w": "des",
+     "start": 80.041,
+     "end": 80.239
+    },
+    {
+     "w": "chutes",
+     "start": 80.239,
+     "end": 80.569
+    },
+    {
+     "w": "de",
+     "start": 80.569,
+     "end": 80.722
+    },
+    {
+     "w": "Kegon",
+     "start": 80.722,
+     "end": 81.008
+    },
+    {
+     "w": "vient",
+     "start": 81.008,
+     "end": 81.293
+    },
+    {
+     "w": "de",
+     "start": 81.293,
+     "end": 81.447
+    },
+    {
+     "w": "démarrer.",
+     "start": 81.447,
+     "end": 81.974
+    },
+    {
+     "w": "Dis-moi",
+     "start": 82.024,
+     "end": 82.338
+    },
+    {
+     "w": "en",
+     "start": 82.338,
+     "end": 82.484
+    },
+    {
+     "w": "com'",
+     "start": 82.484,
+     "end": 82.672
+    },
+    {
+     "w": "si",
+     "start": 82.672,
+     "end": 82.819
+    },
+    {
+     "w": "tu",
+     "start": 82.819,
+     "end": 82.965
+    },
+    {
+     "w": "connaissais",
+     "start": 82.965,
+     "end": 83.488
+    },
+    {
+     "w": "déjà.",
+     "start": 83.488,
+     "end": 83.822
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "start": 83.922,
+   "end": 87.845,
+   "slot_end": 88.545,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 83.922,
+     "end": 84.467
+    },
+    {
+     "w": "Asura.",
+     "start": 84.467,
+     "end": 85.121
+    },
+    {
+     "w": "On",
+     "start": 85.121,
+     "end": 85.375
+    },
+    {
+     "w": "se",
+     "start": 85.375,
+     "end": 85.629
+    },
+    {
+     "w": "capte",
+     "start": 85.629,
+     "end": 86.101
+    },
+    {
+     "w": "au",
+     "start": 86.101,
+     "end": 86.356
+    },
+    {
+     "w": "prochain",
+     "start": 86.356,
+     "end": 87.046
+    },
+    {
+     "w": "épisode.",
+     "start": 87.046,
+     "end": 87.845
+    }
+   ]
+  }
+ ],
+ "aligned": false
+}

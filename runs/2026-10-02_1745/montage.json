@@ -1,0 +1,16 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-02_1745/video.mp4",
+ "duration": 88.545,
+ "shots": 78,
+ "sources": [
+  "https://anilist.co/anime/204650",
+  "https://kitsu.io/anime/tougen-anki-nikko-kegon-falls-arc"
+ ],
+ "music": {
+  "file": "pote.mp3",
+  "bpm": 184.6,
+  "offset": 47.39
+ },
+ "sfx": 24,
+ "engine": "remotion (OpenMontage)"
+}
