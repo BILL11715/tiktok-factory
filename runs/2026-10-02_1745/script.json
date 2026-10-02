@@ -1,0 +1,143 @@
+{
+  "title": "Reco : il apprend qu'il descend des démons que Momotaro chassait",
+  "format": "reco",
+  "tone": "pote",
+  "music": "pote",
+  "animes": [
+    "TOUGEN ANKI: Nikko Kegon Falls Arc"
+  ],
+  "hook_text": "Dans le conte, le héros tue les démons. Sauf que lui, c'est le démon",
+  "spoiler": false,
+  "segments": [
+    {
+      "text": "Dans le conte, le héros tue les démons. Sauf que lui, c'est le démon.",
+      "sfx": true,
+      "emphasis": [
+        "démon"
+      ]
+    },
+    {
+      "text": "[whispering] Reste jusqu'au bout, j'te donne le nom, et la suite vient tout juste de commencer.",
+      "emphasis": [
+        "suite"
+      ]
+    },
+    {
+      "text": "Tu connais Momotaro ? Le petit garçon né dans une pêche, qui part sur une île pour tuer les démons. Tous les gamins japonais le connaissent.",
+      "emphasis": [
+        "Momotaro"
+      ],
+      "shots": [
+        {
+          "anime": "TOUGEN ANKI: Nikko Kegon Falls Arc",
+          "kind": "wide",
+          "at": "île"
+        }
+      ]
+    },
+    {
+      "text": "Maintenant imagine que les descendants de Momotaro existent encore, qu'ils sont organisés, et qu'ils chassent les descendants des démons.",
+      "emphasis": [
+        "chassent"
+      ]
+    },
+    {
+      "text": "[surprised] Et Shiki, un ado bagarreur qui se croit normal, apprend en une seule nuit qu'il a du sang de démon.",
+      "sfx": true,
+      "grade": "bw",
+      "emphasis": [
+        "sang"
+      ],
+      "shots": [
+        {
+          "anime": "TOUGEN ANKI: Nikko Kegon Falls Arc",
+          "kind": "character",
+          "character": "Shiki",
+          "at": "Shiki"
+        }
+      ]
+    },
+    {
+      "text": "Son père adoptif se fait tuer en essayant de le protéger. Il a rien vu venir.",
+      "grade": "bw",
+      "emphasis": [
+        "père"
+      ]
+    },
+    {
+      "text": "Et son pouvoir sort de son propre sang. Shiki est fan d'armes à feu, du coup son sang se transforme en flingues. C'est complètement débile et j'adore.",
+      "emphasis": [
+        "flingues"
+      ]
+    },
+    {
+      "text": "Si tu veux plus de recos comme ça, abonne-toi, j'en sors presque tous les jours et celle de demain va te plaire.",
+      "cta": true
+    },
+    {
+      "text": "[laughing] Ensuite on l'envoie dans une école pour démons, l'académie Rasetsu. Et son prof, c'est Mudano, le mec le plus froid de l'anime.",
+      "emphasis": [
+        "Rasetsu"
+      ],
+      "shots": [
+        {
+          "anime": "TOUGEN ANKI: Nikko Kegon Falls Arc",
+          "kind": "character",
+          "character": "Mudano",
+          "at": "Mudano"
+        }
+      ]
+    },
+    {
+      "text": "Mudano sourit jamais et ses entraînements sont violents. Mais tu sens vite qu'il tient à ses élèves.",
+      "emphasis": [
+        "élèves"
+      ]
+    },
+    {
+      "text": "Et le truc qui m'a eu, c'est que les gentils ici, c'est pas si clair. Les Momotaro se prennent pour des héros, et ils traquent des gamins.",
+      "sfx": true,
+      "stamp": "HÉROS ?",
+      "emphasis": [
+        "héros"
+      ]
+    },
+    {
+      "text": "[excited] Mon avis ? C'est un des shonen les plus sous-cotés de l'an dernier, la saison 1 est passée sous les radars.",
+      "sfx": true,
+      "stamp": "SOUS-COTÉ",
+      "emphasis": [
+        "sous-cotés"
+      ]
+    },
+    {
+      "text": "Les combats au sang sont super stylés, et Shiki a ce côté tête brûlée, ça fait du bien.",
+      "emphasis": [
+        "stylés"
+      ]
+    },
+    {
+      "text": "Si t'as kiffé Blue Exorcist ou Jujutsu Kaisen, c'est exactement ton délire. Rattrape la saison 1 vite fait.",
+      "emphasis": [
+        "Blue Exorcist"
+      ]
+    },
+    {
+      "text": "[excited] L'anime s'appelle Tougen Anki, et l'arc des chutes de Kegon vient de démarrer. Dis-moi en com' si tu connaissais déjà.",
+      "emphasis": [
+        "Tougen Anki"
+      ]
+    }
+  ],
+  "reveal_text": "Tougen Anki",
+  "reveal_segments": 1,
+  "caption": "Les héros du conte chassent des gamins, et lui il a le sang des démons 🩸 tu connaissais ?",
+  "hashtags": [
+    "#anime",
+    "#manga",
+    "#animefr",
+    "#otakufr",
+    "#tougenanki",
+    "#recommandationanime"
+  ]
+}
