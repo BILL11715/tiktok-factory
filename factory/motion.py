@@ -390,7 +390,7 @@ def render_video(work: Path, out: Path) -> None:
     ensure_node_modules()
     cmd = ["npx", "remotion", "render", "src/index.tsx", "AnimeShort", str(out),
            f"--props={work / 'timeline.json'}", f"--public-dir={work / 'pub'}",
-           "--muted", "--codec=h264", "--crf=21", "--concurrency=2", "--log=error",
+           "--muted", "--codec=h264", "--crf=21", f"--concurrency={min(2, os.cpu_count() or 1)}", "--log=error",
            f"--timeout=120000", "--offthreadvideo-cache-size-in-bytes=400000000"]
     if Path(CHROME).exists():
         cmd.append(f"--browser-executable={CHROME}")

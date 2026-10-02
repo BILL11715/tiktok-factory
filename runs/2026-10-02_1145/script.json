@@ -1,0 +1,133 @@
+{
+  "title": "Reco : il se réincarne en épée et une petite esclave le ramasse",
+  "format": "reco",
+  "tone": "pote",
+  "music": "pote",
+  "animes": [
+    "Reincarnated as a Sword Season 2"
+  ],
+  "hook_text": "Il meurt, se réincarne en épée, et une petite esclave le ramasse",
+  "spoiler": false,
+  "segments": [
+    {
+      "text": "Il meurt, se réincarne en épée, et une petite esclave le ramasse.",
+      "sfx": true,
+      "emphasis": [
+        "épée"
+      ]
+    },
+    {
+      "text": "[whispering] Reste jusqu'à la fin, j'te donne le nom, et la saison 2 vient tout juste de commencer.",
+      "emphasis": [
+        "saison 2"
+      ]
+    },
+    {
+      "text": "Le gars, c'était un Japonais normal. Il se réveille planté dans le sol, au milieu d'une forêt blindée de monstres.",
+      "emphasis": [
+        "monstres"
+      ],
+      "shots": [
+        {
+          "anime": "Reincarnated as a Sword Season 2",
+          "kind": "wide",
+          "at": "forêt"
+        }
+      ]
+    },
+    {
+      "text": "Il peut pas marcher, pas parler, rien. Par contre il lévite, et chaque monstre qu'il découpe, il absorbe sa pierre magique et lui pique ses skills.",
+      "emphasis": [
+        "skills"
+      ]
+    },
+    {
+      "text": "[surprised] Et là il tombe sur Fran. Une petite fille chat, esclave, qui a plus rien du tout.",
+      "sfx": true,
+      "grade": "bw",
+      "emphasis": [
+        "Fran"
+      ]
+    },
+    {
+      "text": "Elle vient de la tribu des chats noirs, celle que tout le monde méprise, parce qu'ils arrivent jamais à évoluer. Son rêve, c'est d'être la première.",
+      "grade": "bw",
+      "emphasis": [
+        "évoluer"
+      ]
+    },
+    {
+      "text": "Elle prend l'épée, et lui décide de devenir son arme. Franchement leur duo, c'est le cœur de l'anime, ça marche direct.",
+      "emphasis": [
+        "duo"
+      ]
+    },
+    {
+      "text": "Si t'aimes les recos comme ça, abonne-toi, j'en sors presque tous les jours et la prochaine est encore plus chaude.",
+      "cta": true
+    },
+    {
+      "text": "[laughing] Et le détail que j'adore, c'est que l'épée cuisine. Ouais, une épée qui fait du curry pour sa gamine.",
+      "emphasis": [
+        "curry"
+      ]
+    },
+    {
+      "text": "Et Fran est complètement accro au curry, genre c'est sa deuxième raison de vivre après l'évolution, j'te jure.",
+      "emphasis": [
+        "accro"
+      ],
+      "shots": [
+        {
+          "anime": "Reincarnated as a Sword Season 2",
+          "kind": "character",
+          "character": "Fran",
+          "at": "Fran"
+        }
+      ]
+    },
+    {
+      "text": "Mais attends, c'est pas juste mignon. Fran devient aventurière, elle grimpe les rangs de la guilde, et les combats envoient vraiment.",
+      "emphasis": [
+        "combats"
+      ]
+    },
+    {
+      "text": "Et l'épée lui parle dans sa tête, par télépathie. Un vieux Japonais blasé coincé dans une lame, qui joue le grand frère.",
+      "emphasis": [
+        "télépathie"
+      ]
+    },
+    {
+      "text": "[excited] Mon avis ? C'est l'isekai le plus attachant de la saison, et de loin. Les gens passent à côté parce que le pitch a l'air débile.",
+      "stamp": "SOUS-COTÉ",
+      "sfx": true,
+      "emphasis": [
+        "attachant"
+      ]
+    },
+    {
+      "text": "Si t'as kiffé Frieren pour le côté duo qui voyage et qui grandit, tente le premier épisode.",
+      "emphasis": [
+        "Frieren"
+      ]
+    },
+    {
+      "text": "[excited] L'anime s'appelle Reincarnated as a Sword, Tensei shitara Ken deshita en VO. Dis-moi en com' si tu l'as déjà vu.",
+      "emphasis": [
+        "Reincarnated"
+      ]
+    }
+  ],
+  "reveal_text": "Reincarnated as a Sword",
+  "reveal_segments": 1,
+  "caption": "Une épée qui cuisine du curry pour une gamine chat 😭 tu l'as vu ou pas ?",
+  "hashtags": [
+    "#anime",
+    "#manga",
+    "#animefr",
+    "#otakufr",
+    "#reincarnatedasasword",
+    "#recommandationanime"
+  ]
+}
