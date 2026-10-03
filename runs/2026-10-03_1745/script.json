@@ -1,0 +1,122 @@
+{
+  "title": "Reco : le pire joueur du jeu devient forgeron légendaire",
+  "format": "reco",
+  "tone": "pote",
+  "music": "pote",
+  "animes": [
+    "Overgeared"
+  ],
+  "hook_text": "Le pire joueur du jeu tombe sur la classe la plus cheatée du serveur",
+  "spoiler": false,
+  "segments": [
+    {
+      "text": "Le pire joueur du jeu tombe sur la classe la plus cheatée du serveur.",
+      "sfx": true,
+      "emphasis": [
+        "cheatée"
+      ]
+    },
+    {
+      "text": "[whispering] Reste jusqu'au bout, j'te donne le nom, et il sort en ce moment même.",
+      "emphasis": [
+        "bout"
+      ]
+    },
+    {
+      "text": "Le mec s'appelle Youngwoo. Dans le jeu, tout le monde le connaît sous le nom de Grid, et franchement personne le respecte.",
+      "emphasis": [
+        "Grid"
+      ]
+    },
+    {
+      "text": "Il est fauché, il enchaîne les petits boulots, et même en réalité virtuelle il arrive à être le boulet de service.",
+      "emphasis": [
+        "boulet"
+      ]
+    },
+    {
+      "text": "[laughing] Genre t'imagines rater ta vie deux fois, une fois dans le vrai monde et une fois dans le jeu.",
+      "grade": "bw"
+    },
+    {
+      "text": "Sauf qu'un jour, au fond d'une mine où il galère comme jamais, il tombe sur un vieux bouquin poussiéreux.",
+      "sfx": true,
+      "emphasis": [
+        "bouquin"
+      ]
+    },
+    {
+      "text": "[excited] Et ce bouquin fait de lui le descendant de Pagma, le forgeron légendaire. Une classe légendaire, frr.",
+      "sfx": true,
+      "stamp": "LÉGENDAIRE",
+      "emphasis": [
+        "Pagma"
+      ]
+    },
+    {
+      "text": "Si t'aimes les histoires de losers qui deviennent cheatés, abonne-toi, j'te sors une reco comme ça tous les jours.",
+      "cta": true
+    },
+    {
+      "text": "Mais attends, il devient pas fort d'un coup. Il forge ses propres armes, et ce qu'il fabrique peut tout changer.",
+      "emphasis": [
+        "forge"
+      ]
+    },
+    {
+      "text": "[sigh] Et le vrai problème, c'est Grid lui-même. Il est jaloux, radin, il pense qu'à l'argent et il pète des câbles pour un rien.",
+      "emphasis": [
+        "radin"
+      ]
+    },
+    {
+      "text": "Et c'est exactement pour ça que je l'aime. C'est un mec normal, avec des défauts de mec normal, qui a enfin une vraie chance.",
+      "emphasis": [
+        "normal"
+      ]
+    },
+    {
+      "text": "En face t'as Kraugel, le numéro un du classement, le genre de joueur que Grid regarde de très très loin.",
+      "grade": "bw",
+      "emphasis": [
+        "Kraugel"
+      ]
+    },
+    {
+      "text": "Et y'a Yura, une joueuse ultra forte, qui va croiser sa route bien plus vite qu'il le pense.",
+      "emphasis": [
+        "Yura"
+      ]
+    },
+    {
+      "text": "[excited] Mon avis ? Si t'as kiffé Solo Leveling mais que tu voulais un perso plus drôle et plus humain, c'est celui-là qu'il te faut.",
+      "stamp": "VALIDÉ",
+      "emphasis": [
+        "Solo Leveling"
+      ]
+    },
+    {
+      "text": "L'anime vient tout juste de commencer, donc t'es pile à l'heure pour le suivre.",
+      "emphasis": [
+        "coréenne"
+      ]
+    },
+    {
+      "text": "Ça s'appelle Overgeared. Dis-moi en com' si tu le regardes déjà.",
+      "emphasis": [
+        "Overgeared"
+      ]
+    }
+  ],
+  "reveal_text": "Overgeared",
+  "reveal_segments": 1,
+  "caption": "Le loser du serveur qui forge des armes cheatées 🔨 tu le regardes déjà ?",
+  "hashtags": [
+    "#anime",
+    "#manga",
+    "#animefr",
+    "#otakufr",
+    "#overgeared",
+    "#recommandationanime"
+  ]
+}
