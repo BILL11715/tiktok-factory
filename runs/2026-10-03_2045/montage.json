@@ -1,0 +1,16 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-03_2045/video.mp4",
+ "duration": 99.045,
+ "shots": 80,
+ "sources": [
+  "https://anilist.co/anime/195516",
+  "https://kitsu.io/anime/Kusuriya-no-Hitorigoto-3rd-season"
+ ],
+ "music": {
+  "file": "mystere.mp3",
+  "bpm": 152.0,
+  "offset": 5.954999999999998
+ },
+ "sfx": 22,
+ "engine": "remotion (OpenMontage)"
+}

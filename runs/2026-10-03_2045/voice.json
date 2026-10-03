@@ -1,0 +1,1692 @@
+{
+ "engine": "piper",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-03_2045/voice.wav",
+ "duration": 99.045,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 3.577,
+   "slot_end": 3.677,
+   "text": "Jinshi est pas le frère de l'empereur, et Maomao l'a déjà compris.",
+   "words": [
+    {
+     "w": "Jinshi",
+     "start": 0.0,
+     "end": 0.363
+    },
+    {
+     "w": "est",
+     "start": 0.363,
+     "end": 0.58
+    },
+    {
+     "w": "pas",
+     "start": 0.58,
+     "end": 0.798
+    },
+    {
+     "w": "le",
+     "start": 0.798,
+     "end": 0.967
+    },
+    {
+     "w": "frère",
+     "start": 0.967,
+     "end": 1.281
+    },
+    {
+     "w": "de",
+     "start": 1.281,
+     "end": 1.45
+    },
+    {
+     "w": "l'empereur,",
+     "start": 1.45,
+     "end": 2.079
+    },
+    {
+     "w": "et",
+     "start": 2.079,
+     "end": 2.248
+    },
+    {
+     "w": "Maomao",
+     "start": 2.248,
+     "end": 2.611
+    },
+    {
+     "w": "l'a",
+     "start": 2.611,
+     "end": 2.78
+    },
+    {
+     "w": "déjà",
+     "start": 2.78,
+     "end": 3.046
+    },
+    {
+     "w": "compris.",
+     "start": 3.046,
+     "end": 3.577
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 3.677,
+   "end": 7.601,
+   "slot_end": 7.701,
+   "text": "Reste jusqu'au bout, parce que si c'est vrai, toute la série change de sens.",
+   "words": [
+    {
+     "w": "Reste",
+     "start": 3.677,
+     "end": 3.972
+    },
+    {
+     "w": "jusqu'au",
+     "start": 3.972,
+     "end": 4.358
+    },
+    {
+     "w": "bout,",
+     "start": 4.358,
+     "end": 4.721
+    },
+    {
+     "w": "parce",
+     "start": 4.721,
+     "end": 5.015
+    },
+    {
+     "w": "que",
+     "start": 5.015,
+     "end": 5.22
+    },
+    {
+     "w": "si",
+     "start": 5.22,
+     "end": 5.378
+    },
+    {
+     "w": "c'est",
+     "start": 5.378,
+     "end": 5.628
+    },
+    {
+     "w": "vrai,",
+     "start": 5.628,
+     "end": 5.991
+    },
+    {
+     "w": "toute",
+     "start": 5.991,
+     "end": 6.285
+    },
+    {
+     "w": "la",
+     "start": 6.285,
+     "end": 6.444
+    },
+    {
+     "w": "série",
+     "start": 6.444,
+     "end": 6.739
+    },
+    {
+     "w": "change",
+     "start": 6.739,
+     "end": 7.079
+    },
+    {
+     "w": "de",
+     "start": 7.079,
+     "end": 7.238
+    },
+    {
+     "w": "sens.",
+     "start": 7.238,
+     "end": 7.601
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 7.701,
+   "end": 14.731,
+   "slot_end": 14.831,
+   "text": "Bon, c'est une théorie, mais elle tient grave debout. Officiellement, Jinshi c'est le petit frère de l'empereur, déguisé en eunuque.",
+   "words": [
+    {
+     "w": "Bon,",
+     "start": 7.701,
+     "end": 8.03
+    },
+    {
+     "w": "c'est",
+     "start": 8.03,
+     "end": 8.289
+    },
+    {
+     "w": "une",
+     "start": 8.289,
+     "end": 8.5
+    },
+    {
+     "w": "théorie,",
+     "start": 8.5,
+     "end": 9.018
+    },
+    {
+     "w": "mais",
+     "start": 9.018,
+     "end": 9.277
+    },
+    {
+     "w": "elle",
+     "start": 9.277,
+     "end": 9.535
+    },
+    {
+     "w": "tient",
+     "start": 9.535,
+     "end": 9.841
+    },
+    {
+     "w": "grave",
+     "start": 9.841,
+     "end": 10.147
+    },
+    {
+     "w": "debout.",
+     "start": 10.147,
+     "end": 10.617
+    },
+    {
+     "w": "Officiellement,",
+     "start": 10.667,
+     "end": 11.508
+    },
+    {
+     "w": "Jinshi",
+     "start": 11.508,
+     "end": 11.858
+    },
+    {
+     "w": "c'est",
+     "start": 11.858,
+     "end": 12.115
+    },
+    {
+     "w": "le",
+     "start": 12.115,
+     "end": 12.279
+    },
+    {
+     "w": "petit",
+     "start": 12.279,
+     "end": 12.582
+    },
+    {
+     "w": "frère",
+     "start": 12.582,
+     "end": 12.886
+    },
+    {
+     "w": "de",
+     "start": 12.886,
+     "end": 13.05
+    },
+    {
+     "w": "l'empereur,",
+     "start": 13.05,
+     "end": 13.657
+    },
+    {
+     "w": "déguisé",
+     "start": 13.657,
+     "end": 14.054
+    },
+    {
+     "w": "en",
+     "start": 14.054,
+     "end": 14.217
+    },
+    {
+     "w": "eunuque.",
+     "start": 14.217,
+     "end": 14.731
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 14.831,
+   "end": 19.774,
+   "slot_end": 19.874,
+   "text": "Sauf qu'une concubine colle pas du tout dans le tableau. Ah-Duo, la toute première consort de l'empereur.",
+   "words": [
+    {
+     "w": "Sauf",
+     "start": 14.831,
+     "end": 15.064
+    },
+    {
+     "w": "qu'une",
+     "start": 15.064,
+     "end": 15.339
+    },
+    {
+     "w": "concubine",
+     "start": 15.339,
+     "end": 15.783
+    },
+    {
+     "w": "colle",
+     "start": 15.783,
+     "end": 16.058
+    },
+    {
+     "w": "pas",
+     "start": 16.058,
+     "end": 16.249
+    },
+    {
+     "w": "du",
+     "start": 16.249,
+     "end": 16.397
+    },
+    {
+     "w": "tout",
+     "start": 16.397,
+     "end": 16.63
+    },
+    {
+     "w": "dans",
+     "start": 16.63,
+     "end": 16.863
+    },
+    {
+     "w": "le",
+     "start": 16.863,
+     "end": 17.011
+    },
+    {
+     "w": "tableau.",
+     "start": 17.011,
+     "end": 17.476
+    },
+    {
+     "w": "Ah-Duo,",
+     "start": 17.526,
+     "end": 17.905
+    },
+    {
+     "w": "la",
+     "start": 17.905,
+     "end": 18.052
+    },
+    {
+     "w": "toute",
+     "start": 18.052,
+     "end": 18.325
+    },
+    {
+     "w": "première",
+     "start": 18.325,
+     "end": 18.724
+    },
+    {
+     "w": "consort",
+     "start": 18.724,
+     "end": 19.081
+    },
+    {
+     "w": "de",
+     "start": 19.081,
+     "end": 19.228
+    },
+    {
+     "w": "l'empereur.",
+     "start": 19.228,
+     "end": 19.774
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 19.874,
+   "end": 26.148,
+   "slot_end": 26.248,
+   "text": "Ah-Duo a accouché d'un petit garçon, quasiment en même temps que l'impératrice douairière, qui elle aussi attendait un bébé.",
+   "words": [
+    {
+     "w": "Ah-Duo",
+     "start": 19.874,
+     "end": 20.174
+    },
+    {
+     "w": "a",
+     "start": 20.174,
+     "end": 20.29
+    },
+    {
+     "w": "accouché",
+     "start": 20.29,
+     "end": 20.728
+    },
+    {
+     "w": "d'un",
+     "start": 20.728,
+     "end": 20.935
+    },
+    {
+     "w": "petit",
+     "start": 20.935,
+     "end": 21.235
+    },
+    {
+     "w": "garçon,",
+     "start": 21.235,
+     "end": 21.697
+    },
+    {
+     "w": "quasiment",
+     "start": 21.697,
+     "end": 22.181
+    },
+    {
+     "w": "en",
+     "start": 22.181,
+     "end": 22.342
+    },
+    {
+     "w": "même",
+     "start": 22.342,
+     "end": 22.596
+    },
+    {
+     "w": "temps",
+     "start": 22.596,
+     "end": 22.896
+    },
+    {
+     "w": "que",
+     "start": 22.896,
+     "end": 23.103
+    },
+    {
+     "w": "l'impératrice",
+     "start": 23.103,
+     "end": 23.726
+    },
+    {
+     "w": "douairière,",
+     "start": 23.726,
+     "end": 24.372
+    },
+    {
+     "w": "qui",
+     "start": 24.372,
+     "end": 24.58
+    },
+    {
+     "w": "elle",
+     "start": 24.58,
+     "end": 24.833
+    },
+    {
+     "w": "aussi",
+     "start": 24.833,
+     "end": 25.133
+    },
+    {
+     "w": "attendait",
+     "start": 25.133,
+     "end": 25.618
+    },
+    {
+     "w": "un",
+     "start": 25.618,
+     "end": 25.779
+    },
+    {
+     "w": "bébé.",
+     "start": 25.779,
+     "end": 26.148
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 26.248,
+   "end": 30.744,
+   "slot_end": 30.844,
+   "text": "Et le fils d'Ah-Duo est mort tout petit. Après ça, elle a plus jamais pu avoir d'enfant.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 26.248,
+     "end": 26.41
+    },
+    {
+     "w": "le",
+     "start": 26.41,
+     "end": 26.571
+    },
+    {
+     "w": "fils",
+     "start": 26.571,
+     "end": 26.825
+    },
+    {
+     "w": "d'Ah-Duo",
+     "start": 26.825,
+     "end": 27.171
+    },
+    {
+     "w": "est",
+     "start": 27.171,
+     "end": 27.379
+    },
+    {
+     "w": "mort",
+     "start": 27.379,
+     "end": 27.633
+    },
+    {
+     "w": "tout",
+     "start": 27.633,
+     "end": 27.887
+    },
+    {
+     "w": "petit.",
+     "start": 27.887,
+     "end": 28.303
+    },
+    {
+     "w": "Après",
+     "start": 28.353,
+     "end": 28.638
+    },
+    {
+     "w": "ça,",
+     "start": 28.638,
+     "end": 28.901
+    },
+    {
+     "w": "elle",
+     "start": 28.901,
+     "end": 29.143
+    },
+    {
+     "w": "a",
+     "start": 29.143,
+     "end": 29.252
+    },
+    {
+     "w": "plus",
+     "start": 29.252,
+     "end": 29.494
+    },
+    {
+     "w": "jamais",
+     "start": 29.494,
+     "end": 29.823
+    },
+    {
+     "w": "pu",
+     "start": 29.823,
+     "end": 29.976
+    },
+    {
+     "w": "avoir",
+     "start": 29.976,
+     "end": 30.262
+    },
+    {
+     "w": "d'enfant.",
+     "start": 30.262,
+     "end": 30.744
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 30.844,
+   "end": 36.849,
+   "slot_end": 36.949,
+   "text": "Deux bébés nés au même moment, dans le même palais, et y'en a un seul qui survit. Tu vois où je veux en venir ?",
+   "words": [
+    {
+     "w": "Deux",
+     "start": 30.844,
+     "end": 31.099
+    },
+    {
+     "w": "bébés",
+     "start": 31.099,
+     "end": 31.401
+    },
+    {
+     "w": "nés",
+     "start": 31.401,
+     "end": 31.609
+    },
+    {
+     "w": "au",
+     "start": 31.609,
+     "end": 31.772
+    },
+    {
+     "w": "même",
+     "start": 31.772,
+     "end": 32.027
+    },
+    {
+     "w": "moment,",
+     "start": 32.027,
+     "end": 32.49
+    },
+    {
+     "w": "dans",
+     "start": 32.49,
+     "end": 32.745
+    },
+    {
+     "w": "le",
+     "start": 32.745,
+     "end": 32.908
+    },
+    {
+     "w": "même",
+     "start": 32.908,
+     "end": 33.163
+    },
+    {
+     "w": "palais,",
+     "start": 33.163,
+     "end": 33.626
+    },
+    {
+     "w": "et",
+     "start": 33.626,
+     "end": 33.789
+    },
+    {
+     "w": "y'en",
+     "start": 33.789,
+     "end": 33.997
+    },
+    {
+     "w": "a",
+     "start": 33.997,
+     "end": 34.113
+    },
+    {
+     "w": "un",
+     "start": 34.113,
+     "end": 34.276
+    },
+    {
+     "w": "seul",
+     "start": 34.276,
+     "end": 34.531
+    },
+    {
+     "w": "qui",
+     "start": 34.531,
+     "end": 34.739
+    },
+    {
+     "w": "survit.",
+     "start": 34.739,
+     "end": 35.203
+    },
+    {
+     "w": "Tu",
+     "start": 35.203,
+     "end": 35.365
+    },
+    {
+     "w": "vois",
+     "start": 35.365,
+     "end": 35.62
+    },
+    {
+     "w": "où",
+     "start": 35.62,
+     "end": 35.783
+    },
+    {
+     "w": "je",
+     "start": 35.783,
+     "end": 35.945
+    },
+    {
+     "w": "veux",
+     "start": 35.945,
+     "end": 36.2
+    },
+    {
+     "w": "en",
+     "start": 36.2,
+     "end": 36.362
+    },
+    {
+     "w": "venir",
+     "start": 36.362,
+     "end": 36.664
+    },
+    {
+     "w": "?",
+     "start": 36.664,
+     "end": 36.849
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 36.949,
+   "end": 42.485,
+   "slot_end": 42.585,
+   "text": "Si t'aimes quand on décortique un anime comme ça, abonne-toi, je sors une théorie presque tous les soirs.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 36.949,
+     "end": 37.114
+    },
+    {
+     "w": "t'aimes",
+     "start": 37.114,
+     "end": 37.467
+    },
+    {
+     "w": "quand",
+     "start": 37.467,
+     "end": 37.774
+    },
+    {
+     "w": "on",
+     "start": 37.774,
+     "end": 37.938
+    },
+    {
+     "w": "décortique",
+     "start": 37.938,
+     "end": 38.48
+    },
+    {
+     "w": "un",
+     "start": 38.48,
+     "end": 38.645
+    },
+    {
+     "w": "anime",
+     "start": 38.645,
+     "end": 38.951
+    },
+    {
+     "w": "comme",
+     "start": 38.951,
+     "end": 39.258
+    },
+    {
+     "w": "ça,",
+     "start": 39.258,
+     "end": 39.54
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 39.54,
+     "end": 40.153
+    },
+    {
+     "w": "je",
+     "start": 40.153,
+     "end": 40.318
+    },
+    {
+     "w": "sors",
+     "start": 40.318,
+     "end": 40.577
+    },
+    {
+     "w": "une",
+     "start": 40.577,
+     "end": 40.789
+    },
+    {
+     "w": "théorie",
+     "start": 40.789,
+     "end": 41.189
+    },
+    {
+     "w": "presque",
+     "start": 41.189,
+     "end": 41.589
+    },
+    {
+     "w": "tous",
+     "start": 41.589,
+     "end": 41.849
+    },
+    {
+     "w": "les",
+     "start": 41.849,
+     "end": 42.061
+    },
+    {
+     "w": "soirs.",
+     "start": 42.061,
+     "end": 42.485
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 42.585,
+   "end": 49.986,
+   "slot_end": 50.086,
+   "text": "Et le pire, c'est que Maomao y pense elle-même dans la saison 1. Elle a le flair, elle relie les dates, et elle préfère se taire.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 42.585,
+     "end": 42.771
+    },
+    {
+     "w": "le",
+     "start": 42.771,
+     "end": 42.957
+    },
+    {
+     "w": "pire,",
+     "start": 42.957,
+     "end": 43.382
+    },
+    {
+     "w": "c'est",
+     "start": 43.382,
+     "end": 43.674
+    },
+    {
+     "w": "que",
+     "start": 43.674,
+     "end": 43.914
+    },
+    {
+     "w": "Maomao",
+     "start": 43.914,
+     "end": 44.312
+    },
+    {
+     "w": "y",
+     "start": 44.312,
+     "end": 44.445
+    },
+    {
+     "w": "pense",
+     "start": 44.445,
+     "end": 44.791
+    },
+    {
+     "w": "elle-même",
+     "start": 44.791,
+     "end": 45.296
+    },
+    {
+     "w": "dans",
+     "start": 45.296,
+     "end": 45.588
+    },
+    {
+     "w": "la",
+     "start": 45.588,
+     "end": 45.774
+    },
+    {
+     "w": "saison",
+     "start": 45.774,
+     "end": 46.173
+    },
+    {
+     "w": "1.",
+     "start": 46.173,
+     "end": 46.438
+    },
+    {
+     "w": "Elle",
+     "start": 46.488,
+     "end": 46.742
+    },
+    {
+     "w": "a",
+     "start": 46.742,
+     "end": 46.857
+    },
+    {
+     "w": "le",
+     "start": 46.857,
+     "end": 47.018
+    },
+    {
+     "w": "flair,",
+     "start": 47.018,
+     "end": 47.432
+    },
+    {
+     "w": "elle",
+     "start": 47.432,
+     "end": 47.685
+    },
+    {
+     "w": "relie",
+     "start": 47.685,
+     "end": 47.984
+    },
+    {
+     "w": "les",
+     "start": 47.984,
+     "end": 48.191
+    },
+    {
+     "w": "dates,",
+     "start": 48.191,
+     "end": 48.605
+    },
+    {
+     "w": "et",
+     "start": 48.605,
+     "end": 48.766
+    },
+    {
+     "w": "elle",
+     "start": 48.766,
+     "end": 49.02
+    },
+    {
+     "w": "préfère",
+     "start": 49.02,
+     "end": 49.411
+    },
+    {
+     "w": "se",
+     "start": 49.411,
+     "end": 49.572
+    },
+    {
+     "w": "taire.",
+     "start": 49.572,
+     "end": 49.986
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 50.086,
+   "end": 55.695,
+   "slot_end": 55.795,
+   "text": "Normal, quand tu bosses au palais, savoir un truc pareil c'est le meilleur moyen de finir la tête coupée.",
+   "words": [
+    {
+     "w": "Normal,",
+     "start": 50.086,
+     "end": 50.557
+    },
+    {
+     "w": "quand",
+     "start": 50.557,
+     "end": 50.864
+    },
+    {
+     "w": "tu",
+     "start": 50.864,
+     "end": 51.029
+    },
+    {
+     "w": "bosses",
+     "start": 51.029,
+     "end": 51.382
+    },
+    {
+     "w": "au",
+     "start": 51.382,
+     "end": 51.547
+    },
+    {
+     "w": "palais,",
+     "start": 51.547,
+     "end": 52.018
+    },
+    {
+     "w": "savoir",
+     "start": 52.018,
+     "end": 52.372
+    },
+    {
+     "w": "un",
+     "start": 52.372,
+     "end": 52.537
+    },
+    {
+     "w": "truc",
+     "start": 52.537,
+     "end": 52.796
+    },
+    {
+     "w": "pareil",
+     "start": 52.796,
+     "end": 53.15
+    },
+    {
+     "w": "c'est",
+     "start": 53.15,
+     "end": 53.409
+    },
+    {
+     "w": "le",
+     "start": 53.409,
+     "end": 53.574
+    },
+    {
+     "w": "meilleur",
+     "start": 53.574,
+     "end": 54.022
+    },
+    {
+     "w": "moyen",
+     "start": 54.022,
+     "end": 54.328
+    },
+    {
+     "w": "de",
+     "start": 54.328,
+     "end": 54.493
+    },
+    {
+     "w": "finir",
+     "start": 54.493,
+     "end": 54.799
+    },
+    {
+     "w": "la",
+     "start": 54.799,
+     "end": 54.964
+    },
+    {
+     "w": "tête",
+     "start": 54.964,
+     "end": 55.224
+    },
+    {
+     "w": "coupée.",
+     "start": 55.224,
+     "end": 55.695
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 55.795,
+   "end": 62.989,
+   "slot_end": 63.089,
+   "text": "Deuxième indice, la façon dont Ah-Duo regarde Jinshi. Frr, on dirait une mère qui retient tout ce qu'elle a envie de dire.",
+   "words": [
+    {
+     "w": "Deuxième",
+     "start": 55.795,
+     "end": 56.312
+    },
+    {
+     "w": "indice,",
+     "start": 56.312,
+     "end": 56.857
+    },
+    {
+     "w": "la",
+     "start": 56.857,
+     "end": 57.048
+    },
+    {
+     "w": "façon",
+     "start": 57.048,
+     "end": 57.402
+    },
+    {
+     "w": "dont",
+     "start": 57.402,
+     "end": 57.701
+    },
+    {
+     "w": "Ah-Duo",
+     "start": 57.701,
+     "end": 58.055
+    },
+    {
+     "w": "regarde",
+     "start": 58.055,
+     "end": 58.518
+    },
+    {
+     "w": "Jinshi.",
+     "start": 58.518,
+     "end": 59.063
+    },
+    {
+     "w": "Frr,",
+     "start": 59.113,
+     "end": 59.461
+    },
+    {
+     "w": "on",
+     "start": 59.461,
+     "end": 59.635
+    },
+    {
+     "w": "dirait",
+     "start": 59.635,
+     "end": 60.007
+    },
+    {
+     "w": "une",
+     "start": 60.007,
+     "end": 60.231
+    },
+    {
+     "w": "mère",
+     "start": 60.231,
+     "end": 60.504
+    },
+    {
+     "w": "qui",
+     "start": 60.504,
+     "end": 60.728
+    },
+    {
+     "w": "retient",
+     "start": 60.728,
+     "end": 61.15
+    },
+    {
+     "w": "tout",
+     "start": 61.15,
+     "end": 61.423
+    },
+    {
+     "w": "ce",
+     "start": 61.423,
+     "end": 61.597
+    },
+    {
+     "w": "qu'elle",
+     "start": 61.597,
+     "end": 61.97
+    },
+    {
+     "w": "a",
+     "start": 61.97,
+     "end": 62.094
+    },
+    {
+     "w": "envie",
+     "start": 62.094,
+     "end": 62.417
+    },
+    {
+     "w": "de",
+     "start": 62.417,
+     "end": 62.591
+    },
+    {
+     "w": "dire.",
+     "start": 62.591,
+     "end": 62.989
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 63.089,
+   "end": 71.921,
+   "slot_end": 72.021,
+   "text": "Troisième indice, l'empereur lui-même. Il garde Jinshi tout près de lui, il le pousse, il le teste, comme s'il préparait son vrai successeur.",
+   "words": [
+    {
+     "w": "Troisième",
+     "start": 63.089,
+     "end": 63.709
+    },
+    {
+     "w": "indice,",
+     "start": 63.709,
+     "end": 64.3
+    },
+    {
+     "w": "l'empereur",
+     "start": 64.3,
+     "end": 64.921
+    },
+    {
+     "w": "lui-même.",
+     "start": 64.921,
+     "end": 65.571
+    },
+    {
+     "w": "Il",
+     "start": 65.621,
+     "end": 65.809
+    },
+    {
+     "w": "garde",
+     "start": 65.809,
+     "end": 66.157
+    },
+    {
+     "w": "Jinshi",
+     "start": 66.157,
+     "end": 66.559
+    },
+    {
+     "w": "tout",
+     "start": 66.559,
+     "end": 66.854
+    },
+    {
+     "w": "près",
+     "start": 66.854,
+     "end": 67.149
+    },
+    {
+     "w": "de",
+     "start": 67.149,
+     "end": 67.337
+    },
+    {
+     "w": "lui,",
+     "start": 67.337,
+     "end": 67.712
+    },
+    {
+     "w": "il",
+     "start": 67.712,
+     "end": 67.9
+    },
+    {
+     "w": "le",
+     "start": 67.9,
+     "end": 68.087
+    },
+    {
+     "w": "pousse,",
+     "start": 68.087,
+     "end": 68.624
+    },
+    {
+     "w": "il",
+     "start": 68.624,
+     "end": 68.811
+    },
+    {
+     "w": "le",
+     "start": 68.811,
+     "end": 68.999
+    },
+    {
+     "w": "teste,",
+     "start": 68.999,
+     "end": 69.482
+    },
+    {
+     "w": "comme",
+     "start": 69.482,
+     "end": 69.83
+    },
+    {
+     "w": "s'il",
+     "start": 69.83,
+     "end": 70.071
+    },
+    {
+     "w": "préparait",
+     "start": 70.071,
+     "end": 70.634
+    },
+    {
+     "w": "son",
+     "start": 70.634,
+     "end": 70.876
+    },
+    {
+     "w": "vrai",
+     "start": 70.876,
+     "end": 71.171
+    },
+    {
+     "w": "successeur.",
+     "start": 71.171,
+     "end": 71.921
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 72.021,
+   "end": 79.667,
+   "slot_end": 79.767,
+   "text": "Après faut être carré, y'a aucune preuve claire dans l'anime. Ah-Duo confirme jamais, et Jinshi a l'air d'y croire, lui, à son statut.",
+   "words": [
+    {
+     "w": "Après",
+     "start": 72.021,
+     "end": 72.338
+    },
+    {
+     "w": "faut",
+     "start": 72.338,
+     "end": 72.607
+    },
+    {
+     "w": "être",
+     "start": 72.607,
+     "end": 72.875
+    },
+    {
+     "w": "carré,",
+     "start": 72.875,
+     "end": 73.314
+    },
+    {
+     "w": "y'a",
+     "start": 73.314,
+     "end": 73.485
+    },
+    {
+     "w": "aucune",
+     "start": 73.485,
+     "end": 73.851
+    },
+    {
+     "w": "preuve",
+     "start": 73.851,
+     "end": 74.217
+    },
+    {
+     "w": "claire",
+     "start": 74.217,
+     "end": 74.583
+    },
+    {
+     "w": "dans",
+     "start": 74.583,
+     "end": 74.851
+    },
+    {
+     "w": "l'anime.",
+     "start": 74.851,
+     "end": 75.339
+    },
+    {
+     "w": "Ah-Duo",
+     "start": 75.389,
+     "end": 75.726
+    },
+    {
+     "w": "confirme",
+     "start": 75.726,
+     "end": 76.219
+    },
+    {
+     "w": "jamais,",
+     "start": 76.219,
+     "end": 76.737
+    },
+    {
+     "w": "et",
+     "start": 76.737,
+     "end": 76.919
+    },
+    {
+     "w": "Jinshi",
+     "start": 76.919,
+     "end": 77.307
+    },
+    {
+     "w": "a",
+     "start": 77.307,
+     "end": 77.437
+    },
+    {
+     "w": "l'air",
+     "start": 77.437,
+     "end": 77.722
+    },
+    {
+     "w": "d'y",
+     "start": 77.722,
+     "end": 77.904
+    },
+    {
+     "w": "croire,",
+     "start": 77.904,
+     "end": 78.422
+    },
+    {
+     "w": "lui,",
+     "start": 78.422,
+     "end": 78.785
+    },
+    {
+     "w": "à",
+     "start": 78.785,
+     "end": 78.915
+    },
+    {
+     "w": "son",
+     "start": 78.915,
+     "end": 79.148
+    },
+    {
+     "w": "statut.",
+     "start": 79.148,
+     "end": 79.667
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 79.767,
+   "end": 86.906,
+   "slot_end": 87.006,
+   "text": "Moi j'y crois à fond. Si c'est vrai, Jinshi est le fils de l'empereur, et Maomao est déjà beaucoup trop proche du secret.",
+   "words": [
+    {
+     "w": "Moi",
+     "start": 79.767,
+     "end": 80.002
+    },
+    {
+     "w": "j'y",
+     "start": 80.002,
+     "end": 80.185
+    },
+    {
+     "w": "crois",
+     "start": 80.185,
+     "end": 80.525
+    },
+    {
+     "w": "à",
+     "start": 80.525,
+     "end": 80.656
+    },
+    {
+     "w": "fond.",
+     "start": 80.656,
+     "end": 81.074
+    },
+    {
+     "w": "Si",
+     "start": 81.074,
+     "end": 81.257
+    },
+    {
+     "w": "c'est",
+     "start": 81.257,
+     "end": 81.545
+    },
+    {
+     "w": "vrai,",
+     "start": 81.545,
+     "end": 81.963
+    },
+    {
+     "w": "Jinshi",
+     "start": 81.963,
+     "end": 82.356
+    },
+    {
+     "w": "est",
+     "start": 82.356,
+     "end": 82.591
+    },
+    {
+     "w": "le",
+     "start": 82.591,
+     "end": 82.774
+    },
+    {
+     "w": "fils",
+     "start": 82.774,
+     "end": 83.062
+    },
+    {
+     "w": "de",
+     "start": 83.062,
+     "end": 83.245
+    },
+    {
+     "w": "l'empereur,",
+     "start": 83.245,
+     "end": 83.925
+    },
+    {
+     "w": "et",
+     "start": 83.925,
+     "end": 84.108
+    },
+    {
+     "w": "Maomao",
+     "start": 84.108,
+     "end": 84.5
+    },
+    {
+     "w": "est",
+     "start": 84.5,
+     "end": 84.736
+    },
+    {
+     "w": "déjà",
+     "start": 84.736,
+     "end": 85.023
+    },
+    {
+     "w": "beaucoup",
+     "start": 85.023,
+     "end": 85.52
+    },
+    {
+     "w": "trop",
+     "start": 85.52,
+     "end": 85.808
+    },
+    {
+     "w": "proche",
+     "start": 85.808,
+     "end": 86.2
+    },
+    {
+     "w": "du",
+     "start": 86.2,
+     "end": 86.383
+    },
+    {
+     "w": "secret.",
+     "start": 86.383,
+     "end": 86.906
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 87.006,
+   "end": 94.647,
+   "slot_end": 94.747,
+   "text": "La saison 3 vient de commencer, alors ouvre l'œil. Et toi, t'y crois à l'échange des bébés ? Dis-le moi en com'.",
+   "words": [
+    {
+     "w": "La",
+     "start": 87.006,
+     "end": 87.207
+    },
+    {
+     "w": "saison",
+     "start": 87.207,
+     "end": 87.636
+    },
+    {
+     "w": "3",
+     "start": 87.636,
+     "end": 87.779
+    },
+    {
+     "w": "vient",
+     "start": 87.779,
+     "end": 88.151
+    },
+    {
+     "w": "de",
+     "start": 88.151,
+     "end": 88.351
+    },
+    {
+     "w": "commencer,",
+     "start": 88.351,
+     "end": 89.096
+    },
+    {
+     "w": "alors",
+     "start": 89.096,
+     "end": 89.468
+    },
+    {
+     "w": "ouvre",
+     "start": 89.468,
+     "end": 89.84
+    },
+    {
+     "w": "l'œil.",
+     "start": 89.84,
+     "end": 90.298
+    },
+    {
+     "w": "Et",
+     "start": 90.348,
+     "end": 90.566
+    },
+    {
+     "w": "toi,",
+     "start": 90.566,
+     "end": 91.002
+    },
+    {
+     "w": "t'y",
+     "start": 91.002,
+     "end": 91.22
+    },
+    {
+     "w": "crois",
+     "start": 91.22,
+     "end": 91.625
+    },
+    {
+     "w": "à",
+     "start": 91.625,
+     "end": 91.781
+    },
+    {
+     "w": "l'échange",
+     "start": 91.781,
+     "end": 92.372
+    },
+    {
+     "w": "des",
+     "start": 92.372,
+     "end": 92.653
+    },
+    {
+     "w": "bébés",
+     "start": 92.653,
+     "end": 93.058
+    },
+    {
+     "w": "?",
+     "start": 93.058,
+     "end": 93.307
+    },
+    {
+     "w": "Dis-le",
+     "start": 93.307,
+     "end": 93.712
+    },
+    {
+     "w": "moi",
+     "start": 93.712,
+     "end": 93.992
+    },
+    {
+     "w": "en",
+     "start": 93.992,
+     "end": 94.21
+    },
+    {
+     "w": "com'.",
+     "start": 94.21,
+     "end": 94.647
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "start": 94.747,
+   "end": 98.345,
+   "slot_end": 99.045,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 94.747,
+     "end": 95.246
+    },
+    {
+     "w": "Asura.",
+     "start": 95.246,
+     "end": 95.846
+    },
+    {
+     "w": "On",
+     "start": 95.846,
+     "end": 96.079
+    },
+    {
+     "w": "se",
+     "start": 96.079,
+     "end": 96.312
+    },
+    {
+     "w": "capte",
+     "start": 96.312,
+     "end": 96.745
+    },
+    {
+     "w": "au",
+     "start": 96.745,
+     "end": 96.979
+    },
+    {
+     "w": "prochain",
+     "start": 96.979,
+     "end": 97.612
+    },
+    {
+     "w": "épisode.",
+     "start": 97.612,
+     "end": 98.345
+    }
+   ]
+  }
+ ],
+ "aligned": false
+}
