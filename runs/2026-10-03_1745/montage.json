@@ -1,0 +1,16 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-03_1745/video.mp4",
+ "duration": 84.388,
+ "shots": 70,
+ "sources": [
+  "https://anilist.co/anime/212888",
+  "https://kitsu.io/anime/temppal-item-no-chikara"
+ ],
+ "music": {
+  "file": "pote.mp3",
+  "bpm": 184.6,
+  "offset": 47.39
+ },
+ "sfx": 20,
+ "engine": "remotion (OpenMontage)"
+}

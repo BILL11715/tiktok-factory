@@ -1,0 +1,41 @@
+{
+ "Overgeared": {
+  "meta": {
+   "id": "50743",
+   "title": "Temppal: Item no Chikara",
+   "titles": {
+    "en_jp": "Temppal: Item no Chikara",
+    "ja_jp": "テムパル～アイテムの力～"
+   },
+   "synopsis": "Sin Yeong-U (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game “Satisfy,” finds a powerful item that earns him a rare legendary class title: “Pagma’s Successor.” He’s now a skilled blacksmith who can forge unique weapons and equip the game’s most powerful gear. Grid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for….\n\n(Source: Tapas, edited)",
+   "episodes": null,
+   "start": "2026-09-27",
+   "source": "https://kitsu.io/anime/temppal-item-no-chikara"
+  },
+  "wide": [
+   "/home/claude/tiktok-factory/runs/2026-10-03_1745/images/435c4362e0c1.jpg"
+  ],
+  "tall": [
+   "/home/claude/tiktok-factory/runs/2026-10-03_1745/images/6865cbb1308d.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-03_1745/images/5e305e546d74.jpg"
+  ],
+  "characters": {
+   "Yeong-U Sin": "/home/claude/tiktok-factory/runs/2026-10-03_1745/images/aefde42e71cc.png",
+   "Jishuka": "/home/claude/tiktok-factory/runs/2026-10-03_1745/images/cfca0856affe.png",
+   "Yu-Ra": "/home/claude/tiktok-factory/runs/2026-10-03_1745/images/4a242a7081a0.png",
+   "Irene": "/home/claude/tiktok-factory/runs/2026-10-03_1745/images/ee909c17cc54.png",
+   "Euphemina": "/home/claude/tiktok-factory/runs/2026-10-03_1745/images/f75a6d3e7a92.png",
+   "Faker": "/home/claude/tiktok-factory/runs/2026-10-03_1745/images/4c580bee1438.png",
+   "Regas": "/home/claude/tiktok-factory/runs/2026-10-03_1745/images/af760d318bc1.png",
+   "Se-Hee Shin": "/home/claude/tiktok-factory/runs/2026-10-03_1745/images/11ba794a7f26.png",
+   "Vantner": "/home/claude/tiktok-factory/runs/2026-10-03_1745/images/b4892760e1b0.png",
+   "Toban": "/home/claude/tiktok-factory/runs/2026-10-03_1745/images/6442c65808c1.png",
+   "Pon": "/home/claude/tiktok-factory/runs/2026-10-03_1745/images/8e7e80dec882.png",
+   "Doran": "/home/claude/tiktok-factory/runs/2026-10-03_1745/images/f5aec281235c.png"
+  },
+  "sources": [
+   "https://kitsu.io/anime/temppal-item-no-chikara",
+   "https://anilist.co/anime/212888"
+  ]
+ }
+}
