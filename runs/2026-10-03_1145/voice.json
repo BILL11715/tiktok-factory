@@ -1,0 +1,1662 @@
+{
+ "engine": "piper",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-03_1145/voice.wav",
+ "duration": 78.609,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 2.405,
+   "slot_end": 2.505,
+   "text": "Le perso le plus fort de Mashle sait même pas lancer un sort.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 0.0,
+     "end": 0.12
+    },
+    {
+     "w": "perso",
+     "start": 0.12,
+     "end": 0.344
+    },
+    {
+     "w": "le",
+     "start": 0.344,
+     "end": 0.464
+    },
+    {
+     "w": "plus",
+     "start": 0.464,
+     "end": 0.653
+    },
+    {
+     "w": "fort",
+     "start": 0.653,
+     "end": 0.842
+    },
+    {
+     "w": "de",
+     "start": 0.842,
+     "end": 0.962
+    },
+    {
+     "w": "Mashle",
+     "start": 0.962,
+     "end": 1.219
+    },
+    {
+     "w": "sait",
+     "start": 1.219,
+     "end": 1.408
+    },
+    {
+     "w": "même",
+     "start": 1.408,
+     "end": 1.597
+    },
+    {
+     "w": "pas",
+     "start": 1.597,
+     "end": 1.752
+    },
+    {
+     "w": "lancer",
+     "start": 1.752,
+     "end": 2.01
+    },
+    {
+     "w": "un",
+     "start": 2.01,
+     "end": 2.13
+    },
+    {
+     "w": "sort.",
+     "start": 2.13,
+     "end": 2.405
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 2.505,
+   "end": 6.97,
+   "slot_end": 7.07,
+   "text": "La saison 3 arrive en janvier, alors reste jusqu'au bout, le numéro 2 c'est un monstre.",
+   "words": [
+    {
+     "w": "La",
+     "start": 2.505,
+     "end": 2.663
+    },
+    {
+     "w": "saison",
+     "start": 2.663,
+     "end": 3.003
+    },
+    {
+     "w": "3",
+     "start": 3.003,
+     "end": 3.117
+    },
+    {
+     "w": "arrive",
+     "start": 3.117,
+     "end": 3.457
+    },
+    {
+     "w": "en",
+     "start": 3.457,
+     "end": 3.615
+    },
+    {
+     "w": "janvier,",
+     "start": 3.615,
+     "end": 4.114
+    },
+    {
+     "w": "alors",
+     "start": 4.114,
+     "end": 4.409
+    },
+    {
+     "w": "reste",
+     "start": 4.409,
+     "end": 4.703
+    },
+    {
+     "w": "jusqu'au",
+     "start": 4.703,
+     "end": 5.089
+    },
+    {
+     "w": "bout,",
+     "start": 5.089,
+     "end": 5.451
+    },
+    {
+     "w": "le",
+     "start": 5.451,
+     "end": 5.61
+    },
+    {
+     "w": "numéro",
+     "start": 5.61,
+     "end": 5.95
+    },
+    {
+     "w": "2",
+     "start": 5.95,
+     "end": 6.063
+    },
+    {
+     "w": "c'est",
+     "start": 6.063,
+     "end": 6.313
+    },
+    {
+     "w": "un",
+     "start": 6.313,
+     "end": 6.471
+    },
+    {
+     "w": "monstre.",
+     "start": 6.471,
+     "end": 6.97
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 7.07,
+   "end": 13.871,
+   "slot_end": 13.971,
+   "text": "Numéro 5, Lance Crown. Sa magie, c'est la gravité, il te colle au sol sans bouger le petit doigt. Et il est calme, genre trop calme.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 7.07,
+     "end": 7.398
+    },
+    {
+     "w": "5,",
+     "start": 7.398,
+     "end": 7.617
+    },
+    {
+     "w": "Lance",
+     "start": 7.617,
+     "end": 7.901
+    },
+    {
+     "w": "Crown.",
+     "start": 7.901,
+     "end": 8.295
+    },
+    {
+     "w": "Sa",
+     "start": 8.295,
+     "end": 8.448
+    },
+    {
+     "w": "magie,",
+     "start": 8.448,
+     "end": 8.841
+    },
+    {
+     "w": "c'est",
+     "start": 8.841,
+     "end": 9.082
+    },
+    {
+     "w": "la",
+     "start": 9.082,
+     "end": 9.235
+    },
+    {
+     "w": "gravité,",
+     "start": 9.235,
+     "end": 9.716
+    },
+    {
+     "w": "il",
+     "start": 9.716,
+     "end": 9.869
+    },
+    {
+     "w": "te",
+     "start": 9.869,
+     "end": 10.022
+    },
+    {
+     "w": "colle",
+     "start": 10.022,
+     "end": 10.307
+    },
+    {
+     "w": "au",
+     "start": 10.307,
+     "end": 10.46
+    },
+    {
+     "w": "sol",
+     "start": 10.46,
+     "end": 10.657
+    },
+    {
+     "w": "sans",
+     "start": 10.657,
+     "end": 10.897
+    },
+    {
+     "w": "bouger",
+     "start": 10.897,
+     "end": 11.225
+    },
+    {
+     "w": "le",
+     "start": 11.225,
+     "end": 11.378
+    },
+    {
+     "w": "petit",
+     "start": 11.378,
+     "end": 11.663
+    },
+    {
+     "w": "doigt.",
+     "start": 11.663,
+     "end": 12.056
+    },
+    {
+     "w": "Et",
+     "start": 12.056,
+     "end": 12.209
+    },
+    {
+     "w": "il",
+     "start": 12.209,
+     "end": 12.362
+    },
+    {
+     "w": "est",
+     "start": 12.362,
+     "end": 12.559
+    },
+    {
+     "w": "calme,",
+     "start": 12.559,
+     "end": 12.953
+    },
+    {
+     "w": "genre",
+     "start": 12.953,
+     "end": 13.237
+    },
+    {
+     "w": "trop",
+     "start": 13.237,
+     "end": 13.478
+    },
+    {
+     "w": "calme.",
+     "start": 13.478,
+     "end": 13.871
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 13.971,
+   "end": 17.285,
+   "slot_end": 17.385,
+   "text": "Et le mec passe la moitié de son temps à parler de sa petite sœur Anna, c'est chaud.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 13.971,
+     "end": 14.092
+    },
+    {
+     "w": "le",
+     "start": 14.092,
+     "end": 14.213
+    },
+    {
+     "w": "mec",
+     "start": 14.213,
+     "end": 14.368
+    },
+    {
+     "w": "passe",
+     "start": 14.368,
+     "end": 14.593
+    },
+    {
+     "w": "la",
+     "start": 14.593,
+     "end": 14.713
+    },
+    {
+     "w": "moitié",
+     "start": 14.713,
+     "end": 14.972
+    },
+    {
+     "w": "de",
+     "start": 14.972,
+     "end": 15.093
+    },
+    {
+     "w": "son",
+     "start": 15.093,
+     "end": 15.249
+    },
+    {
+     "w": "temps",
+     "start": 15.249,
+     "end": 15.473
+    },
+    {
+     "w": "à",
+     "start": 15.473,
+     "end": 15.559
+    },
+    {
+     "w": "parler",
+     "start": 15.559,
+     "end": 15.818
+    },
+    {
+     "w": "de",
+     "start": 15.818,
+     "end": 15.939
+    },
+    {
+     "w": "sa",
+     "start": 15.939,
+     "end": 16.06
+    },
+    {
+     "w": "petite",
+     "start": 16.06,
+     "end": 16.319
+    },
+    {
+     "w": "sœur",
+     "start": 16.319,
+     "end": 16.509
+    },
+    {
+     "w": "Anna,",
+     "start": 16.509,
+     "end": 16.785
+    },
+    {
+     "w": "c'est",
+     "start": 16.785,
+     "end": 16.975
+    },
+    {
+     "w": "chaud.",
+     "start": 16.975,
+     "end": 17.285
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 17.385,
+   "end": 22.52,
+   "slot_end": 22.62,
+   "text": "Numéro 4, Rayne Ames. Un Visionnaire divin, rien que ça. Sa magie Gladius fait pleuvoir des épées géantes.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 17.385,
+     "end": 17.728
+    },
+    {
+     "w": "4,",
+     "start": 17.728,
+     "end": 17.956
+    },
+    {
+     "w": "Rayne",
+     "start": 17.956,
+     "end": 18.253
+    },
+    {
+     "w": "Ames.",
+     "start": 18.253,
+     "end": 18.618
+    },
+    {
+     "w": "Un",
+     "start": 18.618,
+     "end": 18.777
+    },
+    {
+     "w": "Visionnaire",
+     "start": 18.777,
+     "end": 19.348
+    },
+    {
+     "w": "divin,",
+     "start": 19.348,
+     "end": 19.759
+    },
+    {
+     "w": "rien",
+     "start": 19.759,
+     "end": 20.01
+    },
+    {
+     "w": "que",
+     "start": 20.01,
+     "end": 20.215
+    },
+    {
+     "w": "ça.",
+     "start": 20.215,
+     "end": 20.489
+    },
+    {
+     "w": "Sa",
+     "start": 20.539,
+     "end": 20.664
+    },
+    {
+     "w": "magie",
+     "start": 20.664,
+     "end": 20.896
+    },
+    {
+     "w": "Gladius",
+     "start": 20.896,
+     "end": 21.199
+    },
+    {
+     "w": "fait",
+     "start": 21.199,
+     "end": 21.396
+    },
+    {
+     "w": "pleuvoir",
+     "start": 21.396,
+     "end": 21.735
+    },
+    {
+     "w": "des",
+     "start": 21.735,
+     "end": 21.895
+    },
+    {
+     "w": "épées",
+     "start": 21.895,
+     "end": 22.127
+    },
+    {
+     "w": "géantes.",
+     "start": 22.127,
+     "end": 22.52
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 22.62,
+   "end": 27.254,
+   "slot_end": 27.354,
+   "text": "Le plus drôle, c'est que ce gars terrifiant est complètement gaga des lapins. Et c'est le grand frère de Finn.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 22.62,
+     "end": 22.751
+    },
+    {
+     "w": "plus",
+     "start": 22.751,
+     "end": 22.958
+    },
+    {
+     "w": "drôle,",
+     "start": 22.958,
+     "end": 23.295
+    },
+    {
+     "w": "c'est",
+     "start": 23.295,
+     "end": 23.502
+    },
+    {
+     "w": "que",
+     "start": 23.502,
+     "end": 23.671
+    },
+    {
+     "w": "ce",
+     "start": 23.671,
+     "end": 23.802
+    },
+    {
+     "w": "gars",
+     "start": 23.802,
+     "end": 24.008
+    },
+    {
+     "w": "terrifiant",
+     "start": 24.008,
+     "end": 24.44
+    },
+    {
+     "w": "est",
+     "start": 24.44,
+     "end": 24.609
+    },
+    {
+     "w": "complètement",
+     "start": 24.609,
+     "end": 25.115
+    },
+    {
+     "w": "gaga",
+     "start": 25.115,
+     "end": 25.322
+    },
+    {
+     "w": "des",
+     "start": 25.322,
+     "end": 25.491
+    },
+    {
+     "w": "lapins.",
+     "start": 25.491,
+     "end": 25.866
+    },
+    {
+     "w": "Et",
+     "start": 25.866,
+     "end": 25.997
+    },
+    {
+     "w": "c'est",
+     "start": 25.997,
+     "end": 26.203
+    },
+    {
+     "w": "le",
+     "start": 26.203,
+     "end": 26.335
+    },
+    {
+     "w": "grand",
+     "start": 26.335,
+     "end": 26.579
+    },
+    {
+     "w": "frère",
+     "start": 26.579,
+     "end": 26.823
+    },
+    {
+     "w": "de",
+     "start": 26.823,
+     "end": 26.954
+    },
+    {
+     "w": "Finn.",
+     "start": 26.954,
+     "end": 27.254
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 27.354,
+   "end": 32.117,
+   "slot_end": 32.217,
+   "text": "Si tu kiffes ce genre de classement, abonne-toi, j'en sors tous les jours et Mashle va revenir souvent ici.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 27.354,
+     "end": 27.493
+    },
+    {
+     "w": "tu",
+     "start": 27.493,
+     "end": 27.632
+    },
+    {
+     "w": "kiffes",
+     "start": 27.632,
+     "end": 27.93
+    },
+    {
+     "w": "ce",
+     "start": 27.93,
+     "end": 28.069
+    },
+    {
+     "w": "genre",
+     "start": 28.069,
+     "end": 28.327
+    },
+    {
+     "w": "de",
+     "start": 28.327,
+     "end": 28.465
+    },
+    {
+     "w": "classement,",
+     "start": 28.465,
+     "end": 29.021
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 29.021,
+     "end": 29.537
+    },
+    {
+     "w": "j'en",
+     "start": 29.537,
+     "end": 29.716
+    },
+    {
+     "w": "sors",
+     "start": 29.716,
+     "end": 29.934
+    },
+    {
+     "w": "tous",
+     "start": 29.934,
+     "end": 30.152
+    },
+    {
+     "w": "les",
+     "start": 30.152,
+     "end": 30.331
+    },
+    {
+     "w": "jours",
+     "start": 30.331,
+     "end": 30.589
+    },
+    {
+     "w": "et",
+     "start": 30.589,
+     "end": 30.728
+    },
+    {
+     "w": "Mashle",
+     "start": 30.728,
+     "end": 31.026
+    },
+    {
+     "w": "va",
+     "start": 31.026,
+     "end": 31.165
+    },
+    {
+     "w": "revenir",
+     "start": 31.165,
+     "end": 31.502
+    },
+    {
+     "w": "souvent",
+     "start": 31.502,
+     "end": 31.839
+    },
+    {
+     "w": "ici.",
+     "start": 31.839,
+     "end": 32.117
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 32.217,
+   "end": 36.871,
+   "slot_end": 36.971,
+   "text": "Numéro 3, Wahlberg, le directeur d'Easton. Il a l'air d'un papy tranquille qui parle tout doucement.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 32.217,
+     "end": 32.606
+    },
+    {
+     "w": "3,",
+     "start": 32.606,
+     "end": 32.865
+    },
+    {
+     "w": "Wahlberg,",
+     "start": 32.865,
+     "end": 33.488
+    },
+    {
+     "w": "le",
+     "start": 33.488,
+     "end": 33.669
+    },
+    {
+     "w": "directeur",
+     "start": 33.669,
+     "end": 34.213
+    },
+    {
+     "w": "d'Easton.",
+     "start": 34.213,
+     "end": 34.784
+    },
+    {
+     "w": "Il",
+     "start": 34.834,
+     "end": 34.948
+    },
+    {
+     "w": "a",
+     "start": 34.948,
+     "end": 35.029
+    },
+    {
+     "w": "l'air",
+     "start": 35.029,
+     "end": 35.209
+    },
+    {
+     "w": "d'un",
+     "start": 35.209,
+     "end": 35.355
+    },
+    {
+     "w": "papy",
+     "start": 35.355,
+     "end": 35.535
+    },
+    {
+     "w": "tranquille",
+     "start": 35.535,
+     "end": 35.909
+    },
+    {
+     "w": "qui",
+     "start": 35.909,
+     "end": 36.056
+    },
+    {
+     "w": "parle",
+     "start": 36.056,
+     "end": 36.268
+    },
+    {
+     "w": "tout",
+     "start": 36.268,
+     "end": 36.447
+    },
+    {
+     "w": "doucement.",
+     "start": 36.447,
+     "end": 36.871
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 36.971,
+   "end": 42.261,
+   "slot_end": 42.361,
+   "text": "Sauf que lui, il sait que Mash a zéro magie depuis le début, et il le couvre quand même. Ça, c'est un vrai boss.",
+   "words": [
+    {
+     "w": "Sauf",
+     "start": 36.971,
+     "end": 37.192
+    },
+    {
+     "w": "que",
+     "start": 37.192,
+     "end": 37.373
+    },
+    {
+     "w": "lui,",
+     "start": 37.373,
+     "end": 37.655
+    },
+    {
+     "w": "il",
+     "start": 37.655,
+     "end": 37.795
+    },
+    {
+     "w": "sait",
+     "start": 37.795,
+     "end": 38.017
+    },
+    {
+     "w": "que",
+     "start": 38.017,
+     "end": 38.198
+    },
+    {
+     "w": "Mash",
+     "start": 38.198,
+     "end": 38.419
+    },
+    {
+     "w": "a",
+     "start": 38.419,
+     "end": 38.52
+    },
+    {
+     "w": "zéro",
+     "start": 38.52,
+     "end": 38.741
+    },
+    {
+     "w": "magie",
+     "start": 38.741,
+     "end": 39.002
+    },
+    {
+     "w": "depuis",
+     "start": 39.002,
+     "end": 39.304
+    },
+    {
+     "w": "le",
+     "start": 39.304,
+     "end": 39.445
+    },
+    {
+     "w": "début,",
+     "start": 39.445,
+     "end": 39.807
+    },
+    {
+     "w": "et",
+     "start": 39.807,
+     "end": 39.948
+    },
+    {
+     "w": "il",
+     "start": 39.948,
+     "end": 40.088
+    },
+    {
+     "w": "le",
+     "start": 40.088,
+     "end": 40.229
+    },
+    {
+     "w": "couvre",
+     "start": 40.229,
+     "end": 40.531
+    },
+    {
+     "w": "quand",
+     "start": 40.531,
+     "end": 40.792
+    },
+    {
+     "w": "même.",
+     "start": 40.792,
+     "end": 41.114
+    },
+    {
+     "w": "Ça,",
+     "start": 41.114,
+     "end": 41.356
+    },
+    {
+     "w": "c'est",
+     "start": 41.356,
+     "end": 41.577
+    },
+    {
+     "w": "un",
+     "start": 41.577,
+     "end": 41.718
+    },
+    {
+     "w": "vrai",
+     "start": 41.718,
+     "end": 41.939
+    },
+    {
+     "w": "boss.",
+     "start": 41.939,
+     "end": 42.261
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 42.361,
+   "end": 45.126,
+   "slot_end": 45.226,
+   "text": "Mais attends, le numéro 2, c'est là que ça devient sombre.",
+   "words": [
+    {
+     "w": "Mais",
+     "start": 42.361,
+     "end": 42.584
+    },
+    {
+     "w": "attends,",
+     "start": 42.584,
+     "end": 43.032
+    },
+    {
+     "w": "le",
+     "start": 43.032,
+     "end": 43.174
+    },
+    {
+     "w": "numéro",
+     "start": 43.174,
+     "end": 43.479
+    },
+    {
+     "w": "2,",
+     "start": 43.479,
+     "end": 43.682
+    },
+    {
+     "w": "c'est",
+     "start": 43.682,
+     "end": 43.906
+    },
+    {
+     "w": "là",
+     "start": 43.906,
+     "end": 44.048
+    },
+    {
+     "w": "que",
+     "start": 44.048,
+     "end": 44.231
+    },
+    {
+     "w": "ça",
+     "start": 44.231,
+     "end": 44.374
+    },
+    {
+     "w": "devient",
+     "start": 44.374,
+     "end": 44.719
+    },
+    {
+     "w": "sombre.",
+     "start": 44.719,
+     "end": 45.126
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 45.226,
+   "end": 51.903,
+   "slot_end": 52.003,
+   "text": "Numéro 2, Innocent Zero. Le mage le plus craint du monde, il joue avec le temps comme toi avec ta télécommande.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 45.226,
+     "end": 45.616
+    },
+    {
+     "w": "2,",
+     "start": 45.616,
+     "end": 45.876
+    },
+    {
+     "w": "Innocent",
+     "start": 45.876,
+     "end": 46.369
+    },
+    {
+     "w": "Zero.",
+     "start": 46.369,
+     "end": 46.785
+    },
+    {
+     "w": "Le",
+     "start": 46.785,
+     "end": 46.967
+    },
+    {
+     "w": "mage",
+     "start": 46.967,
+     "end": 47.253
+    },
+    {
+     "w": "le",
+     "start": 47.253,
+     "end": 47.434
+    },
+    {
+     "w": "plus",
+     "start": 47.434,
+     "end": 47.72
+    },
+    {
+     "w": "craint",
+     "start": 47.72,
+     "end": 48.11
+    },
+    {
+     "w": "du",
+     "start": 48.11,
+     "end": 48.292
+    },
+    {
+     "w": "monde,",
+     "start": 48.292,
+     "end": 48.759
+    },
+    {
+     "w": "il",
+     "start": 48.759,
+     "end": 48.941
+    },
+    {
+     "w": "joue",
+     "start": 48.941,
+     "end": 49.227
+    },
+    {
+     "w": "avec",
+     "start": 49.227,
+     "end": 49.513
+    },
+    {
+     "w": "le",
+     "start": 49.513,
+     "end": 49.695
+    },
+    {
+     "w": "temps",
+     "start": 49.695,
+     "end": 50.032
+    },
+    {
+     "w": "comme",
+     "start": 50.032,
+     "end": 50.37
+    },
+    {
+     "w": "toi",
+     "start": 50.37,
+     "end": 50.604
+    },
+    {
+     "w": "avec",
+     "start": 50.604,
+     "end": 50.89
+    },
+    {
+     "w": "ta",
+     "start": 50.89,
+     "end": 51.072
+    },
+    {
+     "w": "télécommande.",
+     "start": 51.072,
+     "end": 51.903
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 52.003,
+   "end": 56.0,
+   "slot_end": 56.1,
+   "text": "Et le pire, c'est qu'il a eu des fils juste pour se servir d'eux et vivre pour toujours.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 52.003,
+     "end": 52.146
+    },
+    {
+     "w": "le",
+     "start": 52.146,
+     "end": 52.288
+    },
+    {
+     "w": "pire,",
+     "start": 52.288,
+     "end": 52.615
+    },
+    {
+     "w": "c'est",
+     "start": 52.615,
+     "end": 52.839
+    },
+    {
+     "w": "qu'il",
+     "start": 52.839,
+     "end": 53.063
+    },
+    {
+     "w": "a",
+     "start": 53.063,
+     "end": 53.165
+    },
+    {
+     "w": "eu",
+     "start": 53.165,
+     "end": 53.308
+    },
+    {
+     "w": "des",
+     "start": 53.308,
+     "end": 53.492
+    },
+    {
+     "w": "fils",
+     "start": 53.492,
+     "end": 53.716
+    },
+    {
+     "w": "juste",
+     "start": 53.716,
+     "end": 53.981
+    },
+    {
+     "w": "pour",
+     "start": 53.981,
+     "end": 54.205
+    },
+    {
+     "w": "se",
+     "start": 54.205,
+     "end": 54.348
+    },
+    {
+     "w": "servir",
+     "start": 54.348,
+     "end": 54.654
+    },
+    {
+     "w": "d'eux",
+     "start": 54.654,
+     "end": 54.878
+    },
+    {
+     "w": "et",
+     "start": 54.878,
+     "end": 55.021
+    },
+    {
+     "w": "vivre",
+     "start": 55.021,
+     "end": 55.286
+    },
+    {
+     "w": "pour",
+     "start": 55.286,
+     "end": 55.51
+    },
+    {
+     "w": "toujours.",
+     "start": 55.51,
+     "end": 56.0
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 56.1,
+   "end": 62.365,
+   "slot_end": 62.465,
+   "text": "Numéro 1, évidemment, Mash Burnedead. Pas une goutte de magie, juste des muscles et une passion pour les choux à la crème.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 56.1,
+     "end": 56.432
+    },
+    {
+     "w": "1,",
+     "start": 56.432,
+     "end": 56.653
+    },
+    {
+     "w": "évidemment,",
+     "start": 56.653,
+     "end": 57.273
+    },
+    {
+     "w": "Mash",
+     "start": 57.273,
+     "end": 57.517
+    },
+    {
+     "w": "Burnedead.",
+     "start": 57.517,
+     "end": 58.092
+    },
+    {
+     "w": "Pas",
+     "start": 58.092,
+     "end": 58.291
+    },
+    {
+     "w": "une",
+     "start": 58.291,
+     "end": 58.491
+    },
+    {
+     "w": "goutte",
+     "start": 58.491,
+     "end": 58.823
+    },
+    {
+     "w": "de",
+     "start": 58.823,
+     "end": 58.978
+    },
+    {
+     "w": "magie,",
+     "start": 58.978,
+     "end": 59.376
+    },
+    {
+     "w": "juste",
+     "start": 59.376,
+     "end": 59.664
+    },
+    {
+     "w": "des",
+     "start": 59.664,
+     "end": 59.863
+    },
+    {
+     "w": "muscles",
+     "start": 59.863,
+     "end": 60.24
+    },
+    {
+     "w": "et",
+     "start": 60.24,
+     "end": 60.395
+    },
+    {
+     "w": "une",
+     "start": 60.395,
+     "end": 60.594
+    },
+    {
+     "w": "passion",
+     "start": 60.594,
+     "end": 60.97
+    },
+    {
+     "w": "pour",
+     "start": 60.97,
+     "end": 61.214
+    },
+    {
+     "w": "les",
+     "start": 61.214,
+     "end": 61.413
+    },
+    {
+     "w": "choux",
+     "start": 61.413,
+     "end": 61.701
+    },
+    {
+     "w": "à",
+     "start": 61.701,
+     "end": 61.812
+    },
+    {
+     "w": "la",
+     "start": 61.812,
+     "end": 61.967
+    },
+    {
+     "w": "crème.",
+     "start": 61.967,
+     "end": 62.365
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 62.465,
+   "end": 69.676,
+   "slot_end": 69.776,
+   "text": "Il casse les sorts à mains nues, il soulève des trucs énormes comme si de rien n'était, et franchement c'est pour ça que j'adore cet anime. C'est débile et ça marche à chaque fois.",
+   "words": [
+    {
+     "w": "Il",
+     "start": 62.465,
+     "end": 62.592
+    },
+    {
+     "w": "casse",
+     "start": 62.592,
+     "end": 62.828
+    },
+    {
+     "w": "les",
+     "start": 62.828,
+     "end": 62.992
+    },
+    {
+     "w": "sorts",
+     "start": 62.992,
+     "end": 63.228
+    },
+    {
+     "w": "à",
+     "start": 63.228,
+     "end": 63.319
+    },
+    {
+     "w": "mains",
+     "start": 63.319,
+     "end": 63.555
+    },
+    {
+     "w": "nues,",
+     "start": 63.555,
+     "end": 63.846
+    },
+    {
+     "w": "il",
+     "start": 63.846,
+     "end": 63.973
+    },
+    {
+     "w": "soulève",
+     "start": 63.973,
+     "end": 64.282
+    },
+    {
+     "w": "des",
+     "start": 64.282,
+     "end": 64.445
+    },
+    {
+     "w": "trucs",
+     "start": 64.445,
+     "end": 64.681
+    },
+    {
+     "w": "énormes",
+     "start": 64.681,
+     "end": 64.99
+    },
+    {
+     "w": "comme",
+     "start": 64.99,
+     "end": 65.226
+    },
+    {
+     "w": "si",
+     "start": 65.226,
+     "end": 65.353
+    },
+    {
+     "w": "de",
+     "start": 65.353,
+     "end": 65.48
+    },
+    {
+     "w": "rien",
+     "start": 65.48,
+     "end": 65.68
+    },
+    {
+     "w": "n'était,",
+     "start": 65.68,
+     "end": 66.043
+    },
+    {
+     "w": "et",
+     "start": 66.043,
+     "end": 66.171
+    },
+    {
+     "w": "franchement",
+     "start": 66.171,
+     "end": 66.625
+    },
+    {
+     "w": "c'est",
+     "start": 66.625,
+     "end": 66.825
+    },
+    {
+     "w": "pour",
+     "start": 66.825,
+     "end": 67.024
+    },
+    {
+     "w": "ça",
+     "start": 67.024,
+     "end": 67.152
+    },
+    {
+     "w": "que",
+     "start": 67.152,
+     "end": 67.315
+    },
+    {
+     "w": "j'adore",
+     "start": 67.315,
+     "end": 67.587
+    },
+    {
+     "w": "cet",
+     "start": 67.587,
+     "end": 67.751
+    },
+    {
+     "w": "anime.",
+     "start": 67.751,
+     "end": 68.078
+    },
+    {
+     "w": "C'est",
+     "start": 68.128,
+     "end": 68.315
+    },
+    {
+     "w": "débile",
+     "start": 68.315,
+     "end": 68.57
+    },
+    {
+     "w": "et",
+     "start": 68.57,
+     "end": 68.689
+    },
+    {
+     "w": "ça",
+     "start": 68.689,
+     "end": 68.809
+    },
+    {
+     "w": "marche",
+     "start": 68.809,
+     "end": 69.064
+    },
+    {
+     "w": "à",
+     "start": 69.064,
+     "end": 69.149
+    },
+    {
+     "w": "chaque",
+     "start": 69.149,
+     "end": 69.404
+    },
+    {
+     "w": "fois.",
+     "start": 69.404,
+     "end": 69.676
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 69.776,
+   "end": 73.778,
+   "slot_end": 73.878,
+   "text": "Et toi, c'est quoi ton top 1 ? Dis-moi en com' si t'aurais mis Innocent Zero devant Mash.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 69.776,
+     "end": 69.883
+    },
+    {
+     "w": "toi,",
+     "start": 69.883,
+     "end": 70.097
+    },
+    {
+     "w": "c'est",
+     "start": 70.097,
+     "end": 70.266
+    },
+    {
+     "w": "quoi",
+     "start": 70.266,
+     "end": 70.434
+    },
+    {
+     "w": "ton",
+     "start": 70.434,
+     "end": 70.571
+    },
+    {
+     "w": "top",
+     "start": 70.571,
+     "end": 70.709
+    },
+    {
+     "w": "1",
+     "start": 70.709,
+     "end": 70.785
+    },
+    {
+     "w": "?",
+     "start": 70.785,
+     "end": 70.908
+    },
+    {
+     "w": "Dis-moi",
+     "start": 70.958,
+     "end": 71.296
+    },
+    {
+     "w": "en",
+     "start": 71.296,
+     "end": 71.454
+    },
+    {
+     "w": "com'",
+     "start": 71.454,
+     "end": 71.657
+    },
+    {
+     "w": "si",
+     "start": 71.657,
+     "end": 71.815
+    },
+    {
+     "w": "t'aurais",
+     "start": 71.815,
+     "end": 72.198
+    },
+    {
+     "w": "mis",
+     "start": 72.198,
+     "end": 72.401
+    },
+    {
+     "w": "Innocent",
+     "start": 72.401,
+     "end": 72.83
+    },
+    {
+     "w": "Zero",
+     "start": 72.83,
+     "end": 73.078
+    },
+    {
+     "w": "devant",
+     "start": 73.078,
+     "end": 73.417
+    },
+    {
+     "w": "Mash.",
+     "start": 73.417,
+     "end": 73.778
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "start": 73.878,
+   "end": 77.909,
+   "slot_end": 78.609,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 73.878,
+     "end": 74.437
+    },
+    {
+     "w": "Asura.",
+     "start": 74.437,
+     "end": 75.109
+    },
+    {
+     "w": "On",
+     "start": 75.109,
+     "end": 75.371
+    },
+    {
+     "w": "se",
+     "start": 75.371,
+     "end": 75.632
+    },
+    {
+     "w": "capte",
+     "start": 75.632,
+     "end": 76.117
+    },
+    {
+     "w": "au",
+     "start": 76.117,
+     "end": 76.379
+    },
+    {
+     "w": "prochain",
+     "start": 76.379,
+     "end": 77.088
+    },
+    {
+     "w": "épisode.",
+     "start": 77.088,
+     "end": 77.909
+    }
+   ]
+  }
+ ],
+ "aligned": false
+}
