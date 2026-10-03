@@ -1,0 +1,163 @@
+{
+ "title": "Top 5 des persos les plus forts de Mashle avant la saison 3",
+ "format": "top",
+ "tone": "hype",
+ "music": "hype2",
+ "animes": [
+  "MASHLE: Sanma Taisou Shinkakusha Saishuu Shiken-hen"
+ ],
+ "hook_text": "Le perso le plus fort de Mashle sait même pas lancer un sort",
+ "spoiler": false,
+ "segments": [
+  {
+   "text": "Le perso le plus fort de Mashle sait même pas lancer un sort.",
+   "sfx": true,
+   "emphasis": [
+    "sort"
+   ]
+  },
+  {
+   "text": "[whispering] La saison 3 arrive en janvier, alors reste jusqu'au bout, le numéro 2 c'est un monstre.",
+   "emphasis": [
+    "janvier"
+   ]
+  },
+  {
+   "text": "Numéro 5, Lance Crown. Sa magie, c'est la gravité, il te colle au sol sans bouger le petit doigt. Et il est calme, genre trop calme.",
+   "overlay": "#5",
+   "emphasis": [
+    "gravité"
+   ],
+   "shots": [
+    {
+     "anime": "MASHLE: Sanma Taisou Shinkakusha Saishuu Shiken-hen",
+     "kind": "character",
+     "character": "Lance Crown",
+     "at": "Lance"
+    }
+   ]
+  },
+  {
+   "text": "[laughing] Et le mec passe la moitié de son temps à parler de sa petite sœur Anna, c'est chaud.",
+   "emphasis": [
+    "Anna"
+   ]
+  },
+  {
+   "text": "Numéro 4, Rayne Ames. Un Visionnaire divin, rien que ça. Sa magie Gladius fait pleuvoir des épées géantes.",
+   "overlay": "#4",
+   "sfx": true,
+   "emphasis": [
+    "Gladius"
+   ],
+   "shots": [
+    {
+     "anime": "MASHLE: Sanma Taisou Shinkakusha Saishuu Shiken-hen",
+     "kind": "character",
+     "character": "Rayne Ames",
+     "at": "Rayne"
+    }
+   ]
+  },
+  {
+   "text": "Le plus drôle, c'est que ce gars terrifiant est complètement gaga des lapins. Et c'est le grand frère de Finn.",
+   "emphasis": [
+    "lapins"
+   ]
+  },
+  {
+   "text": "Si tu kiffes ce genre de classement, abonne-toi, j'en sors tous les jours et Mashle va revenir souvent ici.",
+   "cta": true
+  },
+  {
+   "text": "Numéro 3, Wahlberg, le directeur d'Easton. Il a l'air d'un papy tranquille qui parle tout doucement.",
+   "overlay": "#3",
+   "emphasis": [
+    "Wahlberg"
+   ],
+   "shots": [
+    {
+     "anime": "MASHLE: Sanma Taisou Shinkakusha Saishuu Shiken-hen",
+     "kind": "character",
+     "character": "Wahlberg",
+     "at": "Wahlberg"
+    }
+   ]
+  },
+  {
+   "text": "Sauf que lui, il sait que Mash a zéro magie depuis le début, et il le couvre quand même. Ça, c'est un vrai boss.",
+   "stamp": "SOUS-COTÉ",
+   "emphasis": [
+    "zéro"
+   ]
+  },
+  {
+   "text": "[excited] Mais attends, le numéro 2, c'est là que ça devient sombre.",
+   "emphasis": [
+    "sombre"
+   ]
+  },
+  {
+   "text": "Numéro 2, Innocent Zero. Le mage le plus craint du monde, il joue avec le temps comme toi avec ta télécommande.",
+   "overlay": "#2",
+   "sfx": true,
+   "grade": "bw",
+   "emphasis": [
+    "temps"
+   ],
+   "shots": [
+    {
+     "anime": "MASHLE: Sanma Taisou Shinkakusha Saishuu Shiken-hen",
+     "kind": "character",
+     "character": "Innocent Zero",
+     "at": "Innocent"
+    }
+   ]
+  },
+  {
+   "text": "[whispering] Et le pire, c'est qu'il a eu des fils juste pour se servir d'eux et vivre pour toujours.",
+   "grade": "bw",
+   "emphasis": [
+    "fils"
+   ]
+  },
+  {
+   "text": "Numéro 1, évidemment, Mash Burnedead. Pas une goutte de magie, juste des muscles et une passion pour les choux à la crème.",
+   "overlay": "#1",
+   "sfx": true,
+   "stamp": "CHEATÉ",
+   "emphasis": [
+    "muscles"
+   ],
+   "shots": [
+    {
+     "anime": "MASHLE: Sanma Taisou Shinkakusha Saishuu Shiken-hen",
+     "kind": "character",
+     "character": "Mash Burnedead",
+     "at": "Mash"
+    }
+   ]
+  },
+  {
+   "text": "Il casse les sorts à mains nues, il soulève des trucs énormes comme si de rien n'était, et franchement c'est pour ça que j'adore cet anime. C'est débile et ça marche à chaque fois.",
+   "emphasis": [
+    "mains nues"
+   ]
+  },
+  {
+   "text": "[excited] Et toi, c'est quoi ton top 1 ? Dis-moi en com' si t'aurais mis Innocent Zero devant Mash.",
+   "emphasis": [
+    "top 1"
+   ]
+  }
+ ],
+ "caption": "Le numéro 2 fait vraiment peur 😳 c'est quoi ton top 1 de Mashle ?",
+ "hashtags": [
+  "#anime",
+  "#manga",
+  "#animefr",
+  "#mangafr",
+  "#mashle",
+  "#topanime"
+ ]
+}
