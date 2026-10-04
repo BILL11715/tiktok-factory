@@ -1,0 +1,174 @@
+{
+ "title": "Top 5 des persos les plus forts de Dandadan avant la saison 3",
+ "format": "top",
+ "tone": "hype",
+ "music": "hype2",
+ "animes": [
+  "Dandadan 3rd Season"
+ ],
+ "hook_text": "Le numéro 1 de ce top est coincé dans une figurine de chat",
+ "spoiler": false,
+ "segments": [
+  {
+   "text": "Le numéro 1 de ce top est coincé dans une figurine de chat.",
+   "sfx": true,
+   "emphasis": [
+    "chat"
+   ]
+  },
+  {
+   "text": "[whispering] Reste jusqu'au bout, parce que mon classement va en énerver plus d'un.",
+   "emphasis": [
+    "bout"
+   ]
+  },
+  {
+   "text": "La saison 3 de Dandadan est annoncée, alors on fait le point sur qui est vraiment le plus fort.",
+   "emphasis": [
+    "saison 3"
+   ]
+  },
+  {
+   "text": "Numéro 5, Aira. Au début elle se prend pour l'élue, franchement elle saoule tout le monde.",
+   "overlay": "#5",
+   "emphasis": [
+    "l'élue"
+   ],
+   "shots": [
+    {
+     "anime": "Dandadan 3rd Season",
+     "kind": "character",
+     "character": "Aira Shiratori",
+     "at": "Aira"
+    }
+   ]
+  },
+  {
+   "text": "[sad] Sauf qu'elle récupère le pouvoir d'Acrobatic Silky, et l'histoire de ce yokai, une mère qui cherche sa fille, m'a mis par terre.",
+   "grade": "bw",
+   "emphasis": [
+    "sa fille"
+   ]
+  },
+  {
+   "text": "Numéro 4, Jiji. Le pote d'enfance de Momo, le mec beaucoup trop sûr de lui.",
+   "overlay": "#4",
+   "emphasis": [
+    "Jiji"
+   ],
+   "shots": [
+    {
+     "anime": "Dandadan 3rd Season",
+     "kind": "character",
+     "character": "Jin Enjouji",
+     "at": "Jiji"
+    }
+   ]
+  },
+  {
+   "text": "[surprised] Mais quand l'Evil Eye prend le contrôle de son corps, c'est plus du tout le même délire. Il veut juste jouer, et jouer avec lui, ça fait très mal.",
+   "sfx": true,
+   "emphasis": [
+    "Evil Eye"
+   ]
+  },
+  {
+   "text": "Si t'aimes ce genre de classement, abonne-toi, j'en sors tous les jours sur les animes qui arrivent.",
+   "cta": true
+  },
+  {
+   "text": "[laughing] Numéro 3, Okarun. Le gars a perdu ses boules, littéralement, et il a récupéré la vitesse de Turbo Granny en échange.",
+   "overlay": "#3",
+   "emphasis": [
+    "vitesse"
+   ],
+   "shots": [
+    {
+     "anime": "Dandadan 3rd Season",
+     "kind": "character",
+     "character": "Ken Takakura",
+     "at": "Okarun"
+    }
+   ]
+  },
+  {
+   "text": "Quand il se transforme, il part tellement vite que même lui sait pas trop où il va atterrir.",
+   "emphasis": [
+    "transforme"
+   ]
+  },
+  {
+   "text": "Numéro 2, Momo. Ses pouvoirs psychiques se réveillent après sa rencontre avec les aliens, et depuis elle balance des mains géantes invisibles.",
+   "overlay": "#2",
+   "emphasis": [
+    "psychiques"
+   ],
+   "shots": [
+    {
+     "anime": "Dandadan 3rd Season",
+     "kind": "character",
+     "character": "Momo Ayase",
+     "at": "Momo"
+    }
+   ]
+  },
+  {
+   "text": "Elle soulève des gens, elle arrache des trucs, et c'est elle qui tient toute la bande debout. J'ai hésité à la mettre première, j'te jure.",
+   "emphasis": [
+    "debout"
+   ]
+  },
+  {
+   "text": "[excited] Et le numéro 1, c'est Turbo Granny. Le yokai le plus rapide du coin, celle qui a volé les boules d'Okarun.",
+   "overlay": "#1",
+   "sfx": true,
+   "stamp": "CHEATÉE",
+   "emphasis": [
+    "Turbo Granny"
+   ],
+   "shots": [
+    {
+     "anime": "Dandadan 3rd Season",
+     "kind": "character",
+     "character": "Turbo Granny",
+     "at": "Turbo"
+    }
+   ]
+  },
+  {
+   "text": "Seiko, la grand-mère de Momo, l'a enfermée dans un chat porte-bonheur, et même coincée là-dedans, elle reste la patronne.",
+   "emphasis": [
+    "porte-bonheur"
+   ],
+   "shots": [
+    {
+     "anime": "Dandadan 3rd Season",
+     "kind": "character",
+     "character": "Seiko Ayase",
+     "at": "Seiko"
+    }
+   ]
+  },
+  {
+   "text": "Elle insulte tout le monde, elle fait des caprices, mais quand ça chauffe, c'est elle qu'on va chercher.",
+   "emphasis": [
+    "caprices"
+   ]
+  },
+  {
+   "text": "Alors, ton numéro 1 de Dandadan, c'est qui ? Dis-le moi en com', je lis tout.",
+   "emphasis": [
+    "numéro 1"
+   ]
+  }
+ ],
+ "caption": "Momo méritait peut-être la première place 👀 c'est quoi ton top 1 ?",
+ "hashtags": [
+  "#anime",
+  "#manga",
+  "#animefr",
+  "#mangafr",
+  "#dandadan",
+  "#topanime"
+ ]
+}
