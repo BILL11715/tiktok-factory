@@ -1,0 +1,16 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-04_1145/video.mp4",
+ "duration": 82.663,
+ "shots": 65,
+ "sources": [
+  "https://anilist.co/anime/198966",
+  "https://kitsu.io/anime/dandadan-3"
+ ],
+ "music": {
+  "file": "hype2.mp3",
+  "bpm": 92.3,
+  "offset": 16.35
+ },
+ "sfx": 24,
+ "engine": "remotion (OpenMontage)"
+}

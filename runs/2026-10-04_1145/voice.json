@@ -1,0 +1,1716 @@
+{
+ "engine": "piper",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-04_1145/voice.wav",
+ "duration": 82.663,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 2.625,
+   "slot_end": 2.725,
+   "text": "Le numéro 1 de ce top est coincé dans une figurine de chat.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 0.0,
+     "end": 0.135
+    },
+    {
+     "w": "numéro",
+     "start": 0.135,
+     "end": 0.425
+    },
+    {
+     "w": "1",
+     "start": 0.425,
+     "end": 0.521
+    },
+    {
+     "w": "de",
+     "start": 0.521,
+     "end": 0.656
+    },
+    {
+     "w": "ce",
+     "start": 0.656,
+     "end": 0.791
+    },
+    {
+     "w": "top",
+     "start": 0.791,
+     "end": 0.965
+    },
+    {
+     "w": "est",
+     "start": 0.965,
+     "end": 1.139
+    },
+    {
+     "w": "coincé",
+     "start": 1.139,
+     "end": 1.428
+    },
+    {
+     "w": "dans",
+     "start": 1.428,
+     "end": 1.64
+    },
+    {
+     "w": "une",
+     "start": 1.64,
+     "end": 1.814
+    },
+    {
+     "w": "figurine",
+     "start": 1.814,
+     "end": 2.181
+    },
+    {
+     "w": "de",
+     "start": 2.181,
+     "end": 2.316
+    },
+    {
+     "w": "chat.",
+     "start": 2.316,
+     "end": 2.625
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 2.725,
+   "end": 5.91,
+   "slot_end": 6.01,
+   "text": "Reste jusqu'au bout, parce que mon classement va en énerver plus d'un.",
+   "words": [
+    {
+     "w": "Reste",
+     "start": 2.725,
+     "end": 2.99
+    },
+    {
+     "w": "jusqu'au",
+     "start": 2.99,
+     "end": 3.337
+    },
+    {
+     "w": "bout,",
+     "start": 3.337,
+     "end": 3.664
+    },
+    {
+     "w": "parce",
+     "start": 3.664,
+     "end": 3.93
+    },
+    {
+     "w": "que",
+     "start": 3.93,
+     "end": 4.113
+    },
+    {
+     "w": "mon",
+     "start": 4.113,
+     "end": 4.297
+    },
+    {
+     "w": "classement",
+     "start": 4.297,
+     "end": 4.767
+    },
+    {
+     "w": "va",
+     "start": 4.767,
+     "end": 4.91
+    },
+    {
+     "w": "en",
+     "start": 4.91,
+     "end": 5.053
+    },
+    {
+     "w": "énerver",
+     "start": 5.053,
+     "end": 5.4
+    },
+    {
+     "w": "plus",
+     "start": 5.4,
+     "end": 5.624
+    },
+    {
+     "w": "d'un.",
+     "start": 5.624,
+     "end": 5.91
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 6.01,
+   "end": 10.188,
+   "slot_end": 10.288,
+   "text": "La saison 3 de Dandadan est annoncée, alors on fait le point sur qui est vraiment le plus fort.",
+   "words": [
+    {
+     "w": "La",
+     "start": 6.01,
+     "end": 6.145
+    },
+    {
+     "w": "saison",
+     "start": 6.145,
+     "end": 6.434
+    },
+    {
+     "w": "3",
+     "start": 6.434,
+     "end": 6.53
+    },
+    {
+     "w": "de",
+     "start": 6.53,
+     "end": 6.665
+    },
+    {
+     "w": "Dandadan",
+     "start": 6.665,
+     "end": 7.031
+    },
+    {
+     "w": "est",
+     "start": 7.031,
+     "end": 7.204
+    },
+    {
+     "w": "annoncée,",
+     "start": 7.204,
+     "end": 7.666
+    },
+    {
+     "w": "alors",
+     "start": 7.666,
+     "end": 7.916
+    },
+    {
+     "w": "on",
+     "start": 7.916,
+     "end": 8.051
+    },
+    {
+     "w": "fait",
+     "start": 8.051,
+     "end": 8.263
+    },
+    {
+     "w": "le",
+     "start": 8.263,
+     "end": 8.398
+    },
+    {
+     "w": "point",
+     "start": 8.398,
+     "end": 8.648
+    },
+    {
+     "w": "sur",
+     "start": 8.648,
+     "end": 8.821
+    },
+    {
+     "w": "qui",
+     "start": 8.821,
+     "end": 8.995
+    },
+    {
+     "w": "est",
+     "start": 8.995,
+     "end": 9.168
+    },
+    {
+     "w": "vraiment",
+     "start": 9.168,
+     "end": 9.534
+    },
+    {
+     "w": "le",
+     "start": 9.534,
+     "end": 9.669
+    },
+    {
+     "w": "plus",
+     "start": 9.669,
+     "end": 9.88
+    },
+    {
+     "w": "fort.",
+     "start": 9.88,
+     "end": 10.188
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 10.288,
+   "end": 14.558,
+   "slot_end": 14.658,
+   "text": "Numéro 5, Aira. Au début elle se prend pour l'élue, franchement elle saoule tout le monde.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 10.288,
+     "end": 10.596
+    },
+    {
+     "w": "5,",
+     "start": 10.596,
+     "end": 10.802
+    },
+    {
+     "w": "Aira.",
+     "start": 10.802,
+     "end": 11.13
+    },
+    {
+     "w": "Au",
+     "start": 11.13,
+     "end": 11.274
+    },
+    {
+     "w": "début",
+     "start": 11.274,
+     "end": 11.54
+    },
+    {
+     "w": "elle",
+     "start": 11.54,
+     "end": 11.766
+    },
+    {
+     "w": "se",
+     "start": 11.766,
+     "end": 11.91
+    },
+    {
+     "w": "prend",
+     "start": 11.91,
+     "end": 12.177
+    },
+    {
+     "w": "pour",
+     "start": 12.177,
+     "end": 12.402
+    },
+    {
+     "w": "l'élue,",
+     "start": 12.402,
+     "end": 12.772
+    },
+    {
+     "w": "franchement",
+     "start": 12.772,
+     "end": 13.285
+    },
+    {
+     "w": "elle",
+     "start": 13.285,
+     "end": 13.511
+    },
+    {
+     "w": "saoule",
+     "start": 13.511,
+     "end": 13.819
+    },
+    {
+     "w": "tout",
+     "start": 13.819,
+     "end": 14.044
+    },
+    {
+     "w": "le",
+     "start": 14.044,
+     "end": 14.188
+    },
+    {
+     "w": "monde.",
+     "start": 14.188,
+     "end": 14.558
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 14.658,
+   "end": 20.309,
+   "slot_end": 20.409,
+   "text": "Sauf qu'elle récupère le pouvoir d'Acrobatic Silky, et l'histoire de ce yokai, une mère qui cherche sa fille, m'a mis par terre.",
+   "words": [
+    {
+     "w": "Sauf",
+     "start": 14.658,
+     "end": 14.876
+    },
+    {
+     "w": "qu'elle",
+     "start": 14.876,
+     "end": 15.175
+    },
+    {
+     "w": "récupère",
+     "start": 15.175,
+     "end": 15.553
+    },
+    {
+     "w": "le",
+     "start": 15.553,
+     "end": 15.692
+    },
+    {
+     "w": "pouvoir",
+     "start": 15.692,
+     "end": 16.03
+    },
+    {
+     "w": "d'Acrobatic",
+     "start": 16.03,
+     "end": 16.488
+    },
+    {
+     "w": "Silky,",
+     "start": 16.488,
+     "end": 16.846
+    },
+    {
+     "w": "et",
+     "start": 16.846,
+     "end": 16.986
+    },
+    {
+     "w": "l'histoire",
+     "start": 16.986,
+     "end": 17.403
+    },
+    {
+     "w": "de",
+     "start": 17.403,
+     "end": 17.543
+    },
+    {
+     "w": "ce",
+     "start": 17.543,
+     "end": 17.682
+    },
+    {
+     "w": "yokai,",
+     "start": 17.682,
+     "end": 18.04
+    },
+    {
+     "w": "une",
+     "start": 18.04,
+     "end": 18.219
+    },
+    {
+     "w": "mère",
+     "start": 18.219,
+     "end": 18.438
+    },
+    {
+     "w": "qui",
+     "start": 18.438,
+     "end": 18.617
+    },
+    {
+     "w": "cherche",
+     "start": 18.617,
+     "end": 18.955
+    },
+    {
+     "w": "sa",
+     "start": 18.955,
+     "end": 19.095
+    },
+    {
+     "w": "fille,",
+     "start": 19.095,
+     "end": 19.453
+    },
+    {
+     "w": "m'a",
+     "start": 19.453,
+     "end": 19.592
+    },
+    {
+     "w": "mis",
+     "start": 19.592,
+     "end": 19.771
+    },
+    {
+     "w": "par",
+     "start": 19.771,
+     "end": 19.95
+    },
+    {
+     "w": "terre.",
+     "start": 19.95,
+     "end": 20.309
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 20.409,
+   "end": 24.461,
+   "slot_end": 24.561,
+   "text": "Numéro 4, Jiji. Le pote d'enfance de Momo, le mec beaucoup trop sûr de lui.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 20.409,
+     "end": 20.752
+    },
+    {
+     "w": "4,",
+     "start": 20.752,
+     "end": 20.981
+    },
+    {
+     "w": "Jiji.",
+     "start": 20.981,
+     "end": 21.347
+    },
+    {
+     "w": "Le",
+     "start": 21.347,
+     "end": 21.508
+    },
+    {
+     "w": "pote",
+     "start": 21.508,
+     "end": 21.759
+    },
+    {
+     "w": "d'enfance",
+     "start": 21.759,
+     "end": 22.195
+    },
+    {
+     "w": "de",
+     "start": 22.195,
+     "end": 22.355
+    },
+    {
+     "w": "Momo,",
+     "start": 22.355,
+     "end": 22.721
+    },
+    {
+     "w": "le",
+     "start": 22.721,
+     "end": 22.881
+    },
+    {
+     "w": "mec",
+     "start": 22.881,
+     "end": 23.088
+    },
+    {
+     "w": "beaucoup",
+     "start": 23.088,
+     "end": 23.523
+    },
+    {
+     "w": "trop",
+     "start": 23.523,
+     "end": 23.775
+    },
+    {
+     "w": "sûr",
+     "start": 23.775,
+     "end": 23.981
+    },
+    {
+     "w": "de",
+     "start": 23.981,
+     "end": 24.141
+    },
+    {
+     "w": "lui.",
+     "start": 24.141,
+     "end": 24.461
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 24.561,
+   "end": 31.36,
+   "slot_end": 31.46,
+   "text": "Mais quand l'Evil Eye prend le contrôle de son corps, c'est plus du tout le même délire. Il veut juste jouer, et jouer avec lui, ça fait très mal.",
+   "words": [
+    {
+     "w": "Mais",
+     "start": 24.561,
+     "end": 24.776
+    },
+    {
+     "w": "quand",
+     "start": 24.776,
+     "end": 25.031
+    },
+    {
+     "w": "l'Evil",
+     "start": 25.031,
+     "end": 25.285
+    },
+    {
+     "w": "Eye",
+     "start": 25.285,
+     "end": 25.461
+    },
+    {
+     "w": "prend",
+     "start": 25.461,
+     "end": 25.715
+    },
+    {
+     "w": "le",
+     "start": 25.715,
+     "end": 25.852
+    },
+    {
+     "w": "contrôle",
+     "start": 25.852,
+     "end": 26.223
+    },
+    {
+     "w": "de",
+     "start": 26.223,
+     "end": 26.36
+    },
+    {
+     "w": "son",
+     "start": 26.36,
+     "end": 26.536
+    },
+    {
+     "w": "corps,",
+     "start": 26.536,
+     "end": 26.888
+    },
+    {
+     "w": "c'est",
+     "start": 26.888,
+     "end": 27.103
+    },
+    {
+     "w": "plus",
+     "start": 27.103,
+     "end": 27.318
+    },
+    {
+     "w": "du",
+     "start": 27.318,
+     "end": 27.455
+    },
+    {
+     "w": "tout",
+     "start": 27.455,
+     "end": 27.67
+    },
+    {
+     "w": "le",
+     "start": 27.67,
+     "end": 27.806
+    },
+    {
+     "w": "même",
+     "start": 27.806,
+     "end": 28.021
+    },
+    {
+     "w": "délire.",
+     "start": 28.021,
+     "end": 28.412
+    },
+    {
+     "w": "Il",
+     "start": 28.462,
+     "end": 28.61
+    },
+    {
+     "w": "veut",
+     "start": 28.61,
+     "end": 28.843
+    },
+    {
+     "w": "juste",
+     "start": 28.843,
+     "end": 29.118
+    },
+    {
+     "w": "jouer,",
+     "start": 29.118,
+     "end": 29.499
+    },
+    {
+     "w": "et",
+     "start": 29.499,
+     "end": 29.647
+    },
+    {
+     "w": "jouer",
+     "start": 29.647,
+     "end": 29.922
+    },
+    {
+     "w": "avec",
+     "start": 29.922,
+     "end": 30.154
+    },
+    {
+     "w": "lui,",
+     "start": 30.154,
+     "end": 30.45
+    },
+    {
+     "w": "ça",
+     "start": 30.45,
+     "end": 30.598
+    },
+    {
+     "w": "fait",
+     "start": 30.598,
+     "end": 30.831
+    },
+    {
+     "w": "très",
+     "start": 30.831,
+     "end": 31.064
+    },
+    {
+     "w": "mal.",
+     "start": 31.064,
+     "end": 31.36
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 31.46,
+   "end": 35.491,
+   "slot_end": 35.591,
+   "text": "Si t'aimes ce genre de classement, abonne-toi, j'en sors tous les jours sur les animes qui arrivent.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 31.46,
+     "end": 31.587
+    },
+    {
+     "w": "t'aimes",
+     "start": 31.587,
+     "end": 31.859
+    },
+    {
+     "w": "ce",
+     "start": 31.859,
+     "end": 31.986
+    },
+    {
+     "w": "genre",
+     "start": 31.986,
+     "end": 32.222
+    },
+    {
+     "w": "de",
+     "start": 32.222,
+     "end": 32.349
+    },
+    {
+     "w": "classement,",
+     "start": 32.349,
+     "end": 32.858
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 32.858,
+     "end": 33.33
+    },
+    {
+     "w": "j'en",
+     "start": 33.33,
+     "end": 33.493
+    },
+    {
+     "w": "sors",
+     "start": 33.493,
+     "end": 33.693
+    },
+    {
+     "w": "tous",
+     "start": 33.693,
+     "end": 33.893
+    },
+    {
+     "w": "les",
+     "start": 33.893,
+     "end": 34.056
+    },
+    {
+     "w": "jours",
+     "start": 34.056,
+     "end": 34.292
+    },
+    {
+     "w": "sur",
+     "start": 34.292,
+     "end": 34.456
+    },
+    {
+     "w": "les",
+     "start": 34.456,
+     "end": 34.619
+    },
+    {
+     "w": "animes",
+     "start": 34.619,
+     "end": 34.891
+    },
+    {
+     "w": "qui",
+     "start": 34.891,
+     "end": 35.055
+    },
+    {
+     "w": "arrivent.",
+     "start": 35.055,
+     "end": 35.491
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 35.591,
+   "end": 41.97,
+   "slot_end": 42.07,
+   "text": "Numéro 3, Okarun. Le gars a perdu ses boules, littéralement, et il a récupéré la vitesse de Turbo Granny en échange.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 35.591,
+     "end": 35.945
+    },
+    {
+     "w": "3,",
+     "start": 35.945,
+     "end": 36.181
+    },
+    {
+     "w": "Okarun.",
+     "start": 36.181,
+     "end": 36.654
+    },
+    {
+     "w": "Le",
+     "start": 36.654,
+     "end": 36.819
+    },
+    {
+     "w": "gars",
+     "start": 36.819,
+     "end": 37.079
+    },
+    {
+     "w": "a",
+     "start": 37.079,
+     "end": 37.197
+    },
+    {
+     "w": "perdu",
+     "start": 37.197,
+     "end": 37.505
+    },
+    {
+     "w": "ses",
+     "start": 37.505,
+     "end": 37.717
+    },
+    {
+     "w": "boules,",
+     "start": 37.717,
+     "end": 38.19
+    },
+    {
+     "w": "littéralement,",
+     "start": 38.19,
+     "end": 38.993
+    },
+    {
+     "w": "et",
+     "start": 38.993,
+     "end": 39.158
+    },
+    {
+     "w": "il",
+     "start": 39.158,
+     "end": 39.324
+    },
+    {
+     "w": "a",
+     "start": 39.324,
+     "end": 39.442
+    },
+    {
+     "w": "récupéré",
+     "start": 39.442,
+     "end": 39.891
+    },
+    {
+     "w": "la",
+     "start": 39.891,
+     "end": 40.056
+    },
+    {
+     "w": "vitesse",
+     "start": 40.056,
+     "end": 40.458
+    },
+    {
+     "w": "de",
+     "start": 40.458,
+     "end": 40.623
+    },
+    {
+     "w": "Turbo",
+     "start": 40.623,
+     "end": 40.931
+    },
+    {
+     "w": "Granny",
+     "start": 40.931,
+     "end": 41.285
+    },
+    {
+     "w": "en",
+     "start": 41.285,
+     "end": 41.45
+    },
+    {
+     "w": "échange.",
+     "start": 41.45,
+     "end": 41.97
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 42.07,
+   "end": 45.708,
+   "slot_end": 45.808,
+   "text": "Quand il se transforme, il part tellement vite que même lui sait pas trop où il va atterrir.",
+   "words": [
+    {
+     "w": "Quand",
+     "start": 42.07,
+     "end": 42.295
+    },
+    {
+     "w": "il",
+     "start": 42.295,
+     "end": 42.417
+    },
+    {
+     "w": "se",
+     "start": 42.417,
+     "end": 42.538
+    },
+    {
+     "w": "transforme,",
+     "start": 42.538,
+     "end": 43.023
+    },
+    {
+     "w": "il",
+     "start": 43.023,
+     "end": 43.144
+    },
+    {
+     "w": "part",
+     "start": 43.144,
+     "end": 43.335
+    },
+    {
+     "w": "tellement",
+     "start": 43.335,
+     "end": 43.699
+    },
+    {
+     "w": "vite",
+     "start": 43.699,
+     "end": 43.889
+    },
+    {
+     "w": "que",
+     "start": 43.889,
+     "end": 44.045
+    },
+    {
+     "w": "même",
+     "start": 44.045,
+     "end": 44.236
+    },
+    {
+     "w": "lui",
+     "start": 44.236,
+     "end": 44.392
+    },
+    {
+     "w": "sait",
+     "start": 44.392,
+     "end": 44.582
+    },
+    {
+     "w": "pas",
+     "start": 44.582,
+     "end": 44.738
+    },
+    {
+     "w": "trop",
+     "start": 44.738,
+     "end": 44.929
+    },
+    {
+     "w": "où",
+     "start": 44.929,
+     "end": 45.05
+    },
+    {
+     "w": "il",
+     "start": 45.05,
+     "end": 45.171
+    },
+    {
+     "w": "va",
+     "start": 45.171,
+     "end": 45.292
+    },
+    {
+     "w": "atterrir.",
+     "start": 45.292,
+     "end": 45.708
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 45.808,
+   "end": 51.987,
+   "slot_end": 52.087,
+   "text": "Numéro 2, Momo. Ses pouvoirs psychiques se réveillent après sa rencontre avec les aliens, et depuis elle balance des mains géantes invisibles.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 45.808,
+     "end": 46.098
+    },
+    {
+     "w": "2,",
+     "start": 46.098,
+     "end": 46.291
+    },
+    {
+     "w": "Momo.",
+     "start": 46.291,
+     "end": 46.6
+    },
+    {
+     "w": "Ses",
+     "start": 46.6,
+     "end": 46.774
+    },
+    {
+     "w": "pouvoirs",
+     "start": 46.774,
+     "end": 47.14
+    },
+    {
+     "w": "psychiques",
+     "start": 47.14,
+     "end": 47.585
+    },
+    {
+     "w": "se",
+     "start": 47.585,
+     "end": 47.72
+    },
+    {
+     "w": "réveillent",
+     "start": 47.72,
+     "end": 48.164
+    },
+    {
+     "w": "après",
+     "start": 48.164,
+     "end": 48.415
+    },
+    {
+     "w": "sa",
+     "start": 48.415,
+     "end": 48.55
+    },
+    {
+     "w": "rencontre",
+     "start": 48.55,
+     "end": 48.955
+    },
+    {
+     "w": "avec",
+     "start": 48.955,
+     "end": 49.168
+    },
+    {
+     "w": "les",
+     "start": 49.168,
+     "end": 49.342
+    },
+    {
+     "w": "aliens,",
+     "start": 49.342,
+     "end": 49.728
+    },
+    {
+     "w": "et",
+     "start": 49.728,
+     "end": 49.863
+    },
+    {
+     "w": "depuis",
+     "start": 49.863,
+     "end": 50.153
+    },
+    {
+     "w": "elle",
+     "start": 50.153,
+     "end": 50.365
+    },
+    {
+     "w": "balance",
+     "start": 50.365,
+     "end": 50.693
+    },
+    {
+     "w": "des",
+     "start": 50.693,
+     "end": 50.867
+    },
+    {
+     "w": "mains",
+     "start": 50.867,
+     "end": 51.118
+    },
+    {
+     "w": "géantes",
+     "start": 51.118,
+     "end": 51.446
+    },
+    {
+     "w": "invisibles.",
+     "start": 51.446,
+     "end": 51.987
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 52.087,
+   "end": 57.802,
+   "slot_end": 57.902,
+   "text": "Elle soulève des gens, elle arrache des trucs, et c'est elle qui tient toute la bande debout. J'ai hésité à la mettre première, j'te jure.",
+   "words": [
+    {
+     "w": "Elle",
+     "start": 52.087,
+     "end": 52.278
+    },
+    {
+     "w": "soulève",
+     "start": 52.278,
+     "end": 52.573
+    },
+    {
+     "w": "des",
+     "start": 52.573,
+     "end": 52.729
+    },
+    {
+     "w": "gens,",
+     "start": 52.729,
+     "end": 53.007
+    },
+    {
+     "w": "elle",
+     "start": 53.007,
+     "end": 53.198
+    },
+    {
+     "w": "arrache",
+     "start": 53.198,
+     "end": 53.493
+    },
+    {
+     "w": "des",
+     "start": 53.493,
+     "end": 53.649
+    },
+    {
+     "w": "trucs,",
+     "start": 53.649,
+     "end": 53.962
+    },
+    {
+     "w": "et",
+     "start": 53.962,
+     "end": 54.083
+    },
+    {
+     "w": "c'est",
+     "start": 54.083,
+     "end": 54.274
+    },
+    {
+     "w": "elle",
+     "start": 54.274,
+     "end": 54.465
+    },
+    {
+     "w": "qui",
+     "start": 54.465,
+     "end": 54.621
+    },
+    {
+     "w": "tient",
+     "start": 54.621,
+     "end": 54.847
+    },
+    {
+     "w": "toute",
+     "start": 54.847,
+     "end": 55.073
+    },
+    {
+     "w": "la",
+     "start": 55.073,
+     "end": 55.194
+    },
+    {
+     "w": "bande",
+     "start": 55.194,
+     "end": 55.42
+    },
+    {
+     "w": "debout.",
+     "start": 55.42,
+     "end": 55.767
+    },
+    {
+     "w": "J'ai",
+     "start": 55.817,
+     "end": 55.996
+    },
+    {
+     "w": "hésité",
+     "start": 55.996,
+     "end": 56.293
+    },
+    {
+     "w": "à",
+     "start": 56.293,
+     "end": 56.393
+    },
+    {
+     "w": "la",
+     "start": 56.393,
+     "end": 56.532
+    },
+    {
+     "w": "mettre",
+     "start": 56.532,
+     "end": 56.829
+    },
+    {
+     "w": "première,",
+     "start": 56.829,
+     "end": 57.306
+    },
+    {
+     "w": "j'te",
+     "start": 57.306,
+     "end": 57.485
+    },
+    {
+     "w": "jure.",
+     "start": 57.485,
+     "end": 57.802
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 57.902,
+   "end": 63.6,
+   "slot_end": 63.7,
+   "text": "Et le numéro 1, c'est Turbo Granny. Le yokai le plus rapide du coin, celle qui a volé les boules d'Okarun.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 57.902,
+     "end": 58.051
+    },
+    {
+     "w": "le",
+     "start": 58.051,
+     "end": 58.2
+    },
+    {
+     "w": "numéro",
+     "start": 58.2,
+     "end": 58.519
+    },
+    {
+     "w": "1,",
+     "start": 58.519,
+     "end": 58.732
+    },
+    {
+     "w": "c'est",
+     "start": 58.732,
+     "end": 58.966
+    },
+    {
+     "w": "Turbo",
+     "start": 58.966,
+     "end": 59.243
+    },
+    {
+     "w": "Granny.",
+     "start": 59.243,
+     "end": 59.669
+    },
+    {
+     "w": "Le",
+     "start": 59.719,
+     "end": 59.888
+    },
+    {
+     "w": "yokai",
+     "start": 59.888,
+     "end": 60.204
+    },
+    {
+     "w": "le",
+     "start": 60.204,
+     "end": 60.374
+    },
+    {
+     "w": "plus",
+     "start": 60.374,
+     "end": 60.641
+    },
+    {
+     "w": "rapide",
+     "start": 60.641,
+     "end": 61.004
+    },
+    {
+     "w": "du",
+     "start": 61.004,
+     "end": 61.174
+    },
+    {
+     "w": "coin,",
+     "start": 61.174,
+     "end": 61.562
+    },
+    {
+     "w": "celle",
+     "start": 61.562,
+     "end": 61.878
+    },
+    {
+     "w": "qui",
+     "start": 61.878,
+     "end": 62.096
+    },
+    {
+     "w": "a",
+     "start": 62.096,
+     "end": 62.217
+    },
+    {
+     "w": "volé",
+     "start": 62.217,
+     "end": 62.484
+    },
+    {
+     "w": "les",
+     "start": 62.484,
+     "end": 62.703
+    },
+    {
+     "w": "boules",
+     "start": 62.703,
+     "end": 63.066
+    },
+    {
+     "w": "d'Okarun.",
+     "start": 63.066,
+     "end": 63.6
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 63.7,
+   "end": 69.708,
+   "slot_end": 69.808,
+   "text": "Seiko, la grand-mère de Momo, l'a enfermée dans un chat porte-bonheur, et même coincée là-dedans, elle reste la patronne.",
+   "words": [
+    {
+     "w": "Seiko,",
+     "start": 63.7,
+     "end": 64.101
+    },
+    {
+     "w": "la",
+     "start": 64.101,
+     "end": 64.256
+    },
+    {
+     "w": "grand-mère",
+     "start": 64.256,
+     "end": 64.724
+    },
+    {
+     "w": "de",
+     "start": 64.724,
+     "end": 64.88
+    },
+    {
+     "w": "Momo,",
+     "start": 64.88,
+     "end": 65.236
+    },
+    {
+     "w": "l'a",
+     "start": 65.236,
+     "end": 65.391
+    },
+    {
+     "w": "enfermée",
+     "start": 65.391,
+     "end": 65.814
+    },
+    {
+     "w": "dans",
+     "start": 65.814,
+     "end": 66.059
+    },
+    {
+     "w": "un",
+     "start": 66.059,
+     "end": 66.215
+    },
+    {
+     "w": "chat",
+     "start": 66.215,
+     "end": 66.459
+    },
+    {
+     "w": "porte-bonheur,",
+     "start": 66.459,
+     "end": 67.171
+    },
+    {
+     "w": "et",
+     "start": 67.171,
+     "end": 67.327
+    },
+    {
+     "w": "même",
+     "start": 67.327,
+     "end": 67.572
+    },
+    {
+     "w": "coincée",
+     "start": 67.572,
+     "end": 67.95
+    },
+    {
+     "w": "là-dedans,",
+     "start": 67.95,
+     "end": 68.484
+    },
+    {
+     "w": "elle",
+     "start": 68.484,
+     "end": 68.729
+    },
+    {
+     "w": "reste",
+     "start": 68.729,
+     "end": 69.018
+    },
+    {
+     "w": "la",
+     "start": 69.018,
+     "end": 69.174
+    },
+    {
+     "w": "patronne.",
+     "start": 69.174,
+     "end": 69.708
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 69.808,
+   "end": 73.815,
+   "slot_end": 73.915,
+   "text": "Elle insulte tout le monde, elle fait des caprices, mais quand ça chauffe, c'est elle qu'on va chercher.",
+   "words": [
+    {
+     "w": "Elle",
+     "start": 69.808,
+     "end": 69.995
+    },
+    {
+     "w": "insulte",
+     "start": 69.995,
+     "end": 70.284
+    },
+    {
+     "w": "tout",
+     "start": 70.284,
+     "end": 70.47
+    },
+    {
+     "w": "le",
+     "start": 70.47,
+     "end": 70.589
+    },
+    {
+     "w": "monde,",
+     "start": 70.589,
+     "end": 70.895
+    },
+    {
+     "w": "elle",
+     "start": 70.895,
+     "end": 71.082
+    },
+    {
+     "w": "fait",
+     "start": 71.082,
+     "end": 71.268
+    },
+    {
+     "w": "des",
+     "start": 71.268,
+     "end": 71.421
+    },
+    {
+     "w": "caprices,",
+     "start": 71.421,
+     "end": 71.829
+    },
+    {
+     "w": "mais",
+     "start": 71.829,
+     "end": 72.016
+    },
+    {
+     "w": "quand",
+     "start": 72.016,
+     "end": 72.236
+    },
+    {
+     "w": "ça",
+     "start": 72.236,
+     "end": 72.355
+    },
+    {
+     "w": "chauffe,",
+     "start": 72.355,
+     "end": 72.729
+    },
+    {
+     "w": "c'est",
+     "start": 72.729,
+     "end": 72.915
+    },
+    {
+     "w": "elle",
+     "start": 72.915,
+     "end": 73.102
+    },
+    {
+     "w": "qu'on",
+     "start": 73.102,
+     "end": 73.289
+    },
+    {
+     "w": "va",
+     "start": 73.289,
+     "end": 73.408
+    },
+    {
+     "w": "chercher.",
+     "start": 73.408,
+     "end": 73.815
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "start": 73.915,
+   "end": 77.836,
+   "slot_end": 77.936,
+   "text": "Alors, ton numéro 1 de Dandadan, c'est qui ? Dis-le moi en com', je lis tout.",
+   "words": [
+    {
+     "w": "Alors,",
+     "start": 73.915,
+     "end": 74.305
+    },
+    {
+     "w": "ton",
+     "start": 74.305,
+     "end": 74.5
+    },
+    {
+     "w": "numéro",
+     "start": 74.5,
+     "end": 74.825
+    },
+    {
+     "w": "1",
+     "start": 74.825,
+     "end": 74.933
+    },
+    {
+     "w": "de",
+     "start": 74.933,
+     "end": 75.085
+    },
+    {
+     "w": "Dandadan,",
+     "start": 75.085,
+     "end": 75.605
+    },
+    {
+     "w": "c'est",
+     "start": 75.605,
+     "end": 75.843
+    },
+    {
+     "w": "qui",
+     "start": 75.843,
+     "end": 76.038
+    },
+    {
+     "w": "?",
+     "start": 76.038,
+     "end": 76.211
+    },
+    {
+     "w": "Dis-le",
+     "start": 76.211,
+     "end": 76.493
+    },
+    {
+     "w": "moi",
+     "start": 76.493,
+     "end": 76.688
+    },
+    {
+     "w": "en",
+     "start": 76.688,
+     "end": 76.84
+    },
+    {
+     "w": "com',",
+     "start": 76.84,
+     "end": 77.143
+    },
+    {
+     "w": "je",
+     "start": 77.143,
+     "end": 77.295
+    },
+    {
+     "w": "lis",
+     "start": 77.295,
+     "end": 77.489
+    },
+    {
+     "w": "tout.",
+     "start": 77.489,
+     "end": 77.836
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "start": 77.936,
+   "end": 81.963,
+   "slot_end": 82.663,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 77.936,
+     "end": 78.495
+    },
+    {
+     "w": "Asura.",
+     "start": 78.495,
+     "end": 79.166
+    },
+    {
+     "w": "On",
+     "start": 79.166,
+     "end": 79.427
+    },
+    {
+     "w": "se",
+     "start": 79.427,
+     "end": 79.688
+    },
+    {
+     "w": "capte",
+     "start": 79.688,
+     "end": 80.173
+    },
+    {
+     "w": "au",
+     "start": 80.173,
+     "end": 80.434
+    },
+    {
+     "w": "prochain",
+     "start": 80.434,
+     "end": 81.142
+    },
+    {
+     "w": "épisode.",
+     "start": 81.142,
+     "end": 81.963
+    }
+   ]
+  }
+ ],
+ "aligned": false
+}
