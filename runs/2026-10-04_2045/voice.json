@@ -1,0 +1,1742 @@
+{
+ "engine": "piper",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-04_2045/voice.wav",
+ "duration": 83.176,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 3.325,
+   "slot_end": 3.425,
+   "text": "Le numéro 1 de ce top exige un petit drapeau planté sur son omurice.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 0.0,
+     "end": 0.15
+    },
+    {
+     "w": "numéro",
+     "start": 0.15,
+     "end": 0.472
+    },
+    {
+     "w": "1",
+     "start": 0.472,
+     "end": 0.579
+    },
+    {
+     "w": "de",
+     "start": 0.579,
+     "end": 0.729
+    },
+    {
+     "w": "ce",
+     "start": 0.729,
+     "end": 0.879
+    },
+    {
+     "w": "top",
+     "start": 0.879,
+     "end": 1.073
+    },
+    {
+     "w": "exige",
+     "start": 1.073,
+     "end": 1.351
+    },
+    {
+     "w": "un",
+     "start": 1.351,
+     "end": 1.502
+    },
+    {
+     "w": "petit",
+     "start": 1.502,
+     "end": 1.78
+    },
+    {
+     "w": "drapeau",
+     "start": 1.78,
+     "end": 2.145
+    },
+    {
+     "w": "planté",
+     "start": 2.145,
+     "end": 2.467
+    },
+    {
+     "w": "sur",
+     "start": 2.467,
+     "end": 2.66
+    },
+    {
+     "w": "son",
+     "start": 2.66,
+     "end": 2.853
+    },
+    {
+     "w": "omurice.",
+     "start": 2.853,
+     "end": 3.325
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 3.425,
+   "end": 8.968,
+   "slot_end": 9.068,
+   "text": "Et pourtant c'est le mec le plus dangereux de tout Tokyo Revengers. Reste jusqu'au bout, le classement va en faire râler certains.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 3.425,
+     "end": 3.536
+    },
+    {
+     "w": "pourtant",
+     "start": 3.536,
+     "end": 3.837
+    },
+    {
+     "w": "c'est",
+     "start": 3.837,
+     "end": 4.012
+    },
+    {
+     "w": "le",
+     "start": 4.012,
+     "end": 4.123
+    },
+    {
+     "w": "mec",
+     "start": 4.123,
+     "end": 4.265
+    },
+    {
+     "w": "le",
+     "start": 4.265,
+     "end": 4.377
+    },
+    {
+     "w": "plus",
+     "start": 4.377,
+     "end": 4.551
+    },
+    {
+     "w": "dangereux",
+     "start": 4.551,
+     "end": 4.884
+    },
+    {
+     "w": "de",
+     "start": 4.884,
+     "end": 4.995
+    },
+    {
+     "w": "tout",
+     "start": 4.995,
+     "end": 5.17
+    },
+    {
+     "w": "Tokyo",
+     "start": 5.17,
+     "end": 5.376
+    },
+    {
+     "w": "Revengers.",
+     "start": 5.376,
+     "end": 5.788
+    },
+    {
+     "w": "Reste",
+     "start": 5.838,
+     "end": 6.129
+    },
+    {
+     "w": "jusqu'au",
+     "start": 6.129,
+     "end": 6.509
+    },
+    {
+     "w": "bout,",
+     "start": 6.509,
+     "end": 6.867
+    },
+    {
+     "w": "le",
+     "start": 6.867,
+     "end": 7.023
+    },
+    {
+     "w": "classement",
+     "start": 7.023,
+     "end": 7.537
+    },
+    {
+     "w": "va",
+     "start": 7.537,
+     "end": 7.694
+    },
+    {
+     "w": "en",
+     "start": 7.694,
+     "end": 7.85
+    },
+    {
+     "w": "faire",
+     "start": 7.85,
+     "end": 8.141
+    },
+    {
+     "w": "râler",
+     "start": 8.141,
+     "end": 8.431
+    },
+    {
+     "w": "certains.",
+     "start": 8.431,
+     "end": 8.968
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 9.068,
+   "end": 14.696,
+   "slot_end": 14.796,
+   "text": "Numéro 5, Baji. Membre fondateur du Toman, capitaine de la première division, il cogne d'abord et réfléchit après.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 9.068,
+     "end": 9.391
+    },
+    {
+     "w": "5,",
+     "start": 9.391,
+     "end": 9.607
+    },
+    {
+     "w": "Baji.",
+     "start": 9.607,
+     "end": 9.952
+    },
+    {
+     "w": "Membre",
+     "start": 9.952,
+     "end": 10.275
+    },
+    {
+     "w": "fondateur",
+     "start": 10.275,
+     "end": 10.728
+    },
+    {
+     "w": "du",
+     "start": 10.728,
+     "end": 10.879
+    },
+    {
+     "w": "Toman,",
+     "start": 10.879,
+     "end": 11.267
+    },
+    {
+     "w": "capitaine",
+     "start": 11.267,
+     "end": 11.72
+    },
+    {
+     "w": "de",
+     "start": 11.72,
+     "end": 11.871
+    },
+    {
+     "w": "la",
+     "start": 11.871,
+     "end": 12.022
+    },
+    {
+     "w": "première",
+     "start": 12.022,
+     "end": 12.432
+    },
+    {
+     "w": "division,",
+     "start": 12.432,
+     "end": 12.949
+    },
+    {
+     "w": "il",
+     "start": 12.949,
+     "end": 13.1
+    },
+    {
+     "w": "cogne",
+     "start": 13.1,
+     "end": 13.38
+    },
+    {
+     "w": "d'abord",
+     "start": 13.38,
+     "end": 13.704
+    },
+    {
+     "w": "et",
+     "start": 13.704,
+     "end": 13.855
+    },
+    {
+     "w": "réfléchit",
+     "start": 13.855,
+     "end": 14.307
+    },
+    {
+     "w": "après.",
+     "start": 14.307,
+     "end": 14.696
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 14.796,
+   "end": 19.218,
+   "slot_end": 19.318,
+   "text": "Mais ce qui le rend chaud, c'est sa loyauté. Ce qu'il fait à Halloween, ceux qui savent ont encore mal.",
+   "words": [
+    {
+     "w": "Mais",
+     "start": 14.796,
+     "end": 14.988
+    },
+    {
+     "w": "ce",
+     "start": 14.988,
+     "end": 15.11
+    },
+    {
+     "w": "qui",
+     "start": 15.11,
+     "end": 15.267
+    },
+    {
+     "w": "le",
+     "start": 15.267,
+     "end": 15.389
+    },
+    {
+     "w": "rend",
+     "start": 15.389,
+     "end": 15.581
+    },
+    {
+     "w": "chaud,",
+     "start": 15.581,
+     "end": 15.895
+    },
+    {
+     "w": "c'est",
+     "start": 15.895,
+     "end": 16.087
+    },
+    {
+     "w": "sa",
+     "start": 16.087,
+     "end": 16.209
+    },
+    {
+     "w": "loyauté.",
+     "start": 16.209,
+     "end": 16.593
+    },
+    {
+     "w": "Ce",
+     "start": 16.643,
+     "end": 16.778
+    },
+    {
+     "w": "qu'il",
+     "start": 16.778,
+     "end": 16.991
+    },
+    {
+     "w": "fait",
+     "start": 16.991,
+     "end": 17.204
+    },
+    {
+     "w": "à",
+     "start": 17.204,
+     "end": 17.301
+    },
+    {
+     "w": "Halloween,",
+     "start": 17.301,
+     "end": 17.805
+    },
+    {
+     "w": "ceux",
+     "start": 17.805,
+     "end": 18.018
+    },
+    {
+     "w": "qui",
+     "start": 18.018,
+     "end": 18.192
+    },
+    {
+     "w": "savent",
+     "start": 18.192,
+     "end": 18.482
+    },
+    {
+     "w": "ont",
+     "start": 18.482,
+     "end": 18.657
+    },
+    {
+     "w": "encore",
+     "start": 18.657,
+     "end": 18.947
+    },
+    {
+     "w": "mal.",
+     "start": 18.947,
+     "end": 19.218
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 19.318,
+   "end": 24.746,
+   "slot_end": 24.846,
+   "text": "Numéro 4, Taiju Shiba, le chef des Black Dragon. Le grand frère de Hakkai, et franchement le pire grand frère de l'anime.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 19.318,
+     "end": 19.654
+    },
+    {
+     "w": "4,",
+     "start": 19.654,
+     "end": 19.877
+    },
+    {
+     "w": "Taiju",
+     "start": 19.877,
+     "end": 20.168
+    },
+    {
+     "w": "Shiba,",
+     "start": 20.168,
+     "end": 20.571
+    },
+    {
+     "w": "le",
+     "start": 20.571,
+     "end": 20.727
+    },
+    {
+     "w": "chef",
+     "start": 20.727,
+     "end": 20.973
+    },
+    {
+     "w": "des",
+     "start": 20.973,
+     "end": 21.174
+    },
+    {
+     "w": "Black",
+     "start": 21.174,
+     "end": 21.465
+    },
+    {
+     "w": "Dragon.",
+     "start": 21.465,
+     "end": 21.912
+    },
+    {
+     "w": "Le",
+     "start": 21.962,
+     "end": 22.082
+    },
+    {
+     "w": "grand",
+     "start": 22.082,
+     "end": 22.304
+    },
+    {
+     "w": "frère",
+     "start": 22.304,
+     "end": 22.526
+    },
+    {
+     "w": "de",
+     "start": 22.526,
+     "end": 22.646
+    },
+    {
+     "w": "Hakkai,",
+     "start": 22.646,
+     "end": 22.987
+    },
+    {
+     "w": "et",
+     "start": 22.987,
+     "end": 23.107
+    },
+    {
+     "w": "franchement",
+     "start": 23.107,
+     "end": 23.533
+    },
+    {
+     "w": "le",
+     "start": 23.533,
+     "end": 23.653
+    },
+    {
+     "w": "pire",
+     "start": 23.653,
+     "end": 23.841
+    },
+    {
+     "w": "grand",
+     "start": 23.841,
+     "end": 24.063
+    },
+    {
+     "w": "frère",
+     "start": 24.063,
+     "end": 24.285
+    },
+    {
+     "w": "de",
+     "start": 24.285,
+     "end": 24.404
+    },
+    {
+     "w": "l'anime.",
+     "start": 24.404,
+     "end": 24.746
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 24.846,
+   "end": 29.677,
+   "slot_end": 29.777,
+   "text": "Il frappe sa propre famille, il impose la peur à tout le monde, et il a fallu Mikey en personne pour le calmer.",
+   "words": [
+    {
+     "w": "Il",
+     "start": 24.846,
+     "end": 24.978
+    },
+    {
+     "w": "frappe",
+     "start": 24.978,
+     "end": 25.261
+    },
+    {
+     "w": "sa",
+     "start": 25.261,
+     "end": 25.393
+    },
+    {
+     "w": "propre",
+     "start": 25.393,
+     "end": 25.676
+    },
+    {
+     "w": "famille,",
+     "start": 25.676,
+     "end": 26.091
+    },
+    {
+     "w": "il",
+     "start": 26.091,
+     "end": 26.224
+    },
+    {
+     "w": "impose",
+     "start": 26.224,
+     "end": 26.507
+    },
+    {
+     "w": "la",
+     "start": 26.507,
+     "end": 26.639
+    },
+    {
+     "w": "peur",
+     "start": 26.639,
+     "end": 26.846
+    },
+    {
+     "w": "à",
+     "start": 26.846,
+     "end": 26.941
+    },
+    {
+     "w": "tout",
+     "start": 26.941,
+     "end": 27.148
+    },
+    {
+     "w": "le",
+     "start": 27.148,
+     "end": 27.28
+    },
+    {
+     "w": "monde,",
+     "start": 27.28,
+     "end": 27.62
+    },
+    {
+     "w": "et",
+     "start": 27.62,
+     "end": 27.752
+    },
+    {
+     "w": "il",
+     "start": 27.752,
+     "end": 27.884
+    },
+    {
+     "w": "a",
+     "start": 27.884,
+     "end": 27.979
+    },
+    {
+     "w": "fallu",
+     "start": 27.979,
+     "end": 28.224
+    },
+    {
+     "w": "Mikey",
+     "start": 28.224,
+     "end": 28.469
+    },
+    {
+     "w": "en",
+     "start": 28.469,
+     "end": 28.602
+    },
+    {
+     "w": "personne",
+     "start": 28.602,
+     "end": 28.96
+    },
+    {
+     "w": "pour",
+     "start": 28.96,
+     "end": 29.168
+    },
+    {
+     "w": "le",
+     "start": 29.168,
+     "end": 29.3
+    },
+    {
+     "w": "calmer.",
+     "start": 29.3,
+     "end": 29.677
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 29.777,
+   "end": 34.529,
+   "slot_end": 34.629,
+   "text": "Si tu kiffes Tokyo Revengers, abonne-toi, j'en parle à chaque épisode de l'arc des Trois Dieux qui passe en ce moment.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 29.777,
+     "end": 29.904
+    },
+    {
+     "w": "tu",
+     "start": 29.904,
+     "end": 30.031
+    },
+    {
+     "w": "kiffes",
+     "start": 30.031,
+     "end": 30.303
+    },
+    {
+     "w": "Tokyo",
+     "start": 30.303,
+     "end": 30.539
+    },
+    {
+     "w": "Revengers,",
+     "start": 30.539,
+     "end": 31.011
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 31.011,
+     "end": 31.482
+    },
+    {
+     "w": "j'en",
+     "start": 31.482,
+     "end": 31.645
+    },
+    {
+     "w": "parle",
+     "start": 31.645,
+     "end": 31.881
+    },
+    {
+     "w": "à",
+     "start": 31.881,
+     "end": 31.972
+    },
+    {
+     "w": "chaque",
+     "start": 31.972,
+     "end": 32.244
+    },
+    {
+     "w": "épisode",
+     "start": 32.244,
+     "end": 32.552
+    },
+    {
+     "w": "de",
+     "start": 32.552,
+     "end": 32.679
+    },
+    {
+     "w": "l'arc",
+     "start": 32.679,
+     "end": 32.879
+    },
+    {
+     "w": "des",
+     "start": 32.879,
+     "end": 33.042
+    },
+    {
+     "w": "Trois",
+     "start": 33.042,
+     "end": 33.278
+    },
+    {
+     "w": "Dieux",
+     "start": 33.278,
+     "end": 33.514
+    },
+    {
+     "w": "qui",
+     "start": 33.514,
+     "end": 33.677
+    },
+    {
+     "w": "passe",
+     "start": 33.677,
+     "end": 33.913
+    },
+    {
+     "w": "en",
+     "start": 33.913,
+     "end": 34.04
+    },
+    {
+     "w": "ce",
+     "start": 34.04,
+     "end": 34.167
+    },
+    {
+     "w": "moment.",
+     "start": 34.167,
+     "end": 34.529
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 34.629,
+   "end": 40.576,
+   "slot_end": 40.676,
+   "text": "Numéro 3, Izana, le boss de Tenjiku. Calme, froid, presque gentil quand il parle, et c'est justement ça qui fait peur.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 34.629,
+     "end": 34.95
+    },
+    {
+     "w": "3,",
+     "start": 34.95,
+     "end": 35.164
+    },
+    {
+     "w": "Izana,",
+     "start": 35.164,
+     "end": 35.549
+    },
+    {
+     "w": "le",
+     "start": 35.549,
+     "end": 35.699
+    },
+    {
+     "w": "boss",
+     "start": 35.699,
+     "end": 35.934
+    },
+    {
+     "w": "de",
+     "start": 35.934,
+     "end": 36.084
+    },
+    {
+     "w": "Tenjiku.",
+     "start": 36.084,
+     "end": 36.554
+    },
+    {
+     "w": "Calme,",
+     "start": 36.554,
+     "end": 36.939
+    },
+    {
+     "w": "froid,",
+     "start": 36.939,
+     "end": 37.324
+    },
+    {
+     "w": "presque",
+     "start": 37.324,
+     "end": 37.688
+    },
+    {
+     "w": "gentil",
+     "start": 37.688,
+     "end": 38.009
+    },
+    {
+     "w": "quand",
+     "start": 38.009,
+     "end": 38.287
+    },
+    {
+     "w": "il",
+     "start": 38.287,
+     "end": 38.437
+    },
+    {
+     "w": "parle,",
+     "start": 38.437,
+     "end": 38.822
+    },
+    {
+     "w": "et",
+     "start": 38.822,
+     "end": 38.972
+    },
+    {
+     "w": "c'est",
+     "start": 38.972,
+     "end": 39.207
+    },
+    {
+     "w": "justement",
+     "start": 39.207,
+     "end": 39.656
+    },
+    {
+     "w": "ça",
+     "start": 39.656,
+     "end": 39.806
+    },
+    {
+     "w": "qui",
+     "start": 39.806,
+     "end": 39.998
+    },
+    {
+     "w": "fait",
+     "start": 39.998,
+     "end": 40.234
+    },
+    {
+     "w": "peur.",
+     "start": 40.234,
+     "end": 40.576
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 40.676,
+   "end": 45.771,
+   "slot_end": 45.871,
+   "text": "Lui, il s'est toujours vu comme le petit frère de Shinichiro, et il a jamais digéré que Mikey prenne cette place.",
+   "words": [
+    {
+     "w": "Lui,",
+     "start": 40.676,
+     "end": 40.954
+    },
+    {
+     "w": "il",
+     "start": 40.954,
+     "end": 41.094
+    },
+    {
+     "w": "s'est",
+     "start": 41.094,
+     "end": 41.313
+    },
+    {
+     "w": "toujours",
+     "start": 41.313,
+     "end": 41.691
+    },
+    {
+     "w": "vu",
+     "start": 41.691,
+     "end": 41.83
+    },
+    {
+     "w": "comme",
+     "start": 41.83,
+     "end": 42.089
+    },
+    {
+     "w": "le",
+     "start": 42.089,
+     "end": 42.228
+    },
+    {
+     "w": "petit",
+     "start": 42.228,
+     "end": 42.487
+    },
+    {
+     "w": "frère",
+     "start": 42.487,
+     "end": 42.746
+    },
+    {
+     "w": "de",
+     "start": 42.746,
+     "end": 42.885
+    },
+    {
+     "w": "Shinichiro,",
+     "start": 42.885,
+     "end": 43.442
+    },
+    {
+     "w": "et",
+     "start": 43.442,
+     "end": 43.581
+    },
+    {
+     "w": "il",
+     "start": 43.581,
+     "end": 43.721
+    },
+    {
+     "w": "a",
+     "start": 43.721,
+     "end": 43.82
+    },
+    {
+     "w": "jamais",
+     "start": 43.82,
+     "end": 44.119
+    },
+    {
+     "w": "digéré",
+     "start": 44.119,
+     "end": 44.417
+    },
+    {
+     "w": "que",
+     "start": 44.417,
+     "end": 44.596
+    },
+    {
+     "w": "Mikey",
+     "start": 44.596,
+     "end": 44.855
+    },
+    {
+     "w": "prenne",
+     "start": 44.855,
+     "end": 45.154
+    },
+    {
+     "w": "cette",
+     "start": 45.154,
+     "end": 45.412
+    },
+    {
+     "w": "place.",
+     "start": 45.412,
+     "end": 45.771
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 45.871,
+   "end": 51.402,
+   "slot_end": 51.502,
+   "text": "Numéro 2, Draken, le vice-président du Toman, avec son dragon tatoué sur la tempe. Un géant qui a peur de rien.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 45.871,
+     "end": 46.192
+    },
+    {
+     "w": "2,",
+     "start": 46.192,
+     "end": 46.406
+    },
+    {
+     "w": "Draken,",
+     "start": 46.406,
+     "end": 46.835
+    },
+    {
+     "w": "le",
+     "start": 46.835,
+     "end": 46.985
+    },
+    {
+     "w": "vice-président",
+     "start": 46.985,
+     "end": 47.607
+    },
+    {
+     "w": "du",
+     "start": 47.607,
+     "end": 47.757
+    },
+    {
+     "w": "Toman,",
+     "start": 47.757,
+     "end": 48.143
+    },
+    {
+     "w": "avec",
+     "start": 48.143,
+     "end": 48.379
+    },
+    {
+     "w": "son",
+     "start": 48.379,
+     "end": 48.572
+    },
+    {
+     "w": "dragon",
+     "start": 48.572,
+     "end": 48.893
+    },
+    {
+     "w": "tatoué",
+     "start": 48.893,
+     "end": 49.215
+    },
+    {
+     "w": "sur",
+     "start": 49.215,
+     "end": 49.408
+    },
+    {
+     "w": "la",
+     "start": 49.408,
+     "end": 49.558
+    },
+    {
+     "w": "tempe.",
+     "start": 49.558,
+     "end": 49.944
+    },
+    {
+     "w": "Un",
+     "start": 49.944,
+     "end": 50.094
+    },
+    {
+     "w": "géant",
+     "start": 50.094,
+     "end": 50.373
+    },
+    {
+     "w": "qui",
+     "start": 50.373,
+     "end": 50.566
+    },
+    {
+     "w": "a",
+     "start": 50.566,
+     "end": 50.673
+    },
+    {
+     "w": "peur",
+     "start": 50.673,
+     "end": 50.909
+    },
+    {
+     "w": "de",
+     "start": 50.909,
+     "end": 51.059
+    },
+    {
+     "w": "rien.",
+     "start": 51.059,
+     "end": 51.402
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 51.502,
+   "end": 58.316,
+   "slot_end": 58.416,
+   "text": "Mais le vrai pouvoir de Draken, c'est qu'il est la conscience de Mikey. Quand il est là, Mikey reste humain. Quand il est pas là, frr, ça part en vrille.",
+   "words": [
+    {
+     "w": "Mais",
+     "start": 51.502,
+     "end": 51.707
+    },
+    {
+     "w": "le",
+     "start": 51.707,
+     "end": 51.837
+    },
+    {
+     "w": "vrai",
+     "start": 51.837,
+     "end": 52.041
+    },
+    {
+     "w": "pouvoir",
+     "start": 52.041,
+     "end": 52.358
+    },
+    {
+     "w": "de",
+     "start": 52.358,
+     "end": 52.488
+    },
+    {
+     "w": "Draken,",
+     "start": 52.488,
+     "end": 52.86
+    },
+    {
+     "w": "c'est",
+     "start": 52.86,
+     "end": 53.065
+    },
+    {
+     "w": "qu'il",
+     "start": 53.065,
+     "end": 53.27
+    },
+    {
+     "w": "est",
+     "start": 53.27,
+     "end": 53.437
+    },
+    {
+     "w": "la",
+     "start": 53.437,
+     "end": 53.568
+    },
+    {
+     "w": "conscience",
+     "start": 53.568,
+     "end": 53.996
+    },
+    {
+     "w": "de",
+     "start": 53.996,
+     "end": 54.126
+    },
+    {
+     "w": "Mikey.",
+     "start": 54.126,
+     "end": 54.461
+    },
+    {
+     "w": "Quand",
+     "start": 54.461,
+     "end": 54.703
+    },
+    {
+     "w": "il",
+     "start": 54.703,
+     "end": 54.833
+    },
+    {
+     "w": "est",
+     "start": 54.833,
+     "end": 55.0
+    },
+    {
+     "w": "là,",
+     "start": 55.0,
+     "end": 55.224
+    },
+    {
+     "w": "Mikey",
+     "start": 55.224,
+     "end": 55.466
+    },
+    {
+     "w": "reste",
+     "start": 55.466,
+     "end": 55.708
+    },
+    {
+     "w": "humain.",
+     "start": 55.708,
+     "end": 56.08
+    },
+    {
+     "w": "Quand",
+     "start": 56.13,
+     "end": 56.391
+    },
+    {
+     "w": "il",
+     "start": 56.391,
+     "end": 56.531
+    },
+    {
+     "w": "est",
+     "start": 56.531,
+     "end": 56.711
+    },
+    {
+     "w": "pas",
+     "start": 56.711,
+     "end": 56.892
+    },
+    {
+     "w": "là,",
+     "start": 56.892,
+     "end": 57.133
+    },
+    {
+     "w": "frr,",
+     "start": 57.133,
+     "end": 57.413
+    },
+    {
+     "w": "ça",
+     "start": 57.413,
+     "end": 57.554
+    },
+    {
+     "w": "part",
+     "start": 57.554,
+     "end": 57.774
+    },
+    {
+     "w": "en",
+     "start": 57.774,
+     "end": 57.915
+    },
+    {
+     "w": "vrille.",
+     "start": 57.915,
+     "end": 58.316
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 58.416,
+   "end": 62.406,
+   "slot_end": 62.506,
+   "text": "Et numéro 1, évidemment, Mikey, l'invincible Mikey, le chef du Toman.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 58.416,
+     "end": 58.586
+    },
+    {
+     "w": "numéro",
+     "start": 58.586,
+     "end": 58.951
+    },
+    {
+     "w": "1,",
+     "start": 58.951,
+     "end": 59.194
+    },
+    {
+     "w": "évidemment,",
+     "start": 59.194,
+     "end": 59.876
+    },
+    {
+     "w": "Mikey,",
+     "start": 59.876,
+     "end": 60.313
+    },
+    {
+     "w": "l'invincible",
+     "start": 60.313,
+     "end": 60.922
+    },
+    {
+     "w": "Mikey,",
+     "start": 60.922,
+     "end": 61.36
+    },
+    {
+     "w": "le",
+     "start": 61.36,
+     "end": 61.53
+    },
+    {
+     "w": "chef",
+     "start": 61.53,
+     "end": 61.797
+    },
+    {
+     "w": "du",
+     "start": 61.797,
+     "end": 61.968
+    },
+    {
+     "w": "Toman.",
+     "start": 61.968,
+     "end": 62.406
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 62.506,
+   "end": 67.27,
+   "slot_end": 67.37,
+   "text": "Il fait des siestes partout, il réclame des dorayakis, et il met n'importe qui KO d'un seul coup de pied.",
+   "words": [
+    {
+     "w": "Il",
+     "start": 62.506,
+     "end": 62.646
+    },
+    {
+     "w": "fait",
+     "start": 62.646,
+     "end": 62.868
+    },
+    {
+     "w": "des",
+     "start": 62.868,
+     "end": 63.048
+    },
+    {
+     "w": "siestes",
+     "start": 63.048,
+     "end": 63.39
+    },
+    {
+     "w": "partout,",
+     "start": 63.39,
+     "end": 63.832
+    },
+    {
+     "w": "il",
+     "start": 63.832,
+     "end": 63.973
+    },
+    {
+     "w": "réclame",
+     "start": 63.973,
+     "end": 64.315
+    },
+    {
+     "w": "des",
+     "start": 64.315,
+     "end": 64.496
+    },
+    {
+     "w": "dorayakis,",
+     "start": 64.496,
+     "end": 65.019
+    },
+    {
+     "w": "et",
+     "start": 65.019,
+     "end": 65.159
+    },
+    {
+     "w": "il",
+     "start": 65.159,
+     "end": 65.3
+    },
+    {
+     "w": "met",
+     "start": 65.3,
+     "end": 65.481
+    },
+    {
+     "w": "n'importe",
+     "start": 65.481,
+     "end": 65.863
+    },
+    {
+     "w": "qui",
+     "start": 65.863,
+     "end": 66.044
+    },
+    {
+     "w": "KO",
+     "start": 66.044,
+     "end": 66.185
+    },
+    {
+     "w": "d'un",
+     "start": 66.185,
+     "end": 66.365
+    },
+    {
+     "w": "seul",
+     "start": 66.365,
+     "end": 66.587
+    },
+    {
+     "w": "coup",
+     "start": 66.587,
+     "end": 66.808
+    },
+    {
+     "w": "de",
+     "start": 66.808,
+     "end": 66.948
+    },
+    {
+     "w": "pied.",
+     "start": 66.948,
+     "end": 67.27
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 67.37,
+   "end": 74.266,
+   "slot_end": 74.366,
+   "text": "Et dans les Trois Dieux, Mikey a sa propre bande, le Kanto Manji. Takemichi va devoir l'affronter, et j'te jure que ça fait mal au cœur.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 67.37,
+     "end": 67.515
+    },
+    {
+     "w": "dans",
+     "start": 67.515,
+     "end": 67.743
+    },
+    {
+     "w": "les",
+     "start": 67.743,
+     "end": 67.929
+    },
+    {
+     "w": "Trois",
+     "start": 67.929,
+     "end": 68.198
+    },
+    {
+     "w": "Dieux,",
+     "start": 68.198,
+     "end": 68.571
+    },
+    {
+     "w": "Mikey",
+     "start": 68.571,
+     "end": 68.84
+    },
+    {
+     "w": "a",
+     "start": 68.84,
+     "end": 68.944
+    },
+    {
+     "w": "sa",
+     "start": 68.944,
+     "end": 69.089
+    },
+    {
+     "w": "propre",
+     "start": 69.089,
+     "end": 69.399
+    },
+    {
+     "w": "bande,",
+     "start": 69.399,
+     "end": 69.772
+    },
+    {
+     "w": "le",
+     "start": 69.772,
+     "end": 69.917
+    },
+    {
+     "w": "Kanto",
+     "start": 69.917,
+     "end": 70.186
+    },
+    {
+     "w": "Manji.",
+     "start": 70.186,
+     "end": 70.559
+    },
+    {
+     "w": "Takemichi",
+     "start": 70.609,
+     "end": 71.098
+    },
+    {
+     "w": "va",
+     "start": 71.098,
+     "end": 71.261
+    },
+    {
+     "w": "devoir",
+     "start": 71.261,
+     "end": 71.61
+    },
+    {
+     "w": "l'affronter,",
+     "start": 71.61,
+     "end": 72.263
+    },
+    {
+     "w": "et",
+     "start": 72.263,
+     "end": 72.426
+    },
+    {
+     "w": "j'te",
+     "start": 72.426,
+     "end": 72.635
+    },
+    {
+     "w": "jure",
+     "start": 72.635,
+     "end": 72.891
+    },
+    {
+     "w": "que",
+     "start": 72.891,
+     "end": 73.101
+    },
+    {
+     "w": "ça",
+     "start": 73.101,
+     "end": 73.264
+    },
+    {
+     "w": "fait",
+     "start": 73.264,
+     "end": 73.52
+    },
+    {
+     "w": "mal",
+     "start": 73.52,
+     "end": 73.73
+    },
+    {
+     "w": "au",
+     "start": 73.73,
+     "end": 73.893
+    },
+    {
+     "w": "cœur.",
+     "start": 73.893,
+     "end": 74.266
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 74.366,
+   "end": 78.812,
+   "slot_end": 78.912,
+   "text": "Moi j'aurais mis Baji plus haut, mais je suis pas objectif. C'est quoi ton top 1 ? Dis-le en com'.",
+   "words": [
+    {
+     "w": "Moi",
+     "start": 74.366,
+     "end": 74.546
+    },
+    {
+     "w": "j'aurais",
+     "start": 74.546,
+     "end": 74.886
+    },
+    {
+     "w": "mis",
+     "start": 74.886,
+     "end": 75.067
+    },
+    {
+     "w": "Baji",
+     "start": 75.067,
+     "end": 75.287
+    },
+    {
+     "w": "plus",
+     "start": 75.287,
+     "end": 75.507
+    },
+    {
+     "w": "haut,",
+     "start": 75.507,
+     "end": 75.828
+    },
+    {
+     "w": "mais",
+     "start": 75.828,
+     "end": 76.048
+    },
+    {
+     "w": "je",
+     "start": 76.048,
+     "end": 76.188
+    },
+    {
+     "w": "suis",
+     "start": 76.188,
+     "end": 76.409
+    },
+    {
+     "w": "pas",
+     "start": 76.409,
+     "end": 76.589
+    },
+    {
+     "w": "objectif.",
+     "start": 76.589,
+     "end": 77.07
+    },
+    {
+     "w": "C'est",
+     "start": 77.07,
+     "end": 77.29
+    },
+    {
+     "w": "quoi",
+     "start": 77.29,
+     "end": 77.51
+    },
+    {
+     "w": "ton",
+     "start": 77.51,
+     "end": 77.691
+    },
+    {
+     "w": "top",
+     "start": 77.691,
+     "end": 77.871
+    },
+    {
+     "w": "1",
+     "start": 77.871,
+     "end": 77.971
+    },
+    {
+     "w": "?",
+     "start": 77.971,
+     "end": 78.131
+    },
+    {
+     "w": "Dis-le",
+     "start": 78.131,
+     "end": 78.392
+    },
+    {
+     "w": "en",
+     "start": 78.392,
+     "end": 78.532
+    },
+    {
+     "w": "com'.",
+     "start": 78.532,
+     "end": 78.812
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "start": 78.912,
+   "end": 82.476,
+   "slot_end": 83.176,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 78.912,
+     "end": 79.407
+    },
+    {
+     "w": "Asura.",
+     "start": 79.407,
+     "end": 80.001
+    },
+    {
+     "w": "On",
+     "start": 80.001,
+     "end": 80.232
+    },
+    {
+     "w": "se",
+     "start": 80.232,
+     "end": 80.463
+    },
+    {
+     "w": "capte",
+     "start": 80.463,
+     "end": 80.892
+    },
+    {
+     "w": "au",
+     "start": 80.892,
+     "end": 81.123
+    },
+    {
+     "w": "prochain",
+     "start": 81.123,
+     "end": 81.75
+    },
+    {
+     "w": "épisode.",
+     "start": 81.75,
+     "end": 82.476
+    }
+   ]
+  }
+ ],
+ "aligned": false
+}
