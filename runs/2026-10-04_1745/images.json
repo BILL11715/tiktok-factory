@@ -1,0 +1,36 @@
+{
+ "Black Clover Season 2": {
+  "meta": {
+   "id": "50024",
+   "title": "Black Clover 2nd Season",
+   "titles": {
+    "en": "Black Clover Season 2",
+    "en_jp": "Black Clover 2nd Season",
+    "ja_jp": "ブラッククローバー 第2期"
+   },
+   "synopsis": "As tyranny engulfs the Clover Kingdom, Asta and the Magic Knights launch a desperate raid on the Spade Kingdom to rescue their squad captains from the Dark Triad. But their mission leads them into a brutal battle against forces beyond anything they’ve ever faced. Now, Asta must rise above impossible odds to protect his friends and honor the promise he made to Yuno.\n\n(Source: Crunchyroll)",
+   "episodes": 26,
+   "start": "2026-10-03",
+   "source": "https://kitsu.io/anime/Black-Clover-Season-2"
+  },
+  "wide": [
+   "/home/claude/tiktok-factory/runs/2026-10-04_1745/images/5a4a6dd395ac.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-04_1745/images/f822b6d3a6aa.jpg"
+  ],
+  "tall": [
+   "/home/claude/tiktok-factory/runs/2026-10-04_1745/images/9f2d215e10cf.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-04_1745/images/382dfbb721f6.jpg"
+  ],
+  "characters": {
+   "Asta": "/home/claude/tiktok-factory/runs/2026-10-04_1745/images/fc82adc0abcc.png",
+   "Noelle Silva": "/home/claude/tiktok-factory/runs/2026-10-04_1745/images/cee02dec2eb8.png",
+   "Yuno": "/home/claude/tiktok-factory/runs/2026-10-04_1745/images/8ab7be233071.png",
+   "Yami Sukehiro": "/home/claude/tiktok-factory/runs/2026-10-04_1745/images/5101749e4ebb.png",
+   "Nacht Faust": "/home/claude/tiktok-factory/runs/2026-10-04_1745/images/cc2b9e4a65d2.png"
+  },
+  "sources": [
+   "https://kitsu.io/anime/Black-Clover-Season-2",
+   "https://anilist.co/anime/195604"
+  ]
+ }
+}

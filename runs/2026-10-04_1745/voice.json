@@ -1,0 +1,1678 @@
+{
+ "engine": "piper",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-04_1745/voice.wav",
+ "duration": 89.759,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 2.961,
+   "slot_end": 3.061,
+   "text": "Le seul gamin sans magie du royaume veut devenir le plus grand mage.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 0.0,
+     "end": 0.135
+    },
+    {
+     "w": "seul",
+     "start": 0.135,
+     "end": 0.346
+    },
+    {
+     "w": "gamin",
+     "start": 0.346,
+     "end": 0.596
+    },
+    {
+     "w": "sans",
+     "start": 0.596,
+     "end": 0.808
+    },
+    {
+     "w": "magie",
+     "start": 0.808,
+     "end": 1.058
+    },
+    {
+     "w": "du",
+     "start": 1.058,
+     "end": 1.192
+    },
+    {
+     "w": "royaume",
+     "start": 1.192,
+     "end": 1.519
+    },
+    {
+     "w": "veut",
+     "start": 1.519,
+     "end": 1.731
+    },
+    {
+     "w": "devenir",
+     "start": 1.731,
+     "end": 2.057
+    },
+    {
+     "w": "le",
+     "start": 2.057,
+     "end": 2.192
+    },
+    {
+     "w": "plus",
+     "start": 2.192,
+     "end": 2.404
+    },
+    {
+     "w": "grand",
+     "start": 2.404,
+     "end": 2.653
+    },
+    {
+     "w": "mage.",
+     "start": 2.653,
+     "end": 2.961
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 3.061,
+   "end": 7.838,
+   "slot_end": 7.938,
+   "text": "Reste jusqu'au bout, j'te donne le nom à la fin, et la suite vient tout juste de sortir.",
+   "words": [
+    {
+     "w": "Reste",
+     "start": 3.061,
+     "end": 3.37
+    },
+    {
+     "w": "jusqu'au",
+     "start": 3.37,
+     "end": 3.774
+    },
+    {
+     "w": "bout,",
+     "start": 3.774,
+     "end": 4.154
+    },
+    {
+     "w": "j'te",
+     "start": 4.154,
+     "end": 4.368
+    },
+    {
+     "w": "donne",
+     "start": 4.368,
+     "end": 4.677
+    },
+    {
+     "w": "le",
+     "start": 4.677,
+     "end": 4.844
+    },
+    {
+     "w": "nom",
+     "start": 4.844,
+     "end": 5.058
+    },
+    {
+     "w": "à",
+     "start": 5.058,
+     "end": 5.176
+    },
+    {
+     "w": "la",
+     "start": 5.176,
+     "end": 5.343
+    },
+    {
+     "w": "fin,",
+     "start": 5.343,
+     "end": 5.676
+    },
+    {
+     "w": "et",
+     "start": 5.676,
+     "end": 5.842
+    },
+    {
+     "w": "la",
+     "start": 5.842,
+     "end": 6.008
+    },
+    {
+     "w": "suite",
+     "start": 6.008,
+     "end": 6.317
+    },
+    {
+     "w": "vient",
+     "start": 6.317,
+     "end": 6.626
+    },
+    {
+     "w": "tout",
+     "start": 6.626,
+     "end": 6.888
+    },
+    {
+     "w": "juste",
+     "start": 6.888,
+     "end": 7.197
+    },
+    {
+     "w": "de",
+     "start": 7.197,
+     "end": 7.363
+    },
+    {
+     "w": "sortir.",
+     "start": 7.363,
+     "end": 7.838
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 7.938,
+   "end": 14.143,
+   "slot_end": 14.243,
+   "text": "Le gamin, c'est Asta. Orphelin, élevé dans une église paumée avec son pote Yuno, et là-bas tout le monde fait de la magie.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 7.938,
+     "end": 8.094
+    },
+    {
+     "w": "gamin,",
+     "start": 8.094,
+     "end": 8.492
+    },
+    {
+     "w": "c'est",
+     "start": 8.492,
+     "end": 8.736
+    },
+    {
+     "w": "Asta.",
+     "start": 8.736,
+     "end": 9.091
+    },
+    {
+     "w": "Orphelin,",
+     "start": 9.091,
+     "end": 9.623
+    },
+    {
+     "w": "élevé",
+     "start": 9.623,
+     "end": 9.911
+    },
+    {
+     "w": "dans",
+     "start": 9.911,
+     "end": 10.155
+    },
+    {
+     "w": "une",
+     "start": 10.155,
+     "end": 10.354
+    },
+    {
+     "w": "église",
+     "start": 10.354,
+     "end": 10.686
+    },
+    {
+     "w": "paumée",
+     "start": 10.686,
+     "end": 11.019
+    },
+    {
+     "w": "avec",
+     "start": 11.019,
+     "end": 11.263
+    },
+    {
+     "w": "son",
+     "start": 11.263,
+     "end": 11.462
+    },
+    {
+     "w": "pote",
+     "start": 11.462,
+     "end": 11.706
+    },
+    {
+     "w": "Yuno,",
+     "start": 11.706,
+     "end": 12.06
+    },
+    {
+     "w": "et",
+     "start": 12.06,
+     "end": 12.215
+    },
+    {
+     "w": "là-bas",
+     "start": 12.215,
+     "end": 12.504
+    },
+    {
+     "w": "tout",
+     "start": 12.504,
+     "end": 12.747
+    },
+    {
+     "w": "le",
+     "start": 12.747,
+     "end": 12.902
+    },
+    {
+     "w": "monde",
+     "start": 12.902,
+     "end": 13.19
+    },
+    {
+     "w": "fait",
+     "start": 13.19,
+     "end": 13.434
+    },
+    {
+     "w": "de",
+     "start": 13.434,
+     "end": 13.589
+    },
+    {
+     "w": "la",
+     "start": 13.589,
+     "end": 13.745
+    },
+    {
+     "w": "magie.",
+     "start": 13.745,
+     "end": 14.143
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 14.243,
+   "end": 22.545,
+   "slot_end": 22.645,
+   "text": "Asta, lui, zéro. Pas une étincelle. Alors il compense comment ? Il fait des pompes, des milliers de pompes, frr. Et il veut quand même devenir Empereur-Mage.",
+   "words": [
+    {
+     "w": "Asta,",
+     "start": 14.243,
+     "end": 14.668
+    },
+    {
+     "w": "lui,",
+     "start": 14.668,
+     "end": 15.04
+    },
+    {
+     "w": "zéro.",
+     "start": 15.04,
+     "end": 15.465
+    },
+    {
+     "w": "Pas",
+     "start": 15.465,
+     "end": 15.704
+    },
+    {
+     "w": "une",
+     "start": 15.704,
+     "end": 15.943
+    },
+    {
+     "w": "étincelle.",
+     "start": 15.943,
+     "end": 16.633
+    },
+    {
+     "w": "Alors",
+     "start": 16.633,
+     "end": 16.978
+    },
+    {
+     "w": "il",
+     "start": 16.978,
+     "end": 17.164
+    },
+    {
+     "w": "compense",
+     "start": 17.164,
+     "end": 17.669
+    },
+    {
+     "w": "comment",
+     "start": 17.669,
+     "end": 18.12
+    },
+    {
+     "w": "?",
+     "start": 18.12,
+     "end": 18.332
+    },
+    {
+     "w": "Il",
+     "start": 18.382,
+     "end": 18.523
+    },
+    {
+     "w": "fait",
+     "start": 18.523,
+     "end": 18.744
+    },
+    {
+     "w": "des",
+     "start": 18.744,
+     "end": 18.924
+    },
+    {
+     "w": "pompes,",
+     "start": 18.924,
+     "end": 19.326
+    },
+    {
+     "w": "des",
+     "start": 19.326,
+     "end": 19.507
+    },
+    {
+     "w": "milliers",
+     "start": 19.507,
+     "end": 19.888
+    },
+    {
+     "w": "de",
+     "start": 19.888,
+     "end": 20.028
+    },
+    {
+     "w": "pompes,",
+     "start": 20.028,
+     "end": 20.43
+    },
+    {
+     "w": "frr.",
+     "start": 20.43,
+     "end": 20.711
+    },
+    {
+     "w": "Et",
+     "start": 20.761,
+     "end": 20.888
+    },
+    {
+     "w": "il",
+     "start": 20.888,
+     "end": 21.016
+    },
+    {
+     "w": "veut",
+     "start": 21.016,
+     "end": 21.216
+    },
+    {
+     "w": "quand",
+     "start": 21.216,
+     "end": 21.453
+    },
+    {
+     "w": "même",
+     "start": 21.453,
+     "end": 21.653
+    },
+    {
+     "w": "devenir",
+     "start": 21.653,
+     "end": 21.963
+    },
+    {
+     "w": "Empereur-Mage.",
+     "start": 21.963,
+     "end": 22.545
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 22.645,
+   "end": 28.83,
+   "slot_end": 28.93,
+   "text": "À quinze ans, chaque ado reçoit son grimoire. Yuno repart avec un trèfle à quatre feuilles, le truc ultra rare.",
+   "words": [
+    {
+     "w": "À",
+     "start": 22.645,
+     "end": 22.763
+    },
+    {
+     "w": "quinze",
+     "start": 22.763,
+     "end": 23.115
+    },
+    {
+     "w": "ans,",
+     "start": 23.115,
+     "end": 23.444
+    },
+    {
+     "w": "chaque",
+     "start": 23.444,
+     "end": 23.797
+    },
+    {
+     "w": "ado",
+     "start": 23.797,
+     "end": 24.008
+    },
+    {
+     "w": "reçoit",
+     "start": 24.008,
+     "end": 24.361
+    },
+    {
+     "w": "son",
+     "start": 24.361,
+     "end": 24.572
+    },
+    {
+     "w": "grimoire.",
+     "start": 24.572,
+     "end": 25.136
+    },
+    {
+     "w": "Yuno",
+     "start": 25.186,
+     "end": 25.453
+    },
+    {
+     "w": "repart",
+     "start": 25.453,
+     "end": 25.818
+    },
+    {
+     "w": "avec",
+     "start": 25.818,
+     "end": 26.085
+    },
+    {
+     "w": "un",
+     "start": 26.085,
+     "end": 26.255
+    },
+    {
+     "w": "trèfle",
+     "start": 26.255,
+     "end": 26.619
+    },
+    {
+     "w": "à",
+     "start": 26.619,
+     "end": 26.741
+    },
+    {
+     "w": "quatre",
+     "start": 26.741,
+     "end": 27.105
+    },
+    {
+     "w": "feuilles,",
+     "start": 27.105,
+     "end": 27.688
+    },
+    {
+     "w": "le",
+     "start": 27.688,
+     "end": 27.858
+    },
+    {
+     "w": "truc",
+     "start": 27.858,
+     "end": 28.125
+    },
+    {
+     "w": "ultra",
+     "start": 28.125,
+     "end": 28.441
+    },
+    {
+     "w": "rare.",
+     "start": 28.441,
+     "end": 28.83
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 28.93,
+   "end": 33.152,
+   "slot_end": 33.252,
+   "text": "Et Asta, il reçoit rien du tout. Il rentre les mains vides devant tout le village.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 28.93,
+     "end": 29.085
+    },
+    {
+     "w": "Asta,",
+     "start": 29.085,
+     "end": 29.438
+    },
+    {
+     "w": "il",
+     "start": 29.438,
+     "end": 29.593
+    },
+    {
+     "w": "reçoit",
+     "start": 29.593,
+     "end": 29.925
+    },
+    {
+     "w": "rien",
+     "start": 29.925,
+     "end": 30.168
+    },
+    {
+     "w": "du",
+     "start": 30.168,
+     "end": 30.323
+    },
+    {
+     "w": "tout.",
+     "start": 30.323,
+     "end": 30.676
+    },
+    {
+     "w": "Il",
+     "start": 30.676,
+     "end": 30.831
+    },
+    {
+     "w": "rentre",
+     "start": 30.831,
+     "end": 31.163
+    },
+    {
+     "w": "les",
+     "start": 31.163,
+     "end": 31.361
+    },
+    {
+     "w": "mains",
+     "start": 31.361,
+     "end": 31.649
+    },
+    {
+     "w": "vides",
+     "start": 31.649,
+     "end": 31.936
+    },
+    {
+     "w": "devant",
+     "start": 31.936,
+     "end": 32.268
+    },
+    {
+     "w": "tout",
+     "start": 32.268,
+     "end": 32.511
+    },
+    {
+     "w": "le",
+     "start": 32.511,
+     "end": 32.666
+    },
+    {
+     "w": "village.",
+     "start": 32.666,
+     "end": 33.152
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 33.252,
+   "end": 40.661,
+   "slot_end": 40.761,
+   "text": "Sauf que le soir même, un grimoire tout noir et tout abîmé débarque pour lui. Un trèfle à cinq feuilles, avec une épée géante dedans qui annule la magie.",
+   "words": [
+    {
+     "w": "Sauf",
+     "start": 33.252,
+     "end": 33.483
+    },
+    {
+     "w": "que",
+     "start": 33.483,
+     "end": 33.672
+    },
+    {
+     "w": "le",
+     "start": 33.672,
+     "end": 33.818
+    },
+    {
+     "w": "soir",
+     "start": 33.818,
+     "end": 34.049
+    },
+    {
+     "w": "même,",
+     "start": 34.049,
+     "end": 34.385
+    },
+    {
+     "w": "un",
+     "start": 34.385,
+     "end": 34.532
+    },
+    {
+     "w": "grimoire",
+     "start": 34.532,
+     "end": 34.93
+    },
+    {
+     "w": "tout",
+     "start": 34.93,
+     "end": 35.161
+    },
+    {
+     "w": "noir",
+     "start": 35.161,
+     "end": 35.392
+    },
+    {
+     "w": "et",
+     "start": 35.392,
+     "end": 35.539
+    },
+    {
+     "w": "tout",
+     "start": 35.539,
+     "end": 35.77
+    },
+    {
+     "w": "abîmé",
+     "start": 35.77,
+     "end": 36.042
+    },
+    {
+     "w": "débarque",
+     "start": 36.042,
+     "end": 36.441
+    },
+    {
+     "w": "pour",
+     "start": 36.441,
+     "end": 36.672
+    },
+    {
+     "w": "lui.",
+     "start": 36.672,
+     "end": 36.965
+    },
+    {
+     "w": "Un",
+     "start": 37.015,
+     "end": 37.164
+    },
+    {
+     "w": "trèfle",
+     "start": 37.164,
+     "end": 37.482
+    },
+    {
+     "w": "à",
+     "start": 37.482,
+     "end": 37.588
+    },
+    {
+     "w": "cinq",
+     "start": 37.588,
+     "end": 37.821
+    },
+    {
+     "w": "feuilles,",
+     "start": 37.821,
+     "end": 38.329
+    },
+    {
+     "w": "avec",
+     "start": 38.329,
+     "end": 38.562
+    },
+    {
+     "w": "une",
+     "start": 38.562,
+     "end": 38.753
+    },
+    {
+     "w": "épée",
+     "start": 38.753,
+     "end": 38.986
+    },
+    {
+     "w": "géante",
+     "start": 38.986,
+     "end": 39.304
+    },
+    {
+     "w": "dedans",
+     "start": 39.304,
+     "end": 39.622
+    },
+    {
+     "w": "qui",
+     "start": 39.622,
+     "end": 39.813
+    },
+    {
+     "w": "annule",
+     "start": 39.813,
+     "end": 40.131
+    },
+    {
+     "w": "la",
+     "start": 40.131,
+     "end": 40.279
+    },
+    {
+     "w": "magie.",
+     "start": 40.279,
+     "end": 40.661
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 40.761,
+   "end": 45.974,
+   "slot_end": 46.074,
+   "text": "Si t'aimes les persos qui partent de rien et qui défoncent tout, abonne-toi, j'te sors une reco comme ça tous les jours.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 40.761,
+     "end": 40.897
+    },
+    {
+     "w": "t'aimes",
+     "start": 40.897,
+     "end": 41.19
+    },
+    {
+     "w": "les",
+     "start": 41.19,
+     "end": 41.366
+    },
+    {
+     "w": "persos",
+     "start": 41.366,
+     "end": 41.659
+    },
+    {
+     "w": "qui",
+     "start": 41.659,
+     "end": 41.834
+    },
+    {
+     "w": "partent",
+     "start": 41.834,
+     "end": 42.166
+    },
+    {
+     "w": "de",
+     "start": 42.166,
+     "end": 42.303
+    },
+    {
+     "w": "rien",
+     "start": 42.303,
+     "end": 42.518
+    },
+    {
+     "w": "et",
+     "start": 42.518,
+     "end": 42.654
+    },
+    {
+     "w": "qui",
+     "start": 42.654,
+     "end": 42.83
+    },
+    {
+     "w": "défoncent",
+     "start": 42.83,
+     "end": 43.24
+    },
+    {
+     "w": "tout,",
+     "start": 43.24,
+     "end": 43.553
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 43.553,
+     "end": 44.06
+    },
+    {
+     "w": "j'te",
+     "start": 44.06,
+     "end": 44.236
+    },
+    {
+     "w": "sors",
+     "start": 44.236,
+     "end": 44.451
+    },
+    {
+     "w": "une",
+     "start": 44.451,
+     "end": 44.626
+    },
+    {
+     "w": "reco",
+     "start": 44.626,
+     "end": 44.841
+    },
+    {
+     "w": "comme",
+     "start": 44.841,
+     "end": 45.095
+    },
+    {
+     "w": "ça",
+     "start": 45.095,
+     "end": 45.232
+    },
+    {
+     "w": "tous",
+     "start": 45.232,
+     "end": 45.447
+    },
+    {
+     "w": "les",
+     "start": 45.447,
+     "end": 45.622
+    },
+    {
+     "w": "jours.",
+     "start": 45.622,
+     "end": 45.974
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 46.074,
+   "end": 54.744,
+   "slot_end": 54.844,
+   "text": "Ensuite il atterrit chez les Taureaux Noirs, la brigade la plus mal vue du royaume. Et leur capitaine Yami, c'est mon perso préféré, il menace tout le monde entre deux pauses toilettes.",
+   "words": [
+    {
+     "w": "Ensuite",
+     "start": 46.074,
+     "end": 46.459
+    },
+    {
+     "w": "il",
+     "start": 46.459,
+     "end": 46.618
+    },
+    {
+     "w": "atterrit",
+     "start": 46.618,
+     "end": 47.048
+    },
+    {
+     "w": "chez",
+     "start": 47.048,
+     "end": 47.298
+    },
+    {
+     "w": "les",
+     "start": 47.298,
+     "end": 47.502
+    },
+    {
+     "w": "Taureaux",
+     "start": 47.502,
+     "end": 47.932
+    },
+    {
+     "w": "Noirs,",
+     "start": 47.932,
+     "end": 48.34
+    },
+    {
+     "w": "la",
+     "start": 48.34,
+     "end": 48.499
+    },
+    {
+     "w": "brigade",
+     "start": 48.499,
+     "end": 48.884
+    },
+    {
+     "w": "la",
+     "start": 48.884,
+     "end": 49.043
+    },
+    {
+     "w": "plus",
+     "start": 49.043,
+     "end": 49.292
+    },
+    {
+     "w": "mal",
+     "start": 49.292,
+     "end": 49.496
+    },
+    {
+     "w": "vue",
+     "start": 49.496,
+     "end": 49.7
+    },
+    {
+     "w": "du",
+     "start": 49.7,
+     "end": 49.859
+    },
+    {
+     "w": "royaume.",
+     "start": 49.859,
+     "end": 50.357
+    },
+    {
+     "w": "Et",
+     "start": 50.407,
+     "end": 50.54
+    },
+    {
+     "w": "leur",
+     "start": 50.54,
+     "end": 50.749
+    },
+    {
+     "w": "capitaine",
+     "start": 50.749,
+     "end": 51.149
+    },
+    {
+     "w": "Yami,",
+     "start": 51.149,
+     "end": 51.453
+    },
+    {
+     "w": "c'est",
+     "start": 51.453,
+     "end": 51.662
+    },
+    {
+     "w": "mon",
+     "start": 51.662,
+     "end": 51.834
+    },
+    {
+     "w": "perso",
+     "start": 51.834,
+     "end": 52.081
+    },
+    {
+     "w": "préféré,",
+     "start": 52.081,
+     "end": 52.499
+    },
+    {
+     "w": "il",
+     "start": 52.499,
+     "end": 52.632
+    },
+    {
+     "w": "menace",
+     "start": 52.632,
+     "end": 52.918
+    },
+    {
+     "w": "tout",
+     "start": 52.918,
+     "end": 53.127
+    },
+    {
+     "w": "le",
+     "start": 53.127,
+     "end": 53.26
+    },
+    {
+     "w": "monde",
+     "start": 53.26,
+     "end": 53.507
+    },
+    {
+     "w": "entre",
+     "start": 53.507,
+     "end": 53.755
+    },
+    {
+     "w": "deux",
+     "start": 53.755,
+     "end": 53.964
+    },
+    {
+     "w": "pauses",
+     "start": 53.964,
+     "end": 54.249
+    },
+    {
+     "w": "toilettes.",
+     "start": 54.249,
+     "end": 54.744
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 54.844,
+   "end": 60.098,
+   "slot_end": 60.198,
+   "text": "Y'a aussi Noelle, une princesse qui arrive même pas à viser avec sa propre magie, ses sorts partent dans tous les sens.",
+   "words": [
+    {
+     "w": "Y'a",
+     "start": 54.844,
+     "end": 54.98
+    },
+    {
+     "w": "aussi",
+     "start": 54.98,
+     "end": 55.234
+    },
+    {
+     "w": "Noelle,",
+     "start": 55.234,
+     "end": 55.625
+    },
+    {
+     "w": "une",
+     "start": 55.625,
+     "end": 55.801
+    },
+    {
+     "w": "princesse",
+     "start": 55.801,
+     "end": 56.211
+    },
+    {
+     "w": "qui",
+     "start": 56.211,
+     "end": 56.387
+    },
+    {
+     "w": "arrive",
+     "start": 56.387,
+     "end": 56.68
+    },
+    {
+     "w": "même",
+     "start": 56.68,
+     "end": 56.894
+    },
+    {
+     "w": "pas",
+     "start": 56.894,
+     "end": 57.07
+    },
+    {
+     "w": "à",
+     "start": 57.07,
+     "end": 57.168
+    },
+    {
+     "w": "viser",
+     "start": 57.168,
+     "end": 57.422
+    },
+    {
+     "w": "avec",
+     "start": 57.422,
+     "end": 57.637
+    },
+    {
+     "w": "sa",
+     "start": 57.637,
+     "end": 57.773
+    },
+    {
+     "w": "propre",
+     "start": 57.773,
+     "end": 58.066
+    },
+    {
+     "w": "magie,",
+     "start": 58.066,
+     "end": 58.418
+    },
+    {
+     "w": "ses",
+     "start": 58.418,
+     "end": 58.594
+    },
+    {
+     "w": "sorts",
+     "start": 58.594,
+     "end": 58.848
+    },
+    {
+     "w": "partent",
+     "start": 58.848,
+     "end": 59.18
+    },
+    {
+     "w": "dans",
+     "start": 59.18,
+     "end": 59.395
+    },
+    {
+     "w": "tous",
+     "start": 59.395,
+     "end": 59.609
+    },
+    {
+     "w": "les",
+     "start": 59.609,
+     "end": 59.785
+    },
+    {
+     "w": "sens.",
+     "start": 59.785,
+     "end": 60.098
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 60.198,
+   "end": 68.875,
+   "slot_end": 68.975,
+   "text": "Bon, j'vais être honnête. Les premiers épisodes, Asta crie. Beaucoup. Genre vraiment beaucoup, et plein de gens ont lâché.",
+   "words": [
+    {
+     "w": "Bon,",
+     "start": 60.198,
+     "end": 60.735
+    },
+    {
+     "w": "j'vais",
+     "start": 60.735,
+     "end": 61.234
+    },
+    {
+     "w": "être",
+     "start": 61.234,
+     "end": 61.657
+    },
+    {
+     "w": "honnête.",
+     "start": 61.657,
+     "end": 62.501
+    },
+    {
+     "w": "Les",
+     "start": 62.501,
+     "end": 62.847
+    },
+    {
+     "w": "premiers",
+     "start": 62.847,
+     "end": 63.577
+    },
+    {
+     "w": "épisodes,",
+     "start": 63.577,
+     "end": 64.498
+    },
+    {
+     "w": "Asta",
+     "start": 64.498,
+     "end": 64.92
+    },
+    {
+     "w": "crie.",
+     "start": 64.92,
+     "end": 65.535
+    },
+    {
+     "w": "Beaucoup.",
+     "start": 65.535,
+     "end": 66.456
+    },
+    {
+     "w": "Genre",
+     "start": 66.506,
+     "end": 66.761
+    },
+    {
+     "w": "vraiment",
+     "start": 66.761,
+     "end": 67.133
+    },
+    {
+     "w": "beaucoup,",
+     "start": 67.133,
+     "end": 67.602
+    },
+    {
+     "w": "et",
+     "start": 67.602,
+     "end": 67.739
+    },
+    {
+     "w": "plein",
+     "start": 67.739,
+     "end": 67.994
+    },
+    {
+     "w": "de",
+     "start": 67.994,
+     "end": 68.131
+    },
+    {
+     "w": "gens",
+     "start": 68.131,
+     "end": 68.346
+    },
+    {
+     "w": "ont",
+     "start": 68.346,
+     "end": 68.522
+    },
+    {
+     "w": "lâché.",
+     "start": 68.522,
+     "end": 68.875
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 68.975,
+   "end": 74.216,
+   "slot_end": 74.316,
+   "text": "Mon avis ? Grosse erreur. Tiens bon, après ça part en combats de malade et l'animation devient folle.",
+   "words": [
+    {
+     "w": "Mon",
+     "start": 68.975,
+     "end": 69.178
+    },
+    {
+     "w": "avis",
+     "start": 69.178,
+     "end": 69.427
+    },
+    {
+     "w": "?",
+     "start": 69.427,
+     "end": 69.607
+    },
+    {
+     "w": "Grosse",
+     "start": 69.607,
+     "end": 69.946
+    },
+    {
+     "w": "erreur.",
+     "start": 69.946,
+     "end": 70.398
+    },
+    {
+     "w": "Tiens",
+     "start": 70.398,
+     "end": 70.692
+    },
+    {
+     "w": "bon,",
+     "start": 70.692,
+     "end": 71.008
+    },
+    {
+     "w": "après",
+     "start": 71.008,
+     "end": 71.302
+    },
+    {
+     "w": "ça",
+     "start": 71.302,
+     "end": 71.46
+    },
+    {
+     "w": "part",
+     "start": 71.46,
+     "end": 71.708
+    },
+    {
+     "w": "en",
+     "start": 71.708,
+     "end": 71.866
+    },
+    {
+     "w": "combats",
+     "start": 71.866,
+     "end": 72.25
+    },
+    {
+     "w": "de",
+     "start": 72.25,
+     "end": 72.408
+    },
+    {
+     "w": "malade",
+     "start": 72.408,
+     "end": 72.747
+    },
+    {
+     "w": "et",
+     "start": 72.747,
+     "end": 72.905
+    },
+    {
+     "w": "l'animation",
+     "start": 72.905,
+     "end": 73.425
+    },
+    {
+     "w": "devient",
+     "start": 73.425,
+     "end": 73.809
+    },
+    {
+     "w": "folle.",
+     "start": 73.809,
+     "end": 74.216
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 74.316,
+   "end": 79.252,
+   "slot_end": 79.352,
+   "text": "Et le timing est parfait. Après plus de cinq ans de pause, la saison 2 vient de commencer ce week-end.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 74.316,
+     "end": 74.464
+    },
+    {
+     "w": "le",
+     "start": 74.464,
+     "end": 74.612
+    },
+    {
+     "w": "timing",
+     "start": 74.612,
+     "end": 74.93
+    },
+    {
+     "w": "est",
+     "start": 74.93,
+     "end": 75.121
+    },
+    {
+     "w": "parfait.",
+     "start": 75.121,
+     "end": 75.587
+    },
+    {
+     "w": "Après",
+     "start": 75.587,
+     "end": 75.862
+    },
+    {
+     "w": "plus",
+     "start": 75.862,
+     "end": 76.095
+    },
+    {
+     "w": "de",
+     "start": 76.095,
+     "end": 76.244
+    },
+    {
+     "w": "cinq",
+     "start": 76.244,
+     "end": 76.477
+    },
+    {
+     "w": "ans",
+     "start": 76.477,
+     "end": 76.667
+    },
+    {
+     "w": "de",
+     "start": 76.667,
+     "end": 76.816
+    },
+    {
+     "w": "pause,",
+     "start": 76.816,
+     "end": 77.197
+    },
+    {
+     "w": "la",
+     "start": 77.197,
+     "end": 77.345
+    },
+    {
+     "w": "saison",
+     "start": 77.345,
+     "end": 77.663
+    },
+    {
+     "w": "2",
+     "start": 77.663,
+     "end": 77.769
+    },
+    {
+     "w": "vient",
+     "start": 77.769,
+     "end": 78.044
+    },
+    {
+     "w": "de",
+     "start": 78.044,
+     "end": 78.193
+    },
+    {
+     "w": "commencer",
+     "start": 78.193,
+     "end": 78.638
+    },
+    {
+     "w": "ce",
+     "start": 78.638,
+     "end": 78.786
+    },
+    {
+     "w": "week-end.",
+     "start": 78.786,
+     "end": 79.252
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 79.352,
+   "end": 84.98,
+   "slot_end": 85.08,
+   "text": "T'as encore le temps de rattraper. L'anime, c'est Black Clover. Dis-moi en com' si t'avais lâché à cause des cris.",
+   "words": [
+    {
+     "w": "T'as",
+     "start": 79.352,
+     "end": 79.565
+    },
+    {
+     "w": "encore",
+     "start": 79.565,
+     "end": 79.921
+    },
+    {
+     "w": "le",
+     "start": 79.921,
+     "end": 80.087
+    },
+    {
+     "w": "temps",
+     "start": 80.087,
+     "end": 80.395
+    },
+    {
+     "w": "de",
+     "start": 80.395,
+     "end": 80.561
+    },
+    {
+     "w": "rattraper.",
+     "start": 80.561,
+     "end": 81.177
+    },
+    {
+     "w": "L'anime,",
+     "start": 81.177,
+     "end": 81.651
+    },
+    {
+     "w": "c'est",
+     "start": 81.651,
+     "end": 81.912
+    },
+    {
+     "w": "Black",
+     "start": 81.912,
+     "end": 82.22
+    },
+    {
+     "w": "Clover.",
+     "start": 82.22,
+     "end": 82.695
+    },
+    {
+     "w": "Dis-moi",
+     "start": 82.745,
+     "end": 83.052
+    },
+    {
+     "w": "en",
+     "start": 83.052,
+     "end": 83.196
+    },
+    {
+     "w": "com'",
+     "start": 83.196,
+     "end": 83.38
+    },
+    {
+     "w": "si",
+     "start": 83.38,
+     "end": 83.524
+    },
+    {
+     "w": "t'avais",
+     "start": 83.524,
+     "end": 83.832
+    },
+    {
+     "w": "lâché",
+     "start": 83.832,
+     "end": 84.098
+    },
+    {
+     "w": "à",
+     "start": 84.098,
+     "end": 84.201
+    },
+    {
+     "w": "cause",
+     "start": 84.201,
+     "end": 84.468
+    },
+    {
+     "w": "des",
+     "start": 84.468,
+     "end": 84.652
+    },
+    {
+     "w": "cris.",
+     "start": 84.652,
+     "end": 84.98
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 85.08,
+   "end": 89.059,
+   "slot_end": 89.759,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 85.08,
+     "end": 85.633
+    },
+    {
+     "w": "Asura.",
+     "start": 85.633,
+     "end": 86.296
+    },
+    {
+     "w": "On",
+     "start": 86.296,
+     "end": 86.554
+    },
+    {
+     "w": "se",
+     "start": 86.554,
+     "end": 86.812
+    },
+    {
+     "w": "capte",
+     "start": 86.812,
+     "end": 87.291
+    },
+    {
+     "w": "au",
+     "start": 87.291,
+     "end": 87.548
+    },
+    {
+     "w": "prochain",
+     "start": 87.548,
+     "end": 88.248
+    },
+    {
+     "w": "épisode.",
+     "start": 88.248,
+     "end": 89.059
+    }
+   ]
+  }
+ ],
+ "aligned": false
+}
