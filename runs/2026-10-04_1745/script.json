@@ -1,0 +1,111 @@
+{
+ "title": "Reco : le seul gamin sans magie veut devenir le plus grand mage",
+ "format": "reco",
+ "tone": "pote",
+ "music": "pote",
+ "animes": [
+  "Black Clover Season 2"
+ ],
+ "hook_text": "Le seul gamin sans magie du royaume veut devenir le plus grand mage",
+ "spoiler": false,
+ "segments": [
+  {
+   "text": "Le seul gamin sans magie du royaume veut devenir le plus grand mage.",
+   "sfx": true,
+   "emphasis": [
+    "sans magie"
+   ]
+  },
+  {
+   "text": "[whispering] Reste jusqu'au bout, j'te donne le nom à la fin, et la suite vient tout juste de sortir."
+  },
+  {
+   "text": "Le gamin, c'est Asta. Orphelin, élevé dans une église paumée avec son pote Yuno, et là-bas tout le monde fait de la magie.",
+   "emphasis": [
+    "Asta"
+   ],
+   "shots": [
+    {
+     "anime": "Black Clover Season 2",
+     "kind": "character",
+     "character": "Asta",
+     "at": "Asta"
+    }
+   ]
+  },
+  {
+   "text": "Asta, lui, zéro. Pas une étincelle. Alors il compense comment ? Il fait des pompes, des milliers de pompes, frr. Et il veut quand même devenir Empereur-Mage.",
+   "emphasis": [
+    "zéro"
+   ]
+  },
+  {
+   "text": "À quinze ans, chaque ado reçoit son grimoire. Yuno repart avec un trèfle à quatre feuilles, le truc ultra rare.",
+   "emphasis": [
+    "quatre feuilles"
+   ]
+  },
+  {
+   "text": "Et Asta, il reçoit rien du tout. Il rentre les mains vides devant tout le village.",
+   "grade": "bw"
+  },
+  {
+   "text": "[surprised] Sauf que le soir même, un grimoire tout noir et tout abîmé débarque pour lui. Un trèfle à cinq feuilles, avec une épée géante dedans qui annule la magie.",
+   "sfx": true,
+   "stamp": "ANTI-MAGIE",
+   "emphasis": [
+    "cinq feuilles"
+   ]
+  },
+  {
+   "text": "Si t'aimes les persos qui partent de rien et qui défoncent tout, abonne-toi, j'te sors une reco comme ça tous les jours.",
+   "cta": true
+  },
+  {
+   "text": "Ensuite il atterrit chez les Taureaux Noirs, la brigade la plus mal vue du royaume. Et leur capitaine Yami, c'est mon perso préféré, il menace tout le monde entre deux pauses toilettes.",
+   "emphasis": [
+    "Yami"
+   ]
+  },
+  {
+   "text": "Y'a aussi Noelle, une princesse qui arrive même pas à viser avec sa propre magie, ses sorts partent dans tous les sens.",
+   "emphasis": [
+    "Noelle"
+   ]
+  },
+  {
+   "text": "[laughing] Bon, j'vais être honnête. Les premiers épisodes, Asta crie. Beaucoup. Genre vraiment beaucoup, et plein de gens ont lâché."
+  },
+  {
+   "text": "Mon avis ? Grosse erreur. Tiens bon, après ça part en combats de malade et l'animation devient folle.",
+   "stamp": "SOUS-COTÉ",
+   "emphasis": [
+    "Grosse erreur"
+   ]
+  },
+  {
+   "text": "[excited] Et le timing est parfait. Après plus de cinq ans de pause, la saison 2 vient de commencer ce week-end.",
+   "sfx": true,
+   "emphasis": [
+    "saison 2"
+   ]
+  },
+  {
+   "text": "T'as encore le temps de rattraper. L'anime, c'est Black Clover. Dis-moi en com' si t'avais lâché à cause des cris.",
+   "emphasis": [
+    "Black Clover"
+   ]
+  }
+ ],
+ "reveal_text": "Black Clover",
+ "reveal_segments": 1,
+ "caption": "Zéro magie, des milliers de pompes et une épée qui annule tout ⚔️ t'avais lâché à cause des cris d'Asta ?",
+ "hashtags": [
+  "#anime",
+  "#manga",
+  "#animefr",
+  "#otakufr",
+  "#blackclover",
+  "#recommandationanime"
+ ]
+}

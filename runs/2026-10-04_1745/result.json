@@ -1,0 +1,21 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-04_1745/video.mp4",
+ "duration": 89.759,
+ "shots": 73,
+ "sources": [
+  "https://anilist.co/anime/195604",
+  "https://kitsu.io/anime/Black-Clover-Season-2"
+ ],
+ "music": {
+  "file": "pote.mp3",
+  "bpm": 184.6,
+  "offset": 47.39
+ },
+ "sfx": 23,
+ "engine": "remotion (OpenMontage)",
+ "voice_engine": "piper",
+ "repo_path": "videos/2026/10/2026-10-04_1745.mp4",
+ "raw_url": "https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/videos/2026/10/2026-10-04_1745.mp4",
+ "lint": [],
+ "render_seconds": 1873.5
+}
