@@ -1,0 +1,30 @@
+{
+  "title": "Reco : le gamin qui voit tout le terrain d'en haut",
+  "format": "reco",
+  "tone": "pote",
+  "music": "pote",
+  "animes": ["Aoashi Season 2"],
+  "hook_text": "Ce gamin voit tout le terrain d'en haut, et on le met défenseur",
+  "spoiler": false,
+  "segments": [
+    {"text": "Ce gamin voit tout le terrain d'en haut, et on le met défenseur.", "sfx": true, "emphasis": ["défenseur"]},
+    {"text": "[whispering] Reste jusqu'au bout, la saison 2 a démarré ce week-end et j'te donne le nom à la fin.", "emphasis": ["saison 2"]},
+    {"text": "Ashito, c'est un gosse d'Ehime, un coin paumé du Japon. Il joue attaquant et il court partout comme un fou.", "emphasis": ["attaquant"]},
+    {"text": "Il veut passer pro pour sa mère, qui se tue au boulot pour l'élever avec son grand frère.", "emphasis": ["pro"]},
+    {"text": "Sauf qu'en plein match important, il pète un câble et coule son équipe. Là, tu te dis que c'est fini.", "grade": "bw", "emphasis": ["fini"]},
+    {"text": "[surprised] Mais dans les tribunes y'a Fukuda, ancien pro et coach des jeunes de Tokyo City Esperion.", "sfx": true, "emphasis": ["Fukuda"]},
+    {"text": "Et Fukuda capte un truc que personne a vu. Ashito peut te replacer chaque joueur du terrain, comme s'il regardait le match depuis le ciel.", "emphasis": ["ciel"], "stamp": "VISION"},
+    {"text": "Si toi aussi t'aimes les animes de sport qui parlent de vrai foot, abonne-toi, j'te sors une reco presque tous les jours.", "cta": true},
+    {"text": "Bref, il monte à Tokyo pour les sélections, et il se prend une claque. Kuribayashi, le génie du club, joue dans une autre dimension.", "emphasis": ["Kuribayashi"]},
+    {"text": "Akutsu le déteste direct et lui parle comme à un chien. [laughing] Tu vas le détester toi aussi, au début.", "emphasis": ["Akutsu"]},
+    {"text": "Et après arrive le twist que tous les fans ont vécu comme une trahison. Fukuda le fait passer d'attaquant à latéral, lui qui vit que pour marquer.", "grade": "bw", "sfx": true, "emphasis": ["latéral"], "stamp": "DÉFENSEUR"},
+    {"text": "[excited] Et c'est là que ça devient chaud, parce qu'il doit tout réapprendre et il comprend enfin pourquoi sa vision vaut de l'or derrière.", "emphasis": ["vision"]},
+    {"text": "Mon avis, y'a pas débat. Blue Lock c'est l'ego et les gros pouvoirs, là c'est le cerveau, la tactique, la vraie galère d'un centre de formation.", "emphasis": ["cerveau"]},
+    {"text": "Si t'as kiffé Blue Lock mais que tu veux un truc plus terre à terre, c'est pour toi. Le nom maintenant.", "emphasis": ["terre à terre"]},
+    {"text": "C'est Aoashi, et la saison 2 vient de commencer. Dis-moi en com' si t'es team Blue Lock ou team Aoashi.", "emphasis": ["Aoashi"]}
+  ],
+  "reveal_text": "Aoashi",
+  "reveal_segments": 1,
+  "caption": "Le meilleur anime de foot, c'est pas celui que tu crois ⚽ team Blue Lock ou team Aoashi ?",
+  "hashtags": ["#anime", "#manga", "#animefr", "#mangafr", "#aoashi", "#recommandationanime"]
+}
