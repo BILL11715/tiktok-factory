@@ -1,0 +1,28 @@
+{
+ "title": "Top 5 des Stands les plus cheatés de Steel Ball Run",
+ "format": "top",
+ "tone": "hype",
+ "music": "hype",
+ "animes": ["STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE"],
+ "hook_text": "Le Stand numéro 1 de Steel Ball Run peut tuer un président intouchable",
+ "spoiler": true,
+ "spoiler_label": "manga",
+ "segments": [
+  {"text": "Le Stand numéro 1 de Steel Ball Run peut tuer un président intouchable.", "sfx": true, "emphasis": ["intouchable"], "grade": "bw"},
+  {"text": "[whispering] Et le mec qui l'utilise peut même pas marcher. Reste jusqu'au bout, le top 1 va en énerver certains.", "emphasis": ["marcher"]},
+  {"text": "Numéro 5, Mandom, le Stand de Ringo Roadagain. Il rembobine le temps de six secondes.", "overlay": "#5", "sfx": true, "emphasis": ["Mandom"]},
+  {"text": "Six secondes ça paraît rien, sauf qu'en duel au pistolet, t'as droit à un deuxième essai à chaque fois.", "emphasis": ["duel"]},
+  {"text": "Numéro 4, Scary Monsters, le Stand de Diego Brando. Il se transforme en dinosaure et il contamine les autres pour en faire son armée.", "overlay": "#4", "emphasis": ["dinosaure"]},
+  {"text": "[laughing] Et quand tu crois que t'es tranquille, y'a un autre Diego qui débarque d'un autre monde avec The World. Il arrête le temps, frr.", "stamp": "CHEATÉ", "emphasis": ["The World"]},
+  {"text": "Si t'es en train de mater Steel Ball Run en ce moment, abonne-toi, j'en parle à chaque nouvel épisode de la saison.", "cta": true, "emphasis": ["abonne-toi"]},
+  {"text": "Numéro 3, Ball Breaker, la technique ultime de Gyro Zeppeli. Avec la rotation dorée, ses boules d'acier font vieillir tout ce qu'elles touchent.", "overlay": "#3", "sfx": true, "emphasis": ["Ball Breaker"]},
+  {"text": "[sad] Ce que Gyro donne pour la lancer, j'te dis rien, mais ceux qui ont lu le manga savent. J'en ai encore mal.", "grade": "bw", "emphasis": ["Gyro"]},
+  {"text": "Numéro 2, D4C Love Train, le Stand du président Funny Valentine. Avec le Corps du Saint, tout le malheur qui le vise part ailleurs dans le monde.", "overlay": "#2", "emphasis": ["Love Train"]},
+  {"text": "[angry] Tu lui tires dessus, la balle rate et c'est un inconnu à l'autre bout de la planète qui prend. Franchement c'est abusé.", "emphasis": ["abusé"]},
+  {"text": "[excited] Et numéro 1, Tusk Act 4, le Stand de Johnny Joestar, le jockey paralysé. Avec la rotation infinie, son ongle continue de tourner sans jamais s'arrêter.", "overlay": "#1", "sfx": true, "stamp": "INARRÊTABLE", "emphasis": ["Tusk Act 4"]},
+  {"text": "C'est la seule attaque qui passe à travers Love Train. Même Valentine peut rien faire, la rotation le poursuit jusqu'au bout.", "emphasis": ["Valentine"]},
+  {"text": "Pour moi, c'est le meilleur power up de toute la saga JoJo, et j'assume. Et toi, c'est quoi ton top 1 ? Dis-moi en com'.", "emphasis": ["top 1"]}
+ ],
+ "caption": "Le top 1 bat un président qui renvoie le malheur sur le reste du monde 😳 c'est quoi ton top 1 ?",
+ "hashtags": ["#anime", "#manga", "#animefr", "#mangafr", "#steelballrun", "#topanime"]
+}
