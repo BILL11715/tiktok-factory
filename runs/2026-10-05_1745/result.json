@@ -1,0 +1,21 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-05_1745/video.mp4",
+ "duration": 89.64,
+ "shots": 48,
+ "sources": [
+  "https://anilist.co/anime/204011",
+  "https://kitsu.io/anime/psyren"
+ ],
+ "music": {
+  "file": "mystere.mp3",
+  "bpm": 152.0,
+  "offset": 15.36
+ },
+ "sfx": 28,
+ "engine": "remotion (OpenMontage)",
+ "voice_engine": "piper",
+ "repo_path": "videos/2026/10/2026-10-05_1745.mp4",
+ "raw_url": "https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/videos/2026/10/2026-10-05_1745.mp4",
+ "lint": [],
+ "render_seconds": 1114.0
+}

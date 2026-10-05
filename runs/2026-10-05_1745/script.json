@@ -1,0 +1,119 @@
+{
+  "title": "Reco : une carte téléphonique rouge t'envoie dans un Japon en ruines",
+  "format": "reco",
+  "tone": "pote",
+  "music": "mystere",
+  "animes": [
+    "PSYREN"
+  ],
+  "hook_text": "Tu passes un coup de fil, et tu te réveilles dans un Japon en ruines",
+  "spoiler": false,
+  "segments": [
+    {
+      "text": "Tu passes un coup de fil, et tu te réveilles dans un Japon en ruines.",
+      "sfx": true,
+      "emphasis": [
+        "ruines"
+      ],
+      "grade": "bw"
+    },
+    {
+      "text": "[whispering] Reste jusqu'à la fin, j'te donne le nom, et il vient tout juste de sortir en anime.",
+      "emphasis": [
+        "fin"
+      ]
+    },
+    {
+      "text": "Le héros s'appelle Ageha. Un lycéen qui règle les galères des autres contre de l'argent, genre petit mercenaire de quartier.",
+      "emphasis": [
+        "Ageha"
+      ]
+    },
+    {
+      "text": "Un jour il tombe sur une carte téléphonique rouge, avec un seul mot écrit dessus. Et y'a une rumeur en ville : ceux qui utilisent cette carte disparaissent.",
+      "emphasis": [
+        "rouge"
+      ]
+    },
+    {
+      "text": "[surprised] Évidemment, lui il appelle. Une voix lui pose des questions, il répond, et là tout bascule.",
+      "sfx": true,
+      "emphasis": [
+        "appelle"
+      ],
+      "stamp": "DISPARU"
+    },
+    {
+      "text": "Il se retrouve dans un désert rempli de monstres, avec d'autres paumés qui ont reçu la même carte. Pas de sortie, juste survivre.",
+      "grade": "bw",
+      "emphasis": [
+        "survivre"
+      ]
+    },
+    {
+      "text": "Et au milieu de tout ça y'a Sakurako, une fille de sa classe qui avait déjà disparu avant lui. Elle sait des trucs, et elle dit rien.",
+      "emphasis": [
+        "Sakurako"
+      ]
+    },
+    {
+      "text": "Si toi aussi t'en as marre de mater toujours les mêmes séries, abonne-toi, j'te sors des recos comme ça tous les jours.",
+      "cta": true,
+      "emphasis": [
+        "abonne-toi"
+      ]
+    },
+    {
+      "text": "[excited] Mais attends, le vrai twist il arrive vite. Ce monde en ruines, c'est pas une autre planète, et c'est pas un jeu non plus.",
+      "sfx": true,
+      "emphasis": [
+        "twist"
+      ]
+    },
+    {
+      "text": "C'est leur Japon à eux, dans le futur. Et chaque retour dans le présent, ils peuvent essayer de changer ce qui va arriver.",
+      "emphasis": [
+        "futur"
+      ]
+    },
+    {
+      "text": "Là-bas ils débloquent des pouvoirs psychiques. Ageha sort une sphère noire qui détruit tout ce qu'elle touche, le design est chaud.",
+      "emphasis": [
+        "sphère"
+      ]
+    },
+    {
+      "text": "Y'a aussi Hiryu, son pote d'enfance, qui débarque plus tard et devient force un des persos les plus stylés.",
+      "emphasis": [
+        "Hiryu"
+      ]
+    },
+    {
+      "text": "[sigh] Mon avis ? C'est le manga Jump que tout le monde a oublié, alors qu'il avait tout. Il a attendu des années pour avoir son anime.",
+      "emphasis": [
+        "oublié"
+      ],
+      "stamp": "SOUS-COTÉ"
+    },
+    {
+      "text": "Si t'as aimé Gantz ou Alice in Borderland, fonce, c'est exactement ce mélange de survie et de mystère.",
+      "emphasis": [
+        "fonce"
+      ]
+    },
+    {
+      "text": "[excited] L'anime, c'est Psyren. Dis-moi en com' si t'avais déjà entendu parler du manga."
+    }
+  ],
+  "reveal_text": "PSYREN",
+  "reveal_segments": 1,
+  "caption": "Une carte rouge, un appel, et t'es plus dans ton monde 📞 tu connaissais le manga ?",
+  "hashtags": [
+    "#anime",
+    "#manga",
+    "#animefr",
+    "#mangafr",
+    "#psyren",
+    "#recommandationanime"
+  ]
+}
