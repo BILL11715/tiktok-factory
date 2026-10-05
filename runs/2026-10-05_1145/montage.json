@@ -1,0 +1,16 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-05_1145/video.mp4",
+ "duration": 86.394,
+ "shots": 63,
+ "sources": [
+  "https://anilist.co/anime/191788",
+  "https://kitsu.io/anime/aoashi-2nd-season"
+ ],
+ "music": {
+  "file": "pote.mp3",
+  "bpm": 184.6,
+  "offset": 47.39
+ },
+ "sfx": 23,
+ "engine": "remotion (OpenMontage)"
+}

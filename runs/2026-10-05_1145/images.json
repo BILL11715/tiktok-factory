@@ -1,0 +1,54 @@
+{
+ "Aoashi Season 2": {
+  "meta": {
+   "id": "49883",
+   "title": "Aoashi 2nd Season",
+   "titles": {
+    "en_jp": "Aoashi 2nd Season",
+    "ja_jp": "アオアシ 第2期"
+   },
+   "synopsis": "The second season of Aoashi.",
+   "episodes": null,
+   "start": "2026-10-04",
+   "source": "https://kitsu.io/anime/aoashi-2nd-season"
+  },
+  "wide": [
+   "/home/claude/tiktok-factory/runs/2026-10-05_1145/images/e36cb2b1bd26.jpg"
+  ],
+  "tall": [
+   "/home/claude/tiktok-factory/runs/2026-10-05_1145/images/84cfd22bbfaa.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-05_1145/images/fd9bac13fb84.jpg"
+  ],
+  "characters": {
+   "Ashito  Aoi": "/home/claude/tiktok-factory/runs/2026-10-05_1145/images/36890d53053a.png",
+   "Hana Ichijou": "/home/claude/tiktok-factory/runs/2026-10-05_1145/images/299ad5610cbf.jpg",
+   "Nagisa Akutsu": "/home/claude/tiktok-factory/runs/2026-10-05_1145/images/47fcd1b6bfab.png",
+   "Tatsuya Fukuda": "/home/claude/tiktok-factory/runs/2026-10-05_1145/images/af3d3d40c954.png",
+   "Yuuma Motoki": "/home/claude/tiktok-factory/runs/2026-10-05_1145/images/61e7048911d5.png",
+   "Eisaku Otomo": "/home/claude/tiktok-factory/runs/2026-10-05_1145/images/f061c9124eb1.png",
+   "Haruhisa Kuribayashi": "/home/claude/tiktok-factory/runs/2026-10-05_1145/images/2335595f56a7.jpg",
+   "Keiji Togashi": "/home/claude/tiktok-factory/runs/2026-10-05_1145/images/b8f64010fb3f.png",
+   "Jun Asari-Marchs": "/home/claude/tiktok-factory/runs/2026-10-05_1145/images/1e7177daf5c2.png",
+   "Anri Kaido": "/home/claude/tiktok-factory/runs/2026-10-05_1145/images/27c2484bfa58.png",
+   "Souichirou Tachibana": "/home/claude/tiktok-factory/runs/2026-10-05_1145/images/2520e199a12e.png",
+   "Kenta Yoshitsune": "/home/claude/tiktok-factory/runs/2026-10-05_1145/images/bdbe0d6200ef.png",
+   "Nozomi Date": "/home/claude/tiktok-factory/runs/2026-10-05_1145/images/b50d65e2c5e3.png",
+   "Ryuuichi Takeshima": "/home/claude/tiktok-factory/runs/2026-10-05_1145/images/9ab5643092ff.png",
+   "Taira Nakamura": "/home/claude/tiktok-factory/runs/2026-10-05_1145/images/89cecf2af8d6.png",
+   "Kanpei Kuroda": "/home/claude/tiktok-factory/runs/2026-10-05_1145/images/d1f06141377e.png",
+   "Youichi Kiriki": "/home/claude/tiktok-factory/runs/2026-10-05_1145/images/f9782aa13979.jpg",
+   "Aki Tsukishima": "/home/claude/tiktok-factory/runs/2026-10-05_1145/images/b0796cee9694.png",
+   "Enshin Akiyama": "/home/claude/tiktok-factory/runs/2026-10-05_1145/images/e74936c6f6a7.jpg",
+   "Miyako Tachibana": "/home/claude/tiktok-factory/runs/2026-10-05_1145/images/6ef7c41404ef.png",
+   "Kyou Shimura": "/home/claude/tiktok-factory/runs/2026-10-05_1145/images/7bce130a1522.png",
+   "Ojek Mino": "/home/claude/tiktok-factory/runs/2026-10-05_1145/images/ce6d55341d45.jpg",
+   "Eita Takasugi": "/home/claude/tiktok-factory/runs/2026-10-05_1145/images/2b6c0b175dcf.png",
+   "Kunitaka Matsunaga": "/home/claude/tiktok-factory/runs/2026-10-05_1145/images/9e4a74cdd489.jpg",
+   "Katsumi Mito": "/home/claude/tiktok-factory/runs/2026-10-05_1145/images/0ff07012e3ba.jpg"
+  },
+  "sources": [
+   "https://kitsu.io/anime/aoashi-2nd-season",
+   "https://anilist.co/anime/191788"
+  ]
+ }
+}

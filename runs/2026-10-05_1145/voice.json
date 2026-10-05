@@ -1,0 +1,1752 @@
+{
+ "engine": "piper",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-05_1145/voice.wav",
+ "duration": 86.394,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 2.827,
+   "slot_end": 2.927,
+   "text": "Ce gamin voit tout le terrain d'en haut, et on le met défenseur.",
+   "words": [
+    {
+     "w": "Ce",
+     "start": 0.0,
+     "end": 0.135
+    },
+    {
+     "w": "gamin",
+     "start": 0.135,
+     "end": 0.385
+    },
+    {
+     "w": "voit",
+     "start": 0.385,
+     "end": 0.596
+    },
+    {
+     "w": "tout",
+     "start": 0.596,
+     "end": 0.808
+    },
+    {
+     "w": "le",
+     "start": 0.808,
+     "end": 0.942
+    },
+    {
+     "w": "terrain",
+     "start": 0.942,
+     "end": 1.269
+    },
+    {
+     "w": "d'en",
+     "start": 1.269,
+     "end": 1.443
+    },
+    {
+     "w": "haut,",
+     "start": 1.443,
+     "end": 1.75
+    },
+    {
+     "w": "et",
+     "start": 1.75,
+     "end": 1.885
+    },
+    {
+     "w": "on",
+     "start": 1.885,
+     "end": 2.02
+    },
+    {
+     "w": "le",
+     "start": 2.02,
+     "end": 2.154
+    },
+    {
+     "w": "met",
+     "start": 2.154,
+     "end": 2.327
+    },
+    {
+     "w": "défenseur.",
+     "start": 2.327,
+     "end": 2.827
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 2.927,
+   "end": 7.284,
+   "slot_end": 7.384,
+   "text": "Reste jusqu'au bout, la saison 2 a démarré ce week-end et j'te donne le nom à la fin.",
+   "words": [
+    {
+     "w": "Reste",
+     "start": 2.927,
+     "end": 3.225
+    },
+    {
+     "w": "jusqu'au",
+     "start": 3.225,
+     "end": 3.615
+    },
+    {
+     "w": "bout,",
+     "start": 3.615,
+     "end": 3.982
+    },
+    {
+     "w": "la",
+     "start": 3.982,
+     "end": 4.143
+    },
+    {
+     "w": "saison",
+     "start": 4.143,
+     "end": 4.486
+    },
+    {
+     "w": "2",
+     "start": 4.486,
+     "end": 4.601
+    },
+    {
+     "w": "a",
+     "start": 4.601,
+     "end": 4.716
+    },
+    {
+     "w": "démarré",
+     "start": 4.716,
+     "end": 5.105
+    },
+    {
+     "w": "ce",
+     "start": 5.105,
+     "end": 5.266
+    },
+    {
+     "w": "week-end",
+     "start": 5.266,
+     "end": 5.656
+    },
+    {
+     "w": "et",
+     "start": 5.656,
+     "end": 5.816
+    },
+    {
+     "w": "j'te",
+     "start": 5.816,
+     "end": 6.023
+    },
+    {
+     "w": "donne",
+     "start": 6.023,
+     "end": 6.321
+    },
+    {
+     "w": "le",
+     "start": 6.321,
+     "end": 6.481
+    },
+    {
+     "w": "nom",
+     "start": 6.481,
+     "end": 6.688
+    },
+    {
+     "w": "à",
+     "start": 6.688,
+     "end": 6.802
+    },
+    {
+     "w": "la",
+     "start": 6.802,
+     "end": 6.963
+    },
+    {
+     "w": "fin.",
+     "start": 6.963,
+     "end": 7.284
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 7.384,
+   "end": 12.715,
+   "slot_end": 12.815,
+   "text": "Ashito, c'est un gosse d'Ehime, un coin paumé du Japon. Il joue attaquant et il court partout comme un fou.",
+   "words": [
+    {
+     "w": "Ashito,",
+     "start": 7.384,
+     "end": 7.86
+    },
+    {
+     "w": "c'est",
+     "start": 7.86,
+     "end": 8.122
+    },
+    {
+     "w": "un",
+     "start": 8.122,
+     "end": 8.289
+    },
+    {
+     "w": "gosse",
+     "start": 8.289,
+     "end": 8.599
+    },
+    {
+     "w": "d'Ehime,",
+     "start": 8.599,
+     "end": 9.075
+    },
+    {
+     "w": "un",
+     "start": 9.075,
+     "end": 9.242
+    },
+    {
+     "w": "coin",
+     "start": 9.242,
+     "end": 9.504
+    },
+    {
+     "w": "paumé",
+     "start": 9.504,
+     "end": 9.814
+    },
+    {
+     "w": "du",
+     "start": 9.814,
+     "end": 9.981
+    },
+    {
+     "w": "Japon.",
+     "start": 9.981,
+     "end": 10.41
+    },
+    {
+     "w": "Il",
+     "start": 10.46,
+     "end": 10.595
+    },
+    {
+     "w": "joue",
+     "start": 10.595,
+     "end": 10.807
+    },
+    {
+     "w": "attaquant",
+     "start": 10.807,
+     "end": 11.212
+    },
+    {
+     "w": "et",
+     "start": 11.212,
+     "end": 11.346
+    },
+    {
+     "w": "il",
+     "start": 11.346,
+     "end": 11.481
+    },
+    {
+     "w": "court",
+     "start": 11.481,
+     "end": 11.732
+    },
+    {
+     "w": "partout",
+     "start": 11.732,
+     "end": 12.06
+    },
+    {
+     "w": "comme",
+     "start": 12.06,
+     "end": 12.31
+    },
+    {
+     "w": "un",
+     "start": 12.31,
+     "end": 12.445
+    },
+    {
+     "w": "fou.",
+     "start": 12.445,
+     "end": 12.715
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 12.815,
+   "end": 17.108,
+   "slot_end": 17.208,
+   "text": "Il veut passer pro pour sa mère, qui se tue au boulot pour l'élever avec son grand frère.",
+   "words": [
+    {
+     "w": "Il",
+     "start": 12.815,
+     "end": 12.964
+    },
+    {
+     "w": "veut",
+     "start": 12.964,
+     "end": 13.197
+    },
+    {
+     "w": "passer",
+     "start": 13.197,
+     "end": 13.516
+    },
+    {
+     "w": "pro",
+     "start": 13.516,
+     "end": 13.708
+    },
+    {
+     "w": "pour",
+     "start": 13.708,
+     "end": 13.941
+    },
+    {
+     "w": "sa",
+     "start": 13.941,
+     "end": 14.09
+    },
+    {
+     "w": "mère,",
+     "start": 14.09,
+     "end": 14.43
+    },
+    {
+     "w": "qui",
+     "start": 14.43,
+     "end": 14.621
+    },
+    {
+     "w": "se",
+     "start": 14.621,
+     "end": 14.77
+    },
+    {
+     "w": "tue",
+     "start": 14.77,
+     "end": 14.962
+    },
+    {
+     "w": "au",
+     "start": 14.962,
+     "end": 15.11
+    },
+    {
+     "w": "boulot",
+     "start": 15.11,
+     "end": 15.429
+    },
+    {
+     "w": "pour",
+     "start": 15.429,
+     "end": 15.663
+    },
+    {
+     "w": "l'élever",
+     "start": 15.663,
+     "end": 16.024
+    },
+    {
+     "w": "avec",
+     "start": 16.024,
+     "end": 16.258
+    },
+    {
+     "w": "son",
+     "start": 16.258,
+     "end": 16.449
+    },
+    {
+     "w": "grand",
+     "start": 16.449,
+     "end": 16.726
+    },
+    {
+     "w": "frère.",
+     "start": 16.726,
+     "end": 17.108
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 17.208,
+   "end": 23.397,
+   "slot_end": 23.497,
+   "text": "Sauf qu'en plein match important, il pète un câble et coule son équipe. Là, tu te dis que c'est fini.",
+   "words": [
+    {
+     "w": "Sauf",
+     "start": 17.208,
+     "end": 17.502
+    },
+    {
+     "w": "qu'en",
+     "start": 17.502,
+     "end": 17.795
+    },
+    {
+     "w": "plein",
+     "start": 17.795,
+     "end": 18.142
+    },
+    {
+     "w": "match",
+     "start": 18.142,
+     "end": 18.489
+    },
+    {
+     "w": "important,",
+     "start": 18.489,
+     "end": 19.182
+    },
+    {
+     "w": "il",
+     "start": 19.182,
+     "end": 19.369
+    },
+    {
+     "w": "pète",
+     "start": 19.369,
+     "end": 19.662
+    },
+    {
+     "w": "un",
+     "start": 19.662,
+     "end": 19.849
+    },
+    {
+     "w": "câble",
+     "start": 19.849,
+     "end": 20.196
+    },
+    {
+     "w": "et",
+     "start": 20.196,
+     "end": 20.383
+    },
+    {
+     "w": "coule",
+     "start": 20.383,
+     "end": 20.729
+    },
+    {
+     "w": "son",
+     "start": 20.729,
+     "end": 20.969
+    },
+    {
+     "w": "équipe.",
+     "start": 20.969,
+     "end": 21.503
+    },
+    {
+     "w": "Là,",
+     "start": 21.503,
+     "end": 21.823
+    },
+    {
+     "w": "tu",
+     "start": 21.823,
+     "end": 22.01
+    },
+    {
+     "w": "te",
+     "start": 22.01,
+     "end": 22.197
+    },
+    {
+     "w": "dis",
+     "start": 22.197,
+     "end": 22.437
+    },
+    {
+     "w": "que",
+     "start": 22.437,
+     "end": 22.677
+    },
+    {
+     "w": "c'est",
+     "start": 22.677,
+     "end": 22.97
+    },
+    {
+     "w": "fini.",
+     "start": 22.97,
+     "end": 23.397
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 23.497,
+   "end": 28.128,
+   "slot_end": 28.228,
+   "text": "Mais dans les tribunes y'a Fukuda, ancien pro et coach des jeunes de Tokyo City Esperion.",
+   "words": [
+    {
+     "w": "Mais",
+     "start": 23.497,
+     "end": 23.752
+    },
+    {
+     "w": "dans",
+     "start": 23.752,
+     "end": 24.006
+    },
+    {
+     "w": "les",
+     "start": 24.006,
+     "end": 24.215
+    },
+    {
+     "w": "tribunes",
+     "start": 24.215,
+     "end": 24.655
+    },
+    {
+     "w": "y'a",
+     "start": 24.655,
+     "end": 24.817
+    },
+    {
+     "w": "Fukuda,",
+     "start": 24.817,
+     "end": 25.28
+    },
+    {
+     "w": "ancien",
+     "start": 25.28,
+     "end": 25.627
+    },
+    {
+     "w": "pro",
+     "start": 25.627,
+     "end": 25.836
+    },
+    {
+     "w": "et",
+     "start": 25.836,
+     "end": 25.998
+    },
+    {
+     "w": "coach",
+     "start": 25.998,
+     "end": 26.299
+    },
+    {
+     "w": "des",
+     "start": 26.299,
+     "end": 26.507
+    },
+    {
+     "w": "jeunes",
+     "start": 26.507,
+     "end": 26.855
+    },
+    {
+     "w": "de",
+     "start": 26.855,
+     "end": 27.017
+    },
+    {
+     "w": "Tokyo",
+     "start": 27.017,
+     "end": 27.318
+    },
+    {
+     "w": "City",
+     "start": 27.318,
+     "end": 27.572
+    },
+    {
+     "w": "Esperion.",
+     "start": 27.572,
+     "end": 28.128
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 28.228,
+   "end": 34.454,
+   "slot_end": 34.554,
+   "text": "Et Fukuda capte un truc que personne a vu. Ashito peut te replacer chaque joueur du terrain, comme s'il regardait le match depuis le ciel.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 28.228,
+     "end": 28.366
+    },
+    {
+     "w": "Fukuda",
+     "start": 28.366,
+     "end": 28.66
+    },
+    {
+     "w": "capte",
+     "start": 28.66,
+     "end": 28.915
+    },
+    {
+     "w": "un",
+     "start": 28.915,
+     "end": 29.053
+    },
+    {
+     "w": "truc",
+     "start": 29.053,
+     "end": 29.268
+    },
+    {
+     "w": "que",
+     "start": 29.268,
+     "end": 29.445
+    },
+    {
+     "w": "personne",
+     "start": 29.445,
+     "end": 29.818
+    },
+    {
+     "w": "a",
+     "start": 29.818,
+     "end": 29.916
+    },
+    {
+     "w": "vu.",
+     "start": 29.916,
+     "end": 30.152
+    },
+    {
+     "w": "Ashito",
+     "start": 30.202,
+     "end": 30.502
+    },
+    {
+     "w": "peut",
+     "start": 30.502,
+     "end": 30.723
+    },
+    {
+     "w": "te",
+     "start": 30.723,
+     "end": 30.864
+    },
+    {
+     "w": "replacer",
+     "start": 30.864,
+     "end": 31.245
+    },
+    {
+     "w": "chaque",
+     "start": 31.245,
+     "end": 31.546
+    },
+    {
+     "w": "joueur",
+     "start": 31.546,
+     "end": 31.846
+    },
+    {
+     "w": "du",
+     "start": 31.846,
+     "end": 31.987
+    },
+    {
+     "w": "terrain,",
+     "start": 31.987,
+     "end": 32.428
+    },
+    {
+     "w": "comme",
+     "start": 32.428,
+     "end": 32.689
+    },
+    {
+     "w": "s'il",
+     "start": 32.689,
+     "end": 32.87
+    },
+    {
+     "w": "regardait",
+     "start": 32.87,
+     "end": 33.291
+    },
+    {
+     "w": "le",
+     "start": 33.291,
+     "end": 33.431
+    },
+    {
+     "w": "match",
+     "start": 33.431,
+     "end": 33.692
+    },
+    {
+     "w": "depuis",
+     "start": 33.692,
+     "end": 33.993
+    },
+    {
+     "w": "le",
+     "start": 33.993,
+     "end": 34.133
+    },
+    {
+     "w": "ciel.",
+     "start": 34.133,
+     "end": 34.454
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 34.554,
+   "end": 39.401,
+   "slot_end": 39.501,
+   "text": "Si toi aussi t'aimes les animes de sport qui parlent de vrai foot, abonne-toi, j'te sors une reco presque tous les jours.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 34.554,
+     "end": 34.68
+    },
+    {
+     "w": "toi",
+     "start": 34.68,
+     "end": 34.843
+    },
+    {
+     "w": "aussi",
+     "start": 34.843,
+     "end": 35.077
+    },
+    {
+     "w": "t'aimes",
+     "start": 35.077,
+     "end": 35.347
+    },
+    {
+     "w": "les",
+     "start": 35.347,
+     "end": 35.509
+    },
+    {
+     "w": "animes",
+     "start": 35.509,
+     "end": 35.779
+    },
+    {
+     "w": "de",
+     "start": 35.779,
+     "end": 35.906
+    },
+    {
+     "w": "sport",
+     "start": 35.906,
+     "end": 36.14
+    },
+    {
+     "w": "qui",
+     "start": 36.14,
+     "end": 36.302
+    },
+    {
+     "w": "parlent",
+     "start": 36.302,
+     "end": 36.608
+    },
+    {
+     "w": "de",
+     "start": 36.608,
+     "end": 36.734
+    },
+    {
+     "w": "vrai",
+     "start": 36.734,
+     "end": 36.932
+    },
+    {
+     "w": "foot,",
+     "start": 36.932,
+     "end": 37.221
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 37.221,
+     "end": 37.689
+    },
+    {
+     "w": "j'te",
+     "start": 37.689,
+     "end": 37.851
+    },
+    {
+     "w": "sors",
+     "start": 37.851,
+     "end": 38.05
+    },
+    {
+     "w": "une",
+     "start": 38.05,
+     "end": 38.212
+    },
+    {
+     "w": "reco",
+     "start": 38.212,
+     "end": 38.41
+    },
+    {
+     "w": "presque",
+     "start": 38.41,
+     "end": 38.716
+    },
+    {
+     "w": "tous",
+     "start": 38.716,
+     "end": 38.914
+    },
+    {
+     "w": "les",
+     "start": 38.914,
+     "end": 39.076
+    },
+    {
+     "w": "jours.",
+     "start": 39.076,
+     "end": 39.401
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 39.501,
+   "end": 45.97,
+   "slot_end": 46.07,
+   "text": "Bref, il monte à Tokyo pour les sélections, et il se prend une claque. Kuribayashi, le génie du club, joue dans une autre dimension.",
+   "words": [
+    {
+     "w": "Bref,",
+     "start": 39.501,
+     "end": 39.819
+    },
+    {
+     "w": "il",
+     "start": 39.819,
+     "end": 39.958
+    },
+    {
+     "w": "monte",
+     "start": 39.958,
+     "end": 40.216
+    },
+    {
+     "w": "à",
+     "start": 40.216,
+     "end": 40.316
+    },
+    {
+     "w": "Tokyo",
+     "start": 40.316,
+     "end": 40.574
+    },
+    {
+     "w": "pour",
+     "start": 40.574,
+     "end": 40.793
+    },
+    {
+     "w": "les",
+     "start": 40.793,
+     "end": 40.972
+    },
+    {
+     "w": "sélections,",
+     "start": 40.972,
+     "end": 41.528
+    },
+    {
+     "w": "et",
+     "start": 41.528,
+     "end": 41.668
+    },
+    {
+     "w": "il",
+     "start": 41.668,
+     "end": 41.807
+    },
+    {
+     "w": "se",
+     "start": 41.807,
+     "end": 41.946
+    },
+    {
+     "w": "prend",
+     "start": 41.946,
+     "end": 42.204
+    },
+    {
+     "w": "une",
+     "start": 42.204,
+     "end": 42.383
+    },
+    {
+     "w": "claque.",
+     "start": 42.383,
+     "end": 42.781
+    },
+    {
+     "w": "Kuribayashi,",
+     "start": 42.831,
+     "end": 43.489
+    },
+    {
+     "w": "le",
+     "start": 43.489,
+     "end": 43.643
+    },
+    {
+     "w": "génie",
+     "start": 43.643,
+     "end": 43.928
+    },
+    {
+     "w": "du",
+     "start": 43.928,
+     "end": 44.082
+    },
+    {
+     "w": "club,",
+     "start": 44.082,
+     "end": 44.433
+    },
+    {
+     "w": "joue",
+     "start": 44.433,
+     "end": 44.675
+    },
+    {
+     "w": "dans",
+     "start": 44.675,
+     "end": 44.916
+    },
+    {
+     "w": "une",
+     "start": 44.916,
+     "end": 45.114
+    },
+    {
+     "w": "autre",
+     "start": 45.114,
+     "end": 45.399
+    },
+    {
+     "w": "dimension.",
+     "start": 45.399,
+     "end": 45.97
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 46.07,
+   "end": 50.514,
+   "slot_end": 50.614,
+   "text": "Akutsu le déteste direct et lui parle comme à un chien. Tu vas le détester toi aussi, au début.",
+   "words": [
+    {
+     "w": "Akutsu",
+     "start": 46.07,
+     "end": 46.389
+    },
+    {
+     "w": "le",
+     "start": 46.389,
+     "end": 46.539
+    },
+    {
+     "w": "déteste",
+     "start": 46.539,
+     "end": 46.901
+    },
+    {
+     "w": "direct",
+     "start": 46.901,
+     "end": 47.221
+    },
+    {
+     "w": "et",
+     "start": 47.221,
+     "end": 47.37
+    },
+    {
+     "w": "lui",
+     "start": 47.37,
+     "end": 47.562
+    },
+    {
+     "w": "parle",
+     "start": 47.562,
+     "end": 47.839
+    },
+    {
+     "w": "comme",
+     "start": 47.839,
+     "end": 48.116
+    },
+    {
+     "w": "à",
+     "start": 48.116,
+     "end": 48.223
+    },
+    {
+     "w": "un",
+     "start": 48.223,
+     "end": 48.372
+    },
+    {
+     "w": "chien.",
+     "start": 48.372,
+     "end": 48.756
+    },
+    {
+     "w": "Tu",
+     "start": 48.806,
+     "end": 48.933
+    },
+    {
+     "w": "vas",
+     "start": 48.933,
+     "end": 49.096
+    },
+    {
+     "w": "le",
+     "start": 49.096,
+     "end": 49.224
+    },
+    {
+     "w": "détester",
+     "start": 49.224,
+     "end": 49.569
+    },
+    {
+     "w": "toi",
+     "start": 49.569,
+     "end": 49.733
+    },
+    {
+     "w": "aussi,",
+     "start": 49.733,
+     "end": 50.06
+    },
+    {
+     "w": "au",
+     "start": 50.06,
+     "end": 50.187
+    },
+    {
+     "w": "début.",
+     "start": 50.187,
+     "end": 50.514
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 50.614,
+   "end": 57.647,
+   "slot_end": 57.747,
+   "text": "Et après arrive le twist que tous les fans ont vécu comme une trahison. Fukuda le fait passer d'attaquant à latéral, lui qui vit que pour marquer.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 50.614,
+     "end": 50.755
+    },
+    {
+     "w": "après",
+     "start": 50.755,
+     "end": 51.015
+    },
+    {
+     "w": "arrive",
+     "start": 51.015,
+     "end": 51.316
+    },
+    {
+     "w": "le",
+     "start": 51.316,
+     "end": 51.457
+    },
+    {
+     "w": "twist",
+     "start": 51.457,
+     "end": 51.717
+    },
+    {
+     "w": "que",
+     "start": 51.717,
+     "end": 51.898
+    },
+    {
+     "w": "tous",
+     "start": 51.898,
+     "end": 52.118
+    },
+    {
+     "w": "les",
+     "start": 52.118,
+     "end": 52.299
+    },
+    {
+     "w": "fans",
+     "start": 52.299,
+     "end": 52.52
+    },
+    {
+     "w": "ont",
+     "start": 52.52,
+     "end": 52.7
+    },
+    {
+     "w": "vécu",
+     "start": 52.7,
+     "end": 52.921
+    },
+    {
+     "w": "comme",
+     "start": 52.921,
+     "end": 53.181
+    },
+    {
+     "w": "une",
+     "start": 53.181,
+     "end": 53.362
+    },
+    {
+     "w": "trahison.",
+     "start": 53.362,
+     "end": 53.843
+    },
+    {
+     "w": "Fukuda",
+     "start": 53.893,
+     "end": 54.23
+    },
+    {
+     "w": "le",
+     "start": 54.23,
+     "end": 54.388
+    },
+    {
+     "w": "fait",
+     "start": 54.388,
+     "end": 54.635
+    },
+    {
+     "w": "passer",
+     "start": 54.635,
+     "end": 54.972
+    },
+    {
+     "w": "d'attaquant",
+     "start": 54.972,
+     "end": 55.489
+    },
+    {
+     "w": "à",
+     "start": 55.489,
+     "end": 55.602
+    },
+    {
+     "w": "latéral,",
+     "start": 55.602,
+     "end": 56.096
+    },
+    {
+     "w": "lui",
+     "start": 56.096,
+     "end": 56.298
+    },
+    {
+     "w": "qui",
+     "start": 56.298,
+     "end": 56.501
+    },
+    {
+     "w": "vit",
+     "start": 56.501,
+     "end": 56.703
+    },
+    {
+     "w": "que",
+     "start": 56.703,
+     "end": 56.905
+    },
+    {
+     "w": "pour",
+     "start": 56.905,
+     "end": 57.153
+    },
+    {
+     "w": "marquer.",
+     "start": 57.153,
+     "end": 57.647
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 57.747,
+   "end": 63.016,
+   "slot_end": 63.116,
+   "text": "Et c'est là que ça devient chaud, parce qu'il doit tout réapprendre et il comprend enfin pourquoi sa vision vaut de l'or derrière.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 57.747,
+     "end": 57.877
+    },
+    {
+     "w": "c'est",
+     "start": 57.877,
+     "end": 58.08
+    },
+    {
+     "w": "là",
+     "start": 58.08,
+     "end": 58.209
+    },
+    {
+     "w": "que",
+     "start": 58.209,
+     "end": 58.376
+    },
+    {
+     "w": "ça",
+     "start": 58.376,
+     "end": 58.505
+    },
+    {
+     "w": "devient",
+     "start": 58.505,
+     "end": 58.82
+    },
+    {
+     "w": "chaud,",
+     "start": 58.82,
+     "end": 59.152
+    },
+    {
+     "w": "parce",
+     "start": 59.152,
+     "end": 59.393
+    },
+    {
+     "w": "qu'il",
+     "start": 59.393,
+     "end": 59.596
+    },
+    {
+     "w": "doit",
+     "start": 59.596,
+     "end": 59.799
+    },
+    {
+     "w": "tout",
+     "start": 59.799,
+     "end": 60.003
+    },
+    {
+     "w": "réapprendre",
+     "start": 60.003,
+     "end": 60.465
+    },
+    {
+     "w": "et",
+     "start": 60.465,
+     "end": 60.594
+    },
+    {
+     "w": "il",
+     "start": 60.594,
+     "end": 60.724
+    },
+    {
+     "w": "comprend",
+     "start": 60.724,
+     "end": 61.075
+    },
+    {
+     "w": "enfin",
+     "start": 61.075,
+     "end": 61.315
+    },
+    {
+     "w": "pourquoi",
+     "start": 61.315,
+     "end": 61.667
+    },
+    {
+     "w": "sa",
+     "start": 61.667,
+     "end": 61.796
+    },
+    {
+     "w": "vision",
+     "start": 61.796,
+     "end": 62.073
+    },
+    {
+     "w": "vaut",
+     "start": 62.073,
+     "end": 62.277
+    },
+    {
+     "w": "de",
+     "start": 62.277,
+     "end": 62.406
+    },
+    {
+     "w": "l'or",
+     "start": 62.406,
+     "end": 62.572
+    },
+    {
+     "w": "derrière.",
+     "start": 62.572,
+     "end": 63.016
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 63.116,
+   "end": 70.663,
+   "slot_end": 70.763,
+   "text": "Mon avis, y'a pas débat. Blue Lock c'est l'ego et les gros pouvoirs, là c'est le cerveau, la tactique, la vraie galère d'un centre de formation.",
+   "words": [
+    {
+     "w": "Mon",
+     "start": 63.116,
+     "end": 63.326
+    },
+    {
+     "w": "avis,",
+     "start": 63.326,
+     "end": 63.698
+    },
+    {
+     "w": "y'a",
+     "start": 63.698,
+     "end": 63.861
+    },
+    {
+     "w": "pas",
+     "start": 63.861,
+     "end": 64.071
+    },
+    {
+     "w": "débat.",
+     "start": 64.071,
+     "end": 64.49
+    },
+    {
+     "w": "Blue",
+     "start": 64.49,
+     "end": 64.747
+    },
+    {
+     "w": "Lock",
+     "start": 64.747,
+     "end": 65.003
+    },
+    {
+     "w": "c'est",
+     "start": 65.003,
+     "end": 65.259
+    },
+    {
+     "w": "l'ego",
+     "start": 65.259,
+     "end": 65.515
+    },
+    {
+     "w": "et",
+     "start": 65.515,
+     "end": 65.678
+    },
+    {
+     "w": "les",
+     "start": 65.678,
+     "end": 65.888
+    },
+    {
+     "w": "gros",
+     "start": 65.888,
+     "end": 66.144
+    },
+    {
+     "w": "pouvoirs,",
+     "start": 66.144,
+     "end": 66.703
+    },
+    {
+     "w": "là",
+     "start": 66.703,
+     "end": 66.866
+    },
+    {
+     "w": "c'est",
+     "start": 66.866,
+     "end": 67.123
+    },
+    {
+     "w": "le",
+     "start": 67.123,
+     "end": 67.286
+    },
+    {
+     "w": "cerveau,",
+     "start": 67.286,
+     "end": 67.798
+    },
+    {
+     "w": "la",
+     "start": 67.798,
+     "end": 67.961
+    },
+    {
+     "w": "tactique,",
+     "start": 67.961,
+     "end": 68.52
+    },
+    {
+     "w": "la",
+     "start": 68.52,
+     "end": 68.683
+    },
+    {
+     "w": "vraie",
+     "start": 68.683,
+     "end": 68.986
+    },
+    {
+     "w": "galère",
+     "start": 68.986,
+     "end": 69.335
+    },
+    {
+     "w": "d'un",
+     "start": 69.335,
+     "end": 69.545
+    },
+    {
+     "w": "centre",
+     "start": 69.545,
+     "end": 69.894
+    },
+    {
+     "w": "de",
+     "start": 69.894,
+     "end": 70.057
+    },
+    {
+     "w": "formation.",
+     "start": 70.057,
+     "end": 70.663
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 70.763,
+   "end": 76.231,
+   "slot_end": 76.331,
+   "text": "Si t'as kiffé Blue Lock mais que tu veux un truc plus terre à terre, c'est pour toi. Le nom maintenant.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 70.763,
+     "end": 70.927
+    },
+    {
+     "w": "t'as",
+     "start": 70.927,
+     "end": 71.137
+    },
+    {
+     "w": "kiffé",
+     "start": 71.137,
+     "end": 71.441
+    },
+    {
+     "w": "Blue",
+     "start": 71.441,
+     "end": 71.698
+    },
+    {
+     "w": "Lock",
+     "start": 71.698,
+     "end": 71.955
+    },
+    {
+     "w": "mais",
+     "start": 71.955,
+     "end": 72.212
+    },
+    {
+     "w": "que",
+     "start": 72.212,
+     "end": 72.422
+    },
+    {
+     "w": "tu",
+     "start": 72.422,
+     "end": 72.586
+    },
+    {
+     "w": "veux",
+     "start": 72.586,
+     "end": 72.843
+    },
+    {
+     "w": "un",
+     "start": 72.843,
+     "end": 73.006
+    },
+    {
+     "w": "truc",
+     "start": 73.006,
+     "end": 73.263
+    },
+    {
+     "w": "plus",
+     "start": 73.263,
+     "end": 73.52
+    },
+    {
+     "w": "terre",
+     "start": 73.52,
+     "end": 73.824
+    },
+    {
+     "w": "à",
+     "start": 73.824,
+     "end": 73.941
+    },
+    {
+     "w": "terre,",
+     "start": 73.941,
+     "end": 74.361
+    },
+    {
+     "w": "c'est",
+     "start": 74.361,
+     "end": 74.618
+    },
+    {
+     "w": "pour",
+     "start": 74.618,
+     "end": 74.875
+    },
+    {
+     "w": "toi.",
+     "start": 74.875,
+     "end": 75.203
+    },
+    {
+     "w": "Le",
+     "start": 75.203,
+     "end": 75.366
+    },
+    {
+     "w": "nom",
+     "start": 75.366,
+     "end": 75.576
+    },
+    {
+     "w": "maintenant.",
+     "start": 75.576,
+     "end": 76.231
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 76.331,
+   "end": 82.235,
+   "slot_end": 82.335,
+   "text": "C'est Aoashi, et la saison 2 vient de commencer. Dis-moi en com' si t'es team Blue Lock ou team Aoashi.",
+   "words": [
+    {
+     "w": "C'est",
+     "start": 76.331,
+     "end": 76.576
+    },
+    {
+     "w": "Aoashi,",
+     "start": 76.576,
+     "end": 77.022
+    },
+    {
+     "w": "et",
+     "start": 77.022,
+     "end": 77.178
+    },
+    {
+     "w": "la",
+     "start": 77.178,
+     "end": 77.334
+    },
+    {
+     "w": "saison",
+     "start": 77.334,
+     "end": 77.668
+    },
+    {
+     "w": "2",
+     "start": 77.668,
+     "end": 77.779
+    },
+    {
+     "w": "vient",
+     "start": 77.779,
+     "end": 78.069
+    },
+    {
+     "w": "de",
+     "start": 78.069,
+     "end": 78.225
+    },
+    {
+     "w": "commencer.",
+     "start": 78.225,
+     "end": 78.804
+    },
+    {
+     "w": "Dis-moi",
+     "start": 78.854,
+     "end": 79.284
+    },
+    {
+     "w": "en",
+     "start": 79.284,
+     "end": 79.485
+    },
+    {
+     "w": "com'",
+     "start": 79.485,
+     "end": 79.743
+    },
+    {
+     "w": "si",
+     "start": 79.743,
+     "end": 79.943
+    },
+    {
+     "w": "t'es",
+     "start": 79.943,
+     "end": 80.201
+    },
+    {
+     "w": "team",
+     "start": 80.201,
+     "end": 80.516
+    },
+    {
+     "w": "Blue",
+     "start": 80.516,
+     "end": 80.831
+    },
+    {
+     "w": "Lock",
+     "start": 80.831,
+     "end": 81.146
+    },
+    {
+     "w": "ou",
+     "start": 81.146,
+     "end": 81.347
+    },
+    {
+     "w": "team",
+     "start": 81.347,
+     "end": 81.662
+    },
+    {
+     "w": "Aoashi.",
+     "start": 81.662,
+     "end": 82.235
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "start": 82.335,
+   "end": 85.694,
+   "slot_end": 86.394,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 82.335,
+     "end": 82.801
+    },
+    {
+     "w": "Asura.",
+     "start": 82.801,
+     "end": 83.361
+    },
+    {
+     "w": "On",
+     "start": 83.361,
+     "end": 83.579
+    },
+    {
+     "w": "se",
+     "start": 83.579,
+     "end": 83.797
+    },
+    {
+     "w": "capte",
+     "start": 83.797,
+     "end": 84.201
+    },
+    {
+     "w": "au",
+     "start": 84.201,
+     "end": 84.419
+    },
+    {
+     "w": "prochain",
+     "start": 84.419,
+     "end": 85.01
+    },
+    {
+     "w": "épisode.",
+     "start": 85.01,
+     "end": 85.694
+    }
+   ]
+  }
+ ],
+ "aligned": false
+}
