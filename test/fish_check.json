@@ -1,8 +1,8 @@
 {
-  "date": "2026-10-05T14:27:44+00:00",
+  "date": "2026-10-05T14:49:48+00:00",
   "tf_voice": "",
   "fish_key_env": "non",
-  "credit_http": "401",
+  "credit_http": 401,
   "credit_body": "No permission -- see authorization schemes",
   "tts": "RuntimeError: Fish s2-pro HTTP 401: this route requires an api-key or Authorization: Bearer <api key> header"
 }
