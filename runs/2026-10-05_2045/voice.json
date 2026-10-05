@@ -1,0 +1,1693 @@
+{
+ "engine": "piper",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-05_2045/voice.wav",
+ "duration": 84.43,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 3.837,
+   "slot_end": 3.937,
+   "text": "Le Stand numéro 1 de Steel Ball Run peut tuer un président intouchable.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 0.0,
+     "end": 0.168
+    },
+    {
+     "w": "Stand",
+     "start": 0.168,
+     "end": 0.48
+    },
+    {
+     "w": "numéro",
+     "start": 0.48,
+     "end": 0.839
+    },
+    {
+     "w": "1",
+     "start": 0.839,
+     "end": 0.959
+    },
+    {
+     "w": "de",
+     "start": 0.959,
+     "end": 1.127
+    },
+    {
+     "w": "Steel",
+     "start": 1.127,
+     "end": 1.439
+    },
+    {
+     "w": "Ball",
+     "start": 1.439,
+     "end": 1.703
+    },
+    {
+     "w": "Run",
+     "start": 1.703,
+     "end": 1.919
+    },
+    {
+     "w": "peut",
+     "start": 1.919,
+     "end": 2.182
+    },
+    {
+     "w": "tuer",
+     "start": 2.182,
+     "end": 2.446
+    },
+    {
+     "w": "un",
+     "start": 2.446,
+     "end": 2.614
+    },
+    {
+     "w": "président",
+     "start": 2.614,
+     "end": 3.118
+    },
+    {
+     "w": "intouchable.",
+     "start": 3.118,
+     "end": 3.837
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 3.937,
+   "end": 8.601,
+   "slot_end": 8.701,
+   "text": "Et le mec qui l'utilise peut même pas marcher. Reste jusqu'au bout, le top 1 va en énerver certains.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 3.937,
+     "end": 4.054
+    },
+    {
+     "w": "le",
+     "start": 4.054,
+     "end": 4.17
+    },
+    {
+     "w": "mec",
+     "start": 4.17,
+     "end": 4.32
+    },
+    {
+     "w": "qui",
+     "start": 4.32,
+     "end": 4.471
+    },
+    {
+     "w": "l'utilise",
+     "start": 4.471,
+     "end": 4.787
+    },
+    {
+     "w": "peut",
+     "start": 4.787,
+     "end": 4.971
+    },
+    {
+     "w": "même",
+     "start": 4.971,
+     "end": 5.154
+    },
+    {
+     "w": "pas",
+     "start": 5.154,
+     "end": 5.304
+    },
+    {
+     "w": "marcher.",
+     "start": 5.304,
+     "end": 5.671
+    },
+    {
+     "w": "Reste",
+     "start": 5.721,
+     "end": 6.028
+    },
+    {
+     "w": "jusqu'au",
+     "start": 6.028,
+     "end": 6.429
+    },
+    {
+     "w": "bout,",
+     "start": 6.429,
+     "end": 6.807
+    },
+    {
+     "w": "le",
+     "start": 6.807,
+     "end": 6.972
+    },
+    {
+     "w": "top",
+     "start": 6.972,
+     "end": 7.185
+    },
+    {
+     "w": "1",
+     "start": 7.185,
+     "end": 7.303
+    },
+    {
+     "w": "va",
+     "start": 7.303,
+     "end": 7.468
+    },
+    {
+     "w": "en",
+     "start": 7.468,
+     "end": 7.633
+    },
+    {
+     "w": "énerver",
+     "start": 7.633,
+     "end": 8.035
+    },
+    {
+     "w": "certains.",
+     "start": 8.035,
+     "end": 8.601
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 8.701,
+   "end": 13.16,
+   "slot_end": 13.26,
+   "text": "Numéro 5, Mandom, le Stand de Ringo Roadagain. Il rembobine le temps de six secondes.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 8.701,
+     "end": 9.107
+    },
+    {
+     "w": "5,",
+     "start": 9.107,
+     "end": 9.377
+    },
+    {
+     "w": "Mandom,",
+     "start": 9.377,
+     "end": 9.918
+    },
+    {
+     "w": "le",
+     "start": 9.918,
+     "end": 10.107
+    },
+    {
+     "w": "Stand",
+     "start": 10.107,
+     "end": 10.458
+    },
+    {
+     "w": "de",
+     "start": 10.458,
+     "end": 10.647
+    },
+    {
+     "w": "Ringo",
+     "start": 10.647,
+     "end": 10.999
+    },
+    {
+     "w": "Roadagain.",
+     "start": 10.999,
+     "end": 11.701
+    },
+    {
+     "w": "Il",
+     "start": 11.751,
+     "end": 11.863
+    },
+    {
+     "w": "rembobine",
+     "start": 11.863,
+     "end": 12.199
+    },
+    {
+     "w": "le",
+     "start": 12.199,
+     "end": 12.311
+    },
+    {
+     "w": "temps",
+     "start": 12.311,
+     "end": 12.519
+    },
+    {
+     "w": "de",
+     "start": 12.519,
+     "end": 12.631
+    },
+    {
+     "w": "six",
+     "start": 12.631,
+     "end": 12.776
+    },
+    {
+     "w": "secondes.",
+     "start": 12.776,
+     "end": 13.16
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 13.26,
+   "end": 17.869,
+   "slot_end": 17.969,
+   "text": "Six secondes ça paraît rien, sauf qu'en duel au pistolet, t'as droit à un deuxième essai à chaque fois.",
+   "words": [
+    {
+     "w": "Six",
+     "start": 13.26,
+     "end": 13.438
+    },
+    {
+     "w": "secondes",
+     "start": 13.438,
+     "end": 13.816
+    },
+    {
+     "w": "ça",
+     "start": 13.816,
+     "end": 13.955
+    },
+    {
+     "w": "paraît",
+     "start": 13.955,
+     "end": 14.253
+    },
+    {
+     "w": "rien,",
+     "start": 14.253,
+     "end": 14.571
+    },
+    {
+     "w": "sauf",
+     "start": 14.571,
+     "end": 14.79
+    },
+    {
+     "w": "qu'en",
+     "start": 14.79,
+     "end": 15.008
+    },
+    {
+     "w": "duel",
+     "start": 15.008,
+     "end": 15.227
+    },
+    {
+     "w": "au",
+     "start": 15.227,
+     "end": 15.366
+    },
+    {
+     "w": "pistolet,",
+     "start": 15.366,
+     "end": 15.843
+    },
+    {
+     "w": "t'as",
+     "start": 15.843,
+     "end": 16.021
+    },
+    {
+     "w": "droit",
+     "start": 16.021,
+     "end": 16.28
+    },
+    {
+     "w": "à",
+     "start": 16.28,
+     "end": 16.379
+    },
+    {
+     "w": "un",
+     "start": 16.379,
+     "end": 16.518
+    },
+    {
+     "w": "deuxième",
+     "start": 16.518,
+     "end": 16.896
+    },
+    {
+     "w": "essai",
+     "start": 16.896,
+     "end": 17.154
+    },
+    {
+     "w": "à",
+     "start": 17.154,
+     "end": 17.253
+    },
+    {
+     "w": "chaque",
+     "start": 17.253,
+     "end": 17.551
+    },
+    {
+     "w": "fois.",
+     "start": 17.551,
+     "end": 17.869
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 17.969,
+   "end": 24.722,
+   "slot_end": 24.822,
+   "text": "Numéro 4, Scary Monsters, le Stand de Diego Brando. Il se transforme en dinosaure et il contamine les autres pour en faire son armée.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 17.969,
+     "end": 18.377
+    },
+    {
+     "w": "4,",
+     "start": 18.377,
+     "end": 18.65
+    },
+    {
+     "w": "Scary",
+     "start": 18.65,
+     "end": 19.003
+    },
+    {
+     "w": "Monsters,",
+     "start": 19.003,
+     "end": 19.656
+    },
+    {
+     "w": "le",
+     "start": 19.656,
+     "end": 19.847
+    },
+    {
+     "w": "Stand",
+     "start": 19.847,
+     "end": 20.2
+    },
+    {
+     "w": "de",
+     "start": 20.2,
+     "end": 20.391
+    },
+    {
+     "w": "Diego",
+     "start": 20.391,
+     "end": 20.745
+    },
+    {
+     "w": "Brando.",
+     "start": 20.745,
+     "end": 21.289
+    },
+    {
+     "w": "Il",
+     "start": 21.339,
+     "end": 21.469
+    },
+    {
+     "w": "se",
+     "start": 21.469,
+     "end": 21.599
+    },
+    {
+     "w": "transforme",
+     "start": 21.599,
+     "end": 22.027
+    },
+    {
+     "w": "en",
+     "start": 22.027,
+     "end": 22.157
+    },
+    {
+     "w": "dinosaure",
+     "start": 22.157,
+     "end": 22.547
+    },
+    {
+     "w": "et",
+     "start": 22.547,
+     "end": 22.677
+    },
+    {
+     "w": "il",
+     "start": 22.677,
+     "end": 22.807
+    },
+    {
+     "w": "contamine",
+     "start": 22.807,
+     "end": 23.198
+    },
+    {
+     "w": "les",
+     "start": 23.198,
+     "end": 23.365
+    },
+    {
+     "w": "autres",
+     "start": 23.365,
+     "end": 23.644
+    },
+    {
+     "w": "pour",
+     "start": 23.644,
+     "end": 23.849
+    },
+    {
+     "w": "en",
+     "start": 23.849,
+     "end": 23.979
+    },
+    {
+     "w": "faire",
+     "start": 23.979,
+     "end": 24.22
+    },
+    {
+     "w": "son",
+     "start": 24.22,
+     "end": 24.388
+    },
+    {
+     "w": "armée.",
+     "start": 24.388,
+     "end": 24.722
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 24.822,
+   "end": 31.06,
+   "slot_end": 31.16,
+   "text": "Et quand tu crois que t'es tranquille, y'a un autre Diego qui débarque d'un autre monde avec The World. Il arrête le temps, frr.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 24.822,
+     "end": 24.974
+    },
+    {
+     "w": "quand",
+     "start": 24.974,
+     "end": 25.256
+    },
+    {
+     "w": "tu",
+     "start": 25.256,
+     "end": 25.407
+    },
+    {
+     "w": "crois",
+     "start": 25.407,
+     "end": 25.689
+    },
+    {
+     "w": "que",
+     "start": 25.689,
+     "end": 25.884
+    },
+    {
+     "w": "t'es",
+     "start": 25.884,
+     "end": 26.079
+    },
+    {
+     "w": "tranquille,",
+     "start": 26.079,
+     "end": 26.685
+    },
+    {
+     "w": "y'a",
+     "start": 26.685,
+     "end": 26.837
+    },
+    {
+     "w": "un",
+     "start": 26.837,
+     "end": 26.988
+    },
+    {
+     "w": "autre",
+     "start": 26.988,
+     "end": 27.27
+    },
+    {
+     "w": "Diego",
+     "start": 27.27,
+     "end": 27.551
+    },
+    {
+     "w": "qui",
+     "start": 27.551,
+     "end": 27.746
+    },
+    {
+     "w": "débarque",
+     "start": 27.746,
+     "end": 28.158
+    },
+    {
+     "w": "d'un",
+     "start": 28.158,
+     "end": 28.353
+    },
+    {
+     "w": "autre",
+     "start": 28.353,
+     "end": 28.634
+    },
+    {
+     "w": "monde",
+     "start": 28.634,
+     "end": 28.916
+    },
+    {
+     "w": "avec",
+     "start": 28.916,
+     "end": 29.154
+    },
+    {
+     "w": "The",
+     "start": 29.154,
+     "end": 29.349
+    },
+    {
+     "w": "World.",
+     "start": 29.349,
+     "end": 29.739
+    },
+    {
+     "w": "Il",
+     "start": 29.739,
+     "end": 29.891
+    },
+    {
+     "w": "arrête",
+     "start": 29.891,
+     "end": 30.215
+    },
+    {
+     "w": "le",
+     "start": 30.215,
+     "end": 30.367
+    },
+    {
+     "w": "temps,",
+     "start": 30.367,
+     "end": 30.757
+    },
+    {
+     "w": "frr.",
+     "start": 30.757,
+     "end": 31.06
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 31.16,
+   "end": 35.799,
+   "slot_end": 35.899,
+   "text": "Si t'es en train de mater Steel Ball Run en ce moment, abonne-toi, j'en parle à chaque nouvel épisode de la saison.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 31.16,
+     "end": 31.286
+    },
+    {
+     "w": "t'es",
+     "start": 31.286,
+     "end": 31.449
+    },
+    {
+     "w": "en",
+     "start": 31.449,
+     "end": 31.575
+    },
+    {
+     "w": "train",
+     "start": 31.575,
+     "end": 31.81
+    },
+    {
+     "w": "de",
+     "start": 31.81,
+     "end": 31.936
+    },
+    {
+     "w": "mater",
+     "start": 31.936,
+     "end": 32.171
+    },
+    {
+     "w": "Steel",
+     "start": 32.171,
+     "end": 32.406
+    },
+    {
+     "w": "Ball",
+     "start": 32.406,
+     "end": 32.604
+    },
+    {
+     "w": "Run",
+     "start": 32.604,
+     "end": 32.767
+    },
+    {
+     "w": "en",
+     "start": 32.767,
+     "end": 32.893
+    },
+    {
+     "w": "ce",
+     "start": 32.893,
+     "end": 33.019
+    },
+    {
+     "w": "moment,",
+     "start": 33.019,
+     "end": 33.38
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 33.38,
+     "end": 33.849
+    },
+    {
+     "w": "j'en",
+     "start": 33.849,
+     "end": 34.012
+    },
+    {
+     "w": "parle",
+     "start": 34.012,
+     "end": 34.247
+    },
+    {
+     "w": "à",
+     "start": 34.247,
+     "end": 34.337
+    },
+    {
+     "w": "chaque",
+     "start": 34.337,
+     "end": 34.608
+    },
+    {
+     "w": "nouvel",
+     "start": 34.608,
+     "end": 34.878
+    },
+    {
+     "w": "épisode",
+     "start": 34.878,
+     "end": 35.185
+    },
+    {
+     "w": "de",
+     "start": 35.185,
+     "end": 35.312
+    },
+    {
+     "w": "la",
+     "start": 35.312,
+     "end": 35.438
+    },
+    {
+     "w": "saison.",
+     "start": 35.438,
+     "end": 35.799
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 35.899,
+   "end": 42.687,
+   "slot_end": 42.787,
+   "text": "Numéro 3, Ball Breaker, la technique ultime de Gyro Zeppeli. Avec la rotation dorée, ses boules d'acier font vieillir tout ce qu'elles touchent.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 35.899,
+     "end": 36.263
+    },
+    {
+     "w": "3,",
+     "start": 36.263,
+     "end": 36.506
+    },
+    {
+     "w": "Ball",
+     "start": 36.506,
+     "end": 36.773
+    },
+    {
+     "w": "Breaker,",
+     "start": 36.773,
+     "end": 37.307
+    },
+    {
+     "w": "la",
+     "start": 37.307,
+     "end": 37.477
+    },
+    {
+     "w": "technique",
+     "start": 37.477,
+     "end": 37.986
+    },
+    {
+     "w": "ultime",
+     "start": 37.986,
+     "end": 38.351
+    },
+    {
+     "w": "de",
+     "start": 38.351,
+     "end": 38.521
+    },
+    {
+     "w": "Gyro",
+     "start": 38.521,
+     "end": 38.788
+    },
+    {
+     "w": "Zeppeli.",
+     "start": 38.788,
+     "end": 39.322
+    },
+    {
+     "w": "Avec",
+     "start": 39.372,
+     "end": 39.571
+    },
+    {
+     "w": "la",
+     "start": 39.571,
+     "end": 39.698
+    },
+    {
+     "w": "rotation",
+     "start": 39.698,
+     "end": 40.042
+    },
+    {
+     "w": "dorée,",
+     "start": 40.042,
+     "end": 40.368
+    },
+    {
+     "w": "ses",
+     "start": 40.368,
+     "end": 40.531
+    },
+    {
+     "w": "boules",
+     "start": 40.531,
+     "end": 40.803
+    },
+    {
+     "w": "d'acier",
+     "start": 40.803,
+     "end": 41.074
+    },
+    {
+     "w": "font",
+     "start": 41.074,
+     "end": 41.274
+    },
+    {
+     "w": "vieillir",
+     "start": 41.274,
+     "end": 41.618
+    },
+    {
+     "w": "tout",
+     "start": 41.618,
+     "end": 41.817
+    },
+    {
+     "w": "ce",
+     "start": 41.817,
+     "end": 41.944
+    },
+    {
+     "w": "qu'elles",
+     "start": 41.944,
+     "end": 42.252
+    },
+    {
+     "w": "touchent.",
+     "start": 42.252,
+     "end": 42.687
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 42.787,
+   "end": 47.957,
+   "slot_end": 48.057,
+   "text": "Ce que Gyro donne pour la lancer, j'te dis rien, mais ceux qui ont lu le manga savent. J'en ai encore mal.",
+   "words": [
+    {
+     "w": "Ce",
+     "start": 42.787,
+     "end": 42.935
+    },
+    {
+     "w": "que",
+     "start": 42.935,
+     "end": 43.126
+    },
+    {
+     "w": "Gyro",
+     "start": 43.126,
+     "end": 43.359
+    },
+    {
+     "w": "donne",
+     "start": 43.359,
+     "end": 43.634
+    },
+    {
+     "w": "pour",
+     "start": 43.634,
+     "end": 43.867
+    },
+    {
+     "w": "la",
+     "start": 43.867,
+     "end": 44.016
+    },
+    {
+     "w": "lancer,",
+     "start": 44.016,
+     "end": 44.44
+    },
+    {
+     "w": "j'te",
+     "start": 44.44,
+     "end": 44.63
+    },
+    {
+     "w": "dis",
+     "start": 44.63,
+     "end": 44.821
+    },
+    {
+     "w": "rien,",
+     "start": 44.821,
+     "end": 45.16
+    },
+    {
+     "w": "mais",
+     "start": 45.16,
+     "end": 45.393
+    },
+    {
+     "w": "ceux",
+     "start": 45.393,
+     "end": 45.626
+    },
+    {
+     "w": "qui",
+     "start": 45.626,
+     "end": 45.817
+    },
+    {
+     "w": "ont",
+     "start": 45.817,
+     "end": 46.008
+    },
+    {
+     "w": "lu",
+     "start": 46.008,
+     "end": 46.156
+    },
+    {
+     "w": "le",
+     "start": 46.156,
+     "end": 46.304
+    },
+    {
+     "w": "manga",
+     "start": 46.304,
+     "end": 46.58
+    },
+    {
+     "w": "savent.",
+     "start": 46.58,
+     "end": 47.004
+    },
+    {
+     "w": "J'en",
+     "start": 47.004,
+     "end": 47.194
+    },
+    {
+     "w": "ai",
+     "start": 47.194,
+     "end": 47.343
+    },
+    {
+     "w": "encore",
+     "start": 47.343,
+     "end": 47.661
+    },
+    {
+     "w": "mal.",
+     "start": 47.661,
+     "end": 47.957
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 48.057,
+   "end": 55.58,
+   "slot_end": 55.68,
+   "text": "Numéro 2, D4C Love Train, le Stand du président Funny Valentine. Avec le Corps du Saint, tout le malheur qui le vise part ailleurs dans le monde.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 48.057,
+     "end": 48.455
+    },
+    {
+     "w": "2,",
+     "start": 48.455,
+     "end": 48.72
+    },
+    {
+     "w": "D4C",
+     "start": 48.72,
+     "end": 48.959
+    },
+    {
+     "w": "Love",
+     "start": 48.959,
+     "end": 49.25
+    },
+    {
+     "w": "Train,",
+     "start": 49.25,
+     "end": 49.728
+    },
+    {
+     "w": "le",
+     "start": 49.728,
+     "end": 49.913
+    },
+    {
+     "w": "Stand",
+     "start": 49.913,
+     "end": 50.258
+    },
+    {
+     "w": "du",
+     "start": 50.258,
+     "end": 50.444
+    },
+    {
+     "w": "président",
+     "start": 50.444,
+     "end": 51.001
+    },
+    {
+     "w": "Funny",
+     "start": 51.001,
+     "end": 51.345
+    },
+    {
+     "w": "Valentine.",
+     "start": 51.345,
+     "end": 52.035
+    },
+    {
+     "w": "Avec",
+     "start": 52.085,
+     "end": 52.294
+    },
+    {
+     "w": "le",
+     "start": 52.294,
+     "end": 52.427
+    },
+    {
+     "w": "Corps",
+     "start": 52.427,
+     "end": 52.674
+    },
+    {
+     "w": "du",
+     "start": 52.674,
+     "end": 52.807
+    },
+    {
+     "w": "Saint,",
+     "start": 52.807,
+     "end": 53.148
+    },
+    {
+     "w": "tout",
+     "start": 53.148,
+     "end": 53.357
+    },
+    {
+     "w": "le",
+     "start": 53.357,
+     "end": 53.49
+    },
+    {
+     "w": "malheur",
+     "start": 53.49,
+     "end": 53.813
+    },
+    {
+     "w": "qui",
+     "start": 53.813,
+     "end": 53.984
+    },
+    {
+     "w": "le",
+     "start": 53.984,
+     "end": 54.117
+    },
+    {
+     "w": "vise",
+     "start": 54.117,
+     "end": 54.326
+    },
+    {
+     "w": "part",
+     "start": 54.326,
+     "end": 54.535
+    },
+    {
+     "w": "ailleurs",
+     "start": 54.535,
+     "end": 54.896
+    },
+    {
+     "w": "dans",
+     "start": 54.896,
+     "end": 55.105
+    },
+    {
+     "w": "le",
+     "start": 55.105,
+     "end": 55.238
+    },
+    {
+     "w": "monde.",
+     "start": 55.238,
+     "end": 55.58
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 55.68,
+   "end": 60.843,
+   "slot_end": 60.943,
+   "text": "Tu lui tires dessus, la balle rate et c'est un inconnu à l'autre bout de la planète qui prend. Franchement c'est abusé.",
+   "words": [
+    {
+     "w": "Tu",
+     "start": 55.68,
+     "end": 55.816
+    },
+    {
+     "w": "lui",
+     "start": 55.816,
+     "end": 55.992
+    },
+    {
+     "w": "tires",
+     "start": 55.992,
+     "end": 56.245
+    },
+    {
+     "w": "dessus,",
+     "start": 56.245,
+     "end": 56.634
+    },
+    {
+     "w": "la",
+     "start": 56.634,
+     "end": 56.771
+    },
+    {
+     "w": "balle",
+     "start": 56.771,
+     "end": 57.024
+    },
+    {
+     "w": "rate",
+     "start": 57.024,
+     "end": 57.238
+    },
+    {
+     "w": "et",
+     "start": 57.238,
+     "end": 57.375
+    },
+    {
+     "w": "c'est",
+     "start": 57.375,
+     "end": 57.589
+    },
+    {
+     "w": "un",
+     "start": 57.589,
+     "end": 57.726
+    },
+    {
+     "w": "inconnu",
+     "start": 57.726,
+     "end": 58.057
+    },
+    {
+     "w": "à",
+     "start": 58.057,
+     "end": 58.154
+    },
+    {
+     "w": "l'autre",
+     "start": 58.154,
+     "end": 58.446
+    },
+    {
+     "w": "bout",
+     "start": 58.446,
+     "end": 58.661
+    },
+    {
+     "w": "de",
+     "start": 58.661,
+     "end": 58.797
+    },
+    {
+     "w": "la",
+     "start": 58.797,
+     "end": 58.933
+    },
+    {
+     "w": "planète",
+     "start": 58.933,
+     "end": 59.265
+    },
+    {
+     "w": "qui",
+     "start": 59.265,
+     "end": 59.44
+    },
+    {
+     "w": "prend.",
+     "start": 59.44,
+     "end": 59.791
+    },
+    {
+     "w": "Franchement",
+     "start": 59.791,
+     "end": 60.278
+    },
+    {
+     "w": "c'est",
+     "start": 60.278,
+     "end": 60.492
+    },
+    {
+     "w": "abusé.",
+     "start": 60.492,
+     "end": 60.843
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 60.943,
+   "end": 68.718,
+   "slot_end": 68.818,
+   "text": "Et numéro 1, Tusk Act 4, le Stand de Johnny Joestar, le jockey paralysé. Avec la rotation infinie, son ongle continue de tourner sans jamais s'arrêter.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 60.943,
+     "end": 61.115
+    },
+    {
+     "w": "numéro",
+     "start": 61.115,
+     "end": 61.483
+    },
+    {
+     "w": "1,",
+     "start": 61.483,
+     "end": 61.728
+    },
+    {
+     "w": "Tusk",
+     "start": 61.728,
+     "end": 61.998
+    },
+    {
+     "w": "Act",
+     "start": 61.998,
+     "end": 62.219
+    },
+    {
+     "w": "4,",
+     "start": 62.219,
+     "end": 62.464
+    },
+    {
+     "w": "le",
+     "start": 62.464,
+     "end": 62.636
+    },
+    {
+     "w": "Stand",
+     "start": 62.636,
+     "end": 62.955
+    },
+    {
+     "w": "de",
+     "start": 62.955,
+     "end": 63.126
+    },
+    {
+     "w": "Johnny",
+     "start": 63.126,
+     "end": 63.494
+    },
+    {
+     "w": "Joestar,",
+     "start": 63.494,
+     "end": 64.034
+    },
+    {
+     "w": "le",
+     "start": 64.034,
+     "end": 64.206
+    },
+    {
+     "w": "jockey",
+     "start": 64.206,
+     "end": 64.574
+    },
+    {
+     "w": "paralysé.",
+     "start": 64.574,
+     "end": 65.163
+    },
+    {
+     "w": "Avec",
+     "start": 65.213,
+     "end": 65.434
+    },
+    {
+     "w": "la",
+     "start": 65.434,
+     "end": 65.575
+    },
+    {
+     "w": "rotation",
+     "start": 65.575,
+     "end": 65.958
+    },
+    {
+     "w": "infinie,",
+     "start": 65.958,
+     "end": 66.401
+    },
+    {
+     "w": "son",
+     "start": 66.401,
+     "end": 66.583
+    },
+    {
+     "w": "ongle",
+     "start": 66.583,
+     "end": 66.845
+    },
+    {
+     "w": "continue",
+     "start": 66.845,
+     "end": 67.227
+    },
+    {
+     "w": "de",
+     "start": 67.227,
+     "end": 67.368
+    },
+    {
+     "w": "tourner",
+     "start": 67.368,
+     "end": 67.711
+    },
+    {
+     "w": "sans",
+     "start": 67.711,
+     "end": 67.932
+    },
+    {
+     "w": "jamais",
+     "start": 67.932,
+     "end": 68.235
+    },
+    {
+     "w": "s'arrêter.",
+     "start": 68.235,
+     "end": 68.718
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 68.818,
+   "end": 73.997,
+   "slot_end": 74.097,
+   "text": "C'est la seule attaque qui passe à travers Love Train. Même Valentine peut rien faire, la rotation le poursuit jusqu'au bout.",
+   "words": [
+    {
+     "w": "C'est",
+     "start": 68.818,
+     "end": 69.02
+    },
+    {
+     "w": "la",
+     "start": 69.02,
+     "end": 69.149
+    },
+    {
+     "w": "seule",
+     "start": 69.149,
+     "end": 69.387
+    },
+    {
+     "w": "attaque",
+     "start": 69.387,
+     "end": 69.7
+    },
+    {
+     "w": "qui",
+     "start": 69.7,
+     "end": 69.865
+    },
+    {
+     "w": "passe",
+     "start": 69.865,
+     "end": 70.104
+    },
+    {
+     "w": "à",
+     "start": 70.104,
+     "end": 70.195
+    },
+    {
+     "w": "travers",
+     "start": 70.195,
+     "end": 70.508
+    },
+    {
+     "w": "Love",
+     "start": 70.508,
+     "end": 70.71
+    },
+    {
+     "w": "Train.",
+     "start": 70.71,
+     "end": 71.04
+    },
+    {
+     "w": "Même",
+     "start": 71.09,
+     "end": 71.294
+    },
+    {
+     "w": "Valentine",
+     "start": 71.294,
+     "end": 71.683
+    },
+    {
+     "w": "peut",
+     "start": 71.683,
+     "end": 71.886
+    },
+    {
+     "w": "rien",
+     "start": 71.886,
+     "end": 72.09
+    },
+    {
+     "w": "faire,",
+     "start": 72.09,
+     "end": 72.423
+    },
+    {
+     "w": "la",
+     "start": 72.423,
+     "end": 72.553
+    },
+    {
+     "w": "rotation",
+     "start": 72.553,
+     "end": 72.905
+    },
+    {
+     "w": "le",
+     "start": 72.905,
+     "end": 73.035
+    },
+    {
+     "w": "poursuit",
+     "start": 73.035,
+     "end": 73.386
+    },
+    {
+     "w": "jusqu'au",
+     "start": 73.386,
+     "end": 73.701
+    },
+    {
+     "w": "bout.",
+     "start": 73.701,
+     "end": 73.997
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 74.097,
+   "end": 80.13,
+   "slot_end": 80.23,
+   "text": "Pour moi, c'est le meilleur power up de toute la saga JoJo, et j'assume. Et toi, c'est quoi ton top 1 ? Dis-moi en com'.",
+   "words": [
+    {
+     "w": "Pour",
+     "start": 74.097,
+     "end": 74.339
+    },
+    {
+     "w": "moi,",
+     "start": 74.339,
+     "end": 74.646
+    },
+    {
+     "w": "c'est",
+     "start": 74.646,
+     "end": 74.887
+    },
+    {
+     "w": "le",
+     "start": 74.887,
+     "end": 75.041
+    },
+    {
+     "w": "meilleur",
+     "start": 75.041,
+     "end": 75.457
+    },
+    {
+     "w": "power",
+     "start": 75.457,
+     "end": 75.743
+    },
+    {
+     "w": "up",
+     "start": 75.743,
+     "end": 75.896
+    },
+    {
+     "w": "de",
+     "start": 75.896,
+     "end": 76.05
+    },
+    {
+     "w": "toute",
+     "start": 76.05,
+     "end": 76.335
+    },
+    {
+     "w": "la",
+     "start": 76.335,
+     "end": 76.488
+    },
+    {
+     "w": "saga",
+     "start": 76.488,
+     "end": 76.73
+    },
+    {
+     "w": "JoJo,",
+     "start": 76.73,
+     "end": 77.081
+    },
+    {
+     "w": "et",
+     "start": 77.081,
+     "end": 77.234
+    },
+    {
+     "w": "j'assume.",
+     "start": 77.234,
+     "end": 77.717
+    },
+    {
+     "w": "Et",
+     "start": 77.717,
+     "end": 77.87
+    },
+    {
+     "w": "toi,",
+     "start": 77.87,
+     "end": 78.177
+    },
+    {
+     "w": "c'est",
+     "start": 78.177,
+     "end": 78.419
+    },
+    {
+     "w": "quoi",
+     "start": 78.419,
+     "end": 78.66
+    },
+    {
+     "w": "ton",
+     "start": 78.66,
+     "end": 78.857
+    },
+    {
+     "w": "top",
+     "start": 78.857,
+     "end": 79.055
+    },
+    {
+     "w": "1",
+     "start": 79.055,
+     "end": 79.164
+    },
+    {
+     "w": "?",
+     "start": 79.164,
+     "end": 79.34
+    },
+    {
+     "w": "Dis-moi",
+     "start": 79.34,
+     "end": 79.669
+    },
+    {
+     "w": "en",
+     "start": 79.669,
+     "end": 79.822
+    },
+    {
+     "w": "com'.",
+     "start": 79.822,
+     "end": 80.13
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 80.23,
+   "end": 83.73,
+   "slot_end": 84.43,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 80.23,
+     "end": 80.716
+    },
+    {
+     "w": "Asura.",
+     "start": 80.716,
+     "end": 81.299
+    },
+    {
+     "w": "On",
+     "start": 81.299,
+     "end": 81.526
+    },
+    {
+     "w": "se",
+     "start": 81.526,
+     "end": 81.753
+    },
+    {
+     "w": "capte",
+     "start": 81.753,
+     "end": 82.174
+    },
+    {
+     "w": "au",
+     "start": 82.174,
+     "end": 82.401
+    },
+    {
+     "w": "prochain",
+     "start": 82.401,
+     "end": 83.017
+    },
+    {
+     "w": "épisode.",
+     "start": 83.017,
+     "end": 83.73
+    }
+   ]
+  }
+ ],
+ "aligned": false
+}
