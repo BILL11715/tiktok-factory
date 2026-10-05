@@ -1,0 +1,1752 @@
+{
+ "engine": "piper",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-05_1745/voice.wav",
+ "duration": 89.64,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 3.279,
+   "slot_end": 3.379,
+   "text": "Tu passes un coup de fil, et tu te réveilles dans un Japon en ruines.",
+   "words": [
+    {
+     "w": "Tu",
+     "start": 0.0,
+     "end": 0.143
+    },
+    {
+     "w": "passes",
+     "start": 0.143,
+     "end": 0.448
+    },
+    {
+     "w": "un",
+     "start": 0.448,
+     "end": 0.591
+    },
+    {
+     "w": "coup",
+     "start": 0.591,
+     "end": 0.815
+    },
+    {
+     "w": "de",
+     "start": 0.815,
+     "end": 0.957
+    },
+    {
+     "w": "fil,",
+     "start": 0.957,
+     "end": 1.242
+    },
+    {
+     "w": "et",
+     "start": 1.242,
+     "end": 1.385
+    },
+    {
+     "w": "tu",
+     "start": 1.385,
+     "end": 1.527
+    },
+    {
+     "w": "te",
+     "start": 1.527,
+     "end": 1.67
+    },
+    {
+     "w": "réveilles",
+     "start": 1.67,
+     "end": 2.097
+    },
+    {
+     "w": "dans",
+     "start": 2.097,
+     "end": 2.321
+    },
+    {
+     "w": "un",
+     "start": 2.321,
+     "end": 2.464
+    },
+    {
+     "w": "Japon",
+     "start": 2.464,
+     "end": 2.729
+    },
+    {
+     "w": "en",
+     "start": 2.729,
+     "end": 2.871
+    },
+    {
+     "w": "ruines.",
+     "start": 2.871,
+     "end": 3.279
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 3.379,
+   "end": 7.214,
+   "slot_end": 7.314,
+   "text": "Reste jusqu'à la fin, j'te donne le nom, et il vient tout juste de sortir en anime.",
+   "words": [
+    {
+     "w": "Reste",
+     "start": 3.379,
+     "end": 3.641
+    },
+    {
+     "w": "jusqu'à",
+     "start": 3.641,
+     "end": 3.944
+    },
+    {
+     "w": "la",
+     "start": 3.944,
+     "end": 4.085
+    },
+    {
+     "w": "fin,",
+     "start": 4.085,
+     "end": 4.368
+    },
+    {
+     "w": "j'te",
+     "start": 4.368,
+     "end": 4.549
+    },
+    {
+     "w": "donne",
+     "start": 4.549,
+     "end": 4.812
+    },
+    {
+     "w": "le",
+     "start": 4.812,
+     "end": 4.953
+    },
+    {
+     "w": "nom,",
+     "start": 4.953,
+     "end": 5.236
+    },
+    {
+     "w": "et",
+     "start": 5.236,
+     "end": 5.377
+    },
+    {
+     "w": "il",
+     "start": 5.377,
+     "end": 5.518
+    },
+    {
+     "w": "vient",
+     "start": 5.518,
+     "end": 5.781
+    },
+    {
+     "w": "tout",
+     "start": 5.781,
+     "end": 6.003
+    },
+    {
+     "w": "juste",
+     "start": 6.003,
+     "end": 6.265
+    },
+    {
+     "w": "de",
+     "start": 6.265,
+     "end": 6.406
+    },
+    {
+     "w": "sortir",
+     "start": 6.406,
+     "end": 6.709
+    },
+    {
+     "w": "en",
+     "start": 6.709,
+     "end": 6.85
+    },
+    {
+     "w": "anime.",
+     "start": 6.85,
+     "end": 7.214
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 7.314,
+   "end": 16.557,
+   "slot_end": 16.657,
+   "text": "Le héros s'appelle Ageha. Un lycéen qui règle les galères des autres contre de l'argent, genre petit mercenaire de quartier.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 7.314,
+     "end": 7.549
+    },
+    {
+     "w": "héros",
+     "start": 7.549,
+     "end": 7.986
+    },
+    {
+     "w": "s'appelle",
+     "start": 7.986,
+     "end": 8.625
+    },
+    {
+     "w": "Ageha.",
+     "start": 8.625,
+     "end": 9.23
+    },
+    {
+     "w": "Un",
+     "start": 9.23,
+     "end": 9.465
+    },
+    {
+     "w": "lycéen",
+     "start": 9.465,
+     "end": 9.969
+    },
+    {
+     "w": "qui",
+     "start": 9.969,
+     "end": 10.272
+    },
+    {
+     "w": "règle",
+     "start": 10.272,
+     "end": 10.709
+    },
+    {
+     "w": "les",
+     "start": 10.709,
+     "end": 11.011
+    },
+    {
+     "w": "galères",
+     "start": 11.011,
+     "end": 11.583
+    },
+    {
+     "w": "des",
+     "start": 11.583,
+     "end": 11.885
+    },
+    {
+     "w": "autres",
+     "start": 11.885,
+     "end": 12.389
+    },
+    {
+     "w": "contre",
+     "start": 12.389,
+     "end": 12.893
+    },
+    {
+     "w": "de",
+     "start": 12.893,
+     "end": 13.129
+    },
+    {
+     "w": "l'argent,",
+     "start": 13.129,
+     "end": 13.868
+    },
+    {
+     "w": "genre",
+     "start": 13.868,
+     "end": 14.305
+    },
+    {
+     "w": "petit",
+     "start": 14.305,
+     "end": 14.742
+    },
+    {
+     "w": "mercenaire",
+     "start": 14.742,
+     "end": 15.515
+    },
+    {
+     "w": "de",
+     "start": 15.515,
+     "end": 15.75
+    },
+    {
+     "w": "quartier.",
+     "start": 15.75,
+     "end": 16.557
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 16.657,
+   "end": 25.532,
+   "slot_end": 25.632,
+   "text": "Un jour il tombe sur une carte téléphonique rouge, avec un seul mot écrit dessus. Et y'a une rumeur en ville : ceux qui utilisent cette carte disparaissent.",
+   "words": [
+    {
+     "w": "Un",
+     "start": 16.657,
+     "end": 16.813
+    },
+    {
+     "w": "jour",
+     "start": 16.813,
+     "end": 17.057
+    },
+    {
+     "w": "il",
+     "start": 17.057,
+     "end": 17.213
+    },
+    {
+     "w": "tombe",
+     "start": 17.213,
+     "end": 17.501
+    },
+    {
+     "w": "sur",
+     "start": 17.501,
+     "end": 17.701
+    },
+    {
+     "w": "une",
+     "start": 17.701,
+     "end": 17.901
+    },
+    {
+     "w": "carte",
+     "start": 17.901,
+     "end": 18.19
+    },
+    {
+     "w": "téléphonique",
+     "start": 18.19,
+     "end": 18.79
+    },
+    {
+     "w": "rouge,",
+     "start": 18.79,
+     "end": 19.19
+    },
+    {
+     "w": "avec",
+     "start": 19.19,
+     "end": 19.434
+    },
+    {
+     "w": "un",
+     "start": 19.434,
+     "end": 19.59
+    },
+    {
+     "w": "seul",
+     "start": 19.59,
+     "end": 19.834
+    },
+    {
+     "w": "mot",
+     "start": 19.834,
+     "end": 20.034
+    },
+    {
+     "w": "écrit",
+     "start": 20.034,
+     "end": 20.323
+    },
+    {
+     "w": "dessus.",
+     "start": 20.323,
+     "end": 20.767
+    },
+    {
+     "w": "Et",
+     "start": 20.817,
+     "end": 21.015
+    },
+    {
+     "w": "y'a",
+     "start": 21.015,
+     "end": 21.212
+    },
+    {
+     "w": "une",
+     "start": 21.212,
+     "end": 21.466
+    },
+    {
+     "w": "rumeur",
+     "start": 21.466,
+     "end": 21.89
+    },
+    {
+     "w": "en",
+     "start": 21.89,
+     "end": 22.088
+    },
+    {
+     "w": "ville",
+     "start": 22.088,
+     "end": 22.455
+    },
+    {
+     "w": ":",
+     "start": 22.455,
+     "end": 22.681
+    },
+    {
+     "w": "ceux",
+     "start": 22.681,
+     "end": 22.991
+    },
+    {
+     "w": "qui",
+     "start": 22.991,
+     "end": 23.245
+    },
+    {
+     "w": "utilisent",
+     "start": 23.245,
+     "end": 23.838
+    },
+    {
+     "w": "cette",
+     "start": 23.838,
+     "end": 24.205
+    },
+    {
+     "w": "carte",
+     "start": 24.205,
+     "end": 24.572
+    },
+    {
+     "w": "disparaissent.",
+     "start": 24.572,
+     "end": 25.532
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 25.632,
+   "end": 30.084,
+   "slot_end": 30.184,
+   "text": "Évidemment, lui il appelle. Une voix lui pose des questions, il répond, et là tout bascule.",
+   "words": [
+    {
+     "w": "Évidemment,",
+     "start": 25.632,
+     "end": 26.251
+    },
+    {
+     "w": "lui",
+     "start": 26.251,
+     "end": 26.45
+    },
+    {
+     "w": "il",
+     "start": 26.45,
+     "end": 26.605
+    },
+    {
+     "w": "appelle.",
+     "start": 26.605,
+     "end": 27.091
+    },
+    {
+     "w": "Une",
+     "start": 27.141,
+     "end": 27.319
+    },
+    {
+     "w": "voix",
+     "start": 27.319,
+     "end": 27.536
+    },
+    {
+     "w": "lui",
+     "start": 27.536,
+     "end": 27.714
+    },
+    {
+     "w": "pose",
+     "start": 27.714,
+     "end": 27.931
+    },
+    {
+     "w": "des",
+     "start": 27.931,
+     "end": 28.109
+    },
+    {
+     "w": "questions,",
+     "start": 28.109,
+     "end": 28.622
+    },
+    {
+     "w": "il",
+     "start": 28.622,
+     "end": 28.76
+    },
+    {
+     "w": "répond,",
+     "start": 28.76,
+     "end": 29.155
+    },
+    {
+     "w": "et",
+     "start": 29.155,
+     "end": 29.294
+    },
+    {
+     "w": "là",
+     "start": 29.294,
+     "end": 29.432
+    },
+    {
+     "w": "tout",
+     "start": 29.432,
+     "end": 29.649
+    },
+    {
+     "w": "bascule.",
+     "start": 29.649,
+     "end": 30.084
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 30.184,
+   "end": 36.306,
+   "slot_end": 36.406,
+   "text": "Il se retrouve dans un désert rempli de monstres, avec d'autres paumés qui ont reçu la même carte. Pas de sortie, juste survivre.",
+   "words": [
+    {
+     "w": "Il",
+     "start": 30.184,
+     "end": 30.33
+    },
+    {
+     "w": "se",
+     "start": 30.33,
+     "end": 30.476
+    },
+    {
+     "w": "retrouve",
+     "start": 30.476,
+     "end": 30.873
+    },
+    {
+     "w": "dans",
+     "start": 30.873,
+     "end": 31.103
+    },
+    {
+     "w": "un",
+     "start": 31.103,
+     "end": 31.249
+    },
+    {
+     "w": "désert",
+     "start": 31.249,
+     "end": 31.563
+    },
+    {
+     "w": "rempli",
+     "start": 31.563,
+     "end": 31.876
+    },
+    {
+     "w": "de",
+     "start": 31.876,
+     "end": 32.022
+    },
+    {
+     "w": "monstres,",
+     "start": 32.022,
+     "end": 32.524
+    },
+    {
+     "w": "avec",
+     "start": 32.524,
+     "end": 32.754
+    },
+    {
+     "w": "d'autres",
+     "start": 32.754,
+     "end": 33.109
+    },
+    {
+     "w": "paumés",
+     "start": 33.109,
+     "end": 33.422
+    },
+    {
+     "w": "qui",
+     "start": 33.422,
+     "end": 33.61
+    },
+    {
+     "w": "ont",
+     "start": 33.61,
+     "end": 33.798
+    },
+    {
+     "w": "reçu",
+     "start": 33.798,
+     "end": 34.028
+    },
+    {
+     "w": "la",
+     "start": 34.028,
+     "end": 34.175
+    },
+    {
+     "w": "même",
+     "start": 34.175,
+     "end": 34.404
+    },
+    {
+     "w": "carte.",
+     "start": 34.404,
+     "end": 34.781
+    },
+    {
+     "w": "Pas",
+     "start": 34.781,
+     "end": 34.969
+    },
+    {
+     "w": "de",
+     "start": 34.969,
+     "end": 35.115
+    },
+    {
+     "w": "sortie,",
+     "start": 35.115,
+     "end": 35.533
+    },
+    {
+     "w": "juste",
+     "start": 35.533,
+     "end": 35.804
+    },
+    {
+     "w": "survivre.",
+     "start": 35.804,
+     "end": 36.306
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 36.406,
+   "end": 42.72,
+   "slot_end": 42.82,
+   "text": "Et au milieu de tout ça y'a Sakurako, une fille de sa classe qui avait déjà disparu avant lui. Elle sait des trucs, et elle dit rien.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 36.406,
+     "end": 36.555
+    },
+    {
+     "w": "au",
+     "start": 36.555,
+     "end": 36.704
+    },
+    {
+     "w": "milieu",
+     "start": 36.704,
+     "end": 37.024
+    },
+    {
+     "w": "de",
+     "start": 37.024,
+     "end": 37.174
+    },
+    {
+     "w": "tout",
+     "start": 37.174,
+     "end": 37.408
+    },
+    {
+     "w": "ça",
+     "start": 37.408,
+     "end": 37.558
+    },
+    {
+     "w": "y'a",
+     "start": 37.558,
+     "end": 37.707
+    },
+    {
+     "w": "Sakurako,",
+     "start": 37.707,
+     "end": 38.219
+    },
+    {
+     "w": "une",
+     "start": 38.219,
+     "end": 38.411
+    },
+    {
+     "w": "fille",
+     "start": 38.411,
+     "end": 38.688
+    },
+    {
+     "w": "de",
+     "start": 38.688,
+     "end": 38.837
+    },
+    {
+     "w": "sa",
+     "start": 38.837,
+     "end": 38.987
+    },
+    {
+     "w": "classe",
+     "start": 38.987,
+     "end": 39.307
+    },
+    {
+     "w": "qui",
+     "start": 39.307,
+     "end": 39.499
+    },
+    {
+     "w": "avait",
+     "start": 39.499,
+     "end": 39.776
+    },
+    {
+     "w": "déjà",
+     "start": 39.776,
+     "end": 40.01
+    },
+    {
+     "w": "disparu",
+     "start": 40.01,
+     "end": 40.373
+    },
+    {
+     "w": "avant",
+     "start": 40.373,
+     "end": 40.65
+    },
+    {
+     "w": "lui.",
+     "start": 40.65,
+     "end": 40.949
+    },
+    {
+     "w": "Elle",
+     "start": 40.999,
+     "end": 41.205
+    },
+    {
+     "w": "sait",
+     "start": 41.205,
+     "end": 41.411
+    },
+    {
+     "w": "des",
+     "start": 41.411,
+     "end": 41.579
+    },
+    {
+     "w": "trucs,",
+     "start": 41.579,
+     "end": 41.916
+    },
+    {
+     "w": "et",
+     "start": 41.916,
+     "end": 42.047
+    },
+    {
+     "w": "elle",
+     "start": 42.047,
+     "end": 42.252
+    },
+    {
+     "w": "dit",
+     "start": 42.252,
+     "end": 42.421
+    },
+    {
+     "w": "rien.",
+     "start": 42.421,
+     "end": 42.72
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 42.82,
+   "end": 47.927,
+   "slot_end": 48.027,
+   "text": "Si toi aussi t'en as marre de mater toujours les mêmes séries, abonne-toi, j'te sors des recos comme ça tous les jours.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 42.82,
+     "end": 42.955
+    },
+    {
+     "w": "toi",
+     "start": 42.955,
+     "end": 43.129
+    },
+    {
+     "w": "aussi",
+     "start": 43.129,
+     "end": 43.379
+    },
+    {
+     "w": "t'en",
+     "start": 43.379,
+     "end": 43.552
+    },
+    {
+     "w": "as",
+     "start": 43.552,
+     "end": 43.687
+    },
+    {
+     "w": "marre",
+     "start": 43.687,
+     "end": 43.938
+    },
+    {
+     "w": "de",
+     "start": 43.938,
+     "end": 44.073
+    },
+    {
+     "w": "mater",
+     "start": 44.073,
+     "end": 44.323
+    },
+    {
+     "w": "toujours",
+     "start": 44.323,
+     "end": 44.689
+    },
+    {
+     "w": "les",
+     "start": 44.689,
+     "end": 44.863
+    },
+    {
+     "w": "mêmes",
+     "start": 44.863,
+     "end": 45.113
+    },
+    {
+     "w": "séries,",
+     "start": 45.113,
+     "end": 45.499
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 45.499,
+     "end": 46.0
+    },
+    {
+     "w": "j'te",
+     "start": 46.0,
+     "end": 46.173
+    },
+    {
+     "w": "sors",
+     "start": 46.173,
+     "end": 46.385
+    },
+    {
+     "w": "des",
+     "start": 46.385,
+     "end": 46.559
+    },
+    {
+     "w": "recos",
+     "start": 46.559,
+     "end": 46.809
+    },
+    {
+     "w": "comme",
+     "start": 46.809,
+     "end": 47.06
+    },
+    {
+     "w": "ça",
+     "start": 47.06,
+     "end": 47.195
+    },
+    {
+     "w": "tous",
+     "start": 47.195,
+     "end": 47.407
+    },
+    {
+     "w": "les",
+     "start": 47.407,
+     "end": 47.58
+    },
+    {
+     "w": "jours.",
+     "start": 47.58,
+     "end": 47.927
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 48.027,
+   "end": 53.935,
+   "slot_end": 54.035,
+   "text": "Mais attends, le vrai twist il arrive vite. Ce monde en ruines, c'est pas une autre planète, et c'est pas un jeu non plus.",
+   "words": [
+    {
+     "w": "Mais",
+     "start": 48.027,
+     "end": 48.317
+    },
+    {
+     "w": "attends,",
+     "start": 48.317,
+     "end": 48.898
+    },
+    {
+     "w": "le",
+     "start": 48.898,
+     "end": 49.083
+    },
+    {
+     "w": "vrai",
+     "start": 49.083,
+     "end": 49.374
+    },
+    {
+     "w": "twist",
+     "start": 49.374,
+     "end": 49.717
+    },
+    {
+     "w": "il",
+     "start": 49.717,
+     "end": 49.902
+    },
+    {
+     "w": "arrive",
+     "start": 49.902,
+     "end": 50.298
+    },
+    {
+     "w": "vite.",
+     "start": 50.298,
+     "end": 50.72
+    },
+    {
+     "w": "Ce",
+     "start": 50.77,
+     "end": 50.894
+    },
+    {
+     "w": "monde",
+     "start": 50.894,
+     "end": 51.124
+    },
+    {
+     "w": "en",
+     "start": 51.124,
+     "end": 51.248
+    },
+    {
+     "w": "ruines,",
+     "start": 51.248,
+     "end": 51.601
+    },
+    {
+     "w": "c'est",
+     "start": 51.601,
+     "end": 51.796
+    },
+    {
+     "w": "pas",
+     "start": 51.796,
+     "end": 51.955
+    },
+    {
+     "w": "une",
+     "start": 51.955,
+     "end": 52.114
+    },
+    {
+     "w": "autre",
+     "start": 52.114,
+     "end": 52.344
+    },
+    {
+     "w": "planète,",
+     "start": 52.344,
+     "end": 52.733
+    },
+    {
+     "w": "et",
+     "start": 52.733,
+     "end": 52.857
+    },
+    {
+     "w": "c'est",
+     "start": 52.857,
+     "end": 53.051
+    },
+    {
+     "w": "pas",
+     "start": 53.051,
+     "end": 53.21
+    },
+    {
+     "w": "un",
+     "start": 53.21,
+     "end": 53.334
+    },
+    {
+     "w": "jeu",
+     "start": 53.334,
+     "end": 53.493
+    },
+    {
+     "w": "non",
+     "start": 53.493,
+     "end": 53.652
+    },
+    {
+     "w": "plus.",
+     "start": 53.652,
+     "end": 53.935
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 54.035,
+   "end": 59.425,
+   "slot_end": 59.525,
+   "text": "C'est leur Japon à eux, dans le futur. Et chaque retour dans le présent, ils peuvent essayer de changer ce qui va arriver.",
+   "words": [
+    {
+     "w": "C'est",
+     "start": 54.035,
+     "end": 54.256
+    },
+    {
+     "w": "leur",
+     "start": 54.256,
+     "end": 54.476
+    },
+    {
+     "w": "Japon",
+     "start": 54.476,
+     "end": 54.737
+    },
+    {
+     "w": "à",
+     "start": 54.737,
+     "end": 54.837
+    },
+    {
+     "w": "eux,",
+     "start": 54.837,
+     "end": 55.117
+    },
+    {
+     "w": "dans",
+     "start": 55.117,
+     "end": 55.338
+    },
+    {
+     "w": "le",
+     "start": 55.338,
+     "end": 55.478
+    },
+    {
+     "w": "futur.",
+     "start": 55.478,
+     "end": 55.839
+    },
+    {
+     "w": "Et",
+     "start": 55.889,
+     "end": 56.02
+    },
+    {
+     "w": "chaque",
+     "start": 56.02,
+     "end": 56.3
+    },
+    {
+     "w": "retour",
+     "start": 56.3,
+     "end": 56.581
+    },
+    {
+     "w": "dans",
+     "start": 56.581,
+     "end": 56.787
+    },
+    {
+     "w": "le",
+     "start": 56.787,
+     "end": 56.918
+    },
+    {
+     "w": "présent,",
+     "start": 56.918,
+     "end": 57.329
+    },
+    {
+     "w": "ils",
+     "start": 57.329,
+     "end": 57.498
+    },
+    {
+     "w": "peuvent",
+     "start": 57.498,
+     "end": 57.816
+    },
+    {
+     "w": "essayer",
+     "start": 57.816,
+     "end": 58.134
+    },
+    {
+     "w": "de",
+     "start": 58.134,
+     "end": 58.265
+    },
+    {
+     "w": "changer",
+     "start": 58.265,
+     "end": 58.583
+    },
+    {
+     "w": "ce",
+     "start": 58.583,
+     "end": 58.714
+    },
+    {
+     "w": "qui",
+     "start": 58.714,
+     "end": 58.882
+    },
+    {
+     "w": "va",
+     "start": 58.882,
+     "end": 59.013
+    },
+    {
+     "w": "arriver.",
+     "start": 59.013,
+     "end": 59.425
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 59.525,
+   "end": 65.425,
+   "slot_end": 65.525,
+   "text": "Là-bas ils débloquent des pouvoirs psychiques. Ageha sort une sphère noire qui détruit tout ce qu'elle touche, le design est chaud.",
+   "words": [
+    {
+     "w": "Là-bas",
+     "start": 59.525,
+     "end": 59.812
+    },
+    {
+     "w": "ils",
+     "start": 59.812,
+     "end": 60.012
+    },
+    {
+     "w": "débloquent",
+     "start": 60.012,
+     "end": 60.521
+    },
+    {
+     "w": "des",
+     "start": 60.521,
+     "end": 60.72
+    },
+    {
+     "w": "pouvoirs",
+     "start": 60.72,
+     "end": 61.14
+    },
+    {
+     "w": "psychiques.",
+     "start": 61.14,
+     "end": 61.76
+    },
+    {
+     "w": "Ageha",
+     "start": 61.81,
+     "end": 62.059
+    },
+    {
+     "w": "sort",
+     "start": 62.059,
+     "end": 62.269
+    },
+    {
+     "w": "une",
+     "start": 62.269,
+     "end": 62.441
+    },
+    {
+     "w": "sphère",
+     "start": 62.441,
+     "end": 62.728
+    },
+    {
+     "w": "noire",
+     "start": 62.728,
+     "end": 62.977
+    },
+    {
+     "w": "qui",
+     "start": 62.977,
+     "end": 63.149
+    },
+    {
+     "w": "détruit",
+     "start": 63.149,
+     "end": 63.474
+    },
+    {
+     "w": "tout",
+     "start": 63.474,
+     "end": 63.685
+    },
+    {
+     "w": "ce",
+     "start": 63.685,
+     "end": 63.818
+    },
+    {
+     "w": "qu'elle",
+     "start": 63.818,
+     "end": 64.105
+    },
+    {
+     "w": "touche,",
+     "start": 64.105,
+     "end": 64.488
+    },
+    {
+     "w": "le",
+     "start": 64.488,
+     "end": 64.622
+    },
+    {
+     "w": "design",
+     "start": 64.622,
+     "end": 64.909
+    },
+    {
+     "w": "est",
+     "start": 64.909,
+     "end": 65.081
+    },
+    {
+     "w": "chaud.",
+     "start": 65.081,
+     "end": 65.425
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 65.525,
+   "end": 70.427,
+   "slot_end": 70.527,
+   "text": "Y'a aussi Hiryu, son pote d'enfance, qui débarque plus tard et devient force un des persos les plus stylés.",
+   "words": [
+    {
+     "w": "Y'a",
+     "start": 65.525,
+     "end": 65.668
+    },
+    {
+     "w": "aussi",
+     "start": 65.668,
+     "end": 65.934
+    },
+    {
+     "w": "Hiryu,",
+     "start": 65.934,
+     "end": 66.301
+    },
+    {
+     "w": "son",
+     "start": 66.301,
+     "end": 66.485
+    },
+    {
+     "w": "pote",
+     "start": 66.485,
+     "end": 66.71
+    },
+    {
+     "w": "d'enfance,",
+     "start": 66.71,
+     "end": 67.2
+    },
+    {
+     "w": "qui",
+     "start": 67.2,
+     "end": 67.384
+    },
+    {
+     "w": "débarque",
+     "start": 67.384,
+     "end": 67.772
+    },
+    {
+     "w": "plus",
+     "start": 67.772,
+     "end": 67.996
+    },
+    {
+     "w": "tard",
+     "start": 67.996,
+     "end": 68.221
+    },
+    {
+     "w": "et",
+     "start": 68.221,
+     "end": 68.364
+    },
+    {
+     "w": "devient",
+     "start": 68.364,
+     "end": 68.711
+    },
+    {
+     "w": "force",
+     "start": 68.711,
+     "end": 68.977
+    },
+    {
+     "w": "un",
+     "start": 68.977,
+     "end": 69.12
+    },
+    {
+     "w": "des",
+     "start": 69.12,
+     "end": 69.304
+    },
+    {
+     "w": "persos",
+     "start": 69.304,
+     "end": 69.61
+    },
+    {
+     "w": "les",
+     "start": 69.61,
+     "end": 69.794
+    },
+    {
+     "w": "plus",
+     "start": 69.794,
+     "end": 70.018
+    },
+    {
+     "w": "stylés.",
+     "start": 70.018,
+     "end": 70.427
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 70.527,
+   "end": 76.175,
+   "slot_end": 76.275,
+   "text": "Mon avis ? C'est le manga Jump que tout le monde a oublié, alors qu'il avait tout. Il a attendu des années pour avoir son anime.",
+   "words": [
+    {
+     "w": "Mon",
+     "start": 70.527,
+     "end": 70.707
+    },
+    {
+     "w": "avis",
+     "start": 70.707,
+     "end": 70.928
+    },
+    {
+     "w": "?",
+     "start": 70.928,
+     "end": 71.088
+    },
+    {
+     "w": "C'est",
+     "start": 71.088,
+     "end": 71.309
+    },
+    {
+     "w": "le",
+     "start": 71.309,
+     "end": 71.449
+    },
+    {
+     "w": "manga",
+     "start": 71.449,
+     "end": 71.71
+    },
+    {
+     "w": "Jump",
+     "start": 71.71,
+     "end": 71.93
+    },
+    {
+     "w": "que",
+     "start": 71.93,
+     "end": 72.11
+    },
+    {
+     "w": "tout",
+     "start": 72.11,
+     "end": 72.331
+    },
+    {
+     "w": "le",
+     "start": 72.331,
+     "end": 72.471
+    },
+    {
+     "w": "monde",
+     "start": 72.471,
+     "end": 72.732
+    },
+    {
+     "w": "a",
+     "start": 72.732,
+     "end": 72.832
+    },
+    {
+     "w": "oublié,",
+     "start": 72.832,
+     "end": 73.233
+    },
+    {
+     "w": "alors",
+     "start": 73.233,
+     "end": 73.494
+    },
+    {
+     "w": "qu'il",
+     "start": 73.494,
+     "end": 73.714
+    },
+    {
+     "w": "avait",
+     "start": 73.714,
+     "end": 73.975
+    },
+    {
+     "w": "tout.",
+     "start": 73.975,
+     "end": 74.295
+    },
+    {
+     "w": "Il",
+     "start": 74.345,
+     "end": 74.469
+    },
+    {
+     "w": "a",
+     "start": 74.469,
+     "end": 74.557
+    },
+    {
+     "w": "attendu",
+     "start": 74.557,
+     "end": 74.856
+    },
+    {
+     "w": "des",
+     "start": 74.856,
+     "end": 75.014
+    },
+    {
+     "w": "années",
+     "start": 75.014,
+     "end": 75.278
+    },
+    {
+     "w": "pour",
+     "start": 75.278,
+     "end": 75.472
+    },
+    {
+     "w": "avoir",
+     "start": 75.472,
+     "end": 75.7
+    },
+    {
+     "w": "son",
+     "start": 75.7,
+     "end": 75.859
+    },
+    {
+     "w": "anime.",
+     "start": 75.859,
+     "end": 76.175
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 76.275,
+   "end": 81.067,
+   "slot_end": 81.167,
+   "text": "Si t'as aimé Gantz ou Alice in Borderland, fonce, c'est exactement ce mélange de survie et de mystère.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 76.275,
+     "end": 76.422
+    },
+    {
+     "w": "t'as",
+     "start": 76.422,
+     "end": 76.61
+    },
+    {
+     "w": "aimé",
+     "start": 76.61,
+     "end": 76.84
+    },
+    {
+     "w": "Gantz",
+     "start": 76.84,
+     "end": 77.112
+    },
+    {
+     "w": "ou",
+     "start": 77.112,
+     "end": 77.259
+    },
+    {
+     "w": "Alice",
+     "start": 77.259,
+     "end": 77.531
+    },
+    {
+     "w": "in",
+     "start": 77.531,
+     "end": 77.677
+    },
+    {
+     "w": "Borderland,",
+     "start": 77.677,
+     "end": 78.263
+    },
+    {
+     "w": "fonce,",
+     "start": 78.263,
+     "end": 78.64
+    },
+    {
+     "w": "c'est",
+     "start": 78.64,
+     "end": 78.87
+    },
+    {
+     "w": "exactement",
+     "start": 78.87,
+     "end": 79.351
+    },
+    {
+     "w": "ce",
+     "start": 79.351,
+     "end": 79.497
+    },
+    {
+     "w": "mélange",
+     "start": 79.497,
+     "end": 79.853
+    },
+    {
+     "w": "de",
+     "start": 79.853,
+     "end": 80.0
+    },
+    {
+     "w": "survie",
+     "start": 80.0,
+     "end": 80.313
+    },
+    {
+     "w": "et",
+     "start": 80.313,
+     "end": 80.46
+    },
+    {
+     "w": "de",
+     "start": 80.46,
+     "end": 80.606
+    },
+    {
+     "w": "mystère.",
+     "start": 80.606,
+     "end": 81.067
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 81.167,
+   "end": 85.033,
+   "slot_end": 85.133,
+   "text": "L'anime, c'est Psyren. Dis-moi en com' si t'avais déjà entendu parler du manga.",
+   "words": [
+    {
+     "w": "L'anime,",
+     "start": 81.167,
+     "end": 81.616
+    },
+    {
+     "w": "c'est",
+     "start": 81.616,
+     "end": 81.864
+    },
+    {
+     "w": "Psyren.",
+     "start": 81.864,
+     "end": 82.313
+    },
+    {
+     "w": "Dis-moi",
+     "start": 82.313,
+     "end": 82.65
+    },
+    {
+     "w": "en",
+     "start": 82.65,
+     "end": 82.808
+    },
+    {
+     "w": "com'",
+     "start": 82.808,
+     "end": 83.01
+    },
+    {
+     "w": "si",
+     "start": 83.01,
+     "end": 83.168
+    },
+    {
+     "w": "t'avais",
+     "start": 83.168,
+     "end": 83.505
+    },
+    {
+     "w": "déjà",
+     "start": 83.505,
+     "end": 83.752
+    },
+    {
+     "w": "entendu",
+     "start": 83.752,
+     "end": 84.134
+    },
+    {
+     "w": "parler",
+     "start": 84.134,
+     "end": 84.471
+    },
+    {
+     "w": "du",
+     "start": 84.471,
+     "end": 84.629
+    },
+    {
+     "w": "manga.",
+     "start": 84.629,
+     "end": 85.033
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "start": 85.133,
+   "end": 88.94,
+   "slot_end": 89.64,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 85.133,
+     "end": 85.662
+    },
+    {
+     "w": "Asura.",
+     "start": 85.662,
+     "end": 86.296
+    },
+    {
+     "w": "On",
+     "start": 86.296,
+     "end": 86.543
+    },
+    {
+     "w": "se",
+     "start": 86.543,
+     "end": 86.79
+    },
+    {
+     "w": "capte",
+     "start": 86.79,
+     "end": 87.248
+    },
+    {
+     "w": "au",
+     "start": 87.248,
+     "end": 87.495
+    },
+    {
+     "w": "prochain",
+     "start": 87.495,
+     "end": 88.164
+    },
+    {
+     "w": "épisode.",
+     "start": 88.164,
+     "end": 88.94
+    }
+   ]
+  }
+ ],
+ "aligned": false
+}

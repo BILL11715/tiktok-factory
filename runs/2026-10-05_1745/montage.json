@@ -1,0 +1,16 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-05_1745/video.mp4",
+ "duration": 89.64,
+ "shots": 48,
+ "sources": [
+  "https://anilist.co/anime/204011",
+  "https://kitsu.io/anime/psyren"
+ ],
+ "music": {
+  "file": "mystere.mp3",
+  "bpm": 152.0,
+  "offset": 15.36
+ },
+ "sfx": 28,
+ "engine": "remotion (OpenMontage)"
+}

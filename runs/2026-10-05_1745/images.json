@@ -1,0 +1,38 @@
+{
+ "PSYREN": {
+  "meta": {
+   "id": "50392",
+   "title": "PSYЯEN",
+   "titles": {
+    "en": "PSYREN",
+    "en_jp": "PSYЯEN",
+    "en_us": "PSYЯEN",
+    "ja_jp": "PSYREN -サイレン-"
+   },
+   "synopsis": "One day, high schooler Ageha Yoshina picks up a mysterious “red phone card” left behind in a public telephone booth. A few days later, his childhood friend and classmate, Sakurako Amamiya—who possessed the same card—suddenly vanishes without a trace. In search of her, Ageha finds himself drawn into the rumors surrounding a nationwide string of mysterious disappearances, said to be the work of a secret organization known only as “Psyren.”\n\nWhen he accesses the group, a deadly game begins—one that will change his fate forever.\n\n(Source: Official Site)",
+   "episodes": null,
+   "start": "2026-10-05",
+   "source": "https://kitsu.io/anime/psyren"
+  },
+  "wide": [
+   "/home/claude/tiktok-factory/runs/2026-10-05_1745/images/20a3e4bb0d73.jpg"
+  ],
+  "tall": [
+   "/home/claude/tiktok-factory/runs/2026-10-05_1745/images/29e3fa0630fd.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-05_1745/images/afb27e400441.jpg"
+  ],
+  "characters": {
+   "Ageha Yoshina": "/home/claude/tiktok-factory/runs/2026-10-05_1745/images/78538a407abf.png",
+   "Sakurako Amamiya": "/home/claude/tiktok-factory/runs/2026-10-05_1745/images/5864d8d3b221.png",
+   "Kabuto Kirisaki": "/home/claude/tiktok-factory/runs/2026-10-05_1745/images/e18674a58127.png",
+   "Asaga Hiryuu": "/home/claude/tiktok-factory/runs/2026-10-05_1745/images/ea56ed0ae3a6.png",
+   "Oboro Mochizuki": "/home/claude/tiktok-factory/runs/2026-10-05_1745/images/7782d266307c.png",
+   "Matsuri Yakumo": "/home/claude/tiktok-factory/runs/2026-10-05_1745/images/1c3b6cd97c9d.png",
+   "Dholaki": "/home/claude/tiktok-factory/runs/2026-10-05_1745/images/e421ce7f2208.jpg"
+  },
+  "sources": [
+   "https://kitsu.io/anime/psyren",
+   "https://anilist.co/anime/204011"
+  ]
+ }
+}
