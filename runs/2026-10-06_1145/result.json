@@ -1,0 +1,21 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-06_1145/video.mp4",
+ "duration": 106.473,
+ "shots": 82,
+ "sources": [
+  "https://anilist.co/anime/169579",
+  "https://kitsu.io/anime/sekai-saikou-no-ansatsusha-isekai-kizoku-ni-tensei-suru-2nd-season"
+ ],
+ "music": {
+  "file": "mystere.mp3",
+  "bpm": 152.0,
+  "offset": 0.0
+ },
+ "sfx": 21,
+ "engine": "remotion (OpenMontage)",
+ "voice_engine": "piper",
+ "repo_path": "videos/2026/10/2026-10-06_1145.mp4",
+ "raw_url": "https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/videos/2026/10/2026-10-06_1145.mp4",
+ "lint": [],
+ "render_seconds": 1300.3
+}
