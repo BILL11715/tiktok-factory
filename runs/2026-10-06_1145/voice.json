@@ -1,0 +1,1688 @@
+{
+ "engine": "piper",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-06_1145/voice.wav",
+ "duration": 106.473,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 3.579,
+   "slot_end": 3.679,
+   "text": "La déesse a envoyé Lugh tuer le héros, et je pense qu'elle lui a menti.",
+   "words": [
+    {
+     "w": "La",
+     "start": 0.0,
+     "end": 0.154
+    },
+    {
+     "w": "déesse",
+     "start": 0.154,
+     "end": 0.483
+    },
+    {
+     "w": "a",
+     "start": 0.483,
+     "end": 0.593
+    },
+    {
+     "w": "envoyé",
+     "start": 0.593,
+     "end": 0.922
+    },
+    {
+     "w": "Lugh",
+     "start": 0.922,
+     "end": 1.164
+    },
+    {
+     "w": "tuer",
+     "start": 1.164,
+     "end": 1.405
+    },
+    {
+     "w": "le",
+     "start": 1.405,
+     "end": 1.559
+    },
+    {
+     "w": "héros,",
+     "start": 1.559,
+     "end": 1.954
+    },
+    {
+     "w": "et",
+     "start": 1.954,
+     "end": 2.108
+    },
+    {
+     "w": "je",
+     "start": 2.108,
+     "end": 2.262
+    },
+    {
+     "w": "pense",
+     "start": 2.262,
+     "end": 2.547
+    },
+    {
+     "w": "qu'elle",
+     "start": 2.547,
+     "end": 2.876
+    },
+    {
+     "w": "lui",
+     "start": 2.876,
+     "end": 3.074
+    },
+    {
+     "w": "a",
+     "start": 3.074,
+     "end": 3.184
+    },
+    {
+     "w": "menti.",
+     "start": 3.184,
+     "end": 3.579
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 3.679,
+   "end": 7.704,
+   "slot_end": 7.804,
+   "text": "Reste jusqu'au bout, parce que si j'ai raison, la saison 2 va faire très mal.",
+   "words": [
+    {
+     "w": "Reste",
+     "start": 3.679,
+     "end": 3.976
+    },
+    {
+     "w": "jusqu'au",
+     "start": 3.976,
+     "end": 4.365
+    },
+    {
+     "w": "bout,",
+     "start": 4.365,
+     "end": 4.731
+    },
+    {
+     "w": "parce",
+     "start": 4.731,
+     "end": 5.028
+    },
+    {
+     "w": "que",
+     "start": 5.028,
+     "end": 5.234
+    },
+    {
+     "w": "si",
+     "start": 5.234,
+     "end": 5.394
+    },
+    {
+     "w": "j'ai",
+     "start": 5.394,
+     "end": 5.6
+    },
+    {
+     "w": "raison,",
+     "start": 5.6,
+     "end": 6.057
+    },
+    {
+     "w": "la",
+     "start": 6.057,
+     "end": 6.217
+    },
+    {
+     "w": "saison",
+     "start": 6.217,
+     "end": 6.56
+    },
+    {
+     "w": "2",
+     "start": 6.56,
+     "end": 6.675
+    },
+    {
+     "w": "va",
+     "start": 6.675,
+     "end": 6.835
+    },
+    {
+     "w": "faire",
+     "start": 6.835,
+     "end": 7.132
+    },
+    {
+     "w": "très",
+     "start": 7.132,
+     "end": 7.384
+    },
+    {
+     "w": "mal.",
+     "start": 7.384,
+     "end": 7.704
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 7.804,
+   "end": 14.923,
+   "slot_end": 15.023,
+   "text": "Rappel rapide. Lugh, c'était le meilleur assassin du monde, et sa propre organisation l'a lâché comme un déchet.",
+   "words": [
+    {
+     "w": "Rappel",
+     "start": 7.804,
+     "end": 8.227
+    },
+    {
+     "w": "rapide.",
+     "start": 8.227,
+     "end": 8.792
+    },
+    {
+     "w": "Lugh,",
+     "start": 8.792,
+     "end": 9.244
+    },
+    {
+     "w": "c'était",
+     "start": 9.244,
+     "end": 9.668
+    },
+    {
+     "w": "le",
+     "start": 9.668,
+     "end": 9.866
+    },
+    {
+     "w": "meilleur",
+     "start": 9.866,
+     "end": 10.403
+    },
+    {
+     "w": "assassin",
+     "start": 10.403,
+     "end": 10.94
+    },
+    {
+     "w": "du",
+     "start": 10.94,
+     "end": 11.137
+    },
+    {
+     "w": "monde,",
+     "start": 11.137,
+     "end": 11.646
+    },
+    {
+     "w": "et",
+     "start": 11.646,
+     "end": 11.844
+    },
+    {
+     "w": "sa",
+     "start": 11.844,
+     "end": 12.041
+    },
+    {
+     "w": "propre",
+     "start": 12.041,
+     "end": 12.465
+    },
+    {
+     "w": "organisation",
+     "start": 12.465,
+     "end": 13.228
+    },
+    {
+     "w": "l'a",
+     "start": 13.228,
+     "end": 13.426
+    },
+    {
+     "w": "lâché",
+     "start": 13.426,
+     "end": 13.793
+    },
+    {
+     "w": "comme",
+     "start": 13.793,
+     "end": 14.16
+    },
+    {
+     "w": "un",
+     "start": 14.16,
+     "end": 14.358
+    },
+    {
+     "w": "déchet.",
+     "start": 14.358,
+     "end": 14.923
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 15.023,
+   "end": 21.476,
+   "slot_end": 21.576,
+   "text": "Une déesse lui propose un deal. Il renaît dans un autre monde, et en échange il élimine le héros avant qu'il détruise tout.",
+   "words": [
+    {
+     "w": "Une",
+     "start": 15.023,
+     "end": 15.232
+    },
+    {
+     "w": "déesse",
+     "start": 15.232,
+     "end": 15.58
+    },
+    {
+     "w": "lui",
+     "start": 15.58,
+     "end": 15.789
+    },
+    {
+     "w": "propose",
+     "start": 15.789,
+     "end": 16.184
+    },
+    {
+     "w": "un",
+     "start": 16.184,
+     "end": 16.346
+    },
+    {
+     "w": "deal.",
+     "start": 16.346,
+     "end": 16.718
+    },
+    {
+     "w": "Il",
+     "start": 16.718,
+     "end": 16.88
+    },
+    {
+     "w": "renaît",
+     "start": 16.88,
+     "end": 17.228
+    },
+    {
+     "w": "dans",
+     "start": 17.228,
+     "end": 17.484
+    },
+    {
+     "w": "un",
+     "start": 17.484,
+     "end": 17.646
+    },
+    {
+     "w": "autre",
+     "start": 17.646,
+     "end": 17.948
+    },
+    {
+     "w": "monde,",
+     "start": 17.948,
+     "end": 18.366
+    },
+    {
+     "w": "et",
+     "start": 18.366,
+     "end": 18.528
+    },
+    {
+     "w": "en",
+     "start": 18.528,
+     "end": 18.691
+    },
+    {
+     "w": "échange",
+     "start": 18.691,
+     "end": 19.085
+    },
+    {
+     "w": "il",
+     "start": 19.085,
+     "end": 19.248
+    },
+    {
+     "w": "élimine",
+     "start": 19.248,
+     "end": 19.642
+    },
+    {
+     "w": "le",
+     "start": 19.642,
+     "end": 19.805
+    },
+    {
+     "w": "héros",
+     "start": 19.805,
+     "end": 20.107
+    },
+    {
+     "w": "avant",
+     "start": 20.107,
+     "end": 20.409
+    },
+    {
+     "w": "qu'il",
+     "start": 20.409,
+     "end": 20.664
+    },
+    {
+     "w": "détruise",
+     "start": 20.664,
+     "end": 21.105
+    },
+    {
+     "w": "tout.",
+     "start": 21.105,
+     "end": 21.476
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 21.576,
+   "end": 27.451,
+   "slot_end": 27.551,
+   "text": "Il renaît chez les Tuatha Dé, une famille de nobles qui sont en fait des assassins. Pratique, hein.",
+   "words": [
+    {
+     "w": "Il",
+     "start": 21.576,
+     "end": 21.755
+    },
+    {
+     "w": "renaît",
+     "start": 21.755,
+     "end": 22.138
+    },
+    {
+     "w": "chez",
+     "start": 22.138,
+     "end": 22.419
+    },
+    {
+     "w": "les",
+     "start": 22.419,
+     "end": 22.649
+    },
+    {
+     "w": "Tuatha",
+     "start": 22.649,
+     "end": 23.032
+    },
+    {
+     "w": "Dé,",
+     "start": 23.032,
+     "end": 23.339
+    },
+    {
+     "w": "une",
+     "start": 23.339,
+     "end": 23.569
+    },
+    {
+     "w": "famille",
+     "start": 23.569,
+     "end": 24.003
+    },
+    {
+     "w": "de",
+     "start": 24.003,
+     "end": 24.182
+    },
+    {
+     "w": "nobles",
+     "start": 24.182,
+     "end": 24.565
+    },
+    {
+     "w": "qui",
+     "start": 24.565,
+     "end": 24.795
+    },
+    {
+     "w": "sont",
+     "start": 24.795,
+     "end": 25.076
+    },
+    {
+     "w": "en",
+     "start": 25.076,
+     "end": 25.254
+    },
+    {
+     "w": "fait",
+     "start": 25.254,
+     "end": 25.535
+    },
+    {
+     "w": "des",
+     "start": 25.535,
+     "end": 25.765
+    },
+    {
+     "w": "assassins.",
+     "start": 25.765,
+     "end": 26.429
+    },
+    {
+     "w": "Pratique,",
+     "start": 26.429,
+     "end": 27.042
+    },
+    {
+     "w": "hein.",
+     "start": 27.042,
+     "end": 27.451
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 27.551,
+   "end": 34.967,
+   "slot_end": 35.067,
+   "text": "Et là le héros, c'est Epona. Une meuf timide, gentille, qui veut juste un ami. Et le premier ami qu'elle se fait, c'est Lugh.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 27.551,
+     "end": 27.749
+    },
+    {
+     "w": "là",
+     "start": 27.749,
+     "end": 27.947
+    },
+    {
+     "w": "le",
+     "start": 27.947,
+     "end": 28.145
+    },
+    {
+     "w": "héros,",
+     "start": 28.145,
+     "end": 28.655
+    },
+    {
+     "w": "c'est",
+     "start": 28.655,
+     "end": 28.966
+    },
+    {
+     "w": "Epona.",
+     "start": 28.966,
+     "end": 29.475
+    },
+    {
+     "w": "Une",
+     "start": 29.525,
+     "end": 29.749
+    },
+    {
+     "w": "meuf",
+     "start": 29.749,
+     "end": 30.022
+    },
+    {
+     "w": "timide,",
+     "start": 30.022,
+     "end": 30.518
+    },
+    {
+     "w": "gentille,",
+     "start": 30.518,
+     "end": 31.115
+    },
+    {
+     "w": "qui",
+     "start": 31.115,
+     "end": 31.338
+    },
+    {
+     "w": "veut",
+     "start": 31.338,
+     "end": 31.611
+    },
+    {
+     "w": "juste",
+     "start": 31.611,
+     "end": 31.934
+    },
+    {
+     "w": "un",
+     "start": 31.934,
+     "end": 32.108
+    },
+    {
+     "w": "ami.",
+     "start": 32.108,
+     "end": 32.456
+    },
+    {
+     "w": "Et",
+     "start": 32.506,
+     "end": 32.67
+    },
+    {
+     "w": "le",
+     "start": 32.67,
+     "end": 32.834
+    },
+    {
+     "w": "premier",
+     "start": 32.834,
+     "end": 33.232
+    },
+    {
+     "w": "ami",
+     "start": 33.232,
+     "end": 33.443
+    },
+    {
+     "w": "qu'elle",
+     "start": 33.443,
+     "end": 33.795
+    },
+    {
+     "w": "se",
+     "start": 33.795,
+     "end": 33.959
+    },
+    {
+     "w": "fait,",
+     "start": 33.959,
+     "end": 34.334
+    },
+    {
+     "w": "c'est",
+     "start": 34.334,
+     "end": 34.592
+    },
+    {
+     "w": "Lugh.",
+     "start": 34.592,
+     "end": 34.967
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 35.067,
+   "end": 49.183,
+   "slot_end": 49.283,
+   "text": "Premier indice. La déesse choisit pas un guerrier, pas un sage. Elle choisit un tueur qui obéit aux ordres sans poser de questions.",
+   "words": [
+    {
+     "w": "Premier",
+     "start": 35.067,
+     "end": 36.256
+    },
+    {
+     "w": "indice.",
+     "start": 36.256,
+     "end": 37.654
+    },
+    {
+     "w": "La",
+     "start": 37.654,
+     "end": 38.143
+    },
+    {
+     "w": "déesse",
+     "start": 38.143,
+     "end": 39.192
+    },
+    {
+     "w": "choisit",
+     "start": 39.192,
+     "end": 40.381
+    },
+    {
+     "w": "pas",
+     "start": 40.381,
+     "end": 41.01
+    },
+    {
+     "w": "un",
+     "start": 41.01,
+     "end": 41.499
+    },
+    {
+     "w": "guerrier,",
+     "start": 41.499,
+     "end": 43.177
+    },
+    {
+     "w": "pas",
+     "start": 43.177,
+     "end": 43.807
+    },
+    {
+     "w": "un",
+     "start": 43.807,
+     "end": 44.296
+    },
+    {
+     "w": "sage.",
+     "start": 44.296,
+     "end": 45.415
+    },
+    {
+     "w": "Elle",
+     "start": 45.465,
+     "end": 45.736
+    },
+    {
+     "w": "choisit",
+     "start": 45.736,
+     "end": 46.154
+    },
+    {
+     "w": "un",
+     "start": 46.154,
+     "end": 46.327
+    },
+    {
+     "w": "tueur",
+     "start": 46.327,
+     "end": 46.647
+    },
+    {
+     "w": "qui",
+     "start": 46.647,
+     "end": 46.868
+    },
+    {
+     "w": "obéit",
+     "start": 46.868,
+     "end": 47.188
+    },
+    {
+     "w": "aux",
+     "start": 47.188,
+     "end": 47.41
+    },
+    {
+     "w": "ordres",
+     "start": 47.41,
+     "end": 47.779
+    },
+    {
+     "w": "sans",
+     "start": 47.779,
+     "end": 48.05
+    },
+    {
+     "w": "poser",
+     "start": 48.05,
+     "end": 48.37
+    },
+    {
+     "w": "de",
+     "start": 48.37,
+     "end": 48.543
+    },
+    {
+     "w": "questions.",
+     "start": 48.543,
+     "end": 49.183
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 49.283,
+   "end": 55.043,
+   "slot_end": 55.143,
+   "text": "Si tu kiffes les théories qui retournent un anime, abonne-toi, la saison 2 arrive en janvier et je vais tout décortiquer.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 49.283,
+     "end": 49.431
+    },
+    {
+     "w": "tu",
+     "start": 49.431,
+     "end": 49.579
+    },
+    {
+     "w": "kiffes",
+     "start": 49.579,
+     "end": 49.897
+    },
+    {
+     "w": "les",
+     "start": 49.897,
+     "end": 50.087
+    },
+    {
+     "w": "théories",
+     "start": 50.087,
+     "end": 50.49
+    },
+    {
+     "w": "qui",
+     "start": 50.49,
+     "end": 50.68
+    },
+    {
+     "w": "retournent",
+     "start": 50.68,
+     "end": 51.167
+    },
+    {
+     "w": "un",
+     "start": 51.167,
+     "end": 51.316
+    },
+    {
+     "w": "anime,",
+     "start": 51.316,
+     "end": 51.697
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 51.697,
+     "end": 52.247
+    },
+    {
+     "w": "la",
+     "start": 52.247,
+     "end": 52.396
+    },
+    {
+     "w": "saison",
+     "start": 52.396,
+     "end": 52.713
+    },
+    {
+     "w": "2",
+     "start": 52.713,
+     "end": 52.819
+    },
+    {
+     "w": "arrive",
+     "start": 52.819,
+     "end": 53.137
+    },
+    {
+     "w": "en",
+     "start": 53.137,
+     "end": 53.285
+    },
+    {
+     "w": "janvier",
+     "start": 53.285,
+     "end": 53.645
+    },
+    {
+     "w": "et",
+     "start": 53.645,
+     "end": 53.793
+    },
+    {
+     "w": "je",
+     "start": 53.793,
+     "end": 53.942
+    },
+    {
+     "w": "vais",
+     "start": 53.942,
+     "end": 54.174
+    },
+    {
+     "w": "tout",
+     "start": 54.174,
+     "end": 54.407
+    },
+    {
+     "w": "décortiquer.",
+     "start": 54.407,
+     "end": 55.043
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 55.143,
+   "end": 67.45,
+   "slot_end": 67.55,
+   "text": "Deuxième indice. Epona, elle a surtout peur de blesser les autres. Ça ressemble pas à une future destructrice du monde, frr, ça ressemble à une gamine qu'on a jamais protégée.",
+   "words": [
+    {
+     "w": "Deuxième",
+     "start": 55.143,
+     "end": 55.862
+    },
+    {
+     "w": "indice.",
+     "start": 55.862,
+     "end": 56.618
+    },
+    {
+     "w": "Epona,",
+     "start": 56.618,
+     "end": 57.299
+    },
+    {
+     "w": "elle",
+     "start": 57.299,
+     "end": 57.716
+    },
+    {
+     "w": "a",
+     "start": 57.716,
+     "end": 57.905
+    },
+    {
+     "w": "surtout",
+     "start": 57.905,
+     "end": 58.548
+    },
+    {
+     "w": "peur",
+     "start": 58.548,
+     "end": 58.964
+    },
+    {
+     "w": "de",
+     "start": 58.964,
+     "end": 59.229
+    },
+    {
+     "w": "blesser",
+     "start": 59.229,
+     "end": 59.872
+    },
+    {
+     "w": "les",
+     "start": 59.872,
+     "end": 60.213
+    },
+    {
+     "w": "autres.",
+     "start": 60.213,
+     "end": 60.969
+    },
+    {
+     "w": "Ça",
+     "start": 61.019,
+     "end": 61.204
+    },
+    {
+     "w": "ressemble",
+     "start": 61.204,
+     "end": 61.757
+    },
+    {
+     "w": "pas",
+     "start": 61.757,
+     "end": 61.994
+    },
+    {
+     "w": "à",
+     "start": 61.994,
+     "end": 62.126
+    },
+    {
+     "w": "une",
+     "start": 62.126,
+     "end": 62.363
+    },
+    {
+     "w": "future",
+     "start": 62.363,
+     "end": 62.759
+    },
+    {
+     "w": "destructrice",
+     "start": 62.759,
+     "end": 63.47
+    },
+    {
+     "w": "du",
+     "start": 63.47,
+     "end": 63.655
+    },
+    {
+     "w": "monde,",
+     "start": 63.655,
+     "end": 64.129
+    },
+    {
+     "w": "frr,",
+     "start": 64.129,
+     "end": 64.498
+    },
+    {
+     "w": "ça",
+     "start": 64.498,
+     "end": 64.682
+    },
+    {
+     "w": "ressemble",
+     "start": 64.682,
+     "end": 65.236
+    },
+    {
+     "w": "à",
+     "start": 65.236,
+     "end": 65.368
+    },
+    {
+     "w": "une",
+     "start": 65.368,
+     "end": 65.605
+    },
+    {
+     "w": "gamine",
+     "start": 65.605,
+     "end": 66.0
+    },
+    {
+     "w": "qu'on",
+     "start": 66.0,
+     "end": 66.29
+    },
+    {
+     "w": "a",
+     "start": 66.29,
+     "end": 66.422
+    },
+    {
+     "w": "jamais",
+     "start": 66.422,
+     "end": 66.817
+    },
+    {
+     "w": "protégée.",
+     "start": 66.817,
+     "end": 67.45
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 67.55,
+   "end": 77.032,
+   "slot_end": 77.132,
+   "text": "Troisième indice, celui qui me travaille. Plus Lugh avance, plus il devient puissant. Dia, Tarte, Maha, un réseau, une fortune, des sorts inventés de zéro.",
+   "words": [
+    {
+     "w": "Troisième",
+     "start": 67.55,
+     "end": 68.078
+    },
+    {
+     "w": "indice,",
+     "start": 68.078,
+     "end": 68.581
+    },
+    {
+     "w": "celui",
+     "start": 68.581,
+     "end": 68.908
+    },
+    {
+     "w": "qui",
+     "start": 68.908,
+     "end": 69.134
+    },
+    {
+     "w": "me",
+     "start": 69.134,
+     "end": 69.31
+    },
+    {
+     "w": "travaille.",
+     "start": 69.31,
+     "end": 69.964
+    },
+    {
+     "w": "Plus",
+     "start": 70.014,
+     "end": 70.299
+    },
+    {
+     "w": "Lugh",
+     "start": 70.299,
+     "end": 70.584
+    },
+    {
+     "w": "avance,",
+     "start": 70.584,
+     "end": 71.103
+    },
+    {
+     "w": "plus",
+     "start": 71.103,
+     "end": 71.388
+    },
+    {
+     "w": "il",
+     "start": 71.388,
+     "end": 71.569
+    },
+    {
+     "w": "devient",
+     "start": 71.569,
+     "end": 72.01
+    },
+    {
+     "w": "puissant.",
+     "start": 72.01,
+     "end": 72.632
+    },
+    {
+     "w": "Dia,",
+     "start": 72.682,
+     "end": 73.04
+    },
+    {
+     "w": "Tarte,",
+     "start": 73.04,
+     "end": 73.501
+    },
+    {
+     "w": "Maha,",
+     "start": 73.501,
+     "end": 73.91
+    },
+    {
+     "w": "un",
+     "start": 73.91,
+     "end": 74.089
+    },
+    {
+     "w": "réseau,",
+     "start": 74.089,
+     "end": 74.601
+    },
+    {
+     "w": "une",
+     "start": 74.601,
+     "end": 74.831
+    },
+    {
+     "w": "fortune,",
+     "start": 74.831,
+     "end": 75.394
+    },
+    {
+     "w": "des",
+     "start": 75.394,
+     "end": 75.625
+    },
+    {
+     "w": "sorts",
+     "start": 75.625,
+     "end": 75.957
+    },
+    {
+     "w": "inventés",
+     "start": 75.957,
+     "end": 76.444
+    },
+    {
+     "w": "de",
+     "start": 76.444,
+     "end": 76.623
+    },
+    {
+     "w": "zéro.",
+     "start": 76.623,
+     "end": 77.032
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 77.132,
+   "end": 83.637,
+   "slot_end": 83.737,
+   "text": "Ma théorie, c'est que le vrai danger pour ce monde, c'est peut-être pas Epona. C'est l'assassin que la déesse a lâché dedans.",
+   "words": [
+    {
+     "w": "Ma",
+     "start": 77.132,
+     "end": 77.297
+    },
+    {
+     "w": "théorie,",
+     "start": 77.297,
+     "end": 77.816
+    },
+    {
+     "w": "c'est",
+     "start": 77.816,
+     "end": 78.075
+    },
+    {
+     "w": "que",
+     "start": 78.075,
+     "end": 78.288
+    },
+    {
+     "w": "le",
+     "start": 78.288,
+     "end": 78.453
+    },
+    {
+     "w": "vrai",
+     "start": 78.453,
+     "end": 78.712
+    },
+    {
+     "w": "danger",
+     "start": 78.712,
+     "end": 79.066
+    },
+    {
+     "w": "pour",
+     "start": 79.066,
+     "end": 79.325
+    },
+    {
+     "w": "ce",
+     "start": 79.325,
+     "end": 79.49
+    },
+    {
+     "w": "monde,",
+     "start": 79.49,
+     "end": 79.915
+    },
+    {
+     "w": "c'est",
+     "start": 79.915,
+     "end": 80.174
+    },
+    {
+     "w": "peut-être",
+     "start": 80.174,
+     "end": 80.622
+    },
+    {
+     "w": "pas",
+     "start": 80.622,
+     "end": 80.834
+    },
+    {
+     "w": "Epona.",
+     "start": 80.834,
+     "end": 81.259
+    },
+    {
+     "w": "C'est",
+     "start": 81.309,
+     "end": 81.562
+    },
+    {
+     "w": "l'assassin",
+     "start": 81.562,
+     "end": 82.046
+    },
+    {
+     "w": "que",
+     "start": 82.046,
+     "end": 82.254
+    },
+    {
+     "w": "la",
+     "start": 82.254,
+     "end": 82.415
+    },
+    {
+     "w": "déesse",
+     "start": 82.415,
+     "end": 82.761
+    },
+    {
+     "w": "a",
+     "start": 82.761,
+     "end": 82.876
+    },
+    {
+     "w": "lâché",
+     "start": 82.876,
+     "end": 83.176
+    },
+    {
+     "w": "dedans.",
+     "start": 83.176,
+     "end": 83.637
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 83.737,
+   "end": 90.917,
+   "slot_end": 91.017,
+   "text": "Bon, y'a un gros truc contre moi. Quand Epona craque, sa puissance est terrifiante, et ça on le voit à l'écran.",
+   "words": [
+    {
+     "w": "Bon,",
+     "start": 83.737,
+     "end": 84.129
+    },
+    {
+     "w": "y'a",
+     "start": 84.129,
+     "end": 84.326
+    },
+    {
+     "w": "un",
+     "start": 84.326,
+     "end": 84.522
+    },
+    {
+     "w": "gros",
+     "start": 84.522,
+     "end": 84.831
+    },
+    {
+     "w": "truc",
+     "start": 84.831,
+     "end": 85.139
+    },
+    {
+     "w": "contre",
+     "start": 85.139,
+     "end": 85.56
+    },
+    {
+     "w": "moi.",
+     "start": 85.56,
+     "end": 85.953
+    },
+    {
+     "w": "Quand",
+     "start": 85.953,
+     "end": 86.317
+    },
+    {
+     "w": "Epona",
+     "start": 86.317,
+     "end": 86.682
+    },
+    {
+     "w": "craque,",
+     "start": 86.682,
+     "end": 87.243
+    },
+    {
+     "w": "sa",
+     "start": 87.243,
+     "end": 87.439
+    },
+    {
+     "w": "puissance",
+     "start": 87.439,
+     "end": 88.028
+    },
+    {
+     "w": "est",
+     "start": 88.028,
+     "end": 88.281
+    },
+    {
+     "w": "terrifiante,",
+     "start": 88.281,
+     "end": 89.122
+    },
+    {
+     "w": "et",
+     "start": 89.122,
+     "end": 89.319
+    },
+    {
+     "w": "ça",
+     "start": 89.319,
+     "end": 89.515
+    },
+    {
+     "w": "on",
+     "start": 89.515,
+     "end": 89.711
+    },
+    {
+     "w": "le",
+     "start": 89.711,
+     "end": 89.908
+    },
+    {
+     "w": "voit",
+     "start": 89.908,
+     "end": 90.216
+    },
+    {
+     "w": "à",
+     "start": 90.216,
+     "end": 90.356
+    },
+    {
+     "w": "l'écran.",
+     "start": 90.356,
+     "end": 90.917
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 91.017,
+   "end": 97.101,
+   "slot_end": 97.201,
+   "text": "Mais moi je pense que Lugh va choisir de la sauver au lieu de la tuer. Et que la déesse avait prévu son coup depuis le début.",
+   "words": [
+    {
+     "w": "Mais",
+     "start": 91.017,
+     "end": 91.267
+    },
+    {
+     "w": "moi",
+     "start": 91.267,
+     "end": 91.471
+    },
+    {
+     "w": "je",
+     "start": 91.471,
+     "end": 91.629
+    },
+    {
+     "w": "pense",
+     "start": 91.629,
+     "end": 91.924
+    },
+    {
+     "w": "que",
+     "start": 91.924,
+     "end": 92.128
+    },
+    {
+     "w": "Lugh",
+     "start": 92.128,
+     "end": 92.377
+    },
+    {
+     "w": "va",
+     "start": 92.377,
+     "end": 92.536
+    },
+    {
+     "w": "choisir",
+     "start": 92.536,
+     "end": 92.921
+    },
+    {
+     "w": "de",
+     "start": 92.921,
+     "end": 93.079
+    },
+    {
+     "w": "la",
+     "start": 93.079,
+     "end": 93.238
+    },
+    {
+     "w": "sauver",
+     "start": 93.238,
+     "end": 93.578
+    },
+    {
+     "w": "au",
+     "start": 93.578,
+     "end": 93.736
+    },
+    {
+     "w": "lieu",
+     "start": 93.736,
+     "end": 93.986
+    },
+    {
+     "w": "de",
+     "start": 93.986,
+     "end": 94.144
+    },
+    {
+     "w": "la",
+     "start": 94.144,
+     "end": 94.303
+    },
+    {
+     "w": "tuer.",
+     "start": 94.303,
+     "end": 94.665
+    },
+    {
+     "w": "Et",
+     "start": 94.715,
+     "end": 94.85
+    },
+    {
+     "w": "que",
+     "start": 94.85,
+     "end": 95.023
+    },
+    {
+     "w": "la",
+     "start": 95.023,
+     "end": 95.158
+    },
+    {
+     "w": "déesse",
+     "start": 95.158,
+     "end": 95.446
+    },
+    {
+     "w": "avait",
+     "start": 95.446,
+     "end": 95.697
+    },
+    {
+     "w": "prévu",
+     "start": 95.697,
+     "end": 95.947
+    },
+    {
+     "w": "son",
+     "start": 95.947,
+     "end": 96.12
+    },
+    {
+     "w": "coup",
+     "start": 96.12,
+     "end": 96.331
+    },
+    {
+     "w": "depuis",
+     "start": 96.331,
+     "end": 96.62
+    },
+    {
+     "w": "le",
+     "start": 96.62,
+     "end": 96.755
+    },
+    {
+     "w": "début.",
+     "start": 96.755,
+     "end": 97.101
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 97.201,
+   "end": 102.179,
+   "slot_end": 102.279,
+   "text": "Alors dis-moi en com', tu tuerais Epona pour sauver le monde, ou tu ferais confiance à ton amie ?",
+   "words": [
+    {
+     "w": "Alors",
+     "start": 97.201,
+     "end": 97.495
+    },
+    {
+     "w": "dis-moi",
+     "start": 97.495,
+     "end": 97.834
+    },
+    {
+     "w": "en",
+     "start": 97.834,
+     "end": 97.993
+    },
+    {
+     "w": "com',",
+     "start": 97.993,
+     "end": 98.31
+    },
+    {
+     "w": "tu",
+     "start": 98.31,
+     "end": 98.468
+    },
+    {
+     "w": "tuerais",
+     "start": 98.468,
+     "end": 98.853
+    },
+    {
+     "w": "Epona",
+     "start": 98.853,
+     "end": 99.147
+    },
+    {
+     "w": "pour",
+     "start": 99.147,
+     "end": 99.396
+    },
+    {
+     "w": "sauver",
+     "start": 99.396,
+     "end": 99.735
+    },
+    {
+     "w": "le",
+     "start": 99.735,
+     "end": 99.894
+    },
+    {
+     "w": "monde,",
+     "start": 99.894,
+     "end": 100.301
+    },
+    {
+     "w": "ou",
+     "start": 100.301,
+     "end": 100.459
+    },
+    {
+     "w": "tu",
+     "start": 100.459,
+     "end": 100.618
+    },
+    {
+     "w": "ferais",
+     "start": 100.618,
+     "end": 100.957
+    },
+    {
+     "w": "confiance",
+     "start": 100.957,
+     "end": 101.432
+    },
+    {
+     "w": "à",
+     "start": 101.432,
+     "end": 101.545
+    },
+    {
+     "w": "ton",
+     "start": 101.545,
+     "end": 101.749
+    },
+    {
+     "w": "amie",
+     "start": 101.749,
+     "end": 101.998
+    },
+    {
+     "w": "?",
+     "start": 101.998,
+     "end": 102.179
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 102.279,
+   "end": 105.773,
+   "slot_end": 106.473,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 102.279,
+     "end": 102.764
+    },
+    {
+     "w": "Asura.",
+     "start": 102.764,
+     "end": 103.347
+    },
+    {
+     "w": "On",
+     "start": 103.347,
+     "end": 103.573
+    },
+    {
+     "w": "se",
+     "start": 103.573,
+     "end": 103.8
+    },
+    {
+     "w": "capte",
+     "start": 103.8,
+     "end": 104.22
+    },
+    {
+     "w": "au",
+     "start": 104.22,
+     "end": 104.447
+    },
+    {
+     "w": "prochain",
+     "start": 104.447,
+     "end": 105.061
+    },
+    {
+     "w": "épisode.",
+     "start": 105.061,
+     "end": 105.773
+    }
+   ]
+  }
+ ],
+ "aligned": false
+}
