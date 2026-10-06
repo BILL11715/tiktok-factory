@@ -1,0 +1,119 @@
+{
+ "title": "Reco : le tueur engagé pour la tuer, elle le demande en mariage",
+ "format": "reco",
+ "tone": "pote",
+ "music": "pote",
+ "animes": [
+  "Firefly Wedding"
+ ],
+ "hook_text": "Un tueur est payé pour la tuer, et elle le demande en mariage",
+ "spoiler": false,
+ "segments": [
+  {
+   "text": "Un tueur est payé pour la tuer, et elle, elle le demande en mariage.",
+   "sfx": true,
+   "emphasis": [
+    "mariage"
+   ],
+   "grade": "bw"
+  },
+  {
+   "text": "[whispering] Reste jusqu'au bout, j'te donne le nom, et l'anime commence ce jeudi.",
+   "emphasis": [
+    "jeudi"
+   ]
+  },
+  {
+   "text": "On est au Japon, à l'ère Meiji. Y'a Satoko, une fille de bonne famille, élevée pour faire un beau mariage arrangé et sourire poliment.",
+   "emphasis": [
+    "Satoko"
+   ]
+  },
+  {
+   "text": "Sauf que Satoko a une santé super fragile. Tout le monde autour d'elle part du principe qu'elle vivra pas vieille, et elle le sait très bien.",
+   "emphasis": [
+    "fragile"
+   ],
+   "grade": "bw"
+  },
+  {
+   "text": "Et puis arrive Shinpei. Un assassin, un vrai, engagé pour l'éliminer. Le mec est froid, il hésite pas, c'est son métier quoi.",
+   "sfx": true,
+   "emphasis": [
+    "Shinpei"
+   ],
+   "stamp": "CIBLE"
+  },
+  {
+   "text": "[surprised] Et là, au lieu de pleurer ou de supplier, Satoko le regarde droit dans les yeux et lui propose de l'épouser.",
+   "emphasis": [
+    "épouser"
+   ]
+  },
+  {
+   "text": "Franchement, j'ai dû remettre la scène en arrière dans ma tête. Elle est sérieuse, la meuf.",
+   "emphasis": [
+    "sérieuse"
+   ]
+  },
+  {
+   "text": "Si t'aimes les histoires qui partent dans des directions que t'avais pas vues venir, abonne-toi, j'te sors une reco comme ça tous les jours.",
+   "cta": true
+  },
+  {
+   "text": "Ce qui m'a eu, c'est que Satoko est pas une princesse à sauver. Elle est maline, elle négocie, et elle retourne la situation avec trois fois rien.",
+   "emphasis": [
+    "maline"
+   ]
+  },
+  {
+   "text": "Et Shinpei, le tueur sans cœur, il comprend pas du tout ce qui lui arrive. Leur duo est chelou, tendu, et franchement trop drôle par moments.",
+   "emphasis": [
+    "duo"
+   ]
+  },
+  {
+   "text": "[excited] Et attends, le studio derrière l'anime c'est David Production. Oui, ceux qui ont adapté JoJo.",
+   "sfx": true,
+   "emphasis": [
+    "JoJo"
+   ]
+  },
+  {
+   "text": "Mon avis : si t'as kiffé les romances un peu dark où chaque scène peut mal finir, c'est la sortie de la saison à pas rater.",
+   "emphasis": [
+    "dark"
+   ]
+  },
+  {
+   "text": "C'est pas une romance toute douce, hein. Y'a du sang, et une question qui plane tout le long : est-ce qu'il va finir le boulot ?",
+   "grade": "bw",
+   "emphasis": [
+    "boulot"
+   ]
+  },
+  {
+   "text": "[whispering] Bon, le nom maintenant. Premier épisode jeudi, note-le quelque part.",
+   "emphasis": [
+    "jeudi"
+   ]
+  },
+  {
+   "text": "C'est Firefly Wedding. Dis-moi en com' si toi aussi t'aurais demandé le tueur en mariage, ou si t'aurais couru.",
+   "emphasis": [
+    "Firefly"
+   ]
+  }
+ ],
+ "reveal_text": "Firefly Wedding",
+ "reveal_segments": 1,
+ "caption": "Elle a trouvé la pire façon de survivre à un tueur 😳 toi t'aurais fait quoi ?",
+ "hashtags": [
+  "#anime",
+  "#manga",
+  "#animefr",
+  "#mangafr",
+  "#fireflywedding",
+  "#recommandationanime"
+ ]
+}
