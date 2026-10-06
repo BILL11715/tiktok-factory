@@ -1,0 +1,157 @@
+{
+ "title": "Théorie Alya : la vraie héroïne, c'est Masha",
+ "format": "theorie",
+ "tone": "conteur",
+ "music": "mystere",
+ "animes": [
+  "Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san Season 2"
+ ],
+ "hook_text": "Alya va perdre, et c'est sa propre sœur qui va gagner",
+ "spoiler": true,
+ "spoiler_label": "fin de la saison 1",
+ "segments": [
+  {
+   "text": "Alya va perdre, et c'est sa propre sœur qui va gagner.",
+   "sfx": true,
+   "emphasis": [
+    "perdre",
+    "sœur"
+   ]
+  },
+  {
+   "text": "[whispering] Reste jusqu'au bout, parce que le dernier indice, presque personne l'a capté.",
+   "emphasis": [
+    "dernier indice"
+   ]
+  },
+  {
+   "text": "Bon, c'est une théorie. La saison 2 d'Alya est annoncée, et moi j'ai déjà choisi mon camp.",
+   "emphasis": [
+    "théorie"
+   ]
+  },
+  {
+   "text": "Rappel rapide. Masachika, le mec qui fait semblant de rien comprendre, il parle russe depuis qu'il est gamin.",
+   "emphasis": [
+    "russe"
+   ],
+   "shots": [
+    {
+     "anime": "Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san",
+     "kind": "character",
+     "character": "Masachika",
+     "at": "Masachika"
+    }
+   ]
+  },
+  {
+   "text": "Et Alya, elle lui balance ses sentiments en russe en pensant qu'il capte que dalle. Tout le monde a kiffé ce délire.",
+   "emphasis": [
+    "sentiments"
+   ],
+   "shots": [
+    {
+     "anime": "Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san",
+     "kind": "character",
+     "character": "Alisa",
+     "at": "Alya"
+    }
+   ]
+  },
+  {
+   "text": "[surprised] Sauf que premier indice, la fin de la saison 1. La petite fille que Masachika a connue enfant, son premier amour, c'est Masha.",
+   "sfx": true,
+   "grade": "bw",
+   "emphasis": [
+    "premier amour"
+   ],
+   "stamp": "MASHA",
+   "shots": [
+    {
+     "anime": "Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san",
+     "kind": "character",
+     "character": "Maria",
+     "at": "Masha"
+    }
+   ]
+  },
+  {
+   "text": "La grande sœur d'Alya. Celle qui a l'air tête en l'air et qui fait des câlins à tout le monde.",
+   "emphasis": [
+    "grande sœur"
+   ]
+  },
+  {
+   "text": "Si toi aussi tu veux savoir comment ça finit, abonne-toi, j'analyse les animes qui reviennent chaque jour.",
+   "cta": true
+  },
+  {
+   "text": "Deuxième indice. Masha, elle sait très bien qui il est. Lui, il a aucune idée que c'est elle. C'est elle qui a toutes les cartes.",
+   "emphasis": [
+    "toutes les cartes"
+   ]
+  },
+  {
+   "text": "[sigh] Et le pire, c'est que Masachika est cassé depuis cette époque. Son côté flemmard qui s'investit dans rien, ça vient de là.",
+   "grade": "bw",
+   "emphasis": [
+    "cassé"
+   ]
+  },
+  {
+   "text": "Troisième indice, et c'est lui que personne voit. Dans une romcom, le premier amour d'enfance revient toujours pour foutre le bazar.",
+   "sfx": true,
+   "emphasis": [
+    "premier amour"
+   ]
+  },
+  {
+   "text": "Maintenant je te donne ce qui contredit tout ça, parce que j'suis honnête. L'anime s'appelle Alya, pas Masha.",
+   "emphasis": [
+    "Alya"
+   ]
+  },
+  {
+   "text": "Et Masachika a choisi de se présenter aux élections du conseil des élèves avec Alya. Pas avec une autre.",
+   "emphasis": [
+    "élections"
+   ]
+  },
+  {
+   "text": "Il y a aussi Yuki, sa vraie petite sœur, qui tire les ficelles de son côté, et elle va pas lui faciliter la vie.",
+   "emphasis": [
+    "Yuki"
+   ],
+   "shots": [
+    {
+     "anime": "Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san",
+     "kind": "character",
+     "character": "Yuki",
+     "at": "Yuki"
+    }
+   ]
+  },
+  {
+   "text": "[excited] Mais moi j'te le dis, quand Masachika va comprendre qui est Masha, tout le triangle va exploser.",
+   "emphasis": [
+    "exploser"
+   ],
+   "stamp": "TRIANGLE"
+  },
+  {
+   "text": "Alors, team Alya ou team Masha ? Dis-moi en com', je veux voir la guerre.",
+   "emphasis": [
+    "team Masha"
+   ]
+  }
+ ],
+ "caption": "Le premier amour de Masachika change tout 👀 team Alya ou team Masha ?",
+ "hashtags": [
+  "#anime",
+  "#manga",
+  "#animefr",
+  "#otakufr",
+  "#alya",
+  "#theorie"
+ ]
+}
