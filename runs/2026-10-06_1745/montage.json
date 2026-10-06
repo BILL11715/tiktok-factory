@@ -1,0 +1,16 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-06_1745/video.mp4",
+ "duration": 87.701,
+ "shots": 47,
+ "sources": [
+  "https://anilist.co/anime/205909",
+  "https://kitsu.io/anime/hotaru-no-yomeiri"
+ ],
+ "music": {
+  "file": "pote.mp3",
+  "bpm": 184.6,
+  "offset": 47.39
+ },
+ "sfx": 34,
+ "engine": "remotion (OpenMontage)"
+}

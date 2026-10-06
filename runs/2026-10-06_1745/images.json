@@ -1,0 +1,30 @@
+{
+ "Firefly Wedding": {
+  "meta": {
+   "id": "50471",
+   "title": "Hotaru no Yomeiri",
+   "titles": {
+    "en": "Firefly Wedding",
+    "en_jp": "Hotaru no Yomeiri",
+    "ja_jp": "ホタルの嫁入り"
+   },
+   "synopsis": "On the surface, Satoko has it all—she’s beautiful, the daughter of a nobleman, and at a prime age for marriage. Unfortunately, she is also quite ill and only has a short time left to live. Before she can secure a marriage that will redeem her worth in her family’s eyes, she finds herself the target of the mysterious assassin Shinpei, and her plans are put in jeopardy. In order to save herself, she makes a desperate proposal—of marriage! When it comes to love, however, Shinpei takes “until death do we part” seriously.\n\n(Source: VIZ Media)",
+   "episodes": null,
+   "start": "2026-10-09",
+   "source": "https://kitsu.io/anime/hotaru-no-yomeiri"
+  },
+  "wide": [],
+  "tall": [
+   "/home/claude/tiktok-factory/runs/2026-10-06_1745/images/8d4bfbff2018.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-06_1745/images/2fd5f5b860f6.jpg"
+  ],
+  "characters": {
+   "Shinpei Gotou": "/home/claude/tiktok-factory/runs/2026-10-06_1745/images/9d38d5313488.png",
+   "Satoko Kirigaya": "/home/claude/tiktok-factory/runs/2026-10-06_1745/images/e69743e638c1.png"
+  },
+  "sources": [
+   "https://kitsu.io/anime/hotaru-no-yomeiri",
+   "https://anilist.co/anime/205909"
+  ]
+ }
+}
