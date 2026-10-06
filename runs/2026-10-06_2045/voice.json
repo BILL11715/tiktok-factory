@@ -1,0 +1,1706 @@
+{
+ "engine": "piper",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-06_2045/voice.wav",
+ "duration": 110.674,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 2.774,
+   "slot_end": 2.874,
+   "text": "Alya va perdre, et c'est sa propre sœur qui va gagner.",
+   "words": [
+    {
+     "w": "Alya",
+     "start": 0.0,
+     "end": 0.244
+    },
+    {
+     "w": "va",
+     "start": 0.244,
+     "end": 0.399
+    },
+    {
+     "w": "perdre,",
+     "start": 0.399,
+     "end": 0.843
+    },
+    {
+     "w": "et",
+     "start": 0.843,
+     "end": 0.998
+    },
+    {
+     "w": "c'est",
+     "start": 0.998,
+     "end": 1.243
+    },
+    {
+     "w": "sa",
+     "start": 1.243,
+     "end": 1.398
+    },
+    {
+     "w": "propre",
+     "start": 1.398,
+     "end": 1.731
+    },
+    {
+     "w": "sœur",
+     "start": 1.731,
+     "end": 1.975
+    },
+    {
+     "w": "qui",
+     "start": 1.975,
+     "end": 2.174
+    },
+    {
+     "w": "va",
+     "start": 2.174,
+     "end": 2.33
+    },
+    {
+     "w": "gagner.",
+     "start": 2.33,
+     "end": 2.774
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 2.874,
+   "end": 7.221,
+   "slot_end": 7.321,
+   "text": "Reste jusqu'au bout, parce que le dernier indice, presque personne l'a capté.",
+   "words": [
+    {
+     "w": "Reste",
+     "start": 2.874,
+     "end": 3.2
+    },
+    {
+     "w": "jusqu'au",
+     "start": 3.2,
+     "end": 3.627
+    },
+    {
+     "w": "bout,",
+     "start": 3.627,
+     "end": 4.03
+    },
+    {
+     "w": "parce",
+     "start": 4.03,
+     "end": 4.356
+    },
+    {
+     "w": "que",
+     "start": 4.356,
+     "end": 4.582
+    },
+    {
+     "w": "le",
+     "start": 4.582,
+     "end": 4.758
+    },
+    {
+     "w": "dernier",
+     "start": 4.758,
+     "end": 5.186
+    },
+    {
+     "w": "indice,",
+     "start": 5.186,
+     "end": 5.688
+    },
+    {
+     "w": "presque",
+     "start": 5.688,
+     "end": 6.115
+    },
+    {
+     "w": "personne",
+     "start": 6.115,
+     "end": 6.593
+    },
+    {
+     "w": "l'a",
+     "start": 6.593,
+     "end": 6.769
+    },
+    {
+     "w": "capté.",
+     "start": 6.769,
+     "end": 7.221
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 7.321,
+   "end": 13.782,
+   "slot_end": 13.882,
+   "text": "Bon, c'est une théorie. La saison 2 d'Alya est annoncée, et moi j'ai déjà choisi mon camp.",
+   "words": [
+    {
+     "w": "Bon,",
+     "start": 7.321,
+     "end": 7.762
+    },
+    {
+     "w": "c'est",
+     "start": 7.762,
+     "end": 8.109
+    },
+    {
+     "w": "une",
+     "start": 8.109,
+     "end": 8.393
+    },
+    {
+     "w": "théorie.",
+     "start": 8.393,
+     "end": 9.086
+    },
+    {
+     "w": "La",
+     "start": 9.086,
+     "end": 9.307
+    },
+    {
+     "w": "saison",
+     "start": 9.307,
+     "end": 9.779
+    },
+    {
+     "w": "2",
+     "start": 9.779,
+     "end": 9.937
+    },
+    {
+     "w": "d'Alya",
+     "start": 9.937,
+     "end": 10.347
+    },
+    {
+     "w": "est",
+     "start": 10.347,
+     "end": 10.63
+    },
+    {
+     "w": "annoncée,",
+     "start": 10.63,
+     "end": 11.387
+    },
+    {
+     "w": "et",
+     "start": 11.387,
+     "end": 11.607
+    },
+    {
+     "w": "moi",
+     "start": 11.607,
+     "end": 11.891
+    },
+    {
+     "w": "j'ai",
+     "start": 11.891,
+     "end": 12.175
+    },
+    {
+     "w": "déjà",
+     "start": 12.175,
+     "end": 12.521
+    },
+    {
+     "w": "choisi",
+     "start": 12.521,
+     "end": 12.994
+    },
+    {
+     "w": "mon",
+     "start": 12.994,
+     "end": 13.278
+    },
+    {
+     "w": "camp.",
+     "start": 13.278,
+     "end": 13.782
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 13.882,
+   "end": 22.598,
+   "slot_end": 22.698,
+   "text": "Rappel rapide. Masachika, le mec qui fait semblant de rien comprendre, il parle russe depuis qu'il est gamin.",
+   "words": [
+    {
+     "w": "Rappel",
+     "start": 13.882,
+     "end": 14.409
+    },
+    {
+     "w": "rapide.",
+     "start": 14.409,
+     "end": 15.112
+    },
+    {
+     "w": "Masachika,",
+     "start": 15.112,
+     "end": 16.026
+    },
+    {
+     "w": "le",
+     "start": 16.026,
+     "end": 16.272
+    },
+    {
+     "w": "mec",
+     "start": 16.272,
+     "end": 16.588
+    },
+    {
+     "w": "qui",
+     "start": 16.588,
+     "end": 16.905
+    },
+    {
+     "w": "fait",
+     "start": 16.905,
+     "end": 17.291
+    },
+    {
+     "w": "semblant",
+     "start": 17.291,
+     "end": 17.959
+    },
+    {
+     "w": "de",
+     "start": 17.959,
+     "end": 18.205
+    },
+    {
+     "w": "rien",
+     "start": 18.205,
+     "end": 18.592
+    },
+    {
+     "w": "comprendre,",
+     "start": 18.592,
+     "end": 19.576
+    },
+    {
+     "w": "il",
+     "start": 19.576,
+     "end": 19.822
+    },
+    {
+     "w": "parle",
+     "start": 19.822,
+     "end": 20.279
+    },
+    {
+     "w": "russe",
+     "start": 20.279,
+     "end": 20.735
+    },
+    {
+     "w": "depuis",
+     "start": 20.735,
+     "end": 21.263
+    },
+    {
+     "w": "qu'il",
+     "start": 21.263,
+     "end": 21.649
+    },
+    {
+     "w": "est",
+     "start": 21.649,
+     "end": 21.966
+    },
+    {
+     "w": "gamin.",
+     "start": 21.966,
+     "end": 22.598
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 22.698,
+   "end": 28.976,
+   "slot_end": 29.076,
+   "text": "Et Alya, elle lui balance ses sentiments en russe en pensant qu'il capte que dalle. Tout le monde a kiffé ce délire.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 22.698,
+     "end": 22.865
+    },
+    {
+     "w": "Alya,",
+     "start": 22.865,
+     "end": 23.247
+    },
+    {
+     "w": "elle",
+     "start": 23.247,
+     "end": 23.51
+    },
+    {
+     "w": "lui",
+     "start": 23.51,
+     "end": 23.725
+    },
+    {
+     "w": "balance",
+     "start": 23.725,
+     "end": 24.13
+    },
+    {
+     "w": "ses",
+     "start": 24.13,
+     "end": 24.345
+    },
+    {
+     "w": "sentiments",
+     "start": 24.345,
+     "end": 24.894
+    },
+    {
+     "w": "en",
+     "start": 24.894,
+     "end": 25.061
+    },
+    {
+     "w": "russe",
+     "start": 25.061,
+     "end": 25.371
+    },
+    {
+     "w": "en",
+     "start": 25.371,
+     "end": 25.539
+    },
+    {
+     "w": "pensant",
+     "start": 25.539,
+     "end": 25.944
+    },
+    {
+     "w": "qu'il",
+     "start": 25.944,
+     "end": 26.207
+    },
+    {
+     "w": "capte",
+     "start": 26.207,
+     "end": 26.517
+    },
+    {
+     "w": "que",
+     "start": 26.517,
+     "end": 26.732
+    },
+    {
+     "w": "dalle.",
+     "start": 26.732,
+     "end": 27.162
+    },
+    {
+     "w": "Tout",
+     "start": 27.162,
+     "end": 27.424
+    },
+    {
+     "w": "le",
+     "start": 27.424,
+     "end": 27.591
+    },
+    {
+     "w": "monde",
+     "start": 27.591,
+     "end": 27.902
+    },
+    {
+     "w": "a",
+     "start": 27.902,
+     "end": 28.021
+    },
+    {
+     "w": "kiffé",
+     "start": 28.021,
+     "end": 28.331
+    },
+    {
+     "w": "ce",
+     "start": 28.331,
+     "end": 28.498
+    },
+    {
+     "w": "délire.",
+     "start": 28.498,
+     "end": 28.976
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 29.076,
+   "end": 36.222,
+   "slot_end": 36.322,
+   "text": "Sauf que premier indice, la fin de la saison 1. La petite fille que Masachika a connue enfant, son premier amour, c'est Masha.",
+   "words": [
+    {
+     "w": "Sauf",
+     "start": 29.076,
+     "end": 29.339
+    },
+    {
+     "w": "que",
+     "start": 29.339,
+     "end": 29.555
+    },
+    {
+     "w": "premier",
+     "start": 29.555,
+     "end": 29.963
+    },
+    {
+     "w": "indice,",
+     "start": 29.963,
+     "end": 30.442
+    },
+    {
+     "w": "la",
+     "start": 30.442,
+     "end": 30.61
+    },
+    {
+     "w": "fin",
+     "start": 30.61,
+     "end": 30.826
+    },
+    {
+     "w": "de",
+     "start": 30.826,
+     "end": 30.993
+    },
+    {
+     "w": "la",
+     "start": 30.993,
+     "end": 31.161
+    },
+    {
+     "w": "saison",
+     "start": 31.161,
+     "end": 31.521
+    },
+    {
+     "w": "1.",
+     "start": 31.521,
+     "end": 31.76
+    },
+    {
+     "w": "La",
+     "start": 31.81,
+     "end": 31.984
+    },
+    {
+     "w": "petite",
+     "start": 31.984,
+     "end": 32.356
+    },
+    {
+     "w": "fille",
+     "start": 32.356,
+     "end": 32.678
+    },
+    {
+     "w": "que",
+     "start": 32.678,
+     "end": 32.901
+    },
+    {
+     "w": "Masachika",
+     "start": 32.901,
+     "end": 33.421
+    },
+    {
+     "w": "a",
+     "start": 33.421,
+     "end": 33.545
+    },
+    {
+     "w": "connue",
+     "start": 33.545,
+     "end": 33.917
+    },
+    {
+     "w": "enfant,",
+     "start": 33.917,
+     "end": 34.413
+    },
+    {
+     "w": "son",
+     "start": 34.413,
+     "end": 34.636
+    },
+    {
+     "w": "premier",
+     "start": 34.636,
+     "end": 35.057
+    },
+    {
+     "w": "amour,",
+     "start": 35.057,
+     "end": 35.503
+    },
+    {
+     "w": "c'est",
+     "start": 35.503,
+     "end": 35.776
+    },
+    {
+     "w": "Masha.",
+     "start": 35.776,
+     "end": 36.222
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 36.322,
+   "end": 47.415,
+   "slot_end": 47.515,
+   "text": "La grande sœur d'Alya. Celle qui a l'air tête en l'air et qui fait des câlins à tout le monde.",
+   "words": [
+    {
+     "w": "La",
+     "start": 36.322,
+     "end": 36.692
+    },
+    {
+     "w": "grande",
+     "start": 36.692,
+     "end": 37.484
+    },
+    {
+     "w": "sœur",
+     "start": 37.484,
+     "end": 38.065
+    },
+    {
+     "w": "d'Alya.",
+     "start": 38.065,
+     "end": 39.016
+    },
+    {
+     "w": "Celle",
+     "start": 39.016,
+     "end": 39.703
+    },
+    {
+     "w": "qui",
+     "start": 39.703,
+     "end": 40.178
+    },
+    {
+     "w": "a",
+     "start": 40.178,
+     "end": 40.442
+    },
+    {
+     "w": "l'air",
+     "start": 40.442,
+     "end": 41.023
+    },
+    {
+     "w": "tête",
+     "start": 41.023,
+     "end": 41.604
+    },
+    {
+     "w": "en",
+     "start": 41.604,
+     "end": 41.974
+    },
+    {
+     "w": "l'air",
+     "start": 41.974,
+     "end": 42.555
+    },
+    {
+     "w": "et",
+     "start": 42.555,
+     "end": 42.925
+    },
+    {
+     "w": "qui",
+     "start": 42.925,
+     "end": 43.4
+    },
+    {
+     "w": "fait",
+     "start": 43.4,
+     "end": 43.982
+    },
+    {
+     "w": "des",
+     "start": 43.982,
+     "end": 44.457
+    },
+    {
+     "w": "câlins",
+     "start": 44.457,
+     "end": 45.249
+    },
+    {
+     "w": "à",
+     "start": 45.249,
+     "end": 45.513
+    },
+    {
+     "w": "tout",
+     "start": 45.513,
+     "end": 46.094
+    },
+    {
+     "w": "le",
+     "start": 46.094,
+     "end": 46.464
+    },
+    {
+     "w": "monde.",
+     "start": 46.464,
+     "end": 47.415
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 47.515,
+   "end": 52.718,
+   "slot_end": 52.818,
+   "text": "Si toi aussi tu veux savoir comment ça finit, abonne-toi, j'analyse les animes qui reviennent chaque jour.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 47.515,
+     "end": 47.669
+    },
+    {
+     "w": "toi",
+     "start": 47.669,
+     "end": 47.868
+    },
+    {
+     "w": "aussi",
+     "start": 47.868,
+     "end": 48.154
+    },
+    {
+     "w": "tu",
+     "start": 48.154,
+     "end": 48.309
+    },
+    {
+     "w": "veux",
+     "start": 48.309,
+     "end": 48.551
+    },
+    {
+     "w": "savoir",
+     "start": 48.551,
+     "end": 48.882
+    },
+    {
+     "w": "comment",
+     "start": 48.882,
+     "end": 49.257
+    },
+    {
+     "w": "ça",
+     "start": 49.257,
+     "end": 49.411
+    },
+    {
+     "w": "finit,",
+     "start": 49.411,
+     "end": 49.808
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 49.808,
+     "end": 50.381
+    },
+    {
+     "w": "j'analyse",
+     "start": 50.381,
+     "end": 50.8
+    },
+    {
+     "w": "les",
+     "start": 50.8,
+     "end": 50.998
+    },
+    {
+     "w": "animes",
+     "start": 50.998,
+     "end": 51.329
+    },
+    {
+     "w": "qui",
+     "start": 51.329,
+     "end": 51.528
+    },
+    {
+     "w": "reviennent",
+     "start": 51.528,
+     "end": 52.035
+    },
+    {
+     "w": "chaque",
+     "start": 52.035,
+     "end": 52.365
+    },
+    {
+     "w": "jour.",
+     "start": 52.365,
+     "end": 52.718
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 52.818,
+   "end": 61.153,
+   "slot_end": 61.253,
+   "text": "Deuxième indice. Masha, elle sait très bien qui il est. Lui, il a aucune idée que c'est elle. C'est elle qui a toutes les cartes.",
+   "words": [
+    {
+     "w": "Deuxième",
+     "start": 52.818,
+     "end": 53.348
+    },
+    {
+     "w": "indice.",
+     "start": 53.348,
+     "end": 53.905
+    },
+    {
+     "w": "Masha,",
+     "start": 53.905,
+     "end": 54.407
+    },
+    {
+     "w": "elle",
+     "start": 54.407,
+     "end": 54.714
+    },
+    {
+     "w": "sait",
+     "start": 54.714,
+     "end": 55.02
+    },
+    {
+     "w": "très",
+     "start": 55.02,
+     "end": 55.327
+    },
+    {
+     "w": "bien",
+     "start": 55.327,
+     "end": 55.633
+    },
+    {
+     "w": "qui",
+     "start": 55.633,
+     "end": 55.884
+    },
+    {
+     "w": "il",
+     "start": 55.884,
+     "end": 56.079
+    },
+    {
+     "w": "est.",
+     "start": 56.079,
+     "end": 56.47
+    },
+    {
+     "w": "Lui,",
+     "start": 56.47,
+     "end": 56.86
+    },
+    {
+     "w": "il",
+     "start": 56.86,
+     "end": 57.055
+    },
+    {
+     "w": "a",
+     "start": 57.055,
+     "end": 57.195
+    },
+    {
+     "w": "aucune",
+     "start": 57.195,
+     "end": 57.613
+    },
+    {
+     "w": "idée",
+     "start": 57.613,
+     "end": 57.919
+    },
+    {
+     "w": "que",
+     "start": 57.919,
+     "end": 58.17
+    },
+    {
+     "w": "c'est",
+     "start": 58.17,
+     "end": 58.477
+    },
+    {
+     "w": "elle.",
+     "start": 58.477,
+     "end": 58.923
+    },
+    {
+     "w": "C'est",
+     "start": 58.923,
+     "end": 59.229
+    },
+    {
+     "w": "elle",
+     "start": 59.229,
+     "end": 59.536
+    },
+    {
+     "w": "qui",
+     "start": 59.536,
+     "end": 59.787
+    },
+    {
+     "w": "a",
+     "start": 59.787,
+     "end": 59.926
+    },
+    {
+     "w": "toutes",
+     "start": 59.926,
+     "end": 60.344
+    },
+    {
+     "w": "les",
+     "start": 60.344,
+     "end": 60.595
+    },
+    {
+     "w": "cartes.",
+     "start": 60.595,
+     "end": 61.153
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 61.253,
+   "end": 68.289,
+   "slot_end": 68.389,
+   "text": "Et le pire, c'est que Masachika est cassé depuis cette époque. Son côté flemmard qui s'investit dans rien, ça vient de là.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 61.253,
+     "end": 61.423
+    },
+    {
+     "w": "le",
+     "start": 61.423,
+     "end": 61.594
+    },
+    {
+     "w": "pire,",
+     "start": 61.594,
+     "end": 61.984
+    },
+    {
+     "w": "c'est",
+     "start": 61.984,
+     "end": 62.253
+    },
+    {
+     "w": "que",
+     "start": 62.253,
+     "end": 62.472
+    },
+    {
+     "w": "Masachika",
+     "start": 62.472,
+     "end": 62.984
+    },
+    {
+     "w": "est",
+     "start": 62.984,
+     "end": 63.203
+    },
+    {
+     "w": "cassé",
+     "start": 63.203,
+     "end": 63.52
+    },
+    {
+     "w": "depuis",
+     "start": 63.52,
+     "end": 63.886
+    },
+    {
+     "w": "cette",
+     "start": 63.886,
+     "end": 64.203
+    },
+    {
+     "w": "époque.",
+     "start": 64.203,
+     "end": 64.691
+    },
+    {
+     "w": "Son",
+     "start": 64.741,
+     "end": 64.977
+    },
+    {
+     "w": "côté",
+     "start": 64.977,
+     "end": 65.266
+    },
+    {
+     "w": "flemmard",
+     "start": 65.266,
+     "end": 65.766
+    },
+    {
+     "w": "qui",
+     "start": 65.766,
+     "end": 66.002
+    },
+    {
+     "w": "s'investit",
+     "start": 66.002,
+     "end": 66.554
+    },
+    {
+     "w": "dans",
+     "start": 66.554,
+     "end": 66.843
+    },
+    {
+     "w": "rien,",
+     "start": 66.843,
+     "end": 67.264
+    },
+    {
+     "w": "ça",
+     "start": 67.264,
+     "end": 67.448
+    },
+    {
+     "w": "vient",
+     "start": 67.448,
+     "end": 67.789
+    },
+    {
+     "w": "de",
+     "start": 67.789,
+     "end": 67.973
+    },
+    {
+     "w": "là.",
+     "start": 67.973,
+     "end": 68.289
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 68.389,
+   "end": 75.802,
+   "slot_end": 75.902,
+   "text": "Troisième indice, et c'est lui que personne voit. Dans une romcom, le premier amour d'enfance revient toujours pour foutre le bazar.",
+   "words": [
+    {
+     "w": "Troisième",
+     "start": 68.389,
+     "end": 68.846
+    },
+    {
+     "w": "indice,",
+     "start": 68.846,
+     "end": 69.282
+    },
+    {
+     "w": "et",
+     "start": 69.282,
+     "end": 69.434
+    },
+    {
+     "w": "c'est",
+     "start": 69.434,
+     "end": 69.674
+    },
+    {
+     "w": "lui",
+     "start": 69.674,
+     "end": 69.87
+    },
+    {
+     "w": "que",
+     "start": 69.87,
+     "end": 70.066
+    },
+    {
+     "w": "personne",
+     "start": 70.066,
+     "end": 70.48
+    },
+    {
+     "w": "voit.",
+     "start": 70.48,
+     "end": 70.828
+    },
+    {
+     "w": "Dans",
+     "start": 70.878,
+     "end": 71.174
+    },
+    {
+     "w": "une",
+     "start": 71.174,
+     "end": 71.417
+    },
+    {
+     "w": "romcom,",
+     "start": 71.417,
+     "end": 71.955
+    },
+    {
+     "w": "le",
+     "start": 71.955,
+     "end": 72.143
+    },
+    {
+     "w": "premier",
+     "start": 72.143,
+     "end": 72.6
+    },
+    {
+     "w": "amour",
+     "start": 72.6,
+     "end": 72.95
+    },
+    {
+     "w": "d'enfance",
+     "start": 72.95,
+     "end": 73.461
+    },
+    {
+     "w": "revient",
+     "start": 73.461,
+     "end": 73.919
+    },
+    {
+     "w": "toujours",
+     "start": 73.919,
+     "end": 74.43
+    },
+    {
+     "w": "pour",
+     "start": 74.43,
+     "end": 74.726
+    },
+    {
+     "w": "foutre",
+     "start": 74.726,
+     "end": 75.13
+    },
+    {
+     "w": "le",
+     "start": 75.13,
+     "end": 75.318
+    },
+    {
+     "w": "bazar.",
+     "start": 75.318,
+     "end": 75.802
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 75.902,
+   "end": 81.906,
+   "slot_end": 82.006,
+   "text": "Maintenant je te donne ce qui contredit tout ça, parce que j'suis honnête. L'anime s'appelle Alya, pas Masha.",
+   "words": [
+    {
+     "w": "Maintenant",
+     "start": 75.902,
+     "end": 76.468
+    },
+    {
+     "w": "je",
+     "start": 76.468,
+     "end": 76.64
+    },
+    {
+     "w": "te",
+     "start": 76.64,
+     "end": 76.813
+    },
+    {
+     "w": "donne",
+     "start": 76.813,
+     "end": 77.133
+    },
+    {
+     "w": "ce",
+     "start": 77.133,
+     "end": 77.305
+    },
+    {
+     "w": "qui",
+     "start": 77.305,
+     "end": 77.526
+    },
+    {
+     "w": "contredit",
+     "start": 77.526,
+     "end": 78.043
+    },
+    {
+     "w": "tout",
+     "start": 78.043,
+     "end": 78.314
+    },
+    {
+     "w": "ça,",
+     "start": 78.314,
+     "end": 78.609
+    },
+    {
+     "w": "parce",
+     "start": 78.609,
+     "end": 78.929
+    },
+    {
+     "w": "que",
+     "start": 78.929,
+     "end": 79.15
+    },
+    {
+     "w": "j'suis",
+     "start": 79.15,
+     "end": 79.47
+    },
+    {
+     "w": "honnête.",
+     "start": 79.47,
+     "end": 80.012
+    },
+    {
+     "w": "L'anime",
+     "start": 80.012,
+     "end": 80.381
+    },
+    {
+     "w": "s'appelle",
+     "start": 80.381,
+     "end": 80.848
+    },
+    {
+     "w": "Alya,",
+     "start": 80.848,
+     "end": 81.242
+    },
+    {
+     "w": "pas",
+     "start": 81.242,
+     "end": 81.463
+    },
+    {
+     "w": "Masha.",
+     "start": 81.463,
+     "end": 81.906
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 82.006,
+   "end": 87.338,
+   "slot_end": 87.438,
+   "text": "Et Masachika a choisi de se présenter aux élections du conseil des élèves avec Alya. Pas avec une autre.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 82.006,
+     "end": 82.165
+    },
+    {
+     "w": "Masachika",
+     "start": 82.165,
+     "end": 82.642
+    },
+    {
+     "w": "a",
+     "start": 82.642,
+     "end": 82.755
+    },
+    {
+     "w": "choisi",
+     "start": 82.755,
+     "end": 83.095
+    },
+    {
+     "w": "de",
+     "start": 83.095,
+     "end": 83.254
+    },
+    {
+     "w": "se",
+     "start": 83.254,
+     "end": 83.413
+    },
+    {
+     "w": "présenter",
+     "start": 83.413,
+     "end": 83.889
+    },
+    {
+     "w": "aux",
+     "start": 83.889,
+     "end": 84.094
+    },
+    {
+     "w": "élections",
+     "start": 84.094,
+     "end": 84.57
+    },
+    {
+     "w": "du",
+     "start": 84.57,
+     "end": 84.729
+    },
+    {
+     "w": "conseil",
+     "start": 84.729,
+     "end": 85.114
+    },
+    {
+     "w": "des",
+     "start": 85.114,
+     "end": 85.319
+    },
+    {
+     "w": "élèves",
+     "start": 85.319,
+     "end": 85.659
+    },
+    {
+     "w": "avec",
+     "start": 85.659,
+     "end": 85.908
+    },
+    {
+     "w": "Alya.",
+     "start": 85.908,
+     "end": 86.271
+    },
+    {
+     "w": "Pas",
+     "start": 86.271,
+     "end": 86.476
+    },
+    {
+     "w": "avec",
+     "start": 86.476,
+     "end": 86.725
+    },
+    {
+     "w": "une",
+     "start": 86.725,
+     "end": 86.929
+    },
+    {
+     "w": "autre.",
+     "start": 86.929,
+     "end": 87.338
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 87.438,
+   "end": 93.848,
+   "slot_end": 93.948,
+   "text": "Il y a aussi Yuki, sa vraie petite sœur, qui tire les ficelles de son côté, et elle va pas lui faciliter la vie.",
+   "words": [
+    {
+     "w": "Il",
+     "start": 87.438,
+     "end": 87.609
+    },
+    {
+     "w": "y",
+     "start": 87.609,
+     "end": 87.731
+    },
+    {
+     "w": "a",
+     "start": 87.731,
+     "end": 87.854
+    },
+    {
+     "w": "aussi",
+     "start": 87.854,
+     "end": 88.172
+    },
+    {
+     "w": "Yuki,",
+     "start": 88.172,
+     "end": 88.563
+    },
+    {
+     "w": "sa",
+     "start": 88.563,
+     "end": 88.734
+    },
+    {
+     "w": "vraie",
+     "start": 88.734,
+     "end": 89.052
+    },
+    {
+     "w": "petite",
+     "start": 89.052,
+     "end": 89.419
+    },
+    {
+     "w": "sœur,",
+     "start": 89.419,
+     "end": 89.811
+    },
+    {
+     "w": "qui",
+     "start": 89.811,
+     "end": 90.031
+    },
+    {
+     "w": "tire",
+     "start": 90.031,
+     "end": 90.3
+    },
+    {
+     "w": "les",
+     "start": 90.3,
+     "end": 90.52
+    },
+    {
+     "w": "ficelles",
+     "start": 90.52,
+     "end": 90.985
+    },
+    {
+     "w": "de",
+     "start": 90.985,
+     "end": 91.156
+    },
+    {
+     "w": "son",
+     "start": 91.156,
+     "end": 91.377
+    },
+    {
+     "w": "côté,",
+     "start": 91.377,
+     "end": 91.768
+    },
+    {
+     "w": "et",
+     "start": 91.768,
+     "end": 91.939
+    },
+    {
+     "w": "elle",
+     "start": 91.939,
+     "end": 92.208
+    },
+    {
+     "w": "va",
+     "start": 92.208,
+     "end": 92.38
+    },
+    {
+     "w": "pas",
+     "start": 92.38,
+     "end": 92.6
+    },
+    {
+     "w": "lui",
+     "start": 92.6,
+     "end": 92.82
+    },
+    {
+     "w": "faciliter",
+     "start": 92.82,
+     "end": 93.334
+    },
+    {
+     "w": "la",
+     "start": 93.334,
+     "end": 93.505
+    },
+    {
+     "w": "vie.",
+     "start": 93.505,
+     "end": 93.848
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 93.948,
+   "end": 100.432,
+   "slot_end": 100.532,
+   "text": "Mais moi j'te le dis, quand Masachika va comprendre qui est Masha, tout le triangle va exploser.",
+   "words": [
+    {
+     "w": "Mais",
+     "start": 93.948,
+     "end": 94.275
+    },
+    {
+     "w": "moi",
+     "start": 94.275,
+     "end": 94.542
+    },
+    {
+     "w": "j'te",
+     "start": 94.542,
+     "end": 94.81
+    },
+    {
+     "w": "le",
+     "start": 94.81,
+     "end": 95.018
+    },
+    {
+     "w": "dis,",
+     "start": 95.018,
+     "end": 95.435
+    },
+    {
+     "w": "quand",
+     "start": 95.435,
+     "end": 95.821
+    },
+    {
+     "w": "Masachika",
+     "start": 95.821,
+     "end": 96.446
+    },
+    {
+     "w": "va",
+     "start": 96.446,
+     "end": 96.654
+    },
+    {
+     "w": "comprendre",
+     "start": 96.654,
+     "end": 97.338
+    },
+    {
+     "w": "qui",
+     "start": 97.338,
+     "end": 97.606
+    },
+    {
+     "w": "est",
+     "start": 97.606,
+     "end": 97.874
+    },
+    {
+     "w": "Masha,",
+     "start": 97.874,
+     "end": 98.409
+    },
+    {
+     "w": "tout",
+     "start": 98.409,
+     "end": 98.736
+    },
+    {
+     "w": "le",
+     "start": 98.736,
+     "end": 98.944
+    },
+    {
+     "w": "triangle",
+     "start": 98.944,
+     "end": 99.51
+    },
+    {
+     "w": "va",
+     "start": 99.51,
+     "end": 99.718
+    },
+    {
+     "w": "exploser.",
+     "start": 99.718,
+     "end": 100.432
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "start": 100.532,
+   "end": 106.358,
+   "slot_end": 106.458,
+   "text": "Alors, team Alya ou team Masha ? Dis-moi en com', je veux voir la guerre.",
+   "words": [
+    {
+     "w": "Alors,",
+     "start": 100.532,
+     "end": 101.145
+    },
+    {
+     "w": "team",
+     "start": 101.145,
+     "end": 101.52
+    },
+    {
+     "w": "Alya",
+     "start": 101.52,
+     "end": 101.895
+    },
+    {
+     "w": "ou",
+     "start": 101.895,
+     "end": 102.133
+    },
+    {
+     "w": "team",
+     "start": 102.133,
+     "end": 102.508
+    },
+    {
+     "w": "Masha",
+     "start": 102.508,
+     "end": 102.951
+    },
+    {
+     "w": "?",
+     "start": 102.951,
+     "end": 103.223
+    },
+    {
+     "w": "Dis-moi",
+     "start": 103.223,
+     "end": 103.734
+    },
+    {
+     "w": "en",
+     "start": 103.734,
+     "end": 103.973
+    },
+    {
+     "w": "com',",
+     "start": 103.973,
+     "end": 104.45
+    },
+    {
+     "w": "je",
+     "start": 104.45,
+     "end": 104.689
+    },
+    {
+     "w": "veux",
+     "start": 104.689,
+     "end": 105.063
+    },
+    {
+     "w": "voir",
+     "start": 105.063,
+     "end": 105.438
+    },
+    {
+     "w": "la",
+     "start": 105.438,
+     "end": 105.677
+    },
+    {
+     "w": "guerre.",
+     "start": 105.677,
+     "end": 106.358
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "start": 106.458,
+   "end": 109.974,
+   "slot_end": 110.674,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 106.458,
+     "end": 106.947
+    },
+    {
+     "w": "Asura.",
+     "start": 106.947,
+     "end": 107.533
+    },
+    {
+     "w": "On",
+     "start": 107.533,
+     "end": 107.76
+    },
+    {
+     "w": "se",
+     "start": 107.76,
+     "end": 107.988
+    },
+    {
+     "w": "capte",
+     "start": 107.988,
+     "end": 108.412
+    },
+    {
+     "w": "au",
+     "start": 108.412,
+     "end": 108.639
+    },
+    {
+     "w": "prochain",
+     "start": 108.639,
+     "end": 109.258
+    },
+    {
+     "w": "épisode.",
+     "start": 109.258,
+     "end": 109.974
+    }
+   ]
+  }
+ ],
+ "aligned": false
+}
