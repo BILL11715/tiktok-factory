@@ -1,0 +1,33 @@
+{
+  "title": "Reco : l'histoire commence quand l'héroïne est déjà morte",
+  "format": "reco",
+  "tone": "pote",
+  "music": "pote",
+  "animes": ["The Detective Is Already Dead Season 2"],
+  "hook_text": "L'histoire commence alors que l'héroïne est déjà morte depuis un an",
+  "spoiler": false,
+  "segments": [
+    {"text": "L'histoire commence alors que l'héroïne est déjà morte depuis un an.", "sfx": true, "emphasis": ["morte"], "grade": "bw"},
+    {"text": "[whispering] Reste jusqu'au bout, j'te donne le nom, et la suite vient tout juste de sortir.", "emphasis": ["suite"]},
+    {"text": "Le héros, c'est Kimihiko. Un gars qui attire les galères comme un aimant, frr, il peut pas sortir acheter du pain sans tomber sur un crime.", "emphasis": ["galères"],
+     "shots": [{"anime": "The Detective Is Already Dead Season 2", "kind": "character", "character": "Kimihiko", "at": "Kimihiko"}]},
+    {"text": "Un jour il est dans un avion, et l'hôtesse demande au micro s'il y a un détective à bord. Ouais, carrément.", "emphasis": ["détective"]},
+    {"text": "[surprised] Et là, une fille aux cheveux blancs lève la main. C'est Siesta, et elle le prend comme assistant sans lui demander son avis.", "emphasis": ["Siesta"],
+     "shots": [{"anime": "The Detective Is Already Dead Season 2", "kind": "character", "character": "Siesta", "at": "Siesta"}]},
+    {"text": "Pendant trois ans, ils font le tour du monde pour traquer une organisation secrète, la SPES, avec des ennemis complètement barrés.", "emphasis": ["SPES"]},
+    {"text": "Sauf que Siesta meurt. Et Kimihiko rentre au Japon pour vivre une vie normale, enfin, il essaie.", "grade": "bw", "sfx": true, "emphasis": ["meurt"]},
+    {"text": "Si t'aimes les recos d'animes qui sortent en ce moment, abonne-toi, j'en poste tous les jours et je trie pour toi.", "cta": true},
+    {"text": "Un an plus tard, une lycéenne, Nagisa, débarque dans sa vie. Elle a reçu une greffe de cœur, et ce cœur cherche quelqu'un.", "emphasis": ["cœur"], "sfx": true,
+     "shots": [{"anime": "The Detective Is Already Dead Season 2", "kind": "character", "character": "Nagisa", "at": "Nagisa"}]},
+    {"text": "[whispering] Je te dis pas à qui il appartenait, ce cœur. Mais je pense que t'as déjà deviné.", "grade": "bw"},
+    {"text": "Ajoute Yui, une idole qui cache un gros secret, et Charlotte, une agente qui fonce dans le tas, et t'as un casting vraiment chaud.", "emphasis": ["Yui", "Charlotte"]},
+    {"text": "Mon avis ? La saison 1 avait un rythme un peu bancal, je vais pas te mentir. Mais l'ambiance mélancolique, elle m'a eu direct.", "stamp": "SOUS-COTÉ", "emphasis": ["mélancolique"]},
+    {"text": "[laughing] Et leurs échanges sont trop drôles, Siesta le traite comme un larbin, lui râle tout le temps, mais tu sens qu'ils sont inséparables.", "emphasis": ["larbin"]},
+    {"text": "[excited] Ça s'appelle The Detective Is Already Dead, la saison 2 vient de commencer, donc c'est le moment de rattraper la première.", "emphasis": ["saison 2"]},
+    {"text": "Dis-moi en com' si tu l'as déjà vu, et ce que t'as pensé de Siesta."}
+  ],
+  "reveal_text": "The Detective Is Already Dead",
+  "reveal_segments": 2,
+  "caption": "Elle est morte avant même le premier épisode, et pourtant c'est elle qui mène tout 🕵️ tu l'as vu ?",
+  "hashtags": ["#anime", "#manga", "#animefr", "#otakufr", "#tanteiwamoushindeiru", "#recommandationanime"]
+}
