@@ -1,0 +1,110 @@
+{
+  "title": "Reco : son crush vit chez lui et personne doit le savoir",
+  "format": "reco",
+  "tone": "pote",
+  "music": "pote",
+  "animes": [
+    "Blue Box Season 2"
+  ],
+  "hook_text": "Le crush de ce gamin vit sous son toit, et personne doit le savoir",
+  "spoiler": false,
+  "segments": [
+    {
+      "text": "Le crush de ce gamin vit sous son toit, et personne doit le savoir.",
+      "sfx": true,
+      "emphasis": [
+        "sous son toit"
+      ]
+    },
+    {
+      "text": "[whispering] Reste jusqu'au bout, j'te donne le nom, et la saison 2 vient tout juste de sortir.",
+      "emphasis": [
+        "saison 2"
+      ]
+    },
+    {
+      "text": "Le gamin, c'est Taiki. Il fait du badminton, et tous les matins il arrive au gymnase super tôt pour s'entraîner.",
+      "emphasis": [
+        "Taiki"
+      ]
+    },
+    {
+      "text": "Sauf qu'y a toujours quelqu'un avant lui. Chinatsu, la star de l'équipe de basket des filles, un an de plus que lui.",
+      "emphasis": [
+        "Chinatsu"
+      ]
+    },
+    {
+      "text": "Lui, il la regarde shooter tous les matins sans oser lui dire un mot. Classique, on a tous connu ça frr."
+    },
+    {
+      "text": "[surprised] Et là, les parents de Chinatsu partent à l'étranger pour le boulot. Elle, elle veut rester ici pour son basket.",
+      "emphasis": [
+        "l'étranger"
+      ]
+    },
+    {
+      "text": "Et comme sa mère et celle de Taiki sont copines, devine où elle atterrit. Chez lui. Dans la même maison.",
+      "sfx": true,
+      "stamp": "COLOC",
+      "emphasis": [
+        "chez lui"
+      ]
+    },
+    {
+      "text": "Si t'aimes ce genre de reco, abonne-toi, j'en sors tous les jours et la prochaine est déjà prête.",
+      "cta": true
+    },
+    {
+      "text": "Du coup le gars la croise au petit déj, et au lycée ils doivent faire comme si de rien n'était.",
+      "emphasis": [
+        "petit déj"
+      ]
+    },
+    {
+      "text": "[laughing] Il doit cacher qu'il vit avec la fille la plus populaire du lycée, j'te jure c'est chaud."
+    },
+    {
+      "text": "Et y'a Hina, sa pote d'enfance, qui fait de la gym rythmique. Elle, elle voit tout. Et elle dit rien, pour l'instant.",
+      "grade": "bw",
+      "sfx": true,
+      "emphasis": [
+        "Hina"
+      ]
+    },
+    {
+      "text": "[sigh] Franchement, c'est la romance la plus sobre que j'ai vue depuis longtemps. Pas de cris, pas de quiproquo débile."
+    },
+    {
+      "text": "Ce qui marche, c'est que les deux bossent comme des malades pour leur sport. Le sport compte autant que la romance."
+    },
+    {
+      "text": "Ils visent tous les deux l'Inter-High, et ce rêve passe avant le reste. Du coup chaque petit moment entre eux devient énorme.",
+      "grade": "bw",
+      "emphasis": [
+        "Inter-High"
+      ]
+    },
+    {
+      "text": "[excited] Mon avis tranché, c'est la meilleure romance sportive de ces dernières années, et la saison 2 tourne en ce moment.",
+      "stamp": "VALIDÉ",
+      "emphasis": [
+        "meilleure"
+      ]
+    },
+    {
+      "text": "L'anime, c'est Blue Box. Dis-moi en com' si t'es team Chinatsu ou team Hina."
+    }
+  ],
+  "reveal_text": "Blue Box",
+  "reveal_segments": 1,
+  "caption": "Vivre avec son crush et faire semblant de rien au lycée 😭 t'es team Chinatsu ou team Hina ?",
+  "hashtags": [
+    "#anime",
+    "#manga",
+    "#animefr",
+    "#mangafr",
+    "#bluebox",
+    "#recommandationanime"
+  ]
+}
