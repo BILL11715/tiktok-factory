@@ -1,0 +1,1731 @@
+{
+ "engine": "piper",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-07_2045/voice.wav",
+ "duration": 89.475,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 2.927,
+   "slot_end": 3.027,
+   "text": "Le crush de ce gamin vit sous son toit, et personne doit le savoir.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 0.0,
+     "end": 0.131
+    },
+    {
+     "w": "crush",
+     "start": 0.131,
+     "end": 0.375
+    },
+    {
+     "w": "de",
+     "start": 0.375,
+     "end": 0.507
+    },
+    {
+     "w": "ce",
+     "start": 0.507,
+     "end": 0.638
+    },
+    {
+     "w": "gamin",
+     "start": 0.638,
+     "end": 0.882
+    },
+    {
+     "w": "vit",
+     "start": 0.882,
+     "end": 1.051
+    },
+    {
+     "w": "sous",
+     "start": 1.051,
+     "end": 1.257
+    },
+    {
+     "w": "son",
+     "start": 1.257,
+     "end": 1.426
+    },
+    {
+     "w": "toit,",
+     "start": 1.426,
+     "end": 1.726
+    },
+    {
+     "w": "et",
+     "start": 1.726,
+     "end": 1.857
+    },
+    {
+     "w": "personne",
+     "start": 1.857,
+     "end": 2.214
+    },
+    {
+     "w": "doit",
+     "start": 2.214,
+     "end": 2.42
+    },
+    {
+     "w": "le",
+     "start": 2.42,
+     "end": 2.551
+    },
+    {
+     "w": "savoir.",
+     "start": 2.551,
+     "end": 2.927
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 3.027,
+   "end": 7.341,
+   "slot_end": 7.441,
+   "text": "Reste jusqu'au bout, j'te donne le nom, et la saison 2 vient tout juste de sortir.",
+   "words": [
+    {
+     "w": "Reste",
+     "start": 3.027,
+     "end": 3.327
+    },
+    {
+     "w": "jusqu'au",
+     "start": 3.327,
+     "end": 3.719
+    },
+    {
+     "w": "bout,",
+     "start": 3.719,
+     "end": 4.088
+    },
+    {
+     "w": "j'te",
+     "start": 4.088,
+     "end": 4.295
+    },
+    {
+     "w": "donne",
+     "start": 4.295,
+     "end": 4.595
+    },
+    {
+     "w": "le",
+     "start": 4.595,
+     "end": 4.757
+    },
+    {
+     "w": "nom,",
+     "start": 4.757,
+     "end": 5.08
+    },
+    {
+     "w": "et",
+     "start": 5.08,
+     "end": 5.241
+    },
+    {
+     "w": "la",
+     "start": 5.241,
+     "end": 5.403
+    },
+    {
+     "w": "saison",
+     "start": 5.403,
+     "end": 5.749
+    },
+    {
+     "w": "2",
+     "start": 5.749,
+     "end": 5.864
+    },
+    {
+     "w": "vient",
+     "start": 5.864,
+     "end": 6.164
+    },
+    {
+     "w": "tout",
+     "start": 6.164,
+     "end": 6.418
+    },
+    {
+     "w": "juste",
+     "start": 6.418,
+     "end": 6.718
+    },
+    {
+     "w": "de",
+     "start": 6.718,
+     "end": 6.879
+    },
+    {
+     "w": "sortir.",
+     "start": 6.879,
+     "end": 7.341
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 7.441,
+   "end": 14.673,
+   "slot_end": 14.773,
+   "text": "Le gamin, c'est Taiki. Il fait du badminton, et tous les matins il arrive au gymnase super tôt pour s'entraîner.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 7.441,
+     "end": 7.64
+    },
+    {
+     "w": "gamin,",
+     "start": 7.64,
+     "end": 8.152
+    },
+    {
+     "w": "c'est",
+     "start": 8.152,
+     "end": 8.466
+    },
+    {
+     "w": "Taiki.",
+     "start": 8.466,
+     "end": 8.978
+    },
+    {
+     "w": "Il",
+     "start": 8.978,
+     "end": 9.178
+    },
+    {
+     "w": "fait",
+     "start": 9.178,
+     "end": 9.491
+    },
+    {
+     "w": "du",
+     "start": 9.491,
+     "end": 9.69
+    },
+    {
+     "w": "badminton,",
+     "start": 9.69,
+     "end": 10.43
+    },
+    {
+     "w": "et",
+     "start": 10.43,
+     "end": 10.63
+    },
+    {
+     "w": "tous",
+     "start": 10.63,
+     "end": 10.943
+    },
+    {
+     "w": "les",
+     "start": 10.943,
+     "end": 11.199
+    },
+    {
+     "w": "matins",
+     "start": 11.199,
+     "end": 11.626
+    },
+    {
+     "w": "il",
+     "start": 11.626,
+     "end": 11.826
+    },
+    {
+     "w": "arrive",
+     "start": 11.826,
+     "end": 12.253
+    },
+    {
+     "w": "au",
+     "start": 12.253,
+     "end": 12.452
+    },
+    {
+     "w": "gymnase",
+     "start": 12.452,
+     "end": 12.936
+    },
+    {
+     "w": "super",
+     "start": 12.936,
+     "end": 13.306
+    },
+    {
+     "w": "tôt",
+     "start": 13.306,
+     "end": 13.562
+    },
+    {
+     "w": "pour",
+     "start": 13.562,
+     "end": 13.876
+    },
+    {
+     "w": "s'entraîner.",
+     "start": 13.876,
+     "end": 14.673
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 14.773,
+   "end": 20.036,
+   "slot_end": 20.136,
+   "text": "Sauf qu'y a toujours quelqu'un avant lui. Chinatsu, la star de l'équipe de basket des filles, un an de plus que lui.",
+   "words": [
+    {
+     "w": "Sauf",
+     "start": 14.773,
+     "end": 14.968
+    },
+    {
+     "w": "qu'y",
+     "start": 14.968,
+     "end": 15.129
+    },
+    {
+     "w": "a",
+     "start": 15.129,
+     "end": 15.217
+    },
+    {
+     "w": "toujours",
+     "start": 15.217,
+     "end": 15.555
+    },
+    {
+     "w": "quelqu'un",
+     "start": 15.555,
+     "end": 15.893
+    },
+    {
+     "w": "avant",
+     "start": 15.893,
+     "end": 16.125
+    },
+    {
+     "w": "lui.",
+     "start": 16.125,
+     "end": 16.374
+    },
+    {
+     "w": "Chinatsu,",
+     "start": 16.424,
+     "end": 16.928
+    },
+    {
+     "w": "la",
+     "start": 16.928,
+     "end": 17.075
+    },
+    {
+     "w": "star",
+     "start": 17.075,
+     "end": 17.306
+    },
+    {
+     "w": "de",
+     "start": 17.306,
+     "end": 17.453
+    },
+    {
+     "w": "l'équipe",
+     "start": 17.453,
+     "end": 17.81
+    },
+    {
+     "w": "de",
+     "start": 17.81,
+     "end": 17.957
+    },
+    {
+     "w": "basket",
+     "start": 17.957,
+     "end": 18.272
+    },
+    {
+     "w": "des",
+     "start": 18.272,
+     "end": 18.461
+    },
+    {
+     "w": "filles,",
+     "start": 18.461,
+     "end": 18.881
+    },
+    {
+     "w": "un",
+     "start": 18.881,
+     "end": 19.028
+    },
+    {
+     "w": "an",
+     "start": 19.028,
+     "end": 19.175
+    },
+    {
+     "w": "de",
+     "start": 19.175,
+     "end": 19.322
+    },
+    {
+     "w": "plus",
+     "start": 19.322,
+     "end": 19.553
+    },
+    {
+     "w": "que",
+     "start": 19.553,
+     "end": 19.742
+    },
+    {
+     "w": "lui.",
+     "start": 19.742,
+     "end": 20.036
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 20.136,
+   "end": 26.03,
+   "slot_end": 26.13,
+   "text": "Lui, il la regarde shooter tous les matins sans oser lui dire un mot. Classique, on a tous connu ça frr.",
+   "words": [
+    {
+     "w": "Lui,",
+     "start": 20.136,
+     "end": 20.475
+    },
+    {
+     "w": "il",
+     "start": 20.475,
+     "end": 20.645
+    },
+    {
+     "w": "la",
+     "start": 20.645,
+     "end": 20.815
+    },
+    {
+     "w": "regarde",
+     "start": 20.815,
+     "end": 21.227
+    },
+    {
+     "w": "shooter",
+     "start": 21.227,
+     "end": 21.64
+    },
+    {
+     "w": "tous",
+     "start": 21.64,
+     "end": 21.907
+    },
+    {
+     "w": "les",
+     "start": 21.907,
+     "end": 22.125
+    },
+    {
+     "w": "matins",
+     "start": 22.125,
+     "end": 22.489
+    },
+    {
+     "w": "sans",
+     "start": 22.489,
+     "end": 22.756
+    },
+    {
+     "w": "oser",
+     "start": 22.756,
+     "end": 23.022
+    },
+    {
+     "w": "lui",
+     "start": 23.022,
+     "end": 23.241
+    },
+    {
+     "w": "dire",
+     "start": 23.241,
+     "end": 23.507
+    },
+    {
+     "w": "un",
+     "start": 23.507,
+     "end": 23.677
+    },
+    {
+     "w": "mot.",
+     "start": 23.677,
+     "end": 24.017
+    },
+    {
+     "w": "Classique,",
+     "start": 24.017,
+     "end": 24.647
+    },
+    {
+     "w": "on",
+     "start": 24.647,
+     "end": 24.817
+    },
+    {
+     "w": "a",
+     "start": 24.817,
+     "end": 24.939
+    },
+    {
+     "w": "tous",
+     "start": 24.939,
+     "end": 25.205
+    },
+    {
+     "w": "connu",
+     "start": 25.205,
+     "end": 25.521
+    },
+    {
+     "w": "ça",
+     "start": 25.521,
+     "end": 25.69
+    },
+    {
+     "w": "frr.",
+     "start": 25.69,
+     "end": 26.03
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 26.13,
+   "end": 30.796,
+   "slot_end": 30.896,
+   "text": "Et là, les parents de Chinatsu partent à l'étranger pour le boulot. Elle, elle veut rester ici pour son basket.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 26.13,
+     "end": 26.254
+    },
+    {
+     "w": "là,",
+     "start": 26.254,
+     "end": 26.467
+    },
+    {
+     "w": "les",
+     "start": 26.467,
+     "end": 26.626
+    },
+    {
+     "w": "parents",
+     "start": 26.626,
+     "end": 26.927
+    },
+    {
+     "w": "de",
+     "start": 26.927,
+     "end": 27.051
+    },
+    {
+     "w": "Chinatsu",
+     "start": 27.051,
+     "end": 27.388
+    },
+    {
+     "w": "partent",
+     "start": 27.388,
+     "end": 27.689
+    },
+    {
+     "w": "à",
+     "start": 27.689,
+     "end": 27.777
+    },
+    {
+     "w": "l'étranger",
+     "start": 27.777,
+     "end": 28.149
+    },
+    {
+     "w": "pour",
+     "start": 28.149,
+     "end": 28.344
+    },
+    {
+     "w": "le",
+     "start": 28.344,
+     "end": 28.468
+    },
+    {
+     "w": "boulot.",
+     "start": 28.468,
+     "end": 28.823
+    },
+    {
+     "w": "Elle,",
+     "start": 28.873,
+     "end": 29.174
+    },
+    {
+     "w": "elle",
+     "start": 29.174,
+     "end": 29.382
+    },
+    {
+     "w": "veut",
+     "start": 29.382,
+     "end": 29.589
+    },
+    {
+     "w": "rester",
+     "start": 29.589,
+     "end": 29.872
+    },
+    {
+     "w": "ici",
+     "start": 29.872,
+     "end": 30.042
+    },
+    {
+     "w": "pour",
+     "start": 30.042,
+     "end": 30.249
+    },
+    {
+     "w": "son",
+     "start": 30.249,
+     "end": 30.419
+    },
+    {
+     "w": "basket.",
+     "start": 30.419,
+     "end": 30.796
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 30.896,
+   "end": 40.739,
+   "slot_end": 40.839,
+   "text": "Et comme sa mère et celle de Taiki sont copines, devine où elle atterrit. Chez lui. Dans la même maison.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 30.896,
+     "end": 31.181
+    },
+    {
+     "w": "comme",
+     "start": 31.181,
+     "end": 31.709
+    },
+    {
+     "w": "sa",
+     "start": 31.709,
+     "end": 31.994
+    },
+    {
+     "w": "mère",
+     "start": 31.994,
+     "end": 32.441
+    },
+    {
+     "w": "et",
+     "start": 32.441,
+     "end": 32.726
+    },
+    {
+     "w": "celle",
+     "start": 32.726,
+     "end": 33.255
+    },
+    {
+     "w": "de",
+     "start": 33.255,
+     "end": 33.54
+    },
+    {
+     "w": "Taiki",
+     "start": 33.54,
+     "end": 34.068
+    },
+    {
+     "w": "sont",
+     "start": 34.068,
+     "end": 34.516
+    },
+    {
+     "w": "copines,",
+     "start": 34.516,
+     "end": 35.411
+    },
+    {
+     "w": "devine",
+     "start": 35.411,
+     "end": 36.021
+    },
+    {
+     "w": "où",
+     "start": 36.021,
+     "end": 36.306
+    },
+    {
+     "w": "elle",
+     "start": 36.306,
+     "end": 36.753
+    },
+    {
+     "w": "atterrit.",
+     "start": 36.753,
+     "end": 37.729
+    },
+    {
+     "w": "Chez",
+     "start": 37.729,
+     "end": 38.177
+    },
+    {
+     "w": "lui.",
+     "start": 38.177,
+     "end": 38.746
+    },
+    {
+     "w": "Dans",
+     "start": 38.746,
+     "end": 39.193
+    },
+    {
+     "w": "la",
+     "start": 39.193,
+     "end": 39.478
+    },
+    {
+     "w": "même",
+     "start": 39.478,
+     "end": 39.926
+    },
+    {
+     "w": "maison.",
+     "start": 39.926,
+     "end": 40.739
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 40.839,
+   "end": 44.973,
+   "slot_end": 45.073,
+   "text": "Si t'aimes ce genre de reco, abonne-toi, j'en sors tous les jours et la prochaine est déjà prête.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 40.839,
+     "end": 40.972
+    },
+    {
+     "w": "t'aimes",
+     "start": 40.972,
+     "end": 41.258
+    },
+    {
+     "w": "ce",
+     "start": 41.258,
+     "end": 41.392
+    },
+    {
+     "w": "genre",
+     "start": 41.392,
+     "end": 41.639
+    },
+    {
+     "w": "de",
+     "start": 41.639,
+     "end": 41.773
+    },
+    {
+     "w": "reco,",
+     "start": 41.773,
+     "end": 42.077
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 42.077,
+     "end": 42.573
+    },
+    {
+     "w": "j'en",
+     "start": 42.573,
+     "end": 42.744
+    },
+    {
+     "w": "sors",
+     "start": 42.744,
+     "end": 42.954
+    },
+    {
+     "w": "tous",
+     "start": 42.954,
+     "end": 43.163
+    },
+    {
+     "w": "les",
+     "start": 43.163,
+     "end": 43.335
+    },
+    {
+     "w": "jours",
+     "start": 43.335,
+     "end": 43.582
+    },
+    {
+     "w": "et",
+     "start": 43.582,
+     "end": 43.716
+    },
+    {
+     "w": "la",
+     "start": 43.716,
+     "end": 43.849
+    },
+    {
+     "w": "prochaine",
+     "start": 43.849,
+     "end": 44.249
+    },
+    {
+     "w": "est",
+     "start": 44.249,
+     "end": 44.421
+    },
+    {
+     "w": "déjà",
+     "start": 44.421,
+     "end": 44.63
+    },
+    {
+     "w": "prête.",
+     "start": 44.63,
+     "end": 44.973
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 45.073,
+   "end": 48.966,
+   "slot_end": 49.066,
+   "text": "Du coup le gars la croise au petit déj, et au lycée ils doivent faire comme si de rien n'était.",
+   "words": [
+    {
+     "w": "Du",
+     "start": 45.073,
+     "end": 45.199
+    },
+    {
+     "w": "coup",
+     "start": 45.199,
+     "end": 45.397
+    },
+    {
+     "w": "le",
+     "start": 45.397,
+     "end": 45.524
+    },
+    {
+     "w": "gars",
+     "start": 45.524,
+     "end": 45.722
+    },
+    {
+     "w": "la",
+     "start": 45.722,
+     "end": 45.848
+    },
+    {
+     "w": "croise",
+     "start": 45.848,
+     "end": 46.118
+    },
+    {
+     "w": "au",
+     "start": 46.118,
+     "end": 46.245
+    },
+    {
+     "w": "petit",
+     "start": 46.245,
+     "end": 46.479
+    },
+    {
+     "w": "déj,",
+     "start": 46.479,
+     "end": 46.731
+    },
+    {
+     "w": "et",
+     "start": 46.731,
+     "end": 46.857
+    },
+    {
+     "w": "au",
+     "start": 46.857,
+     "end": 46.984
+    },
+    {
+     "w": "lycée",
+     "start": 46.984,
+     "end": 47.218
+    },
+    {
+     "w": "ils",
+     "start": 47.218,
+     "end": 47.38
+    },
+    {
+     "w": "doivent",
+     "start": 47.38,
+     "end": 47.687
+    },
+    {
+     "w": "faire",
+     "start": 47.687,
+     "end": 47.921
+    },
+    {
+     "w": "comme",
+     "start": 47.921,
+     "end": 48.155
+    },
+    {
+     "w": "si",
+     "start": 48.155,
+     "end": 48.281
+    },
+    {
+     "w": "de",
+     "start": 48.281,
+     "end": 48.407
+    },
+    {
+     "w": "rien",
+     "start": 48.407,
+     "end": 48.606
+    },
+    {
+     "w": "n'était.",
+     "start": 48.606,
+     "end": 48.966
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 49.066,
+   "end": 52.915,
+   "slot_end": 53.015,
+   "text": "Il doit cacher qu'il vit avec la fille la plus populaire du lycée, j'te jure c'est chaud.",
+   "words": [
+    {
+     "w": "Il",
+     "start": 49.066,
+     "end": 49.203
+    },
+    {
+     "w": "doit",
+     "start": 49.203,
+     "end": 49.418
+    },
+    {
+     "w": "cacher",
+     "start": 49.418,
+     "end": 49.711
+    },
+    {
+     "w": "qu'il",
+     "start": 49.711,
+     "end": 49.926
+    },
+    {
+     "w": "vit",
+     "start": 49.926,
+     "end": 50.102
+    },
+    {
+     "w": "avec",
+     "start": 50.102,
+     "end": 50.317
+    },
+    {
+     "w": "la",
+     "start": 50.317,
+     "end": 50.453
+    },
+    {
+     "w": "fille",
+     "start": 50.453,
+     "end": 50.707
+    },
+    {
+     "w": "la",
+     "start": 50.707,
+     "end": 50.844
+    },
+    {
+     "w": "plus",
+     "start": 50.844,
+     "end": 51.059
+    },
+    {
+     "w": "populaire",
+     "start": 51.059,
+     "end": 51.469
+    },
+    {
+     "w": "du",
+     "start": 51.469,
+     "end": 51.606
+    },
+    {
+     "w": "lycée,",
+     "start": 51.606,
+     "end": 51.958
+    },
+    {
+     "w": "j'te",
+     "start": 51.958,
+     "end": 52.134
+    },
+    {
+     "w": "jure",
+     "start": 52.134,
+     "end": 52.349
+    },
+    {
+     "w": "c'est",
+     "start": 52.349,
+     "end": 52.564
+    },
+    {
+     "w": "chaud.",
+     "start": 52.564,
+     "end": 52.915
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 53.015,
+   "end": 59.173,
+   "slot_end": 59.273,
+   "text": "Et y'a Hina, sa pote d'enfance, qui fait de la gym rythmique. Elle, elle voit tout. Et elle dit rien, pour l'instant.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 53.015,
+     "end": 53.173
+    },
+    {
+     "w": "y'a",
+     "start": 53.173,
+     "end": 53.331
+    },
+    {
+     "w": "Hina,",
+     "start": 53.331,
+     "end": 53.692
+    },
+    {
+     "w": "sa",
+     "start": 53.692,
+     "end": 53.85
+    },
+    {
+     "w": "pote",
+     "start": 53.85,
+     "end": 54.098
+    },
+    {
+     "w": "d'enfance,",
+     "start": 54.098,
+     "end": 54.639
+    },
+    {
+     "w": "qui",
+     "start": 54.639,
+     "end": 54.842
+    },
+    {
+     "w": "fait",
+     "start": 54.842,
+     "end": 55.091
+    },
+    {
+     "w": "de",
+     "start": 55.091,
+     "end": 55.248
+    },
+    {
+     "w": "la",
+     "start": 55.248,
+     "end": 55.406
+    },
+    {
+     "w": "gym",
+     "start": 55.406,
+     "end": 55.609
+    },
+    {
+     "w": "rythmique.",
+     "start": 55.609,
+     "end": 56.196
+    },
+    {
+     "w": "Elle,",
+     "start": 56.196,
+     "end": 56.557
+    },
+    {
+     "w": "elle",
+     "start": 56.557,
+     "end": 56.805
+    },
+    {
+     "w": "voit",
+     "start": 56.805,
+     "end": 57.053
+    },
+    {
+     "w": "tout.",
+     "start": 57.053,
+     "end": 57.414
+    },
+    {
+     "w": "Et",
+     "start": 57.414,
+     "end": 57.572
+    },
+    {
+     "w": "elle",
+     "start": 57.572,
+     "end": 57.82
+    },
+    {
+     "w": "dit",
+     "start": 57.82,
+     "end": 58.023
+    },
+    {
+     "w": "rien,",
+     "start": 58.023,
+     "end": 58.384
+    },
+    {
+     "w": "pour",
+     "start": 58.384,
+     "end": 58.632
+    },
+    {
+     "w": "l'instant.",
+     "start": 58.632,
+     "end": 59.173
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 59.273,
+   "end": 64.411,
+   "slot_end": 64.511,
+   "text": "Franchement, c'est la romance la plus sobre que j'ai vue depuis longtemps. Pas de cris, pas de quiproquo débile.",
+   "words": [
+    {
+     "w": "Franchement,",
+     "start": 59.273,
+     "end": 59.882
+    },
+    {
+     "w": "c'est",
+     "start": 59.882,
+     "end": 60.106
+    },
+    {
+     "w": "la",
+     "start": 60.106,
+     "end": 60.248
+    },
+    {
+     "w": "romance",
+     "start": 60.248,
+     "end": 60.593
+    },
+    {
+     "w": "la",
+     "start": 60.593,
+     "end": 60.735
+    },
+    {
+     "w": "plus",
+     "start": 60.735,
+     "end": 60.959
+    },
+    {
+     "w": "sobre",
+     "start": 60.959,
+     "end": 61.223
+    },
+    {
+     "w": "que",
+     "start": 61.223,
+     "end": 61.406
+    },
+    {
+     "w": "j'ai",
+     "start": 61.406,
+     "end": 61.588
+    },
+    {
+     "w": "vue",
+     "start": 61.588,
+     "end": 61.771
+    },
+    {
+     "w": "depuis",
+     "start": 61.771,
+     "end": 62.076
+    },
+    {
+     "w": "longtemps.",
+     "start": 62.076,
+     "end": 62.604
+    },
+    {
+     "w": "Pas",
+     "start": 62.604,
+     "end": 62.787
+    },
+    {
+     "w": "de",
+     "start": 62.787,
+     "end": 62.929
+    },
+    {
+     "w": "cris,",
+     "start": 62.929,
+     "end": 63.254
+    },
+    {
+     "w": "pas",
+     "start": 63.254,
+     "end": 63.437
+    },
+    {
+     "w": "de",
+     "start": 63.437,
+     "end": 63.579
+    },
+    {
+     "w": "quiproquo",
+     "start": 63.579,
+     "end": 64.005
+    },
+    {
+     "w": "débile.",
+     "start": 64.005,
+     "end": 64.411
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 64.511,
+   "end": 69.456,
+   "slot_end": 69.556,
+   "text": "Ce qui marche, c'est que les deux bossent comme des malades pour leur sport. Le sport compte autant que la romance.",
+   "words": [
+    {
+     "w": "Ce",
+     "start": 64.511,
+     "end": 64.637
+    },
+    {
+     "w": "qui",
+     "start": 64.637,
+     "end": 64.799
+    },
+    {
+     "w": "marche,",
+     "start": 64.799,
+     "end": 65.158
+    },
+    {
+     "w": "c'est",
+     "start": 65.158,
+     "end": 65.356
+    },
+    {
+     "w": "que",
+     "start": 65.356,
+     "end": 65.517
+    },
+    {
+     "w": "les",
+     "start": 65.517,
+     "end": 65.679
+    },
+    {
+     "w": "deux",
+     "start": 65.679,
+     "end": 65.877
+    },
+    {
+     "w": "bossent",
+     "start": 65.877,
+     "end": 66.182
+    },
+    {
+     "w": "comme",
+     "start": 66.182,
+     "end": 66.415
+    },
+    {
+     "w": "des",
+     "start": 66.415,
+     "end": 66.577
+    },
+    {
+     "w": "malades",
+     "start": 66.577,
+     "end": 66.882
+    },
+    {
+     "w": "pour",
+     "start": 66.882,
+     "end": 67.08
+    },
+    {
+     "w": "leur",
+     "start": 67.08,
+     "end": 67.278
+    },
+    {
+     "w": "sport.",
+     "start": 67.278,
+     "end": 67.601
+    },
+    {
+     "w": "Le",
+     "start": 67.651,
+     "end": 67.795
+    },
+    {
+     "w": "sport",
+     "start": 67.795,
+     "end": 68.061
+    },
+    {
+     "w": "compte",
+     "start": 68.061,
+     "end": 68.369
+    },
+    {
+     "w": "autant",
+     "start": 68.369,
+     "end": 68.677
+    },
+    {
+     "w": "que",
+     "start": 68.677,
+     "end": 68.861
+    },
+    {
+     "w": "la",
+     "start": 68.861,
+     "end": 69.005
+    },
+    {
+     "w": "romance.",
+     "start": 69.005,
+     "end": 69.456
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 69.556,
+   "end": 75.009,
+   "slot_end": 75.109,
+   "text": "Ils visent tous les deux l'Inter-High, et ce rêve passe avant le reste. Du coup chaque petit moment entre eux devient énorme.",
+   "words": [
+    {
+     "w": "Ils",
+     "start": 69.556,
+     "end": 69.735
+    },
+    {
+     "w": "visent",
+     "start": 69.735,
+     "end": 70.033
+    },
+    {
+     "w": "tous",
+     "start": 70.033,
+     "end": 70.251
+    },
+    {
+     "w": "les",
+     "start": 70.251,
+     "end": 70.43
+    },
+    {
+     "w": "deux",
+     "start": 70.43,
+     "end": 70.648
+    },
+    {
+     "w": "l'Inter-High,",
+     "start": 70.648,
+     "end": 71.204
+    },
+    {
+     "w": "et",
+     "start": 71.204,
+     "end": 71.343
+    },
+    {
+     "w": "ce",
+     "start": 71.343,
+     "end": 71.482
+    },
+    {
+     "w": "rêve",
+     "start": 71.482,
+     "end": 71.7
+    },
+    {
+     "w": "passe",
+     "start": 71.7,
+     "end": 71.958
+    },
+    {
+     "w": "avant",
+     "start": 71.958,
+     "end": 72.216
+    },
+    {
+     "w": "le",
+     "start": 72.216,
+     "end": 72.355
+    },
+    {
+     "w": "reste.",
+     "start": 72.355,
+     "end": 72.713
+    },
+    {
+     "w": "Du",
+     "start": 72.763,
+     "end": 72.894
+    },
+    {
+     "w": "coup",
+     "start": 72.894,
+     "end": 73.099
+    },
+    {
+     "w": "chaque",
+     "start": 73.099,
+     "end": 73.38
+    },
+    {
+     "w": "petit",
+     "start": 73.38,
+     "end": 73.624
+    },
+    {
+     "w": "moment",
+     "start": 73.624,
+     "end": 73.904
+    },
+    {
+     "w": "entre",
+     "start": 73.904,
+     "end": 74.148
+    },
+    {
+     "w": "eux",
+     "start": 74.148,
+     "end": 74.316
+    },
+    {
+     "w": "devient",
+     "start": 74.316,
+     "end": 74.634
+    },
+    {
+     "w": "énorme.",
+     "start": 74.634,
+     "end": 75.009
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 75.109,
+   "end": 79.51,
+   "slot_end": 79.61,
+   "text": "Mon avis tranché, c'est la meilleure romance sportive de ces dernières années, et la saison 2 tourne en ce moment.",
+   "words": [
+    {
+     "w": "Mon",
+     "start": 75.109,
+     "end": 75.263
+    },
+    {
+     "w": "avis",
+     "start": 75.263,
+     "end": 75.451
+    },
+    {
+     "w": "tranché,",
+     "start": 75.451,
+     "end": 75.828
+    },
+    {
+     "w": "c'est",
+     "start": 75.828,
+     "end": 76.016
+    },
+    {
+     "w": "la",
+     "start": 76.016,
+     "end": 76.136
+    },
+    {
+     "w": "meilleure",
+     "start": 76.136,
+     "end": 76.496
+    },
+    {
+     "w": "romance",
+     "start": 76.496,
+     "end": 76.787
+    },
+    {
+     "w": "sportive",
+     "start": 76.787,
+     "end": 77.112
+    },
+    {
+     "w": "de",
+     "start": 77.112,
+     "end": 77.232
+    },
+    {
+     "w": "ces",
+     "start": 77.232,
+     "end": 77.386
+    },
+    {
+     "w": "dernières",
+     "start": 77.386,
+     "end": 77.746
+    },
+    {
+     "w": "années,",
+     "start": 77.746,
+     "end": 78.088
+    },
+    {
+     "w": "et",
+     "start": 78.088,
+     "end": 78.208
+    },
+    {
+     "w": "la",
+     "start": 78.208,
+     "end": 78.328
+    },
+    {
+     "w": "saison",
+     "start": 78.328,
+     "end": 78.585
+    },
+    {
+     "w": "2",
+     "start": 78.585,
+     "end": 78.671
+    },
+    {
+     "w": "tourne",
+     "start": 78.671,
+     "end": 78.927
+    },
+    {
+     "w": "en",
+     "start": 78.927,
+     "end": 79.047
+    },
+    {
+     "w": "ce",
+     "start": 79.047,
+     "end": 79.167
+    },
+    {
+     "w": "moment.",
+     "start": 79.167,
+     "end": 79.51
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "start": 79.61,
+   "end": 84.787,
+   "slot_end": 84.887,
+   "text": "L'anime, c'est Blue Box. Dis-moi en com' si t'es team Chinatsu ou team Hina.",
+   "words": [
+    {
+     "w": "L'anime,",
+     "start": 79.61,
+     "end": 80.23
+    },
+    {
+     "w": "c'est",
+     "start": 80.23,
+     "end": 80.571
+    },
+    {
+     "w": "Blue",
+     "start": 80.571,
+     "end": 80.912
+    },
+    {
+     "w": "Box.",
+     "start": 80.912,
+     "end": 81.346
+    },
+    {
+     "w": "Dis-moi",
+     "start": 81.346,
+     "end": 81.811
+    },
+    {
+     "w": "en",
+     "start": 81.811,
+     "end": 82.028
+    },
+    {
+     "w": "com'",
+     "start": 82.028,
+     "end": 82.307
+    },
+    {
+     "w": "si",
+     "start": 82.307,
+     "end": 82.524
+    },
+    {
+     "w": "t'es",
+     "start": 82.524,
+     "end": 82.803
+    },
+    {
+     "w": "team",
+     "start": 82.803,
+     "end": 83.144
+    },
+    {
+     "w": "Chinatsu",
+     "start": 83.144,
+     "end": 83.733
+    },
+    {
+     "w": "ou",
+     "start": 83.733,
+     "end": 83.95
+    },
+    {
+     "w": "team",
+     "start": 83.95,
+     "end": 84.291
+    },
+    {
+     "w": "Hina.",
+     "start": 84.291,
+     "end": 84.787
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "start": 84.887,
+   "end": 88.775,
+   "slot_end": 89.475,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 84.887,
+     "end": 85.427
+    },
+    {
+     "w": "Asura.",
+     "start": 85.427,
+     "end": 86.075
+    },
+    {
+     "w": "On",
+     "start": 86.075,
+     "end": 86.327
+    },
+    {
+     "w": "se",
+     "start": 86.327,
+     "end": 86.579
+    },
+    {
+     "w": "capte",
+     "start": 86.579,
+     "end": 87.047
+    },
+    {
+     "w": "au",
+     "start": 87.047,
+     "end": 87.299
+    },
+    {
+     "w": "prochain",
+     "start": 87.299,
+     "end": 87.983
+    },
+    {
+     "w": "épisode.",
+     "start": 87.983,
+     "end": 88.775
+    }
+   ]
+  }
+ ],
+ "aligned": false
+}

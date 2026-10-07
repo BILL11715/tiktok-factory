@@ -1,0 +1,39 @@
+{
+ "Blue Box Season 2": {
+  "meta": {
+   "id": "49752",
+   "title": "Ao no Hako 2nd Season",
+   "titles": {
+    "en": "Blue Box Season 2",
+    "en_jp": "Ao no Hako 2nd Season",
+    "ja_jp": "アオのハコ 第2期"
+   },
+   "synopsis": "The second season of Ao no Hako",
+   "episodes": null,
+   "start": "2026-10-04",
+   "source": "https://kitsu.io/anime/ao-no-hako-2"
+  },
+  "wide": [
+   "/home/claude/tiktok-factory/runs/2026-10-07_2045/images/3e7c5ba26c32.jpg"
+  ],
+  "tall": [
+   "/home/claude/tiktok-factory/runs/2026-10-07_2045/images/3961174e13b3.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-07_2045/images/8db6c96eba70.jpg"
+  ],
+  "characters": {
+   "Chinatsu Kano": "/home/claude/tiktok-factory/runs/2026-10-07_2045/images/7cbfe695d3c7.png",
+   "Taiki Inomata": "/home/claude/tiktok-factory/runs/2026-10-07_2045/images/3dac3d233257.png",
+   "Hina Chouno": "/home/claude/tiktok-factory/runs/2026-10-07_2045/images/d082951c427a.png",
+   "Kyou Kasahara": "/home/claude/tiktok-factory/runs/2026-10-07_2045/images/5e8647c81fbf.png",
+   "Kengo Haryuu": "/home/claude/tiktok-factory/runs/2026-10-07_2045/images/fe3b24a85d5a.png",
+   "Ayame Moriya": "/home/claude/tiktok-factory/runs/2026-10-07_2045/images/907595e36d7f.png",
+   "Yumeka Gotou": "/home/claude/tiktok-factory/runs/2026-10-07_2045/images/b3bf0154984c.png",
+   "Nagisa Funami": "/home/claude/tiktok-factory/runs/2026-10-07_2045/images/b57304dce3a6.png",
+   "Kazuma Matsuoka": "/home/claude/tiktok-factory/runs/2026-10-07_2045/images/617050f0a4ac.png"
+  },
+  "sources": [
+   "https://kitsu.io/anime/ao-no-hako-2",
+   "https://anilist.co/anime/189123"
+  ]
+ }
+}
