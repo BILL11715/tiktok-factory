@@ -1,0 +1,16 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-07_1745/video.mp4",
+ "duration": 86.161,
+ "shots": 45,
+ "sources": [
+  "https://anilist.co/anime/152677",
+  "https://kitsu.io/anime/tantei-wa-mou-shindeiru-season-2"
+ ],
+ "music": {
+  "file": "pote.mp3",
+  "bpm": 184.6,
+  "offset": 47.39
+ },
+ "sfx": 26,
+ "engine": "remotion (OpenMontage)"
+}
