@@ -1,0 +1,167 @@
+{
+ "title": "Top 5 des persos les plus intelligents de The Apothecary Diaries",
+ "format": "top",
+ "tone": "hype",
+ "music": "hype2",
+ "animes": [
+  "The Apothecary Diaries Season 3"
+ ],
+ "hook_text": "Le perso le plus intelligent d'Apothecary Diaries, c'est pas Maomao",
+ "spoiler": false,
+ "segments": [
+  {
+   "text": "Le perso le plus intelligent d'Apothecary Diaries, c'est pas Maomao.",
+   "sfx": true,
+   "emphasis": [
+    "pas Maomao"
+   ]
+  },
+  {
+   "text": "[whispering] Ouais, j'sais, ça pique. Reste jusqu'au numéro 1, tu vas comprendre pourquoi.",
+   "emphasis": [
+    "numéro 1"
+   ]
+  },
+  {
+   "text": "La saison 3 vient de sortir, on classe les cerveaux du palais.",
+   "emphasis": [
+    "saison 3"
+   ]
+  },
+  {
+   "text": "Numéro 5, Gyokuyou. Tout le monde la voit comme la concubine gentille du palais, mais elle joue sa partie en silence.",
+   "overlay": "#5",
+   "emphasis": [
+    "Gyokuyou"
+   ],
+   "shots": [
+    {
+     "anime": "The Apothecary Diaries Season 3",
+     "kind": "character",
+     "character": "Gyokuyou",
+     "at": "Gyokuyou"
+    }
+   ]
+  },
+  {
+   "text": "C'est elle qui voit direct que Maomao vaut de l'or et la prend comme goûteuse. Elle sait choisir ses pions.",
+   "emphasis": [
+    "goûteuse"
+   ]
+  },
+  {
+   "text": "Numéro 4, Jinshi. [laughing] Le mec passe pour un joli visage qui sourit à tout le monde, et c'est exactement ce qu'il veut que tu penses.",
+   "overlay": "#4",
+   "emphasis": [
+    "Jinshi"
+   ],
+   "shots": [
+    {
+     "anime": "The Apothecary Diaries Season 3",
+     "kind": "character",
+     "character": "Jinshi",
+     "at": "Jinshi"
+    }
+   ]
+  },
+  {
+   "text": "Derrière, il tient tout le palais intérieur et il cache sa vraie identité depuis le début. Faut une sacrée tête pour ça.",
+   "emphasis": [
+    "vraie identité"
+   ]
+  },
+  {
+   "text": "Numéro 3, Maomao. Ouais, elle est que troisième, calmez-vous.",
+   "overlay": "#3",
+   "sfx": true,
+   "emphasis": [
+    "Maomao"
+   ],
+   "shots": [
+    {
+     "anime": "The Apothecary Diaries Season 3",
+     "kind": "character",
+     "character": "Maomao",
+     "at": "Maomao"
+    }
+   ]
+  },
+  {
+   "text": "Dès le début, elle capte que le poison vient de la poudre blanche que les concubines se mettent sur le visage. Les médecins du palais avaient rien vu.",
+   "emphasis": [
+    "poudre blanche"
+   ]
+  },
+  {
+   "text": "Si tu kiffes Apothecary Diaries, abonne-toi, j'en parle toute la saison.",
+   "cta": true
+  },
+  {
+   "text": "Numéro 2, Lakan. [excited] Le stratège fou. Il est incapable de reconnaître un visage, il voit les gens comme des pièces de go.",
+   "overlay": "#2",
+   "emphasis": [
+    "Lakan"
+   ],
+   "shots": [
+    {
+     "anime": "The Apothecary Diaries Season 3",
+     "kind": "character",
+     "character": "Lakan",
+     "at": "Lakan"
+    }
+   ]
+  },
+  {
+   "text": "Et pourtant, il devine qui ment mieux que n'importe qui. Il gagne des batailles comme toi tu joues sur ton tel.",
+   "emphasis": [
+    "stratège"
+   ]
+  },
+  {
+   "text": "Mais attends, le numéro 1 c'est celui qui a tout appris à Maomao, et personne en parle jamais.",
+   "sfx": true,
+   "grade": "bw",
+   "emphasis": [
+    "numéro 1"
+   ]
+  },
+  {
+   "text": "Numéro 1, Luomen, son père adoptif. [sad] Un ancien médecin du palais, viré comme un malpropre, qui finit par soigner les gens du quartier des plaisirs.",
+   "overlay": "#1",
+   "grade": "bw",
+   "stamp": "SOUS-COTÉ",
+   "emphasis": [
+    "Luomen"
+   ],
+   "shots": [
+    {
+     "anime": "The Apothecary Diaries Season 3",
+     "kind": "character",
+     "character": "Luomen",
+     "at": "Luomen"
+    }
+   ]
+  },
+  {
+   "text": "Calme, poli, il dit jamais un mot de trop, mais il voit tout. Tout le savoir de Maomao, c'est lui. Pour moi, il est au-dessus.",
+   "emphasis": [
+    "voit tout"
+   ]
+  },
+  {
+   "text": "Et toi, c'est qui ton numéro 1 ? Dis-le-moi en com'.",
+   "emphasis": [
+    "numéro 1"
+   ]
+  }
+ ],
+ "caption": "Maomao troisième, ça va en énerver certains 😤 c'est qui ton numéro 1 ?",
+ "hashtags": [
+  "#anime",
+  "#manga",
+  "#animefr",
+  "#otakufr",
+  "#apothecarydiaries",
+  "#topanime"
+ ]
+}
