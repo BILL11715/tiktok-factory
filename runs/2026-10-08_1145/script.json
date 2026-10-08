@@ -1,0 +1,159 @@
+{
+ "title": "Top 5 des extensions de territoire les plus cheatées de Jujutsu Kaisen",
+ "format": "top",
+ "tone": "hype",
+ "music": "hype",
+ "animes": [
+  "Jujutsu Kaisen"
+ ],
+ "hook_text": "Le numéro 1 de ce top a paralysé toute une foule en 0,2 seconde",
+ "spoiler": false,
+ "segments": [
+  {
+   "text": "Le numéro 1 de ce top a paralysé toute une foule en 0,2 seconde.",
+   "sfx": true,
+   "emphasis": [
+    "0,2 seconde"
+   ]
+  },
+  {
+   "text": "[whispering] Top 5 des territoires les plus cheatés de Jujutsu Kaisen, et le numéro 2 va en énerver certains.",
+   "emphasis": [
+    "cheatées"
+   ]
+  },
+  {
+   "text": "Numéro 5, Mahito. Son territoire touche directement ton âme, donc son attaque est garantie et tu te fais transformer en monstre.",
+   "overlay": "#5",
+   "emphasis": [
+    "âme"
+   ],
+   "shots": [
+    {
+     "anime": "Jujutsu Kaisen",
+     "kind": "character",
+     "character": "Mahito",
+     "at": "Mahito"
+    }
+   ]
+  },
+  {
+   "text": "Sauf que contre Yuji, ça passe pas. [laughing] Sukuna squatte son corps, et il aime pas qu'on touche à son âme.",
+   "emphasis": [
+    "Sukuna"
+   ]
+  },
+  {
+   "text": "Numéro 4, Higuruma. Un ancien avocat qui t'enferme dans un tribunal, et Judgeman te juge pour de vrai.",
+   "overlay": "#4",
+   "emphasis": [
+    "tribunal"
+   ],
+   "shots": [
+    {
+     "anime": "Jujutsu Kaisen",
+     "kind": "character",
+     "character": "Higuruma",
+     "at": "Higuruma"
+    }
+   ]
+  },
+  {
+   "text": "Si t'es coupable, il te confisque ta technique. Et la peine maximale, c'est le sabre du bourreau. Une touche et t'es mort.",
+   "grade": "bw",
+   "sfx": true,
+   "emphasis": [
+    "bourreau"
+   ]
+  },
+  {
+   "text": "[excited] Si t'aimes ce genre de classement, abonne-toi, j'en sors tous les jours sur tes animes préférés.",
+   "cta": true
+  },
+  {
+   "text": "Numéro 3, Hakari. Son territoire, c'est littéralement une machine à pachinko. Ouais frr, du jeu d'argent en plein combat.",
+   "overlay": "#3",
+   "emphasis": [
+    "pachinko"
+   ],
+   "shots": [
+    {
+     "anime": "Jujutsu Kaisen",
+     "kind": "character",
+     "character": "Hakari",
+     "at": "Hakari"
+    }
+   ]
+  },
+  {
+   "text": "S'il touche le jackpot, il devient quasi immortel pendant 4 minutes 11. Kashimo a frappé encore et encore, Hakari se relevait.",
+   "stamp": "CHEATÉ",
+   "emphasis": [
+    "jackpot"
+   ]
+  },
+  {
+   "text": "Numéro 2, Sukuna. Le Malevolent Shrine, et lui a même pas besoin de barrière. Il dessine son territoire dans le vide.",
+   "overlay": "#2",
+   "emphasis": [
+    "barrière"
+   ],
+   "shots": [
+    {
+     "anime": "Jujutsu Kaisen",
+     "kind": "character",
+     "character": "Sukuna",
+     "at": "Sukuna"
+    }
+   ]
+  },
+  {
+   "text": "[angry] À Shibuya, contre Mahoraga, il a découpé tout ce qui se trouvait dans la zone. Le quartier a été rasé. Je sais, y'en a qui le mettent premier.",
+   "grade": "bw",
+   "emphasis": [
+    "rasé"
+   ]
+  },
+  {
+   "text": "Mais le numéro 1, c'est Gojo, avec Muryokusho, le vide infini. Tu reçois une infinité d'infos dans le crâne, tu peux plus bouger ni penser.",
+   "overlay": "#1",
+   "sfx": true,
+   "emphasis": [
+    "infini"
+   ],
+   "shots": [
+    {
+     "anime": "Jujutsu Kaisen",
+     "kind": "character",
+     "character": "Gojo",
+     "at": "Gojo"
+    }
+   ]
+  },
+  {
+   "text": "[whispering] À Shibuya, en pleine foule, il l'a ouvert 0,2 seconde. Les humains sont restés figés, et lui a nettoyé toutes les malédictions.",
+   "emphasis": [
+    "0,2"
+   ]
+  },
+  {
+   "text": "Jogo l'avait déjà subi, il a rien compris. Pour moi y'a pas débat, c'est le plus cheaté de la série.",
+   "stamp": "VALIDÉ",
+   "emphasis": [
+    "pas débat"
+   ]
+  },
+  {
+   "text": "Et toi, c'est quoi ton top 1 ? Dis-le en com', je lis tout."
+  }
+ ],
+ "caption": "Le numéro 2 va faire débat, j'le sens 😤 c'est quoi ton top 1 ?",
+ "hashtags": [
+  "#anime",
+  "#manga",
+  "#animefr",
+  "#jujutsukaisen",
+  "#gojo",
+  "#topanime"
+ ]
+}
