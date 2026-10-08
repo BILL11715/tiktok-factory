@@ -1,0 +1,16 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-08_1145/video.mp4",
+ "duration": 89.297,
+ "shots": 70,
+ "sources": [
+  "https://anilist.co/anime/113415",
+  "https://kitsu.io/anime/jujutsu-kaisen"
+ ],
+ "music": {
+  "file": "hype2.mp3",
+  "bpm": 92.3,
+  "offset": 12.503
+ },
+ "sfx": 28,
+ "engine": "remotion (OpenMontage)"
+}

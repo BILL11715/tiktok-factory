@@ -1,0 +1,1687 @@
+{
+ "engine": "piper",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-08_1145/voice.wav",
+ "duration": 89.297,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 3.631,
+   "slot_end": 3.731,
+   "text": "Le numéro 1 de ce top a paralysé toute une foule en 0,2 seconde.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 0.0,
+     "end": 0.175
+    },
+    {
+     "w": "numéro",
+     "start": 0.175,
+     "end": 0.551
+    },
+    {
+     "w": "1",
+     "start": 0.551,
+     "end": 0.676
+    },
+    {
+     "w": "de",
+     "start": 0.676,
+     "end": 0.851
+    },
+    {
+     "w": "ce",
+     "start": 0.851,
+     "end": 1.027
+    },
+    {
+     "w": "top",
+     "start": 1.027,
+     "end": 1.252
+    },
+    {
+     "w": "a",
+     "start": 1.252,
+     "end": 1.377
+    },
+    {
+     "w": "paralysé",
+     "start": 1.377,
+     "end": 1.853
+    },
+    {
+     "w": "toute",
+     "start": 1.853,
+     "end": 2.179
+    },
+    {
+     "w": "une",
+     "start": 2.179,
+     "end": 2.404
+    },
+    {
+     "w": "foule",
+     "start": 2.404,
+     "end": 2.73
+    },
+    {
+     "w": "en",
+     "start": 2.73,
+     "end": 2.905
+    },
+    {
+     "w": "0,2",
+     "start": 2.905,
+     "end": 3.08
+    },
+    {
+     "w": "seconde.",
+     "start": 3.08,
+     "end": 3.631
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 3.731,
+   "end": 8.583,
+   "slot_end": 8.683,
+   "text": "Top 5 des territoires les plus cheatés de Jujutsu Kaisen, et le numéro 2 va en énerver certains.",
+   "words": [
+    {
+     "w": "Top",
+     "start": 3.731,
+     "end": 3.931
+    },
+    {
+     "w": "5",
+     "start": 3.931,
+     "end": 4.043
+    },
+    {
+     "w": "des",
+     "start": 4.043,
+     "end": 4.243
+    },
+    {
+     "w": "territoires",
+     "start": 4.243,
+     "end": 4.799
+    },
+    {
+     "w": "les",
+     "start": 4.799,
+     "end": 5.0
+    },
+    {
+     "w": "plus",
+     "start": 5.0,
+     "end": 5.245
+    },
+    {
+     "w": "cheatés",
+     "start": 5.245,
+     "end": 5.623
+    },
+    {
+     "w": "de",
+     "start": 5.623,
+     "end": 5.779
+    },
+    {
+     "w": "Jujutsu",
+     "start": 5.779,
+     "end": 6.157
+    },
+    {
+     "w": "Kaisen,",
+     "start": 6.157,
+     "end": 6.602
+    },
+    {
+     "w": "et",
+     "start": 6.602,
+     "end": 6.758
+    },
+    {
+     "w": "le",
+     "start": 6.758,
+     "end": 6.914
+    },
+    {
+     "w": "numéro",
+     "start": 6.914,
+     "end": 7.248
+    },
+    {
+     "w": "2",
+     "start": 7.248,
+     "end": 7.359
+    },
+    {
+     "w": "va",
+     "start": 7.359,
+     "end": 7.515
+    },
+    {
+     "w": "en",
+     "start": 7.515,
+     "end": 7.671
+    },
+    {
+     "w": "énerver",
+     "start": 7.671,
+     "end": 8.049
+    },
+    {
+     "w": "certains.",
+     "start": 8.049,
+     "end": 8.583
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 8.683,
+   "end": 16.367,
+   "slot_end": 16.467,
+   "text": "Numéro 5, Mahito. Son territoire touche directement ton âme, donc son attaque est garantie et tu te fais transformer en monstre.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 8.683,
+     "end": 9.079
+    },
+    {
+     "w": "5,",
+     "start": 9.079,
+     "end": 9.343
+    },
+    {
+     "w": "Mahito.",
+     "start": 9.343,
+     "end": 9.871
+    },
+    {
+     "w": "Son",
+     "start": 9.871,
+     "end": 10.109
+    },
+    {
+     "w": "territoire",
+     "start": 10.109,
+     "end": 10.716
+    },
+    {
+     "w": "touche",
+     "start": 10.716,
+     "end": 11.112
+    },
+    {
+     "w": "directement",
+     "start": 11.112,
+     "end": 11.772
+    },
+    {
+     "w": "ton",
+     "start": 11.772,
+     "end": 12.01
+    },
+    {
+     "w": "âme,",
+     "start": 12.01,
+     "end": 12.38
+    },
+    {
+     "w": "donc",
+     "start": 12.38,
+     "end": 12.67
+    },
+    {
+     "w": "son",
+     "start": 12.67,
+     "end": 12.908
+    },
+    {
+     "w": "attaque",
+     "start": 12.908,
+     "end": 13.357
+    },
+    {
+     "w": "est",
+     "start": 13.357,
+     "end": 13.594
+    },
+    {
+     "w": "garantie",
+     "start": 13.594,
+     "end": 14.096
+    },
+    {
+     "w": "et",
+     "start": 14.096,
+     "end": 14.281
+    },
+    {
+     "w": "tu",
+     "start": 14.281,
+     "end": 14.466
+    },
+    {
+     "w": "te",
+     "start": 14.466,
+     "end": 14.65
+    },
+    {
+     "w": "fais",
+     "start": 14.65,
+     "end": 14.941
+    },
+    {
+     "w": "transformer",
+     "start": 14.941,
+     "end": 15.601
+    },
+    {
+     "w": "en",
+     "start": 15.601,
+     "end": 15.786
+    },
+    {
+     "w": "monstre.",
+     "start": 15.786,
+     "end": 16.367
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 16.467,
+   "end": 21.616,
+   "slot_end": 21.716,
+   "text": "Sauf que contre Yuji, ça passe pas. Sukuna squatte son corps, et il aime pas qu'on touche à son âme.",
+   "words": [
+    {
+     "w": "Sauf",
+     "start": 16.467,
+     "end": 16.711
+    },
+    {
+     "w": "que",
+     "start": 16.711,
+     "end": 16.911
+    },
+    {
+     "w": "contre",
+     "start": 16.911,
+     "end": 17.244
+    },
+    {
+     "w": "Yuji,",
+     "start": 17.244,
+     "end": 17.599
+    },
+    {
+     "w": "ça",
+     "start": 17.599,
+     "end": 17.754
+    },
+    {
+     "w": "passe",
+     "start": 17.754,
+     "end": 18.043
+    },
+    {
+     "w": "pas.",
+     "start": 18.043,
+     "end": 18.353
+    },
+    {
+     "w": "Sukuna",
+     "start": 18.353,
+     "end": 18.686
+    },
+    {
+     "w": "squatte",
+     "start": 18.686,
+     "end": 19.064
+    },
+    {
+     "w": "son",
+     "start": 19.064,
+     "end": 19.264
+    },
+    {
+     "w": "corps,",
+     "start": 19.264,
+     "end": 19.663
+    },
+    {
+     "w": "et",
+     "start": 19.663,
+     "end": 19.818
+    },
+    {
+     "w": "il",
+     "start": 19.818,
+     "end": 19.974
+    },
+    {
+     "w": "aime",
+     "start": 19.974,
+     "end": 20.218
+    },
+    {
+     "w": "pas",
+     "start": 20.218,
+     "end": 20.418
+    },
+    {
+     "w": "qu'on",
+     "start": 20.418,
+     "end": 20.662
+    },
+    {
+     "w": "touche",
+     "start": 20.662,
+     "end": 20.995
+    },
+    {
+     "w": "à",
+     "start": 20.995,
+     "end": 21.106
+    },
+    {
+     "w": "son",
+     "start": 21.106,
+     "end": 21.306
+    },
+    {
+     "w": "âme.",
+     "start": 21.306,
+     "end": 21.616
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 21.716,
+   "end": 27.09,
+   "slot_end": 27.19,
+   "text": "Numéro 4, Higuruma. Un ancien avocat qui t'enferme dans un tribunal, et Judgeman te juge pour de vrai.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 21.716,
+     "end": 22.061
+    },
+    {
+     "w": "4,",
+     "start": 22.061,
+     "end": 22.29
+    },
+    {
+     "w": "Higuruma.",
+     "start": 22.29,
+     "end": 22.842
+    },
+    {
+     "w": "Un",
+     "start": 22.842,
+     "end": 23.002
+    },
+    {
+     "w": "ancien",
+     "start": 23.002,
+     "end": 23.347
+    },
+    {
+     "w": "avocat",
+     "start": 23.347,
+     "end": 23.691
+    },
+    {
+     "w": "qui",
+     "start": 23.691,
+     "end": 23.898
+    },
+    {
+     "w": "t'enferme",
+     "start": 23.898,
+     "end": 24.334
+    },
+    {
+     "w": "dans",
+     "start": 24.334,
+     "end": 24.587
+    },
+    {
+     "w": "un",
+     "start": 24.587,
+     "end": 24.747
+    },
+    {
+     "w": "tribunal,",
+     "start": 24.747,
+     "end": 25.299
+    },
+    {
+     "w": "et",
+     "start": 25.299,
+     "end": 25.459
+    },
+    {
+     "w": "Judgeman",
+     "start": 25.459,
+     "end": 25.896
+    },
+    {
+     "w": "te",
+     "start": 25.896,
+     "end": 26.056
+    },
+    {
+     "w": "juge",
+     "start": 26.056,
+     "end": 26.309
+    },
+    {
+     "w": "pour",
+     "start": 26.309,
+     "end": 26.562
+    },
+    {
+     "w": "de",
+     "start": 26.562,
+     "end": 26.722
+    },
+    {
+     "w": "vrai.",
+     "start": 26.722,
+     "end": 27.09
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 27.19,
+   "end": 33.09,
+   "slot_end": 33.19,
+   "text": "Si t'es coupable, il te confisque ta technique. Et la peine maximale, c'est le sabre du bourreau. Une touche et t'es mort.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 27.19,
+     "end": 27.339
+    },
+    {
+     "w": "t'es",
+     "start": 27.339,
+     "end": 27.531
+    },
+    {
+     "w": "coupable,",
+     "start": 27.531,
+     "end": 28.043
+    },
+    {
+     "w": "il",
+     "start": 28.043,
+     "end": 28.192
+    },
+    {
+     "w": "te",
+     "start": 28.192,
+     "end": 28.341
+    },
+    {
+     "w": "confisque",
+     "start": 28.341,
+     "end": 28.789
+    },
+    {
+     "w": "ta",
+     "start": 28.789,
+     "end": 28.938
+    },
+    {
+     "w": "technique.",
+     "start": 28.938,
+     "end": 29.493
+    },
+    {
+     "w": "Et",
+     "start": 29.543,
+     "end": 29.69
+    },
+    {
+     "w": "la",
+     "start": 29.69,
+     "end": 29.837
+    },
+    {
+     "w": "peine",
+     "start": 29.837,
+     "end": 30.109
+    },
+    {
+     "w": "maximale,",
+     "start": 30.109,
+     "end": 30.613
+    },
+    {
+     "w": "c'est",
+     "start": 30.613,
+     "end": 30.844
+    },
+    {
+     "w": "le",
+     "start": 30.844,
+     "end": 30.991
+    },
+    {
+     "w": "sabre",
+     "start": 30.991,
+     "end": 31.264
+    },
+    {
+     "w": "du",
+     "start": 31.264,
+     "end": 31.411
+    },
+    {
+     "w": "bourreau.",
+     "start": 31.411,
+     "end": 31.915
+    },
+    {
+     "w": "Une",
+     "start": 31.915,
+     "end": 32.104
+    },
+    {
+     "w": "touche",
+     "start": 32.104,
+     "end": 32.418
+    },
+    {
+     "w": "et",
+     "start": 32.418,
+     "end": 32.565
+    },
+    {
+     "w": "t'es",
+     "start": 32.565,
+     "end": 32.754
+    },
+    {
+     "w": "mort.",
+     "start": 32.754,
+     "end": 33.09
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 33.19,
+   "end": 36.999,
+   "slot_end": 37.099,
+   "text": "Si t'aimes ce genre de classement, abonne-toi, j'en sors tous les jours sur tes animes préférés.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 33.19,
+     "end": 33.315
+    },
+    {
+     "w": "t'aimes",
+     "start": 33.315,
+     "end": 33.584
+    },
+    {
+     "w": "ce",
+     "start": 33.584,
+     "end": 33.709
+    },
+    {
+     "w": "genre",
+     "start": 33.709,
+     "end": 33.941
+    },
+    {
+     "w": "de",
+     "start": 33.941,
+     "end": 34.066
+    },
+    {
+     "w": "classement,",
+     "start": 34.066,
+     "end": 34.567
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 34.567,
+     "end": 35.032
+    },
+    {
+     "w": "j'en",
+     "start": 35.032,
+     "end": 35.193
+    },
+    {
+     "w": "sors",
+     "start": 35.193,
+     "end": 35.39
+    },
+    {
+     "w": "tous",
+     "start": 35.39,
+     "end": 35.586
+    },
+    {
+     "w": "les",
+     "start": 35.586,
+     "end": 35.747
+    },
+    {
+     "w": "jours",
+     "start": 35.747,
+     "end": 35.98
+    },
+    {
+     "w": "sur",
+     "start": 35.98,
+     "end": 36.141
+    },
+    {
+     "w": "tes",
+     "start": 36.141,
+     "end": 36.302
+    },
+    {
+     "w": "animes",
+     "start": 36.302,
+     "end": 36.57
+    },
+    {
+     "w": "préférés.",
+     "start": 36.57,
+     "end": 36.999
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 37.099,
+   "end": 44.038,
+   "slot_end": 44.138,
+   "text": "Numéro 3, Hakari. Son territoire, c'est littéralement une machine à pachinko. Ouais frr, du jeu d'argent en plein combat.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 37.099,
+     "end": 37.478
+    },
+    {
+     "w": "3,",
+     "start": 37.478,
+     "end": 37.731
+    },
+    {
+     "w": "Hakari.",
+     "start": 37.731,
+     "end": 38.237
+    },
+    {
+     "w": "Son",
+     "start": 38.237,
+     "end": 38.465
+    },
+    {
+     "w": "territoire,",
+     "start": 38.465,
+     "end": 39.173
+    },
+    {
+     "w": "c'est",
+     "start": 39.173,
+     "end": 39.452
+    },
+    {
+     "w": "littéralement",
+     "start": 39.452,
+     "end": 40.185
+    },
+    {
+     "w": "une",
+     "start": 40.185,
+     "end": 40.413
+    },
+    {
+     "w": "machine",
+     "start": 40.413,
+     "end": 40.843
+    },
+    {
+     "w": "à",
+     "start": 40.843,
+     "end": 40.97
+    },
+    {
+     "w": "pachinko.",
+     "start": 40.97,
+     "end": 41.577
+    },
+    {
+     "w": "Ouais",
+     "start": 41.627,
+     "end": 41.94
+    },
+    {
+     "w": "frr,",
+     "start": 41.94,
+     "end": 42.278
+    },
+    {
+     "w": "du",
+     "start": 42.278,
+     "end": 42.447
+    },
+    {
+     "w": "jeu",
+     "start": 42.447,
+     "end": 42.664
+    },
+    {
+     "w": "d'argent",
+     "start": 42.664,
+     "end": 43.074
+    },
+    {
+     "w": "en",
+     "start": 43.074,
+     "end": 43.242
+    },
+    {
+     "w": "plein",
+     "start": 43.242,
+     "end": 43.556
+    },
+    {
+     "w": "combat.",
+     "start": 43.556,
+     "end": 44.038
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 44.138,
+   "end": 50.278,
+   "slot_end": 50.378,
+   "text": "S'il touche le jackpot, il devient quasi immortel pendant 4 minutes 11. Kashimo a frappé encore et encore, Hakari se relevait.",
+   "words": [
+    {
+     "w": "S'il",
+     "start": 44.138,
+     "end": 44.342
+    },
+    {
+     "w": "touche",
+     "start": 44.342,
+     "end": 44.681
+    },
+    {
+     "w": "le",
+     "start": 44.681,
+     "end": 44.839
+    },
+    {
+     "w": "jackpot,",
+     "start": 44.839,
+     "end": 45.337
+    },
+    {
+     "w": "il",
+     "start": 45.337,
+     "end": 45.495
+    },
+    {
+     "w": "devient",
+     "start": 45.495,
+     "end": 45.879
+    },
+    {
+     "w": "quasi",
+     "start": 45.879,
+     "end": 46.173
+    },
+    {
+     "w": "immortel",
+     "start": 46.173,
+     "end": 46.603
+    },
+    {
+     "w": "pendant",
+     "start": 46.603,
+     "end": 46.987
+    },
+    {
+     "w": "4",
+     "start": 46.987,
+     "end": 47.101
+    },
+    {
+     "w": "minutes",
+     "start": 47.101,
+     "end": 47.485
+    },
+    {
+     "w": "11.",
+     "start": 47.485,
+     "end": 47.756
+    },
+    {
+     "w": "Kashimo",
+     "start": 47.806,
+     "end": 48.143
+    },
+    {
+     "w": "a",
+     "start": 48.143,
+     "end": 48.241
+    },
+    {
+     "w": "frappé",
+     "start": 48.241,
+     "end": 48.538
+    },
+    {
+     "w": "encore",
+     "start": 48.538,
+     "end": 48.835
+    },
+    {
+     "w": "et",
+     "start": 48.835,
+     "end": 48.973
+    },
+    {
+     "w": "encore,",
+     "start": 48.973,
+     "end": 49.368
+    },
+    {
+     "w": "Hakari",
+     "start": 49.368,
+     "end": 49.665
+    },
+    {
+     "w": "se",
+     "start": 49.665,
+     "end": 49.804
+    },
+    {
+     "w": "relevait.",
+     "start": 49.804,
+     "end": 50.278
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 50.378,
+   "end": 56.321,
+   "slot_end": 56.421,
+   "text": "Numéro 2, Sukuna. Le Malevolent Shrine, et lui a même pas besoin de barrière. Il dessine son territoire dans le vide.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 50.378,
+     "end": 50.712
+    },
+    {
+     "w": "2,",
+     "start": 50.712,
+     "end": 50.934
+    },
+    {
+     "w": "Sukuna.",
+     "start": 50.934,
+     "end": 51.379
+    },
+    {
+     "w": "Le",
+     "start": 51.379,
+     "end": 51.535
+    },
+    {
+     "w": "Malevolent",
+     "start": 51.535,
+     "end": 52.046
+    },
+    {
+     "w": "Shrine,",
+     "start": 52.046,
+     "end": 52.491
+    },
+    {
+     "w": "et",
+     "start": 52.491,
+     "end": 52.647
+    },
+    {
+     "w": "lui",
+     "start": 52.647,
+     "end": 52.847
+    },
+    {
+     "w": "a",
+     "start": 52.847,
+     "end": 52.958
+    },
+    {
+     "w": "même",
+     "start": 52.958,
+     "end": 53.203
+    },
+    {
+     "w": "pas",
+     "start": 53.203,
+     "end": 53.403
+    },
+    {
+     "w": "besoin",
+     "start": 53.403,
+     "end": 53.736
+    },
+    {
+     "w": "de",
+     "start": 53.736,
+     "end": 53.892
+    },
+    {
+     "w": "barrière.",
+     "start": 53.892,
+     "end": 54.426
+    },
+    {
+     "w": "Il",
+     "start": 54.476,
+     "end": 54.619
+    },
+    {
+     "w": "dessine",
+     "start": 54.619,
+     "end": 54.968
+    },
+    {
+     "w": "son",
+     "start": 54.968,
+     "end": 55.152
+    },
+    {
+     "w": "territoire",
+     "start": 55.152,
+     "end": 55.624
+    },
+    {
+     "w": "dans",
+     "start": 55.624,
+     "end": 55.85
+    },
+    {
+     "w": "le",
+     "start": 55.85,
+     "end": 55.993
+    },
+    {
+     "w": "vide.",
+     "start": 55.993,
+     "end": 56.321
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 56.421,
+   "end": 62.896,
+   "slot_end": 62.996,
+   "text": "À Shibuya, contre Mahoraga, il a découpé tout ce qui se trouvait dans la zone. Le quartier a été rasé. Je sais, y'en a qui le mettent premier.",
+   "words": [
+    {
+     "w": "À",
+     "start": 56.421,
+     "end": 56.521
+    },
+    {
+     "w": "Shibuya,",
+     "start": 56.521,
+     "end": 56.96
+    },
+    {
+     "w": "contre",
+     "start": 56.96,
+     "end": 57.26
+    },
+    {
+     "w": "Mahoraga,",
+     "start": 57.26,
+     "end": 57.739
+    },
+    {
+     "w": "il",
+     "start": 57.739,
+     "end": 57.879
+    },
+    {
+     "w": "a",
+     "start": 57.879,
+     "end": 57.979
+    },
+    {
+     "w": "découpé",
+     "start": 57.979,
+     "end": 58.318
+    },
+    {
+     "w": "tout",
+     "start": 58.318,
+     "end": 58.538
+    },
+    {
+     "w": "ce",
+     "start": 58.538,
+     "end": 58.678
+    },
+    {
+     "w": "qui",
+     "start": 58.678,
+     "end": 58.857
+    },
+    {
+     "w": "se",
+     "start": 58.857,
+     "end": 58.997
+    },
+    {
+     "w": "trouvait",
+     "start": 58.997,
+     "end": 59.377
+    },
+    {
+     "w": "dans",
+     "start": 59.377,
+     "end": 59.596
+    },
+    {
+     "w": "la",
+     "start": 59.596,
+     "end": 59.736
+    },
+    {
+     "w": "zone.",
+     "start": 59.736,
+     "end": 60.056
+    },
+    {
+     "w": "Le",
+     "start": 60.056,
+     "end": 60.195
+    },
+    {
+     "w": "quartier",
+     "start": 60.195,
+     "end": 60.575
+    },
+    {
+     "w": "a",
+     "start": 60.575,
+     "end": 60.675
+    },
+    {
+     "w": "été",
+     "start": 60.675,
+     "end": 60.855
+    },
+    {
+     "w": "rasé.",
+     "start": 60.855,
+     "end": 61.174
+    },
+    {
+     "w": "Je",
+     "start": 61.224,
+     "end": 61.351
+    },
+    {
+     "w": "sais,",
+     "start": 61.351,
+     "end": 61.642
+    },
+    {
+     "w": "y'en",
+     "start": 61.642,
+     "end": 61.806
+    },
+    {
+     "w": "a",
+     "start": 61.806,
+     "end": 61.896
+    },
+    {
+     "w": "qui",
+     "start": 61.896,
+     "end": 62.06
+    },
+    {
+     "w": "le",
+     "start": 62.06,
+     "end": 62.187
+    },
+    {
+     "w": "mettent",
+     "start": 62.187,
+     "end": 62.496
+    },
+    {
+     "w": "premier.",
+     "start": 62.496,
+     "end": 62.896
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 62.996,
+   "end": 70.336,
+   "slot_end": 70.436,
+   "text": "Mais le numéro 1, c'est Gojo, avec Muryokusho, le vide infini. Tu reçois une infinité d'infos dans le crâne, tu peux plus bouger ni penser.",
+   "words": [
+    {
+     "w": "Mais",
+     "start": 62.996,
+     "end": 63.275
+    },
+    {
+     "w": "le",
+     "start": 63.275,
+     "end": 63.453
+    },
+    {
+     "w": "numéro",
+     "start": 63.453,
+     "end": 63.834
+    },
+    {
+     "w": "1,",
+     "start": 63.834,
+     "end": 64.088
+    },
+    {
+     "w": "c'est",
+     "start": 64.088,
+     "end": 64.367
+    },
+    {
+     "w": "Gojo,",
+     "start": 64.367,
+     "end": 64.773
+    },
+    {
+     "w": "avec",
+     "start": 64.773,
+     "end": 65.053
+    },
+    {
+     "w": "Muryokusho,",
+     "start": 65.053,
+     "end": 65.764
+    },
+    {
+     "w": "le",
+     "start": 65.764,
+     "end": 65.942
+    },
+    {
+     "w": "vide",
+     "start": 65.942,
+     "end": 66.221
+    },
+    {
+     "w": "infini.",
+     "start": 66.221,
+     "end": 66.729
+    },
+    {
+     "w": "Tu",
+     "start": 66.779,
+     "end": 66.924
+    },
+    {
+     "w": "reçois",
+     "start": 66.924,
+     "end": 67.234
+    },
+    {
+     "w": "une",
+     "start": 67.234,
+     "end": 67.42
+    },
+    {
+     "w": "infinité",
+     "start": 67.42,
+     "end": 67.813
+    },
+    {
+     "w": "d'infos",
+     "start": 67.813,
+     "end": 68.123
+    },
+    {
+     "w": "dans",
+     "start": 68.123,
+     "end": 68.351
+    },
+    {
+     "w": "le",
+     "start": 68.351,
+     "end": 68.495
+    },
+    {
+     "w": "crâne,",
+     "start": 68.495,
+     "end": 68.868
+    },
+    {
+     "w": "tu",
+     "start": 68.868,
+     "end": 69.012
+    },
+    {
+     "w": "peux",
+     "start": 69.012,
+     "end": 69.24
+    },
+    {
+     "w": "plus",
+     "start": 69.24,
+     "end": 69.467
+    },
+    {
+     "w": "bouger",
+     "start": 69.467,
+     "end": 69.778
+    },
+    {
+     "w": "ni",
+     "start": 69.778,
+     "end": 69.922
+    },
+    {
+     "w": "penser.",
+     "start": 69.922,
+     "end": 70.336
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 70.436,
+   "end": 76.684,
+   "slot_end": 76.784,
+   "text": "À Shibuya, en pleine foule, il l'a ouvert 0,2 seconde. Les humains sont restés figés, et lui a nettoyé toutes les malédictions.",
+   "words": [
+    {
+     "w": "À",
+     "start": 70.436,
+     "end": 70.567
+    },
+    {
+     "w": "Shibuya,",
+     "start": 70.567,
+     "end": 71.146
+    },
+    {
+     "w": "en",
+     "start": 71.146,
+     "end": 71.33
+    },
+    {
+     "w": "pleine",
+     "start": 71.33,
+     "end": 71.724
+    },
+    {
+     "w": "foule,",
+     "start": 71.724,
+     "end": 72.197
+    },
+    {
+     "w": "il",
+     "start": 72.197,
+     "end": 72.381
+    },
+    {
+     "w": "l'a",
+     "start": 72.381,
+     "end": 72.565
+    },
+    {
+     "w": "ouvert",
+     "start": 72.565,
+     "end": 72.96
+    },
+    {
+     "w": "0,2",
+     "start": 72.96,
+     "end": 73.144
+    },
+    {
+     "w": "seconde.",
+     "start": 73.144,
+     "end": 73.722
+    },
+    {
+     "w": "Les",
+     "start": 73.772,
+     "end": 73.932
+    },
+    {
+     "w": "humains",
+     "start": 73.932,
+     "end": 74.234
+    },
+    {
+     "w": "sont",
+     "start": 74.234,
+     "end": 74.429
+    },
+    {
+     "w": "restés",
+     "start": 74.429,
+     "end": 74.695
+    },
+    {
+     "w": "figés,",
+     "start": 74.695,
+     "end": 75.015
+    },
+    {
+     "w": "et",
+     "start": 75.015,
+     "end": 75.139
+    },
+    {
+     "w": "lui",
+     "start": 75.139,
+     "end": 75.299
+    },
+    {
+     "w": "a",
+     "start": 75.299,
+     "end": 75.388
+    },
+    {
+     "w": "nettoyé",
+     "start": 75.388,
+     "end": 75.69
+    },
+    {
+     "w": "toutes",
+     "start": 75.69,
+     "end": 75.956
+    },
+    {
+     "w": "les",
+     "start": 75.956,
+     "end": 76.116
+    },
+    {
+     "w": "malédictions.",
+     "start": 76.116,
+     "end": 76.684
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 76.784,
+   "end": 82.025,
+   "slot_end": 82.125,
+   "text": "Jogo l'avait déjà subi, il a rien compris. Pour moi y'a pas débat, c'est le plus cheaté de la série.",
+   "words": [
+    {
+     "w": "Jogo",
+     "start": 76.784,
+     "end": 77.034
+    },
+    {
+     "w": "l'avait",
+     "start": 77.034,
+     "end": 77.374
+    },
+    {
+     "w": "déjà",
+     "start": 77.374,
+     "end": 77.624
+    },
+    {
+     "w": "subi,",
+     "start": 77.624,
+     "end": 77.987
+    },
+    {
+     "w": "il",
+     "start": 77.987,
+     "end": 78.146
+    },
+    {
+     "w": "a",
+     "start": 78.146,
+     "end": 78.26
+    },
+    {
+     "w": "rien",
+     "start": 78.26,
+     "end": 78.51
+    },
+    {
+     "w": "compris.",
+     "start": 78.51,
+     "end": 79.009
+    },
+    {
+     "w": "Pour",
+     "start": 79.059,
+     "end": 79.31
+    },
+    {
+     "w": "moi",
+     "start": 79.31,
+     "end": 79.515
+    },
+    {
+     "w": "y'a",
+     "start": 79.515,
+     "end": 79.675
+    },
+    {
+     "w": "pas",
+     "start": 79.675,
+     "end": 79.88
+    },
+    {
+     "w": "débat,",
+     "start": 79.88,
+     "end": 80.291
+    },
+    {
+     "w": "c'est",
+     "start": 80.291,
+     "end": 80.542
+    },
+    {
+     "w": "le",
+     "start": 80.542,
+     "end": 80.701
+    },
+    {
+     "w": "plus",
+     "start": 80.701,
+     "end": 80.952
+    },
+    {
+     "w": "cheaté",
+     "start": 80.952,
+     "end": 81.295
+    },
+    {
+     "w": "de",
+     "start": 81.295,
+     "end": 81.454
+    },
+    {
+     "w": "la",
+     "start": 81.454,
+     "end": 81.614
+    },
+    {
+     "w": "série.",
+     "start": 81.614,
+     "end": 82.025
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 82.125,
+   "end": 84.907,
+   "slot_end": 85.007,
+   "text": "Et toi, c'est quoi ton top 1 ? Dis-le en com', je lis tout.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 82.125,
+     "end": 82.264
+    },
+    {
+     "w": "toi,",
+     "start": 82.264,
+     "end": 82.542
+    },
+    {
+     "w": "c'est",
+     "start": 82.542,
+     "end": 82.761
+    },
+    {
+     "w": "quoi",
+     "start": 82.761,
+     "end": 82.979
+    },
+    {
+     "w": "ton",
+     "start": 82.979,
+     "end": 83.158
+    },
+    {
+     "w": "top",
+     "start": 83.158,
+     "end": 83.337
+    },
+    {
+     "w": "1",
+     "start": 83.337,
+     "end": 83.436
+    },
+    {
+     "w": "?",
+     "start": 83.436,
+     "end": 83.595
+    },
+    {
+     "w": "Dis-le",
+     "start": 83.595,
+     "end": 83.854
+    },
+    {
+     "w": "en",
+     "start": 83.854,
+     "end": 83.993
+    },
+    {
+     "w": "com',",
+     "start": 83.993,
+     "end": 84.271
+    },
+    {
+     "w": "je",
+     "start": 84.271,
+     "end": 84.41
+    },
+    {
+     "w": "lis",
+     "start": 84.41,
+     "end": 84.589
+    },
+    {
+     "w": "tout.",
+     "start": 84.589,
+     "end": 84.907
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "start": 85.007,
+   "end": 88.597,
+   "slot_end": 89.297,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 85.007,
+     "end": 85.506
+    },
+    {
+     "w": "Asura.",
+     "start": 85.506,
+     "end": 86.104
+    },
+    {
+     "w": "On",
+     "start": 86.104,
+     "end": 86.337
+    },
+    {
+     "w": "se",
+     "start": 86.337,
+     "end": 86.57
+    },
+    {
+     "w": "capte",
+     "start": 86.57,
+     "end": 87.002
+    },
+    {
+     "w": "au",
+     "start": 87.002,
+     "end": 87.234
+    },
+    {
+     "w": "prochain",
+     "start": 87.234,
+     "end": 87.866
+    },
+    {
+     "w": "épisode.",
+     "start": 87.866,
+     "end": 88.597
+    }
+   ]
+  }
+ ],
+ "aligned": false
+}
