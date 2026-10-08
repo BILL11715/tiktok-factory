@@ -1,0 +1,35 @@
+{
+ "Reincarnated as a Sword Season 2": {
+  "meta": {
+   "id": "46917",
+   "title": "Tensei Shitara Ken Deshita 2nd Season",
+   "titles": {
+    "en": "Reincarnated as a Sword 2nd Season",
+    "en_jp": "Tensei Shitara Ken Deshita 2nd Season",
+    "ja_jp": "転生したら剣でした 第2期"
+   },
+   "synopsis": "The second season of Tensei Shitara Ken Deshita.",
+   "episodes": null,
+   "start": "2026-10-01",
+   "source": "https://kitsu.io/anime/tensei-shitara-ken-deshita-2nd-season"
+  },
+  "wide": [
+   "/home/claude/tiktok-factory/runs/2026-10-08_1745/images/f93736af9dd6.jpg"
+  ],
+  "tall": [
+   "/home/claude/tiktok-factory/runs/2026-10-08_1745/images/3df83a13bbfe.png",
+   "/home/claude/tiktok-factory/runs/2026-10-08_1745/images/06c84ff77661.jpg"
+  ],
+  "characters": {
+   "Fran": "/home/claude/tiktok-factory/runs/2026-10-08_1745/images/757771c307bd.png",
+   "Shishou": "/home/claude/tiktok-factory/runs/2026-10-08_1745/images/8d54b81fe6d6.png",
+   "Urushi": "/home/claude/tiktok-factory/runs/2026-10-08_1745/images/bfd38bd69b50.jpg",
+   "Jean du Vix": "/home/claude/tiktok-factory/runs/2026-10-08_1745/images/676869bbe8a5.png",
+   "Lich": "/home/claude/tiktok-factory/runs/2026-10-08_1745/images/7cfc213d08f0.jpg"
+  },
+  "sources": [
+   "https://kitsu.io/anime/tensei-shitara-ken-deshita-2nd-season",
+   "https://anilist.co/anime/159042"
+  ]
+ }
+}

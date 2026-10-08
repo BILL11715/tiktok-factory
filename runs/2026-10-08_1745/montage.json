@@ -1,0 +1,16 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-08_1745/video.mp4",
+ "duration": 88.641,
+ "shots": 73,
+ "sources": [
+  "https://anilist.co/anime/159042",
+  "https://kitsu.io/anime/tensei-shitara-ken-deshita-2nd-season"
+ ],
+ "music": {
+  "file": "pote.mp3",
+  "bpm": 184.6,
+  "offset": 47.39
+ },
+ "sfx": 23,
+ "engine": "remotion (OpenMontage)"
+}

@@ -1,0 +1,1732 @@
+{
+ "engine": "piper",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-08_1745/voice.wav",
+ "duration": 88.641,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 3.388,
+   "slot_end": 3.488,
+   "text": "Ce mec s'est réincarné en épée, et c'est une gamine esclave qui le ramasse.",
+   "words": [
+    {
+     "w": "Ce",
+     "start": 0.0,
+     "end": 0.141
+    },
+    {
+     "w": "mec",
+     "start": 0.141,
+     "end": 0.323
+    },
+    {
+     "w": "s'est",
+     "start": 0.323,
+     "end": 0.545
+    },
+    {
+     "w": "réincarné",
+     "start": 0.545,
+     "end": 0.968
+    },
+    {
+     "w": "en",
+     "start": 0.968,
+     "end": 1.109
+    },
+    {
+     "w": "épée,",
+     "start": 1.109,
+     "end": 1.432
+    },
+    {
+     "w": "et",
+     "start": 1.432,
+     "end": 1.573
+    },
+    {
+     "w": "c'est",
+     "start": 1.573,
+     "end": 1.795
+    },
+    {
+     "w": "une",
+     "start": 1.795,
+     "end": 1.976
+    },
+    {
+     "w": "gamine",
+     "start": 1.976,
+     "end": 2.279
+    },
+    {
+     "w": "esclave",
+     "start": 2.279,
+     "end": 2.622
+    },
+    {
+     "w": "qui",
+     "start": 2.622,
+     "end": 2.803
+    },
+    {
+     "w": "le",
+     "start": 2.803,
+     "end": 2.944
+    },
+    {
+     "w": "ramasse.",
+     "start": 2.944,
+     "end": 3.388
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 3.488,
+   "end": 7.89,
+   "slot_end": 7.99,
+   "text": "Reste jusqu'à la fin, j'te donne le nom, et la saison 2 vient tout juste de commencer.",
+   "words": [
+    {
+     "w": "Reste",
+     "start": 3.488,
+     "end": 3.78
+    },
+    {
+     "w": "jusqu'à",
+     "start": 3.78,
+     "end": 4.117
+    },
+    {
+     "w": "la",
+     "start": 4.117,
+     "end": 4.274
+    },
+    {
+     "w": "fin,",
+     "start": 4.274,
+     "end": 4.589
+    },
+    {
+     "w": "j'te",
+     "start": 4.589,
+     "end": 4.791
+    },
+    {
+     "w": "donne",
+     "start": 4.791,
+     "end": 5.083
+    },
+    {
+     "w": "le",
+     "start": 5.083,
+     "end": 5.24
+    },
+    {
+     "w": "nom,",
+     "start": 5.24,
+     "end": 5.554
+    },
+    {
+     "w": "et",
+     "start": 5.554,
+     "end": 5.712
+    },
+    {
+     "w": "la",
+     "start": 5.712,
+     "end": 5.869
+    },
+    {
+     "w": "saison",
+     "start": 5.869,
+     "end": 6.206
+    },
+    {
+     "w": "2",
+     "start": 6.206,
+     "end": 6.318
+    },
+    {
+     "w": "vient",
+     "start": 6.318,
+     "end": 6.61
+    },
+    {
+     "w": "tout",
+     "start": 6.61,
+     "end": 6.857
+    },
+    {
+     "w": "juste",
+     "start": 6.857,
+     "end": 7.149
+    },
+    {
+     "w": "de",
+     "start": 7.149,
+     "end": 7.306
+    },
+    {
+     "w": "commencer.",
+     "start": 7.306,
+     "end": 7.89
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 7.99,
+   "end": 13.942,
+   "slot_end": 14.042,
+   "text": "Un type meurt dans notre monde et se réveille dans un autre, sauf qu'il a pas de corps. Il est planté au milieu d'une forêt pleine de monstres.",
+   "words": [
+    {
+     "w": "Un",
+     "start": 7.99,
+     "end": 8.116
+    },
+    {
+     "w": "type",
+     "start": 8.116,
+     "end": 8.313
+    },
+    {
+     "w": "meurt",
+     "start": 8.313,
+     "end": 8.545
+    },
+    {
+     "w": "dans",
+     "start": 8.545,
+     "end": 8.742
+    },
+    {
+     "w": "notre",
+     "start": 8.742,
+     "end": 8.975
+    },
+    {
+     "w": "monde",
+     "start": 8.975,
+     "end": 9.208
+    },
+    {
+     "w": "et",
+     "start": 9.208,
+     "end": 9.333
+    },
+    {
+     "w": "se",
+     "start": 9.333,
+     "end": 9.458
+    },
+    {
+     "w": "réveille",
+     "start": 9.458,
+     "end": 9.798
+    },
+    {
+     "w": "dans",
+     "start": 9.798,
+     "end": 9.995
+    },
+    {
+     "w": "un",
+     "start": 9.995,
+     "end": 10.121
+    },
+    {
+     "w": "autre,",
+     "start": 10.121,
+     "end": 10.443
+    },
+    {
+     "w": "sauf",
+     "start": 10.443,
+     "end": 10.64
+    },
+    {
+     "w": "qu'il",
+     "start": 10.64,
+     "end": 10.837
+    },
+    {
+     "w": "a",
+     "start": 10.837,
+     "end": 10.926
+    },
+    {
+     "w": "pas",
+     "start": 10.926,
+     "end": 11.087
+    },
+    {
+     "w": "de",
+     "start": 11.087,
+     "end": 11.213
+    },
+    {
+     "w": "corps.",
+     "start": 11.213,
+     "end": 11.535
+    },
+    {
+     "w": "Il",
+     "start": 11.585,
+     "end": 11.719
+    },
+    {
+     "w": "est",
+     "start": 11.719,
+     "end": 11.892
+    },
+    {
+     "w": "planté",
+     "start": 11.892,
+     "end": 12.179
+    },
+    {
+     "w": "au",
+     "start": 12.179,
+     "end": 12.313
+    },
+    {
+     "w": "milieu",
+     "start": 12.313,
+     "end": 12.601
+    },
+    {
+     "w": "d'une",
+     "start": 12.601,
+     "end": 12.811
+    },
+    {
+     "w": "forêt",
+     "start": 12.811,
+     "end": 13.06
+    },
+    {
+     "w": "pleine",
+     "start": 13.06,
+     "end": 13.348
+    },
+    {
+     "w": "de",
+     "start": 13.348,
+     "end": 13.482
+    },
+    {
+     "w": "monstres.",
+     "start": 13.482,
+     "end": 13.942
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 14.042,
+   "end": 19.151,
+   "slot_end": 19.251,
+   "text": "Il parle dans la tête des gens, il vole par télékinésie, et chaque monstre qu'il plante lui donne ses compétences.",
+   "words": [
+    {
+     "w": "Il",
+     "start": 14.042,
+     "end": 14.181
+    },
+    {
+     "w": "parle",
+     "start": 14.181,
+     "end": 14.44
+    },
+    {
+     "w": "dans",
+     "start": 14.44,
+     "end": 14.658
+    },
+    {
+     "w": "la",
+     "start": 14.658,
+     "end": 14.797
+    },
+    {
+     "w": "tête",
+     "start": 14.797,
+     "end": 15.016
+    },
+    {
+     "w": "des",
+     "start": 15.016,
+     "end": 15.195
+    },
+    {
+     "w": "gens,",
+     "start": 15.195,
+     "end": 15.513
+    },
+    {
+     "w": "il",
+     "start": 15.513,
+     "end": 15.652
+    },
+    {
+     "w": "vole",
+     "start": 15.652,
+     "end": 15.871
+    },
+    {
+     "w": "par",
+     "start": 15.871,
+     "end": 16.05
+    },
+    {
+     "w": "télékinésie,",
+     "start": 16.05,
+     "end": 16.646
+    },
+    {
+     "w": "et",
+     "start": 16.646,
+     "end": 16.785
+    },
+    {
+     "w": "chaque",
+     "start": 16.785,
+     "end": 17.083
+    },
+    {
+     "w": "monstre",
+     "start": 17.083,
+     "end": 17.421
+    },
+    {
+     "w": "qu'il",
+     "start": 17.421,
+     "end": 17.64
+    },
+    {
+     "w": "plante",
+     "start": 17.64,
+     "end": 17.938
+    },
+    {
+     "w": "lui",
+     "start": 17.938,
+     "end": 18.117
+    },
+    {
+     "w": "donne",
+     "start": 18.117,
+     "end": 18.375
+    },
+    {
+     "w": "ses",
+     "start": 18.375,
+     "end": 18.554
+    },
+    {
+     "w": "compétences.",
+     "start": 18.554,
+     "end": 19.151
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 19.251,
+   "end": 25.977,
+   "slot_end": 26.077,
+   "text": "Et un jour il tombe sur Fran. Une petite fille de la tribu des chats noirs, vendue comme esclave, qui se fait traîner par des marchands.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 19.251,
+     "end": 19.402
+    },
+    {
+     "w": "un",
+     "start": 19.402,
+     "end": 19.553
+    },
+    {
+     "w": "jour",
+     "start": 19.553,
+     "end": 19.79
+    },
+    {
+     "w": "il",
+     "start": 19.79,
+     "end": 19.941
+    },
+    {
+     "w": "tombe",
+     "start": 19.941,
+     "end": 20.221
+    },
+    {
+     "w": "sur",
+     "start": 20.221,
+     "end": 20.415
+    },
+    {
+     "w": "Fran.",
+     "start": 20.415,
+     "end": 20.76
+    },
+    {
+     "w": "Une",
+     "start": 20.76,
+     "end": 20.954
+    },
+    {
+     "w": "petite",
+     "start": 20.954,
+     "end": 21.277
+    },
+    {
+     "w": "fille",
+     "start": 21.277,
+     "end": 21.557
+    },
+    {
+     "w": "de",
+     "start": 21.557,
+     "end": 21.708
+    },
+    {
+     "w": "la",
+     "start": 21.708,
+     "end": 21.859
+    },
+    {
+     "w": "tribu",
+     "start": 21.859,
+     "end": 22.14
+    },
+    {
+     "w": "des",
+     "start": 22.14,
+     "end": 22.334
+    },
+    {
+     "w": "chats",
+     "start": 22.334,
+     "end": 22.614
+    },
+    {
+     "w": "noirs,",
+     "start": 22.614,
+     "end": 23.002
+    },
+    {
+     "w": "vendue",
+     "start": 23.002,
+     "end": 23.325
+    },
+    {
+     "w": "comme",
+     "start": 23.325,
+     "end": 23.606
+    },
+    {
+     "w": "esclave,",
+     "start": 23.606,
+     "end": 24.08
+    },
+    {
+     "w": "qui",
+     "start": 24.08,
+     "end": 24.274
+    },
+    {
+     "w": "se",
+     "start": 24.274,
+     "end": 24.425
+    },
+    {
+     "w": "fait",
+     "start": 24.425,
+     "end": 24.662
+    },
+    {
+     "w": "traîner",
+     "start": 24.662,
+     "end": 25.028
+    },
+    {
+     "w": "par",
+     "start": 25.028,
+     "end": 25.222
+    },
+    {
+     "w": "des",
+     "start": 25.222,
+     "end": 25.416
+    },
+    {
+     "w": "marchands.",
+     "start": 25.416,
+     "end": 25.977
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 26.077,
+   "end": 31.56,
+   "slot_end": 31.66,
+   "text": "Chez elle, tout le monde dit que les chats noirs peuvent pas évoluer. Ses parents sont morts en essayant de prouver le contraire.",
+   "words": [
+    {
+     "w": "Chez",
+     "start": 26.077,
+     "end": 26.291
+    },
+    {
+     "w": "elle,",
+     "start": 26.291,
+     "end": 26.602
+    },
+    {
+     "w": "tout",
+     "start": 26.602,
+     "end": 26.815
+    },
+    {
+     "w": "le",
+     "start": 26.815,
+     "end": 26.951
+    },
+    {
+     "w": "monde",
+     "start": 26.951,
+     "end": 27.204
+    },
+    {
+     "w": "dit",
+     "start": 27.204,
+     "end": 27.379
+    },
+    {
+     "w": "que",
+     "start": 27.379,
+     "end": 27.554
+    },
+    {
+     "w": "les",
+     "start": 27.554,
+     "end": 27.729
+    },
+    {
+     "w": "chats",
+     "start": 27.729,
+     "end": 27.981
+    },
+    {
+     "w": "noirs",
+     "start": 27.981,
+     "end": 28.234
+    },
+    {
+     "w": "peuvent",
+     "start": 28.234,
+     "end": 28.564
+    },
+    {
+     "w": "pas",
+     "start": 28.564,
+     "end": 28.739
+    },
+    {
+     "w": "évoluer.",
+     "start": 28.739,
+     "end": 29.167
+    },
+    {
+     "w": "Ses",
+     "start": 29.217,
+     "end": 29.375
+    },
+    {
+     "w": "parents",
+     "start": 29.375,
+     "end": 29.675
+    },
+    {
+     "w": "sont",
+     "start": 29.675,
+     "end": 29.869
+    },
+    {
+     "w": "morts",
+     "start": 29.869,
+     "end": 30.098
+    },
+    {
+     "w": "en",
+     "start": 30.098,
+     "end": 30.221
+    },
+    {
+     "w": "essayant",
+     "start": 30.221,
+     "end": 30.556
+    },
+    {
+     "w": "de",
+     "start": 30.556,
+     "end": 30.679
+    },
+    {
+     "w": "prouver",
+     "start": 30.679,
+     "end": 30.979
+    },
+    {
+     "w": "le",
+     "start": 30.979,
+     "end": 31.102
+    },
+    {
+     "w": "contraire.",
+     "start": 31.102,
+     "end": 31.56
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 31.66,
+   "end": 36.307,
+   "slot_end": 36.407,
+   "text": "Et elle, elle a gardé ce rêve-là. Devenir assez forte pour évoluer, même si personne y croit.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 31.66,
+     "end": 31.793
+    },
+    {
+     "w": "elle,",
+     "start": 31.793,
+     "end": 32.096
+    },
+    {
+     "w": "elle",
+     "start": 32.096,
+     "end": 32.305
+    },
+    {
+     "w": "a",
+     "start": 32.305,
+     "end": 32.4
+    },
+    {
+     "w": "gardé",
+     "start": 32.4,
+     "end": 32.646
+    },
+    {
+     "w": "ce",
+     "start": 32.646,
+     "end": 32.779
+    },
+    {
+     "w": "rêve-là.",
+     "start": 32.779,
+     "end": 33.158
+    },
+    {
+     "w": "Devenir",
+     "start": 33.208,
+     "end": 33.596
+    },
+    {
+     "w": "assez",
+     "start": 33.596,
+     "end": 33.892
+    },
+    {
+     "w": "forte",
+     "start": 33.892,
+     "end": 34.188
+    },
+    {
+     "w": "pour",
+     "start": 34.188,
+     "end": 34.439
+    },
+    {
+     "w": "évoluer,",
+     "start": 34.439,
+     "end": 34.94
+    },
+    {
+     "w": "même",
+     "start": 34.94,
+     "end": 35.191
+    },
+    {
+     "w": "si",
+     "start": 35.191,
+     "end": 35.35
+    },
+    {
+     "w": "personne",
+     "start": 35.35,
+     "end": 35.783
+    },
+    {
+     "w": "y",
+     "start": 35.783,
+     "end": 35.897
+    },
+    {
+     "w": "croit.",
+     "start": 35.897,
+     "end": 36.307
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 36.407,
+   "end": 41.046,
+   "slot_end": 41.146,
+   "text": "Si t'aimes les recos comme ça, des animes qui passent sous les radars, abonne-toi, j'en sors tous les jours.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 36.407,
+     "end": 36.541
+    },
+    {
+     "w": "t'aimes",
+     "start": 36.541,
+     "end": 36.827
+    },
+    {
+     "w": "les",
+     "start": 36.827,
+     "end": 36.999
+    },
+    {
+     "w": "recos",
+     "start": 36.999,
+     "end": 37.247
+    },
+    {
+     "w": "comme",
+     "start": 37.247,
+     "end": 37.495
+    },
+    {
+     "w": "ça,",
+     "start": 37.495,
+     "end": 37.724
+    },
+    {
+     "w": "des",
+     "start": 37.724,
+     "end": 37.896
+    },
+    {
+     "w": "animes",
+     "start": 37.896,
+     "end": 38.183
+    },
+    {
+     "w": "qui",
+     "start": 38.183,
+     "end": 38.354
+    },
+    {
+     "w": "passent",
+     "start": 38.354,
+     "end": 38.679
+    },
+    {
+     "w": "sous",
+     "start": 38.679,
+     "end": 38.889
+    },
+    {
+     "w": "les",
+     "start": 38.889,
+     "end": 39.061
+    },
+    {
+     "w": "radars,",
+     "start": 39.061,
+     "end": 39.442
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 39.442,
+     "end": 39.939
+    },
+    {
+     "w": "j'en",
+     "start": 39.939,
+     "end": 40.111
+    },
+    {
+     "w": "sors",
+     "start": 40.111,
+     "end": 40.321
+    },
+    {
+     "w": "tous",
+     "start": 40.321,
+     "end": 40.531
+    },
+    {
+     "w": "les",
+     "start": 40.531,
+     "end": 40.702
+    },
+    {
+     "w": "jours.",
+     "start": 40.702,
+     "end": 41.046
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 41.146,
+   "end": 47.63,
+   "slot_end": 47.73,
+   "text": "Bref, l'épée la libère, et ils deviennent inséparables. Elle l'appelle Shishou, genre maître, alors que c'est un bout de métal.",
+   "words": [
+    {
+     "w": "Bref,",
+     "start": 41.146,
+     "end": 41.554
+    },
+    {
+     "w": "l'épée",
+     "start": 41.554,
+     "end": 41.886
+    },
+    {
+     "w": "la",
+     "start": 41.886,
+     "end": 42.064
+    },
+    {
+     "w": "libère,",
+     "start": 42.064,
+     "end": 42.574
+    },
+    {
+     "w": "et",
+     "start": 42.574,
+     "end": 42.752
+    },
+    {
+     "w": "ils",
+     "start": 42.752,
+     "end": 42.982
+    },
+    {
+     "w": "deviennent",
+     "start": 42.982,
+     "end": 43.568
+    },
+    {
+     "w": "inséparables.",
+     "start": 43.568,
+     "end": 44.384
+    },
+    {
+     "w": "Elle",
+     "start": 44.434,
+     "end": 44.653
+    },
+    {
+     "w": "l'appelle",
+     "start": 44.653,
+     "end": 45.03
+    },
+    {
+     "w": "Shishou,",
+     "start": 45.03,
+     "end": 45.466
+    },
+    {
+     "w": "genre",
+     "start": 45.466,
+     "end": 45.724
+    },
+    {
+     "w": "maître,",
+     "start": 45.724,
+     "end": 46.121
+    },
+    {
+     "w": "alors",
+     "start": 46.121,
+     "end": 46.379
+    },
+    {
+     "w": "que",
+     "start": 46.379,
+     "end": 46.558
+    },
+    {
+     "w": "c'est",
+     "start": 46.558,
+     "end": 46.776
+    },
+    {
+     "w": "un",
+     "start": 46.776,
+     "end": 46.915
+    },
+    {
+     "w": "bout",
+     "start": 46.915,
+     "end": 47.134
+    },
+    {
+     "w": "de",
+     "start": 47.134,
+     "end": 47.273
+    },
+    {
+     "w": "métal.",
+     "start": 47.273,
+     "end": 47.63
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 47.73,
+   "end": 54.52,
+   "slot_end": 54.62,
+   "text": "Ce qui marche trop bien, c'est le duo. Lui, il prépare les combats et il s'inquiète comme un grand frère. Elle, elle fonce et elle mange comme quatre.",
+   "words": [
+    {
+     "w": "Ce",
+     "start": 47.73,
+     "end": 47.861
+    },
+    {
+     "w": "qui",
+     "start": 47.861,
+     "end": 48.029
+    },
+    {
+     "w": "marche",
+     "start": 48.029,
+     "end": 48.309
+    },
+    {
+     "w": "trop",
+     "start": 48.309,
+     "end": 48.514
+    },
+    {
+     "w": "bien,",
+     "start": 48.514,
+     "end": 48.813
+    },
+    {
+     "w": "c'est",
+     "start": 48.813,
+     "end": 49.019
+    },
+    {
+     "w": "le",
+     "start": 49.019,
+     "end": 49.149
+    },
+    {
+     "w": "duo.",
+     "start": 49.149,
+     "end": 49.411
+    },
+    {
+     "w": "Lui,",
+     "start": 49.461,
+     "end": 49.732
+    },
+    {
+     "w": "il",
+     "start": 49.732,
+     "end": 49.868
+    },
+    {
+     "w": "prépare",
+     "start": 49.868,
+     "end": 50.197
+    },
+    {
+     "w": "les",
+     "start": 50.197,
+     "end": 50.372
+    },
+    {
+     "w": "combats",
+     "start": 50.372,
+     "end": 50.702
+    },
+    {
+     "w": "et",
+     "start": 50.702,
+     "end": 50.837
+    },
+    {
+     "w": "il",
+     "start": 50.837,
+     "end": 50.973
+    },
+    {
+     "w": "s'inquiète",
+     "start": 50.973,
+     "end": 51.38
+    },
+    {
+     "w": "comme",
+     "start": 51.38,
+     "end": 51.632
+    },
+    {
+     "w": "un",
+     "start": 51.632,
+     "end": 51.768
+    },
+    {
+     "w": "grand",
+     "start": 51.768,
+     "end": 52.02
+    },
+    {
+     "w": "frère.",
+     "start": 52.02,
+     "end": 52.369
+    },
+    {
+     "w": "Elle,",
+     "start": 52.419,
+     "end": 52.742
+    },
+    {
+     "w": "elle",
+     "start": 52.742,
+     "end": 52.964
+    },
+    {
+     "w": "fonce",
+     "start": 52.964,
+     "end": 53.227
+    },
+    {
+     "w": "et",
+     "start": 53.227,
+     "end": 53.368
+    },
+    {
+     "w": "elle",
+     "start": 53.368,
+     "end": 53.591
+    },
+    {
+     "w": "mange",
+     "start": 53.591,
+     "end": 53.853
+    },
+    {
+     "w": "comme",
+     "start": 53.853,
+     "end": 54.116
+    },
+    {
+     "w": "quatre.",
+     "start": 54.116,
+     "end": 54.52
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 54.62,
+   "end": 59.02,
+   "slot_end": 59.12,
+   "text": "Franchement, la moitié de ses répliques c'est juste qu'elle a faim, et j'adore ça.",
+   "words": [
+    {
+     "w": "Franchement,",
+     "start": 54.62,
+     "end": 55.341
+    },
+    {
+     "w": "la",
+     "start": 55.341,
+     "end": 55.51
+    },
+    {
+     "w": "moitié",
+     "start": 55.51,
+     "end": 55.87
+    },
+    {
+     "w": "de",
+     "start": 55.87,
+     "end": 56.039
+    },
+    {
+     "w": "ses",
+     "start": 56.039,
+     "end": 56.255
+    },
+    {
+     "w": "répliques",
+     "start": 56.255,
+     "end": 56.76
+    },
+    {
+     "w": "c'est",
+     "start": 56.76,
+     "end": 57.024
+    },
+    {
+     "w": "juste",
+     "start": 57.024,
+     "end": 57.337
+    },
+    {
+     "w": "qu'elle",
+     "start": 57.337,
+     "end": 57.698
+    },
+    {
+     "w": "a",
+     "start": 57.698,
+     "end": 57.818
+    },
+    {
+     "w": "faim,",
+     "start": 57.818,
+     "end": 58.202
+    },
+    {
+     "w": "et",
+     "start": 58.202,
+     "end": 58.371
+    },
+    {
+     "w": "j'adore",
+     "start": 58.371,
+     "end": 58.731
+    },
+    {
+     "w": "ça.",
+     "start": 58.731,
+     "end": 59.02
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 59.12,
+   "end": 66.748,
+   "slot_end": 66.848,
+   "text": "Et y'a Urushi, le loup qui se cache dans son ombre. Le trio est chaud.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 59.12,
+     "end": 59.445
+    },
+    {
+     "w": "y'a",
+     "start": 59.445,
+     "end": 59.771
+    },
+    {
+     "w": "Urushi,",
+     "start": 59.771,
+     "end": 60.701
+    },
+    {
+     "w": "le",
+     "start": 60.701,
+     "end": 61.027
+    },
+    {
+     "w": "loup",
+     "start": 61.027,
+     "end": 61.538
+    },
+    {
+     "w": "qui",
+     "start": 61.538,
+     "end": 61.957
+    },
+    {
+     "w": "se",
+     "start": 61.957,
+     "end": 62.283
+    },
+    {
+     "w": "cache",
+     "start": 62.283,
+     "end": 62.887
+    },
+    {
+     "w": "dans",
+     "start": 62.887,
+     "end": 63.399
+    },
+    {
+     "w": "son",
+     "start": 63.399,
+     "end": 63.817
+    },
+    {
+     "w": "ombre.",
+     "start": 63.817,
+     "end": 64.655
+    },
+    {
+     "w": "Le",
+     "start": 64.655,
+     "end": 64.98
+    },
+    {
+     "w": "trio",
+     "start": 64.98,
+     "end": 65.492
+    },
+    {
+     "w": "est",
+     "start": 65.492,
+     "end": 65.91
+    },
+    {
+     "w": "chaud.",
+     "start": 65.91,
+     "end": 66.748
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 66.848,
+   "end": 73.306,
+   "slot_end": 73.406,
+   "text": "Mon avis tranché : c'est un isekai qui a du cœur. T'as la progression de jeu vidéo, mais surtout une gamine pour qui t'as envie que ça marche.",
+   "words": [
+    {
+     "w": "Mon",
+     "start": 66.848,
+     "end": 67.045
+    },
+    {
+     "w": "avis",
+     "start": 67.045,
+     "end": 67.285
+    },
+    {
+     "w": "tranché",
+     "start": 67.285,
+     "end": 67.657
+    },
+    {
+     "w": ":",
+     "start": 67.657,
+     "end": 67.832
+    },
+    {
+     "w": "c'est",
+     "start": 67.832,
+     "end": 68.073
+    },
+    {
+     "w": "un",
+     "start": 68.073,
+     "end": 68.226
+    },
+    {
+     "w": "isekai",
+     "start": 68.226,
+     "end": 68.555
+    },
+    {
+     "w": "qui",
+     "start": 68.555,
+     "end": 68.752
+    },
+    {
+     "w": "a",
+     "start": 68.752,
+     "end": 68.861
+    },
+    {
+     "w": "du",
+     "start": 68.861,
+     "end": 69.014
+    },
+    {
+     "w": "cœur.",
+     "start": 69.014,
+     "end": 69.364
+    },
+    {
+     "w": "T'as",
+     "start": 69.414,
+     "end": 69.585
+    },
+    {
+     "w": "la",
+     "start": 69.585,
+     "end": 69.718
+    },
+    {
+     "w": "progression",
+     "start": 69.718,
+     "end": 70.193
+    },
+    {
+     "w": "de",
+     "start": 70.193,
+     "end": 70.325
+    },
+    {
+     "w": "jeu",
+     "start": 70.325,
+     "end": 70.496
+    },
+    {
+     "w": "vidéo,",
+     "start": 70.496,
+     "end": 70.838
+    },
+    {
+     "w": "mais",
+     "start": 70.838,
+     "end": 71.047
+    },
+    {
+     "w": "surtout",
+     "start": 71.047,
+     "end": 71.369
+    },
+    {
+     "w": "une",
+     "start": 71.369,
+     "end": 71.54
+    },
+    {
+     "w": "gamine",
+     "start": 71.54,
+     "end": 71.825
+    },
+    {
+     "w": "pour",
+     "start": 71.825,
+     "end": 72.034
+    },
+    {
+     "w": "qui",
+     "start": 72.034,
+     "end": 72.205
+    },
+    {
+     "w": "t'as",
+     "start": 72.205,
+     "end": 72.376
+    },
+    {
+     "w": "envie",
+     "start": 72.376,
+     "end": 72.622
+    },
+    {
+     "w": "que",
+     "start": 72.622,
+     "end": 72.793
+    },
+    {
+     "w": "ça",
+     "start": 72.793,
+     "end": 72.926
+    },
+    {
+     "w": "marche.",
+     "start": 72.926,
+     "end": 73.306
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 73.406,
+   "end": 78.239,
+   "slot_end": 78.339,
+   "text": "Si t'as raté la saison 1, rattrape-la, elle est courte, et la suite reprend direct leur aventure.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 73.406,
+     "end": 73.559
+    },
+    {
+     "w": "t'as",
+     "start": 73.559,
+     "end": 73.756
+    },
+    {
+     "w": "raté",
+     "start": 73.756,
+     "end": 73.996
+    },
+    {
+     "w": "la",
+     "start": 73.996,
+     "end": 74.149
+    },
+    {
+     "w": "saison",
+     "start": 74.149,
+     "end": 74.477
+    },
+    {
+     "w": "1,",
+     "start": 74.477,
+     "end": 74.696
+    },
+    {
+     "w": "rattrape-la,",
+     "start": 74.696,
+     "end": 75.308
+    },
+    {
+     "w": "elle",
+     "start": 75.308,
+     "end": 75.549
+    },
+    {
+     "w": "est",
+     "start": 75.549,
+     "end": 75.746
+    },
+    {
+     "w": "courte,",
+     "start": 75.746,
+     "end": 76.183
+    },
+    {
+     "w": "et",
+     "start": 76.183,
+     "end": 76.336
+    },
+    {
+     "w": "la",
+     "start": 76.336,
+     "end": 76.489
+    },
+    {
+     "w": "suite",
+     "start": 76.489,
+     "end": 76.773
+    },
+    {
+     "w": "reprend",
+     "start": 76.773,
+     "end": 77.145
+    },
+    {
+     "w": "direct",
+     "start": 77.145,
+     "end": 77.473
+    },
+    {
+     "w": "leur",
+     "start": 77.473,
+     "end": 77.714
+    },
+    {
+     "w": "aventure.",
+     "start": 77.714,
+     "end": 78.239
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 78.339,
+   "end": 84.199,
+   "slot_end": 84.299,
+   "text": "Le nom de l'anime, c'est Reincarnated as a Sword. Dis-moi en com' si t'aurais préféré te réincarner en épée ou en slime.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 78.339,
+     "end": 78.487
+    },
+    {
+     "w": "nom",
+     "start": 78.487,
+     "end": 78.679
+    },
+    {
+     "w": "de",
+     "start": 78.679,
+     "end": 78.828
+    },
+    {
+     "w": "l'anime,",
+     "start": 78.828,
+     "end": 79.254
+    },
+    {
+     "w": "c'est",
+     "start": 79.254,
+     "end": 79.488
+    },
+    {
+     "w": "Reincarnated",
+     "start": 79.488,
+     "end": 80.063
+    },
+    {
+     "w": "as",
+     "start": 80.063,
+     "end": 80.212
+    },
+    {
+     "w": "a",
+     "start": 80.212,
+     "end": 80.318
+    },
+    {
+     "w": "Sword.",
+     "start": 80.318,
+     "end": 80.701
+    },
+    {
+     "w": "Dis-moi",
+     "start": 80.751,
+     "end": 81.091
+    },
+    {
+     "w": "en",
+     "start": 81.091,
+     "end": 81.25
+    },
+    {
+     "w": "com'",
+     "start": 81.25,
+     "end": 81.454
+    },
+    {
+     "w": "si",
+     "start": 81.454,
+     "end": 81.613
+    },
+    {
+     "w": "t'aurais",
+     "start": 81.613,
+     "end": 81.999
+    },
+    {
+     "w": "préféré",
+     "start": 81.999,
+     "end": 82.384
+    },
+    {
+     "w": "te",
+     "start": 82.384,
+     "end": 82.543
+    },
+    {
+     "w": "réincarner",
+     "start": 82.543,
+     "end": 83.065
+    },
+    {
+     "w": "en",
+     "start": 83.065,
+     "end": 83.223
+    },
+    {
+     "w": "épée",
+     "start": 83.223,
+     "end": 83.473
+    },
+    {
+     "w": "ou",
+     "start": 83.473,
+     "end": 83.632
+    },
+    {
+     "w": "en",
+     "start": 83.632,
+     "end": 83.79
+    },
+    {
+     "w": "slime.",
+     "start": 83.79,
+     "end": 84.199
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "start": 84.299,
+   "end": 87.941,
+   "slot_end": 88.641,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 84.299,
+     "end": 84.805
+    },
+    {
+     "w": "Asura.",
+     "start": 84.805,
+     "end": 85.412
+    },
+    {
+     "w": "On",
+     "start": 85.412,
+     "end": 85.648
+    },
+    {
+     "w": "se",
+     "start": 85.648,
+     "end": 85.884
+    },
+    {
+     "w": "capte",
+     "start": 85.884,
+     "end": 86.322
+    },
+    {
+     "w": "au",
+     "start": 86.322,
+     "end": 86.558
+    },
+    {
+     "w": "prochain",
+     "start": 86.558,
+     "end": 87.199
+    },
+    {
+     "w": "épisode.",
+     "start": 87.199,
+     "end": 87.941
+    }
+   ]
+  }
+ ],
+ "aligned": false
+}
