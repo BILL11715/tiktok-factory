@@ -1,0 +1,105 @@
+{
+ "title": "Reco : il s'est réincarné en épée, et une gamine esclave le ramasse",
+ "format": "reco",
+ "tone": "pote",
+ "music": "pote",
+ "animes": [
+  "Reincarnated as a Sword Season 2"
+ ],
+ "hook_text": "Ce mec s'est réincarné en épée, et c'est une gamine esclave qui le ramasse",
+ "spoiler": false,
+ "segments": [
+  {
+   "text": "Ce mec s'est réincarné en épée, et c'est une gamine esclave qui le ramasse.",
+   "sfx": true,
+   "emphasis": [
+    "épée"
+   ]
+  },
+  {
+   "text": "[whispering] Reste jusqu'à la fin, j'te donne le nom, et la saison 2 vient tout juste de commencer.",
+   "emphasis": [
+    "saison 2"
+   ]
+  },
+  {
+   "text": "Un type meurt dans notre monde et se réveille dans un autre, sauf qu'il a pas de corps. Il est planté au milieu d'une forêt pleine de monstres.",
+   "grade": "cinematic"
+  },
+  {
+   "text": "Il parle dans la tête des gens, il vole par télékinésie, et chaque monstre qu'il plante lui donne ses compétences.",
+   "emphasis": [
+    "compétences"
+   ]
+  },
+  {
+   "text": "Et un jour il tombe sur Fran. Une petite fille de la tribu des chats noirs, vendue comme esclave, qui se fait traîner par des marchands.",
+   "grade": "bw",
+   "sfx": true,
+   "emphasis": [
+    "Fran"
+   ]
+  },
+  {
+   "text": "Chez elle, tout le monde dit que les chats noirs peuvent pas évoluer. Ses parents sont morts en essayant de prouver le contraire.",
+   "grade": "bw"
+  },
+  {
+   "text": "[sad] Et elle, elle a gardé ce rêve-là. Devenir assez forte pour évoluer, même si personne y croit.",
+   "grade": "bw",
+   "stamp": "SOUS-COTÉ"
+  },
+  {
+   "text": "Si t'aimes les recos comme ça, des animes qui passent sous les radars, abonne-toi, j'en sors tous les jours.",
+   "cta": true
+  },
+  {
+   "text": "[excited] Bref, l'épée la libère, et ils deviennent inséparables. Elle l'appelle Shishou, genre maître, alors que c'est un bout de métal.",
+   "emphasis": [
+    "Shishou"
+   ]
+  },
+  {
+   "text": "Ce qui marche trop bien, c'est le duo. Lui, il prépare les combats et il s'inquiète comme un grand frère. Elle, elle fonce et elle mange comme quatre.",
+   "emphasis": [
+    "duo"
+   ]
+  },
+  {
+   "text": "[laughing] Franchement, la moitié de ses répliques c'est juste qu'elle a faim, et j'adore ça.",
+   "emphasis": [
+    "faim"
+   ]
+  },
+  {
+   "text": "Et y'a Urushi, le loup qui se cache dans son ombre. Le trio est chaud.",
+   "emphasis": [
+    "Urushi"
+   ]
+  },
+  {
+   "text": "Mon avis tranché : c'est un isekai qui a du cœur. T'as la progression de jeu vidéo, mais surtout une gamine pour qui t'as envie que ça marche.",
+   "emphasis": [
+    "cœur"
+   ]
+  },
+  {
+   "text": "Si t'as raté la saison 1, rattrape-la, elle est courte, et la suite reprend direct leur aventure.",
+   "sfx": true
+  },
+  {
+   "text": "Le nom de l'anime, c'est Reincarnated as a Sword. Dis-moi en com' si t'aurais préféré te réincarner en épée ou en slime."
+  }
+ ],
+ "reveal_text": "Reincarnated as a Sword",
+ "reveal_segments": 1,
+ "caption": "Une épée qui parle et une gamine qui veut juste évoluer ⚔️ t'aurais choisi épée ou slime ?",
+ "hashtags": [
+  "#anime",
+  "#manga",
+  "#animefr",
+  "#otakufr",
+  "#reincarnatedasasword",
+  "#recommandationanime"
+ ]
+}
