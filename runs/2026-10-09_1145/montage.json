@@ -1,0 +1,16 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-09_1145/video.mp4",
+ "duration": 108.088,
+ "shots": 90,
+ "sources": [
+  "https://anilist.co/anime/195604",
+  "https://kitsu.io/anime/Black-Clover-Season-2"
+ ],
+ "music": {
+  "file": "mystere.mp3",
+  "bpm": 152.0,
+  "offset": 0.0
+ },
+ "sfx": 25,
+ "engine": "remotion (OpenMontage)"
+}

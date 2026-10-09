@@ -1,0 +1,1707 @@
+{
+ "engine": "piper",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-09_1145/voice.wav",
+ "duration": 108.088,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 3.991,
+   "slot_end": 4.091,
+   "text": "Asta ne deviendra jamais Empereur-Mage, et l'auteur nous le dit depuis le début.",
+   "words": [
+    {
+     "w": "Asta",
+     "start": 0.0,
+     "end": 0.248
+    },
+    {
+     "w": "ne",
+     "start": 0.248,
+     "end": 0.406
+    },
+    {
+     "w": "deviendra",
+     "start": 0.406,
+     "end": 0.879
+    },
+    {
+     "w": "jamais",
+     "start": 0.879,
+     "end": 1.217
+    },
+    {
+     "w": "Empereur-Mage,",
+     "start": 1.217,
+     "end": 1.939
+    },
+    {
+     "w": "et",
+     "start": 1.939,
+     "end": 2.097
+    },
+    {
+     "w": "l'auteur",
+     "start": 2.097,
+     "end": 2.48
+    },
+    {
+     "w": "nous",
+     "start": 2.48,
+     "end": 2.728
+    },
+    {
+     "w": "le",
+     "start": 2.728,
+     "end": 2.886
+    },
+    {
+     "w": "dit",
+     "start": 2.886,
+     "end": 3.089
+    },
+    {
+     "w": "depuis",
+     "start": 3.089,
+     "end": 3.427
+    },
+    {
+     "w": "le",
+     "start": 3.427,
+     "end": 3.585
+    },
+    {
+     "w": "début.",
+     "start": 3.585,
+     "end": 3.991
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 4.091,
+   "end": 8.928,
+   "slot_end": 9.028,
+   "text": "C'est une théorie hein. Mais reste jusqu'au bout, le dernier indice va piquer.",
+   "words": [
+    {
+     "w": "C'est",
+     "start": 4.091,
+     "end": 4.393
+    },
+    {
+     "w": "une",
+     "start": 4.393,
+     "end": 4.64
+    },
+    {
+     "w": "théorie",
+     "start": 4.64,
+     "end": 5.107
+    },
+    {
+     "w": "hein.",
+     "start": 5.107,
+     "end": 5.547
+    },
+    {
+     "w": "Mais",
+     "start": 5.547,
+     "end": 5.849
+    },
+    {
+     "w": "reste",
+     "start": 5.849,
+     "end": 6.207
+    },
+    {
+     "w": "jusqu'au",
+     "start": 6.207,
+     "end": 6.674
+    },
+    {
+     "w": "bout,",
+     "start": 6.674,
+     "end": 7.114
+    },
+    {
+     "w": "le",
+     "start": 7.114,
+     "end": 7.306
+    },
+    {
+     "w": "dernier",
+     "start": 7.306,
+     "end": 7.773
+    },
+    {
+     "w": "indice",
+     "start": 7.773,
+     "end": 8.186
+    },
+    {
+     "w": "va",
+     "start": 8.186,
+     "end": 8.378
+    },
+    {
+     "w": "piquer.",
+     "start": 8.378,
+     "end": 8.928
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 9.028,
+   "end": 15.148,
+   "slot_end": 15.248,
+   "text": "La saison 2 de Black Clover vient de commencer, et tout le monde se demande qui va prendre la place de Julius.",
+   "words": [
+    {
+     "w": "La",
+     "start": 9.028,
+     "end": 9.199
+    },
+    {
+     "w": "saison",
+     "start": 9.199,
+     "end": 9.566
+    },
+    {
+     "w": "2",
+     "start": 9.566,
+     "end": 9.689
+    },
+    {
+     "w": "de",
+     "start": 9.689,
+     "end": 9.86
+    },
+    {
+     "w": "Black",
+     "start": 9.86,
+     "end": 10.178
+    },
+    {
+     "w": "Clover",
+     "start": 10.178,
+     "end": 10.545
+    },
+    {
+     "w": "vient",
+     "start": 10.545,
+     "end": 10.864
+    },
+    {
+     "w": "de",
+     "start": 10.864,
+     "end": 11.035
+    },
+    {
+     "w": "commencer,",
+     "start": 11.035,
+     "end": 11.672
+    },
+    {
+     "w": "et",
+     "start": 11.672,
+     "end": 11.843
+    },
+    {
+     "w": "tout",
+     "start": 11.843,
+     "end": 12.112
+    },
+    {
+     "w": "le",
+     "start": 12.112,
+     "end": 12.284
+    },
+    {
+     "w": "monde",
+     "start": 12.284,
+     "end": 12.602
+    },
+    {
+     "w": "se",
+     "start": 12.602,
+     "end": 12.773
+    },
+    {
+     "w": "demande",
+     "start": 12.773,
+     "end": 13.189
+    },
+    {
+     "w": "qui",
+     "start": 13.189,
+     "end": 13.41
+    },
+    {
+     "w": "va",
+     "start": 13.41,
+     "end": 13.581
+    },
+    {
+     "w": "prendre",
+     "start": 13.581,
+     "end": 13.997
+    },
+    {
+     "w": "la",
+     "start": 13.997,
+     "end": 14.169
+    },
+    {
+     "w": "place",
+     "start": 14.169,
+     "end": 14.487
+    },
+    {
+     "w": "de",
+     "start": 14.487,
+     "end": 14.658
+    },
+    {
+     "w": "Julius.",
+     "start": 14.658,
+     "end": 15.148
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 15.248,
+   "end": 22.546,
+   "slot_end": 22.646,
+   "text": "Rappel. Asta et Yuno, deux orphelins trouvés le même jour, avec la même promesse : devenir Empereur-Mage.",
+   "words": [
+    {
+     "w": "Rappel.",
+     "start": 15.248,
+     "end": 15.851
+    },
+    {
+     "w": "Asta",
+     "start": 15.851,
+     "end": 16.183
+    },
+    {
+     "w": "et",
+     "start": 16.183,
+     "end": 16.394
+    },
+    {
+     "w": "Yuno,",
+     "start": 16.394,
+     "end": 16.876
+    },
+    {
+     "w": "deux",
+     "start": 16.876,
+     "end": 17.208
+    },
+    {
+     "w": "orphelins",
+     "start": 17.208,
+     "end": 17.841
+    },
+    {
+     "w": "trouvés",
+     "start": 17.841,
+     "end": 18.354
+    },
+    {
+     "w": "le",
+     "start": 18.354,
+     "end": 18.565
+    },
+    {
+     "w": "même",
+     "start": 18.565,
+     "end": 18.897
+    },
+    {
+     "w": "jour,",
+     "start": 18.897,
+     "end": 19.379
+    },
+    {
+     "w": "avec",
+     "start": 19.379,
+     "end": 19.711
+    },
+    {
+     "w": "la",
+     "start": 19.711,
+     "end": 19.922
+    },
+    {
+     "w": "même",
+     "start": 19.922,
+     "end": 20.254
+    },
+    {
+     "w": "promesse",
+     "start": 20.254,
+     "end": 20.827
+    },
+    {
+     "w": ":",
+     "start": 20.827,
+     "end": 21.068
+    },
+    {
+     "w": "devenir",
+     "start": 21.068,
+     "end": 21.581
+    },
+    {
+     "w": "Empereur-Mage.",
+     "start": 21.581,
+     "end": 22.546
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 22.646,
+   "end": 28.352,
+   "slot_end": 28.452,
+   "text": "Sauf que dans un shonen, quand deux rivaux visent le même trône, y'en a qu'un qui finit dessus.",
+   "words": [
+    {
+     "w": "Sauf",
+     "start": 22.646,
+     "end": 22.938
+    },
+    {
+     "w": "que",
+     "start": 22.938,
+     "end": 23.177
+    },
+    {
+     "w": "dans",
+     "start": 23.177,
+     "end": 23.469
+    },
+    {
+     "w": "un",
+     "start": 23.469,
+     "end": 23.655
+    },
+    {
+     "w": "shonen,",
+     "start": 23.655,
+     "end": 24.185
+    },
+    {
+     "w": "quand",
+     "start": 24.185,
+     "end": 24.53
+    },
+    {
+     "w": "deux",
+     "start": 24.53,
+     "end": 24.822
+    },
+    {
+     "w": "rivaux",
+     "start": 24.822,
+     "end": 25.22
+    },
+    {
+     "w": "visent",
+     "start": 25.22,
+     "end": 25.619
+    },
+    {
+     "w": "le",
+     "start": 25.619,
+     "end": 25.804
+    },
+    {
+     "w": "même",
+     "start": 25.804,
+     "end": 26.096
+    },
+    {
+     "w": "trône,",
+     "start": 26.096,
+     "end": 26.574
+    },
+    {
+     "w": "y'en",
+     "start": 26.574,
+     "end": 26.813
+    },
+    {
+     "w": "a",
+     "start": 26.813,
+     "end": 26.946
+    },
+    {
+     "w": "qu'un",
+     "start": 26.946,
+     "end": 27.238
+    },
+    {
+     "w": "qui",
+     "start": 27.238,
+     "end": 27.476
+    },
+    {
+     "w": "finit",
+     "start": 27.476,
+     "end": 27.821
+    },
+    {
+     "w": "dessus.",
+     "start": 27.821,
+     "end": 28.352
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 28.452,
+   "end": 40.332,
+   "slot_end": 40.432,
+   "text": "Premier indice. Yuno chope un grimoire à quatre feuilles, celui des plus grands Empereurs-Mages. Asta, lui, récupère un vieux grimoire tout abîmé à cinq feuilles.",
+   "words": [
+    {
+     "w": "Premier",
+     "start": 28.452,
+     "end": 29.09
+    },
+    {
+     "w": "indice.",
+     "start": 29.09,
+     "end": 29.841
+    },
+    {
+     "w": "Yuno",
+     "start": 29.841,
+     "end": 30.254
+    },
+    {
+     "w": "chope",
+     "start": 30.254,
+     "end": 30.742
+    },
+    {
+     "w": "un",
+     "start": 30.742,
+     "end": 31.004
+    },
+    {
+     "w": "grimoire",
+     "start": 31.004,
+     "end": 31.717
+    },
+    {
+     "w": "à",
+     "start": 31.717,
+     "end": 31.905
+    },
+    {
+     "w": "quatre",
+     "start": 31.905,
+     "end": 32.468
+    },
+    {
+     "w": "feuilles,",
+     "start": 32.468,
+     "end": 33.369
+    },
+    {
+     "w": "celui",
+     "start": 33.369,
+     "end": 33.857
+    },
+    {
+     "w": "des",
+     "start": 33.857,
+     "end": 34.194
+    },
+    {
+     "w": "plus",
+     "start": 34.194,
+     "end": 34.607
+    },
+    {
+     "w": "grands",
+     "start": 34.607,
+     "end": 35.17
+    },
+    {
+     "w": "Empereurs-Mages.",
+     "start": 35.17,
+     "end": 36.521
+    },
+    {
+     "w": "Asta,",
+     "start": 36.571,
+     "end": 36.967
+    },
+    {
+     "w": "lui,",
+     "start": 36.967,
+     "end": 37.313
+    },
+    {
+     "w": "récupère",
+     "start": 37.313,
+     "end": 37.783
+    },
+    {
+     "w": "un",
+     "start": 37.783,
+     "end": 37.957
+    },
+    {
+     "w": "vieux",
+     "start": 37.957,
+     "end": 38.278
+    },
+    {
+     "w": "grimoire",
+     "start": 38.278,
+     "end": 38.748
+    },
+    {
+     "w": "tout",
+     "start": 38.748,
+     "end": 39.02
+    },
+    {
+     "w": "abîmé",
+     "start": 39.02,
+     "end": 39.342
+    },
+    {
+     "w": "à",
+     "start": 39.342,
+     "end": 39.466
+    },
+    {
+     "w": "cinq",
+     "start": 39.466,
+     "end": 39.738
+    },
+    {
+     "w": "feuilles.",
+     "start": 39.738,
+     "end": 40.332
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 40.432,
+   "end": 47.216,
+   "slot_end": 47.316,
+   "text": "Et dans la cinquième feuille, y'a un démon, Liebe. T'imagines le royaume filer sa couronne à un mec avec un démon dans son bouquin ?",
+   "words": [
+    {
+     "w": "Et",
+     "start": 40.432,
+     "end": 40.605
+    },
+    {
+     "w": "dans",
+     "start": 40.605,
+     "end": 40.878
+    },
+    {
+     "w": "la",
+     "start": 40.878,
+     "end": 41.052
+    },
+    {
+     "w": "cinquième",
+     "start": 41.052,
+     "end": 41.573
+    },
+    {
+     "w": "feuille,",
+     "start": 41.573,
+     "end": 42.119
+    },
+    {
+     "w": "y'a",
+     "start": 42.119,
+     "end": 42.292
+    },
+    {
+     "w": "un",
+     "start": 42.292,
+     "end": 42.466
+    },
+    {
+     "w": "démon,",
+     "start": 42.466,
+     "end": 42.913
+    },
+    {
+     "w": "Liebe.",
+     "start": 42.913,
+     "end": 43.359
+    },
+    {
+     "w": "T'imagines",
+     "start": 43.409,
+     "end": 43.851
+    },
+    {
+     "w": "le",
+     "start": 43.851,
+     "end": 43.998
+    },
+    {
+     "w": "royaume",
+     "start": 43.998,
+     "end": 44.356
+    },
+    {
+     "w": "filer",
+     "start": 44.356,
+     "end": 44.629
+    },
+    {
+     "w": "sa",
+     "start": 44.629,
+     "end": 44.776
+    },
+    {
+     "w": "couronne",
+     "start": 44.776,
+     "end": 45.176
+    },
+    {
+     "w": "à",
+     "start": 45.176,
+     "end": 45.281
+    },
+    {
+     "w": "un",
+     "start": 45.281,
+     "end": 45.429
+    },
+    {
+     "w": "mec",
+     "start": 45.429,
+     "end": 45.618
+    },
+    {
+     "w": "avec",
+     "start": 45.618,
+     "end": 45.849
+    },
+    {
+     "w": "un",
+     "start": 45.849,
+     "end": 45.996
+    },
+    {
+     "w": "démon",
+     "start": 45.996,
+     "end": 46.27
+    },
+    {
+     "w": "dans",
+     "start": 46.27,
+     "end": 46.501
+    },
+    {
+     "w": "son",
+     "start": 46.501,
+     "end": 46.691
+    },
+    {
+     "w": "bouquin",
+     "start": 46.691,
+     "end": 47.048
+    },
+    {
+     "w": "?",
+     "start": 47.048,
+     "end": 47.216
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 47.316,
+   "end": 52.734,
+   "slot_end": 52.834,
+   "text": "Si tu kiffes quand je retourne une série, abonne-toi, la saison 2 va me donner des théories toute l'année.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 47.316,
+     "end": 47.476
+    },
+    {
+     "w": "tu",
+     "start": 47.476,
+     "end": 47.635
+    },
+    {
+     "w": "kiffes",
+     "start": 47.635,
+     "end": 47.977
+    },
+    {
+     "w": "quand",
+     "start": 47.977,
+     "end": 48.273
+    },
+    {
+     "w": "je",
+     "start": 48.273,
+     "end": 48.432
+    },
+    {
+     "w": "retourne",
+     "start": 48.432,
+     "end": 48.864
+    },
+    {
+     "w": "une",
+     "start": 48.864,
+     "end": 49.069
+    },
+    {
+     "w": "série,",
+     "start": 49.069,
+     "end": 49.479
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 49.479,
+     "end": 50.071
+    },
+    {
+     "w": "la",
+     "start": 50.071,
+     "end": 50.23
+    },
+    {
+     "w": "saison",
+     "start": 50.23,
+     "end": 50.572
+    },
+    {
+     "w": "2",
+     "start": 50.572,
+     "end": 50.686
+    },
+    {
+     "w": "va",
+     "start": 50.686,
+     "end": 50.845
+    },
+    {
+     "w": "me",
+     "start": 50.845,
+     "end": 51.004
+    },
+    {
+     "w": "donner",
+     "start": 51.004,
+     "end": 51.346
+    },
+    {
+     "w": "des",
+     "start": 51.346,
+     "end": 51.551
+    },
+    {
+     "w": "théories",
+     "start": 51.551,
+     "end": 51.983
+    },
+    {
+     "w": "toute",
+     "start": 51.983,
+     "end": 52.279
+    },
+    {
+     "w": "l'année.",
+     "start": 52.279,
+     "end": 52.734
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 52.834,
+   "end": 62.137,
+   "slot_end": 62.237,
+   "text": "Deuxième indice, le plus parlant pour moi. Asta a zéro mana. Pas un peu, zéro. Dans un royaume où les nobles méprisent déjà les roturiers.",
+   "words": [
+    {
+     "w": "Deuxième",
+     "start": 52.834,
+     "end": 53.416
+    },
+    {
+     "w": "indice,",
+     "start": 53.416,
+     "end": 54.029
+    },
+    {
+     "w": "le",
+     "start": 54.029,
+     "end": 54.243
+    },
+    {
+     "w": "plus",
+     "start": 54.243,
+     "end": 54.58
+    },
+    {
+     "w": "parlant",
+     "start": 54.58,
+     "end": 55.1
+    },
+    {
+     "w": "pour",
+     "start": 55.1,
+     "end": 55.437
+    },
+    {
+     "w": "moi.",
+     "start": 55.437,
+     "end": 55.866
+    },
+    {
+     "w": "Asta",
+     "start": 55.866,
+     "end": 56.203
+    },
+    {
+     "w": "a",
+     "start": 56.203,
+     "end": 56.356
+    },
+    {
+     "w": "zéro",
+     "start": 56.356,
+     "end": 56.693
+    },
+    {
+     "w": "mana.",
+     "start": 56.693,
+     "end": 57.182
+    },
+    {
+     "w": "Pas",
+     "start": 57.182,
+     "end": 57.458
+    },
+    {
+     "w": "un",
+     "start": 57.458,
+     "end": 57.672
+    },
+    {
+     "w": "peu,",
+     "start": 57.672,
+     "end": 58.101
+    },
+    {
+     "w": "zéro.",
+     "start": 58.101,
+     "end": 58.591
+    },
+    {
+     "w": "Dans",
+     "start": 58.641,
+     "end": 58.93
+    },
+    {
+     "w": "un",
+     "start": 58.93,
+     "end": 59.114
+    },
+    {
+     "w": "royaume",
+     "start": 59.114,
+     "end": 59.561
+    },
+    {
+     "w": "où",
+     "start": 59.561,
+     "end": 59.745
+    },
+    {
+     "w": "les",
+     "start": 59.745,
+     "end": 59.982
+    },
+    {
+     "w": "nobles",
+     "start": 59.982,
+     "end": 60.376
+    },
+    {
+     "w": "méprisent",
+     "start": 60.376,
+     "end": 60.928
+    },
+    {
+     "w": "déjà",
+     "start": 60.928,
+     "end": 61.217
+    },
+    {
+     "w": "les",
+     "start": 61.217,
+     "end": 61.454
+    },
+    {
+     "w": "roturiers.",
+     "start": 61.454,
+     "end": 62.137
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 62.237,
+   "end": 69.176,
+   "slot_end": 69.276,
+   "text": "Un Empereur-Mage sans magie, ça se contredit tout seul. Et j'te jure que Tabata le sait.",
+   "words": [
+    {
+     "w": "Un",
+     "start": 62.237,
+     "end": 62.481
+    },
+    {
+     "w": "Empereur-Mage",
+     "start": 62.481,
+     "end": 63.423
+    },
+    {
+     "w": "sans",
+     "start": 63.423,
+     "end": 63.806
+    },
+    {
+     "w": "magie,",
+     "start": 63.806,
+     "end": 64.434
+    },
+    {
+     "w": "ça",
+     "start": 64.434,
+     "end": 64.678
+    },
+    {
+     "w": "se",
+     "start": 64.678,
+     "end": 64.922
+    },
+    {
+     "w": "contredit",
+     "start": 64.922,
+     "end": 65.654
+    },
+    {
+     "w": "tout",
+     "start": 65.654,
+     "end": 66.038
+    },
+    {
+     "w": "seul.",
+     "start": 66.038,
+     "end": 66.596
+    },
+    {
+     "w": "Et",
+     "start": 66.596,
+     "end": 66.84
+    },
+    {
+     "w": "j'te",
+     "start": 66.84,
+     "end": 67.154
+    },
+    {
+     "w": "jure",
+     "start": 67.154,
+     "end": 67.537
+    },
+    {
+     "w": "que",
+     "start": 67.537,
+     "end": 67.851
+    },
+    {
+     "w": "Tabata",
+     "start": 67.851,
+     "end": 68.374
+    },
+    {
+     "w": "le",
+     "start": 68.374,
+     "end": 68.618
+    },
+    {
+     "w": "sait.",
+     "start": 68.618,
+     "end": 69.176
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 69.276,
+   "end": 76.569,
+   "slot_end": 76.669,
+   "text": "Dernier indice. Le vrai rêve d'Asta, c'est pas le trône. C'est prouver que les gens comme lui comptent, et ça se fait sans couronne.",
+   "words": [
+    {
+     "w": "Dernier",
+     "start": 69.276,
+     "end": 69.791
+    },
+    {
+     "w": "indice.",
+     "start": 69.791,
+     "end": 70.397
+    },
+    {
+     "w": "Le",
+     "start": 70.397,
+     "end": 70.609
+    },
+    {
+     "w": "vrai",
+     "start": 70.609,
+     "end": 70.942
+    },
+    {
+     "w": "rêve",
+     "start": 70.942,
+     "end": 71.275
+    },
+    {
+     "w": "d'Asta,",
+     "start": 71.275,
+     "end": 71.821
+    },
+    {
+     "w": "c'est",
+     "start": 71.821,
+     "end": 72.154
+    },
+    {
+     "w": "pas",
+     "start": 72.154,
+     "end": 72.426
+    },
+    {
+     "w": "le",
+     "start": 72.426,
+     "end": 72.638
+    },
+    {
+     "w": "trône.",
+     "start": 72.638,
+     "end": 73.184
+    },
+    {
+     "w": "C'est",
+     "start": 73.234,
+     "end": 73.449
+    },
+    {
+     "w": "prouver",
+     "start": 73.449,
+     "end": 73.783
+    },
+    {
+     "w": "que",
+     "start": 73.783,
+     "end": 73.96
+    },
+    {
+     "w": "les",
+     "start": 73.96,
+     "end": 74.136
+    },
+    {
+     "w": "gens",
+     "start": 74.136,
+     "end": 74.352
+    },
+    {
+     "w": "comme",
+     "start": 74.352,
+     "end": 74.607
+    },
+    {
+     "w": "lui",
+     "start": 74.607,
+     "end": 74.784
+    },
+    {
+     "w": "comptent,",
+     "start": 74.784,
+     "end": 75.255
+    },
+    {
+     "w": "et",
+     "start": 75.255,
+     "end": 75.392
+    },
+    {
+     "w": "ça",
+     "start": 75.392,
+     "end": 75.529
+    },
+    {
+     "w": "se",
+     "start": 75.529,
+     "end": 75.667
+    },
+    {
+     "w": "fait",
+     "start": 75.667,
+     "end": 75.883
+    },
+    {
+     "w": "sans",
+     "start": 75.883,
+     "end": 76.098
+    },
+    {
+     "w": "couronne.",
+     "start": 76.098,
+     "end": 76.569
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 76.669,
+   "end": 84.562,
+   "slot_end": 84.662,
+   "text": "Mais attends, y'a un problème avec ma théorie. Tout le manga tient sur cette promesse, et un shonen qui casse le rêve de son héros, c'est rare.",
+   "words": [
+    {
+     "w": "Mais",
+     "start": 76.669,
+     "end": 76.948
+    },
+    {
+     "w": "attends,",
+     "start": 76.948,
+     "end": 77.506
+    },
+    {
+     "w": "y'a",
+     "start": 77.506,
+     "end": 77.684
+    },
+    {
+     "w": "un",
+     "start": 77.684,
+     "end": 77.861
+    },
+    {
+     "w": "problème",
+     "start": 77.861,
+     "end": 78.343
+    },
+    {
+     "w": "avec",
+     "start": 78.343,
+     "end": 78.622
+    },
+    {
+     "w": "ma",
+     "start": 78.622,
+     "end": 78.799
+    },
+    {
+     "w": "théorie.",
+     "start": 78.799,
+     "end": 79.357
+    },
+    {
+     "w": "Tout",
+     "start": 79.407,
+     "end": 79.665
+    },
+    {
+     "w": "le",
+     "start": 79.665,
+     "end": 79.829
+    },
+    {
+     "w": "manga",
+     "start": 79.829,
+     "end": 80.133
+    },
+    {
+     "w": "tient",
+     "start": 80.133,
+     "end": 80.438
+    },
+    {
+     "w": "sur",
+     "start": 80.438,
+     "end": 80.649
+    },
+    {
+     "w": "cette",
+     "start": 80.649,
+     "end": 80.954
+    },
+    {
+     "w": "promesse,",
+     "start": 80.954,
+     "end": 81.516
+    },
+    {
+     "w": "et",
+     "start": 81.516,
+     "end": 81.68
+    },
+    {
+     "w": "un",
+     "start": 81.68,
+     "end": 81.844
+    },
+    {
+     "w": "shonen",
+     "start": 81.844,
+     "end": 82.196
+    },
+    {
+     "w": "qui",
+     "start": 82.196,
+     "end": 82.406
+    },
+    {
+     "w": "casse",
+     "start": 82.406,
+     "end": 82.711
+    },
+    {
+     "w": "le",
+     "start": 82.711,
+     "end": 82.875
+    },
+    {
+     "w": "rêve",
+     "start": 82.875,
+     "end": 83.133
+    },
+    {
+     "w": "de",
+     "start": 83.133,
+     "end": 83.297
+    },
+    {
+     "w": "son",
+     "start": 83.297,
+     "end": 83.508
+    },
+    {
+     "w": "héros,",
+     "start": 83.508,
+     "end": 83.93
+    },
+    {
+     "w": "c'est",
+     "start": 83.93,
+     "end": 84.187
+    },
+    {
+     "w": "rare.",
+     "start": 84.187,
+     "end": 84.562
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 84.662,
+   "end": 91.3,
+   "slot_end": 91.4,
+   "text": "Et Asta le répète : ne jamais abandonner, c'est sa magie. Si quelqu'un peut faire mentir la règle, c'est lui.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 84.662,
+     "end": 84.868
+    },
+    {
+     "w": "Asta",
+     "start": 84.868,
+     "end": 85.191
+    },
+    {
+     "w": "le",
+     "start": 85.191,
+     "end": 85.396
+    },
+    {
+     "w": "répète",
+     "start": 85.396,
+     "end": 85.836
+    },
+    {
+     "w": ":",
+     "start": 85.836,
+     "end": 86.071
+    },
+    {
+     "w": "ne",
+     "start": 86.071,
+     "end": 86.277
+    },
+    {
+     "w": "jamais",
+     "start": 86.277,
+     "end": 86.717
+    },
+    {
+     "w": "abandonner,",
+     "start": 86.717,
+     "end": 87.539
+    },
+    {
+     "w": "c'est",
+     "start": 87.539,
+     "end": 87.862
+    },
+    {
+     "w": "sa",
+     "start": 87.862,
+     "end": 88.067
+    },
+    {
+     "w": "magie.",
+     "start": 88.067,
+     "end": 88.595
+    },
+    {
+     "w": "Si",
+     "start": 88.645,
+     "end": 88.807
+    },
+    {
+     "w": "quelqu'un",
+     "start": 88.807,
+     "end": 89.246
+    },
+    {
+     "w": "peut",
+     "start": 89.246,
+     "end": 89.499
+    },
+    {
+     "w": "faire",
+     "start": 89.499,
+     "end": 89.799
+    },
+    {
+     "w": "mentir",
+     "start": 89.799,
+     "end": 90.146
+    },
+    {
+     "w": "la",
+     "start": 90.146,
+     "end": 90.307
+    },
+    {
+     "w": "règle,",
+     "start": 90.307,
+     "end": 90.723
+    },
+    {
+     "w": "c'est",
+     "start": 90.723,
+     "end": 90.976
+    },
+    {
+     "w": "lui.",
+     "start": 90.976,
+     "end": 91.3
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 91.4,
+   "end": 97.496,
+   "slot_end": 97.596,
+   "text": "Perso je mise sur Yuno sur le trône, et Asta juste à côté, capitaine des Black Bulls à la place de Yami.",
+   "words": [
+    {
+     "w": "Perso",
+     "start": 91.4,
+     "end": 91.728
+    },
+    {
+     "w": "je",
+     "start": 91.728,
+     "end": 91.905
+    },
+    {
+     "w": "mise",
+     "start": 91.905,
+     "end": 92.184
+    },
+    {
+     "w": "sur",
+     "start": 92.184,
+     "end": 92.411
+    },
+    {
+     "w": "Yuno",
+     "start": 92.411,
+     "end": 92.69
+    },
+    {
+     "w": "sur",
+     "start": 92.69,
+     "end": 92.917
+    },
+    {
+     "w": "le",
+     "start": 92.917,
+     "end": 93.094
+    },
+    {
+     "w": "trône,",
+     "start": 93.094,
+     "end": 93.55
+    },
+    {
+     "w": "et",
+     "start": 93.55,
+     "end": 93.727
+    },
+    {
+     "w": "Asta",
+     "start": 93.727,
+     "end": 94.005
+    },
+    {
+     "w": "juste",
+     "start": 94.005,
+     "end": 94.334
+    },
+    {
+     "w": "à",
+     "start": 94.334,
+     "end": 94.46
+    },
+    {
+     "w": "côté,",
+     "start": 94.46,
+     "end": 94.865
+    },
+    {
+     "w": "capitaine",
+     "start": 94.865,
+     "end": 95.396
+    },
+    {
+     "w": "des",
+     "start": 95.396,
+     "end": 95.624
+    },
+    {
+     "w": "Black",
+     "start": 95.624,
+     "end": 95.953
+    },
+    {
+     "w": "Bulls",
+     "start": 95.953,
+     "end": 96.282
+    },
+    {
+     "w": "à",
+     "start": 96.282,
+     "end": 96.408
+    },
+    {
+     "w": "la",
+     "start": 96.408,
+     "end": 96.585
+    },
+    {
+     "w": "place",
+     "start": 96.585,
+     "end": 96.914
+    },
+    {
+     "w": "de",
+     "start": 96.914,
+     "end": 97.091
+    },
+    {
+     "w": "Yami.",
+     "start": 97.091,
+     "end": 97.496
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 97.596,
+   "end": 103.812,
+   "slot_end": 103.912,
+   "text": "Alors, team Asta ou team Yuno pour la couronne ? Dis-le en com', j'veux voir la guerre.",
+   "words": [
+    {
+     "w": "Alors,",
+     "start": 97.596,
+     "end": 98.133
+    },
+    {
+     "w": "team",
+     "start": 98.133,
+     "end": 98.462
+    },
+    {
+     "w": "Asta",
+     "start": 98.462,
+     "end": 98.79
+    },
+    {
+     "w": "ou",
+     "start": 98.79,
+     "end": 98.999
+    },
+    {
+     "w": "team",
+     "start": 98.999,
+     "end": 99.327
+    },
+    {
+     "w": "Yuno",
+     "start": 99.327,
+     "end": 99.656
+    },
+    {
+     "w": "pour",
+     "start": 99.656,
+     "end": 99.984
+    },
+    {
+     "w": "la",
+     "start": 99.984,
+     "end": 100.193
+    },
+    {
+     "w": "couronne",
+     "start": 100.193,
+     "end": 100.76
+    },
+    {
+     "w": "?",
+     "start": 100.76,
+     "end": 100.999
+    },
+    {
+     "w": "Dis-le",
+     "start": 101.049,
+     "end": 101.471
+    },
+    {
+     "w": "en",
+     "start": 101.471,
+     "end": 101.699
+    },
+    {
+     "w": "com',",
+     "start": 101.699,
+     "end": 102.154
+    },
+    {
+     "w": "j'veux",
+     "start": 102.154,
+     "end": 102.577
+    },
+    {
+     "w": "voir",
+     "start": 102.577,
+     "end": 102.934
+    },
+    {
+     "w": "la",
+     "start": 102.934,
+     "end": 103.162
+    },
+    {
+     "w": "guerre.",
+     "start": 103.162,
+     "end": 103.812
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "start": 103.912,
+   "end": 107.388,
+   "slot_end": 108.088,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 103.912,
+     "end": 104.395
+    },
+    {
+     "w": "Asura.",
+     "start": 104.395,
+     "end": 104.974
+    },
+    {
+     "w": "On",
+     "start": 104.974,
+     "end": 105.2
+    },
+    {
+     "w": "se",
+     "start": 105.2,
+     "end": 105.425
+    },
+    {
+     "w": "capte",
+     "start": 105.425,
+     "end": 105.843
+    },
+    {
+     "w": "au",
+     "start": 105.843,
+     "end": 106.069
+    },
+    {
+     "w": "prochain",
+     "start": 106.069,
+     "end": 106.68
+    },
+    {
+     "w": "épisode.",
+     "start": 106.68,
+     "end": 107.388
+    }
+   ]
+  }
+ ],
+ "aligned": false
+}
