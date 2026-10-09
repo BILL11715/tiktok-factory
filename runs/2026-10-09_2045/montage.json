@@ -1,0 +1,16 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-09_2045/video.mp4",
+ "duration": 85.708,
+ "shots": 45,
+ "sources": [
+  "https://anilist.co/anime/172192",
+  "https://kitsu.io/anime/kikansha-no-mahou-wa-tokubetsu-desu-2nd-season"
+ ],
+ "music": {
+  "file": "pote.mp3",
+  "bpm": 184.6,
+  "offset": 47.39
+ },
+ "sfx": 28,
+ "engine": "remotion (OpenMontage)"
+}

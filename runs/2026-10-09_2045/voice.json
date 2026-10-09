@@ -1,0 +1,1707 @@
+{
+ "engine": "piper",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-09_2045/voice.wav",
+ "duration": 85.708,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 3.494,
+   "slot_end": 3.594,
+   "text": "L'humanité entière est morte, et lui se réveille ado, des années avant la fin.",
+   "words": [
+    {
+     "w": "L'humanité",
+     "start": 0.0,
+     "end": 0.41
+    },
+    {
+     "w": "entière",
+     "start": 0.41,
+     "end": 0.742
+    },
+    {
+     "w": "est",
+     "start": 0.742,
+     "end": 0.918
+    },
+    {
+     "w": "morte,",
+     "start": 0.918,
+     "end": 1.269
+    },
+    {
+     "w": "et",
+     "start": 1.269,
+     "end": 1.406
+    },
+    {
+     "w": "lui",
+     "start": 1.406,
+     "end": 1.581
+    },
+    {
+     "w": "se",
+     "start": 1.581,
+     "end": 1.718
+    },
+    {
+     "w": "réveille",
+     "start": 1.718,
+     "end": 2.089
+    },
+    {
+     "w": "ado,",
+     "start": 2.089,
+     "end": 2.362
+    },
+    {
+     "w": "des",
+     "start": 2.362,
+     "end": 2.538
+    },
+    {
+     "w": "années",
+     "start": 2.538,
+     "end": 2.831
+    },
+    {
+     "w": "avant",
+     "start": 2.831,
+     "end": 3.084
+    },
+    {
+     "w": "la",
+     "start": 3.084,
+     "end": 3.221
+    },
+    {
+     "w": "fin.",
+     "start": 3.221,
+     "end": 3.494
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 3.594,
+   "end": 7.754,
+   "slot_end": 7.854,
+   "text": "Reste jusqu'au bout, j'te donne le nom, et la suite vient tout juste de sortir.",
+   "words": [
+    {
+     "w": "Reste",
+     "start": 3.594,
+     "end": 3.895
+    },
+    {
+     "w": "jusqu'au",
+     "start": 3.895,
+     "end": 4.288
+    },
+    {
+     "w": "bout,",
+     "start": 4.288,
+     "end": 4.657
+    },
+    {
+     "w": "j'te",
+     "start": 4.657,
+     "end": 4.865
+    },
+    {
+     "w": "donne",
+     "start": 4.865,
+     "end": 5.166
+    },
+    {
+     "w": "le",
+     "start": 5.166,
+     "end": 5.327
+    },
+    {
+     "w": "nom,",
+     "start": 5.327,
+     "end": 5.651
+    },
+    {
+     "w": "et",
+     "start": 5.651,
+     "end": 5.813
+    },
+    {
+     "w": "la",
+     "start": 5.813,
+     "end": 5.974
+    },
+    {
+     "w": "suite",
+     "start": 5.974,
+     "end": 6.275
+    },
+    {
+     "w": "vient",
+     "start": 6.275,
+     "end": 6.575
+    },
+    {
+     "w": "tout",
+     "start": 6.575,
+     "end": 6.829
+    },
+    {
+     "w": "juste",
+     "start": 6.829,
+     "end": 7.13
+    },
+    {
+     "w": "de",
+     "start": 7.13,
+     "end": 7.291
+    },
+    {
+     "w": "sortir.",
+     "start": 7.291,
+     "end": 7.754
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 7.854,
+   "end": 16.324,
+   "slot_end": 16.424,
+   "text": "Le mec s'appelle Desir. Dans sa première vie, c'est un des tout derniers humains encore debout dans le Labyrinthe des Ombres.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 7.854,
+     "end": 8.067
+    },
+    {
+     "w": "mec",
+     "start": 8.067,
+     "end": 8.341
+    },
+    {
+     "w": "s'appelle",
+     "start": 8.341,
+     "end": 8.92
+    },
+    {
+     "w": "Desir.",
+     "start": 8.92,
+     "end": 9.468
+    },
+    {
+     "w": "Dans",
+     "start": 9.468,
+     "end": 9.804
+    },
+    {
+     "w": "sa",
+     "start": 9.804,
+     "end": 10.017
+    },
+    {
+     "w": "première",
+     "start": 10.017,
+     "end": 10.596
+    },
+    {
+     "w": "vie,",
+     "start": 10.596,
+     "end": 11.022
+    },
+    {
+     "w": "c'est",
+     "start": 11.022,
+     "end": 11.357
+    },
+    {
+     "w": "un",
+     "start": 11.357,
+     "end": 11.571
+    },
+    {
+     "w": "des",
+     "start": 11.571,
+     "end": 11.845
+    },
+    {
+     "w": "tout",
+     "start": 11.845,
+     "end": 12.18
+    },
+    {
+     "w": "derniers",
+     "start": 12.18,
+     "end": 12.759
+    },
+    {
+     "w": "humains",
+     "start": 12.759,
+     "end": 13.277
+    },
+    {
+     "w": "encore",
+     "start": 13.277,
+     "end": 13.734
+    },
+    {
+     "w": "debout",
+     "start": 13.734,
+     "end": 14.191
+    },
+    {
+     "w": "dans",
+     "start": 14.191,
+     "end": 14.526
+    },
+    {
+     "w": "le",
+     "start": 14.526,
+     "end": 14.739
+    },
+    {
+     "w": "Labyrinthe",
+     "start": 14.739,
+     "end": 15.44
+    },
+    {
+     "w": "des",
+     "start": 15.44,
+     "end": 15.714
+    },
+    {
+     "w": "Ombres.",
+     "start": 15.714,
+     "end": 16.324
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 16.424,
+   "end": 21.741,
+   "slot_end": 21.841,
+   "text": "Ce labyrinthe a avalé le monde entier, et ses potes tombent un par un à côté de lui, sans qu'il puisse rien faire.",
+   "words": [
+    {
+     "w": "Ce",
+     "start": 16.424,
+     "end": 16.567
+    },
+    {
+     "w": "labyrinthe",
+     "start": 16.567,
+     "end": 17.037
+    },
+    {
+     "w": "a",
+     "start": 17.037,
+     "end": 17.139
+    },
+    {
+     "w": "avalé",
+     "start": 17.139,
+     "end": 17.405
+    },
+    {
+     "w": "le",
+     "start": 17.405,
+     "end": 17.548
+    },
+    {
+     "w": "monde",
+     "start": 17.548,
+     "end": 17.814
+    },
+    {
+     "w": "entier,",
+     "start": 17.814,
+     "end": 18.223
+    },
+    {
+     "w": "et",
+     "start": 18.223,
+     "end": 18.366
+    },
+    {
+     "w": "ses",
+     "start": 18.366,
+     "end": 18.55
+    },
+    {
+     "w": "potes",
+     "start": 18.55,
+     "end": 18.816
+    },
+    {
+     "w": "tombent",
+     "start": 18.816,
+     "end": 19.164
+    },
+    {
+     "w": "un",
+     "start": 19.164,
+     "end": 19.307
+    },
+    {
+     "w": "par",
+     "start": 19.307,
+     "end": 19.491
+    },
+    {
+     "w": "un",
+     "start": 19.491,
+     "end": 19.634
+    },
+    {
+     "w": "à",
+     "start": 19.634,
+     "end": 19.737
+    },
+    {
+     "w": "côté",
+     "start": 19.737,
+     "end": 19.961
+    },
+    {
+     "w": "de",
+     "start": 19.961,
+     "end": 20.105
+    },
+    {
+     "w": "lui,",
+     "start": 20.105,
+     "end": 20.391
+    },
+    {
+     "w": "sans",
+     "start": 20.391,
+     "end": 20.616
+    },
+    {
+     "w": "qu'il",
+     "start": 20.616,
+     "end": 20.841
+    },
+    {
+     "w": "puisse",
+     "start": 20.841,
+     "end": 21.148
+    },
+    {
+     "w": "rien",
+     "start": 21.148,
+     "end": 21.373
+    },
+    {
+     "w": "faire.",
+     "start": 21.373,
+     "end": 21.741
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 21.841,
+   "end": 26.141,
+   "slot_end": 26.241,
+   "text": "Et au moment où tout est fini, au lieu de crever avec eux, il est renvoyé dans le passé, dans son corps d'ado.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 21.841,
+     "end": 21.959
+    },
+    {
+     "w": "au",
+     "start": 21.959,
+     "end": 22.077
+    },
+    {
+     "w": "moment",
+     "start": 22.077,
+     "end": 22.33
+    },
+    {
+     "w": "où",
+     "start": 22.33,
+     "end": 22.448
+    },
+    {
+     "w": "tout",
+     "start": 22.448,
+     "end": 22.633
+    },
+    {
+     "w": "est",
+     "start": 22.633,
+     "end": 22.785
+    },
+    {
+     "w": "fini,",
+     "start": 22.785,
+     "end": 23.055
+    },
+    {
+     "w": "au",
+     "start": 23.055,
+     "end": 23.173
+    },
+    {
+     "w": "lieu",
+     "start": 23.173,
+     "end": 23.358
+    },
+    {
+     "w": "de",
+     "start": 23.358,
+     "end": 23.477
+    },
+    {
+     "w": "crever",
+     "start": 23.477,
+     "end": 23.729
+    },
+    {
+     "w": "avec",
+     "start": 23.729,
+     "end": 23.915
+    },
+    {
+     "w": "eux,",
+     "start": 23.915,
+     "end": 24.151
+    },
+    {
+     "w": "il",
+     "start": 24.151,
+     "end": 24.269
+    },
+    {
+     "w": "est",
+     "start": 24.269,
+     "end": 24.421
+    },
+    {
+     "w": "renvoyé",
+     "start": 24.421,
+     "end": 24.708
+    },
+    {
+     "w": "dans",
+     "start": 24.708,
+     "end": 24.893
+    },
+    {
+     "w": "le",
+     "start": 24.893,
+     "end": 25.011
+    },
+    {
+     "w": "passé,",
+     "start": 25.011,
+     "end": 25.315
+    },
+    {
+     "w": "dans",
+     "start": 25.315,
+     "end": 25.5
+    },
+    {
+     "w": "son",
+     "start": 25.5,
+     "end": 25.652
+    },
+    {
+     "w": "corps",
+     "start": 25.652,
+     "end": 25.871
+    },
+    {
+     "w": "d'ado.",
+     "start": 25.871,
+     "end": 26.141
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 26.241,
+   "end": 31.395,
+   "slot_end": 31.495,
+   "text": "Sauf que cette fois, il a tout dans la tête. Les sorts, les pièges, et surtout qui va mourir et quand.",
+   "words": [
+    {
+     "w": "Sauf",
+     "start": 26.241,
+     "end": 26.434
+    },
+    {
+     "w": "que",
+     "start": 26.434,
+     "end": 26.591
+    },
+    {
+     "w": "cette",
+     "start": 26.591,
+     "end": 26.819
+    },
+    {
+     "w": "fois,",
+     "start": 26.819,
+     "end": 27.099
+    },
+    {
+     "w": "il",
+     "start": 27.099,
+     "end": 27.221
+    },
+    {
+     "w": "a",
+     "start": 27.221,
+     "end": 27.309
+    },
+    {
+     "w": "tout",
+     "start": 27.309,
+     "end": 27.501
+    },
+    {
+     "w": "dans",
+     "start": 27.501,
+     "end": 27.694
+    },
+    {
+     "w": "la",
+     "start": 27.694,
+     "end": 27.816
+    },
+    {
+     "w": "tête.",
+     "start": 27.816,
+     "end": 28.096
+    },
+    {
+     "w": "Les",
+     "start": 28.146,
+     "end": 28.361
+    },
+    {
+     "w": "sorts,",
+     "start": 28.361,
+     "end": 28.791
+    },
+    {
+     "w": "les",
+     "start": 28.791,
+     "end": 29.006
+    },
+    {
+     "w": "pièges,",
+     "start": 29.006,
+     "end": 29.484
+    },
+    {
+     "w": "et",
+     "start": 29.484,
+     "end": 29.651
+    },
+    {
+     "w": "surtout",
+     "start": 29.651,
+     "end": 30.057
+    },
+    {
+     "w": "qui",
+     "start": 30.057,
+     "end": 30.272
+    },
+    {
+     "w": "va",
+     "start": 30.272,
+     "end": 30.44
+    },
+    {
+     "w": "mourir",
+     "start": 30.44,
+     "end": 30.798
+    },
+    {
+     "w": "et",
+     "start": 30.798,
+     "end": 30.965
+    },
+    {
+     "w": "quand.",
+     "start": 30.965,
+     "end": 31.395
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 31.495,
+   "end": 38.131,
+   "slot_end": 38.231,
+   "text": "Du coup il fait quoi ? Il rentre à Hebrion, l'académie de magie la plus cotée du royaume, alors que lui c'est un simple roturier.",
+   "words": [
+    {
+     "w": "Du",
+     "start": 31.495,
+     "end": 31.654
+    },
+    {
+     "w": "coup",
+     "start": 31.654,
+     "end": 31.903
+    },
+    {
+     "w": "il",
+     "start": 31.903,
+     "end": 32.062
+    },
+    {
+     "w": "fait",
+     "start": 32.062,
+     "end": 32.311
+    },
+    {
+     "w": "quoi",
+     "start": 32.311,
+     "end": 32.56
+    },
+    {
+     "w": "?",
+     "start": 32.56,
+     "end": 32.741
+    },
+    {
+     "w": "Il",
+     "start": 32.741,
+     "end": 32.899
+    },
+    {
+     "w": "rentre",
+     "start": 32.899,
+     "end": 33.239
+    },
+    {
+     "w": "à",
+     "start": 33.239,
+     "end": 33.352
+    },
+    {
+     "w": "Hebrion,",
+     "start": 33.352,
+     "end": 33.851
+    },
+    {
+     "w": "l'académie",
+     "start": 33.851,
+     "end": 34.326
+    },
+    {
+     "w": "de",
+     "start": 34.326,
+     "end": 34.485
+    },
+    {
+     "w": "magie",
+     "start": 34.485,
+     "end": 34.779
+    },
+    {
+     "w": "la",
+     "start": 34.779,
+     "end": 34.938
+    },
+    {
+     "w": "plus",
+     "start": 34.938,
+     "end": 35.187
+    },
+    {
+     "w": "cotée",
+     "start": 35.187,
+     "end": 35.481
+    },
+    {
+     "w": "du",
+     "start": 35.481,
+     "end": 35.64
+    },
+    {
+     "w": "royaume,",
+     "start": 35.64,
+     "end": 36.138
+    },
+    {
+     "w": "alors",
+     "start": 36.138,
+     "end": 36.433
+    },
+    {
+     "w": "que",
+     "start": 36.433,
+     "end": 36.636
+    },
+    {
+     "w": "lui",
+     "start": 36.636,
+     "end": 36.84
+    },
+    {
+     "w": "c'est",
+     "start": 36.84,
+     "end": 37.089
+    },
+    {
+     "w": "un",
+     "start": 37.089,
+     "end": 37.248
+    },
+    {
+     "w": "simple",
+     "start": 37.248,
+     "end": 37.588
+    },
+    {
+     "w": "roturier.",
+     "start": 37.588,
+     "end": 38.131
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 38.231,
+   "end": 42.718,
+   "slot_end": 42.818,
+   "text": "Si t'aimes les histoires de mecs qui reviennent dans le passé pour tout changer, abonne-toi, j'en recommande toutes les semaines.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 38.231,
+     "end": 38.342
+    },
+    {
+     "w": "t'aimes",
+     "start": 38.342,
+     "end": 38.58
+    },
+    {
+     "w": "les",
+     "start": 38.58,
+     "end": 38.723
+    },
+    {
+     "w": "histoires",
+     "start": 38.723,
+     "end": 39.056
+    },
+    {
+     "w": "de",
+     "start": 39.056,
+     "end": 39.167
+    },
+    {
+     "w": "mecs",
+     "start": 39.167,
+     "end": 39.341
+    },
+    {
+     "w": "qui",
+     "start": 39.341,
+     "end": 39.484
+    },
+    {
+     "w": "reviennent",
+     "start": 39.484,
+     "end": 39.849
+    },
+    {
+     "w": "dans",
+     "start": 39.849,
+     "end": 40.023
+    },
+    {
+     "w": "le",
+     "start": 40.023,
+     "end": 40.134
+    },
+    {
+     "w": "passé",
+     "start": 40.134,
+     "end": 40.34
+    },
+    {
+     "w": "pour",
+     "start": 40.34,
+     "end": 40.514
+    },
+    {
+     "w": "tout",
+     "start": 40.514,
+     "end": 40.689
+    },
+    {
+     "w": "changer,",
+     "start": 40.689,
+     "end": 41.038
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 41.038,
+     "end": 41.45
+    },
+    {
+     "w": "j'en",
+     "start": 41.45,
+     "end": 41.593
+    },
+    {
+     "w": "recommande",
+     "start": 41.593,
+     "end": 41.957
+    },
+    {
+     "w": "toutes",
+     "start": 41.957,
+     "end": 42.195
+    },
+    {
+     "w": "les",
+     "start": 42.195,
+     "end": 42.338
+    },
+    {
+     "w": "semaines.",
+     "start": 42.338,
+     "end": 42.718
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 42.818,
+   "end": 47.69,
+   "slot_end": 47.79,
+   "text": "Là-bas, il monte une équipe avec Romantica et Pram, et lui sait déjà ce qui les attend s'il bouge pas.",
+   "words": [
+    {
+     "w": "Là-bas,",
+     "start": 42.818,
+     "end": 43.198
+    },
+    {
+     "w": "il",
+     "start": 43.198,
+     "end": 43.346
+    },
+    {
+     "w": "monte",
+     "start": 43.346,
+     "end": 43.62
+    },
+    {
+     "w": "une",
+     "start": 43.62,
+     "end": 43.81
+    },
+    {
+     "w": "équipe",
+     "start": 43.81,
+     "end": 44.126
+    },
+    {
+     "w": "avec",
+     "start": 44.126,
+     "end": 44.358
+    },
+    {
+     "w": "Romantica",
+     "start": 44.358,
+     "end": 44.801
+    },
+    {
+     "w": "et",
+     "start": 44.801,
+     "end": 44.949
+    },
+    {
+     "w": "Pram,",
+     "start": 44.949,
+     "end": 45.286
+    },
+    {
+     "w": "et",
+     "start": 45.286,
+     "end": 45.434
+    },
+    {
+     "w": "lui",
+     "start": 45.434,
+     "end": 45.623
+    },
+    {
+     "w": "sait",
+     "start": 45.623,
+     "end": 45.855
+    },
+    {
+     "w": "déjà",
+     "start": 45.855,
+     "end": 46.087
+    },
+    {
+     "w": "ce",
+     "start": 46.087,
+     "end": 46.235
+    },
+    {
+     "w": "qui",
+     "start": 46.235,
+     "end": 46.425
+    },
+    {
+     "w": "les",
+     "start": 46.425,
+     "end": 46.615
+    },
+    {
+     "w": "attend",
+     "start": 46.615,
+     "end": 46.931
+    },
+    {
+     "w": "s'il",
+     "start": 46.931,
+     "end": 47.121
+    },
+    {
+     "w": "bouge",
+     "start": 47.121,
+     "end": 47.395
+    },
+    {
+     "w": "pas.",
+     "start": 47.395,
+     "end": 47.69
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 47.79,
+   "end": 52.933,
+   "slot_end": 53.033,
+   "text": "Romantica, c'est la noble un peu fière qui le prend de haut au début. Ça dure pas longtemps, t'inquiète.",
+   "words": [
+    {
+     "w": "Romantica,",
+     "start": 47.79,
+     "end": 48.354
+    },
+    {
+     "w": "c'est",
+     "start": 48.354,
+     "end": 48.593
+    },
+    {
+     "w": "la",
+     "start": 48.593,
+     "end": 48.745
+    },
+    {
+     "w": "noble",
+     "start": 48.745,
+     "end": 49.027
+    },
+    {
+     "w": "un",
+     "start": 49.027,
+     "end": 49.179
+    },
+    {
+     "w": "peu",
+     "start": 49.179,
+     "end": 49.374
+    },
+    {
+     "w": "fière",
+     "start": 49.374,
+     "end": 49.656
+    },
+    {
+     "w": "qui",
+     "start": 49.656,
+     "end": 49.852
+    },
+    {
+     "w": "le",
+     "start": 49.852,
+     "end": 50.004
+    },
+    {
+     "w": "prend",
+     "start": 50.004,
+     "end": 50.286
+    },
+    {
+     "w": "de",
+     "start": 50.286,
+     "end": 50.438
+    },
+    {
+     "w": "haut",
+     "start": 50.438,
+     "end": 50.676
+    },
+    {
+     "w": "au",
+     "start": 50.676,
+     "end": 50.828
+    },
+    {
+     "w": "début.",
+     "start": 50.828,
+     "end": 51.219
+    },
+    {
+     "w": "Ça",
+     "start": 51.219,
+     "end": 51.371
+    },
+    {
+     "w": "dure",
+     "start": 51.371,
+     "end": 51.61
+    },
+    {
+     "w": "pas",
+     "start": 51.61,
+     "end": 51.805
+    },
+    {
+     "w": "longtemps,",
+     "start": 51.805,
+     "end": 52.369
+    },
+    {
+     "w": "t'inquiète.",
+     "start": 52.369,
+     "end": 52.933
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 53.033,
+   "end": 57.47,
+   "slot_end": 57.57,
+   "text": "Et franchement, voir des profs galérer face à un gamin qui a vu la fin du monde, c'est un régal.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 53.033,
+     "end": 53.174
+    },
+    {
+     "w": "franchement,",
+     "start": 53.174,
+     "end": 53.776
+    },
+    {
+     "w": "voir",
+     "start": 53.776,
+     "end": 53.997
+    },
+    {
+     "w": "des",
+     "start": 53.997,
+     "end": 54.177
+    },
+    {
+     "w": "profs",
+     "start": 54.177,
+     "end": 54.438
+    },
+    {
+     "w": "galérer",
+     "start": 54.438,
+     "end": 54.78
+    },
+    {
+     "w": "face",
+     "start": 54.78,
+     "end": 55.0
+    },
+    {
+     "w": "à",
+     "start": 55.0,
+     "end": 55.101
+    },
+    {
+     "w": "un",
+     "start": 55.101,
+     "end": 55.241
+    },
+    {
+     "w": "gamin",
+     "start": 55.241,
+     "end": 55.502
+    },
+    {
+     "w": "qui",
+     "start": 55.502,
+     "end": 55.683
+    },
+    {
+     "w": "a",
+     "start": 55.683,
+     "end": 55.783
+    },
+    {
+     "w": "vu",
+     "start": 55.783,
+     "end": 55.924
+    },
+    {
+     "w": "la",
+     "start": 55.924,
+     "end": 56.064
+    },
+    {
+     "w": "fin",
+     "start": 56.064,
+     "end": 56.245
+    },
+    {
+     "w": "du",
+     "start": 56.245,
+     "end": 56.386
+    },
+    {
+     "w": "monde,",
+     "start": 56.386,
+     "end": 56.747
+    },
+    {
+     "w": "c'est",
+     "start": 56.747,
+     "end": 56.968
+    },
+    {
+     "w": "un",
+     "start": 56.968,
+     "end": 57.108
+    },
+    {
+     "w": "régal.",
+     "start": 57.108,
+     "end": 57.47
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 57.57,
+   "end": 63.216,
+   "slot_end": 63.316,
+   "text": "Mais attends, le vrai sujet c'est pas l'école. Le Labyrinthe va revenir, et Desir prépare la riposte des années à l'avance.",
+   "words": [
+    {
+     "w": "Mais",
+     "start": 57.57,
+     "end": 57.774
+    },
+    {
+     "w": "attends,",
+     "start": 57.774,
+     "end": 58.183
+    },
+    {
+     "w": "le",
+     "start": 58.183,
+     "end": 58.313
+    },
+    {
+     "w": "vrai",
+     "start": 58.313,
+     "end": 58.517
+    },
+    {
+     "w": "sujet",
+     "start": 58.517,
+     "end": 58.759
+    },
+    {
+     "w": "c'est",
+     "start": 58.759,
+     "end": 58.963
+    },
+    {
+     "w": "pas",
+     "start": 58.963,
+     "end": 59.131
+    },
+    {
+     "w": "l'école.",
+     "start": 59.131,
+     "end": 59.502
+    },
+    {
+     "w": "Le",
+     "start": 59.552,
+     "end": 59.702
+    },
+    {
+     "w": "Labyrinthe",
+     "start": 59.702,
+     "end": 60.195
+    },
+    {
+     "w": "va",
+     "start": 60.195,
+     "end": 60.345
+    },
+    {
+     "w": "revenir,",
+     "start": 60.345,
+     "end": 60.816
+    },
+    {
+     "w": "et",
+     "start": 60.816,
+     "end": 60.966
+    },
+    {
+     "w": "Desir",
+     "start": 60.966,
+     "end": 61.245
+    },
+    {
+     "w": "prépare",
+     "start": 61.245,
+     "end": 61.609
+    },
+    {
+     "w": "la",
+     "start": 61.609,
+     "end": 61.759
+    },
+    {
+     "w": "riposte",
+     "start": 61.759,
+     "end": 62.123
+    },
+    {
+     "w": "des",
+     "start": 62.123,
+     "end": 62.316
+    },
+    {
+     "w": "années",
+     "start": 62.316,
+     "end": 62.637
+    },
+    {
+     "w": "à",
+     "start": 62.637,
+     "end": 62.745
+    },
+    {
+     "w": "l'avance.",
+     "start": 62.745,
+     "end": 63.216
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 63.316,
+   "end": 71.057,
+   "slot_end": 71.157,
+   "text": "Mon avis ? La saison 1 était pas parfaite côté animation, j'vais pas te mentir. Mais l'histoire, elle, m'a tenu jusqu'au dernier épisode.",
+   "words": [
+    {
+     "w": "Mon",
+     "start": 63.316,
+     "end": 63.553
+    },
+    {
+     "w": "avis",
+     "start": 63.553,
+     "end": 63.842
+    },
+    {
+     "w": "?",
+     "start": 63.842,
+     "end": 64.053
+    },
+    {
+     "w": "La",
+     "start": 64.053,
+     "end": 64.237
+    },
+    {
+     "w": "saison",
+     "start": 64.237,
+     "end": 64.632
+    },
+    {
+     "w": "1",
+     "start": 64.632,
+     "end": 64.763
+    },
+    {
+     "w": "était",
+     "start": 64.763,
+     "end": 65.106
+    },
+    {
+     "w": "pas",
+     "start": 65.106,
+     "end": 65.342
+    },
+    {
+     "w": "parfaite",
+     "start": 65.342,
+     "end": 65.842
+    },
+    {
+     "w": "côté",
+     "start": 65.842,
+     "end": 66.132
+    },
+    {
+     "w": "animation,",
+     "start": 66.132,
+     "end": 66.816
+    },
+    {
+     "w": "j'vais",
+     "start": 66.816,
+     "end": 67.158
+    },
+    {
+     "w": "pas",
+     "start": 67.158,
+     "end": 67.395
+    },
+    {
+     "w": "te",
+     "start": 67.395,
+     "end": 67.579
+    },
+    {
+     "w": "mentir.",
+     "start": 67.579,
+     "end": 68.106
+    },
+    {
+     "w": "Mais",
+     "start": 68.156,
+     "end": 68.407
+    },
+    {
+     "w": "l'histoire,",
+     "start": 68.407,
+     "end": 69.001
+    },
+    {
+     "w": "elle,",
+     "start": 69.001,
+     "end": 69.366
+    },
+    {
+     "w": "m'a",
+     "start": 69.366,
+     "end": 69.526
+    },
+    {
+     "w": "tenu",
+     "start": 69.526,
+     "end": 69.778
+    },
+    {
+     "w": "jusqu'au",
+     "start": 69.778,
+     "end": 70.166
+    },
+    {
+     "w": "dernier",
+     "start": 70.166,
+     "end": 70.554
+    },
+    {
+     "w": "épisode.",
+     "start": 70.554,
+     "end": 71.057
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 71.157,
+   "end": 76.015,
+   "slot_end": 76.115,
+   "text": "La saison 2 a commencé cette semaine, donc c'est le moment parfait pour rattraper la première avant que ça parte.",
+   "words": [
+    {
+     "w": "La",
+     "start": 71.157,
+     "end": 71.292
+    },
+    {
+     "w": "saison",
+     "start": 71.292,
+     "end": 71.581
+    },
+    {
+     "w": "2",
+     "start": 71.581,
+     "end": 71.677
+    },
+    {
+     "w": "a",
+     "start": 71.677,
+     "end": 71.774
+    },
+    {
+     "w": "commencé",
+     "start": 71.774,
+     "end": 72.14
+    },
+    {
+     "w": "cette",
+     "start": 72.14,
+     "end": 72.391
+    },
+    {
+     "w": "semaine,",
+     "start": 72.391,
+     "end": 72.815
+    },
+    {
+     "w": "donc",
+     "start": 72.815,
+     "end": 73.027
+    },
+    {
+     "w": "c'est",
+     "start": 73.027,
+     "end": 73.239
+    },
+    {
+     "w": "le",
+     "start": 73.239,
+     "end": 73.374
+    },
+    {
+     "w": "moment",
+     "start": 73.374,
+     "end": 73.663
+    },
+    {
+     "w": "parfait",
+     "start": 73.663,
+     "end": 73.991
+    },
+    {
+     "w": "pour",
+     "start": 73.991,
+     "end": 74.203
+    },
+    {
+     "w": "rattraper",
+     "start": 74.203,
+     "end": 74.608
+    },
+    {
+     "w": "la",
+     "start": 74.608,
+     "end": 74.743
+    },
+    {
+     "w": "première",
+     "start": 74.743,
+     "end": 75.109
+    },
+    {
+     "w": "avant",
+     "start": 75.109,
+     "end": 75.36
+    },
+    {
+     "w": "que",
+     "start": 75.36,
+     "end": 75.533
+    },
+    {
+     "w": "ça",
+     "start": 75.533,
+     "end": 75.668
+    },
+    {
+     "w": "parte.",
+     "start": 75.668,
+     "end": 76.015
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 76.115,
+   "end": 81.085,
+   "slot_end": 81.185,
+   "text": "Le nom, c'est A Returner's Magic Should Be Special. Dis-moi en com' si tu l'avais déjà vu passer.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 76.115,
+     "end": 76.278
+    },
+    {
+     "w": "nom,",
+     "start": 76.278,
+     "end": 76.604
+    },
+    {
+     "w": "c'est",
+     "start": 76.604,
+     "end": 76.86
+    },
+    {
+     "w": "A",
+     "start": 76.86,
+     "end": 76.977
+    },
+    {
+     "w": "Returner's",
+     "start": 76.977,
+     "end": 77.465
+    },
+    {
+     "w": "Magic",
+     "start": 77.465,
+     "end": 77.768
+    },
+    {
+     "w": "Should",
+     "start": 77.768,
+     "end": 78.117
+    },
+    {
+     "w": "Be",
+     "start": 78.117,
+     "end": 78.28
+    },
+    {
+     "w": "Special.",
+     "start": 78.28,
+     "end": 78.792
+    },
+    {
+     "w": "Dis-moi",
+     "start": 78.842,
+     "end": 79.186
+    },
+    {
+     "w": "en",
+     "start": 79.186,
+     "end": 79.346
+    },
+    {
+     "w": "com'",
+     "start": 79.346,
+     "end": 79.552
+    },
+    {
+     "w": "si",
+     "start": 79.552,
+     "end": 79.712
+    },
+    {
+     "w": "tu",
+     "start": 79.712,
+     "end": 79.872
+    },
+    {
+     "w": "l'avais",
+     "start": 79.872,
+     "end": 80.215
+    },
+    {
+     "w": "déjà",
+     "start": 80.215,
+     "end": 80.467
+    },
+    {
+     "w": "vu",
+     "start": 80.467,
+     "end": 80.627
+    },
+    {
+     "w": "passer.",
+     "start": 80.627,
+     "end": 81.085
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "start": 81.185,
+   "end": 85.008,
+   "slot_end": 85.708,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 81.185,
+     "end": 81.716
+    },
+    {
+     "w": "Asura.",
+     "start": 81.716,
+     "end": 82.353
+    },
+    {
+     "w": "On",
+     "start": 82.353,
+     "end": 82.601
+    },
+    {
+     "w": "se",
+     "start": 82.601,
+     "end": 82.849
+    },
+    {
+     "w": "capte",
+     "start": 82.849,
+     "end": 83.309
+    },
+    {
+     "w": "au",
+     "start": 83.309,
+     "end": 83.557
+    },
+    {
+     "w": "prochain",
+     "start": 83.557,
+     "end": 84.229
+    },
+    {
+     "w": "épisode.",
+     "start": 84.229,
+     "end": 85.008
+    }
+   ]
+  }
+ ],
+ "aligned": false
+}
