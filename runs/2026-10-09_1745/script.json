@@ -1,0 +1,154 @@
+{
+ "title": "Top 5 des combattants les plus dangereux de Tokyo Revengers",
+ "format": "top",
+ "tone": "hype",
+ "music": "hype",
+ "animes": [
+  "Tokyo Revengers: War of the Three Titans Arc"
+ ],
+ "hook_text": "Le numéro 1 de ce top met les mecs K.O. d'un seul coup",
+ "spoiler": false,
+ "segments": [
+  {
+   "text": "Le numéro 1 de ce top met les mecs K.O. d'un seul coup de pied.",
+   "sfx": true,
+   "emphasis": [
+    "seul coup"
+   ]
+  },
+  {
+   "text": "[whispering] Reste jusqu'au bout, parce que le numéro 2 ressemble à une gamine, et personne la voit venir.",
+   "emphasis": [
+    "gamine"
+   ]
+  },
+  {
+   "text": "Numéro 5, Draken. Le vice-capitaine du Toman, le dragon tatoué sur la tempe, et surtout le seul mec capable de calmer Mikey quand il part en vrille.",
+   "overlay": "#5",
+   "sfx": true,
+   "emphasis": [
+    "Draken"
+   ],
+   "shots": [
+    {
+     "anime": "Tokyo Revengers",
+     "kind": "character",
+     "character": "Draken",
+     "at": "Draken"
+    }
+   ]
+  },
+  {
+   "text": "Pour moi c'est lui le vrai pilier du gang. Sans Draken, Mikey perd ses repères, et la série te le fait sentir.",
+   "emphasis": [
+    "pilier"
+   ]
+  },
+  {
+   "text": "[excited] Numéro 4, Taiju Shiba, le dixième chef des Black Dragon. Ce mec cogne son propre petit frère Hakkai et sa sœur Yuzuha depuis qu'ils sont gosses.",
+   "overlay": "#4",
+   "emphasis": [
+    "Taiju"
+   ],
+   "shots": [
+    {
+     "anime": "Tokyo Revengers",
+     "kind": "character",
+     "character": "Taiju Shiba",
+     "at": "Taiju"
+    }
+   ]
+  },
+  {
+   "text": "C'est un monstre physique, genre vraiment. Quand il débarque, même les gars du Toman reculent.",
+   "grade": "cinematic"
+  },
+  {
+   "text": "Petite pause. Si t'aimes les classements comme ça, abonne-toi, j'en sors tous les jours sur les animes de la saison.",
+   "cta": true
+  },
+  {
+   "text": "Numéro 3, South Terano, le chef du Rokuhara Tandai. Un des trois titans qui se partagent le Kanto dans l'arc qui passe en ce moment.",
+   "overlay": "#3",
+   "emphasis": [
+    "South"
+   ],
+   "shots": [
+    {
+     "anime": "Tokyo Revengers: War of the Three Titans Arc",
+     "kind": "character",
+     "character": "South Terano",
+     "at": "South"
+    }
+   ]
+  },
+  {
+   "text": "Rien que sa carrure te dit que tu vas passer un sale quart d'heure. Et j'te jure, il est pire que ce qu'il a l'air.",
+   "emphasis": [
+    "carrure"
+   ]
+  },
+  {
+   "text": "[surprised] Numéro 2, Senju Kawaragi. Ouais, la petite. Elle dirige Brahman, le gang où traînent Wakasa et Benkei, des anciens de la première génération des Black Dragon.",
+   "overlay": "#2",
+   "sfx": true,
+   "stamp": "SOUS-COTÉE",
+   "emphasis": [
+    "Senju"
+   ],
+   "shots": [
+    {
+     "anime": "Tokyo Revengers: War of the Three Titans Arc",
+     "kind": "character",
+     "character": "Senju Kawaragi",
+     "at": "Senju"
+    }
+   ]
+  },
+  {
+   "text": "Des légendes qui suivent une gamine, réfléchis deux secondes. Si eux la respectent, c'est qu'elle frappe fort, très fort.",
+   "emphasis": [
+    "légendes"
+   ]
+  },
+  {
+   "text": "[excited] Et numéro 1, évidemment, Mikey. Manjiro Sano, le Mikey invincible. Un coup de pied dans la tête, et le mec en face, il dort.",
+   "overlay": "#1",
+   "sfx": true,
+   "stamp": "INVINCIBLE",
+   "emphasis": [
+    "Mikey"
+   ],
+   "shots": [
+    {
+     "anime": "Tokyo Revengers",
+     "kind": "character",
+     "character": "Manjiro Sano",
+     "at": "Mikey"
+    }
+   ]
+  },
+  {
+   "text": "[sad] Sauf que dans cet arc, c'est plus le Mikey du début. Il a tourné le dos à ses potes, et Takemichi va devoir aller le chercher très loin.",
+   "grade": "bw",
+   "emphasis": [
+    "Takemichi"
+   ]
+  },
+  {
+   "text": "Moi je le mets numéro 1 sans hésiter, mais je sais que certains vont hurler pour Senju. C'est quoi ton top 1 ? Dis-le en com'.",
+   "emphasis": [
+    "top 1"
+   ]
+  }
+ ],
+ "caption": "Senju numéro 2, ça va en énerver certains 😤 c'est quoi ton top 1 ?",
+ "hashtags": [
+  "#anime",
+  "#manga",
+  "#animefr",
+  "#mangafr",
+  "#tokyorevengers",
+  "#topanime"
+ ]
+}
