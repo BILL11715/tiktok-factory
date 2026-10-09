@@ -1,0 +1,16 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-09_1745/video.mp4",
+ "duration": 90.237,
+ "shots": 76,
+ "sources": [
+  "https://anilist.co/anime/178083",
+  "https://kitsu.io/anime/Tokyo-Revengers-Zokuhen"
+ ],
+ "music": {
+  "file": "hype2.mp3",
+  "bpm": 92.3,
+  "offset": 11.563000000000002
+ },
+ "sfx": 32,
+ "engine": "remotion (OpenMontage)"
+}
