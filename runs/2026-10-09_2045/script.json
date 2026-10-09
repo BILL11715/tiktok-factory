@@ -1,0 +1,30 @@
+{
+  "title": "Reco : l'humanité a perdu, et lui revient en arrière pour tout changer",
+  "format": "reco",
+  "tone": "pote",
+  "music": "pote",
+  "animes": ["A Returner's Magic Should be Special Season 2"],
+  "hook_text": "L'humanité entière est morte, et lui se réveille ado, des années avant la fin",
+  "spoiler": false,
+  "segments": [
+    {"text": "L'humanité entière est morte, et lui se réveille ado, des années avant la fin.", "sfx": true, "emphasis": ["morte"]},
+    {"text": "[whispering] Reste jusqu'au bout, j'te donne le nom, et la suite vient tout juste de sortir.", "emphasis": ["suite"]},
+    {"text": "Le mec s'appelle Desir. Dans sa première vie, c'est un des tout derniers humains encore debout dans le Labyrinthe des Ombres.", "emphasis": ["derniers"]},
+    {"text": "Ce labyrinthe a avalé le monde entier, et ses potes tombent un par un à côté de lui, sans qu'il puisse rien faire.", "grade": "bw", "emphasis": ["avalé"]},
+    {"text": "[sad] Et au moment où tout est fini, au lieu de crever avec eux, il est renvoyé dans le passé, dans son corps d'ado.", "sfx": true, "emphasis": ["passé"]},
+    {"text": "[excited] Sauf que cette fois, il a tout dans la tête. Les sorts, les pièges, et surtout qui va mourir et quand.", "emphasis": ["tout"], "stamp": "SECONDE CHANCE"},
+    {"text": "Du coup il fait quoi ? Il rentre à Hebrion, l'académie de magie la plus cotée du royaume, alors que lui c'est un simple roturier.", "emphasis": ["Hebrion"]},
+    {"text": "Si t'aimes les histoires de mecs qui reviennent dans le passé pour tout changer, abonne-toi, j'en recommande toutes les semaines.", "cta": true},
+    {"text": "Là-bas, il monte une équipe avec Romantica et Pram, et lui sait déjà ce qui les attend s'il bouge pas.", "emphasis": ["équipe"]},
+    {"text": "Romantica, c'est la noble un peu fière qui le prend de haut au début. Ça dure pas longtemps, t'inquiète.", "emphasis": ["fière"]},
+    {"text": "[laughing] Et franchement, voir des profs galérer face à un gamin qui a vu la fin du monde, c'est un régal.", "emphasis": ["régal"]},
+    {"text": "Mais attends, le vrai sujet c'est pas l'école. Le Labyrinthe va revenir, et Desir prépare la riposte des années à l'avance.", "sfx": true, "emphasis": ["revenir"]},
+    {"text": "Mon avis ? La saison 1 était pas parfaite côté animation, j'vais pas te mentir. Mais l'histoire, elle, m'a tenu jusqu'au dernier épisode.", "emphasis": ["histoire"]},
+    {"text": "La saison 2 a commencé cette semaine, donc c'est le moment parfait pour rattraper la première avant que ça parte.", "emphasis": ["saison 2"]},
+    {"text": "[excited] Le nom, c'est A Returner's Magic Should Be Special. Dis-moi en com' si tu l'avais déjà vu passer.", "emphasis": ["Returner's"]}
+  ],
+  "reveal_text": "A Returner's Magic Should Be Special",
+  "reveal_segments": 1,
+  "caption": "Il a vu la fin du monde, et il revient pour l'empêcher 🔥 t'aurais fait quoi à sa place ?",
+  "hashtags": ["#anime", "#manga", "#animefr", "#otakufr", "#returnersmagic", "#recommandationanime"]
+}
