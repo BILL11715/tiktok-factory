@@ -160,16 +160,54 @@ def _fish_key() -> str:
         key = FISH_KEY_FILE.read_text().strip()
     return key
 
+# Débit Fish (prosody.speed) : plus rapide qu'avant, rythme TikTok
+FISH_SPEED = {"hype": 1.24, "pote": 1.2, "conteur": 1.13, "pose": 1.04}
+STRONG = {"excited": "very excited", "surprised": "very surprised", "laughing": "laughing",
+          "angry": "angry", "sad": "sad", "shouting": "shouting"}
+
+
+def direct(text: str, emphasis: list[str] | None = None, tone: str = "pote") -> str:
+    """Mise en scène automatique pour Fish S2 (balises entre crochets) : chaque phrase reçoit
+    une intention selon sa ponctuation (exclamation = enthousiasme, question = curiosité ou
+    étonnement), les balises du script sont renforcées, et les mots mis en avant à l'écran
+    sont aussi accentués à la voix ([emphasis]). Évite la lecture plate et monotone."""
+    text = re.sub(r"\[(\w+)\]", lambda m: f"[{STRONG.get(m.group(1).lower(), m.group(1))}]", text)
+    parts = [x for x in re.split(r"(?<=[.!?…])\s+", text.strip()) if x]
+    out = []
+    for i, p in enumerate(parts):
+        if not p.startswith("["):
+            core = p.rstrip()
+            if core.endswith("!"):
+                p = "[excited] " + p
+            elif core.endswith("?"):
+                p = ("[surprised] " if re.search(r"\b(quoi|vraiment|s[ée]rieux|comment|pourquoi)\b", core, re.I)
+                     else "[curious] ") + p
+            elif core.endswith("…") or core.endswith("..."):
+                p = "[suspenseful] " + p
+            elif i == 0 and tone == "hype":
+                p = "[energetic] " + p
+            elif i == 0 and tone == "conteur":
+                p = "[intrigued] " + p
+        out.append(p)
+    res = " ".join(out)
+    for w in emphasis or []:
+        res = re.sub(rf"(?<![\w\[])({re.escape(w)})\b", r"[emphasis] \1", res, count=1, flags=re.I)
+    return res
+
+
 def _tts_fish(sent: str, out: Path, tone: str) -> None:
-    """Une phrase via l'API Fish Audio. Les balises d'émotion restent dans le texte."""
+    """Un segment entier via l'API Fish Audio (le modèle voit toute l'idée : intonation plus
+    naturelle qu'en phrases isolées). Les balises d'émotion restent dans le texte."""
     import urllib.request
     import urllib.error
     # Clé soit en variable d'environnement, soit (mieux) en "API credential" de l'environnement
     # cloud : le proxy l'ajoute alors lui-même aux requêtes vers api.fish.audio (TF_VOICE=fish).
     key = _fish_key()
-    speed = {"hype": 1.1, "pote": 1.08, "conteur": 1.02, "pose": 0.95}.get(tone, 1.05)
+    speed = float(os.environ.get("FISH_SPEED", 0) or FISH_SPEED.get(tone, 1.18))
     body = json.dumps({"text": sent, "reference_id": FISH_VOICE, "format": "mp3",
                        "mp3_bitrate": 128, "latency": "normal", "normalize": True,
+                       # un peu plus de liberté au modèle = intonation plus vivante
+                       "temperature": 0.9, "top_p": 0.85,
                        "prosody": {"speed": speed}}).encode()
     last = None
     for model in FISH_MODELS:
@@ -273,7 +311,9 @@ def synthesize(segments: list[dict], workdir: Path, tone: str) -> dict:
         stone = seg.get("tone", tone)
         tempo = 1.0 if eng == "fish" else TONES.get(stone, TONES["pote"])[2]  # Fish gère la vitesse
         seg_start, words = t, []
-        sents = _sentences(seg["text"])
+        # Fish : un appel par segment (contexte complet) avec mise en scène automatique ;
+        # moteurs locaux : phrase par phrase
+        sents = [direct(seg["text"], seg.get("emphasis"), stone)] if eng == "fish" else _sentences(seg["text"])
         for j, sent in enumerate(sents):
             raw = vdir / f"s{n:03d}_raw.wav"
             try:
