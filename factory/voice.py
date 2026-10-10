@@ -47,7 +47,7 @@ TONES = {
     "pose": (0.5, 0.4, 1.0, 1.08),
 }
 GAP_SENT = 0.05   # silence entre deux phrases d'un segment
-GAP_SEG = 0.10    # silence entre deux segments
+GAP_SEG = 0.06    # silence entre deux segments
 CHARS_PER_SEC = 19.0  # débit brut du clone avant accélération (contrôle de cohérence)
 
 
@@ -161,9 +161,15 @@ def _fish_key() -> str:
     return key
 
 # Débit Fish (prosody.speed) : plus rapide qu'avant, rythme TikTok
-FISH_SPEED = {"hype": 1.24, "pote": 1.2, "conteur": 1.13, "pose": 1.04}
+FISH_SPEED = {"hype": 1.36, "pote": 1.32, "conteur": 1.24, "pose": 1.12}
 STRONG = {"excited": "very excited", "surprised": "very surprised", "laughing": "laughing",
-          "angry": "angry", "sad": "sad", "shouting": "shouting"}
+          "angry": "very angry", "sad": "very sad", "shouting": "shouting", "whispering": "whispering"}
+# intention par défaut des phrases affirmatives, en rotation pour ne jamais rester sur le même ton
+MOODS = {"pote": ["energetic", "playful", "confident", "amused"],
+         "hype": ["very excited", "energetic", "determined", "very excited"],
+         "conteur": ["intrigued", "mysterious", "dramatic", "intrigued"],
+         "pose": ["calm", "soft tone", "nostalgic", "calm"]}
+_MOOD_I = [0]
 
 
 def direct(text: str, emphasis: list[str] | None = None, tone: str = "pote") -> str:
@@ -178,16 +184,18 @@ def direct(text: str, emphasis: list[str] | None = None, tone: str = "pote") -> 
         if not p.startswith("["):
             core = p.rstrip()
             if core.endswith("!"):
-                p = "[excited] " + p
+                p = "[very excited] " + p
             elif core.endswith("?"):
-                p = ("[surprised] " if re.search(r"\b(quoi|vraiment|s[ée]rieux|comment|pourquoi)\b", core, re.I)
+                p = ("[surprised] " if re.search(r"\b(quoi|vraiment|s[ée]rieux|comment|pourquoi|rends compte|imagine)\b", core, re.I)
                      else "[curious] ") + p
             elif core.endswith("…") or core.endswith("..."):
                 p = "[suspenseful] " + p
-            elif i == 0 and tone == "hype":
-                p = "[energetic] " + p
-            elif i == 0 and tone == "conteur":
-                p = "[intrigued] " + p
+            elif re.match(r"(mais|sauf que|et là|sauf qu|pourtant|attends)\b", core, re.I):
+                p = "[dramatic] " + p
+            else:
+                moods = MOODS.get(tone, MOODS["pote"])
+                p = f"[{moods[_MOOD_I[0] % len(moods)]}] " + p
+                _MOOD_I[0] += 1
         out.append(p)
     res = " ".join(out)
     for w in emphasis or []:
@@ -207,7 +215,7 @@ def _tts_fish(sent: str, out: Path, tone: str) -> None:
     body = json.dumps({"text": sent, "reference_id": FISH_VOICE, "format": "mp3",
                        "mp3_bitrate": 128, "latency": "normal", "normalize": True,
                        # un peu plus de liberté au modèle = intonation plus vivante
-                       "temperature": 0.9, "top_p": 0.85,
+                       "temperature": 1.0, "top_p": 0.9,
                        "prosody": {"speed": speed}}).encode()
     last = None
     for model in FISH_MODELS:
