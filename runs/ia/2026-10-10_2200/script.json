@@ -1,0 +1,152 @@
+{
+ "title": "Ce que Google regarde pour le classement local",
+ "theme": "seo",
+ "pillar": "seo-radius",
+ "format": "methode",
+ "music": "hype",
+ "hook_text": "Pourquoi le resto d'à côté passe devant toi sur Google Maps ?",
+ "segments": [
+  {
+   "text": "Pourquoi le resto d'à côté passe devant toi sur Google Maps ?",
+   "emphasis": [
+    "devant"
+   ]
+  },
+  {
+   "text": "Google l'explique lui-même dans son aide. Pour le classement local, il regarde la pertinence, la distance, et la proéminence.",
+   "visual": {
+    "kind": "list",
+    "title": "Les 3 critères de Google",
+    "items": [
+     "Pertinence",
+     "Distance",
+     "Proéminence"
+    ],
+    "at": [
+     "pertinence",
+     "distance",
+     "proéminence"
+    ]
+   }
+  },
+  {
+   "text": "La distance, tu n'y peux rien. Mais les deux autres, si. Et c'est là que beaucoup de commerces laissent filer des clients."
+  },
+  {
+   "text": "La pertinence, c'est : est-ce que ta fiche correspond à ce que la personne tape. Plus ta fiche est complète, mieux Google comprend ce que tu fais.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Critère 1",
+    "text": "Une fiche complète",
+    "highlight": "complète",
+    "sub": "Activité, adresse, horaires, attributs"
+   }
+  },
+  {
+   "text": "Concrètement : la bonne catégorie, des horaires à jour, y compris les jours fériés, et les petits détails comme le parking ou le wifi."
+  },
+  {
+   "text": "La proéminence, c'est ta notoriété. Google écrit noir sur blanc que plus tu as d'avis et de bonnes notes, plus tu grimpes.",
+   "sfx": true,
+   "visual": {
+    "kind": "search",
+    "query": "pizzeria Lyon 3",
+    "results": [
+     {
+      "name": "Pizza Nonna",
+      "note": "212 avis",
+      "rating": "4,7"
+     },
+     {
+      "name": "Le Four",
+      "note": "18 avis",
+      "rating": "4,8"
+     }
+    ],
+    "pick": 0
+   }
+  },
+  {
+   "text": "Et répondre aux avis, même aux mauvais, montre que tu écoutes tes clients. Ceux qui hésitent le voient aussi."
+  },
+  {
+   "text": "Un dernier point souvent oublié : des photos récentes. La devanture, l'intérieur, les plats ou les chantiers terminés."
+  },
+  {
+   "text": "Et méfie-toi de ceux qui promettent la première place. Google précise qu'on ne peut pas payer pour être mieux classé.",
+   "emphasis": [
+    "payer"
+   ]
+  },
+  {
+   "text": "Ta checklist pour ce soir : vérifie ta catégorie, mets à jour tes horaires, réponds à tes derniers avis, et ajoute quelques photos.",
+   "stamp": "ce soir",
+   "visual": {
+    "kind": "list",
+    "title": "Checklist du soir",
+    "items": [
+     "Bonne catégorie",
+     "Horaires à jour",
+     "Répondre aux avis",
+     "Photos récentes"
+    ],
+    "at": [
+     "catégorie",
+     "horaires",
+     "avis",
+     "photos"
+    ]
+   }
+  },
+  {
+   "text": "Et si tu es freelance SEO, retiens ça : chaque commerce avec une fiche à moitié vide peut devenir un client."
+  },
+  {
+   "text": "Pour les trouver vite, SEO Radius analyse les résultats Google d'un secteur dans ta ville, écarte les annuaires et classe les entreprises qui ont le plus à gagner.",
+   "visual": {
+    "kind": "card",
+    "emoji": "📡",
+    "owner": "seoradius.fr",
+    "name": "SEO Radius",
+    "desc": "Trouve les entreprises mal référencées dans ta ville",
+    "tags": [
+     "Prospection",
+     "SEO local"
+    ],
+    "price": "Gratuit pour tester",
+    "url": "seoradius.fr"
+   }
+  },
+  {
+   "text": "Tu arrives au premier rendez-vous avec la liste des points à corriger. Pas de grand discours, juste des faits.",
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "Sans préparation",
+     "items": [
+      "Discours général",
+      "Promesses floues"
+     ]
+    },
+    "right": {
+     "title": "Avec la checklist",
+     "items": [
+      "Fiche analysée",
+      "Points précis"
+     ]
+    }
+   }
+  },
+  {
+   "text": "Et toi, ta fiche Google, elle a combien d'avis sans réponse ? Va vérifier ce soir, et dis-moi en commentaire."
+  }
+ ],
+ "caption": "Les 3 critères que Google regarde pour Google Maps, et ta checklist pour ce soir 📍 SEO Radius pour trouver les commerces à aider, lien en bio",
+ "hashtags": [
+  "#seo",
+  "#seolocal",
+  "#googlemaps",
+  "#commerce",
+  "#seoradius"
+ ]
+}
