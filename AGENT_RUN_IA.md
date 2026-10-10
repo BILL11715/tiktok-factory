@@ -33,8 +33,10 @@ question, décide et continue. Ne lis que ce qui est listé ici (pas d'explorati
    et corrige jusqu'à "OK". Relis-le à voix haute mentalement : naturel, oral, zéro jargon.
 6. **Rendu** : attends la fin du setup (`grep -q "\[setup\] OK" /tmp/tf-setup.out`, toutes les
    30 s, max 15 min), puis
-   `cd /home/claude/tiktok-factory && /tmp/tf-venv/bin/python -m factory.make_tech runs/ia/<stamp>/script.json`
-   (timeout 10 min ; si trop long, relance en arrière-plan avec nohup et attends `result.json`).
+   `cd /home/claude/tiktok-factory && nohup /tmp/tf-venv/bin/python -m factory.make_tech runs/ia/<stamp>/script.json > /tmp/ia-render.out 2>&1 &`
+   (le rendu prend 15 à 20 min : lance-le en arrière-plan dès le départ, puis vérifie toutes les
+   60 s que `runs/ia/<stamp>/result.json` existe ou qu'une erreur apparaît dans /tmp/ia-render.out,
+   max 35 min).
 7. **Vérification visuelle rapide** : extrais 3 images (`ffmpeg -ss 2`, milieu, fin) de
    `runs/ia/<stamp>/video.mp4` et regarde-les avec Read. Texte qui déborde ou scène vide :
    corrige le script et relance une fois.

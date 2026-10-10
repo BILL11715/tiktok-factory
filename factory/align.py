@@ -20,8 +20,14 @@ def _n(w: str) -> str:
 
 def _transcribe(path: str) -> list[dict]:
     from faster_whisper import WhisperModel  # type: ignore
+    import subprocess
+    import numpy as np  # type: ignore
     model = WhisperModel(os.environ.get("TF_WHISPER", "small"), device="cpu", compute_type="int8")
-    segs, _ = model.transcribe(path, language="fr", word_timestamps=True, vad_filter=False,
+    # décodage par ffmpeg (évite l'incompatibilité faster-whisper / PyAV >= 15 sur metadata_errors)
+    raw = subprocess.run(["ffmpeg", "-v", "error", "-i", path, "-f", "s16le", "-ac", "1", "-ar", "16000", "-"],
+                         capture_output=True, check=True).stdout
+    audio = np.frombuffer(raw, np.int16).astype(np.float32) / 32768.0
+    segs, _ = model.transcribe(audio,language="fr", word_timestamps=True, vad_filter=False,
                                condition_on_previous_text=False)
     out = []
     for s in segs:
