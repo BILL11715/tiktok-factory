@@ -24,6 +24,8 @@ question, décide et continue. Ne lis que ce qui est listé ici (pas d'explorati
    08:00, 12:00, 17:00, 19:00, 22:00. Si `history_ia.jsonl` a déjà une vidéo pour ce jour et ce
    créneau (champ `slot` = "AAAA-MM-JJ HH:MM"), prends le créneau libre suivant (après 22:00 :
    le lendemain 08:00). Le pilier dépend du créneau (tableau de EDITORIAL_IA.md).
+   La tâche planifiée tourne à 07:13, 09:13, 11:13, 13:13 et 15:13 : les 5 brouillons du jour
+   doivent être prêts avant 18h, d'où ce saut au premier créneau libre.
 4. **Contexte** : lis `EDITORIAL_IA.md` et les 25 dernières lignes de `history_ia.jsonl`.
    Choisis l'angle et le sujet : pas le même angle 2 fois dans la journée, pas le même sujet sur
    7 jours, varie les formats.
