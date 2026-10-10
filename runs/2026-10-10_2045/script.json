@@ -1,0 +1,132 @@
+{
+  "title": "Reco : une goutte d'eau froide et ce mec devient une fille",
+  "format": "reco",
+  "tone": "pote",
+  "music": "fun",
+  "animes": [
+    "Ranma1/2 (2024) Season 3"
+  ],
+  "hook_text": "Une goutte d'eau froide, et ce mec se transforme en fille",
+  "spoiler": false,
+  "segments": [
+    {
+      "text": "Une goutte d'eau froide, et ce mec se transforme en fille.",
+      "sfx": true,
+      "emphasis": [
+        "fille"
+      ]
+    },
+    {
+      "text": "[whispering] Et reste jusqu'au bout, parce que le pire dans toute cette histoire, c'est son propre père.",
+      "emphasis": [
+        "père"
+      ]
+    },
+    {
+      "text": "Le mec s'appelle Ranma. Un ado qui vit que pour les arts martiaux, entraîné par son père Genma depuis gamin.",
+      "emphasis": [
+        "arts martiaux"
+      ],
+      "shots": [
+        {
+          "kind": "wide"
+        }
+      ]
+    },
+    {
+      "text": "Sauf qu'en Chine, pendant un entraînement, ils tombent dans des sources maudites. Chaque source te colle la forme de celui qui s'y est noyé.",
+      "grade": "bw",
+      "sfx": true,
+      "emphasis": [
+        "maudites"
+      ]
+    },
+    {
+      "text": "Ranma tombe dans celle d'une fille. Genma, lui, tombe dans celle d'un panda. [laughing] Ouais frr, un panda géant, c'est son daron.",
+      "stamp": "PANDA",
+      "emphasis": [
+        "panda"
+      ]
+    },
+    {
+      "text": "Eau froide, il devient une fille. Eau chaude, il redevient un mec. Et la pluie prévient jamais.",
+      "emphasis": [
+        "froide",
+        "chaude"
+      ]
+    },
+    {
+      "text": "Et là ça part en vrille, parce que son père l'a fiancé sans lui demander. À Akane, une fille de dojo qui supporte pas les garçons.",
+      "emphasis": [
+        "fiancé"
+      ]
+    },
+    {
+      "text": "Si toi aussi t'en as marre des isekai tous pareils, abonne-toi, je te sors une reco différente tous les jours.",
+      "cta": true
+    },
+    {
+      "text": "[excited] Et attends de voir les rivaux. Ryoga, un mec qui se perd même au bout de sa rue, se change en petit cochon noir.",
+      "emphasis": [
+        "cochon"
+      ]
+    },
+    {
+      "text": "Akane l'adopte, l'appelle P-chan, et le laisse dormir dans sa chambre. Ranma sait tout, et il doit se taire.",
+      "emphasis": [
+        "P-chan"
+      ]
+    },
+    {
+      "text": "Shampoo, une guerrière chinoise, devient un chat. Sauf que Ranma a une peur panique des chats, et devine à cause de qui.",
+      "sfx": true,
+      "emphasis": [
+        "chats"
+      ]
+    },
+    {
+      "text": "[sigh] Son père. Petit, Genma l'a enroulé dans des saucisses de poisson et jeté dans un trou rempli de chats affamés.",
+      "grade": "bw",
+      "stamp": "DARON",
+      "emphasis": [
+        "chats affamés"
+      ]
+    },
+    {
+      "text": "Pour lui apprendre une technique secrète, hein. J'te jure, c'est lui le vrai méchant de la série.",
+      "emphasis": [
+        "méchant"
+      ]
+    },
+    {
+      "text": "Mon avis, c'est une des comédies les plus drôles que j'ai vues, et MAPPA s'est fait plaisir sur les combats.",
+      "emphasis": [
+        "MAPPA"
+      ]
+    },
+    {
+      "text": "Le manga date des années 80, mais ce remake a ramené les doubleurs d'origine, et la saison 3 vient de commencer.",
+      "emphasis": [
+        "saison 3"
+      ]
+    },
+    {
+      "text": "[excited] Ça s'appelle Ranma un demi. Tu l'as déjà vu, ou tu le lances ce soir ? Dis-moi en com'.",
+      "sfx": true,
+      "emphasis": [
+        "Ranma"
+      ]
+    }
+  ],
+  "reveal_text": "Ranma ½",
+  "reveal_segments": 1,
+  "caption": "Le pire dans Ranma ½, c'est clairement le père 🐼 t'es team Ranma ou team Akane ?",
+  "hashtags": [
+    "#anime",
+    "#manga",
+    "#animefr",
+    "#mangafr",
+    "#ranma",
+    "#recommandationanime"
+  ]
+}
