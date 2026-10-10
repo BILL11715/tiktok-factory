@@ -1,0 +1,158 @@
+{
+ "title": "Le premier message qui obtient une réponse",
+ "theme": "seo",
+ "pillar": "seo-radius",
+ "format": "methode",
+ "music": "pote",
+ "hook_text": "Ton premier message à un prospect finit à la poubelle ? Voilà pourquoi.",
+ "segments": [
+  {
+   "text": "Ton premier message à un prospect finit à la poubelle ? Voilà pourquoi.",
+   "emphasis": [
+    "poubelle"
+   ]
+  },
+  {
+   "text": "La plupart des freelances SEO envoient le même mail à tout le monde : je peux améliorer votre référencement. Le patron le lit en deux secondes, et il passe.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Le mail classique",
+    "text": "« Je peux améliorer votre référencement »",
+    "highlight": "référencement",
+    "sub": "Lu en deux secondes, oublié"
+   }
+  },
+  {
+   "text": "Le problème, c'est que ce mail ne parle pas de lui. Il parle de toi.",
+   "emphasis": [
+    "lui"
+   ]
+  },
+  {
+   "text": "Un bon premier message tient en trois choses : une preuve, un concurrent, et une question. On les prend une par une.",
+   "visual": {
+    "kind": "list",
+    "title": "Le message qui marche",
+    "items": [
+     "Une preuve vérifiable",
+     "Un concurrent nommé",
+     "Une seule question"
+    ],
+    "at": [
+     "preuve",
+     "concurrent",
+     "question"
+    ]
+   }
+  },
+  {
+   "text": "La preuve : tape son métier et sa ville sur Google, comme le ferait un client. Plombier Villeurbanne, par exemple.",
+   "visual": {
+    "kind": "search",
+    "query": "plombier Villeurbanne",
+    "results": [
+     {
+      "name": "Eau Services",
+      "note": "1er résultat",
+      "rating": "4,5"
+     },
+     {
+      "name": "Plomberie Martin",
+      "note": "page 2",
+      "rating": "4,8"
+     }
+    ],
+    "pick": 1
+   }
+  },
+  {
+   "text": "S'il n'apparaît pas dans les premiers résultats, tu tiens ta preuve. Il la vérifie lui-même en dix secondes, pas besoin de te croire sur parole.",
+   "stamp": "preuve"
+  },
+  {
+   "text": "Le concurrent : cite celui qui sort premier à sa place. Voir son voisin capter ses clients, ça parle plus que n'importe quel argument.",
+   "sfx": true,
+   "emphasis": [
+    "voisin"
+   ]
+  },
+  {
+   "text": "La question : termine par une seule question simple, à laquelle on répond par oui ou non. Pas de lien, pas de pièce jointe, pas de tarif.",
+   "visual": {
+    "kind": "chat",
+    "name": "Ton message",
+    "user": "Écris un premier message court pour un plombier en page 2.",
+    "assistant": "Bonjour M. Martin, en tapant « plombier Villeurbanne » sur Google, vous n'apparaissez qu'en page 2, derrière Eau Services. Voulez-vous que je vous montre ce qui les fait passer devant ?"
+   }
+  },
+  {
+   "text": "Résultat : quatre lignes qui parlent de son entreprise, de sa ville et de son concurrent. Il a enfin une vraie raison de répondre."
+  },
+  {
+   "text": "Le seul truc long, c'est de trouver les entreprises mal placées. À la main, ville par ville, ça prend des heures."
+  },
+  {
+   "text": "C'est pour ça que j'ai construit SEO Radius. Tu tapes un secteur et une ville, l'outil analyse jusqu'à 50 résultats Google et écarte les annuaires.",
+   "visual": {
+    "kind": "card",
+    "emoji": "📡",
+    "owner": "seoradius.fr",
+    "name": "SEO Radius",
+    "desc": "Trouve les entreprises mal référencées dans ta ville",
+    "tags": [
+     "Prospection",
+     "SEO local"
+    ],
+    "price": "Gratuit pour tester",
+    "url": "seoradius.fr"
+   }
+  },
+  {
+   "text": "Chaque entreprise reçoit un score d'opportunité sur 100. Ce sont des estimations, mais elles te disent qui contacter en premier.",
+   "visual": {
+    "kind": "stat",
+    "value": 82,
+    "suffix": "/100",
+    "label": "Score d'opportunité (estimation)",
+    "source": "Exemple SEO Radius"
+   }
+  },
+  {
+   "text": "Et la version Découverte est gratuite, sans carte bancaire. De quoi tester ta première ville."
+  },
+  {
+   "text": "Mon conseil : écris cinq messages comme ça cette semaine, pas cinquante. Cinq messages précis valent mieux qu'une pile de mails génériques.",
+   "stamp": "5 messages",
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "Mail générique",
+     "items": [
+      "Parle de toi",
+      "Envoyé à tout le monde",
+      "Vite oublié"
+     ]
+    },
+    "right": {
+     "title": "Message précis",
+     "items": [
+      "Parle de lui",
+      "Concurrent nommé",
+      "Une seule question"
+     ]
+    }
+   }
+  },
+  {
+   "text": "Et toi, c'est quoi la première phrase de tes messages de prospection ? Colle-la en commentaire, je te dis ce que j'en pense."
+  }
+ ],
+ "caption": "Le premier message de prospection qui parle enfin du client 📩 SEO Radius pour trouver les entreprises mal placées, lien en bio",
+ "hashtags": [
+  "#seo",
+  "#seolocal",
+  "#freelance",
+  "#prospection",
+  "#seoradius"
+ ]
+}
