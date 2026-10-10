@@ -25,3 +25,6 @@ runs/ia/*/video_silent.mp4
 runs/ia/*/video.mp4
 runs/ia/*/*.jpg
 runs/ia/*/*.png
+runs/ia/*/timeline.json
+runs/ia/*/voice.json
+runs/ia/*/montage.json
