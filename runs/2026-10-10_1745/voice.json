@@ -1,0 +1,1657 @@
+{
+ "engine": "fish",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/voice.wav",
+ "duration": 77.588,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 2.82,
+   "slot_end": 2.883,
+   "text": "Le meilleur anime de cette saison parle d'une servante, pas d'un guerrier.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 0.0,
+     "end": 0.1
+    },
+    {
+     "w": "meilleur",
+     "start": 0.1,
+     "end": 0.32
+    },
+    {
+     "w": "anime",
+     "start": 0.32,
+     "end": 0.58
+    },
+    {
+     "w": "de",
+     "start": 0.58,
+     "end": 0.68
+    },
+    {
+     "w": "cette",
+     "start": 0.68,
+     "end": 0.8
+    },
+    {
+     "w": "saison",
+     "start": 0.8,
+     "end": 1.08
+    },
+    {
+     "w": "parle",
+     "start": 1.08,
+     "end": 1.38
+    },
+    {
+     "w": "d'une",
+     "start": 1.38,
+     "end": 1.54
+    },
+    {
+     "w": "servante,",
+     "start": 1.54,
+     "end": 2.06
+    },
+    {
+     "w": "pas",
+     "start": 2.18,
+     "end": 2.34
+    },
+    {
+     "w": "d'un",
+     "start": 2.34,
+     "end": 2.48
+    },
+    {
+     "w": "guerrier.",
+     "start": 2.48,
+     "end": 2.82
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 2.88,
+   "end": 6.88,
+   "slot_end": 6.984,
+   "text": "Reste jusqu'au numéro 1, parce que y'a une raison précise pour laquelle elle écrase tout le monde.",
+   "words": [
+    {
+     "w": "Reste",
+     "start": 2.88,
+     "end": 3.06
+    },
+    {
+     "w": "jusqu'au",
+     "start": 3.06,
+     "end": 3.46
+    },
+    {
+     "w": "numéro",
+     "start": 3.46,
+     "end": 3.7
+    },
+    {
+     "w": "1,",
+     "start": 3.7,
+     "end": 4.1
+    },
+    {
+     "w": "parce",
+     "start": 4.36,
+     "end": 4.52
+    },
+    {
+     "w": "que",
+     "start": 4.52,
+     "end": 4.74
+    },
+    {
+     "w": "y'a",
+     "start": 4.74,
+     "end": 4.82
+    },
+    {
+     "w": "une",
+     "start": 4.82,
+     "end": 4.92
+    },
+    {
+     "w": "raison",
+     "start": 4.92,
+     "end": 5.14
+    },
+    {
+     "w": "précise",
+     "start": 5.14,
+     "end": 5.58
+    },
+    {
+     "w": "pour",
+     "start": 5.58,
+     "end": 5.74
+    },
+    {
+     "w": "laquelle",
+     "start": 5.74,
+     "end": 6.0
+    },
+    {
+     "w": "elle",
+     "start": 6.0,
+     "end": 6.26
+    },
+    {
+     "w": "écrase",
+     "start": 6.26,
+     "end": 6.5
+    },
+    {
+     "w": "tout",
+     "start": 6.5,
+     "end": 6.68
+    },
+    {
+     "w": "le",
+     "start": 6.68,
+     "end": 6.78
+    },
+    {
+     "w": "monde.",
+     "start": 6.78,
+     "end": 6.88
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 6.98,
+   "end": 10.16,
+   "slot_end": 10.293,
+   "text": "Top 5 des animes de l'automne à lancer maintenant. Numéro 5, Overgeared.",
+   "words": [
+    {
+     "w": "Top",
+     "start": 6.98,
+     "end": 7.06
+    },
+    {
+     "w": "5",
+     "start": 7.06,
+     "end": 7.24
+    },
+    {
+     "w": "des",
+     "start": 7.24,
+     "end": 7.38
+    },
+    {
+     "w": "animes",
+     "start": 7.38,
+     "end": 7.6
+    },
+    {
+     "w": "de",
+     "start": 7.6,
+     "end": 7.7
+    },
+    {
+     "w": "l'automne",
+     "start": 7.7,
+     "end": 7.88
+    },
+    {
+     "w": "à",
+     "start": 7.88,
+     "end": 7.98
+    },
+    {
+     "w": "lancer",
+     "start": 7.98,
+     "end": 8.18
+    },
+    {
+     "w": "maintenant.",
+     "start": 8.18,
+     "end": 8.52
+    },
+    {
+     "w": "Numéro",
+     "start": 8.96,
+     "end": 9.16
+    },
+    {
+     "w": "5,",
+     "start": 9.16,
+     "end": 9.58
+    },
+    {
+     "w": "Overgeared.",
+     "start": 9.72,
+     "end": 10.16
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 10.16,
+   "end": 17.7,
+   "slot_end": 17.768,
+   "text": "Grid, c'est le pire joueur du jeu, endetté, nul, moqué par tout le serveur. Sauf qu'il tombe sur un livre qui le transforme en forgeron légendaire.",
+   "words": [
+    {
+     "w": "Grid,",
+     "start": 10.16,
+     "end": 10.6
+    },
+    {
+     "w": "c'est",
+     "start": 10.64,
+     "end": 10.72
+    },
+    {
+     "w": "le",
+     "start": 10.72,
+     "end": 10.86
+    },
+    {
+     "w": "pire",
+     "start": 10.86,
+     "end": 11.16
+    },
+    {
+     "w": "joueur",
+     "start": 11.16,
+     "end": 11.54
+    },
+    {
+     "w": "du",
+     "start": 11.54,
+     "end": 11.76
+    },
+    {
+     "w": "jeu,",
+     "start": 11.76,
+     "end": 12.0
+    },
+    {
+     "w": "endetté,",
+     "start": 12.22,
+     "end": 12.52
+    },
+    {
+     "w": "nul,",
+     "start": 12.82,
+     "end": 13.04
+    },
+    {
+     "w": "moqué",
+     "start": 13.2,
+     "end": 13.4
+    },
+    {
+     "w": "par",
+     "start": 13.4,
+     "end": 13.62
+    },
+    {
+     "w": "tout",
+     "start": 13.62,
+     "end": 13.78
+    },
+    {
+     "w": "le",
+     "start": 13.78,
+     "end": 13.9
+    },
+    {
+     "w": "serveur.",
+     "start": 13.9,
+     "end": 14.34
+    },
+    {
+     "w": "Sauf",
+     "start": 14.6,
+     "end": 14.92
+    },
+    {
+     "w": "qu'il",
+     "start": 14.92,
+     "end": 15.12
+    },
+    {
+     "w": "tombe",
+     "start": 15.12,
+     "end": 15.36
+    },
+    {
+     "w": "sur",
+     "start": 15.36,
+     "end": 15.5
+    },
+    {
+     "w": "un",
+     "start": 15.5,
+     "end": 15.66
+    },
+    {
+     "w": "livre",
+     "start": 15.66,
+     "end": 15.8
+    },
+    {
+     "w": "qui",
+     "start": 15.8,
+     "end": 15.94
+    },
+    {
+     "w": "le",
+     "start": 15.94,
+     "end": 16.08
+    },
+    {
+     "w": "transforme",
+     "start": 16.08,
+     "end": 16.52
+    },
+    {
+     "w": "en",
+     "start": 16.52,
+     "end": 16.66
+    },
+    {
+     "w": "forgeron",
+     "start": 16.66,
+     "end": 17.2
+    },
+    {
+     "w": "légendaire.",
+     "start": 17.2,
+     "end": 17.7
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 17.92,
+   "end": 24.1,
+   "slot_end": 24.19,
+   "text": "Numéro 4, Tougen Anki. Shiki apprend un soir qu'il a du sang de démon, et que les descendants de Momotaro veulent sa peau.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 17.92,
+     "end": 18.04
+    },
+    {
+     "w": "4,",
+     "start": 18.04,
+     "end": 18.3
+    },
+    {
+     "w": "Tougen",
+     "start": 18.6,
+     "end": 18.84
+    },
+    {
+     "w": "Anki.",
+     "start": 18.84,
+     "end": 19.2
+    },
+    {
+     "w": "Shiki",
+     "start": 19.62,
+     "end": 19.98
+    },
+    {
+     "w": "apprend",
+     "start": 19.98,
+     "end": 20.26
+    },
+    {
+     "w": "un",
+     "start": 20.26,
+     "end": 20.38
+    },
+    {
+     "w": "soir",
+     "start": 20.38,
+     "end": 20.56
+    },
+    {
+     "w": "qu'il",
+     "start": 20.56,
+     "end": 20.78
+    },
+    {
+     "w": "a",
+     "start": 20.78,
+     "end": 20.88
+    },
+    {
+     "w": "du",
+     "start": 20.88,
+     "end": 21.0
+    },
+    {
+     "w": "sang",
+     "start": 21.0,
+     "end": 21.2
+    },
+    {
+     "w": "de",
+     "start": 21.2,
+     "end": 21.38
+    },
+    {
+     "w": "démon,",
+     "start": 21.38,
+     "end": 21.76
+    },
+    {
+     "w": "et",
+     "start": 21.76,
+     "end": 22.26
+    },
+    {
+     "w": "que",
+     "start": 22.26,
+     "end": 22.36
+    },
+    {
+     "w": "les",
+     "start": 22.36,
+     "end": 22.46
+    },
+    {
+     "w": "descendants",
+     "start": 22.46,
+     "end": 22.76
+    },
+    {
+     "w": "de",
+     "start": 22.76,
+     "end": 23.02
+    },
+    {
+     "w": "Momotaro",
+     "start": 23.02,
+     "end": 23.42
+    },
+    {
+     "w": "veulent",
+     "start": 23.42,
+     "end": 23.66
+    },
+    {
+     "w": "sa",
+     "start": 23.66,
+     "end": 23.9
+    },
+    {
+     "w": "peau.",
+     "start": 23.9,
+     "end": 24.1
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 24.18,
+   "end": 27.96,
+   "slot_end": 28.008,
+   "text": "Le conte qu'on te racontait petit, là il est retourné, et franchement les combats au sang sont chauds.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 24.18,
+     "end": 24.28
+    },
+    {
+     "w": "conte",
+     "start": 24.28,
+     "end": 24.42
+    },
+    {
+     "w": "qu'on",
+     "start": 24.42,
+     "end": 24.6
+    },
+    {
+     "w": "te",
+     "start": 24.6,
+     "end": 24.7
+    },
+    {
+     "w": "racontait",
+     "start": 24.7,
+     "end": 25.02
+    },
+    {
+     "w": "petit,",
+     "start": 25.02,
+     "end": 25.24
+    },
+    {
+     "w": "là",
+     "start": 25.24,
+     "end": 25.38
+    },
+    {
+     "w": "il",
+     "start": 25.38,
+     "end": 25.44
+    },
+    {
+     "w": "est",
+     "start": 25.44,
+     "end": 25.56
+    },
+    {
+     "w": "retourné,",
+     "start": 25.56,
+     "end": 26.2
+    },
+    {
+     "w": "et",
+     "start": 26.2,
+     "end": 26.32
+    },
+    {
+     "w": "franchement",
+     "start": 26.32,
+     "end": 26.62
+    },
+    {
+     "w": "les",
+     "start": 26.7,
+     "end": 26.8
+    },
+    {
+     "w": "combats",
+     "start": 26.8,
+     "end": 27.1
+    },
+    {
+     "w": "au",
+     "start": 27.1,
+     "end": 27.24
+    },
+    {
+     "w": "sang",
+     "start": 27.24,
+     "end": 27.36
+    },
+    {
+     "w": "sont",
+     "start": 27.36,
+     "end": 27.58
+    },
+    {
+     "w": "chauds.",
+     "start": 27.58,
+     "end": 27.96
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 27.96,
+   "end": 33.8,
+   "slot_end": 33.904,
+   "text": "Numéro 3, PSYREN. Ageha trouve une carte téléphonique rouge, il passe un appel, et il se réveille dans un Japon en ruines.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 27.96,
+     "end": 28.22
+    },
+    {
+     "w": "3,",
+     "start": 28.22,
+     "end": 28.48
+    },
+    {
+     "w": "PSYREN.",
+     "start": 28.82,
+     "end": 29.28
+    },
+    {
+     "w": "Ageha",
+     "start": 29.28,
+     "end": 29.74
+    },
+    {
+     "w": "trouve",
+     "start": 29.74,
+     "end": 29.96
+    },
+    {
+     "w": "une",
+     "start": 29.96,
+     "end": 30.12
+    },
+    {
+     "w": "carte",
+     "start": 30.12,
+     "end": 30.32
+    },
+    {
+     "w": "téléphonique",
+     "start": 30.32,
+     "end": 30.86
+    },
+    {
+     "w": "rouge,",
+     "start": 30.86,
+     "end": 31.08
+    },
+    {
+     "w": "il",
+     "start": 31.28,
+     "end": 31.33
+    },
+    {
+     "w": "passe",
+     "start": 31.3,
+     "end": 31.5
+    },
+    {
+     "w": "un",
+     "start": 31.5,
+     "end": 31.6
+    },
+    {
+     "w": "appel,",
+     "start": 31.6,
+     "end": 31.8
+    },
+    {
+     "w": "et",
+     "start": 31.8,
+     "end": 32.34
+    },
+    {
+     "w": "il",
+     "start": 32.34,
+     "end": 32.4
+    },
+    {
+     "w": "se",
+     "start": 32.4,
+     "end": 32.52
+    },
+    {
+     "w": "réveille",
+     "start": 32.52,
+     "end": 32.74
+    },
+    {
+     "w": "dans",
+     "start": 32.74,
+     "end": 32.86
+    },
+    {
+     "w": "un",
+     "start": 32.86,
+     "end": 33.0
+    },
+    {
+     "w": "Japon",
+     "start": 33.0,
+     "end": 33.22
+    },
+    {
+     "w": "en",
+     "start": 33.22,
+     "end": 33.54
+    },
+    {
+     "w": "ruines.",
+     "start": 33.54,
+     "end": 33.8
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 33.94,
+   "end": 37.18,
+   "slot_end": 37.333,
+   "text": "Et si t'aimes les tops comme ça, abonne-toi, j'en sors tous les jours sur les nouveautés de la saison.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 33.94,
+     "end": 34.04
+    },
+    {
+     "w": "si",
+     "start": 34.04,
+     "end": 34.12
+    },
+    {
+     "w": "t'aimes",
+     "start": 34.12,
+     "end": 34.32
+    },
+    {
+     "w": "les",
+     "start": 34.32,
+     "end": 34.42
+    },
+    {
+     "w": "tops",
+     "start": 34.42,
+     "end": 34.56
+    },
+    {
+     "w": "comme",
+     "start": 34.56,
+     "end": 34.72
+    },
+    {
+     "w": "ça,",
+     "start": 34.72,
+     "end": 34.9
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 35.06,
+     "end": 35.38
+    },
+    {
+     "w": "j'en",
+     "start": 35.5,
+     "end": 35.56
+    },
+    {
+     "w": "sors",
+     "start": 35.56,
+     "end": 35.7
+    },
+    {
+     "w": "tous",
+     "start": 35.7,
+     "end": 35.86
+    },
+    {
+     "w": "les",
+     "start": 35.86,
+     "end": 35.98
+    },
+    {
+     "w": "jours",
+     "start": 35.98,
+     "end": 36.1
+    },
+    {
+     "w": "sur",
+     "start": 36.1,
+     "end": 36.26
+    },
+    {
+     "w": "les",
+     "start": 36.26,
+     "end": 36.38
+    },
+    {
+     "w": "nouveautés",
+     "start": 36.38,
+     "end": 36.72
+    },
+    {
+     "w": "de",
+     "start": 36.72,
+     "end": 36.82
+    },
+    {
+     "w": "la",
+     "start": 36.82,
+     "end": 36.92
+    },
+    {
+     "w": "saison.",
+     "start": 36.92,
+     "end": 37.18
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 37.36,
+   "end": 44.6,
+   "slot_end": 44.685,
+   "text": "Numéro 2, Aoashi. Ashito voit tout le terrain d'en haut, genre comme une caméra. Et le coach Fukuda, au lieu de le mettre attaquant, il le fait défenseur.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 37.36,
+     "end": 37.6
+    },
+    {
+     "w": "2,",
+     "start": 37.6,
+     "end": 37.82
+    },
+    {
+     "w": "Aoashi.",
+     "start": 38.1,
+     "end": 38.44
+    },
+    {
+     "w": "Ashito",
+     "start": 39.08,
+     "end": 39.4
+    },
+    {
+     "w": "voit",
+     "start": 39.4,
+     "end": 39.54
+    },
+    {
+     "w": "tout",
+     "start": 39.54,
+     "end": 39.7
+    },
+    {
+     "w": "le",
+     "start": 39.7,
+     "end": 39.82
+    },
+    {
+     "w": "terrain",
+     "start": 39.82,
+     "end": 39.98
+    },
+    {
+     "w": "d'en",
+     "start": 39.98,
+     "end": 40.28
+    },
+    {
+     "w": "haut,",
+     "start": 40.28,
+     "end": 40.33
+    },
+    {
+     "w": "genre",
+     "start": 40.36,
+     "end": 40.46
+    },
+    {
+     "w": "comme",
+     "start": 40.46,
+     "end": 40.68
+    },
+    {
+     "w": "une",
+     "start": 40.68,
+     "end": 40.78
+    },
+    {
+     "w": "caméra.",
+     "start": 40.78,
+     "end": 41.14
+    },
+    {
+     "w": "Et",
+     "start": 41.84,
+     "end": 42.02
+    },
+    {
+     "w": "le",
+     "start": 42.02,
+     "end": 42.16
+    },
+    {
+     "w": "coach",
+     "start": 42.16,
+     "end": 42.28
+    },
+    {
+     "w": "Fukuda,",
+     "start": 42.28,
+     "end": 42.7
+    },
+    {
+     "w": "au",
+     "start": 42.8,
+     "end": 42.88
+    },
+    {
+     "w": "lieu",
+     "start": 42.88,
+     "end": 42.96
+    },
+    {
+     "w": "de",
+     "start": 42.96,
+     "end": 43.08
+    },
+    {
+     "w": "le",
+     "start": 43.08,
+     "end": 43.18
+    },
+    {
+     "w": "mettre",
+     "start": 43.18,
+     "end": 43.28
+    },
+    {
+     "w": "attaquant,",
+     "start": 43.28,
+     "end": 43.72
+    },
+    {
+     "w": "il",
+     "start": 43.82,
+     "end": 43.9
+    },
+    {
+     "w": "le",
+     "start": 43.9,
+     "end": 44.04
+    },
+    {
+     "w": "fait",
+     "start": 44.04,
+     "end": 44.14
+    },
+    {
+     "w": "défenseur.",
+     "start": 44.14,
+     "end": 44.6
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 44.68,
+   "end": 49.72,
+   "slot_end": 49.773,
+   "text": "J'te jure, c'est le seul anime de foot où t'as envie de prendre des notes. Mais attends, le numéro 1 est encore plus malin.",
+   "words": [
+    {
+     "w": "J'te",
+     "start": 44.68,
+     "end": 44.86
+    },
+    {
+     "w": "jure,",
+     "start": 44.86,
+     "end": 45.06
+    },
+    {
+     "w": "c'est",
+     "start": 45.1,
+     "end": 45.16
+    },
+    {
+     "w": "le",
+     "start": 45.16,
+     "end": 45.3
+    },
+    {
+     "w": "seul",
+     "start": 45.3,
+     "end": 45.58
+    },
+    {
+     "w": "anime",
+     "start": 45.58,
+     "end": 45.94
+    },
+    {
+     "w": "de",
+     "start": 45.94,
+     "end": 46.06
+    },
+    {
+     "w": "foot",
+     "start": 46.06,
+     "end": 46.24
+    },
+    {
+     "w": "où",
+     "start": 46.24,
+     "end": 46.4
+    },
+    {
+     "w": "t'as",
+     "start": 46.4,
+     "end": 46.5
+    },
+    {
+     "w": "envie",
+     "start": 46.5,
+     "end": 46.68
+    },
+    {
+     "w": "de",
+     "start": 46.68,
+     "end": 46.8
+    },
+    {
+     "w": "prendre",
+     "start": 46.8,
+     "end": 46.9
+    },
+    {
+     "w": "des",
+     "start": 46.9,
+     "end": 47.08
+    },
+    {
+     "w": "notes.",
+     "start": 47.08,
+     "end": 47.22
+    },
+    {
+     "w": "Mais",
+     "start": 47.62,
+     "end": 47.9
+    },
+    {
+     "w": "attends,",
+     "start": 47.9,
+     "end": 48.04
+    },
+    {
+     "w": "le",
+     "start": 48.24,
+     "end": 48.34
+    },
+    {
+     "w": "numéro",
+     "start": 48.34,
+     "end": 48.54
+    },
+    {
+     "w": "1",
+     "start": 48.54,
+     "end": 48.82
+    },
+    {
+     "w": "est",
+     "start": 48.82,
+     "end": 48.94
+    },
+    {
+     "w": "encore",
+     "start": 48.94,
+     "end": 49.14
+    },
+    {
+     "w": "plus",
+     "start": 49.14,
+     "end": 49.38
+    },
+    {
+     "w": "malin.",
+     "start": 49.38,
+     "end": 49.72
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 49.76,
+   "end": 57.06,
+   "slot_end": 57.222,
+   "text": "Numéro 1, The Apothecary Diaries. Maomao, c'est une apothicaire enlevée puis vendue comme servante au palais impérial.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 49.76,
+     "end": 50.02
+    },
+    {
+     "w": "1,",
+     "start": 50.02,
+     "end": 50.22
+    },
+    {
+     "w": "The",
+     "start": 50.58,
+     "end": 50.7
+    },
+    {
+     "w": "Apothecary",
+     "start": 50.7,
+     "end": 51.36
+    },
+    {
+     "w": "Diaries.",
+     "start": 51.36,
+     "end": 52.23
+    },
+    {
+     "w": "Maomao,",
+     "start": 52.23,
+     "end": 53.1
+    },
+    {
+     "w": "c'est",
+     "start": 53.64,
+     "end": 53.9
+    },
+    {
+     "w": "une",
+     "start": 53.9,
+     "end": 54.06
+    },
+    {
+     "w": "apothicaire",
+     "start": 54.06,
+     "end": 54.54
+    },
+    {
+     "w": "enlevée",
+     "start": 54.54,
+     "end": 54.96
+    },
+    {
+     "w": "puis",
+     "start": 54.96,
+     "end": 55.12
+    },
+    {
+     "w": "vendue",
+     "start": 55.12,
+     "end": 55.44
+    },
+    {
+     "w": "comme",
+     "start": 55.44,
+     "end": 55.66
+    },
+    {
+     "w": "servante",
+     "start": 55.66,
+     "end": 56.14
+    },
+    {
+     "w": "au",
+     "start": 56.14,
+     "end": 56.44
+    },
+    {
+     "w": "palais",
+     "start": 56.44,
+     "end": 56.68
+    },
+    {
+     "w": "impérial.",
+     "start": 56.68,
+     "end": 57.06
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 57.06,
+   "end": 61.28,
+   "slot_end": 61.349,
+   "text": "Et pendant que les autres héros se battent à l'épée, elle, elle démasque des empoisonneurs juste en goûtant un plat.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 57.06,
+     "end": 57.28
+    },
+    {
+     "w": "pendant",
+     "start": 57.28,
+     "end": 57.4
+    },
+    {
+     "w": "que",
+     "start": 57.4,
+     "end": 57.54
+    },
+    {
+     "w": "les",
+     "start": 57.54,
+     "end": 57.66
+    },
+    {
+     "w": "autres",
+     "start": 57.66,
+     "end": 57.82
+    },
+    {
+     "w": "héros",
+     "start": 57.82,
+     "end": 58.02
+    },
+    {
+     "w": "se",
+     "start": 58.02,
+     "end": 58.18
+    },
+    {
+     "w": "battent",
+     "start": 58.18,
+     "end": 58.32
+    },
+    {
+     "w": "à",
+     "start": 58.32,
+     "end": 58.4
+    },
+    {
+     "w": "l'épée,",
+     "start": 58.4,
+     "end": 58.68
+    },
+    {
+     "w": "elle,",
+     "start": 58.68,
+     "end": 58.92
+    },
+    {
+     "w": "elle",
+     "start": 59.12,
+     "end": 59.17
+    },
+    {
+     "w": "démasque",
+     "start": 59.12,
+     "end": 59.46
+    },
+    {
+     "w": "des",
+     "start": 59.46,
+     "end": 59.62
+    },
+    {
+     "w": "empoisonneurs",
+     "start": 59.62,
+     "end": 60.16
+    },
+    {
+     "w": "juste",
+     "start": 60.16,
+     "end": 60.44
+    },
+    {
+     "w": "en",
+     "start": 60.44,
+     "end": 60.68
+    },
+    {
+     "w": "goûtant",
+     "start": 60.68,
+     "end": 60.96
+    },
+    {
+     "w": "un",
+     "start": 60.96,
+     "end": 61.14
+    },
+    {
+     "w": "plat.",
+     "start": 61.14,
+     "end": 61.28
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 61.72,
+   "end": 65.293,
+   "slot_end": 65.401,
+   "text": "Le pire, c'est qu'elle adore le poison, elle en teste sur son propre bras pour le plaisir.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 61.72,
+     "end": 62.08
+    },
+    {
+     "w": "pire,",
+     "start": 62.08,
+     "end": 62.3
+    },
+    {
+     "w": "c'est",
+     "start": 62.3,
+     "end": 62.46
+    },
+    {
+     "w": "qu'elle",
+     "start": 62.46,
+     "end": 62.58
+    },
+    {
+     "w": "adore",
+     "start": 62.58,
+     "end": 62.78
+    },
+    {
+     "w": "le",
+     "start": 62.78,
+     "end": 62.9
+    },
+    {
+     "w": "poison,",
+     "start": 62.9,
+     "end": 63.16
+    },
+    {
+     "w": "elle",
+     "start": 63.16,
+     "end": 63.4
+    },
+    {
+     "w": "en",
+     "start": 63.4,
+     "end": 63.46
+    },
+    {
+     "w": "teste",
+     "start": 63.46,
+     "end": 63.64
+    },
+    {
+     "w": "sur",
+     "start": 63.64,
+     "end": 63.8
+    },
+    {
+     "w": "son",
+     "start": 63.8,
+     "end": 63.98
+    },
+    {
+     "w": "propre",
+     "start": 63.98,
+     "end": 64.24
+    },
+    {
+     "w": "bras",
+     "start": 64.24,
+     "end": 64.6
+    },
+    {
+     "w": "pour",
+     "start": 64.6,
+     "end": 64.8
+    },
+    {
+     "w": "le",
+     "start": 64.8,
+     "end": 64.98
+    },
+    {
+     "w": "plaisir.",
+     "start": 64.98,
+     "end": 65.293
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 65.293,
+   "end": 70.8,
+   "slot_end": 71.334,
+   "text": "Et Jinshi, le plus beau mec du palais, galère complètement à l'impressionner. Voilà la raison : elle gagne avec sa tête, jamais avec ses poings.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 65.293,
+     "end": 65.607
+    },
+    {
+     "w": "Jinshi,",
+     "start": 65.607,
+     "end": 65.92
+    },
+    {
+     "w": "le",
+     "start": 66.02,
+     "end": 66.08
+    },
+    {
+     "w": "plus",
+     "start": 66.08,
+     "end": 66.18
+    },
+    {
+     "w": "beau",
+     "start": 66.18,
+     "end": 66.36
+    },
+    {
+     "w": "mec",
+     "start": 66.36,
+     "end": 66.5
+    },
+    {
+     "w": "du",
+     "start": 66.5,
+     "end": 66.6
+    },
+    {
+     "w": "palais,",
+     "start": 66.6,
+     "end": 66.84
+    },
+    {
+     "w": "galère",
+     "start": 66.84,
+     "end": 67.16
+    },
+    {
+     "w": "complètement",
+     "start": 67.16,
+     "end": 67.56
+    },
+    {
+     "w": "à",
+     "start": 67.56,
+     "end": 67.68
+    },
+    {
+     "w": "l'impressionner.",
+     "start": 67.68,
+     "end": 68.16
+    },
+    {
+     "w": "Voilà",
+     "start": 68.34,
+     "end": 68.5
+    },
+    {
+     "w": "la",
+     "start": 68.5,
+     "end": 68.66
+    },
+    {
+     "w": "raison",
+     "start": 68.66,
+     "end": 68.86
+    },
+    {
+     "w": ":",
+     "start": 68.86,
+     "end": 69.04
+    },
+    {
+     "w": "elle",
+     "start": 69.04,
+     "end": 69.14
+    },
+    {
+     "w": "gagne",
+     "start": 69.14,
+     "end": 69.4
+    },
+    {
+     "w": "avec",
+     "start": 69.4,
+     "end": 69.52
+    },
+    {
+     "w": "sa",
+     "start": 69.52,
+     "end": 69.7
+    },
+    {
+     "w": "tête,",
+     "start": 69.7,
+     "end": 69.92
+    },
+    {
+     "w": "jamais",
+     "start": 69.92,
+     "end": 70.3
+    },
+    {
+     "w": "avec",
+     "start": 70.3,
+     "end": 70.42
+    },
+    {
+     "w": "ses",
+     "start": 70.42,
+     "end": 70.58
+    },
+    {
+     "w": "poings.",
+     "start": 70.58,
+     "end": 70.8
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 71.32,
+   "end": 74.22,
+   "slot_end": 74.351,
+   "text": "Alors, c'est quoi ton numéro 1 de la saison ? Dis-moi en com'.",
+   "words": [
+    {
+     "w": "Alors,",
+     "start": 71.32,
+     "end": 71.48
+    },
+    {
+     "w": "c'est",
+     "start": 71.78,
+     "end": 72.04
+    },
+    {
+     "w": "quoi",
+     "start": 72.04,
+     "end": 72.16
+    },
+    {
+     "w": "ton",
+     "start": 72.16,
+     "end": 72.3
+    },
+    {
+     "w": "numéro",
+     "start": 72.3,
+     "end": 72.48
+    },
+    {
+     "w": "1",
+     "start": 72.48,
+     "end": 72.68
+    },
+    {
+     "w": "de",
+     "start": 72.68,
+     "end": 72.76
+    },
+    {
+     "w": "la",
+     "start": 72.76,
+     "end": 72.84
+    },
+    {
+     "w": "saison",
+     "start": 72.84,
+     "end": 73.08
+    },
+    {
+     "w": "?",
+     "start": 73.62,
+     "end": 73.82
+    },
+    {
+     "w": "Dis-moi",
+     "start": 73.82,
+     "end": 73.96
+    },
+    {
+     "w": "en",
+     "start": 73.96,
+     "end": 74.12
+    },
+    {
+     "w": "com'.",
+     "start": 74.12,
+     "end": 74.22
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "start": 74.36,
+   "end": 76.76,
+   "slot_end": 77.588,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 74.36,
+     "end": 74.56
+    },
+    {
+     "w": "Asura.",
+     "start": 74.56,
+     "end": 75.04
+    },
+    {
+     "w": "On",
+     "start": 75.3,
+     "end": 75.46
+    },
+    {
+     "w": "se",
+     "start": 75.46,
+     "end": 75.56
+    },
+    {
+     "w": "capte",
+     "start": 75.56,
+     "end": 75.92
+    },
+    {
+     "w": "au",
+     "start": 75.92,
+     "end": 76.06
+    },
+    {
+     "w": "prochain",
+     "start": 76.06,
+     "end": 76.28
+    },
+    {
+     "w": "épisode.",
+     "start": 76.28,
+     "end": 76.76
+    }
+   ]
+  }
+ ],
+ "aligned": 0.99
+}

@@ -1,0 +1,24 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/video.mp4",
+ "duration": 77.588,
+ "shots": 63,
+ "sources": [
+  "https://anilist.co/anime/191788",
+  "https://anilist.co/anime/195516",
+  "https://anilist.co/anime/204011",
+  "https://anilist.co/anime/204650",
+  "https://anilist.co/anime/212888",
+  "https://kitsu.io/anime/Kusuriya-no-Hitorigoto-3rd-season",
+  "https://kitsu.io/anime/aoashi-2nd-season",
+  "https://kitsu.io/anime/psyren",
+  "https://kitsu.io/anime/temppal-item-no-chikara",
+  "https://kitsu.io/anime/tougen-anki-nikko-kegon-falls-arc"
+ ],
+ "music": {
+  "file": "hype2.mp3",
+  "bpm": 92.3,
+  "offset": 16.35
+ },
+ "sfx": 29,
+ "engine": "remotion (OpenMontage)"
+}

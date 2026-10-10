@@ -1,0 +1,572 @@
+{
+ "The Apothecary Diaries Season 3": [
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a0_0_00.mp4",
+   "dur": 0.924,
+   "tag": "a0_0",
+   "source": "AnimeThemes (Kusuriya no Hitorigoto 3rd Season OP1)",
+   "order": 0,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a0_0_01.mp4",
+   "dur": 2.759,
+   "tag": "a0_0",
+   "source": "AnimeThemes (Kusuriya no Hitorigoto 3rd Season OP1)",
+   "order": 1,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a0_0_02.mp4",
+   "dur": 2.635,
+   "tag": "a0_0",
+   "source": "AnimeThemes (Kusuriya no Hitorigoto 3rd Season OP1)",
+   "order": 2,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a0_0_03.mp4",
+   "dur": 2.342,
+   "tag": "a0_0",
+   "source": "AnimeThemes (Kusuriya no Hitorigoto 3rd Season OP1)",
+   "order": 3,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a0_0_04.mp4",
+   "dur": 1.759,
+   "tag": "a0_0",
+   "source": "AnimeThemes (Kusuriya no Hitorigoto 3rd Season OP1)",
+   "order": 4,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a0_0_05.mp4",
+   "dur": 1.216,
+   "tag": "a0_0",
+   "source": "AnimeThemes (Kusuriya no Hitorigoto 3rd Season OP1)",
+   "order": 5,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a0_0_06.mp4",
+   "dur": 1.509,
+   "tag": "a0_0",
+   "source": "AnimeThemes (Kusuriya no Hitorigoto 3rd Season OP1)",
+   "order": 6,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a0_0_07.mp4",
+   "dur": 1.925,
+   "tag": "a0_0",
+   "source": "AnimeThemes (Kusuriya no Hitorigoto 3rd Season OP1)",
+   "order": 7,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a0_1_00.mp4",
+   "dur": 6.0,
+   "tag": "a0_1",
+   "source": "Sakugabooru (sakuga 269834)",
+   "order": 0,
+   "energy": "high"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a0_1_01.mp4",
+   "dur": 5.846,
+   "tag": "a0_1",
+   "source": "Sakugabooru (sakuga 269834)",
+   "order": 1,
+   "energy": "high"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a0_1_02.mp4",
+   "dur": 6.0,
+   "tag": "a0_1",
+   "source": "Sakugabooru (sakuga 269834)",
+   "order": 2,
+   "energy": "high"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a0_2_00.mp4",
+   "dur": 2.259,
+   "tag": "a0_2",
+   "source": "Sakugabooru (sakuga 248064)",
+   "order": 0,
+   "energy": "high"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a0_2_01.mp4",
+   "dur": 1.592,
+   "tag": "a0_2",
+   "source": "Sakugabooru (sakuga 248064)",
+   "order": 1,
+   "energy": "high"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a0_2_02.mp4",
+   "dur": 1.675,
+   "tag": "a0_2",
+   "source": "Sakugabooru (sakuga 248064)",
+   "order": 2,
+   "energy": "high"
+  }
+ ],
+ "Aoashi Season 2": [
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a1_0_00.mp4",
+   "dur": 6.0,
+   "tag": "a1_0",
+   "source": "AnimeThemes (Aoashi 2nd Season OP1)",
+   "order": 0,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a1_0_01.mp4",
+   "dur": 6.0,
+   "tag": "a1_0",
+   "source": "AnimeThemes (Aoashi 2nd Season OP1)",
+   "order": 1,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a1_0_02.mp4",
+   "dur": 1.884,
+   "tag": "a1_0",
+   "source": "AnimeThemes (Aoashi 2nd Season OP1)",
+   "order": 2,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a1_0_03.mp4",
+   "dur": 3.719,
+   "tag": "a1_0",
+   "source": "AnimeThemes (Aoashi 2nd Season OP1)",
+   "order": 3,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a1_0_04.mp4",
+   "dur": 2.551,
+   "tag": "a1_0",
+   "source": "AnimeThemes (Aoashi 2nd Season OP1)",
+   "order": 4,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a1_0_05.mp4",
+   "dur": 0.966,
+   "tag": "a1_0",
+   "source": "AnimeThemes (Aoashi 2nd Season OP1)",
+   "order": 5,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a1_0_06.mp4",
+   "dur": 1.8,
+   "tag": "a1_0",
+   "source": "AnimeThemes (Aoashi 2nd Season OP1)",
+   "order": 6,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a1_0_07.mp4",
+   "dur": 1.383,
+   "tag": "a1_0",
+   "source": "AnimeThemes (Aoashi 2nd Season OP1)",
+   "order": 7,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a1_1_00.mp4",
+   "dur": 2.843,
+   "tag": "a1_1",
+   "source": "Sakugabooru (sakuga 318119)",
+   "order": 0,
+   "energy": "high"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a1_1_01.mp4",
+   "dur": 0.966,
+   "tag": "a1_1",
+   "source": "Sakugabooru (sakuga 318119)",
+   "order": 1,
+   "energy": "high"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a1_1_02.mp4",
+   "dur": 1.05,
+   "tag": "a1_1",
+   "source": "Sakugabooru (sakuga 318119)",
+   "order": 2,
+   "energy": "high"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a1_2_00.mp4",
+   "dur": 5.596,
+   "tag": "a1_2",
+   "source": "Sakugabooru (sakuga 318118)",
+   "order": 0,
+   "energy": "high"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a1_2_01.mp4",
+   "dur": 6.0,
+   "tag": "a1_2",
+   "source": "Sakugabooru (sakuga 318118)",
+   "order": 1,
+   "energy": "high"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a1_3_00.mp4",
+   "dur": 6.0,
+   "tag": "a1_3",
+   "source": "Sakugabooru (sakuga 318117)",
+   "order": 0,
+   "energy": "high"
+  }
+ ],
+ "PSYREN": [
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a2_0_00.mp4",
+   "dur": 0.966,
+   "tag": "a2_0",
+   "source": "AnimeThemes (PSYЯEN OP1)",
+   "order": 0,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a2_0_01.mp4",
+   "dur": 0.924,
+   "tag": "a2_0",
+   "source": "AnimeThemes (PSYЯEN OP1)",
+   "order": 1,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a2_0_02.mp4",
+   "dur": 4.928,
+   "tag": "a2_0",
+   "source": "AnimeThemes (PSYЯEN OP1)",
+   "order": 2,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a2_0_03.mp4",
+   "dur": 0.841,
+   "tag": "a2_0",
+   "source": "AnimeThemes (PSYЯEN OP1)",
+   "order": 3,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a2_0_04.mp4",
+   "dur": 2.26,
+   "tag": "a2_0",
+   "source": "AnimeThemes (PSYЯEN OP1)",
+   "order": 4,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a2_0_05.mp4",
+   "dur": 0.966,
+   "tag": "a2_0",
+   "source": "AnimeThemes (PSYЯEN OP1)",
+   "order": 5,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a2_0_06.mp4",
+   "dur": 1.217,
+   "tag": "a2_0",
+   "source": "AnimeThemes (PSYЯEN OP1)",
+   "order": 6,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a2_0_07.mp4",
+   "dur": 2.343,
+   "tag": "a2_0",
+   "source": "AnimeThemes (PSYЯEN OP1)",
+   "order": 7,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a2_0_08.mp4",
+   "dur": 6.0,
+   "tag": "a2_0",
+   "source": "AnimeThemes (PSYЯEN OP1)",
+   "order": 8,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a2_0_09.mp4",
+   "dur": 1.842,
+   "tag": "a2_0",
+   "source": "AnimeThemes (PSYЯEN OP1)",
+   "order": 9,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a2_0_10.mp4",
+   "dur": 0.966,
+   "tag": "a2_0",
+   "source": "AnimeThemes (PSYЯEN OP1)",
+   "order": 10,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a2_0_11.mp4",
+   "dur": 2.551,
+   "tag": "a2_0",
+   "source": "AnimeThemes (PSYЯEN OP1)",
+   "order": 11,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a2_0_12.mp4",
+   "dur": 0.716,
+   "tag": "a2_0",
+   "source": "AnimeThemes (PSYЯEN OP1)",
+   "order": 12,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a2_0_13.mp4",
+   "dur": 1.216,
+   "tag": "a2_0",
+   "source": "AnimeThemes (PSYЯEN OP1)",
+   "order": 13,
+   "energy": "mid"
+  }
+ ],
+ "TOUGEN ANKI: Nikko Kegon Falls Arc": [
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a3_0_00.mp4",
+   "dur": 0.841,
+   "tag": "a3_0",
+   "source": "AnimeThemes (Tougen Anki: Nikko・Kegon no Taki-hen OP1)",
+   "order": 0,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a3_0_01.mp4",
+   "dur": 0.716,
+   "tag": "a3_0",
+   "source": "AnimeThemes (Tougen Anki: Nikko・Kegon no Taki-hen OP1)",
+   "order": 1,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a3_0_02.mp4",
+   "dur": 1.216,
+   "tag": "a3_0",
+   "source": "AnimeThemes (Tougen Anki: Nikko・Kegon no Taki-hen OP1)",
+   "order": 2,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a3_0_03.mp4",
+   "dur": 1.049,
+   "tag": "a3_0",
+   "source": "AnimeThemes (Tougen Anki: Nikko・Kegon no Taki-hen OP1)",
+   "order": 3,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a3_0_04.mp4",
+   "dur": 0.966,
+   "tag": "a3_0",
+   "source": "AnimeThemes (Tougen Anki: Nikko・Kegon no Taki-hen OP1)",
+   "order": 4,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a3_0_05.mp4",
+   "dur": 2.009,
+   "tag": "a3_0",
+   "source": "AnimeThemes (Tougen Anki: Nikko・Kegon no Taki-hen OP1)",
+   "order": 5,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a3_0_06.mp4",
+   "dur": 2.634,
+   "tag": "a3_0",
+   "source": "AnimeThemes (Tougen Anki: Nikko・Kegon no Taki-hen OP1)",
+   "order": 6,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a3_0_07.mp4",
+   "dur": 1.091,
+   "tag": "a3_0",
+   "source": "AnimeThemes (Tougen Anki: Nikko・Kegon no Taki-hen OP1)",
+   "order": 7,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a3_1_00.mp4",
+   "dur": 5.846,
+   "tag": "a3_1",
+   "source": "Sakugabooru (sakuga 287237)",
+   "order": 0,
+   "energy": "high"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a3_1_01.mp4",
+   "dur": 6.0,
+   "tag": "a3_1",
+   "source": "Sakugabooru (sakuga 287237)",
+   "order": 1,
+   "energy": "high"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a3_2_00.mp4",
+   "dur": 1.091,
+   "tag": "a3_2",
+   "source": "Sakugabooru (sakuga 291226)",
+   "order": 0,
+   "energy": "high"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a3_2_01.mp4",
+   "dur": 0.841,
+   "tag": "a3_2",
+   "source": "Sakugabooru (sakuga 291226)",
+   "order": 1,
+   "energy": "high"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a3_2_02.mp4",
+   "dur": 6.0,
+   "tag": "a3_2",
+   "source": "Sakugabooru (sakuga 291226)",
+   "order": 2,
+   "energy": "high"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a3_3_00.mp4",
+   "dur": 2.092,
+   "tag": "a3_3",
+   "source": "Sakugabooru (sakuga 292142)",
+   "order": 0,
+   "energy": "high"
+  }
+ ],
+ "Overgeared": [
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a4_0_00.mp4",
+   "dur": 0.716,
+   "tag": "a4_0",
+   "source": "AnimeThemes (Tempal: Item no Chikara OP1)",
+   "order": 0,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a4_0_01.mp4",
+   "dur": 0.799,
+   "tag": "a4_0",
+   "source": "AnimeThemes (Tempal: Item no Chikara OP1)",
+   "order": 1,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a4_0_02.mp4",
+   "dur": 0.966,
+   "tag": "a4_0",
+   "source": "AnimeThemes (Tempal: Item no Chikara OP1)",
+   "order": 2,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a4_0_03.mp4",
+   "dur": 0.716,
+   "tag": "a4_0",
+   "source": "AnimeThemes (Tempal: Item no Chikara OP1)",
+   "order": 3,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a4_0_04.mp4",
+   "dur": 0.799,
+   "tag": "a4_0",
+   "source": "AnimeThemes (Tempal: Item no Chikara OP1)",
+   "order": 4,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a4_0_05.mp4",
+   "dur": 2.051,
+   "tag": "a4_0",
+   "source": "AnimeThemes (Tempal: Item no Chikara OP1)",
+   "order": 5,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a4_0_06.mp4",
+   "dur": 1.55,
+   "tag": "a4_0",
+   "source": "AnimeThemes (Tempal: Item no Chikara OP1)",
+   "order": 6,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a4_0_07.mp4",
+   "dur": 2.802,
+   "tag": "a4_0",
+   "source": "AnimeThemes (Tempal: Item no Chikara OP1)",
+   "order": 7,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a4_0_08.mp4",
+   "dur": 3.01,
+   "tag": "a4_0",
+   "source": "AnimeThemes (Tempal: Item no Chikara OP1)",
+   "order": 8,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a4_0_09.mp4",
+   "dur": 2.593,
+   "tag": "a4_0",
+   "source": "AnimeThemes (Tempal: Item no Chikara OP1)",
+   "order": 9,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a4_0_10.mp4",
+   "dur": 2.467,
+   "tag": "a4_0",
+   "source": "AnimeThemes (Tempal: Item no Chikara OP1)",
+   "order": 10,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a4_0_11.mp4",
+   "dur": 0.841,
+   "tag": "a4_0",
+   "source": "AnimeThemes (Tempal: Item no Chikara OP1)",
+   "order": 11,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a4_0_12.mp4",
+   "dur": 5.054,
+   "tag": "a4_0",
+   "source": "AnimeThemes (Tempal: Item no Chikara OP1)",
+   "order": 12,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-10_1745/clips/a4_0_13.mp4",
+   "dur": 1.092,
+   "tag": "a4_0",
+   "source": "AnimeThemes (Tempal: Item no Chikara OP1)",
+   "order": 13,
+   "energy": "mid"
+  }
+ ]
+}
