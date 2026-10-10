@@ -331,17 +331,19 @@ def mix_audio(voice: Path, music_key: str, duration: float, sfx: list[tuple[floa
     music = ROOT / "music" / MUSIC.get(music_key, "pote.mp3")
     wh, boom = _sfx(workdir)
     out = workdir / "mix.m4a"
+    from .audio import clean_voice
+    voice = clean_voice(voice, workdir / "voice_clean.wav")  # voix nette, niveau fixe
     inputs = ["-i", str(voice), "-stream_loop", "-1", "-i", str(music)]
-    filters = [f"[1:a]atrim=0:{duration+0.5:.2f},volume=0.17,afade=t=out:st={max(duration-1.5,0):.2f}:d=1.5[m]",
+    filters = [f"[1:a]atrim=0:{duration+0.5:.2f},highpass=f=130,volume=0.06,afade=t=out:st={max(duration-1.5,0):.2f}:d=1.5[m]",
                "[m][0:a]sidechaincompress=threshold=0.04:ratio=6:attack=15:release=350[duck]"]
     mix_in, n = "[0:a][duck]", 2
     for i, (t, kind) in enumerate(sfx):
         inputs += ["-i", str(boom if kind == "boom" else wh)]
         ms = int(max(t - (0.0 if kind == "boom" else 0.2), 0) * 1000)
-        filters.append(f"[{n}:a]adelay={ms}|{ms}[s{i}]")
+        filters.append(f"[{n}:a]volume=0.3,adelay={ms}|{ms}[s{i}]")
         mix_in += f"[s{i}]"
         n += 1
-    filters.append(f"{mix_in}amix=inputs={n}:duration=first:normalize=0,loudnorm=I=-14:TP=-1.5:LRA=11[a]")
+    filters.append(f"{mix_in}amix=inputs={n}:duration=first:normalize=0,alimiter=limit=0.89:level=false[a]")
     run(["ffmpeg", "-y", "-v", "error", *inputs, "-filter_complex", ";".join(filters),
          "-map", "[a]", "-c:a", "aac", "-b:a", "192k", "-ar", "44100", str(out)])
     return out

@@ -505,36 +505,38 @@ def render_video(work: Path, out: Path) -> None:
 
 
 def mix(voice_path: Path, music: dict, total: float, cues: list, work: Path, hook_end: float = 3.0) -> Path:
-    """La voix d'abord : voix normalisée et compressée, musique très basse (environ -22 dB sous la
-    voix) et encore plus basse pendant le hook, coupée net dès que la voix parle (ducking),
-    bruitages discrets."""
+    """La voix d'abord : voix nettoyée et mise à niveau par audio.clean_voice (grave dégonflé,
+    présence, gain fixe), musique très basse (environ -27 dB sous la voix, encore moins pendant
+    le hook), filtrée pour laisser la place aux consonnes et coupée dès que la voix parle,
+    bruitages au minimum."""
+    from .audio import clean_voice
     bank = SFX.make_all(work / "sfx")
-    vol = {"boom": 0.35, "impact": 0.22, "whoosh": 0.16, "swoosh": 0.12, "glitch": 0.12,
-           "riser": 0.18, "click": 0.3, "pop": 0.22}
+    vol = {"boom": 0.12, "impact": 0.08, "whoosh": 0.05, "swoosh": 0.04, "glitch": 0.035,
+           "riser": 0.045, "click": 0.1, "pop": 0.08}
+    voice_path = clean_voice(voice_path, work / "voice_clean.wav")
     inputs = ["-i", str(voice_path), "-ss", f"{music['offset']:.2f}", "-stream_loop", "-1",
               "-i", str(ROOT / "music" / music["file"])]
     he = max(1.0, hook_end)
     filt = [
-        # voix : niveau constant, présence (léger boost 2-5 kHz), compression douce
-        "[0:a]highpass=f=70,equalizer=f=3200:t=q:w=1.2:g=3,"
-        "acompressor=threshold=0.12:ratio=3:attack=5:release=120:makeup=2,"
-        "loudnorm=I=-15:TP=-2:LRA=7,asplit=2[v][vkey]",
-        # musique : même base de loudness puis -22 dB, -28 dB pendant le hook
+        "[0:a]asplit=2[v][vkey]",
+        # musique : base de loudness commune puis -27 dB (-32 dB pendant le hook), sans grave
+        # ni zone 1-4 kHz (celle de la voix)
         f"[1:a]atrim=0:{total + 0.3:.2f},asetpts=PTS-STARTPTS,loudnorm=I=-16:TP=-3,"
-        f"volume='if(lt(t,{he:.2f}),0.06,0.13)':eval=frame,"
+        "highpass=f=130,equalizer=f=2500:t=q:w=0.7:g=-6,"
+        f"volume='if(lt(t,{he:.2f}),0.04,0.07)':eval=frame,"
         f"afade=t=in:d=0.4,afade=t=out:st={max(total - 1.5, 0):.2f}:d=1.5[m]",
-        "[m][vkey]sidechaincompress=threshold=0.02:ratio=12:attack=8:release=350:makeup=1[duck]",
+        "[m][vkey]sidechaincompress=threshold=0.015:ratio=12:attack=8:release=400:makeup=1[duck]",
     ]
     mix_in, n = "[v][duck]", 2
     for i, (t, kind) in enumerate(cues):
         inputs += ["-i", str(bank[kind])]
         lead = 0.2 if kind in ("whoosh", "swoosh") else (1.25 if kind == "riser" else 0.0)
         ms = int(max(t - lead, 0) * 1000) if kind != "riser" else int(max(t, 0) * 1000)
-        filt.append(f"[{n}:a]volume={vol.get(kind, 0.2)},adelay={ms}|{ms}[s{i}]")
+        filt.append(f"[{n}:a]highpass=f=60,volume={vol.get(kind, 0.05)},adelay={ms}|{ms}[s{i}]")
         mix_in += f"[s{i}]"
         n += 1
     # somme sans renormalisation dynamique (qui remonterait la musique dans les silences)
-    filt.append(f"{mix_in}amix=inputs={n}:duration=first:normalize=0,alimiter=limit=0.89:level=false[a]")
+    filt.append(f"{mix_in}amix=inputs={n}:duration=first:normalize=0,alimiter=limit=0.89:attack=3:release=60:level=false[a]")
     out = work / "mix.m4a"
     subprocess.run(["ffmpeg", "-y", "-v", "error", *inputs, "-filter_complex", ";".join(filt),
                     "-map", "[a]", "-c:a", "aac", "-b:a", "192k", "-ar", "44100", str(out)], check=True)

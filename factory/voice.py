@@ -213,7 +213,7 @@ def _tts_fish(sent: str, out: Path, tone: str) -> None:
     key = _fish_key()
     speed = float(os.environ.get("FISH_SPEED", 0) or FISH_SPEED.get(tone, 1.18))
     body = json.dumps({"text": sent, "reference_id": FISH_VOICE, "format": "mp3",
-                       "mp3_bitrate": 128, "latency": "normal", "normalize": True,
+                       "mp3_bitrate": 192, "latency": "normal", "normalize": True,
                        # un peu plus de liberté au modèle = intonation plus vivante
                        "temperature": 1.0, "top_p": 0.9,
                        "prosody": {"speed": speed}}).encode()
