@@ -1,0 +1,16 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/ia/2026-10-10_1900/video.mp4",
+ "duration": 73.769,
+ "scenes": 6,
+ "music": {
+  "file": "mystere.mp3",
+  "bpm": 152.0,
+  "offset": 31.230999999999995
+ },
+ "sfx": 11,
+ "engine": "remotion TechShort",
+ "voice_engine": "fish",
+ "repo_path": "videos/ia/2026/10/2026-10-10_1900.mp4",
+ "raw_url": "https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/videos/ia/2026/10/2026-10-10_1900.mp4",
+ "render_seconds": 510.1
+}

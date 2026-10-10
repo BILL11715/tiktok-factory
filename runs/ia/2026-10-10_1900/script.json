@@ -1,0 +1,131 @@
+{
+ "title": "Pourquoi l'IA invente avec aplomb",
+ "theme": "ia",
+ "pillar": "ia",
+ "format": "mythe",
+ "music": "mystere",
+ "hook_text": "L'IA t'a déjà menti avec un aplomb incroyable ? Voilà pourquoi.",
+ "segments": [
+  {
+   "text": "L'IA t'a déjà menti avec un aplomb incroyable ? Voilà pourquoi.",
+   "emphasis": [
+    "menti"
+   ]
+  },
+  {
+   "text": "Tu lui demandes un livre sur un sujet. Elle te donne un titre, un auteur, une année. Tu cherches, et le livre n'existe pas.",
+   "visual": {
+    "kind": "chat",
+    "name": "IA",
+    "user": "Donne-moi un livre de référence sur l'histoire du pain.",
+    "assistant": "Bien sûr ! « Le Pain des Siècles », de Jean Morel, paru en 1987. (Exemple inventé : ce livre n'existe pas.)"
+   }
+  },
+  {
+   "text": "Ça porte un nom : une hallucination. Et non, ce n'est pas un bug, c'est la façon dont ces outils fonctionnent.",
+   "stamp": "hallucination"
+  },
+  {
+   "text": "Le mythe, c'est de croire que l'IA cherche la réponse dans une grande base de faits, comme une encyclopédie.",
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "Le mythe",
+     "items": [
+      "Une encyclopédie géante",
+      "Elle cherche la réponse",
+      "Toujours vrai"
+     ]
+    },
+    "right": {
+     "title": "La réalité",
+     "items": [
+      "Elle prédit des mots",
+      "Elle écrit ce qui sonne juste",
+      "Parfois faux"
+     ]
+    }
+   }
+  },
+  {
+   "text": "En réalité, elle écrit mot après mot, en choisissant à chaque fois le mot le plus probable après les précédents."
+  },
+  {
+   "text": "Comme ton téléphone qui te propose le mot suivant dans un SMS. Sauf qu'ici, elle a lu une quantité énorme de textes.",
+   "visual": {
+    "kind": "title",
+    "kicker": "L'image simple",
+    "text": "Une autocomplétion géante",
+    "highlight": "autocomplétion",
+    "sub": "Elle prédit le mot suivant"
+   }
+  },
+  {
+   "text": "Donc quand elle ne sait pas, elle n'a pas le réflexe de dire je ne sais pas. Elle écrit ce qui ressemble à une bonne réponse.",
+   "sfx": true,
+   "emphasis": [
+    "ressemble"
+   ]
+  },
+  {
+   "text": "Un titre crédible, une date précise, un chiffre rond. Tout a l'air vrai, parce que c'est fait pour avoir l'air vrai."
+  },
+  {
+   "text": "Bonne nouvelle : trois réflexes réduisent le risque. Donne-lui le document, autorise le doute, et demande les sources.",
+   "visual": {
+    "kind": "list",
+    "title": "3 réflexes",
+    "items": [
+     "Donne le document",
+     "Autorise le doute",
+     "Demande les sources"
+    ],
+    "at": [
+     "document",
+     "doute",
+     "sources"
+    ]
+   }
+  },
+  {
+   "text": "Un : colle le texte ou le PDF dans la conversation. Elle répond à partir de ce que tu lui donnes, pas de sa mémoire."
+  },
+  {
+   "text": "Deux : écris, si tu n'es pas sûr, dis-le. Ça paraît bête, mais ça lui donne le droit de ne pas inventer.",
+   "visual": {
+    "kind": "chat",
+    "name": "Claude",
+    "user": "Résume ce contrat. Si une info n'y est pas, dis-le au lieu de deviner.",
+    "assistant": "D'accord. Le contrat dure 12 mois. En revanche, il ne précise pas le montant des pénalités : je préfère ne pas l'inventer."
+   }
+  },
+  {
+   "text": "Trois : pour tout ce qui compte vraiment, un chiffre, une loi, un médicament, demande d'où vient l'info et vérifie toi-même."
+  },
+  {
+   "text": "Les IA progressent vite, mais aucune ne fait zéro erreur. C'est un super assistant, pas un oracle.",
+   "visual": {
+    "kind": "title",
+    "kicker": "À retenir",
+    "text": "Un assistant, pas un oracle",
+    "highlight": "assistant",
+    "sub": "Plus c'est important, plus tu vérifies"
+   }
+  },
+  {
+   "text": "La règle d'or : plus la réponse a de conséquences, plus tu vérifies.",
+   "stamp": "vérifie"
+  },
+  {
+   "text": "Et toi, c'est quoi la pire invention qu'une IA t'ait sortie ? Raconte-moi ça en commentaire."
+  }
+ ],
+ "caption": "Pourquoi l'IA invente des réponses avec aplomb, et 3 réflexes pour l'éviter 🤖",
+ "hashtags": [
+  "#ia",
+  "#chatgpt",
+  "#claude",
+  "#astuceia",
+  "#hallucination"
+ ]
+}
