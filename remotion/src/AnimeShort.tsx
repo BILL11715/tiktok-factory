@@ -29,6 +29,7 @@ export type Shot = {
   video?: string; // extrait vidéo 1080x1920 muet dans public/ (prioritaire sur src)
   videoStart?: number; // frame de départ dans l'extrait
   motion?: string; // zoom-in | zoom-out | pan-left | pan-right | drift-up | static
+  flip?: boolean; // miroir horizontal (plan réutilisé : il ne revient jamais à l'identique)
   grade?: string; // normal | bw | cinematic | vivid | warm | cold
   trans?: string; // cut | whip | zoom | glitch | flash | slide
   fx?: string; // hook | punch
@@ -172,7 +173,7 @@ const ShotLayer: React.FC<{ shot: Shot; isFirst: boolean }> = ({ shot, isFirst }
         height: H * ov,
         left: (W - W * ov) / 2,
         top: (H - H * ov) / 2,
-        transform: `translate(${tx + extraX + dx}px, ${ty + extraY}px) scale(${scale * extraScale})`,
+        transform: `translate(${tx + extraX + dx}px, ${ty + extraY}px) scale(${scale * extraScale})${shot.flip ? " scaleX(-1)" : ""}`,
         filter: hue ? `${filter === "none" ? "" : filter} hue-rotate(${hue}deg) saturate(2)` : filter,
         clipPath: clip,
         objectFit: "cover",

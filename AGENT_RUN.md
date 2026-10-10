@@ -15,7 +15,13 @@ Bill n'est pas là pendant le run : ne pose aucune question, décide et continue
 1. **Repo** : appelle `add_repo` (owner BILL11715, repo tiktok-factory, access push) puis
    `git clone --depth 20 https://github.com/BILL11715/tiktok-factory /home/claude/tiktok-factory`
    (timeout long). Config git : user.name "Bill Hounmenou", user.email "yanndevfrance04@gmail.com".
-2. **Installation en arrière-plan tout de suite** :
+2. **Clé de voix Fish Audio** : le message de la tâche planifiée contient la clé Fish Audio de Bill.
+   Écris-la seule dans `/tmp/tf-fish-key` (`umask 077; printf '%s' '<clé>' > /tmp/tf-fish-key`,
+   ou l'outil Write puis `chmod 600`) AVANT le setup. Ne la recopie JAMAIS ailleurs : ni dans le
+   repo (public), ni dans un commit, ni dans Notion, Buffer ou ton message de fin.
+   Après le setup, `/tmp/tf-setup.out` doit afficher "voix Fish Audio" ; sinon vérifie le fichier
+   (`wc -c /tmp/tf-fish-key`) et relance setup.sh avant le rendu (sans Fish, la voix retombe sur Piper).
+   **Installation en arrière-plan tout de suite** :
    `cd /home/claude/tiktok-factory && nohup bash setup.sh > /tmp/tf-setup.out 2>&1 &`
    (ça tourne pendant que tu écris le script).
 3. **Contexte** : lis `EDITORIAL.md` et les 30 dernières lignes de `history.jsonl`, puis lance
@@ -137,5 +143,16 @@ Règles (le pipeline refuse le script si les points marqués ⛔ manquent) :
   Jamais plus d'une par phrase, jamais dans `hook_text` (c'est le texte affiché). Elles sont
   retirées automatiquement des sous-titres et ne comptent pas dans la longueur.
   Exemple : `{"text": "[whispering] Reste jusqu'à la fin, j'te donne le nom."}`
+- **Fil conducteur (obligatoire)** : la vidéo raconte UNE histoire du début à la fin, pas une
+  liste de faits. Structure : hook (tension) → boucle ouverte ("reste jusqu'au bout...") →
+  contexte (le monde, le héros) → enjeu ou mystère → montée (persos, combats, révélations) →
+  payoff qui répond à la boucle ouverte (le nom, le numéro 1, la date) → signature. Chaque
+  segment doit donner envie d'entendre le suivant (relances : "et c'est là que ça dérape",
+  "sauf que", "attends la suite").
+- **Variété visuelle (automatique)** : chaque segment devient un « chapitre » visuel tiré d'une
+  seule source (un opening, un extrait sakuga, les vignettes d'épisodes), les plans d'action
+  sont gardés pour la montée, et aucun plan ne revient à l'identique (miroir, autre portion,
+  autre cadrage). Pour aider : nomme les persos, et mets `"shots": [{"kind": "wide"}]` sur un
+  segment de contexte (décor, monde) pour varier avec les extraits.
 - Découpe en 10 à 16 segments courts (1 à 2 phrases). Phrases de 6 mots minimum (la voix
   clonée gère mal les phrases de 2-3 mots isolées, elles sont regroupées automatiquement).

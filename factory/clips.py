@@ -50,9 +50,12 @@ def _norm(s: str) -> str:
 
 
 # ------------------------------------------------------------------ AnimeThemes
-def animethemes_videos(name: str, anilist_id: int | None = None, limit: int = 3) -> list[dict]:
+def animethemes_videos(name: str, anilist_id: int | None = None, limit: int = 3,
+                       franchise: bool = False) -> list[dict]:
+    """Openings/endings officiels. franchise=True : toutes les saisons dont le nom commence
+    par `name` (saison 1, suites...), la plus récente d'abord."""
     q = urllib.parse.quote(name)
-    url = (f"https://api.animethemes.moe/anime?q={q}&page[size]=6"
+    url = (f"https://api.animethemes.moe/anime?q={q}&page[size]=10"
            f"&include=animethemes.animethemeentries.videos,resources")
     data = _get_json(url).get("anime", [])
     if not data:
@@ -65,27 +68,41 @@ def animethemes_videos(name: str, anilist_id: int | None = None, limit: int = 3)
         return 10 if _norm(a.get("name", "")) == _norm(name) else 0
 
     data.sort(key=lambda a: (-score(a), -(a.get("year") or 0)))
-    anime = data[0]
+    if franchise:
+        animes = [a for a in data if _norm(a.get("name", "")).startswith(_norm(name))][:4]
+    else:
+        animes = data[:1]
     vids = []
-    for th in anime.get("animethemes", []):
-        for en in th.get("animethemeentries", []):
-            if en.get("nsfw"):
-                continue
-            best = None
-            for v in en.get("videos", []):
-                res = v.get("resolution") or 0
-                key = (bool(v.get("nc")), res <= 1080, res, v.get("source") == "BD")
-                if best is None or key > best[0]:
-                    best = (key, v)
-            if best:
-                v = best[1]
-                vids.append({"url": v["link"], "nc": bool(v.get("nc")), "res": v.get("resolution"),
-                             "label": f"{anime['name']} {th.get('slug')}", "source": "AnimeThemes",
-                             "type": th.get("type")})
+    for anime in animes:
+        for th in anime.get("animethemes", []):
+            for en in th.get("animethemeentries", []):
+                if en.get("nsfw"):
+                    continue
+                best = None
+                for v in en.get("videos", []):
+                    res = v.get("resolution") or 0
+                    key = (bool(v.get("nc")), res <= 1080, res, v.get("source") == "BD")
+                    if best is None or key > best[0]:
+                        best = (key, v)
+                if best:
+                    v = best[1]
+                    vids.append({"url": v["link"], "nc": bool(v.get("nc")), "res": v.get("resolution"),
+                                 "label": f"{anime['name']} {th.get('slug')}", "source": "AnimeThemes",
+                                 "type": th.get("type"), "year": anime.get("year") or 0})
     # sans version "nc" les crédits sont incrustés : on ne garde alors que les openings
     vids = [v for v in vids if v["nc"] or v["type"] == "OP"]
-    vids.sort(key=lambda v: (not v["nc"], v["type"] != "OP"))
+    vids.sort(key=lambda v: (-v["year"], not v["nc"], v["type"] != "OP"))
     return vids[:limit]
+
+
+def base_title(name: str) -> str:
+    """Nom de la franchise : 'Dandadan 3rd Season' -> 'Dandadan',
+    'Tokyo Revengers: Santen Sensou-hen' -> 'Tokyo Revengers'."""
+    b = re.split(r"\s*[:(]\s*", name)[0]
+    b = re.sub(r"\s+(season|saison|part|cour)\s*\d+.*$", "", b, flags=re.I)
+    b = re.sub(r"\s+\d+(st|nd|rd|th)\s+(season|part|cour).*$", "", b, flags=re.I)
+    b = re.sub(r"\s+(ii|iii|iv|\d)$", "", b, flags=re.I)
+    return b.strip()
 
 
 # ------------------------------------------------------------------ Sakugabooru
@@ -166,7 +183,7 @@ FRAME_9x16 = (
 )
 
 
-def collect(animes: list[str], work: Path, index: dict | None = None, per_anime: int = 40) -> dict:
+def collect(animes: list[str], work: Path, index: dict | None = None, per_anime: int = 60) -> dict:
     """Retourne {anime: [{"path","dur","tag","source"}...]} et écrit work/clips.json."""
     out_dir = work / "clips"
     out_dir.mkdir(parents=True, exist_ok=True)
@@ -180,23 +197,61 @@ def collect(animes: list[str], work: Path, index: dict | None = None, per_anime:
         names = [anime] + [n for n in (titles.get("en_jp"), titles.get("en"), meta.get("title"))
                            if n and _norm(n) != _norm(anime)]
         names = list(dict.fromkeys(names))
+        bases = list(dict.fromkeys(b for b in (base_title(n) for n in names) if len(b) >= 5))
         sources: list[dict] = []
-        for fn in (sakuga_videos, lambda n: animethemes_videos(n, anilist_id)):
-            for n in names:
-                try:
-                    got = fn(n)
-                except Exception as exc:
-                    print(f"[clips] {fn.__name__ if hasattr(fn, '__name__') else 'source'} indisponible pour {n} ({exc})")
-                    got = []
-                if got:
-                    sources += got
-                    break
+        seen: set = set()
+
+        def _add(got):
+            for g in got:
+                if g["url"] not in seen:
+                    seen.add(g["url"])
+                    sources.append(g)
+
+        # a) openings/endings de la saison demandée
+        for n in names:
+            try:
+                got = animethemes_videos(n, anilist_id, limit=3)
+            except Exception as exc:
+                print(f"[clips] AnimeThemes indisponible pour {n} ({exc})")
+                got = []
+            if got:
+                _add(got)
+                break
+        # b) extraits sakuga (saison puis franchise)
+        for n in names + bases:
+            try:
+                got = sakuga_videos(n)
+            except Exception as exc:
+                print(f"[clips] Sakugabooru indisponible pour {n} ({exc})")
+                got = []
+            if got:
+                _add(got)
+                break
+        # c) openings/endings des autres saisons de la franchise : de la matière en plus
+        for b in bases:
+            try:
+                _add(animethemes_videos(b, None, limit=5, franchise=True))
+            except Exception as exc:
+                print(f"[clips] AnimeThemes (franchise) indisponible pour {b} ({exc})")
+        themes = [v for v in sources if v["source"] == "AnimeThemes"][:5]
+        sakus = [v for v in sources if v["source"] == "Sakugabooru"]
+        # alterner les sources pour ne pas tout prendre dans un seul opening
+        order: list[dict] = []
+        while themes or sakus:
+            if themes:
+                order.append(themes.pop(0))
+            for _ in range(3):
+                if sakus:
+                    order.append(sakus.pop(0))
+        sources = order
         shots: list[dict] = []
-        budget = per_anime if len(animes) == 1 else max(12, per_anime // len(animes))
+        budget = per_anime if len(animes) == 1 else max(14, per_anime // len(animes))
+        n_themes = max(1, sum(1 for v in sources if v["source"] == "AnimeThemes"))
+        per_theme = max(8, min(16, budget // n_themes))
         for k, v in enumerate(sources):
             if len(shots) >= budget:
                 break
-            if v["source"] == "Sakugabooru" and sum(1 for x in shots if "Sakuga" in x.get("source", "")) >= budget * 2 // 3:
+            if v["source"] == "Sakugabooru" and sum(1 for x in shots if "Sakuga" in x.get("source", "")) >= budget // 2:
                 continue
             ext = ".webm" if v["url"].endswith(".webm") else ".mp4"
             src = raw / f"a{ai}_{k}{ext}"
@@ -205,9 +260,11 @@ def collect(animes: list[str], work: Path, index: dict | None = None, per_anime:
             is_theme = v["source"] == "AnimeThemes"
             # openings : on saute le titre et la fin (crédits, logo)
             got = split(src, out_dir, f"a{ai}_{k}", 3.0 if is_theme else 0.0, 5.0 if is_theme else 0.0,
-                        min(14 if is_theme else 3, budget - len(shots)))
-            for g in got:
+                        min(per_theme if is_theme else 3, budget - len(shots)))
+            for i, g in enumerate(got):
                 g["source"] = f"{v['source']} ({v['label']})"
+                g["order"] = i  # ordre chronologique dans la source (continuité du montage)
+                g["energy"] = "high" if not is_theme else "mid"
             shots += got
             src.unlink(missing_ok=True)
         print(f"[clips] {anime} : {len(shots)} extraits ({', '.join(sorted({s['source'].split(' (')[0] for s in shots})) or 'aucun'})")

@@ -62,12 +62,27 @@ def snap(t: float, beats: list[float], tol: float = 0.22) -> float:
 
 
 # ------------------------------------------------------------------ montage v4 (extraits vidéo)
-def _compose_fill(src: str, dest: Path) -> None:
+def _variant(im, k: int):
+    """Recadrage n°k d'une image (k=0 : entière). Une image réutilisée ne revient jamais avec
+    le même cadre : gros plan haut, bas, gauche, droite..."""
+    if k <= 0:
+        return im
+    w, h = im.size
+    z = 0.62 if k % 2 else 0.72
+    cw, ch = int(w * z), int(h * z)
+    spots = [(0.5, 0.25), (0.5, 0.75), (0.2, 0.5), (0.8, 0.5), (0.5, 0.5), (0.25, 0.3), (0.75, 0.7)]
+    fx, fy = spots[(k - 1) % len(spots)]
+    x = int(min(max(0, fx * w - cw / 2), w - cw))
+    y = int(min(max(0, fy * h - ch / 2), h - ch))
+    return im.crop((x, y, x + cw, y + ch))
+
+
+def _compose_fill(src: str, dest: Path, variant: int = 0) -> None:
     """Image plein écran 1231x2188 : fond flou + image nette centrée (persos), ou recadrage
     plein cadre si l'image est déjà assez verticale."""
     from PIL import Image, ImageFilter, ImageEnhance  # type: ignore
     W2, H2 = 1231, 2188
-    im = Image.open(src).convert("RGB")
+    im = _variant(Image.open(src).convert("RGB"), variant)
     r = im.width / im.height
     bg = im.copy()
     s = max(W2 / bg.width, H2 / bg.height)
@@ -95,10 +110,13 @@ def plan_v4(script: dict, tl: list, index: dict, clips: dict, rng: random.Random
     for si, (seg, x) in enumerate(zip(script["segments"], tl)):
         anime = (seg.get("shots") or [{}])[0].get("anime", main)
         forced = {_norm(sh["at"].split()[0]): sh for sh in seg.get("shots") or [] if sh.get("at")}
+        opener = next((sh for sh in seg.get("shots") or [] if not sh.get("at") and sh.get("kind") not in (None, "any", "clip")), None)
         for wi, w in enumerate(x["words"]):
             nw = _norm(re.sub(r"^(d|l|qu|j|n|s|t|m|c)['’]", "", w["w"], flags=re.I))  # d'Aoi -> aoi
             cue = None
-            if nw and nw in forced:
+            if wi == 0 and opener is not None and si > 0:
+                cue = {"anime": opener.get("anime", anime), "kind": opener["kind"], "character": opener.get("character")}
+            elif nw and nw in forced:
                 sh = forced.pop(nw)
                 cue = {"anime": sh.get("anime", anime), "kind": sh.get("kind", "any"), "character": sh.get("character")}
             elif len(nw) >= 3:
@@ -110,6 +128,12 @@ def plan_v4(script: dict, tl: list, index: dict, clips: dict, rng: random.Random
                           "sfx": bool(seg.get("sfx")) and wi == 0})
     total = tl[-1]["slot_end"]
     hook_end = tl[0]["slot_end"] if script.get("hook_text") else 0.0
+    # Peu de visuels différents = plans plus longs, pour ne pas tourner en boucle.
+    # Objectif : chaque extrait/image n'apparaît qu'une fois (au pire deux, recadré).
+    n_media = sum(len(v) for v in clips.values()) + sum(
+        len(e.get("wide", [])) + len(e.get("tall", [])) for e in index.values())
+    pace = min(2.6, max(1.0, (total - hook_end) / max(1, n_media) * 1.1))
+    lo, hi = pace * 0.8, pace * 1.35
     shots: list[dict] = []
     last_t, target = -9.0, 0.0
     for w in words:
@@ -141,53 +165,131 @@ def plan_v4(script: dict, tl: list, index: dict, clips: dict, rng: random.Random
                           "role": "hook" if in_hook else None, "seg": w["seg"]})
             last_t = t
             target = rng.uniform(0.45, 0.7) if in_hook else (rng.uniform(1.4, 2.0) if c.get("character")
-                                                             else rng.uniform(0.8, 1.5))
+                                                             else rng.uniform(lo, hi))
     shots[-1]["end"] = total
     return shots
 
 
+class _Story:
+    """Distribue les extraits comme une histoire, pas comme une playlist en boucle :
+    - chaque segment du script = un « chapitre » tiré d'une seule source (un opening, un
+      extrait sakuga), dont les plans défilent dans leur ordre d'origine (continuité) ;
+    - les sources tournent d'un chapitre à l'autre ; les extraits d'action (sakuga) sont
+      gardés pour la montée (2e moitié, révélations) ;
+    - un extrait ne revient qu'une fois tout le stock passé, et alors en miroir, sur une
+      autre portion et avec un autre mouvement de caméra."""
+
+    def __init__(self, clips: dict, rng: random.Random):
+        self.rng = rng
+        self.by_anime: dict = {}
+        for a, v in clips.items():
+            groups: dict = {}
+            for c in v:
+                groups.setdefault(c.get("tag", "x"), []).append(c)
+            for g in groups.values():
+                g.sort(key=lambda c: (c.get("order", 0), c["path"]))
+            self.by_anime[a] = groups
+        self.uses: dict = {}
+        self.chapter: dict = {}
+        self.last_tag: dict = {}
+        self.last_clip = None
+
+    def _tags(self, anime):
+        return self.by_anime.get(anime) or next((g for g in self.by_anime.values() if g), {})
+
+    def exhausted(self, anime: str) -> bool:
+        groups = self._tags(anime)
+        return bool(groups) and all(self.uses.get(c["path"], 0) > 0 for g in groups.values() for c in g)
+
+    def pick(self, anime: str, seg: int, late: bool, punch: bool):
+        groups = self._tags(anime)
+        if not groups:
+            return None, 0
+        key = (anime, seg)
+        rnd = lambda c: self.uses.get(c["path"], 0)
+        def fresh(tag):
+            return [c for c in groups[tag] if rnd(c) == min(rnd(x) for x in groups[tag])]
+        tag = self.chapter.get(key)
+        if tag is None or not fresh(tag) or punch:
+            low = min(rnd(c) for g in groups.values() for c in g)
+            cands = [t for t, g in groups.items() if any(rnd(c) == low for c in g)]
+            if len(cands) > 1 and self.last_tag.get(anime) in cands:
+                cands.remove(self.last_tag[anime])
+            high = [t for t in cands if groups[t][0].get("energy") == "high"]
+            mid = [t for t in cands if t not in high]
+            pool = (high or mid) if (late or punch) else (mid or high)
+            tag = self.rng.choice(pool)
+            if not punch:
+                self.chapter[key] = tag
+        self.last_tag[anime] = tag
+        low = min(rnd(c) for c in groups[tag])
+        options = [c for c in groups[tag] if rnd(c) == low and c is not self.last_clip] or groups[tag]
+        c = options[0]  # ordre d'origine dans la source
+        n = rnd(c)
+        self.uses[c["path"]] = n + 1
+        self.last_clip = c
+        return c, n
+
+
 def assign_media(shots: list[dict], index: dict, clips: dict, pub: Path, rng: random.Random) -> list[dict]:
-    """Associe un extrait vidéo (ou une image) à chaque plan, sans répéter un extrait tant
-    qu'il en reste. Un plan plus long que son extrait est découpé."""
+    """Associe un extrait vidéo (ou une image) à chaque plan. Aucun plan ne revient à
+    l'identique : extrait déjà vu = miroir + autre portion, image déjà vue = autre cadrage."""
     (pub / "clips").mkdir(exist_ok=True)
-    pools = {a: rng.sample(v, len(v)) for a, v in clips.items() if v}
-    all_clips = [c for v in pools.values() for c in v]
-    used_clips: dict = {a: 0 for a in pools}
+    story = _Story(clips, rng)
+    total = shots[-1]["end"] if shots else 1.0
+    img_uses: dict = {}
     used_imgs: list = []
     out = []
-    for k, s in enumerate(shots):
+
+    def still(k, s, img):
+        v = img_uses.get(img, 0)
+        img_uses[img] = v + 1
+        name = f"img/s{k:03d}.jpg"
+        _compose_fill(img, pub / name, variant=v)
+        return {**s, "src": name, "flip": v % 2 == 1 and not s.get("character")}
+
+    k = 0
+    while k < len(shots):
+        s = shots[k]
         dur = s["end"] - s["start"]
         if s.get("character") or s.get("kind") in ("character", "poster", "wide"):
             img = A.pick(index, s["anime"], s.get("kind") if s.get("kind") != "clip" else "any",
                          s.get("character"), used_imgs)
             if img:
-                name = f"img/s{k:03d}.jpg"
-                _compose_fill(img, pub / name)
-                out.append({**s, "src": name})
+                out.append(still(k, s, img))
+                k += 1
                 continue
-        pool = pools.get(s["anime"]) or ([c for c in all_clips] if all_clips else [])
-        if pool:
-            key = s["anime"] if s["anime"] in pools else next(iter(pools))
-            pool = pools[key]
-            c = pool[used_clips[key] % len(pool)]
-            used_clips[key] += 1
+        late = s["start"] > total * 0.55
+        if story.exhausted(s["anime"]):
+            # tous les extraits déjà vus : d'abord les images jamais montrées (vignettes d'épisodes)
+            e = index.get(s["anime"]) or next(iter(index.values()), {})
+            fresh_img = next((p for p in e.get("wide", []) + e.get("tall", []) if p not in img_uses), None)
+            if fresh_img:
+                out.append(still(k, s, fresh_img))
+                k += 1
+                continue
+        c, n = story.pick(s["anime"], s.get("seg", 0), late, s.get("fx") == "punch")
+        if c is not None:
             dst = pub / "clips" / Path(c["path"]).name
             if not dst.exists():
                 shutil.copy(c["path"], dst)
-            # départ aléatoire dans l'extrait s'il est plus long que le plan
             room = max(0.0, c["dur"] - dur - 0.1)
             if c["dur"] + 0.05 < dur and dur > 1.6:  # extrait trop court : on coupe le plan en deux
                 mid = s["start"] + c["dur"]
-                out.append({**s, "end": mid, "video": f"clips/{dst.name}", "vstart": 0.0})
+                out.append({**s, "end": mid, "video": f"clips/{dst.name}", "vstart": 0.0, "flip": n % 2 == 1})
                 shots.insert(k + 1, {**s, "start": mid, "fx": None, "role": s.get("role")})
+                k += 1
                 continue
-            out.append({**s, "video": f"clips/{dst.name}", "vstart": rng.uniform(0, room) if room else 0.0})
+            # 1er passage : début de l'extrait (continuité) ; passages suivants : autre portion
+            vstart = 0.0 if n == 0 else room * (1.0 if n % 2 else 0.5)
+            out.append({**s, "video": f"clips/{dst.name}", "vstart": max(0.0, vstart), "flip": n % 2 == 1,
+                        "reuse": n})
+            k += 1
             continue
         img = A.pick(index, s["anime"], "wide", None, used_imgs) or A.pick(index, s["anime"], "any", None, used_imgs)
         if img:
-            name = f"img/s{k:03d}.jpg"
-            _compose_fill(img, pub / name)
-            out.append({**s, "src": name})
+            out.append(still(k, s, img))
+        k += 1
     return out
 
 
@@ -274,7 +376,10 @@ def build_v4(script: dict, voice: dict, index: dict, clips: dict, work: Path, pu
             else:
                 trans = "cut" if rng.random() < 0.85 else "whip"
         item = {"from": f(s["start"]), "dur": max(1, f(s["end"]) - f(s["start"])), "src": s.get("src", ""),
-                "motion": rng.choice(["zoom-in", "zoom-in", "zoom-out", "drift-up"]) if not s.get("video") else "zoom-in",
+                "motion": (rng.choice(["zoom-in", "zoom-out", "pan-left", "pan-right", "drift-up"])
+                           if not s.get("video") else
+                           ("zoom-in" if not s.get("reuse") else rng.choice(["zoom-out", "pan-left", "pan-right"]))),
+                "flip": bool(s.get("flip")),
                 "grade": grade, "trans": trans, "fx": s.get("fx"), "seed": k * 17 + 3}
         if s.get("video"):
             item["video"], item["videoStart"] = s["video"], f(s.get("vstart", 0.0))
@@ -283,7 +388,8 @@ def build_v4(script: dict, voice: dict, index: dict, clips: dict, work: Path, pu
             cues.append((s["start"], {"whip": "whoosh", "zoom": "swoosh", "glitch": "glitch",
                                       "flash": "impact" if s.get("fx") else "swoosh"}.get(trans)))
     props, thin = _dress(script, tl, hook_end, total, tone, cues, props_shots, max_words=2)
-    props["particles"] = None  # extraits vidéo : pas de particules par-dessus
+    if any(clips.values()):
+        props["particles"] = None  # extraits vidéo : pas de particules par-dessus
     (work / "timeline.json").write_text(json.dumps(props, ensure_ascii=False))
     return props, thin, music
 
@@ -307,8 +413,9 @@ def build(script: dict, voice: dict, index: dict, work: Path, rng: random.Random
     beats = music["beats_local"]
 
     clips = json.loads((work / "clips.json").read_text()) if (work / "clips.json").exists() else {}
-    if any(clips.values()):
-        return build_v4(script, voice, index, clips, work, pub, music, rng)
+    # même moteur avec ou sans extraits : sans extraits, les images (vignettes d'épisodes,
+    # affiches, persos) sont recadrées et retournées pour ne jamais repasser à l'identique
+    return build_v4(script, voice, index, clips, work, pub, music, rng)
     # 1) plan de base (synchro des noms) puis montage rapide du hook
     base = plan_shots(script, tl, index, rng)
     hook_end = tl[0]["slot_end"] if script.get("hook_text") else 0

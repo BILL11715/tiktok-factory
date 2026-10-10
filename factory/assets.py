@@ -145,6 +145,8 @@ def jikan_images(query: str) -> dict:
 ANILIST = "https://graphql.anilist.co"
 _AL_Q = """query($q:String){Media(search:$q,type:ANIME,sort:POPULARITY_DESC){id siteUrl
  title{romaji english} coverImage{extraLarge} bannerImage
+ streamingEpisodes{thumbnail}
+ relations{edges{relationType node{type bannerImage coverImage{extraLarge} streamingEpisodes{thumbnail}}}}
  characters(sort:[ROLE,FAVOURITES_DESC],perPage:25){nodes{name{full alternative} image{large}}}}}"""
 
 
@@ -164,6 +166,18 @@ def anilist_images(query: str) -> dict:
                 out["poster"].append(m["coverImage"]["extraLarge"])
             if m.get("bannerImage"):
                 out["wide"].append(m["bannerImage"])
+            # vignettes d'épisodes (saison + saison précédente) et visuels de la franchise :
+            # bien plus de plans différents qu'avec 2 affiches
+            out["wide"] += [e["thumbnail"] for e in (m.get("streamingEpisodes") or []) if e.get("thumbnail")][:24]
+            for e in ((m.get("relations") or {}).get("edges") or []):
+                n = e.get("node") or {}
+                if n.get("type") != "ANIME" or e.get("relationType") not in ("PREQUEL", "SEQUEL", "PARENT", "SIDE_STORY"):
+                    continue
+                if n.get("bannerImage"):
+                    out["wide"].append(n["bannerImage"])
+                if (n.get("coverImage") or {}).get("extraLarge"):
+                    out["poster"].append(n["coverImage"]["extraLarge"])
+                out["wide"] += [x["thumbnail"] for x in (n.get("streamingEpisodes") or []) if x.get("thumbnail")][:16]
             for n in m["characters"]["nodes"]:
                 img = (n.get("image") or {}).get("large")
                 if img and "default" not in img:
