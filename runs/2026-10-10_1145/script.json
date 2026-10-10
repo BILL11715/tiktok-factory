@@ -1,0 +1,30 @@
+{
+  "title": "Théorie Steel Ball Run : et si Valentine était le vrai héros ?",
+  "format": "theorie",
+  "tone": "conteur",
+  "music": "mystere",
+  "animes": ["STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE"],
+  "hook_text": "Le vrai héros de Steel Ball Run, c'est peut-être le méchant",
+  "spoiler": true,
+  "spoiler_label": "manga Steel Ball Run",
+  "segments": [
+    {"text": "Le vrai héros de Steel Ball Run, c'est peut-être le méchant.", "sfx": true, "emphasis": ["héros"]},
+    {"text": "[whispering] Reste jusqu'au bout, j'ai un indice que presque personne relève, et il change tout.", "grade": "bw"},
+    {"text": "Petit rappel. Johnny, c'est un ancien jockey paralysé, et il fait cette course parce qu'il veut remarcher.", "emphasis": ["remarcher"]},
+    {"text": "Gyro, lui, veut gagner pour faire gracier un gamin condamné à mort dans son pays. Jusque-là, tout va bien.", "shots": [{"kind": "wide"}]},
+    {"text": "Et en face y'a Funny Valentine, le président des États-Unis, avec un Stand qui ouvre des mondes parallèles, D4C.", "sfx": true, "emphasis": ["D4C"]},
+    {"text": "Sauf que lui, il veut pas le cadavre du Saint pour devenir riche ou immortel, frr. C'est là que ça devient chelou.", "emphasis": ["cadavre"]},
+    {"text": "Il le veut pour que toute la chance du monde tombe sur son pays. Il se sert pas, il sert l'Amérique."},
+    {"text": "Si t'aimes quand on retourne un méchant dans tous les sens, abonne-toi, je décortique Steel Ball Run toute la saison.", "cta": true},
+    {"text": "[excited] Premier indice, le discours de la serviette. Celui qui prend la serviette en premier décide des règles pour toute la table.", "emphasis": ["serviette"]},
+    {"text": "Et Valentine dit clairement qu'il veut être celui qui la prend. Pour son peuple, pas pour lui.", "stamp": "PATRIOTE"},
+    {"text": "[sad] Deuxième indice, son passé. Son père est mort à la guerre, et Valentine a grandi avec ce vide-là.", "grade": "bw", "emphasis": ["guerre"]},
+    {"text": "Troisième indice, celui que personne remarque. Avec D4C, s'il tombe, un autre Valentine d'un monde parallèle peut reprendre le flambeau.", "sfx": true, "emphasis": ["flambeau"]},
+    {"text": "Son rêve compte plus que sa propre vie. Franchement, ça ressemble plus à un héros qu'à un boss de fin."},
+    {"text": "Sauf que voilà le problème. Pour ce rêve, il est prêt à sacrifier n'importe qui, même Lucy, qui est encore une gamine.", "grade": "bw", "emphasis": ["Lucy"]},
+    {"text": "[angry] Alors mon avis tranché : c'est pas un héros. C'est le méchant le plus convaincant de tout JoJo, et c'est pour ça qu'il fait peur.", "stamp": "CONVAINCANT"},
+    {"text": "Et toi, à cette table, tu laisses Valentine prendre la serviette, ou tu la prends avant lui ? Dis-moi en com'."}
+  ],
+  "caption": "Valentine se bat pour son pays, pas pour lui 🇺🇸 alors héros ou méchant ?",
+  "hashtags": ["#anime", "#manga", "#animefr", "#jojo", "#steelballrun", "#theorie"]
+}
