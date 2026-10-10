@@ -16,3 +16,12 @@ runs/*_hybrid_test/
 runs/*/clips/
 runs/*/clips_src/
 runs/*_v4test/
+runs/ia/*/pub/
+runs/ia/*/voice/
+runs/ia/*/sfx/
+runs/ia/*/*.wav
+runs/ia/*/*.m4a
+runs/ia/*/video_silent.mp4
+runs/ia/*/video.mp4
+runs/ia/*/*.jpg
+runs/ia/*/*.png
