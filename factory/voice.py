@@ -151,13 +151,22 @@ def _tts_chatterbox(sent: str, out: Path, tone: str) -> None:
 
 
 # ------------------------------------------------------------------ Fish Audio
+FISH_KEY_FILE = Path("/tmp/tf-fish-key")  # écrit par l'agent au début du run, jamais dans le repo
+
+
+def _fish_key() -> str:
+    key = os.environ.get("FISH_API_KEY", "")
+    if not key and FISH_KEY_FILE.exists():
+        key = FISH_KEY_FILE.read_text().strip()
+    return key
+
 def _tts_fish(sent: str, out: Path, tone: str) -> None:
     """Une phrase via l'API Fish Audio. Les balises d'émotion restent dans le texte."""
     import urllib.request
     import urllib.error
     # Clé soit en variable d'environnement, soit (mieux) en "API credential" de l'environnement
     # cloud : le proxy l'ajoute alors lui-même aux requêtes vers api.fish.audio (TF_VOICE=fish).
-    key = os.environ.get("FISH_API_KEY", "")
+    key = _fish_key()
     speed = {"hype": 1.1, "pote": 1.08, "conteur": 1.02, "pose": 0.95}.get(tone, 1.05)
     body = json.dumps({"text": sent, "reference_id": FISH_VOICE, "format": "mp3",
                        "mp3_bitrate": 128, "latency": "normal", "normalize": True,
@@ -229,7 +238,7 @@ def engine() -> str:
         forced = flag.read_text().strip()
     if forced:
         return forced
-    if os.environ.get("FISH_API_KEY"):
+    if _fish_key():
         return "fish"
     if not VOICE_REF.exists():
         return "piper"

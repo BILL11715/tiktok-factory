@@ -19,6 +19,8 @@ python -c "from faster_whisper import WhisperModel; WhisperModel('small', device
 
 # Voix Fish Audio (API) : clé en variable FISH_API_KEY ou en "API credential" de l'environnement
 # (le proxy l'ajoute tout seul). Test gratuit : solde de crédits API.
+# clé déposée par l'agent dans /tmp/tf-fish-key (jamais commitée)
+if [ -z "${FISH_API_KEY:-}" ] && [ -s /tmp/tf-fish-key ]; then FISH_API_KEY=$(cat /tmp/tf-fish-key); fi
 if [ -n "${FISH_API_KEY:-}" ]; then
   FISH_CODE=$(curl -s -o /dev/null -m 15 -w "%{http_code}" -H "Authorization: Bearer $FISH_API_KEY" https://api.fish.audio/wallet/self/api-credit)
 else

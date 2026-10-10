@@ -14,7 +14,11 @@ question, décide et continue. Ne lis que ce qui est listé ici (pas d'explorati
 1. **Repo** : `add_repo` (owner BILL11715, repo tiktok-factory, access push) puis
    `git clone --depth 20 https://github.com/BILL11715/tiktok-factory /home/claude/tiktok-factory`
    (timeout long). git config user.name "Bill Hounmenou", user.email "yanndevfrance04@gmail.com".
-2. **Installation en arrière-plan tout de suite** :
+2. **Clé de voix** : le message de la tâche planifiée contient la clé Fish Audio de Bill. Écris-la
+   seule dans `/tmp/tf-fish-key` (`umask 077; printf '%s' '<clé>' > /tmp/tf-fish-key`) AVANT le
+   setup. Ne la recopie JAMAIS ailleurs : ni dans le repo (public), ni dans un commit, ni dans
+   Notion, Buffer ou ton message de fin.
+   **Installation en arrière-plan tout de suite** :
    `cd /home/claude/tiktok-factory && nohup bash setup.sh > /tmp/tf-setup.out 2>&1 &`
 3. **Créneau** : heure actuelle (outil current_time). Le créneau est le prochain à venir parmi
    08:00, 12:00, 17:00, 19:00, 22:00. Si `history_ia.jsonl` a déjà une vidéo pour ce jour et ce
