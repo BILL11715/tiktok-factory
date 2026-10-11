@@ -1,0 +1,29 @@
+{
+  "title": "Reco : tu te réveilles dans le corps de la boss finale de ton MMO",
+  "format": "reco",
+  "tone": "pote",
+  "music": "pote",
+  "animes": ["A Wild Last Boss Appeared! Season 2"],
+  "hook_text": "Tu joues la grande méchante d'un MMO, et tu te réveilles dans son corps",
+  "spoiler": false,
+  "segments": [
+    {"text": "Tu joues la grande méchante d'un MMO, et tu te réveilles dans son corps.", "sfx": true, "emphasis": ["méchante"]},
+    {"text": "[whispering] Reste jusqu'au bout, j'te donne le nom, et la saison 2 vient tout juste de commencer.", "grade": "bw"},
+    {"text": "La perso s'appelle Lufas. Dans le jeu, c'était la Tyrane aux ailes noires, la boss que tout le serveur craignait.", "emphasis": ["Lufas"], "shots": [{"kind": "wide"}]},
+    {"text": "Un jour, le joueur derrière Lufas ouvre les yeux, et il est plus devant son écran. Il est dedans, pour de vrai.", "emphasis": ["dedans"]},
+    {"text": "[surprised] Et là, gros problème. Deux cents ans ont passé, les sept héros ont vaincu Lufas, et tout le monde la voit comme le démon de l'histoire.", "grade": "bw", "sfx": true, "emphasis": ["deux cents ans"]},
+    {"text": "Donc t'as le perso le plus fort du jeu, mais t'as pas le droit de te montrer. Elle se balade incognito, et chaque fois qu'elle se retient de tout casser, j'me marre.", "stamp": "CHEATÉE"},
+    {"text": "Si t'aimes les isekai où le héros est beaucoup trop fort, abonne-toi, j'te sors une reco comme ça tous les jours.", "cta": true},
+    {"text": "Et c'est là que ça devient bon. Lufas avait douze serviteurs, les Douze Étoiles Célestes, et ils sont tous éparpillés dans le monde.", "emphasis": ["Douze Étoiles"]},
+    {"text": "[excited] Chaque fois qu'elle en retrouve un, genre Libra ou Aries, c'est des retrouvailles de fou. Deux siècles plus tard, ils l'ont jamais oubliée.", "sfx": true, "emphasis": ["jamais oubliée"]},
+    {"text": "Et y'a Dina, sa stratège, qui la suit partout avec un grand sourire. Perso, cette meuf me paraît louche depuis le tout premier épisode.", "emphasis": ["louche"]},
+    {"text": "Parce que le vrai délire, c'est pas les combats. C'est de comprendre comment le monde entier a fini contre elle, et qui tire les ficelles derrière.", "grade": "bw", "emphasis": ["ficelles"]},
+    {"text": "[laughing] Mon avis tranché ? L'animation a des coups de mou, j'vais pas mentir. Mais l'héroïne est tellement classe que tu pardonnes tout.", "stamp": "VALIDÉ"},
+    {"text": "La saison 2 a commencé fin septembre, donc t'as largement le temps de rattraper la une ce week-end avant d'enchaîner.", "emphasis": ["saison 2"]},
+    {"text": "[excited] Ça s'appelle A Wild Last Boss Appeared. Dis-moi en com' si toi aussi tu préfères quand le héros, c'est le boss final.", "sfx": true}
+  ],
+  "reveal_text": "A Wild Last Boss Appeared!",
+  "reveal_segments": 1,
+  "caption": "Elle était la boss finale du jeu, maintenant c'est toi 😈 t'aurais fait quoi à sa place ?",
+  "hashtags": ["#anime", "#manga", "#animefr", "#otakufr", "#isekai", "#recommandationanime"]
+}
