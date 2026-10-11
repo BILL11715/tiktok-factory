@@ -1,0 +1,144 @@
+{
+  "title": "Agrandir une photo pixelisée gratuitement",
+  "theme": "ia",
+  "pillar": "ia",
+  "format": "outil",
+  "music": "pote",
+  "hook_text": "Ta photo est toute pixelisée ? Ce logiciel gratuit l'agrandit proprement.",
+  "segments": [
+    {
+      "text": "Ta photo est toute pixelisée ? Ce logiciel gratuit l'agrandit proprement.",
+      "emphasis": [
+        "gratuit"
+      ]
+    },
+    {
+      "text": "Il s'appelle Upscayl. Plus de cinquante mille étoiles sur GitHub, et il tourne sur Windows, Mac et Linux.",
+      "visual": {
+        "kind": "card",
+        "emoji": "🖼️",
+        "owner": "upscayl",
+        "name": "upscayl",
+        "desc": "Agrandit tes images avec l'IA",
+        "tags": [
+          "gratuit",
+          "open source",
+          "Windows Mac Linux"
+        ],
+        "stars": "50,3k",
+        "price": "Gratuit",
+        "url": "github.com/upscayl/upscayl"
+      }
+    },
+    {
+      "text": "C'est un projet open source. Ça veut dire que son code est public : tout le monde peut le lire, et personne ne te fait payer l'appli."
+    },
+    {
+      "text": "Le principe est simple. Tu as une petite image, genre un logo récupéré sur un vieux site, ou une photo qu'on t'a envoyée en toute petite qualité."
+    },
+    {
+      "text": "[excited] L'IA ne se contente pas d'étirer les pixels. Elle devine les détails qui manquent et redessine les contours, jusqu'à seize fois plus grand.",
+      "visual": {
+        "kind": "stat",
+        "value": 16,
+        "prefix": "x",
+        "suffix": "",
+        "label": "agrandissement maximum",
+        "source": "upscayl.org"
+      },
+      "sfx": true
+    },
+    {
+      "text": "Pour t'en servir, tu télécharges l'appli sur upscayl point org. Tu glisses ton image dedans, tu choisis un modèle, et tu cliques sur le gros bouton.",
+      "visual": {
+        "kind": "list",
+        "title": "En 4 étapes",
+        "items": [
+          "Télécharger l'appli",
+          "Glisser ton image",
+          "Choisir un modèle",
+          "Cliquer sur Upscayl"
+        ],
+        "at": [
+          "télécharges",
+          "glisses",
+          "choisis",
+          "cliques"
+        ]
+      }
+    },
+    {
+      "text": "Quelques secondes plus tard, c'est prêt. Et le calcul se fait sur ton ordinateur, ton image ne part pas sur un serveur.",
+      "stamp": "local"
+    },
+    {
+      "text": "À quoi ça sert dans la vraie vie ? Agrandir une vieille photo pour l'imprimer, récupérer le logo de ton asso en grand, ou soigner les photos de tes produits pour Vinted.",
+      "visual": {
+        "kind": "list",
+        "title": "Idées concrètes",
+        "items": [
+          "Imprimer une vieille photo",
+          "Logo de ton asso",
+          "Photos pour Vinted"
+        ],
+        "at": [
+          "photo",
+          "logo",
+          "produits"
+        ]
+      }
+    },
+    {
+      "text": "Maintenant, les limites. Parce qu'un outil gratuit, c'est top, mais il faut savoir ce qu'il ne fait pas.",
+      "visual": {
+        "kind": "title",
+        "kicker": "Avant de foncer",
+        "text": "Les limites",
+        "highlight": "limites",
+        "sub": "Trois choses à savoir"
+      }
+    },
+    {
+      "text": "Un : il te faut une carte graphique compatible. Sur pas mal d'ordis d'entrée de gamme, il refuse simplement de fonctionner."
+    },
+    {
+      "text": "Deux : il ne rattrape pas une photo floue ou mal mise au point. Il est fait pour les images trop petites ou pixelisées, pas pour un flou de bougé.",
+      "visual": {
+        "kind": "compare",
+        "left": {
+          "title": "Ça ne marche pas",
+          "items": [
+            "Photo floue",
+            "Mauvaise mise au point",
+            "Flou de bougé"
+          ]
+        },
+        "right": {
+          "title": "Ça marche",
+          "items": [
+            "Image trop petite",
+            "Image pixelisée",
+            "Vieux logo"
+          ]
+        }
+      }
+    },
+    {
+      "text": "Et trois : l'IA invente des détails. Sur un visage, regarde toujours le résultat de près avant de l'imprimer ou de l'offrir."
+    },
+    {
+      "text": "Le lien GitHub est dans la légende. Teste avec ta pire photo, et dis-moi en commentaire si le résultat t'a bluffé.",
+      "emphasis": [
+        "pire"
+      ]
+    }
+  ],
+  "caption": "Ce logiciel gratuit agrandit tes images pixelisées avec l'IA 🖼️ https://github.com/upscayl/upscayl",
+  "hashtags": [
+    "#ia",
+    "#outilgratuit",
+    "#opensource",
+    "#astuce",
+    "#photo"
+  ]
+}
