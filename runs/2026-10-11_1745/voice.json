@@ -1,0 +1,1711 @@
+{
+ "engine": "fish",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-11_1745/voice.wav",
+ "duration": 80.871,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 3.68,
+   "slot_end": 3.768,
+   "text": "Ce gamin voit les stats de tout le monde, et il recrute ceux que personne veut.",
+   "words": [
+    {
+     "w": "Ce",
+     "start": 0.0,
+     "end": 0.14
+    },
+    {
+     "w": "gamin",
+     "start": 0.14,
+     "end": 0.3
+    },
+    {
+     "w": "voit",
+     "start": 0.3,
+     "end": 0.52
+    },
+    {
+     "w": "les",
+     "start": 0.52,
+     "end": 0.68
+    },
+    {
+     "w": "stats",
+     "start": 0.68,
+     "end": 0.86
+    },
+    {
+     "w": "de",
+     "start": 0.86,
+     "end": 1.1
+    },
+    {
+     "w": "tout",
+     "start": 1.1,
+     "end": 1.28
+    },
+    {
+     "w": "le",
+     "start": 1.28,
+     "end": 1.4
+    },
+    {
+     "w": "monde,",
+     "start": 1.4,
+     "end": 1.6
+    },
+    {
+     "w": "et",
+     "start": 1.6,
+     "end": 2.12
+    },
+    {
+     "w": "il",
+     "start": 2.12,
+     "end": 2.32
+    },
+    {
+     "w": "recrute",
+     "start": 2.32,
+     "end": 2.66
+    },
+    {
+     "w": "ceux",
+     "start": 2.66,
+     "end": 2.86
+    },
+    {
+     "w": "que",
+     "start": 2.86,
+     "end": 2.98
+    },
+    {
+     "w": "personne",
+     "start": 2.98,
+     "end": 3.36
+    },
+    {
+     "w": "veut.",
+     "start": 3.36,
+     "end": 3.68
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 3.78,
+   "end": 6.98,
+   "slot_end": 7.126,
+   "text": "Reste jusqu'au bout, j'te donne le nom, et la saison 3 vient tout juste de commencer.",
+   "words": [
+    {
+     "w": "Reste",
+     "start": 3.78,
+     "end": 3.88
+    },
+    {
+     "w": "jusqu'au",
+     "start": 3.88,
+     "end": 4.26
+    },
+    {
+     "w": "bout,",
+     "start": 4.26,
+     "end": 4.4
+    },
+    {
+     "w": "j'te",
+     "start": 4.48,
+     "end": 4.6
+    },
+    {
+     "w": "donne",
+     "start": 4.6,
+     "end": 4.76
+    },
+    {
+     "w": "le",
+     "start": 4.76,
+     "end": 4.92
+    },
+    {
+     "w": "nom,",
+     "start": 4.92,
+     "end": 5.08
+    },
+    {
+     "w": "et",
+     "start": 5.08,
+     "end": 5.3
+    },
+    {
+     "w": "la",
+     "start": 5.3,
+     "end": 5.42
+    },
+    {
+     "w": "saison",
+     "start": 5.42,
+     "end": 5.7
+    },
+    {
+     "w": "3",
+     "start": 5.7,
+     "end": 5.98
+    },
+    {
+     "w": "vient",
+     "start": 5.98,
+     "end": 6.16
+    },
+    {
+     "w": "tout",
+     "start": 6.16,
+     "end": 6.32
+    },
+    {
+     "w": "juste",
+     "start": 6.32,
+     "end": 6.56
+    },
+    {
+     "w": "de",
+     "start": 6.56,
+     "end": 6.72
+    },
+    {
+     "w": "commencer.",
+     "start": 6.72,
+     "end": 6.98
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 7.16,
+   "end": 11.86,
+   "slot_end": 11.931,
+   "text": "Le pitch. Un mec normal au Japon meurt, et il se réincarne dans un monde médiéval qui part en vrille.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 7.16,
+     "end": 7.22
+    },
+    {
+     "w": "pitch.",
+     "start": 7.22,
+     "end": 7.48
+    },
+    {
+     "w": "Un",
+     "start": 8.16,
+     "end": 8.34
+    },
+    {
+     "w": "mec",
+     "start": 8.34,
+     "end": 8.44
+    },
+    {
+     "w": "normal",
+     "start": 8.44,
+     "end": 8.72
+    },
+    {
+     "w": "au",
+     "start": 8.72,
+     "end": 8.9
+    },
+    {
+     "w": "Japon",
+     "start": 8.9,
+     "end": 9.08
+    },
+    {
+     "w": "meurt,",
+     "start": 9.08,
+     "end": 9.54
+    },
+    {
+     "w": "et",
+     "start": 9.54,
+     "end": 9.74
+    },
+    {
+     "w": "il",
+     "start": 9.74,
+     "end": 9.84
+    },
+    {
+     "w": "se",
+     "start": 9.84,
+     "end": 9.94
+    },
+    {
+     "w": "réincarne",
+     "start": 9.94,
+     "end": 10.12
+    },
+    {
+     "w": "dans",
+     "start": 10.12,
+     "end": 10.5
+    },
+    {
+     "w": "un",
+     "start": 10.5,
+     "end": 10.74
+    },
+    {
+     "w": "monde",
+     "start": 10.74,
+     "end": 10.88
+    },
+    {
+     "w": "médiéval",
+     "start": 10.88,
+     "end": 11.26
+    },
+    {
+     "w": "qui",
+     "start": 11.26,
+     "end": 11.4
+    },
+    {
+     "w": "part",
+     "start": 11.4,
+     "end": 11.58
+    },
+    {
+     "w": "en",
+     "start": 11.58,
+     "end": 11.68
+    },
+    {
+     "w": "vrille.",
+     "start": 11.68,
+     "end": 11.86
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 11.96,
+   "end": 16.52,
+   "slot_end": 16.623,
+   "text": "Il renaît fils aîné d'une petite famille noble, les Louvent, dans un empire qui se fissure de partout.",
+   "words": [
+    {
+     "w": "Il",
+     "start": 11.96,
+     "end": 12.02
+    },
+    {
+     "w": "renaît",
+     "start": 12.02,
+     "end": 12.3
+    },
+    {
+     "w": "fils",
+     "start": 12.4,
+     "end": 12.48
+    },
+    {
+     "w": "aîné",
+     "start": 12.48,
+     "end": 12.72
+    },
+    {
+     "w": "d'une",
+     "start": 12.72,
+     "end": 12.9
+    },
+    {
+     "w": "petite",
+     "start": 12.9,
+     "end": 13.1
+    },
+    {
+     "w": "famille",
+     "start": 13.1,
+     "end": 13.34
+    },
+    {
+     "w": "noble,",
+     "start": 13.34,
+     "end": 13.64
+    },
+    {
+     "w": "les",
+     "start": 13.96,
+     "end": 14.01
+    },
+    {
+     "w": "Louvent,",
+     "start": 13.98,
+     "end": 14.48
+    },
+    {
+     "w": "dans",
+     "start": 14.8,
+     "end": 14.88
+    },
+    {
+     "w": "un",
+     "start": 14.88,
+     "end": 15.06
+    },
+    {
+     "w": "empire",
+     "start": 15.06,
+     "end": 15.28
+    },
+    {
+     "w": "qui",
+     "start": 15.28,
+     "end": 15.5
+    },
+    {
+     "w": "se",
+     "start": 15.5,
+     "end": 15.68
+    },
+    {
+     "w": "fissure",
+     "start": 15.68,
+     "end": 16.06
+    },
+    {
+     "w": "de",
+     "start": 16.06,
+     "end": 16.24
+    },
+    {
+     "w": "partout.",
+     "start": 16.24,
+     "end": 16.52
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 16.64,
+   "end": 22.02,
+   "slot_end": 22.11,
+   "text": "Et là, il découvre son pouvoir. Il regarde quelqu'un, et il voit ses stats comme dans un jeu de stratégie.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 16.64,
+     "end": 16.72
+    },
+    {
+     "w": "là,",
+     "start": 16.72,
+     "end": 16.84
+    },
+    {
+     "w": "il",
+     "start": 17.08,
+     "end": 17.16
+    },
+    {
+     "w": "découvre",
+     "start": 17.16,
+     "end": 17.52
+    },
+    {
+     "w": "son",
+     "start": 17.52,
+     "end": 17.68
+    },
+    {
+     "w": "pouvoir.",
+     "start": 17.68,
+     "end": 18.06
+    },
+    {
+     "w": "Il",
+     "start": 18.78,
+     "end": 18.86
+    },
+    {
+     "w": "regarde",
+     "start": 18.86,
+     "end": 19.1
+    },
+    {
+     "w": "quelqu'un,",
+     "start": 19.1,
+     "end": 19.86
+    },
+    {
+     "w": "et",
+     "start": 19.86,
+     "end": 20.02
+    },
+    {
+     "w": "il",
+     "start": 20.02,
+     "end": 20.1
+    },
+    {
+     "w": "voit",
+     "start": 20.1,
+     "end": 20.18
+    },
+    {
+     "w": "ses",
+     "start": 20.18,
+     "end": 20.3
+    },
+    {
+     "w": "stats",
+     "start": 20.3,
+     "end": 20.58
+    },
+    {
+     "w": "comme",
+     "start": 20.58,
+     "end": 20.8
+    },
+    {
+     "w": "dans",
+     "start": 20.8,
+     "end": 21.1
+    },
+    {
+     "w": "un",
+     "start": 21.1,
+     "end": 21.26
+    },
+    {
+     "w": "jeu",
+     "start": 21.26,
+     "end": 21.38
+    },
+    {
+     "w": "de",
+     "start": 21.38,
+     "end": 21.5
+    },
+    {
+     "w": "stratégie.",
+     "start": 21.5,
+     "end": 22.02
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 22.12,
+   "end": 26.56,
+   "slot_end": 26.663,
+   "text": "Commandement, bravoure, intelligence, politique. Mais surtout, il voit le potentiel caché des gens.",
+   "words": [
+    {
+     "w": "Commandement,",
+     "start": 22.12,
+     "end": 22.46
+    },
+    {
+     "w": "bravoure,",
+     "start": 22.6,
+     "end": 22.88
+    },
+    {
+     "w": "intelligence,",
+     "start": 23.06,
+     "end": 23.34
+    },
+    {
+     "w": "politique.",
+     "start": 23.68,
+     "end": 24.08
+    },
+    {
+     "w": "Mais",
+     "start": 24.52,
+     "end": 24.64
+    },
+    {
+     "w": "surtout,",
+     "start": 24.64,
+     "end": 24.86
+    },
+    {
+     "w": "il",
+     "start": 24.86,
+     "end": 25.14
+    },
+    {
+     "w": "voit",
+     "start": 25.14,
+     "end": 25.26
+    },
+    {
+     "w": "le",
+     "start": 25.26,
+     "end": 25.42
+    },
+    {
+     "w": "potentiel",
+     "start": 25.42,
+     "end": 25.96
+    },
+    {
+     "w": "caché",
+     "start": 25.96,
+     "end": 26.3
+    },
+    {
+     "w": "des",
+     "start": 26.3,
+     "end": 26.42
+    },
+    {
+     "w": "gens.",
+     "start": 26.42,
+     "end": 26.56
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 26.66,
+   "end": 31.98,
+   "slot_end": 32.063,
+   "text": "Et c'est là que ça devient chaud. Au lieu de courir après les héros connus, Ars va chercher les rejetés.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 26.66,
+     "end": 26.76
+    },
+    {
+     "w": "c'est",
+     "start": 26.76,
+     "end": 26.96
+    },
+    {
+     "w": "là",
+     "start": 26.96,
+     "end": 27.18
+    },
+    {
+     "w": "que",
+     "start": 27.18,
+     "end": 27.34
+    },
+    {
+     "w": "ça",
+     "start": 27.34,
+     "end": 27.48
+    },
+    {
+     "w": "devient",
+     "start": 27.48,
+     "end": 27.68
+    },
+    {
+     "w": "chaud.",
+     "start": 27.68,
+     "end": 28.1
+    },
+    {
+     "w": "Au",
+     "start": 28.1,
+     "end": 28.64
+    },
+    {
+     "w": "lieu",
+     "start": 28.64,
+     "end": 28.78
+    },
+    {
+     "w": "de",
+     "start": 28.78,
+     "end": 28.92
+    },
+    {
+     "w": "courir",
+     "start": 28.92,
+     "end": 29.2
+    },
+    {
+     "w": "après",
+     "start": 29.2,
+     "end": 29.4
+    },
+    {
+     "w": "les",
+     "start": 29.4,
+     "end": 29.62
+    },
+    {
+     "w": "héros",
+     "start": 29.62,
+     "end": 29.76
+    },
+    {
+     "w": "connus,",
+     "start": 29.76,
+     "end": 30.16
+    },
+    {
+     "w": "Ars",
+     "start": 30.72,
+     "end": 30.84
+    },
+    {
+     "w": "va",
+     "start": 30.84,
+     "end": 31.02
+    },
+    {
+     "w": "chercher",
+     "start": 31.02,
+     "end": 31.24
+    },
+    {
+     "w": "les",
+     "start": 31.24,
+     "end": 31.5
+    },
+    {
+     "w": "rejetés.",
+     "start": 31.5,
+     "end": 31.98
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 32.063,
+   "end": 35.9,
+   "slot_end": 35.993,
+   "text": "Si t'aimes les animes où le héros gagne avec sa tête, abonne-toi, j'te sors une nouvelle reco tous les jours.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 32.063,
+     "end": 32.113
+    },
+    {
+     "w": "t'aimes",
+     "start": 32.063,
+     "end": 32.113
+    },
+    {
+     "w": "les",
+     "start": 32.063,
+     "end": 32.14
+    },
+    {
+     "w": "animes",
+     "start": 32.14,
+     "end": 32.38
+    },
+    {
+     "w": "où",
+     "start": 32.38,
+     "end": 32.62
+    },
+    {
+     "w": "le",
+     "start": 32.62,
+     "end": 32.86
+    },
+    {
+     "w": "héros",
+     "start": 32.86,
+     "end": 32.98
+    },
+    {
+     "w": "gagne",
+     "start": 32.98,
+     "end": 33.24
+    },
+    {
+     "w": "avec",
+     "start": 33.24,
+     "end": 33.36
+    },
+    {
+     "w": "sa",
+     "start": 33.36,
+     "end": 33.48
+    },
+    {
+     "w": "tête,",
+     "start": 33.48,
+     "end": 33.6
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 33.88,
+     "end": 34.21
+    },
+    {
+     "w": "j'te",
+     "start": 34.21,
+     "end": 34.64
+    },
+    {
+     "w": "sors",
+     "start": 34.64,
+     "end": 34.78
+    },
+    {
+     "w": "une",
+     "start": 34.78,
+     "end": 34.94
+    },
+    {
+     "w": "nouvelle",
+     "start": 34.94,
+     "end": 35.14
+    },
+    {
+     "w": "reco",
+     "start": 35.14,
+     "end": 35.46
+    },
+    {
+     "w": "tous",
+     "start": 35.46,
+     "end": 35.64
+    },
+    {
+     "w": "les",
+     "start": 35.64,
+     "end": 35.74
+    },
+    {
+     "w": "jours.",
+     "start": 35.74,
+     "end": 35.9
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 36.0,
+   "end": 41.34,
+   "slot_end": 41.528,
+   "text": "Premier recrutement, Rietz. C'est un Malkan, une race que tout le monde méprise, et personne veut l'engager.",
+   "words": [
+    {
+     "w": "Premier",
+     "start": 36.0,
+     "end": 36.16
+    },
+    {
+     "w": "recrutement,",
+     "start": 36.16,
+     "end": 36.62
+    },
+    {
+     "w": "Rietz.",
+     "start": 36.74,
+     "end": 37.02
+    },
+    {
+     "w": "C'est",
+     "start": 37.34,
+     "end": 37.58
+    },
+    {
+     "w": "un",
+     "start": 37.58,
+     "end": 37.76
+    },
+    {
+     "w": "Malkan,",
+     "start": 37.76,
+     "end": 38.12
+    },
+    {
+     "w": "une",
+     "start": 38.56,
+     "end": 38.72
+    },
+    {
+     "w": "race",
+     "start": 38.72,
+     "end": 38.9
+    },
+    {
+     "w": "que",
+     "start": 38.9,
+     "end": 39.08
+    },
+    {
+     "w": "tout",
+     "start": 39.08,
+     "end": 39.24
+    },
+    {
+     "w": "le",
+     "start": 39.24,
+     "end": 39.32
+    },
+    {
+     "w": "monde",
+     "start": 39.32,
+     "end": 39.42
+    },
+    {
+     "w": "méprise,",
+     "start": 39.42,
+     "end": 39.82
+    },
+    {
+     "w": "et",
+     "start": 39.82,
+     "end": 40.4
+    },
+    {
+     "w": "personne",
+     "start": 40.4,
+     "end": 40.72
+    },
+    {
+     "w": "veut",
+     "start": 40.72,
+     "end": 40.94
+    },
+    {
+     "w": "l'engager.",
+     "start": 40.94,
+     "end": 41.34
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 41.54,
+   "end": 45.62,
+   "slot_end": 45.736,
+   "text": "Ars, lui, il regarde ses stats, et il comprend direct qu'il a un cerveau de stratège devant lui.",
+   "words": [
+    {
+     "w": "Ars,",
+     "start": 41.54,
+     "end": 41.74
+    },
+    {
+     "w": "lui,",
+     "start": 41.86,
+     "end": 42.02
+    },
+    {
+     "w": "il",
+     "start": 42.02,
+     "end": 42.08
+    },
+    {
+     "w": "regarde",
+     "start": 42.08,
+     "end": 42.34
+    },
+    {
+     "w": "ses",
+     "start": 42.34,
+     "end": 42.5
+    },
+    {
+     "w": "stats,",
+     "start": 42.5,
+     "end": 42.74
+    },
+    {
+     "w": "et",
+     "start": 42.74,
+     "end": 43.0
+    },
+    {
+     "w": "il",
+     "start": 43.0,
+     "end": 43.22
+    },
+    {
+     "w": "comprend",
+     "start": 43.22,
+     "end": 43.44
+    },
+    {
+     "w": "direct",
+     "start": 43.44,
+     "end": 43.62
+    },
+    {
+     "w": "qu'il",
+     "start": 43.62,
+     "end": 43.94
+    },
+    {
+     "w": "a",
+     "start": 43.94,
+     "end": 44.1
+    },
+    {
+     "w": "un",
+     "start": 44.1,
+     "end": 44.24
+    },
+    {
+     "w": "cerveau",
+     "start": 44.24,
+     "end": 44.54
+    },
+    {
+     "w": "de",
+     "start": 44.54,
+     "end": 44.68
+    },
+    {
+     "w": "stratège",
+     "start": 44.68,
+     "end": 45.22
+    },
+    {
+     "w": "devant",
+     "start": 45.22,
+     "end": 45.4
+    },
+    {
+     "w": "lui.",
+     "start": 45.4,
+     "end": 45.62
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 45.76,
+   "end": 51.46,
+   "slot_end": 51.548,
+   "text": "Ensuite y'a Charlotte, une mage au talent monstrueux, et Rosell, un gamin qui va devenir un inventeur de fou.",
+   "words": [
+    {
+     "w": "Ensuite",
+     "start": 45.76,
+     "end": 45.94
+    },
+    {
+     "w": "y'a",
+     "start": 46.14,
+     "end": 46.2
+    },
+    {
+     "w": "Charlotte,",
+     "start": 46.2,
+     "end": 46.58
+    },
+    {
+     "w": "une",
+     "start": 46.98,
+     "end": 47.08
+    },
+    {
+     "w": "mage",
+     "start": 47.08,
+     "end": 47.3
+    },
+    {
+     "w": "au",
+     "start": 47.3,
+     "end": 47.46
+    },
+    {
+     "w": "talent",
+     "start": 47.46,
+     "end": 47.6
+    },
+    {
+     "w": "monstrueux,",
+     "start": 47.6,
+     "end": 48.34
+    },
+    {
+     "w": "et",
+     "start": 48.34,
+     "end": 48.56
+    },
+    {
+     "w": "Rosell,",
+     "start": 48.56,
+     "end": 49.18
+    },
+    {
+     "w": "un",
+     "start": 49.5,
+     "end": 49.66
+    },
+    {
+     "w": "gamin",
+     "start": 49.66,
+     "end": 49.86
+    },
+    {
+     "w": "qui",
+     "start": 49.86,
+     "end": 50.04
+    },
+    {
+     "w": "va",
+     "start": 50.04,
+     "end": 50.14
+    },
+    {
+     "w": "devenir",
+     "start": 50.14,
+     "end": 50.42
+    },
+    {
+     "w": "un",
+     "start": 50.42,
+     "end": 50.68
+    },
+    {
+     "w": "inventeur",
+     "start": 50.68,
+     "end": 51.14
+    },
+    {
+     "w": "de",
+     "start": 51.14,
+     "end": 51.26
+    },
+    {
+     "w": "fou.",
+     "start": 51.26,
+     "end": 51.46
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 51.78,
+   "end": 55.0,
+   "slot_end": 55.143,
+   "text": "Le délire, c'est que lui est pas un monstre au combat. Il gagne en choisissant les bonnes personnes.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 51.78,
+     "end": 51.88
+    },
+    {
+     "w": "délire,",
+     "start": 51.88,
+     "end": 52.14
+    },
+    {
+     "w": "c'est",
+     "start": 52.18,
+     "end": 52.26
+    },
+    {
+     "w": "que",
+     "start": 52.26,
+     "end": 52.46
+    },
+    {
+     "w": "lui",
+     "start": 52.6,
+     "end": 52.65
+    },
+    {
+     "w": "est",
+     "start": 52.68,
+     "end": 52.73
+    },
+    {
+     "w": "pas",
+     "start": 52.68,
+     "end": 52.74
+    },
+    {
+     "w": "un",
+     "start": 52.74,
+     "end": 52.88
+    },
+    {
+     "w": "monstre",
+     "start": 52.88,
+     "end": 53.04
+    },
+    {
+     "w": "au",
+     "start": 53.04,
+     "end": 53.2
+    },
+    {
+     "w": "combat.",
+     "start": 53.2,
+     "end": 53.36
+    },
+    {
+     "w": "Il",
+     "start": 53.54,
+     "end": 53.6
+    },
+    {
+     "w": "gagne",
+     "start": 53.6,
+     "end": 53.78
+    },
+    {
+     "w": "en",
+     "start": 53.78,
+     "end": 53.9
+    },
+    {
+     "w": "choisissant",
+     "start": 53.9,
+     "end": 54.2
+    },
+    {
+     "w": "les",
+     "start": 54.2,
+     "end": 54.4
+    },
+    {
+     "w": "bonnes",
+     "start": 54.4,
+     "end": 54.7
+    },
+    {
+     "w": "personnes.",
+     "start": 54.7,
+     "end": 55.0
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 55.0,
+   "end": 59.26,
+   "slot_end": 59.417,
+   "text": "Sauf que l'empire s'effondre, les seigneurs se font la guerre, et sa petite famille est pile au milieu.",
+   "words": [
+    {
+     "w": "Sauf",
+     "start": 55.0,
+     "end": 55.3
+    },
+    {
+     "w": "que",
+     "start": 55.3,
+     "end": 55.46
+    },
+    {
+     "w": "l'empire",
+     "start": 55.46,
+     "end": 55.76
+    },
+    {
+     "w": "s'effondre,",
+     "start": 55.76,
+     "end": 56.24
+    },
+    {
+     "w": "les",
+     "start": 56.44,
+     "end": 56.54
+    },
+    {
+     "w": "seigneurs",
+     "start": 56.54,
+     "end": 56.84
+    },
+    {
+     "w": "se",
+     "start": 56.84,
+     "end": 56.98
+    },
+    {
+     "w": "font",
+     "start": 56.98,
+     "end": 57.1
+    },
+    {
+     "w": "la",
+     "start": 57.1,
+     "end": 57.22
+    },
+    {
+     "w": "guerre,",
+     "start": 57.22,
+     "end": 57.46
+    },
+    {
+     "w": "et",
+     "start": 57.92,
+     "end": 58.02
+    },
+    {
+     "w": "sa",
+     "start": 58.02,
+     "end": 58.14
+    },
+    {
+     "w": "petite",
+     "start": 58.14,
+     "end": 58.3
+    },
+    {
+     "w": "famille",
+     "start": 58.3,
+     "end": 58.6
+    },
+    {
+     "w": "est",
+     "start": 58.6,
+     "end": 58.8
+    },
+    {
+     "w": "pile",
+     "start": 58.8,
+     "end": 58.98
+    },
+    {
+     "w": "au",
+     "start": 58.98,
+     "end": 59.08
+    },
+    {
+     "w": "milieu.",
+     "start": 59.08,
+     "end": 59.26
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 59.42,
+   "end": 64.84,
+   "slot_end": 64.907,
+   "text": "Mon avis, frr ? C'est l'isekai le plus sous-coté de la saison. Pas de héros qui one-shot tout, juste de la vraie stratégie.",
+   "words": [
+    {
+     "w": "Mon",
+     "start": 59.42,
+     "end": 59.5
+    },
+    {
+     "w": "avis,",
+     "start": 59.5,
+     "end": 59.68
+    },
+    {
+     "w": "frr",
+     "start": 59.9,
+     "end": 60.02
+    },
+    {
+     "w": "?",
+     "start": 60.02,
+     "end": 60.14
+    },
+    {
+     "w": "C'est",
+     "start": 60.3,
+     "end": 60.4
+    },
+    {
+     "w": "l'isekai",
+     "start": 60.4,
+     "end": 60.8
+    },
+    {
+     "w": "le",
+     "start": 60.8,
+     "end": 60.92
+    },
+    {
+     "w": "plus",
+     "start": 60.92,
+     "end": 61.04
+    },
+    {
+     "w": "sous-coté",
+     "start": 61.04,
+     "end": 61.58
+    },
+    {
+     "w": "de",
+     "start": 61.58,
+     "end": 61.66
+    },
+    {
+     "w": "la",
+     "start": 61.66,
+     "end": 61.76
+    },
+    {
+     "w": "saison.",
+     "start": 61.76,
+     "end": 62.02
+    },
+    {
+     "w": "Pas",
+     "start": 62.32,
+     "end": 62.56
+    },
+    {
+     "w": "de",
+     "start": 62.56,
+     "end": 62.68
+    },
+    {
+     "w": "héros",
+     "start": 62.68,
+     "end": 62.86
+    },
+    {
+     "w": "qui",
+     "start": 62.86,
+     "end": 63.04
+    },
+    {
+     "w": "one-shot",
+     "start": 63.04,
+     "end": 63.34
+    },
+    {
+     "w": "tout,",
+     "start": 63.34,
+     "end": 63.6
+    },
+    {
+     "w": "juste",
+     "start": 63.6,
+     "end": 63.84
+    },
+    {
+     "w": "de",
+     "start": 63.84,
+     "end": 64.02
+    },
+    {
+     "w": "la",
+     "start": 64.02,
+     "end": 64.12
+    },
+    {
+     "w": "vraie",
+     "start": 64.12,
+     "end": 64.32
+    },
+    {
+     "w": "stratégie.",
+     "start": 64.32,
+     "end": 64.84
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 64.92,
+   "end": 69.9,
+   "slot_end": 69.984,
+   "text": "La saison 3 a démarré le 27 septembre, et les deux premières se regardent d'une traite, j'te jure.",
+   "words": [
+    {
+     "w": "La",
+     "start": 64.92,
+     "end": 65.0
+    },
+    {
+     "w": "saison",
+     "start": 65.0,
+     "end": 65.22
+    },
+    {
+     "w": "3",
+     "start": 65.22,
+     "end": 65.48
+    },
+    {
+     "w": "a",
+     "start": 65.48,
+     "end": 65.6
+    },
+    {
+     "w": "démarré",
+     "start": 65.6,
+     "end": 65.88
+    },
+    {
+     "w": "le",
+     "start": 65.88,
+     "end": 66.04
+    },
+    {
+     "w": "27",
+     "start": 66.04,
+     "end": 66.38
+    },
+    {
+     "w": "septembre,",
+     "start": 66.38,
+     "end": 67.18
+    },
+    {
+     "w": "et",
+     "start": 67.72,
+     "end": 67.8
+    },
+    {
+     "w": "les",
+     "start": 67.8,
+     "end": 67.92
+    },
+    {
+     "w": "deux",
+     "start": 67.92,
+     "end": 68.06
+    },
+    {
+     "w": "premières",
+     "start": 68.06,
+     "end": 68.38
+    },
+    {
+     "w": "se",
+     "start": 68.38,
+     "end": 68.54
+    },
+    {
+     "w": "regardent",
+     "start": 68.54,
+     "end": 68.88
+    },
+    {
+     "w": "d'une",
+     "start": 68.88,
+     "end": 69.02
+    },
+    {
+     "w": "traite,",
+     "start": 69.02,
+     "end": 69.36
+    },
+    {
+     "w": "j'te",
+     "start": 69.48,
+     "end": 69.68
+    },
+    {
+     "w": "jure.",
+     "start": 69.68,
+     "end": 69.9
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "start": 69.98,
+   "end": 77.36,
+   "slot_end": 77.477,
+   "text": "Le nom, c'est As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World. Ouais, le titre est long. Dis-moi en com' si tu connais.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 69.98,
+     "end": 70.1
+    },
+    {
+     "w": "nom,",
+     "start": 70.1,
+     "end": 70.3
+    },
+    {
+     "w": "c'est",
+     "start": 70.42,
+     "end": 70.6
+    },
+    {
+     "w": "As",
+     "start": 70.6,
+     "end": 70.75
+    },
+    {
+     "w": "a",
+     "start": 70.75,
+     "end": 70.9
+    },
+    {
+     "w": "Reincarnated",
+     "start": 70.9,
+     "end": 71.56
+    },
+    {
+     "w": "Aristocrat,",
+     "start": 71.56,
+     "end": 71.907
+    },
+    {
+     "w": "I'll",
+     "start": 71.907,
+     "end": 72.6
+    },
+    {
+     "w": "Use",
+     "start": 72.6,
+     "end": 72.82
+    },
+    {
+     "w": "My",
+     "start": 72.82,
+     "end": 73.04
+    },
+    {
+     "w": "Appraisal",
+     "start": 73.04,
+     "end": 73.62
+    },
+    {
+     "w": "Skill",
+     "start": 73.62,
+     "end": 73.84
+    },
+    {
+     "w": "to",
+     "start": 73.84,
+     "end": 74.1
+    },
+    {
+     "w": "Rise",
+     "start": 74.1,
+     "end": 74.36
+    },
+    {
+     "w": "in",
+     "start": 74.36,
+     "end": 74.58
+    },
+    {
+     "w": "the",
+     "start": 74.58,
+     "end": 74.7
+    },
+    {
+     "w": "World.",
+     "start": 74.7,
+     "end": 75.02
+    },
+    {
+     "w": "Ouais,",
+     "start": 75.5,
+     "end": 75.7
+    },
+    {
+     "w": "le",
+     "start": 75.78,
+     "end": 75.84
+    },
+    {
+     "w": "titre",
+     "start": 75.84,
+     "end": 75.98
+    },
+    {
+     "w": "est",
+     "start": 75.98,
+     "end": 76.14
+    },
+    {
+     "w": "long.",
+     "start": 76.14,
+     "end": 76.26
+    },
+    {
+     "w": "Dis-moi",
+     "start": 76.52,
+     "end": 76.62
+    },
+    {
+     "w": "en",
+     "start": 76.62,
+     "end": 76.72
+    },
+    {
+     "w": "com'",
+     "start": 76.72,
+     "end": 76.86
+    },
+    {
+     "w": "si",
+     "start": 76.86,
+     "end": 77.06
+    },
+    {
+     "w": "tu",
+     "start": 77.06,
+     "end": 77.14
+    },
+    {
+     "w": "connais.",
+     "start": 77.14,
+     "end": 77.36
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "start": 77.5,
+   "end": 80.12,
+   "slot_end": 80.871,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 77.5,
+     "end": 77.68
+    },
+    {
+     "w": "Asura.",
+     "start": 77.68,
+     "end": 78.04
+    },
+    {
+     "w": "On",
+     "start": 78.7,
+     "end": 78.86
+    },
+    {
+     "w": "se",
+     "start": 78.86,
+     "end": 79.0
+    },
+    {
+     "w": "capte",
+     "start": 79.0,
+     "end": 79.2
+    },
+    {
+     "w": "au",
+     "start": 79.2,
+     "end": 79.38
+    },
+    {
+     "w": "prochain",
+     "start": 79.38,
+     "end": 79.66
+    },
+    {
+     "w": "épisode.",
+     "start": 79.66,
+     "end": 80.12
+    }
+   ]
+  }
+ ],
+ "aligned": 0.99
+}

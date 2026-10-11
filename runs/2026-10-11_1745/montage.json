@@ -1,0 +1,16 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-11_1745/video.mp4",
+ "duration": 80.871,
+ "shots": 57,
+ "sources": [
+  "https://anilist.co/anime/185756",
+  "https://kitsu.io/anime/Tensei-Kizoku-Kantei-Skill-de-Nariagaru-3rd-Season"
+ ],
+ "music": {
+  "file": "pote.mp3",
+  "bpm": 184.6,
+  "offset": 47.39
+ },
+ "sfx": 22,
+ "engine": "remotion (OpenMontage)"
+}
