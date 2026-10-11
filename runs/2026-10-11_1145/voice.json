@@ -1,0 +1,1738 @@
+{
+ "engine": "fish",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-11_1145/voice.wav",
+ "duration": 77.591,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 3.24,
+   "slot_end": 3.314,
+   "text": "Tu joues la grande méchante d'un MMO, et tu te réveilles dans son corps.",
+   "words": [
+    {
+     "w": "Tu",
+     "start": 0.0,
+     "end": 0.1
+    },
+    {
+     "w": "joues",
+     "start": 0.1,
+     "end": 0.24
+    },
+    {
+     "w": "la",
+     "start": 0.24,
+     "end": 0.36
+    },
+    {
+     "w": "grande",
+     "start": 0.36,
+     "end": 0.6
+    },
+    {
+     "w": "méchante",
+     "start": 0.6,
+     "end": 1.1
+    },
+    {
+     "w": "d'un",
+     "start": 1.1,
+     "end": 1.44
+    },
+    {
+     "w": "MMO,",
+     "start": 1.44,
+     "end": 1.74
+    },
+    {
+     "w": "et",
+     "start": 1.84,
+     "end": 2.26
+    },
+    {
+     "w": "tu",
+     "start": 2.26,
+     "end": 2.36
+    },
+    {
+     "w": "te",
+     "start": 2.36,
+     "end": 2.48
+    },
+    {
+     "w": "réveilles",
+     "start": 2.48,
+     "end": 2.7
+    },
+    {
+     "w": "dans",
+     "start": 2.7,
+     "end": 2.84
+    },
+    {
+     "w": "son",
+     "start": 2.84,
+     "end": 2.98
+    },
+    {
+     "w": "corps.",
+     "start": 2.98,
+     "end": 3.24
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 3.36,
+   "end": 6.54,
+   "slot_end": 6.656,
+   "text": "Reste jusqu'au bout, j'te donne le nom, et la saison 2 vient tout juste de commencer.",
+   "words": [
+    {
+     "w": "Reste",
+     "start": 3.36,
+     "end": 3.54
+    },
+    {
+     "w": "jusqu'au",
+     "start": 3.54,
+     "end": 3.88
+    },
+    {
+     "w": "bout,",
+     "start": 3.88,
+     "end": 4.02
+    },
+    {
+     "w": "j'te",
+     "start": 4.02,
+     "end": 4.24
+    },
+    {
+     "w": "donne",
+     "start": 4.24,
+     "end": 4.36
+    },
+    {
+     "w": "le",
+     "start": 4.36,
+     "end": 4.52
+    },
+    {
+     "w": "nom,",
+     "start": 4.52,
+     "end": 4.72
+    },
+    {
+     "w": "et",
+     "start": 5.0,
+     "end": 5.05
+    },
+    {
+     "w": "la",
+     "start": 5.02,
+     "end": 5.14
+    },
+    {
+     "w": "saison",
+     "start": 5.14,
+     "end": 5.34
+    },
+    {
+     "w": "2",
+     "start": 5.34,
+     "end": 5.5
+    },
+    {
+     "w": "vient",
+     "start": 5.5,
+     "end": 5.7
+    },
+    {
+     "w": "tout",
+     "start": 5.7,
+     "end": 5.88
+    },
+    {
+     "w": "juste",
+     "start": 5.88,
+     "end": 6.12
+    },
+    {
+     "w": "de",
+     "start": 6.12,
+     "end": 6.26
+    },
+    {
+     "w": "commencer.",
+     "start": 6.26,
+     "end": 6.54
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 6.68,
+   "end": 11.86,
+   "slot_end": 11.912,
+   "text": "La perso s'appelle Lufas. Dans le jeu, c'était la Tyrane aux ailes noires, la boss que tout le serveur craignait.",
+   "words": [
+    {
+     "w": "La",
+     "start": 6.68,
+     "end": 6.76
+    },
+    {
+     "w": "perso",
+     "start": 6.76,
+     "end": 7.0
+    },
+    {
+     "w": "s'appelle",
+     "start": 7.0,
+     "end": 7.24
+    },
+    {
+     "w": "Lufas.",
+     "start": 7.24,
+     "end": 7.78
+    },
+    {
+     "w": "Dans",
+     "start": 8.06,
+     "end": 8.58
+    },
+    {
+     "w": "le",
+     "start": 8.58,
+     "end": 8.72
+    },
+    {
+     "w": "jeu,",
+     "start": 8.72,
+     "end": 8.84
+    },
+    {
+     "w": "c'était",
+     "start": 8.84,
+     "end": 9.04
+    },
+    {
+     "w": "la",
+     "start": 9.04,
+     "end": 9.2
+    },
+    {
+     "w": "Tyrane",
+     "start": 9.2,
+     "end": 9.48
+    },
+    {
+     "w": "aux",
+     "start": 9.48,
+     "end": 9.58
+    },
+    {
+     "w": "ailes",
+     "start": 9.58,
+     "end": 9.72
+    },
+    {
+     "w": "noires,",
+     "start": 9.72,
+     "end": 9.98
+    },
+    {
+     "w": "la",
+     "start": 10.44,
+     "end": 10.58
+    },
+    {
+     "w": "boss",
+     "start": 10.58,
+     "end": 10.76
+    },
+    {
+     "w": "que",
+     "start": 10.76,
+     "end": 10.92
+    },
+    {
+     "w": "tout",
+     "start": 10.92,
+     "end": 11.06
+    },
+    {
+     "w": "le",
+     "start": 11.06,
+     "end": 11.18
+    },
+    {
+     "w": "serveur",
+     "start": 11.18,
+     "end": 11.5
+    },
+    {
+     "w": "craignait.",
+     "start": 11.5,
+     "end": 11.86
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 11.92,
+   "end": 16.94,
+   "slot_end": 17.064,
+   "text": "Un jour, le joueur derrière Lufas ouvre les yeux, et il est plus devant son écran. Il est dedans, pour de vrai.",
+   "words": [
+    {
+     "w": "Un",
+     "start": 11.92,
+     "end": 12.02
+    },
+    {
+     "w": "jour,",
+     "start": 12.02,
+     "end": 12.22
+    },
+    {
+     "w": "le",
+     "start": 12.36,
+     "end": 12.46
+    },
+    {
+     "w": "joueur",
+     "start": 12.46,
+     "end": 12.74
+    },
+    {
+     "w": "derrière",
+     "start": 12.74,
+     "end": 12.98
+    },
+    {
+     "w": "Lufas",
+     "start": 12.98,
+     "end": 13.44
+    },
+    {
+     "w": "ouvre",
+     "start": 13.44,
+     "end": 13.74
+    },
+    {
+     "w": "les",
+     "start": 13.74,
+     "end": 13.9
+    },
+    {
+     "w": "yeux,",
+     "start": 13.9,
+     "end": 14.06
+    },
+    {
+     "w": "et",
+     "start": 14.28,
+     "end": 14.33
+    },
+    {
+     "w": "il",
+     "start": 14.3,
+     "end": 14.4
+    },
+    {
+     "w": "est",
+     "start": 14.54,
+     "end": 14.59
+    },
+    {
+     "w": "plus",
+     "start": 14.56,
+     "end": 14.72
+    },
+    {
+     "w": "devant",
+     "start": 14.72,
+     "end": 14.98
+    },
+    {
+     "w": "son",
+     "start": 14.98,
+     "end": 15.2
+    },
+    {
+     "w": "écran.",
+     "start": 15.2,
+     "end": 15.44
+    },
+    {
+     "w": "Il",
+     "start": 15.74,
+     "end": 15.9
+    },
+    {
+     "w": "est",
+     "start": 15.9,
+     "end": 16.04
+    },
+    {
+     "w": "dedans,",
+     "start": 16.04,
+     "end": 16.36
+    },
+    {
+     "w": "pour",
+     "start": 16.36,
+     "end": 16.64
+    },
+    {
+     "w": "de",
+     "start": 16.64,
+     "end": 16.78
+    },
+    {
+     "w": "vrai.",
+     "start": 16.78,
+     "end": 16.94
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 17.06,
+   "end": 22.74,
+   "slot_end": 22.883,
+   "text": "Et là, gros problème. Deux cents ans ont passé, les sept héros ont vaincu Lufas, et tout le monde la voit comme le démon de l'histoire.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 17.06,
+     "end": 17.18
+    },
+    {
+     "w": "là,",
+     "start": 17.18,
+     "end": 17.3
+    },
+    {
+     "w": "gros",
+     "start": 17.3,
+     "end": 17.5
+    },
+    {
+     "w": "problème.",
+     "start": 17.5,
+     "end": 17.84
+    },
+    {
+     "w": "Deux",
+     "start": 18.28,
+     "end": 18.44
+    },
+    {
+     "w": "cents",
+     "start": 18.44,
+     "end": 18.6
+    },
+    {
+     "w": "ans",
+     "start": 18.6,
+     "end": 18.9
+    },
+    {
+     "w": "ont",
+     "start": 18.9,
+     "end": 19.1
+    },
+    {
+     "w": "passé,",
+     "start": 19.1,
+     "end": 19.3
+    },
+    {
+     "w": "les",
+     "start": 19.48,
+     "end": 19.56
+    },
+    {
+     "w": "sept",
+     "start": 19.56,
+     "end": 19.78
+    },
+    {
+     "w": "héros",
+     "start": 19.78,
+     "end": 20.0
+    },
+    {
+     "w": "ont",
+     "start": 20.0,
+     "end": 20.14
+    },
+    {
+     "w": "vaincu",
+     "start": 20.14,
+     "end": 20.4
+    },
+    {
+     "w": "Lufas,",
+     "start": 20.4,
+     "end": 20.84
+    },
+    {
+     "w": "et",
+     "start": 20.96,
+     "end": 21.04
+    },
+    {
+     "w": "tout",
+     "start": 21.04,
+     "end": 21.2
+    },
+    {
+     "w": "le",
+     "start": 21.2,
+     "end": 21.26
+    },
+    {
+     "w": "monde",
+     "start": 21.26,
+     "end": 21.38
+    },
+    {
+     "w": "la",
+     "start": 21.38,
+     "end": 21.54
+    },
+    {
+     "w": "voit",
+     "start": 21.54,
+     "end": 21.68
+    },
+    {
+     "w": "comme",
+     "start": 21.68,
+     "end": 21.82
+    },
+    {
+     "w": "le",
+     "start": 21.82,
+     "end": 22.0
+    },
+    {
+     "w": "démon",
+     "start": 22.0,
+     "end": 22.3
+    },
+    {
+     "w": "de",
+     "start": 22.3,
+     "end": 22.42
+    },
+    {
+     "w": "l'histoire.",
+     "start": 22.42,
+     "end": 22.74
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 22.9,
+   "end": 28.62,
+   "slot_end": 29.279,
+   "text": "Donc t'as le perso le plus fort du jeu, mais t'as pas le droit de te montrer. Elle se balade incognito, et chaque fois qu'elle se retient de tout casser, j'me marre.",
+   "words": [
+    {
+     "w": "Donc",
+     "start": 22.9,
+     "end": 22.98
+    },
+    {
+     "w": "t'as",
+     "start": 22.98,
+     "end": 23.087
+    },
+    {
+     "w": "le",
+     "start": 23.087,
+     "end": 23.14
+    },
+    {
+     "w": "perso",
+     "start": 23.14,
+     "end": 23.4
+    },
+    {
+     "w": "le",
+     "start": 23.4,
+     "end": 23.5
+    },
+    {
+     "w": "plus",
+     "start": 23.5,
+     "end": 23.6
+    },
+    {
+     "w": "fort",
+     "start": 23.6,
+     "end": 23.74
+    },
+    {
+     "w": "du",
+     "start": 23.74,
+     "end": 23.9
+    },
+    {
+     "w": "jeu,",
+     "start": 23.9,
+     "end": 24.04
+    },
+    {
+     "w": "mais",
+     "start": 24.1,
+     "end": 24.16
+    },
+    {
+     "w": "t'as",
+     "start": 24.16,
+     "end": 24.28
+    },
+    {
+     "w": "pas",
+     "start": 24.28,
+     "end": 24.38
+    },
+    {
+     "w": "le",
+     "start": 24.38,
+     "end": 24.48
+    },
+    {
+     "w": "droit",
+     "start": 24.48,
+     "end": 24.58
+    },
+    {
+     "w": "de",
+     "start": 24.58,
+     "end": 24.68
+    },
+    {
+     "w": "te",
+     "start": 24.68,
+     "end": 24.76
+    },
+    {
+     "w": "montrer.",
+     "start": 24.76,
+     "end": 25.02
+    },
+    {
+     "w": "Elle",
+     "start": 25.02,
+     "end": 25.64
+    },
+    {
+     "w": "se",
+     "start": 25.64,
+     "end": 25.78
+    },
+    {
+     "w": "balade",
+     "start": 25.78,
+     "end": 26.14
+    },
+    {
+     "w": "incognito,",
+     "start": 26.14,
+     "end": 26.7
+    },
+    {
+     "w": "et",
+     "start": 26.7,
+     "end": 26.84
+    },
+    {
+     "w": "chaque",
+     "start": 26.84,
+     "end": 27.04
+    },
+    {
+     "w": "fois",
+     "start": 27.04,
+     "end": 27.2
+    },
+    {
+     "w": "qu'elle",
+     "start": 27.2,
+     "end": 27.36
+    },
+    {
+     "w": "se",
+     "start": 27.36,
+     "end": 27.48
+    },
+    {
+     "w": "retient",
+     "start": 27.48,
+     "end": 27.76
+    },
+    {
+     "w": "de",
+     "start": 27.76,
+     "end": 27.86
+    },
+    {
+     "w": "tout",
+     "start": 27.86,
+     "end": 27.94
+    },
+    {
+     "w": "casser,",
+     "start": 27.94,
+     "end": 28.18
+    },
+    {
+     "w": "j'me",
+     "start": 28.28,
+     "end": 28.42
+    },
+    {
+     "w": "marre.",
+     "start": 28.42,
+     "end": 28.62
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 29.26,
+   "end": 33.26,
+   "slot_end": 33.348,
+   "text": "Si t'aimes les isekai où le héros est beaucoup trop fort, abonne-toi, j'te sors une reco comme ça tous les jours.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 29.26,
+     "end": 29.4
+    },
+    {
+     "w": "t'aimes",
+     "start": 29.4,
+     "end": 29.58
+    },
+    {
+     "w": "les",
+     "start": 29.58,
+     "end": 29.7
+    },
+    {
+     "w": "isekai",
+     "start": 29.7,
+     "end": 30.02
+    },
+    {
+     "w": "où",
+     "start": 30.02,
+     "end": 30.14
+    },
+    {
+     "w": "le",
+     "start": 30.14,
+     "end": 30.24
+    },
+    {
+     "w": "héros",
+     "start": 30.24,
+     "end": 30.38
+    },
+    {
+     "w": "est",
+     "start": 30.38,
+     "end": 30.54
+    },
+    {
+     "w": "beaucoup",
+     "start": 30.54,
+     "end": 30.72
+    },
+    {
+     "w": "trop",
+     "start": 30.72,
+     "end": 30.88
+    },
+    {
+     "w": "fort,",
+     "start": 30.88,
+     "end": 31.16
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 31.26,
+     "end": 31.52
+    },
+    {
+     "w": "j'te",
+     "start": 31.52,
+     "end": 31.88
+    },
+    {
+     "w": "sors",
+     "start": 31.88,
+     "end": 32.04
+    },
+    {
+     "w": "une",
+     "start": 32.04,
+     "end": 32.24
+    },
+    {
+     "w": "reco",
+     "start": 32.24,
+     "end": 32.56
+    },
+    {
+     "w": "comme",
+     "start": 32.56,
+     "end": 32.72
+    },
+    {
+     "w": "ça",
+     "start": 32.72,
+     "end": 32.88
+    },
+    {
+     "w": "tous",
+     "start": 32.88,
+     "end": 33.0
+    },
+    {
+     "w": "les",
+     "start": 33.0,
+     "end": 33.16
+    },
+    {
+     "w": "jours.",
+     "start": 33.16,
+     "end": 33.26
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 33.34,
+   "end": 39.64,
+   "slot_end": 39.765,
+   "text": "Et c'est là que ça devient bon. Lufas avait douze serviteurs, les Douze Étoiles Célestes, et ils sont tous éparpillés dans le monde.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 33.34,
+     "end": 33.46
+    },
+    {
+     "w": "c'est",
+     "start": 33.46,
+     "end": 33.64
+    },
+    {
+     "w": "là",
+     "start": 33.64,
+     "end": 33.76
+    },
+    {
+     "w": "que",
+     "start": 33.76,
+     "end": 33.84
+    },
+    {
+     "w": "ça",
+     "start": 33.84,
+     "end": 33.92
+    },
+    {
+     "w": "devient",
+     "start": 33.92,
+     "end": 34.12
+    },
+    {
+     "w": "bon.",
+     "start": 34.12,
+     "end": 34.4
+    },
+    {
+     "w": "Lufas",
+     "start": 35.0,
+     "end": 35.32
+    },
+    {
+     "w": "avait",
+     "start": 35.32,
+     "end": 35.56
+    },
+    {
+     "w": "douze",
+     "start": 35.56,
+     "end": 35.78
+    },
+    {
+     "w": "serviteurs,",
+     "start": 35.78,
+     "end": 36.42
+    },
+    {
+     "w": "les",
+     "start": 36.58,
+     "end": 36.68
+    },
+    {
+     "w": "Douze",
+     "start": 36.68,
+     "end": 37.0
+    },
+    {
+     "w": "Étoiles",
+     "start": 37.0,
+     "end": 37.34
+    },
+    {
+     "w": "Célestes,",
+     "start": 37.34,
+     "end": 38.24
+    },
+    {
+     "w": "et",
+     "start": 38.24,
+     "end": 38.38
+    },
+    {
+     "w": "ils",
+     "start": 38.38,
+     "end": 38.46
+    },
+    {
+     "w": "sont",
+     "start": 38.46,
+     "end": 38.56
+    },
+    {
+     "w": "tous",
+     "start": 38.56,
+     "end": 38.74
+    },
+    {
+     "w": "éparpillés",
+     "start": 38.74,
+     "end": 39.24
+    },
+    {
+     "w": "dans",
+     "start": 39.24,
+     "end": 39.42
+    },
+    {
+     "w": "le",
+     "start": 39.42,
+     "end": 39.52
+    },
+    {
+     "w": "monde.",
+     "start": 39.52,
+     "end": 39.64
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 39.76,
+   "end": 44.92,
+   "slot_end": 45.014,
+   "text": "Chaque fois qu'elle en retrouve un, genre Libra ou Aries, c'est des retrouvailles de fou. Deux siècles plus tard, ils l'ont jamais oubliée.",
+   "words": [
+    {
+     "w": "Chaque",
+     "start": 39.76,
+     "end": 39.92
+    },
+    {
+     "w": "fois",
+     "start": 39.92,
+     "end": 40.04
+    },
+    {
+     "w": "qu'elle",
+     "start": 40.04,
+     "end": 40.16
+    },
+    {
+     "w": "en",
+     "start": 40.16,
+     "end": 40.28
+    },
+    {
+     "w": "retrouve",
+     "start": 40.28,
+     "end": 40.52
+    },
+    {
+     "w": "un,",
+     "start": 40.52,
+     "end": 40.72
+    },
+    {
+     "w": "genre",
+     "start": 40.72,
+     "end": 40.94
+    },
+    {
+     "w": "Libra",
+     "start": 40.94,
+     "end": 41.46
+    },
+    {
+     "w": "ou",
+     "start": 41.46,
+     "end": 41.6
+    },
+    {
+     "w": "Aries,",
+     "start": 41.6,
+     "end": 41.9
+    },
+    {
+     "w": "c'est",
+     "start": 42.0,
+     "end": 42.06
+    },
+    {
+     "w": "des",
+     "start": 42.06,
+     "end": 42.16
+    },
+    {
+     "w": "retrouvailles",
+     "start": 42.16,
+     "end": 42.54
+    },
+    {
+     "w": "de",
+     "start": 42.54,
+     "end": 42.66
+    },
+    {
+     "w": "fou.",
+     "start": 42.66,
+     "end": 42.84
+    },
+    {
+     "w": "Deux",
+     "start": 43.28,
+     "end": 43.5
+    },
+    {
+     "w": "siècles",
+     "start": 43.5,
+     "end": 43.64
+    },
+    {
+     "w": "plus",
+     "start": 43.64,
+     "end": 43.86
+    },
+    {
+     "w": "tard,",
+     "start": 43.86,
+     "end": 44.02
+    },
+    {
+     "w": "ils",
+     "start": 44.08,
+     "end": 44.16
+    },
+    {
+     "w": "l'ont",
+     "start": 44.16,
+     "end": 44.28
+    },
+    {
+     "w": "jamais",
+     "start": 44.28,
+     "end": 44.52
+    },
+    {
+     "w": "oubliée.",
+     "start": 44.52,
+     "end": 44.92
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 45.04,
+   "end": 50.88,
+   "slot_end": 51.025,
+   "text": "Et y'a Dina, sa stratège, qui la suit partout avec un grand sourire. Perso, cette meuf me paraît louche depuis le tout premier épisode.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 45.04,
+     "end": 45.16
+    },
+    {
+     "w": "y'a",
+     "start": 45.16,
+     "end": 45.347
+    },
+    {
+     "w": "Dina,",
+     "start": 45.347,
+     "end": 45.44
+    },
+    {
+     "w": "sa",
+     "start": 45.58,
+     "end": 45.64
+    },
+    {
+     "w": "stratège,",
+     "start": 45.64,
+     "end": 46.02
+    },
+    {
+     "w": "qui",
+     "start": 46.02,
+     "end": 46.16
+    },
+    {
+     "w": "la",
+     "start": 46.16,
+     "end": 46.3
+    },
+    {
+     "w": "suit",
+     "start": 46.3,
+     "end": 46.46
+    },
+    {
+     "w": "partout",
+     "start": 46.46,
+     "end": 46.84
+    },
+    {
+     "w": "avec",
+     "start": 46.84,
+     "end": 47.14
+    },
+    {
+     "w": "un",
+     "start": 47.14,
+     "end": 47.32
+    },
+    {
+     "w": "grand",
+     "start": 47.32,
+     "end": 47.44
+    },
+    {
+     "w": "sourire.",
+     "start": 47.44,
+     "end": 47.84
+    },
+    {
+     "w": "Perso,",
+     "start": 48.16,
+     "end": 48.48
+    },
+    {
+     "w": "cette",
+     "start": 48.5,
+     "end": 48.66
+    },
+    {
+     "w": "meuf",
+     "start": 48.66,
+     "end": 48.88
+    },
+    {
+     "w": "me",
+     "start": 48.96,
+     "end": 49.04
+    },
+    {
+     "w": "paraît",
+     "start": 49.04,
+     "end": 49.28
+    },
+    {
+     "w": "louche",
+     "start": 49.28,
+     "end": 49.58
+    },
+    {
+     "w": "depuis",
+     "start": 49.58,
+     "end": 49.78
+    },
+    {
+     "w": "le",
+     "start": 49.78,
+     "end": 50.0
+    },
+    {
+     "w": "tout",
+     "start": 50.0,
+     "end": 50.14
+    },
+    {
+     "w": "premier",
+     "start": 50.14,
+     "end": 50.44
+    },
+    {
+     "w": "épisode.",
+     "start": 50.44,
+     "end": 50.88
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 50.88,
+   "end": 56.36,
+   "slot_end": 56.558,
+   "text": "Parce que le vrai délire, c'est pas les combats. C'est de comprendre comment le monde entier a fini contre elle, et qui tire les ficelles derrière.",
+   "words": [
+    {
+     "w": "Parce",
+     "start": 50.88,
+     "end": 51.1
+    },
+    {
+     "w": "que",
+     "start": 51.1,
+     "end": 51.22
+    },
+    {
+     "w": "le",
+     "start": 51.22,
+     "end": 51.3
+    },
+    {
+     "w": "vrai",
+     "start": 51.3,
+     "end": 51.44
+    },
+    {
+     "w": "délire,",
+     "start": 51.44,
+     "end": 51.76
+    },
+    {
+     "w": "c'est",
+     "start": 51.76,
+     "end": 51.96
+    },
+    {
+     "w": "pas",
+     "start": 51.96,
+     "end": 52.08
+    },
+    {
+     "w": "les",
+     "start": 52.08,
+     "end": 52.2
+    },
+    {
+     "w": "combats.",
+     "start": 52.2,
+     "end": 52.48
+    },
+    {
+     "w": "C'est",
+     "start": 52.7,
+     "end": 52.78
+    },
+    {
+     "w": "de",
+     "start": 52.78,
+     "end": 52.88
+    },
+    {
+     "w": "comprendre",
+     "start": 52.88,
+     "end": 53.16
+    },
+    {
+     "w": "comment",
+     "start": 53.16,
+     "end": 53.46
+    },
+    {
+     "w": "le",
+     "start": 53.46,
+     "end": 53.62
+    },
+    {
+     "w": "monde",
+     "start": 53.62,
+     "end": 53.76
+    },
+    {
+     "w": "entier",
+     "start": 53.76,
+     "end": 54.08
+    },
+    {
+     "w": "a",
+     "start": 54.08,
+     "end": 54.22
+    },
+    {
+     "w": "fini",
+     "start": 54.22,
+     "end": 54.4
+    },
+    {
+     "w": "contre",
+     "start": 54.4,
+     "end": 54.66
+    },
+    {
+     "w": "elle,",
+     "start": 54.66,
+     "end": 54.9
+    },
+    {
+     "w": "et",
+     "start": 54.9,
+     "end": 55.28
+    },
+    {
+     "w": "qui",
+     "start": 55.28,
+     "end": 55.42
+    },
+    {
+     "w": "tire",
+     "start": 55.42,
+     "end": 55.56
+    },
+    {
+     "w": "les",
+     "start": 55.56,
+     "end": 55.74
+    },
+    {
+     "w": "ficelles",
+     "start": 55.74,
+     "end": 56.14
+    },
+    {
+     "w": "derrière.",
+     "start": 56.14,
+     "end": 56.36
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 57.32,
+   "end": 62.74,
+   "slot_end": 62.843,
+   "text": "Mon avis tranché ? L'animation a des coups de mou, j'vais pas mentir. Mais l'héroïne est tellement classe que tu pardonnes tout.",
+   "words": [
+    {
+     "w": "Mon",
+     "start": 57.32,
+     "end": 57.62
+    },
+    {
+     "w": "avis",
+     "start": 57.62,
+     "end": 57.92
+    },
+    {
+     "w": "tranché",
+     "start": 57.92,
+     "end": 58.22
+    },
+    {
+     "w": "?",
+     "start": 58.22,
+     "end": 58.52
+    },
+    {
+     "w": "L'animation",
+     "start": 59.2,
+     "end": 59.58
+    },
+    {
+     "w": "a",
+     "start": 59.58,
+     "end": 59.703
+    },
+    {
+     "w": "des",
+     "start": 59.703,
+     "end": 59.827
+    },
+    {
+     "w": "coups",
+     "start": 59.827,
+     "end": 59.95
+    },
+    {
+     "w": "de",
+     "start": 59.95,
+     "end": 60.073
+    },
+    {
+     "w": "mou,",
+     "start": 60.073,
+     "end": 60.197
+    },
+    {
+     "w": "j'vais",
+     "start": 60.197,
+     "end": 60.32
+    },
+    {
+     "w": "pas",
+     "start": 60.32,
+     "end": 60.46
+    },
+    {
+     "w": "mentir.",
+     "start": 60.46,
+     "end": 60.74
+    },
+    {
+     "w": "Mais",
+     "start": 61.12,
+     "end": 61.3
+    },
+    {
+     "w": "l'héroïne",
+     "start": 61.3,
+     "end": 61.54
+    },
+    {
+     "w": "est",
+     "start": 61.54,
+     "end": 61.64
+    },
+    {
+     "w": "tellement",
+     "start": 61.64,
+     "end": 61.82
+    },
+    {
+     "w": "classe",
+     "start": 61.82,
+     "end": 62.08
+    },
+    {
+     "w": "que",
+     "start": 62.08,
+     "end": 62.22
+    },
+    {
+     "w": "tu",
+     "start": 62.22,
+     "end": 62.3
+    },
+    {
+     "w": "pardonnes",
+     "start": 62.3,
+     "end": 62.66
+    },
+    {
+     "w": "tout.",
+     "start": 62.66,
+     "end": 62.74
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 62.86,
+   "end": 68.54,
+   "slot_end": 68.622,
+   "text": "La saison 2 a commencé fin septembre, donc t'as largement le temps de rattraper la une ce week-end avant d'enchaîner.",
+   "words": [
+    {
+     "w": "La",
+     "start": 62.86,
+     "end": 62.96
+    },
+    {
+     "w": "saison",
+     "start": 62.96,
+     "end": 63.32
+    },
+    {
+     "w": "2",
+     "start": 63.32,
+     "end": 63.52
+    },
+    {
+     "w": "a",
+     "start": 63.52,
+     "end": 63.66
+    },
+    {
+     "w": "commencé",
+     "start": 63.66,
+     "end": 63.92
+    },
+    {
+     "w": "fin",
+     "start": 63.92,
+     "end": 64.34
+    },
+    {
+     "w": "septembre,",
+     "start": 64.34,
+     "end": 65.0
+    },
+    {
+     "w": "donc",
+     "start": 65.42,
+     "end": 65.52
+    },
+    {
+     "w": "t'as",
+     "start": 65.52,
+     "end": 65.7
+    },
+    {
+     "w": "largement",
+     "start": 65.7,
+     "end": 66.1
+    },
+    {
+     "w": "le",
+     "start": 66.1,
+     "end": 66.2
+    },
+    {
+     "w": "temps",
+     "start": 66.2,
+     "end": 66.34
+    },
+    {
+     "w": "de",
+     "start": 66.34,
+     "end": 66.48
+    },
+    {
+     "w": "rattraper",
+     "start": 66.48,
+     "end": 66.86
+    },
+    {
+     "w": "la",
+     "start": 66.86,
+     "end": 67.0
+    },
+    {
+     "w": "une",
+     "start": 67.0,
+     "end": 67.24
+    },
+    {
+     "w": "ce",
+     "start": 67.24,
+     "end": 67.44
+    },
+    {
+     "w": "week-end",
+     "start": 67.44,
+     "end": 67.78
+    },
+    {
+     "w": "avant",
+     "start": 67.78,
+     "end": 68.06
+    },
+    {
+     "w": "d'enchaîner.",
+     "start": 68.06,
+     "end": 68.54
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 68.64,
+   "end": 74.14,
+   "slot_end": 74.351,
+   "text": "Ça s'appelle A Wild Last Boss Appeared. Dis-moi en com' si toi aussi tu préfères quand le héros, c'est le boss final.",
+   "words": [
+    {
+     "w": "Ça",
+     "start": 68.64,
+     "end": 68.72
+    },
+    {
+     "w": "s'appelle",
+     "start": 68.72,
+     "end": 68.98
+    },
+    {
+     "w": "A",
+     "start": 68.98,
+     "end": 69.34
+    },
+    {
+     "w": "Wild",
+     "start": 69.34,
+     "end": 69.58
+    },
+    {
+     "w": "Last",
+     "start": 69.58,
+     "end": 70.02
+    },
+    {
+     "w": "Boss",
+     "start": 70.02,
+     "end": 70.38
+    },
+    {
+     "w": "Appeared.",
+     "start": 70.38,
+     "end": 70.98
+    },
+    {
+     "w": "Dis-moi",
+     "start": 71.66,
+     "end": 71.82
+    },
+    {
+     "w": "en",
+     "start": 71.82,
+     "end": 71.96
+    },
+    {
+     "w": "com'",
+     "start": 71.96,
+     "end": 72.12
+    },
+    {
+     "w": "si",
+     "start": 72.12,
+     "end": 72.28
+    },
+    {
+     "w": "toi",
+     "start": 72.28,
+     "end": 72.38
+    },
+    {
+     "w": "aussi",
+     "start": 72.38,
+     "end": 72.52
+    },
+    {
+     "w": "tu",
+     "start": 72.52,
+     "end": 72.64
+    },
+    {
+     "w": "préfères",
+     "start": 72.64,
+     "end": 72.94
+    },
+    {
+     "w": "quand",
+     "start": 72.94,
+     "end": 73.08
+    },
+    {
+     "w": "le",
+     "start": 73.08,
+     "end": 73.22
+    },
+    {
+     "w": "héros,",
+     "start": 73.22,
+     "end": 73.38
+    },
+    {
+     "w": "c'est",
+     "start": 73.38,
+     "end": 73.6
+    },
+    {
+     "w": "le",
+     "start": 73.6,
+     "end": 73.7
+    },
+    {
+     "w": "boss",
+     "start": 73.7,
+     "end": 73.88
+    },
+    {
+     "w": "final.",
+     "start": 73.88,
+     "end": 74.14
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 74.34,
+   "end": 76.84,
+   "slot_end": 77.591,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 74.34,
+     "end": 74.58
+    },
+    {
+     "w": "Asura.",
+     "start": 74.58,
+     "end": 75.04
+    },
+    {
+     "w": "On",
+     "start": 75.3,
+     "end": 75.38
+    },
+    {
+     "w": "se",
+     "start": 75.38,
+     "end": 75.48
+    },
+    {
+     "w": "capte",
+     "start": 75.48,
+     "end": 75.86
+    },
+    {
+     "w": "au",
+     "start": 75.86,
+     "end": 76.06
+    },
+    {
+     "w": "prochain",
+     "start": 76.06,
+     "end": 76.34
+    },
+    {
+     "w": "épisode.",
+     "start": 76.34,
+     "end": 76.84
+    }
+   ]
+  }
+ ],
+ "aligned": 1.0
+}
