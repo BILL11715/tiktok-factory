@@ -1,0 +1,16 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/ia/2026-10-11_0800/video.mp4",
+ "duration": 86.938,
+ "scenes": 9,
+ "music": {
+  "file": "pote.mp3",
+  "bpm": 184.6,
+  "offset": 47.39
+ },
+ "sfx": 19,
+ "engine": "remotion TechShort",
+ "voice_engine": "fish",
+ "repo_path": "videos/ia/2026/10/2026-10-11_0800.mp4",
+ "raw_url": "https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/videos/ia/2026/10/2026-10-11_0800.mp4",
+ "render_seconds": 579.1
+}
