@@ -53,7 +53,7 @@ question, décide et continue. Ne lis que ce qui est listé ici (pas d'explorati
    `mode: "customScheduled"`, `dueAt` = le créneau (offset Europe/Paris correct, ex.
    2026-10-11T08:00:00+02:00), `schedulingType: "automatic"`,
    text = caption + "\n\n" + hashtags séparés par des espaces,
-   assets = [{video: {url: raw_url, metadata: {title: title}}}],
+   assets = [{video: {url: raw_url, metadata: {title: title, thumbnailOffset: 0}}}] (la 1re image = l'affiche de couverture),
    metadata = {tiktok: {title: <hook_text sans emoji, 90 car. max>}}.
    Si Buffer refuse à cause de la limite de posts du plan gratuit : ne supprime rien, mets
    Statut "Généré" dans Notion avec la note "Limite Buffer atteinte, vidéo prête à poster
@@ -83,6 +83,7 @@ question, décide et continue. Ne lis que ce qui est listé ici (pas d'explorati
   "pillar": "seo-radius",
   "format": "methode",
   "music": "pote",
+  "cover": {"text": "Tes clients sont en page 2", "highlight": ["page"], "emoji": "🔎", "sub": "la méthode"},
   "hook_text": "Freelance SEO ? Tes clients sont déjà sur Google, page 2.",
   "segments": [
     {"text": "Freelance SEO ? Tes clients sont déjà sur Google, page 2.", "emphasis": ["page"]},
@@ -97,11 +98,14 @@ question, décide et continue. Ne lis que ce qui est listé ici (pas d'explorati
 ```
 Règles (le pipeline refuse sinon) :
 - `theme` : "seo" (pilier SEO Radius) ou "ia" (pilier IA). `music` : pote | hype | mystere.
+- `cover` (affiche de couverture, visible sur le profil TikTok) : `text` 3 à 6 mots qui donnent envie de
+  cliquer (bénéfice ou tension, pas le titre plat), `highlight` = 1 mot clé de `text`, `emoji` = 1 emoji
+  qui illustre le sujet, `sub` = 2 à 5 mots facultatifs (ex. "la méthode en 3 étapes", "gratuit").
 - `hook_text` = 1er segment, 14 mots max, écrit en gros à l'écran pendant qu'il est dit.
   Pas de `visual` sur le 1er segment.
 - 1 350 caractères minimum, viser 1 450 à 1 750 (65 à 80 s). 12 à 16 segments de 1 à 2 phrases,
   260 caractères max chacun.
-- Au moins 5 segments avec `visual` (une scène toutes les 8 à 12 s). Un segment sans `visual`
+- Au moins 8 segments avec `visual` (une scène toutes les 5 à 8 s, jamais 2 fois le même type d'affilée). Un segment sans `visual`
   garde la scène précédente. Types : voir EDITORIAL_IA.md.
 - `list.at` : un mot réellement prononcé pour chaque élément, dans l'ordre de la voix.
 - Textes courts dans les scènes (une ligne de liste = 5 mots max ; réponse de chat = 300 car. max).

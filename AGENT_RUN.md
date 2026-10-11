@@ -55,7 +55,7 @@ Bill n'est pas là pendant le run : ne pose aucune question, décide et continue
    `mode: "customScheduled"`, `dueAt` = l'heure du créneau aujourd'hui (12:30, 18:30 ou 21:30,
    offset Europe/Paris correct, ex. 2026-09-28T18:30:00+02:00 ; si l'heure est déjà passée,
    prends le créneau libre suivant), `schedulingType: "automatic"`, text = caption + "\n\n" + hashtags séparés par des espaces,
-   assets = [{video: {url: raw_url, metadata: {title: title}}}],
+   assets = [{video: {url: raw_url, metadata: {title: title, thumbnailOffset: 0}}}],
    metadata = {tiktok: {title: <hook_text sans emoji, 90 car. max>}}.
    Note l'id du post.
 8. **Notion** : crée une page dans la data source Historique avec : Titre, Compte "@the.asura8",
@@ -91,6 +91,7 @@ FFmpeg de secours prend le relais (result.json -> "engine").
   "tone": "pote | conteur | hype | pose",
   "music": "pote | mystere | hype | hype2 | triste",
   "animes": ["Jujutsu Kaisen"],
+  "cover": {"text": "Le perso le plus cheaté de JJK", "highlight": ["cheaté"], "emoji": "😱"},
   "hook_text": "Le numéro 1 est tellement cheaté que l'auteur a dû le sceller",
   "spoiler": false,
   "spoiler_label": "chapitre 1160",
@@ -107,6 +108,9 @@ FFmpeg de secours prend le relais (result.json -> "engine").
 }
 ```
 Règles (le pipeline refuse le script si les points marqués ⛔ manquent) :
+- `cover` : affiche de couverture sur les premières images, c'est la miniature vue sur le profil
+  TikTok. `text` 3 à 6 mots qui donnent envie de cliquer, `highlight` = 1 mot (surligné en jaune),
+  `emoji` = 1 emoji, `sub` facultatif (2 à 4 mots). Sans `cover`, le titre est utilisé.
 - ⛔ `hook_text` : la 1re phrase, écrite en gros à l'écran pendant que la voix la dit. Le hook visuel
   (zoom punch, flash, tremblement, bruit d'impact, mots qui claquent) est automatique.
   Le segment 1 = cette phrase (même idée, mots quasi identiques). Le segment 2 peut ajouter une

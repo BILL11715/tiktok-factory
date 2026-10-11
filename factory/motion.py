@@ -316,8 +316,18 @@ def _dress(script: dict, tl: list, hook_end: float, total: float, tone: str, cue
 
     # 5) habillage
     overlays = []
+    # affiche de couverture sur les 0,7 premières secondes (miniature du profil), puis le hook
+    cv = script.get("cover") or {}
+    cover_txt = cv.get("text") or script.get("title", "")
+    hook_from = 0
+    if cover_txt:
+        overlays.append({"type": "cover", "text": cover_txt, "highlight": cv.get("highlight", []),
+                         "emoji": cv.get("emoji", ""), "sub": cv.get("sub", ""), "from": 0, "to": 22})
+        hook_from = 18
+        if props_shots:  # le punch (flash blanc + zoom) part après l'affiche, pas sur la 1re image
+            props_shots[0]["fxDelay"] = hook_from
     if script.get("hook_text"):
-        overlays.append({"type": "hook", "text": script["hook_text"], "from": 0, "to": f(max(hook_end, 2.4))})
+        overlays.append({"type": "hook", "text": script["hook_text"], "from": hook_from, "to": f(max(hook_end, 2.4))})
     if script.get("spoiler"):
         overlays.append({"type": "spoiler", "text": str(script.get("spoiler_label", "")), "from": 0, "to": f(3.5)})
     for seg, x in zip(script["segments"], tl):

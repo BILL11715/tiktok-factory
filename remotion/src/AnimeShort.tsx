@@ -33,12 +33,16 @@ export type Shot = {
   grade?: string; // normal | bw | cinematic | vivid | warm | cold
   trans?: string; // cut | whip | zoom | glitch | flash | slide
   fx?: string; // hook | punch
+  fxDelay?: number; // frames avant le punch (affiche de couverture au début)
   seed?: number;
 };
 export type Word = { w: string; from: number; to: number; hl?: boolean };
 export type Group = { from: number; to: number; words: Word[] };
 export type Overlay = {
-  type: "hook" | "rank" | "cta" | "reveal" | "stamp" | "spoiler";
+  type: "hook" | "rank" | "cta" | "reveal" | "stamp" | "spoiler" | "cover";
+  highlight?: string[];
+  emoji?: string;
+  sub?: string;
   text?: string;
   from: number;
   to: number;
@@ -126,15 +130,18 @@ const ShotLayer: React.FC<{ shot: Shot; isFirst: boolean }> = ({ shot, isFirst }
   else if (m === "drift-up") ty = ((H * ov - H) / 2) * (1 - 2 * t);
 
   // zoom punch + tremblement (hook / révélations)
-  if (shot.fx === "hook" || shot.fx === "punch") {
+  const fxF = frame - (shot.fxDelay ?? 0);
+  const fxOn = (shot.fx === "hook" || shot.fx === "punch") && fxF >= 0;
+  if (fxOn) {
     const strength = shot.fx === "hook" ? 0.45 : 0.2;
-    const s = spring({ frame, fps, config: { damping: 14, stiffness: 180, mass: 0.6 } });
+    const s = spring({ frame: fxF, fps, config: { damping: 14, stiffness: 180, mass: 0.6 } });
     scale *= 1 + strength * (1 - s);
-    const shake = interpolate(frame, [0, 14], [shot.fx === "hook" ? 26 : 12, 0], {
+    const shake = interpolate(fxF, [0, 14], [shot.fx === "hook" ? 26 : 12, 0], {
+      extrapolateLeft: "clamp",
       extrapolateRight: "clamp",
     });
-    tx += Math.sin(frame * 2.7) * shake;
-    ty += Math.cos(frame * 2.1) * shake;
+    tx += Math.sin(fxF * 2.7) * shake;
+    ty += Math.cos(fxF * 2.1) * shake;
   }
 
   // transition d'entrée (sur les OV premières frames)
@@ -207,11 +214,12 @@ const ShotLayer: React.FC<{ shot: Shot; isFirst: boolean }> = ({ shot, isFirst }
         img()
       )}
       {flash > 0 && <AbsoluteFill style={{ backgroundColor: "#fff", opacity: flash }} />}
-      {(shot.fx === "hook" || shot.fx === "punch") && (
+      {fxOn && (
         <AbsoluteFill
           style={{
             backgroundColor: "#fff",
-            opacity: interpolate(frame, [0, shot.fx === "hook" ? 7 : 4], [shot.fx === "hook" ? 0.95 : 0.6, 0], {
+            opacity: interpolate(fxF, [0, shot.fx === "hook" ? 7 : 4], [shot.fx === "hook" ? 0.95 : 0.6, 0], {
+              extrapolateLeft: "clamp",
               extrapolateRight: "clamp",
             }),
           }}
@@ -597,6 +605,41 @@ const Spoiler: React.FC<{ o: Overlay }> = ({ o }) => {
   );
 };
 
+// affiche de couverture : visible dès la 1re image (miniature du profil TikTok)
+const CoverOverlay: React.FC<{ o: Overlay }> = ({ o }) => {
+  const frame = useCurrentFrame();
+  const len = o.to - o.from;
+  const out = interpolate(frame, [len - 6, len], [1, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
+  const words = (o.text ?? "").toUpperCase().split(/\s+/).filter(Boolean);
+  const clean = (w: string) => w.toUpperCase().replace(/[.,!?:;]/g, "");
+  const hl = new Set((o.highlight ?? []).map(clean));
+  const n = words.length;
+  const size = n <= 3 ? 190 : n <= 5 ? 160 : n <= 7 ? 136 : 118;
+  return (
+    <AbsoluteFill style={{ opacity: out }}>
+      <AbsoluteFill style={{ background: "linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0.35) 35%, rgba(0,0,0,0.82) 75%, rgba(0,0,0,0.9) 100%)" }} />
+      <div style={{ position: "absolute", left: 60, right: 60, top: 640, textAlign: "center", fontFamily: "Anton", fontSize: size,
+        lineHeight: 1.02, transform: "rotate(-3deg)" }}>
+        {o.emoji ? <div style={{ fontSize: 170, marginBottom: 10, filter: "drop-shadow(0 10px 0 #000)" }}>{o.emoji}</div> : null}
+        {words.map((w, i) => {
+          const isHl = hl.has(clean(w)) || (hl.size === 0 && i === n - 1);
+          return (
+            <span key={i} style={{ display: "inline-block", margin: "0 12px 14px",
+              color: isHl ? "#000" : "#fff", background: isHl ? YELLOW : "transparent", padding: isHl ? "0 22px" : 0,
+              borderRadius: 14, border: isHl ? "6px solid #000" : "none",
+              WebkitTextStroke: isHl ? "0px transparent" : "8px #000", paintOrder: "stroke fill",
+              textShadow: isHl ? "none" : "0 10px 0 #000", boxShadow: isHl ? "12px 12px 0 #000" : "none" }}>{w}</span>
+          );
+        })}
+        {o.sub ? (
+          <div style={{ marginTop: 24, display: "inline-block", fontFamily: "MontX", fontSize: 54, color: "#000", background: "#fff",
+            border: "5px solid #000", borderRadius: 60, padding: "12px 36px", transform: "rotate(2deg)" }}>{o.sub}</div>
+        ) : null}
+      </div>
+    </AbsoluteFill>
+  );
+};
+
 const OverlayView: React.FC<{ o: Overlay }> = ({ o }) => {
   switch (o.type) {
     case "hook":
@@ -611,6 +654,8 @@ const OverlayView: React.FC<{ o: Overlay }> = ({ o }) => {
       return <Reveal o={o} />;
     case "spoiler":
       return <Spoiler o={o} />;
+    case "cover":
+      return <CoverOverlay o={o} />;
     default:
       return null;
   }

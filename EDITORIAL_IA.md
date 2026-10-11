@@ -71,8 +71,15 @@ Cible : grand public curieux, zéro jargon. Angles :
   "Freelance SEO ? Tes clients sont déjà sur Google, page 2."
 - Durée : 1 450 à 1 750 caractères de texte parlé (environ 65 à 80 s). Jamais moins d'une minute.
 
+## Style visuel (TechShort, style "pop" clair)
+- Fond blanc cassé, cartes blanches cerclées de noir avec ombre franche, une couleur vive par scène
+  (jaune, rose, bleu, vert, violet, orange), formes qui flottent : jamais d'écran sombre ni figé.
+- Affiche de couverture sur les premières images (champ `cover`) : c'est la miniature vue sur le
+  profil. Grosse phrase de 3 à 6 mots, 1 mot surligné, 1 emoji. Elle doit donner envie de cliquer.
+- Varier les scènes : enchaîner title, list, stat, compare, search, chat, card plutôt que 4 titres.
+
 ## Scènes disponibles (motion design TechShort)
-Une scène toutes les 8 à 12 s (5 minimum). Choisir celle qui MONTRE ce qui est dit :
+Une scène toutes les 5 à 8 s (8 minimum), jamais 2 fois le même type d'affilée. Choisir celle qui MONTRE ce qui est dit :
 - `title` : phrase clé en gros (`kicker`, `text`, `highlight`, `sub`).
 - `chat` : échange avec une IA (`name`, `user`, `assistant`). Idéal pour montrer un prompt.
 - `terminal` : commandes et résultats (`title`, `lines`: [{"cmd"}, {"out"}]).

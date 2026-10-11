@@ -54,8 +54,13 @@ def lint(script: dict) -> list[str]:
             nvis += 1
             if v.get("kind") not in KINDS:
                 problems.append(f"segment {i + 1} : visual.kind inconnu « {v.get('kind')} »")
-    if nvis < 5:
-        problems.append(f"seulement {nvis} scènes : il en faut au moins 5 (une toutes les 8 à 12 s)")
+    if nvis < 8:
+        problems.append(f"seulement {nvis} scènes : il en faut au moins 8 (une toutes les 5 à 8 s)")
+    cv = script.get("cover") or {}
+    if not cv.get("text"):
+        problems.append("cover.text manquant : affiche de couverture de 3 à 6 mots (miniature du profil)")
+    elif len(cv["text"].split()) > 7:
+        problems.append("cover.text > 7 mots : l'affiche doit se lire d'un coup d'oeil")
     if script.get("theme") not in ("ia", "seo"):
         problems.append("theme doit valoir « ia » ou « seo »")
     return problems

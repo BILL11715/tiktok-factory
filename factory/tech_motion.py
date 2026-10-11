@@ -21,7 +21,7 @@ from . import motion as M
 ROOT = Path(__file__).resolve().parent.parent
 FPS = 30
 TRANS = ["up", "zoom", "left", "up", "zoom"]
-ACCENTS = {"ia": "#D4FF3A", "seo": "#3AD8FF"}
+ACCENTS = {"ia": "#12B76A", "seo": "#2F6BFF"}  # style clair (fond blanc cassé)
 
 
 def f(t: float) -> int:
@@ -146,8 +146,12 @@ def build(script: dict, voice: dict, work: Path, rng: random.Random) -> tuple[di
             stamps.append({"text": seg["stamp"], "from": f(at), "to": f(min(at + 1.5, x["slot_end"]))})
             cues.append((at, "impact"))
 
+    # affiche de couverture (premières images = miniature du profil TikTok)
+    cv = script.get("cover") or {}
+    cover = {"text": cv.get("text") or script.get("title", ""), "highlight": cv.get("highlight", []),
+             "emoji": cv.get("emoji", ""), "sub": cv.get("sub", ""), "badge": cv.get("badge", "")}
     props = {"durationInFrames": f(total) + 1, "hook": hook, "scenes": scenes, "groups": g_props,
-             "stamps": stamps, "accent": accent, "theme": theme}
+             "stamps": stamps, "accent": accent, "theme": theme, "cover": cover}
     (work / "timeline.json").write_text(json.dumps(props, ensure_ascii=False))
     music = M.pick_music({"music": script.get("music", "pote"), "tone": "pote"}, total, rng)
     cues = sorted([c for c in cues if c[1]], key=lambda c: c[0])
