@@ -1,0 +1,125 @@
+{
+ "title": "Reco : il voit les stats de tout le monde et recrute les rejetés",
+ "format": "reco",
+ "tone": "pote",
+ "music": "pote",
+ "animes": [
+  "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3"
+ ],
+ "hook_text": "Ce gamin voit les stats de tout le monde, et il recrute ceux que personne veut",
+ "spoiler": false,
+ "segments": [
+  {
+   "text": "Ce gamin voit les stats de tout le monde, et il recrute ceux que personne veut.",
+   "sfx": true,
+   "emphasis": [
+    "stats"
+   ]
+  },
+  {
+   "text": "[whispering] Reste jusqu'au bout, j'te donne le nom, et la saison 3 vient tout juste de commencer.",
+   "emphasis": [
+    "saison 3"
+   ]
+  },
+  {
+   "text": "Le pitch. Un mec normal au Japon meurt, et il se réincarne dans un monde médiéval qui part en vrille.",
+   "shots": [
+    {
+     "kind": "wide"
+    }
+   ]
+  },
+  {
+   "text": "Il renaît fils aîné d'une petite famille noble, les Louvent, dans un empire qui se fissure de partout.",
+   "emphasis": [
+    "Louvent"
+   ]
+  },
+  {
+   "text": "Et là, il découvre son pouvoir. Il regarde quelqu'un, et il voit ses stats comme dans un jeu de stratégie.",
+   "sfx": true,
+   "emphasis": [
+    "pouvoir"
+   ]
+  },
+  {
+   "text": "Commandement, bravoure, intelligence, politique. Mais surtout, il voit le potentiel caché des gens.",
+   "emphasis": [
+    "potentiel"
+   ]
+  },
+  {
+   "text": "[excited] Et c'est là que ça devient chaud. Au lieu de courir après les héros connus, Ars va chercher les rejetés.",
+   "emphasis": [
+    "rejetés"
+   ]
+  },
+  {
+   "text": "Si t'aimes les animes où le héros gagne avec sa tête, abonne-toi, j'te sors une nouvelle reco tous les jours.",
+   "cta": true
+  },
+  {
+   "text": "Premier recrutement, Rietz. C'est un Malkan, une race que tout le monde méprise, et personne veut l'engager.",
+   "grade": "bw",
+   "sfx": true,
+   "emphasis": [
+    "Malkan"
+   ]
+  },
+  {
+   "text": "Ars, lui, il regarde ses stats, et il comprend direct qu'il a un cerveau de stratège devant lui.",
+   "emphasis": [
+    "stratège"
+   ]
+  },
+  {
+   "text": "Ensuite y'a Charlotte, une mage au talent monstrueux, et Rosell, un gamin qui va devenir un inventeur de fou.",
+   "emphasis": [
+    "Charlotte",
+    "Rosell"
+   ]
+  },
+  {
+   "text": "[laughing] Le délire, c'est que lui est pas un monstre au combat. Il gagne en choisissant les bonnes personnes.",
+   "emphasis": [
+    "bonnes personnes"
+   ]
+  },
+  {
+   "text": "Sauf que l'empire s'effondre, les seigneurs se font la guerre, et sa petite famille est pile au milieu.",
+   "grade": "bw",
+   "emphasis": [
+    "guerre"
+   ]
+  },
+  {
+   "text": "Mon avis, frr ? C'est l'isekai le plus sous-coté de la saison. Pas de héros qui one-shot tout, juste de la vraie stratégie.",
+   "stamp": "SOUS-COTÉ",
+   "emphasis": [
+    "sous-coté"
+   ]
+  },
+  {
+   "text": "[excited] La saison 3 a démarré le 27 septembre, et les deux premières se regardent d'une traite, j'te jure.",
+   "emphasis": [
+    "27 septembre"
+   ]
+  },
+  {
+   "text": "Le nom, c'est As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World. Ouais, le titre est long. Dis-moi en com' si tu connais.",
+   "sfx": true
+  }
+ ],
+ "reveal_text": "Reincarnated Aristocrat",
+ "reveal_segments": 1,
+ "caption": "Il gagne la guerre juste en recrutant les bonnes personnes 🧠 tu connaissais ?",
+ "hashtags": [
+  "#anime",
+  "#manga",
+  "#animefr",
+  "#otakufr",
+  "#isekai",
+  "#recommandationanime"
+ ]
+}
