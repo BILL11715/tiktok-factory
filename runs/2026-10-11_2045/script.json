@@ -1,0 +1,120 @@
+{
+ "title": "Théorie PSYREN : celui qui envoie les cartes rouges veut sauver le monde",
+ "format": "theorie",
+ "tone": "conteur",
+ "music": "mystere",
+ "animes": [
+  "PSYREN"
+ ],
+ "hook_text": "Et si la voix au bout du téléphone de Psyren était la gentille ?",
+ "spoiler": false,
+ "segments": [
+  {
+   "text": "Et si la voix au bout du téléphone de Psyren était la gentille ?",
+   "sfx": true,
+   "emphasis": [
+    "gentille"
+   ]
+  },
+  {
+   "text": "[whispering] Reste jusqu'au bout, parce que si j'ai raison, tout le début de l'anime change de sens.",
+   "emphasis": [
+    "raison"
+   ]
+  },
+  {
+   "text": "Rappel rapide. Ageha, un lycéen qui règle les problèmes des autres contre de l'argent, trouve une carte téléphonique rouge marquée Psyren.",
+   "emphasis": [
+    "carte"
+   ]
+  },
+  {
+   "text": "Pile au moment où sa camarade Sakurako a disparu sans laisser de trace. Et ça, c'est pas un hasard.",
+   "emphasis": [
+    "Sakurako"
+   ]
+  },
+  {
+   "text": "Il appelle depuis une cabine, une voix lui demande s'il peut répondre à la question, et il se retrouve balancé dans un désert en ruines.",
+   "shots": [
+    {
+     "kind": "wide"
+    }
+   ],
+   "grade": "cold"
+  },
+  {
+   "text": "Là-bas, des monstres appelés les Tabous chassent les joueurs. Beaucoup ne rentrent jamais.",
+   "grade": "bw",
+   "sfx": true
+  },
+  {
+   "text": "Tout le monde voit Nemesis Q comme un maître du jeu sadique. Moi j'y crois pas une seconde.",
+   "stamp": "SUSPECT",
+   "emphasis": [
+    "Nemesis Q"
+   ]
+  },
+  {
+   "text": "Si tu veux la partie 2 quand l'anime avance, abonne-toi, je décortique Psyren chaque semaine.",
+   "cta": true
+  },
+  {
+   "text": "Premier indice. Nemesis Q ne prend pas n'importe qui, il choisit ses joueurs, et il les ramène chez eux s'ils survivent.",
+   "emphasis": [
+    "indice"
+   ]
+  },
+  {
+   "text": "Un psychopathe qui veut juste un spectacle, il s'embêterait pas à te ramener. Lui, il a besoin de toi vivant.",
+   "emphasis": [
+    "vivant"
+   ]
+  },
+  {
+   "text": "[surprised] Deuxième indice, et c'est le plus chaud. Regarde bien le décor de ce désert en ruines.",
+   "sfx": true,
+   "shots": [
+    {
+     "kind": "wide"
+    }
+   ]
+  },
+  {
+   "text": "Pour moi, c'est pas un autre monde. C'est notre monde, plus tard. Un futur où tout a déjà cramé.",
+   "grade": "bw",
+   "emphasis": [
+    "futur"
+   ]
+  },
+  {
+   "text": "Et troisième indice, ceux qui reviennent commencent à développer des pouvoirs, les PSI. Genre, on les entraîne.",
+   "emphasis": [
+    "PSI"
+   ]
+  },
+  {
+   "text": "Donc ma théorie, c'est que Nemesis Q recrute une armée pour changer ce futur. Pas pour s'amuser.",
+   "stamp": "RECRUTEUR",
+   "emphasis": [
+    "armée"
+   ]
+  },
+  {
+   "text": "[sigh] Le seul truc qui coince, c'est que des joueurs meurent sous ses yeux, et il bouge pas d'un pouce.",
+   "grade": "bw"
+  },
+  {
+   "text": "Alors c'est un allié prêt à tout, ou un vrai monstre ? Dis-moi en com' de quel côté t'es, et les lecteurs du manga, pas de spoil."
+  }
+ ],
+ "caption": "Nemesis Q, allié ou monstre ? 📞 Pas de spoil les lecteurs du manga",
+ "hashtags": [
+  "#anime",
+  "#manga",
+  "#animefr",
+  "#mangafr",
+  "#psyren",
+  "#theorie"
+ ]
+}
