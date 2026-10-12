@@ -1,0 +1,1706 @@
+{
+ "engine": "fish",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-12_1745/voice.wav",
+ "duration": 78.716,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 2.92,
+   "slot_end": 2.99,
+   "text": "Le monstre le plus dangereux de One Punch Man, c'est un humain.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 0.0,
+     "end": 0.12
+    },
+    {
+     "w": "monstre",
+     "start": 0.12,
+     "end": 0.44
+    },
+    {
+     "w": "le",
+     "start": 0.44,
+     "end": 0.62
+    },
+    {
+     "w": "plus",
+     "start": 0.62,
+     "end": 0.76
+    },
+    {
+     "w": "dangereux",
+     "start": 0.76,
+     "end": 1.18
+    },
+    {
+     "w": "de",
+     "start": 1.18,
+     "end": 1.32
+    },
+    {
+     "w": "One",
+     "start": 1.32,
+     "end": 1.5
+    },
+    {
+     "w": "Punch",
+     "start": 1.5,
+     "end": 1.7
+    },
+    {
+     "w": "Man,",
+     "start": 1.7,
+     "end": 1.94
+    },
+    {
+     "w": "c'est",
+     "start": 2.06,
+     "end": 2.28
+    },
+    {
+     "w": "un",
+     "start": 2.28,
+     "end": 2.5
+    },
+    {
+     "w": "humain.",
+     "start": 2.5,
+     "end": 2.92
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 3.02,
+   "end": 6.22,
+   "slot_end": 6.282,
+   "text": "Reste jusqu'au numéro 1, la plupart des gens le classent même pas dans les monstres.",
+   "words": [
+    {
+     "w": "Reste",
+     "start": 3.02,
+     "end": 3.18
+    },
+    {
+     "w": "jusqu'au",
+     "start": 3.18,
+     "end": 3.58
+    },
+    {
+     "w": "numéro",
+     "start": 3.58,
+     "end": 3.86
+    },
+    {
+     "w": "1,",
+     "start": 3.86,
+     "end": 4.18
+    },
+    {
+     "w": "la",
+     "start": 4.2,
+     "end": 4.32
+    },
+    {
+     "w": "plupart",
+     "start": 4.32,
+     "end": 4.48
+    },
+    {
+     "w": "des",
+     "start": 4.48,
+     "end": 4.76
+    },
+    {
+     "w": "gens",
+     "start": 4.76,
+     "end": 4.92
+    },
+    {
+     "w": "le",
+     "start": 5.06,
+     "end": 5.11
+    },
+    {
+     "w": "classent",
+     "start": 5.08,
+     "end": 5.3
+    },
+    {
+     "w": "même",
+     "start": 5.3,
+     "end": 5.52
+    },
+    {
+     "w": "pas",
+     "start": 5.52,
+     "end": 5.7
+    },
+    {
+     "w": "dans",
+     "start": 5.7,
+     "end": 5.8
+    },
+    {
+     "w": "les",
+     "start": 5.8,
+     "end": 5.92
+    },
+    {
+     "w": "monstres.",
+     "start": 5.92,
+     "end": 6.22
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 6.32,
+   "end": 11.94,
+   "slot_end": 12.045,
+   "text": "One Punch Man revient en janvier 2027 pour la partie 2 de la saison 3. Alors avant ça, j'te fais mon top 5.",
+   "words": [
+    {
+     "w": "One",
+     "start": 6.32,
+     "end": 6.44
+    },
+    {
+     "w": "Punch",
+     "start": 6.44,
+     "end": 6.7
+    },
+    {
+     "w": "Man",
+     "start": 6.7,
+     "end": 6.86
+    },
+    {
+     "w": "revient",
+     "start": 6.86,
+     "end": 7.14
+    },
+    {
+     "w": "en",
+     "start": 7.14,
+     "end": 7.3
+    },
+    {
+     "w": "janvier",
+     "start": 7.3,
+     "end": 7.72
+    },
+    {
+     "w": "2027",
+     "start": 7.72,
+     "end": 8.44
+    },
+    {
+     "w": "pour",
+     "start": 8.44,
+     "end": 8.66
+    },
+    {
+     "w": "la",
+     "start": 8.66,
+     "end": 8.78
+    },
+    {
+     "w": "partie",
+     "start": 8.78,
+     "end": 8.96
+    },
+    {
+     "w": "2",
+     "start": 8.96,
+     "end": 9.24
+    },
+    {
+     "w": "de",
+     "start": 9.24,
+     "end": 9.42
+    },
+    {
+     "w": "la",
+     "start": 9.42,
+     "end": 9.5
+    },
+    {
+     "w": "saison",
+     "start": 9.5,
+     "end": 9.72
+    },
+    {
+     "w": "3.",
+     "start": 9.72,
+     "end": 9.96
+    },
+    {
+     "w": "Alors",
+     "start": 10.44,
+     "end": 10.62
+    },
+    {
+     "w": "avant",
+     "start": 10.62,
+     "end": 10.84
+    },
+    {
+     "w": "ça,",
+     "start": 10.84,
+     "end": 11.02
+    },
+    {
+     "w": "j'te",
+     "start": 11.22,
+     "end": 11.3
+    },
+    {
+     "w": "fais",
+     "start": 11.3,
+     "end": 11.42
+    },
+    {
+     "w": "mon",
+     "start": 11.42,
+     "end": 11.54
+    },
+    {
+     "w": "top",
+     "start": 11.54,
+     "end": 11.68
+    },
+    {
+     "w": "5.",
+     "start": 11.68,
+     "end": 11.94
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 12.18,
+   "end": 17.34,
+   "slot_end": 17.515,
+   "text": "Numéro 5, Gouketsu. Un champion d'arts martiaux qui a mangé des cellules de monstre et qui est passé niveau Dragon.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 12.18,
+     "end": 12.34
+    },
+    {
+     "w": "5,",
+     "start": 12.34,
+     "end": 12.6
+    },
+    {
+     "w": "Gouketsu.",
+     "start": 12.86,
+     "end": 13.4
+    },
+    {
+     "w": "Un",
+     "start": 13.9,
+     "end": 14.08
+    },
+    {
+     "w": "champion",
+     "start": 14.08,
+     "end": 14.36
+    },
+    {
+     "w": "d'arts",
+     "start": 14.36,
+     "end": 14.58
+    },
+    {
+     "w": "martiaux",
+     "start": 14.58,
+     "end": 14.92
+    },
+    {
+     "w": "qui",
+     "start": 14.92,
+     "end": 15.04
+    },
+    {
+     "w": "a",
+     "start": 15.04,
+     "end": 15.12
+    },
+    {
+     "w": "mangé",
+     "start": 15.12,
+     "end": 15.34
+    },
+    {
+     "w": "des",
+     "start": 15.34,
+     "end": 15.52
+    },
+    {
+     "w": "cellules",
+     "start": 15.52,
+     "end": 15.8
+    },
+    {
+     "w": "de",
+     "start": 15.8,
+     "end": 15.92
+    },
+    {
+     "w": "monstre",
+     "start": 15.92,
+     "end": 16.22
+    },
+    {
+     "w": "et",
+     "start": 16.22,
+     "end": 16.32
+    },
+    {
+     "w": "qui",
+     "start": 16.32,
+     "end": 16.38
+    },
+    {
+     "w": "est",
+     "start": 16.38,
+     "end": 16.46
+    },
+    {
+     "w": "passé",
+     "start": 16.46,
+     "end": 16.64
+    },
+    {
+     "w": "niveau",
+     "start": 16.64,
+     "end": 16.96
+    },
+    {
+     "w": "Dragon.",
+     "start": 16.96,
+     "end": 17.34
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 17.54,
+   "end": 22.16,
+   "slot_end": 22.355,
+   "text": "Sauf qu'il est tombé sur Saitama, déguisé pendant le tournoi. Un seul coup de poing, il a rien compris.",
+   "words": [
+    {
+     "w": "Sauf",
+     "start": 17.54,
+     "end": 17.68
+    },
+    {
+     "w": "qu'il",
+     "start": 17.68,
+     "end": 17.84
+    },
+    {
+     "w": "est",
+     "start": 17.84,
+     "end": 17.94
+    },
+    {
+     "w": "tombé",
+     "start": 17.94,
+     "end": 18.14
+    },
+    {
+     "w": "sur",
+     "start": 18.14,
+     "end": 18.34
+    },
+    {
+     "w": "Saitama,",
+     "start": 18.34,
+     "end": 18.72
+    },
+    {
+     "w": "déguisé",
+     "start": 18.72,
+     "end": 19.1
+    },
+    {
+     "w": "pendant",
+     "start": 19.1,
+     "end": 19.32
+    },
+    {
+     "w": "le",
+     "start": 19.32,
+     "end": 19.66
+    },
+    {
+     "w": "tournoi.",
+     "start": 19.66,
+     "end": 20.0
+    },
+    {
+     "w": "Un",
+     "start": 20.7,
+     "end": 21.06
+    },
+    {
+     "w": "seul",
+     "start": 21.06,
+     "end": 21.2
+    },
+    {
+     "w": "coup",
+     "start": 21.2,
+     "end": 21.34
+    },
+    {
+     "w": "de",
+     "start": 21.34,
+     "end": 21.44
+    },
+    {
+     "w": "poing,",
+     "start": 21.44,
+     "end": 21.58
+    },
+    {
+     "w": "il",
+     "start": 21.64,
+     "end": 21.72
+    },
+    {
+     "w": "a",
+     "start": 21.72,
+     "end": 21.8
+    },
+    {
+     "w": "rien",
+     "start": 21.8,
+     "end": 21.94
+    },
+    {
+     "w": "compris.",
+     "start": 21.94,
+     "end": 22.16
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 22.36,
+   "end": 28.5,
+   "slot_end": 28.601,
+   "text": "Numéro 4, Black Sperm. Ouais, le nom est nul, je sais. Mais chaque cellule de ce truc peut redevenir lui. Tu le coupes en deux, t'en as deux.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 22.36,
+     "end": 22.6
+    },
+    {
+     "w": "4,",
+     "start": 22.6,
+     "end": 22.86
+    },
+    {
+     "w": "Black",
+     "start": 23.06,
+     "end": 23.16
+    },
+    {
+     "w": "Sperm.",
+     "start": 23.16,
+     "end": 23.54
+    },
+    {
+     "w": "Ouais,",
+     "start": 23.72,
+     "end": 23.84
+    },
+    {
+     "w": "le",
+     "start": 23.92,
+     "end": 24.0
+    },
+    {
+     "w": "nom",
+     "start": 24.0,
+     "end": 24.08
+    },
+    {
+     "w": "est",
+     "start": 24.08,
+     "end": 24.16
+    },
+    {
+     "w": "nul,",
+     "start": 24.16,
+     "end": 24.3
+    },
+    {
+     "w": "je",
+     "start": 24.36,
+     "end": 24.44
+    },
+    {
+     "w": "sais.",
+     "start": 24.44,
+     "end": 24.62
+    },
+    {
+     "w": "Mais",
+     "start": 25.04,
+     "end": 25.16
+    },
+    {
+     "w": "chaque",
+     "start": 25.16,
+     "end": 25.36
+    },
+    {
+     "w": "cellule",
+     "start": 25.36,
+     "end": 25.66
+    },
+    {
+     "w": "de",
+     "start": 25.66,
+     "end": 25.8
+    },
+    {
+     "w": "ce",
+     "start": 25.8,
+     "end": 25.94
+    },
+    {
+     "w": "truc",
+     "start": 25.94,
+     "end": 26.14
+    },
+    {
+     "w": "peut",
+     "start": 26.14,
+     "end": 26.34
+    },
+    {
+     "w": "redevenir",
+     "start": 26.34,
+     "end": 26.68
+    },
+    {
+     "w": "lui.",
+     "start": 26.68,
+     "end": 26.98
+    },
+    {
+     "w": "Tu",
+     "start": 27.44,
+     "end": 27.54
+    },
+    {
+     "w": "le",
+     "start": 27.54,
+     "end": 27.66
+    },
+    {
+     "w": "coupes",
+     "start": 27.66,
+     "end": 27.82
+    },
+    {
+     "w": "en",
+     "start": 27.82,
+     "end": 27.92
+    },
+    {
+     "w": "deux,",
+     "start": 27.92,
+     "end": 28.08
+    },
+    {
+     "w": "t'en",
+     "start": 28.16,
+     "end": 28.24
+    },
+    {
+     "w": "as",
+     "start": 28.24,
+     "end": 28.36
+    },
+    {
+     "w": "deux.",
+     "start": 28.36,
+     "end": 28.5
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 28.5,
+   "end": 35.86,
+   "slot_end": 35.964,
+   "text": "Mais attends, le numéro 3 est encore plus flippant. Homeless Emperor, un sans-abri qui balance des sphères de lumière qui explosent tout.",
+   "words": [
+    {
+     "w": "Mais",
+     "start": 28.5,
+     "end": 28.67
+    },
+    {
+     "w": "attends,",
+     "start": 28.67,
+     "end": 28.84
+    },
+    {
+     "w": "le",
+     "start": 28.84,
+     "end": 28.96
+    },
+    {
+     "w": "numéro",
+     "start": 28.96,
+     "end": 29.08
+    },
+    {
+     "w": "3",
+     "start": 29.08,
+     "end": 29.3
+    },
+    {
+     "w": "est",
+     "start": 29.3,
+     "end": 29.35
+    },
+    {
+     "w": "encore",
+     "start": 29.3,
+     "end": 29.48
+    },
+    {
+     "w": "plus",
+     "start": 29.48,
+     "end": 29.86
+    },
+    {
+     "w": "flippant.",
+     "start": 29.86,
+     "end": 30.74
+    },
+    {
+     "w": "Homeless",
+     "start": 31.1,
+     "end": 31.88
+    },
+    {
+     "w": "Emperor,",
+     "start": 31.88,
+     "end": 32.28
+    },
+    {
+     "w": "un",
+     "start": 32.98,
+     "end": 33.14
+    },
+    {
+     "w": "sans-abri",
+     "start": 33.14,
+     "end": 33.56
+    },
+    {
+     "w": "qui",
+     "start": 33.56,
+     "end": 33.74
+    },
+    {
+     "w": "balance",
+     "start": 33.74,
+     "end": 33.98
+    },
+    {
+     "w": "des",
+     "start": 33.98,
+     "end": 34.18
+    },
+    {
+     "w": "sphères",
+     "start": 34.18,
+     "end": 34.44
+    },
+    {
+     "w": "de",
+     "start": 34.44,
+     "end": 34.6
+    },
+    {
+     "w": "lumière",
+     "start": 34.6,
+     "end": 34.82
+    },
+    {
+     "w": "qui",
+     "start": 34.82,
+     "end": 35.08
+    },
+    {
+     "w": "explosent",
+     "start": 35.08,
+     "end": 35.64
+    },
+    {
+     "w": "tout.",
+     "start": 35.64,
+     "end": 35.86
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 36.02,
+   "end": 39.64,
+   "slot_end": 39.744,
+   "text": "Et ses pouvoirs, il les a reçus d'une entité qu'il appelle Dieu. Retiens bien ce nom.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 36.02,
+     "end": 36.07
+    },
+    {
+     "w": "ses",
+     "start": 36.04,
+     "end": 36.12
+    },
+    {
+     "w": "pouvoirs,",
+     "start": 36.12,
+     "end": 36.54
+    },
+    {
+     "w": "il",
+     "start": 36.54,
+     "end": 36.64
+    },
+    {
+     "w": "les",
+     "start": 36.64,
+     "end": 36.78
+    },
+    {
+     "w": "a",
+     "start": 36.78,
+     "end": 36.93
+    },
+    {
+     "w": "reçus",
+     "start": 36.93,
+     "end": 37.08
+    },
+    {
+     "w": "d'une",
+     "start": 37.08,
+     "end": 37.3
+    },
+    {
+     "w": "entité",
+     "start": 37.3,
+     "end": 37.66
+    },
+    {
+     "w": "qu'il",
+     "start": 37.66,
+     "end": 37.92
+    },
+    {
+     "w": "appelle",
+     "start": 37.92,
+     "end": 37.98
+    },
+    {
+     "w": "Dieu.",
+     "start": 37.98,
+     "end": 38.4
+    },
+    {
+     "w": "Retiens",
+     "start": 38.88,
+     "end": 39.2
+    },
+    {
+     "w": "bien",
+     "start": 39.2,
+     "end": 39.38
+    },
+    {
+     "w": "ce",
+     "start": 39.38,
+     "end": 39.54
+    },
+    {
+     "w": "nom.",
+     "start": 39.54,
+     "end": 39.64
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 39.74,
+   "end": 42.3,
+   "slot_end": 42.473,
+   "text": "Si tu veux savoir qui est vraiment ce Dieu, abonne-toi, j'en parle bientôt.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 39.74,
+     "end": 39.86
+    },
+    {
+     "w": "tu",
+     "start": 39.86,
+     "end": 39.94
+    },
+    {
+     "w": "veux",
+     "start": 39.94,
+     "end": 40.04
+    },
+    {
+     "w": "savoir",
+     "start": 40.04,
+     "end": 40.24
+    },
+    {
+     "w": "qui",
+     "start": 40.24,
+     "end": 40.5
+    },
+    {
+     "w": "est",
+     "start": 40.5,
+     "end": 40.58
+    },
+    {
+     "w": "vraiment",
+     "start": 40.58,
+     "end": 40.74
+    },
+    {
+     "w": "ce",
+     "start": 40.74,
+     "end": 40.94
+    },
+    {
+     "w": "Dieu,",
+     "start": 40.94,
+     "end": 41.1
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 41.32,
+     "end": 41.64
+    },
+    {
+     "w": "j'en",
+     "start": 41.8,
+     "end": 41.86
+    },
+    {
+     "w": "parle",
+     "start": 41.86,
+     "end": 41.98
+    },
+    {
+     "w": "bientôt.",
+     "start": 41.98,
+     "end": 42.3
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 42.5,
+   "end": 49.0,
+   "slot_end": 49.182,
+   "text": "Numéro 2, Orochi, le roi des monstres. Sauf que le vrai cerveau, c'est Psykos, une esper humaine qui le contrôle.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 42.5,
+     "end": 42.72
+    },
+    {
+     "w": "2,",
+     "start": 42.72,
+     "end": 42.98
+    },
+    {
+     "w": "Orochi,",
+     "start": 43.28,
+     "end": 43.62
+    },
+    {
+     "w": "le",
+     "start": 43.96,
+     "end": 44.01
+    },
+    {
+     "w": "roi",
+     "start": 44.0,
+     "end": 44.26
+    },
+    {
+     "w": "des",
+     "start": 44.26,
+     "end": 44.36
+    },
+    {
+     "w": "monstres.",
+     "start": 44.36,
+     "end": 44.72
+    },
+    {
+     "w": "Sauf",
+     "start": 45.36,
+     "end": 45.68
+    },
+    {
+     "w": "que",
+     "start": 45.68,
+     "end": 45.84
+    },
+    {
+     "w": "le",
+     "start": 45.84,
+     "end": 45.96
+    },
+    {
+     "w": "vrai",
+     "start": 45.96,
+     "end": 46.08
+    },
+    {
+     "w": "cerveau,",
+     "start": 46.08,
+     "end": 46.46
+    },
+    {
+     "w": "c'est",
+     "start": 46.6,
+     "end": 46.66
+    },
+    {
+     "w": "Psykos,",
+     "start": 46.66,
+     "end": 47.16
+    },
+    {
+     "w": "une",
+     "start": 47.46,
+     "end": 47.64
+    },
+    {
+     "w": "esper",
+     "start": 47.64,
+     "end": 48.0
+    },
+    {
+     "w": "humaine",
+     "start": 48.0,
+     "end": 48.38
+    },
+    {
+     "w": "qui",
+     "start": 48.38,
+     "end": 48.56
+    },
+    {
+     "w": "le",
+     "start": 48.56,
+     "end": 48.66
+    },
+    {
+     "w": "contrôle.",
+     "start": 48.66,
+     "end": 49.0
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 49.18,
+   "end": 53.27,
+   "slot_end": 53.318,
+   "text": "Et quand Psykos et Orochi fusionnent, ils tiennent tête à Tatsumaki, frr, la numéro 2 de la classe S !",
+   "words": [
+    {
+     "w": "Et",
+     "start": 49.18,
+     "end": 49.24
+    },
+    {
+     "w": "quand",
+     "start": 49.24,
+     "end": 49.32
+    },
+    {
+     "w": "Psykos",
+     "start": 49.32,
+     "end": 49.64
+    },
+    {
+     "w": "et",
+     "start": 49.64,
+     "end": 49.78
+    },
+    {
+     "w": "Orochi",
+     "start": 49.78,
+     "end": 50.06
+    },
+    {
+     "w": "fusionnent,",
+     "start": 50.06,
+     "end": 50.5
+    },
+    {
+     "w": "ils",
+     "start": 50.6,
+     "end": 50.65
+    },
+    {
+     "w": "tiennent",
+     "start": 50.62,
+     "end": 50.8
+    },
+    {
+     "w": "tête",
+     "start": 50.8,
+     "end": 50.94
+    },
+    {
+     "w": "à",
+     "start": 50.94,
+     "end": 51.08
+    },
+    {
+     "w": "Tatsumaki,",
+     "start": 51.08,
+     "end": 51.48
+    },
+    {
+     "w": "frr,",
+     "start": 51.48,
+     "end": 51.88
+    },
+    {
+     "w": "la",
+     "start": 51.88,
+     "end": 52.0
+    },
+    {
+     "w": "numéro",
+     "start": 52.0,
+     "end": 52.22
+    },
+    {
+     "w": "2",
+     "start": 52.22,
+     "end": 52.52
+    },
+    {
+     "w": "de",
+     "start": 52.52,
+     "end": 52.62
+    },
+    {
+     "w": "la",
+     "start": 52.62,
+     "end": 52.76
+    },
+    {
+     "w": "classe",
+     "start": 52.76,
+     "end": 52.88
+    },
+    {
+     "w": "S",
+     "start": 52.88,
+     "end": 53.22
+    },
+    {
+     "w": "!",
+     "start": 53.22,
+     "end": 53.27
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 53.3,
+   "end": 56.4,
+   "slot_end": 56.495,
+   "text": "Pour moi c'est le combat le plus fou de l'arc, j'espère qu'il sera bien animé.",
+   "words": [
+    {
+     "w": "Pour",
+     "start": 53.3,
+     "end": 53.4
+    },
+    {
+     "w": "moi",
+     "start": 53.4,
+     "end": 53.56
+    },
+    {
+     "w": "c'est",
+     "start": 53.56,
+     "end": 53.7
+    },
+    {
+     "w": "le",
+     "start": 53.7,
+     "end": 53.84
+    },
+    {
+     "w": "combat",
+     "start": 53.84,
+     "end": 54.06
+    },
+    {
+     "w": "le",
+     "start": 54.06,
+     "end": 54.34
+    },
+    {
+     "w": "plus",
+     "start": 54.34,
+     "end": 54.5
+    },
+    {
+     "w": "fou",
+     "start": 54.5,
+     "end": 54.64
+    },
+    {
+     "w": "de",
+     "start": 54.64,
+     "end": 54.76
+    },
+    {
+     "w": "l'arc,",
+     "start": 54.76,
+     "end": 55.1
+    },
+    {
+     "w": "j'espère",
+     "start": 55.1,
+     "end": 55.32
+    },
+    {
+     "w": "qu'il",
+     "start": 55.32,
+     "end": 55.52
+    },
+    {
+     "w": "sera",
+     "start": 55.52,
+     "end": 55.72
+    },
+    {
+     "w": "bien",
+     "start": 55.72,
+     "end": 56.02
+    },
+    {
+     "w": "animé.",
+     "start": 56.02,
+     "end": 56.4
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 56.4,
+   "end": 59.88,
+   "slot_end": 59.99,
+   "text": "Et le numéro 1, lui, il est même pas né monstre. C'est justement ça le problème.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 56.4,
+     "end": 56.62
+    },
+    {
+     "w": "le",
+     "start": 56.62,
+     "end": 56.84
+    },
+    {
+     "w": "numéro",
+     "start": 56.84,
+     "end": 57.06
+    },
+    {
+     "w": "1,",
+     "start": 57.06,
+     "end": 57.38
+    },
+    {
+     "w": "lui,",
+     "start": 57.38,
+     "end": 57.56
+    },
+    {
+     "w": "il",
+     "start": 57.56,
+     "end": 57.61
+    },
+    {
+     "w": "est",
+     "start": 57.56,
+     "end": 57.7
+    },
+    {
+     "w": "même",
+     "start": 57.7,
+     "end": 57.9
+    },
+    {
+     "w": "pas",
+     "start": 57.9,
+     "end": 58.06
+    },
+    {
+     "w": "né",
+     "start": 58.06,
+     "end": 58.16
+    },
+    {
+     "w": "monstre.",
+     "start": 58.16,
+     "end": 58.48
+    },
+    {
+     "w": "C'est",
+     "start": 58.66,
+     "end": 59.0
+    },
+    {
+     "w": "justement",
+     "start": 59.0,
+     "end": 59.26
+    },
+    {
+     "w": "ça",
+     "start": 59.26,
+     "end": 59.5
+    },
+    {
+     "w": "le",
+     "start": 59.5,
+     "end": 59.6
+    },
+    {
+     "w": "problème.",
+     "start": 59.6,
+     "end": 59.88
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 60.02,
+   "end": 65.88,
+   "slot_end": 65.945,
+   "text": "Numéro 1, Garou. Ancien disciple de Bang, il chasse les héros parce que petit, c'était toujours lui qu'on forçait à jouer le monstre.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 60.02,
+     "end": 60.26
+    },
+    {
+     "w": "1,",
+     "start": 60.26,
+     "end": 60.54
+    },
+    {
+     "w": "Garou.",
+     "start": 60.86,
+     "end": 61.26
+    },
+    {
+     "w": "Ancien",
+     "start": 61.34,
+     "end": 61.58
+    },
+    {
+     "w": "disciple",
+     "start": 61.58,
+     "end": 61.82
+    },
+    {
+     "w": "de",
+     "start": 61.82,
+     "end": 62.06
+    },
+    {
+     "w": "Bang,",
+     "start": 62.06,
+     "end": 62.26
+    },
+    {
+     "w": "il",
+     "start": 62.54,
+     "end": 62.68
+    },
+    {
+     "w": "chasse",
+     "start": 62.68,
+     "end": 62.88
+    },
+    {
+     "w": "les",
+     "start": 62.88,
+     "end": 63.06
+    },
+    {
+     "w": "héros",
+     "start": 63.06,
+     "end": 63.16
+    },
+    {
+     "w": "parce",
+     "start": 63.16,
+     "end": 63.44
+    },
+    {
+     "w": "que",
+     "start": 63.44,
+     "end": 63.58
+    },
+    {
+     "w": "petit,",
+     "start": 63.58,
+     "end": 63.88
+    },
+    {
+     "w": "c'était",
+     "start": 63.88,
+     "end": 64.16
+    },
+    {
+     "w": "toujours",
+     "start": 64.16,
+     "end": 64.44
+    },
+    {
+     "w": "lui",
+     "start": 64.44,
+     "end": 64.66
+    },
+    {
+     "w": "qu'on",
+     "start": 64.66,
+     "end": 64.82
+    },
+    {
+     "w": "forçait",
+     "start": 64.82,
+     "end": 65.14
+    },
+    {
+     "w": "à",
+     "start": 65.14,
+     "end": 65.24
+    },
+    {
+     "w": "jouer",
+     "start": 65.24,
+     "end": 65.4
+    },
+    {
+     "w": "le",
+     "start": 65.4,
+     "end": 65.6
+    },
+    {
+     "w": "monstre.",
+     "start": 65.6,
+     "end": 65.88
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 65.96,
+   "end": 70.88,
+   "slot_end": 71.008,
+   "text": "Il encaisse des coups mortels, il apprend en plein combat, et dans le manga il finit par copier Saitama lui-même.",
+   "words": [
+    {
+     "w": "Il",
+     "start": 65.96,
+     "end": 66.02
+    },
+    {
+     "w": "encaisse",
+     "start": 66.02,
+     "end": 66.32
+    },
+    {
+     "w": "des",
+     "start": 66.32,
+     "end": 66.48
+    },
+    {
+     "w": "coups",
+     "start": 66.48,
+     "end": 66.78
+    },
+    {
+     "w": "mortels,",
+     "start": 66.78,
+     "end": 67.14
+    },
+    {
+     "w": "il",
+     "start": 67.32,
+     "end": 67.37
+    },
+    {
+     "w": "apprend",
+     "start": 67.34,
+     "end": 67.6
+    },
+    {
+     "w": "en",
+     "start": 67.6,
+     "end": 67.74
+    },
+    {
+     "w": "plein",
+     "start": 67.74,
+     "end": 67.84
+    },
+    {
+     "w": "combat,",
+     "start": 67.84,
+     "end": 68.16
+    },
+    {
+     "w": "et",
+     "start": 68.66,
+     "end": 68.71
+    },
+    {
+     "w": "dans",
+     "start": 68.68,
+     "end": 68.8
+    },
+    {
+     "w": "le",
+     "start": 68.8,
+     "end": 68.88
+    },
+    {
+     "w": "manga",
+     "start": 68.88,
+     "end": 69.06
+    },
+    {
+     "w": "il",
+     "start": 69.06,
+     "end": 69.2
+    },
+    {
+     "w": "finit",
+     "start": 69.2,
+     "end": 69.4
+    },
+    {
+     "w": "par",
+     "start": 69.4,
+     "end": 69.56
+    },
+    {
+     "w": "copier",
+     "start": 69.56,
+     "end": 69.88
+    },
+    {
+     "w": "Saitama",
+     "start": 69.88,
+     "end": 70.4
+    },
+    {
+     "w": "lui-même.",
+     "start": 70.4,
+     "end": 70.88
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "start": 71.02,
+   "end": 75.04,
+   "slot_end": 75.084,
+   "text": "Un monstre, ça naît monstre. Garou, lui, il l'a choisi. C'est quoi ton top 1 ? Dis-le en com'.",
+   "words": [
+    {
+     "w": "Un",
+     "start": 71.02,
+     "end": 71.12
+    },
+    {
+     "w": "monstre,",
+     "start": 71.12,
+     "end": 71.36
+    },
+    {
+     "w": "ça",
+     "start": 71.42,
+     "end": 71.52
+    },
+    {
+     "w": "naît",
+     "start": 71.52,
+     "end": 71.64
+    },
+    {
+     "w": "monstre.",
+     "start": 71.64,
+     "end": 71.96
+    },
+    {
+     "w": "Garou,",
+     "start": 72.2,
+     "end": 72.5
+    },
+    {
+     "w": "lui,",
+     "start": 72.5,
+     "end": 72.66
+    },
+    {
+     "w": "il",
+     "start": 72.68,
+     "end": 72.78
+    },
+    {
+     "w": "l'a",
+     "start": 72.78,
+     "end": 72.92
+    },
+    {
+     "w": "choisi.",
+     "start": 72.92,
+     "end": 73.3
+    },
+    {
+     "w": "C'est",
+     "start": 73.52,
+     "end": 73.66
+    },
+    {
+     "w": "quoi",
+     "start": 73.66,
+     "end": 73.78
+    },
+    {
+     "w": "ton",
+     "start": 73.78,
+     "end": 73.9
+    },
+    {
+     "w": "top",
+     "start": 73.9,
+     "end": 74.04
+    },
+    {
+     "w": "1",
+     "start": 74.04,
+     "end": 74.22
+    },
+    {
+     "w": "?",
+     "start": 74.4,
+     "end": 74.54
+    },
+    {
+     "w": "Dis-le",
+     "start": 74.54,
+     "end": 74.68
+    },
+    {
+     "w": "en",
+     "start": 74.68,
+     "end": 74.74
+    },
+    {
+     "w": "com'.",
+     "start": 74.74,
+     "end": 75.04
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "start": 75.08,
+   "end": 77.92,
+   "slot_end": 78.716,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 75.08,
+     "end": 75.36
+    },
+    {
+     "w": "Asura.",
+     "start": 75.36,
+     "end": 75.74
+    },
+    {
+     "w": "On",
+     "start": 76.64,
+     "end": 76.86
+    },
+    {
+     "w": "se",
+     "start": 76.86,
+     "end": 76.98
+    },
+    {
+     "w": "capte",
+     "start": 76.98,
+     "end": 77.24
+    },
+    {
+     "w": "au",
+     "start": 77.24,
+     "end": 77.3
+    },
+    {
+     "w": "prochain",
+     "start": 77.3,
+     "end": 77.5
+    },
+    {
+     "w": "épisode.",
+     "start": 77.5,
+     "end": 77.92
+    }
+   ]
+  }
+ ],
+ "aligned": 0.99
+}

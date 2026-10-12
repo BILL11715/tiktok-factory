@@ -1,0 +1,16 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-12_1745/video.mp4",
+ "duration": 78.716,
+ "shots": 60,
+ "sources": [
+  "https://anilist.co/anime/204747",
+  "https://kitsu.io/anime/one-punch-man-3-part-2"
+ ],
+ "music": {
+  "file": "hype2.mp3",
+  "bpm": 92.3,
+  "offset": 16.35
+ },
+ "sfx": 25,
+ "engine": "remotion (OpenMontage)"
+}
