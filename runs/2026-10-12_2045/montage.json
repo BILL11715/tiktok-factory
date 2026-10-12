@@ -1,0 +1,16 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-12_2045/video.mp4",
+ "duration": 86.159,
+ "shots": 67,
+ "sources": [
+  "https://anilist.co/anime/206814",
+  "https://kitsu.io/anime/dragon-ball-super-beerus"
+ ],
+ "music": {
+  "file": "mystere.mp3",
+  "bpm": 152.0,
+  "offset": 18.840999999999994
+ },
+ "sfx": 27,
+ "engine": "remotion (OpenMontage)"
+}

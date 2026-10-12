@@ -1,0 +1,1727 @@
+{
+ "engine": "fish",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-12_2045/voice.wav",
+ "duration": 86.159,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 2.5,
+   "slot_end": 2.581,
+   "text": "Beerus n'a jamais voulu détruire la Terre, et j'ai les preuves.",
+   "words": [
+    {
+     "w": "Beerus",
+     "start": 0.0,
+     "end": 0.32
+    },
+    {
+     "w": "n'a",
+     "start": 0.32,
+     "end": 0.56
+    },
+    {
+     "w": "jamais",
+     "start": 0.56,
+     "end": 0.76
+    },
+    {
+     "w": "voulu",
+     "start": 0.76,
+     "end": 1.06
+    },
+    {
+     "w": "détruire",
+     "start": 1.06,
+     "end": 1.36
+    },
+    {
+     "w": "la",
+     "start": 1.36,
+     "end": 1.56
+    },
+    {
+     "w": "Terre,",
+     "start": 1.56,
+     "end": 1.7
+    },
+    {
+     "w": "et",
+     "start": 1.7,
+     "end": 2.08
+    },
+    {
+     "w": "j'ai",
+     "start": 2.08,
+     "end": 2.18
+    },
+    {
+     "w": "les",
+     "start": 2.18,
+     "end": 2.24
+    },
+    {
+     "w": "preuves.",
+     "start": 2.24,
+     "end": 2.5
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 2.6,
+   "end": 5.68,
+   "slot_end": 5.817,
+   "text": "Reste jusqu'au bout, son vrai plan change tout ce que t'as vu dans Battle of Gods.",
+   "words": [
+    {
+     "w": "Reste",
+     "start": 2.6,
+     "end": 2.76
+    },
+    {
+     "w": "jusqu'au",
+     "start": 2.76,
+     "end": 3.1
+    },
+    {
+     "w": "bout,",
+     "start": 3.1,
+     "end": 3.24
+    },
+    {
+     "w": "son",
+     "start": 3.32,
+     "end": 3.48
+    },
+    {
+     "w": "vrai",
+     "start": 3.48,
+     "end": 3.8
+    },
+    {
+     "w": "plan",
+     "start": 3.8,
+     "end": 4.0
+    },
+    {
+     "w": "change",
+     "start": 4.0,
+     "end": 4.26
+    },
+    {
+     "w": "tout",
+     "start": 4.26,
+     "end": 4.42
+    },
+    {
+     "w": "ce",
+     "start": 4.42,
+     "end": 4.52
+    },
+    {
+     "w": "que",
+     "start": 4.52,
+     "end": 4.58
+    },
+    {
+     "w": "t'as",
+     "start": 4.58,
+     "end": 4.74
+    },
+    {
+     "w": "vu",
+     "start": 4.74,
+     "end": 4.86
+    },
+    {
+     "w": "dans",
+     "start": 4.86,
+     "end": 5.02
+    },
+    {
+     "w": "Battle",
+     "start": 5.02,
+     "end": 5.26
+    },
+    {
+     "w": "of",
+     "start": 5.26,
+     "end": 5.42
+    },
+    {
+     "w": "Gods.",
+     "start": 5.42,
+     "end": 5.68
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 5.88,
+   "end": 11.5,
+   "slot_end": 11.744,
+   "text": "Le remake Dragon Ball Super Beerus vient de commencer. Beerus, c'est le dieu de la destruction de notre univers.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 5.88,
+     "end": 5.94
+    },
+    {
+     "w": "remake",
+     "start": 5.94,
+     "end": 6.2
+    },
+    {
+     "w": "Dragon",
+     "start": 6.2,
+     "end": 6.52
+    },
+    {
+     "w": "Ball",
+     "start": 6.52,
+     "end": 6.8
+    },
+    {
+     "w": "Super",
+     "start": 6.8,
+     "end": 7.32
+    },
+    {
+     "w": "Beerus",
+     "start": 7.36,
+     "end": 7.56
+    },
+    {
+     "w": "vient",
+     "start": 7.56,
+     "end": 7.82
+    },
+    {
+     "w": "de",
+     "start": 7.82,
+     "end": 7.96
+    },
+    {
+     "w": "commencer.",
+     "start": 7.96,
+     "end": 8.3
+    },
+    {
+     "w": "Beerus,",
+     "start": 8.9,
+     "end": 9.3
+    },
+    {
+     "w": "c'est",
+     "start": 9.48,
+     "end": 9.58
+    },
+    {
+     "w": "le",
+     "start": 9.58,
+     "end": 9.74
+    },
+    {
+     "w": "dieu",
+     "start": 9.74,
+     "end": 9.98
+    },
+    {
+     "w": "de",
+     "start": 9.98,
+     "end": 10.12
+    },
+    {
+     "w": "la",
+     "start": 10.12,
+     "end": 10.22
+    },
+    {
+     "w": "destruction",
+     "start": 10.22,
+     "end": 10.62
+    },
+    {
+     "w": "de",
+     "start": 10.62,
+     "end": 11.0
+    },
+    {
+     "w": "notre",
+     "start": 11.0,
+     "end": 11.16
+    },
+    {
+     "w": "univers.",
+     "start": 11.16,
+     "end": 11.5
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 11.74,
+   "end": 16.36,
+   "slot_end": 16.435,
+   "text": "Il se réveille après trente-neuf ans de sommeil pour trouver le Super Saiyan divin qu'il a vu en rêve.",
+   "words": [
+    {
+     "w": "Il",
+     "start": 11.74,
+     "end": 11.82
+    },
+    {
+     "w": "se",
+     "start": 11.82,
+     "end": 11.98
+    },
+    {
+     "w": "réveille",
+     "start": 11.98,
+     "end": 12.24
+    },
+    {
+     "w": "après",
+     "start": 12.24,
+     "end": 12.42
+    },
+    {
+     "w": "trente-neuf",
+     "start": 12.42,
+     "end": 12.96
+    },
+    {
+     "w": "ans",
+     "start": 12.96,
+     "end": 13.16
+    },
+    {
+     "w": "de",
+     "start": 13.16,
+     "end": 13.3
+    },
+    {
+     "w": "sommeil",
+     "start": 13.3,
+     "end": 13.68
+    },
+    {
+     "w": "pour",
+     "start": 13.68,
+     "end": 13.86
+    },
+    {
+     "w": "trouver",
+     "start": 13.86,
+     "end": 14.16
+    },
+    {
+     "w": "le",
+     "start": 14.16,
+     "end": 14.36
+    },
+    {
+     "w": "Super",
+     "start": 14.36,
+     "end": 14.72
+    },
+    {
+     "w": "Saiyan",
+     "start": 14.72,
+     "end": 15.16
+    },
+    {
+     "w": "divin",
+     "start": 15.16,
+     "end": 15.5
+    },
+    {
+     "w": "qu'il",
+     "start": 15.5,
+     "end": 15.72
+    },
+    {
+     "w": "a",
+     "start": 15.72,
+     "end": 15.86
+    },
+    {
+     "w": "vu",
+     "start": 15.86,
+     "end": 15.96
+    },
+    {
+     "w": "en",
+     "start": 15.96,
+     "end": 16.12
+    },
+    {
+     "w": "rêve.",
+     "start": 16.12,
+     "end": 16.36
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 16.5,
+   "end": 21.02,
+   "slot_end": 21.161,
+   "text": "Si ce combat le déçoit, il raye la Terre de la carte. Sauf que regarde bien comment il se comporte.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 16.5,
+     "end": 16.64
+    },
+    {
+     "w": "ce",
+     "start": 16.64,
+     "end": 16.84
+    },
+    {
+     "w": "combat",
+     "start": 16.84,
+     "end": 17.04
+    },
+    {
+     "w": "le",
+     "start": 17.04,
+     "end": 17.22
+    },
+    {
+     "w": "déçoit,",
+     "start": 17.22,
+     "end": 17.64
+    },
+    {
+     "w": "il",
+     "start": 17.82,
+     "end": 17.87
+    },
+    {
+     "w": "raye",
+     "start": 17.82,
+     "end": 18.0
+    },
+    {
+     "w": "la",
+     "start": 18.0,
+     "end": 18.2
+    },
+    {
+     "w": "Terre",
+     "start": 18.2,
+     "end": 18.32
+    },
+    {
+     "w": "de",
+     "start": 18.32,
+     "end": 18.46
+    },
+    {
+     "w": "la",
+     "start": 18.46,
+     "end": 18.56
+    },
+    {
+     "w": "carte.",
+     "start": 18.56,
+     "end": 18.82
+    },
+    {
+     "w": "Sauf",
+     "start": 19.14,
+     "end": 19.48
+    },
+    {
+     "w": "que",
+     "start": 19.48,
+     "end": 19.68
+    },
+    {
+     "w": "regarde",
+     "start": 19.68,
+     "end": 19.88
+    },
+    {
+     "w": "bien",
+     "start": 19.88,
+     "end": 20.2
+    },
+    {
+     "w": "comment",
+     "start": 20.2,
+     "end": 20.44
+    },
+    {
+     "w": "il",
+     "start": 20.44,
+     "end": 20.56
+    },
+    {
+     "w": "se",
+     "start": 20.56,
+     "end": 20.68
+    },
+    {
+     "w": "comporte.",
+     "start": 20.68,
+     "end": 21.02
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 21.16,
+   "end": 29.68,
+   "slot_end": 29.78,
+   "text": "Premier indice. Goku passe en Super Saiyan 3, et Beerus le couche en deux petits coups. Il aurait pu s'arrêter là. Non, il cherche encore un adversaire.",
+   "words": [
+    {
+     "w": "Premier",
+     "start": 21.16,
+     "end": 21.3
+    },
+    {
+     "w": "indice.",
+     "start": 21.3,
+     "end": 21.68
+    },
+    {
+     "w": "Goku",
+     "start": 22.38,
+     "end": 22.62
+    },
+    {
+     "w": "passe",
+     "start": 22.62,
+     "end": 22.84
+    },
+    {
+     "w": "en",
+     "start": 22.84,
+     "end": 22.96
+    },
+    {
+     "w": "Super",
+     "start": 22.96,
+     "end": 23.18
+    },
+    {
+     "w": "Saiyan",
+     "start": 23.18,
+     "end": 23.56
+    },
+    {
+     "w": "3,",
+     "start": 23.56,
+     "end": 23.82
+    },
+    {
+     "w": "et",
+     "start": 23.82,
+     "end": 24.32
+    },
+    {
+     "w": "Beerus",
+     "start": 24.32,
+     "end": 24.68
+    },
+    {
+     "w": "le",
+     "start": 24.68,
+     "end": 24.92
+    },
+    {
+     "w": "couche",
+     "start": 24.92,
+     "end": 25.18
+    },
+    {
+     "w": "en",
+     "start": 25.18,
+     "end": 25.38
+    },
+    {
+     "w": "deux",
+     "start": 25.38,
+     "end": 25.6
+    },
+    {
+     "w": "petits",
+     "start": 25.6,
+     "end": 25.8
+    },
+    {
+     "w": "coups.",
+     "start": 25.8,
+     "end": 26.58
+    },
+    {
+     "w": "Il",
+     "start": 26.58,
+     "end": 26.7
+    },
+    {
+     "w": "aurait",
+     "start": 26.7,
+     "end": 26.84
+    },
+    {
+     "w": "pu",
+     "start": 26.84,
+     "end": 27.0
+    },
+    {
+     "w": "s'arrêter",
+     "start": 27.0,
+     "end": 27.3
+    },
+    {
+     "w": "là.",
+     "start": 27.3,
+     "end": 27.5
+    },
+    {
+     "w": "Non,",
+     "start": 28.06,
+     "end": 28.28
+    },
+    {
+     "w": "il",
+     "start": 28.62,
+     "end": 28.68
+    },
+    {
+     "w": "cherche",
+     "start": 28.68,
+     "end": 28.88
+    },
+    {
+     "w": "encore",
+     "start": 28.88,
+     "end": 29.1
+    },
+    {
+     "w": "un",
+     "start": 29.1,
+     "end": 29.24
+    },
+    {
+     "w": "adversaire.",
+     "start": 29.24,
+     "end": 29.68
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 29.68,
+   "end": 33.62,
+   "slot_end": 33.763,
+   "text": "Si t'aimes les théories qui retournent un arc entier, abonne-toi, j'en sors plusieurs par semaine.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 29.68,
+     "end": 29.96
+    },
+    {
+     "w": "t'aimes",
+     "start": 29.96,
+     "end": 30.16
+    },
+    {
+     "w": "les",
+     "start": 30.16,
+     "end": 30.3
+    },
+    {
+     "w": "théories",
+     "start": 30.3,
+     "end": 30.56
+    },
+    {
+     "w": "qui",
+     "start": 30.56,
+     "end": 30.76
+    },
+    {
+     "w": "retournent",
+     "start": 30.76,
+     "end": 31.1
+    },
+    {
+     "w": "un",
+     "start": 31.1,
+     "end": 31.41
+    },
+    {
+     "w": "arc",
+     "start": 31.41,
+     "end": 31.72
+    },
+    {
+     "w": "entier,",
+     "start": 31.72,
+     "end": 32.03
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 32.03,
+     "end": 32.34
+    },
+    {
+     "w": "j'en",
+     "start": 32.48,
+     "end": 32.62
+    },
+    {
+     "w": "sors",
+     "start": 32.62,
+     "end": 32.76
+    },
+    {
+     "w": "plusieurs",
+     "start": 32.76,
+     "end": 33.14
+    },
+    {
+     "w": "par",
+     "start": 33.14,
+     "end": 33.36
+    },
+    {
+     "w": "semaine.",
+     "start": 33.36,
+     "end": 33.62
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 33.94,
+   "end": 42.46,
+   "slot_end": 42.543,
+   "text": "Deuxième indice, l'anniversaire de Bulma. Beerus mange, il rigole, et Vegeta fait le clown pour le garder de bonne humeur. On dirait un pote qui squatte la soirée.",
+   "words": [
+    {
+     "w": "Deuxième",
+     "start": 33.94,
+     "end": 34.14
+    },
+    {
+     "w": "indice,",
+     "start": 34.14,
+     "end": 34.48
+    },
+    {
+     "w": "l'anniversaire",
+     "start": 34.58,
+     "end": 35.32
+    },
+    {
+     "w": "de",
+     "start": 35.32,
+     "end": 35.5
+    },
+    {
+     "w": "Bulma.",
+     "start": 35.5,
+     "end": 36.24
+    },
+    {
+     "w": "Beerus",
+     "start": 36.62,
+     "end": 36.96
+    },
+    {
+     "w": "mange,",
+     "start": 36.96,
+     "end": 37.24
+    },
+    {
+     "w": "il",
+     "start": 37.58,
+     "end": 37.63
+    },
+    {
+     "w": "rigole,",
+     "start": 37.62,
+     "end": 37.94
+    },
+    {
+     "w": "et",
+     "start": 38.38,
+     "end": 38.46
+    },
+    {
+     "w": "Vegeta",
+     "start": 38.46,
+     "end": 38.72
+    },
+    {
+     "w": "fait",
+     "start": 38.72,
+     "end": 39.02
+    },
+    {
+     "w": "le",
+     "start": 39.02,
+     "end": 39.16
+    },
+    {
+     "w": "clown",
+     "start": 39.16,
+     "end": 39.4
+    },
+    {
+     "w": "pour",
+     "start": 39.4,
+     "end": 39.56
+    },
+    {
+     "w": "le",
+     "start": 39.56,
+     "end": 39.68
+    },
+    {
+     "w": "garder",
+     "start": 39.68,
+     "end": 39.88
+    },
+    {
+     "w": "de",
+     "start": 39.88,
+     "end": 40.08
+    },
+    {
+     "w": "bonne",
+     "start": 40.08,
+     "end": 40.26
+    },
+    {
+     "w": "humeur.",
+     "start": 40.26,
+     "end": 40.56
+    },
+    {
+     "w": "On",
+     "start": 41.04,
+     "end": 41.16
+    },
+    {
+     "w": "dirait",
+     "start": 41.16,
+     "end": 41.36
+    },
+    {
+     "w": "un",
+     "start": 41.36,
+     "end": 41.56
+    },
+    {
+     "w": "pote",
+     "start": 41.56,
+     "end": 41.64
+    },
+    {
+     "w": "qui",
+     "start": 41.64,
+     "end": 41.84
+    },
+    {
+     "w": "squatte",
+     "start": 41.84,
+     "end": 42.04
+    },
+    {
+     "w": "la",
+     "start": 42.04,
+     "end": 42.18
+    },
+    {
+     "w": "soirée.",
+     "start": 42.18,
+     "end": 42.46
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 42.54,
+   "end": 49.76,
+   "slot_end": 49.855,
+   "text": "Troisième indice, le combat contre Goku en Super Saiyan divin. Beerus s'amuse, il le pousse à aller plus loin, et à la fin il avoue qu'il s'est retenu.",
+   "words": [
+    {
+     "w": "Troisième",
+     "start": 42.54,
+     "end": 42.8
+    },
+    {
+     "w": "indice,",
+     "start": 42.8,
+     "end": 43.12
+    },
+    {
+     "w": "le",
+     "start": 43.38,
+     "end": 43.44
+    },
+    {
+     "w": "combat",
+     "start": 43.44,
+     "end": 43.68
+    },
+    {
+     "w": "contre",
+     "start": 43.68,
+     "end": 43.96
+    },
+    {
+     "w": "Goku",
+     "start": 43.96,
+     "end": 44.24
+    },
+    {
+     "w": "en",
+     "start": 44.24,
+     "end": 44.48
+    },
+    {
+     "w": "Super",
+     "start": 44.48,
+     "end": 44.72
+    },
+    {
+     "w": "Saiyan",
+     "start": 44.72,
+     "end": 45.1
+    },
+    {
+     "w": "divin.",
+     "start": 45.1,
+     "end": 45.4
+    },
+    {
+     "w": "Beerus",
+     "start": 46.2,
+     "end": 46.56
+    },
+    {
+     "w": "s'amuse,",
+     "start": 46.56,
+     "end": 46.92
+    },
+    {
+     "w": "il",
+     "start": 47.08,
+     "end": 47.13
+    },
+    {
+     "w": "le",
+     "start": 47.1,
+     "end": 47.26
+    },
+    {
+     "w": "pousse",
+     "start": 47.26,
+     "end": 47.42
+    },
+    {
+     "w": "à",
+     "start": 47.42,
+     "end": 47.56
+    },
+    {
+     "w": "aller",
+     "start": 47.56,
+     "end": 47.66
+    },
+    {
+     "w": "plus",
+     "start": 47.66,
+     "end": 47.84
+    },
+    {
+     "w": "loin,",
+     "start": 47.84,
+     "end": 48.06
+    },
+    {
+     "w": "et",
+     "start": 48.3,
+     "end": 48.35
+    },
+    {
+     "w": "à",
+     "start": 48.32,
+     "end": 48.42
+    },
+    {
+     "w": "la",
+     "start": 48.42,
+     "end": 48.48
+    },
+    {
+     "w": "fin",
+     "start": 48.48,
+     "end": 48.6
+    },
+    {
+     "w": "il",
+     "start": 48.6,
+     "end": 48.74
+    },
+    {
+     "w": "avoue",
+     "start": 48.74,
+     "end": 48.94
+    },
+    {
+     "w": "qu'il",
+     "start": 48.94,
+     "end": 49.12
+    },
+    {
+     "w": "s'est",
+     "start": 49.12,
+     "end": 49.3
+    },
+    {
+     "w": "retenu.",
+     "start": 49.3,
+     "end": 49.76
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 49.86,
+   "end": 54.88,
+   "slot_end": 55.108,
+   "text": "Et là tout s'éclaire. Un dieu qui s'ennuie, il cherche pas une planète à détruire, il cherche un rival.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 49.86,
+     "end": 49.94
+    },
+    {
+     "w": "là",
+     "start": 49.94,
+     "end": 50.06
+    },
+    {
+     "w": "tout",
+     "start": 50.06,
+     "end": 50.22
+    },
+    {
+     "w": "s'éclaire.",
+     "start": 50.22,
+     "end": 50.54
+    },
+    {
+     "w": "Un",
+     "start": 51.26,
+     "end": 51.42
+    },
+    {
+     "w": "dieu",
+     "start": 51.42,
+     "end": 51.6
+    },
+    {
+     "w": "qui",
+     "start": 51.6,
+     "end": 51.72
+    },
+    {
+     "w": "s'ennuie,",
+     "start": 51.72,
+     "end": 52.06
+    },
+    {
+     "w": "il",
+     "start": 52.2,
+     "end": 52.25
+    },
+    {
+     "w": "cherche",
+     "start": 52.2,
+     "end": 52.36
+    },
+    {
+     "w": "pas",
+     "start": 52.36,
+     "end": 52.62
+    },
+    {
+     "w": "une",
+     "start": 52.62,
+     "end": 52.78
+    },
+    {
+     "w": "planète",
+     "start": 52.78,
+     "end": 53.1
+    },
+    {
+     "w": "à",
+     "start": 53.1,
+     "end": 53.2
+    },
+    {
+     "w": "détruire,",
+     "start": 53.2,
+     "end": 53.58
+    },
+    {
+     "w": "il",
+     "start": 53.98,
+     "end": 54.12
+    },
+    {
+     "w": "cherche",
+     "start": 54.12,
+     "end": 54.4
+    },
+    {
+     "w": "un",
+     "start": 54.4,
+     "end": 54.62
+    },
+    {
+     "w": "rival.",
+     "start": 54.62,
+     "end": 54.88
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 55.12,
+   "end": 60.66,
+   "slot_end": 60.767,
+   "text": "Mais attends, y'a un truc qui casse ma théorie : le pudding. Buu refuse de lui en donner, et Beerus pète un câble pour de vrai.",
+   "words": [
+    {
+     "w": "Mais",
+     "start": 55.12,
+     "end": 55.22
+    },
+    {
+     "w": "attends,",
+     "start": 55.22,
+     "end": 55.38
+    },
+    {
+     "w": "y'a",
+     "start": 55.62,
+     "end": 55.67
+    },
+    {
+     "w": "un",
+     "start": 55.66,
+     "end": 55.74
+    },
+    {
+     "w": "truc",
+     "start": 55.74,
+     "end": 55.84
+    },
+    {
+     "w": "qui",
+     "start": 55.84,
+     "end": 56.0
+    },
+    {
+     "w": "casse",
+     "start": 56.0,
+     "end": 56.2
+    },
+    {
+     "w": "ma",
+     "start": 56.2,
+     "end": 56.26
+    },
+    {
+     "w": "théorie",
+     "start": 56.26,
+     "end": 56.6
+    },
+    {
+     "w": ":",
+     "start": 56.6,
+     "end": 56.78
+    },
+    {
+     "w": "le",
+     "start": 56.78,
+     "end": 56.9
+    },
+    {
+     "w": "pudding.",
+     "start": 56.9,
+     "end": 57.34
+    },
+    {
+     "w": "Buu",
+     "start": 57.34,
+     "end": 58.08
+    },
+    {
+     "w": "refuse",
+     "start": 58.08,
+     "end": 58.42
+    },
+    {
+     "w": "de",
+     "start": 58.42,
+     "end": 58.66
+    },
+    {
+     "w": "lui",
+     "start": 58.66,
+     "end": 58.76
+    },
+    {
+     "w": "en",
+     "start": 58.76,
+     "end": 58.954
+    },
+    {
+     "w": "donner,",
+     "start": 58.954,
+     "end": 59.149
+    },
+    {
+     "w": "et",
+     "start": 59.149,
+     "end": 59.343
+    },
+    {
+     "w": "Beerus",
+     "start": 59.343,
+     "end": 59.537
+    },
+    {
+     "w": "pète",
+     "start": 59.537,
+     "end": 59.731
+    },
+    {
+     "w": "un",
+     "start": 59.731,
+     "end": 59.926
+    },
+    {
+     "w": "câble",
+     "start": 59.926,
+     "end": 60.12
+    },
+    {
+     "w": "pour",
+     "start": 60.12,
+     "end": 60.34
+    },
+    {
+     "w": "de",
+     "start": 60.34,
+     "end": 60.48
+    },
+    {
+     "w": "vrai.",
+     "start": 60.48,
+     "end": 60.66
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 60.82,
+   "end": 64.42,
+   "slot_end": 64.66,
+   "text": "Il était prêt à tout faire sauter pour un dessert. Ça, je peux pas le nier.",
+   "words": [
+    {
+     "w": "Il",
+     "start": 60.82,
+     "end": 60.87
+    },
+    {
+     "w": "était",
+     "start": 60.84,
+     "end": 60.98
+    },
+    {
+     "w": "prêt",
+     "start": 60.98,
+     "end": 61.2
+    },
+    {
+     "w": "à",
+     "start": 61.2,
+     "end": 61.34
+    },
+    {
+     "w": "tout",
+     "start": 61.34,
+     "end": 61.52
+    },
+    {
+     "w": "faire",
+     "start": 61.52,
+     "end": 61.72
+    },
+    {
+     "w": "sauter",
+     "start": 61.72,
+     "end": 62.02
+    },
+    {
+     "w": "pour",
+     "start": 62.02,
+     "end": 62.26
+    },
+    {
+     "w": "un",
+     "start": 62.26,
+     "end": 62.4
+    },
+    {
+     "w": "dessert.",
+     "start": 62.4,
+     "end": 62.78
+    },
+    {
+     "w": "Ça,",
+     "start": 63.38,
+     "end": 63.72
+    },
+    {
+     "w": "je",
+     "start": 63.84,
+     "end": 63.9
+    },
+    {
+     "w": "peux",
+     "start": 63.94,
+     "end": 63.99
+    },
+    {
+     "w": "pas",
+     "start": 63.98,
+     "end": 64.18
+    },
+    {
+     "w": "le",
+     "start": 64.18,
+     "end": 64.28
+    },
+    {
+     "w": "nier.",
+     "start": 64.28,
+     "end": 64.42
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 64.66,
+   "end": 69.74,
+   "slot_end": 69.861,
+   "text": "Sauf que pour moi, ça prouve l'inverse. Il cherche une excuse pour se battre, pas une raison de détruire.",
+   "words": [
+    {
+     "w": "Sauf",
+     "start": 64.66,
+     "end": 64.82
+    },
+    {
+     "w": "que",
+     "start": 64.82,
+     "end": 64.98
+    },
+    {
+     "w": "pour",
+     "start": 64.98,
+     "end": 65.12
+    },
+    {
+     "w": "moi,",
+     "start": 65.12,
+     "end": 65.3
+    },
+    {
+     "w": "ça",
+     "start": 65.4,
+     "end": 65.48
+    },
+    {
+     "w": "prouve",
+     "start": 65.48,
+     "end": 65.78
+    },
+    {
+     "w": "l'inverse.",
+     "start": 65.78,
+     "end": 66.16
+    },
+    {
+     "w": "Il",
+     "start": 66.74,
+     "end": 66.88
+    },
+    {
+     "w": "cherche",
+     "start": 66.88,
+     "end": 67.18
+    },
+    {
+     "w": "une",
+     "start": 67.18,
+     "end": 67.42
+    },
+    {
+     "w": "excuse",
+     "start": 67.42,
+     "end": 67.78
+    },
+    {
+     "w": "pour",
+     "start": 67.78,
+     "end": 68.14
+    },
+    {
+     "w": "se",
+     "start": 68.14,
+     "end": 68.32
+    },
+    {
+     "w": "battre,",
+     "start": 68.32,
+     "end": 68.62
+    },
+    {
+     "w": "pas",
+     "start": 68.68,
+     "end": 68.8
+    },
+    {
+     "w": "une",
+     "start": 68.8,
+     "end": 68.96
+    },
+    {
+     "w": "raison",
+     "start": 68.96,
+     "end": 69.24
+    },
+    {
+     "w": "de",
+     "start": 69.24,
+     "end": 69.38
+    },
+    {
+     "w": "détruire.",
+     "start": 69.38,
+     "end": 69.74
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 69.86,
+   "end": 77.04,
+   "slot_end": 77.126,
+   "text": "À la fin, il lâche qu'il est trop crevé pour détruire la Terre, et il repart avec Whis. Trop crevé, un dieu. Frr, personne y croit.",
+   "words": [
+    {
+     "w": "À",
+     "start": 69.86,
+     "end": 69.94
+    },
+    {
+     "w": "la",
+     "start": 69.94,
+     "end": 70.0
+    },
+    {
+     "w": "fin,",
+     "start": 70.0,
+     "end": 70.24
+    },
+    {
+     "w": "il",
+     "start": 70.38,
+     "end": 70.5
+    },
+    {
+     "w": "lâche",
+     "start": 70.5,
+     "end": 70.76
+    },
+    {
+     "w": "qu'il",
+     "start": 70.76,
+     "end": 70.9
+    },
+    {
+     "w": "est",
+     "start": 70.9,
+     "end": 71.04
+    },
+    {
+     "w": "trop",
+     "start": 71.04,
+     "end": 71.24
+    },
+    {
+     "w": "crevé",
+     "start": 71.24,
+     "end": 71.64
+    },
+    {
+     "w": "pour",
+     "start": 71.64,
+     "end": 71.82
+    },
+    {
+     "w": "détruire",
+     "start": 71.82,
+     "end": 72.22
+    },
+    {
+     "w": "la",
+     "start": 72.22,
+     "end": 72.4
+    },
+    {
+     "w": "Terre,",
+     "start": 72.4,
+     "end": 72.58
+    },
+    {
+     "w": "et",
+     "start": 72.78,
+     "end": 72.83
+    },
+    {
+     "w": "il",
+     "start": 72.8,
+     "end": 72.9
+    },
+    {
+     "w": "repart",
+     "start": 72.9,
+     "end": 73.2
+    },
+    {
+     "w": "avec",
+     "start": 73.2,
+     "end": 73.36
+    },
+    {
+     "w": "Whis.",
+     "start": 73.36,
+     "end": 73.72
+    },
+    {
+     "w": "Trop",
+     "start": 74.3,
+     "end": 74.38
+    },
+    {
+     "w": "crevé,",
+     "start": 74.38,
+     "end": 74.78
+    },
+    {
+     "w": "un",
+     "start": 75.14,
+     "end": 75.46
+    },
+    {
+     "w": "dieu.",
+     "start": 75.46,
+     "end": 75.78
+    },
+    {
+     "w": "Frr,",
+     "start": 75.78,
+     "end": 76.1
+    },
+    {
+     "w": "personne",
+     "start": 76.36,
+     "end": 76.64
+    },
+    {
+     "w": "y",
+     "start": 76.82,
+     "end": 76.87
+    },
+    {
+     "w": "croit.",
+     "start": 76.84,
+     "end": 77.04
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 77.14,
+   "end": 82.48,
+   "slot_end": 82.644,
+   "text": "Alors, Beerus voulait détruire la Terre, ou il cherchait juste quelqu'un à sa taille ? Dis-moi en com'.",
+   "words": [
+    {
+     "w": "Alors,",
+     "start": 77.14,
+     "end": 77.32
+    },
+    {
+     "w": "Beerus",
+     "start": 77.62,
+     "end": 77.88
+    },
+    {
+     "w": "voulait",
+     "start": 77.88,
+     "end": 78.5
+    },
+    {
+     "w": "détruire",
+     "start": 78.5,
+     "end": 78.84
+    },
+    {
+     "w": "la",
+     "start": 78.84,
+     "end": 79.02
+    },
+    {
+     "w": "Terre,",
+     "start": 79.02,
+     "end": 79.22
+    },
+    {
+     "w": "ou",
+     "start": 79.42,
+     "end": 79.5
+    },
+    {
+     "w": "il",
+     "start": 79.5,
+     "end": 79.58
+    },
+    {
+     "w": "cherchait",
+     "start": 79.58,
+     "end": 79.84
+    },
+    {
+     "w": "juste",
+     "start": 79.84,
+     "end": 80.1
+    },
+    {
+     "w": "quelqu'un",
+     "start": 80.1,
+     "end": 81.04
+    },
+    {
+     "w": "à",
+     "start": 81.04,
+     "end": 81.22
+    },
+    {
+     "w": "sa",
+     "start": 81.22,
+     "end": 81.34
+    },
+    {
+     "w": "taille",
+     "start": 81.34,
+     "end": 81.66
+    },
+    {
+     "w": "?",
+     "start": 81.92,
+     "end": 82.02
+    },
+    {
+     "w": "Dis-moi",
+     "start": 82.02,
+     "end": 82.18
+    },
+    {
+     "w": "en",
+     "start": 82.18,
+     "end": 82.32
+    },
+    {
+     "w": "com'.",
+     "start": 82.32,
+     "end": 82.48
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "start": 82.64,
+   "end": 85.34,
+   "slot_end": 86.159,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 82.64,
+     "end": 82.84
+    },
+    {
+     "w": "Asura.",
+     "start": 82.84,
+     "end": 83.24
+    },
+    {
+     "w": "On",
+     "start": 84.02,
+     "end": 84.22
+    },
+    {
+     "w": "se",
+     "start": 84.22,
+     "end": 84.34
+    },
+    {
+     "w": "capte",
+     "start": 84.34,
+     "end": 84.62
+    },
+    {
+     "w": "au",
+     "start": 84.62,
+     "end": 84.7
+    },
+    {
+     "w": "prochain",
+     "start": 84.7,
+     "end": 84.96
+    },
+    {
+     "w": "épisode.",
+     "start": 84.96,
+     "end": 85.34
+    }
+   ]
+  }
+ ],
+ "aligned": 0.997
+}
