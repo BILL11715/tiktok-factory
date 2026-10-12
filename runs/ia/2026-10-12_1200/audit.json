@@ -1,0 +1,57 @@
+{
+ "stamp": "2026-10-12_1200",
+ "duration": 92.5,
+ "lead": 0.6,
+ "cps": 24.6,
+ "accuracy": 0.919,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "paoueur pointe",
+   "entendu": "powerpoint"
+  },
+  {
+   "dit": "anne tropique",
+   "entendu": "anthropique"
+  },
+  {
+   "dit": "exemple",
+   "entendu": ""
+  },
+  {
+   "dit": "ou",
+   "entendu": "pour que"
+  },
+  {
+   "dit": "rends",
+   "entendu": "rend"
+  },
+  {
+   "dit": "paoueur pointe",
+   "entendu": "powerpoint"
+  },
+  {
+   "dit": "p d f",
+   "entendu": "pdf"
+  },
+  {
+   "dit": "ton cv l affiche",
+   "entendu": "quand c est vrai la fiche"
+  },
+  {
+   "dit": "soyons honnetes",
+   "entendu": "soyez honnete"
+  },
+  {
+   "dit": "mon conseil",
+   "entendu": "donc on sait"
+  },
+  {
+   "dit": "paoueur pointe",
+   "entendu": "powerpoint"
+  }
+ ],
+ "alerts": [
+  "prononciation 92% des mots compris (min 93%)"
+ ]
+}
