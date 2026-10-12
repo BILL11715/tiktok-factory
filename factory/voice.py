@@ -237,6 +237,33 @@ def _tts_fish(sent: str, out: Path, tone: str) -> None:
     raise last or RuntimeError("Fish Audio indisponible")
 
 
+# ------------------------------------------------------------------ Kyutai Pocket TTS (local, CPU)
+# Voix choisie par Bill pour @iafortous : "estelle" (français, modèle french_24l).
+# Licence CC-BY-4.0 : créditer Kyutai (bio du compte). Poids téléchargés depuis Hugging Face.
+KYUTAI_LANG = os.environ.get("KYUTAI_LANG", "french_24l")
+KYUTAI_VOICE = os.environ.get("KYUTAI_VOICE", "estelle")
+KYUTAI_OK = Path("/tmp/tf-kyutai-ok")  # écrit par setup.sh quand le modèle est prêt
+GAPS = {"kyutai": (0.16, 0.26)}  # (entre deux phrases, entre deux segments) : respiration naturelle
+_KYU = None
+
+
+def _tts_kyutai(sent: str, out: Path, tone: str) -> None:
+    global _KYU
+    import numpy as np  # type: ignore
+    if _KYU is None:
+        from pocket_tts import TTSModel  # type: ignore
+        m = TTSModel.load_model(language=KYUTAI_LANG)
+        _KYU = (m, m.get_state_for_audio_prompt(KYUTAI_VOICE))
+    m, st = _KYU
+    audio = m.generate_audio(st, sent).numpy()
+    pcm = (np.clip(audio, -1, 1) * 32767).astype(np.int16)
+    with wave.open(str(out), "wb") as wf:
+        wf.setnchannels(1)
+        wf.setsampwidth(2)
+        wf.setframerate(int(m.sample_rate))
+        wf.writeframes(pcm.tobytes())
+
+
 # ------------------------------------------------------------------ Piper
 def _piper_model() -> Path:
     CACHE.mkdir(parents=True, exist_ok=True)
@@ -264,8 +291,8 @@ def _tts_piper(sent: str, out: Path, tone: str) -> None:
 
 def release() -> None:
     """Libère le modèle de voix (plusieurs Go) avant le montage Remotion."""
-    global _CB, _PIPER
-    _CB, _PIPER = None, None
+    global _CB, _PIPER, _KYU
+    _CB, _PIPER, _KYU = None, None, None
     _CONDS.clear()
     import gc
     gc.collect()
@@ -317,7 +344,7 @@ def synthesize(segments: list[dict], workdir: Path, tone: str) -> dict:
     timeline, files, t, n = [], [], 0.0, 0
     for i, seg in enumerate(segments):
         stone = seg.get("tone", tone)
-        tempo = 1.0 if eng == "fish" else TONES.get(stone, TONES["pote"])[2]  # Fish gère la vitesse
+        tempo = 1.0 if eng in ("fish", "kyutai") else TONES.get(stone, TONES["pote"])[2]  # vitesse naturelle
         seg_start, words = t, []
         # Fish : un appel par segment (contexte complet) avec mise en scène automatique ;
         # moteurs locaux : phrase par phrase
@@ -325,18 +352,27 @@ def synthesize(segments: list[dict], workdir: Path, tone: str) -> dict:
         for j, sent in enumerate(sents):
             raw = vdir / f"s{n:03d}_raw.wav"
             try:
-                if eng == "fish":
+                if eng == "kyutai":
+                    _tts_kyutai(_plain(sent), raw, stone)
+                elif eng == "fish":
                     _tts_fish(sent, raw, stone)
                 elif eng == "clone":
                     _tts_chatterbox(_plain(sent), raw, stone)
                 else:
                     _tts_piper(_plain(sent), raw, stone)
             except Exception as exc:  # secours automatique
+                if eng == "kyutai":  # on recommence tout avec un autre moteur (pas de voix mélangées)
+                    alt = "fish" if _fish_key() else "piper"
+                    print(f"[voice] kyutai a échoué ({exc}), reprise complète avec {alt}")
+                    os.environ["TF_VOICE"] = alt
+                    release()
+                    return synthesize(segments, workdir, tone)
                 print(f"[voice] {eng} a échoué ({exc}), passage sur Piper")
                 eng = "piper"
                 _tts_piper(_plain(sent), raw, stone)
             last_of_seg = j == len(sents) - 1
-            gap = (GAP_SEG if i < len(segments) - 1 else 0.7) if last_of_seg else GAP_SENT
+            g_sent, g_seg = GAPS.get(eng, (GAP_SENT, GAP_SEG))
+            gap = (g_seg if i < len(segments) - 1 else 0.7) if last_of_seg else g_sent
             gap = float(seg.get("pause_after", gap)) if last_of_seg else gap
             clean = vdir / f"s{n:03d}.wav"
             subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", str(raw), "-af",

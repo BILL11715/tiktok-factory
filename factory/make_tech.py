@@ -11,6 +11,7 @@ Pas d'appel à l'abonnement, pas de signature : la valeur fait le travail.
 from __future__ import annotations
 
 import json
+import os
 import shutil
 import subprocess
 import sys
@@ -87,6 +88,9 @@ def main(script_path: str) -> dict:
     if problems:
         print("LINT:", *problems, sep="\n - ")
         raise SystemExit("Script refusé, corriger les points ci-dessus puis relancer.")
+    # @iafortous : voix Kyutai "estelle" (choix de Bill) si le modèle est prêt, sinon moteur du setup
+    if not os.environ.get("TF_VOICE") and voice.KYUTAI_OK.exists():
+        os.environ["TF_VOICE"] = "kyutai"
     print(f"[1/3] voix ({voice.engine()})")
     v = voice.synthesize(script["segments"], work, script.get("tone", "pote"))
     print(f"      durée {v['duration']:.1f}s")

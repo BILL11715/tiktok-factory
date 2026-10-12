@@ -44,6 +44,20 @@ else
   echo "[setup] HuggingFace CDN bloqué -> voix de secours Piper"
   echo piper > /tmp/tf-voice-engine
 fi
+# Voix Kyutai Pocket TTS "estelle" (compte @iafortous, TF_KYUTAI=1) : modèle local sur CPU
+if [ "${TF_KYUTAI:-}" = "1" ]; then
+  rm -f /tmp/tf-kyutai-ok
+  pip install -q pocket-tts >>"$LOG" 2>&1 && python - <<'PYEOF' >>"$LOG" 2>&1 \
+    && { touch /tmp/tf-kyutai-ok; echo "[setup] voix Kyutai estelle prête"; } \
+    || echo "[setup] Kyutai indisponible -> voix de secours (Fish ou Piper)"
+import os
+from pocket_tts import TTSModel
+m = TTSModel.load_model(language=os.environ.get("KYUTAI_LANG", "french_24l"))
+st = m.get_state_for_audio_prompt(os.environ.get("KYUTAI_VOICE", "estelle"))
+a = m.generate_audio(st, "Bonjour, ceci est un test.")
+assert a.numel() > 1000
+PYEOF
+fi
 # Moteur de montage Remotion (OpenMontage) : dépendances Node
 ( cd "$(dirname "$0")/remotion" && npm ci --no-audit --no-fund --loglevel=error >>"$LOG" 2>&1 ) \
   && echo "[setup] Remotion prêt" || echo "[setup] Remotion indisponible -> montage FFmpeg de secours"

@@ -69,7 +69,8 @@ Cible : grand public curieux, zéro jargon. Angles :
   Exemples : "Tu paies ChatGPT mais tu l'utilises comme Google.",
   "Ce repo GitHub gratuit remplace un abonnement à 20 euros.",
   "Freelance SEO ? Tes clients sont déjà sur Google, page 2."
-- Durée : 1 450 à 1 750 caractères de texte parlé (environ 65 à 80 s). Jamais moins d'une minute.
+- Durée : 1 450 à 1 700 caractères de texte parlé (environ 75 à 90 s avec la voix estelle). Jamais moins d'une minute.
+- Voix : Kyutai Pocket TTS « estelle » (CC-BY-4.0, Kyutai crédité dans la bio du compte).
 
 ## Style visuel (TechShort, style "pop" clair)
 - Fond blanc cassé, cartes blanches cerclées de noir avec ombre franche, une couleur vive par scène
