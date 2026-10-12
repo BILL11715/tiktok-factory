@@ -243,7 +243,9 @@ def _tts_fish(sent: str, out: Path, tone: str) -> None:
 KYUTAI_LANG = os.environ.get("KYUTAI_LANG", "french_24l")
 KYUTAI_VOICE = os.environ.get("KYUTAI_VOICE", "estelle")
 KYUTAI_OK = Path("/tmp/tf-kyutai-ok")  # écrit par setup.sh quand le modèle est prêt
-GAPS = {"kyutai": (0.16, 0.26)}  # (entre deux phrases, entre deux segments) : respiration naturelle
+GAPS = {"kyutai": (0.22, 0.36)}  # (entre deux phrases, entre deux segments) : respiration naturelle
+# un chouïa plus lent que la voix brute (retour de Bill : trop rapide, brusque) ; atempo garde le timbre
+KYUTAI_TEMPO = float(os.environ.get("KYUTAI_TEMPO", "0.94"))
 _KYU = None
 
 
@@ -255,7 +257,8 @@ def _tts_kyutai(sent: str, out: Path, tone: str) -> None:
         m = TTSModel.load_model(language=KYUTAI_LANG)
         _KYU = (m, m.get_state_for_audio_prompt(KYUTAI_VOICE))
     m, st = _KYU
-    audio = m.generate_audio(st, sent).numpy()
+    from .pronounce import speakable
+    audio = m.generate_audio(st, speakable(sent)).numpy()
     pcm = (np.clip(audio, -1, 1) * 32767).astype(np.int16)
     with wave.open(str(out), "wb") as wf:
         wf.setnchannels(1)
@@ -336,15 +339,22 @@ def _word_times(sent: str, start: float, end: float) -> list[dict]:
     return out
 
 
-def synthesize(segments: list[dict], workdir: Path, tone: str) -> dict:
-    """Synthétise phrase par phrase, accélère, renvoie la timeline segments + mots."""
+def synthesize(segments: list[dict], workdir: Path, tone: str, lead: float = 0.0) -> dict:
+    """Synthétise phrase par phrase, renvoie la timeline segments + mots.
+    lead : silence avant la 1re phrase (laisse l'affiche de couverture respirer)."""
     vdir = workdir / "voice"
     vdir.mkdir(parents=True, exist_ok=True)
     eng = engine()
     timeline, files, t, n = [], [], 0.0, 0
+    if lead > 0:
+        sil = vdir / "lead.wav"
+        subprocess.run(["ffmpeg", "-y", "-v", "error", "-f", "lavfi", "-i", "anullsrc=r=44100:cl=mono",
+                        "-t", f"{lead:.2f}", str(sil)], check=True)
+        files.append(sil)
+        t = _dur(sil)
     for i, seg in enumerate(segments):
         stone = seg.get("tone", tone)
-        tempo = 1.0 if eng in ("fish", "kyutai") else TONES.get(stone, TONES["pote"])[2]  # vitesse naturelle
+        tempo = 1.0 if eng == "fish" else KYUTAI_TEMPO if eng == "kyutai" else TONES.get(stone, TONES["pote"])[2]
         seg_start, words = t, []
         # Fish : un appel par segment (contexte complet) avec mise en scène automatique ;
         # moteurs locaux : phrase par phrase
@@ -366,7 +376,7 @@ def synthesize(segments: list[dict], workdir: Path, tone: str) -> dict:
                     print(f"[voice] kyutai a échoué ({exc}), reprise complète avec {alt}")
                     os.environ["TF_VOICE"] = alt
                     release()
-                    return synthesize(segments, workdir, tone)
+                    return synthesize(segments, workdir, tone, lead)
                 print(f"[voice] {eng} a échoué ({exc}), passage sur Piper")
                 eng = "piper"
                 _tts_piper(_plain(sent), raw, stone)

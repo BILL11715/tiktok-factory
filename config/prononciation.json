@@ -1,0 +1,9 @@
+{
+  "_info": "Lexique de prononciation de la voix Kyutai (@iafortous). Clé = mot tel qu'écrit dans le script, valeur = comment le faire dire. Enrichi par l'audit (factory/audit.py) quand un mot est mal compris sur 2 vidéos ou plus. Ne touche pas aux sous-titres.",
+  "SaaS": "sass",
+  "CRM": "C R M",
+  "PDF": "P D F",
+  "API": "A P I",
+  "URL": "U R L",
+  "ChatGPT": "tchatte G P T"
+}

@@ -44,8 +44,10 @@ def lint(script: dict) -> list[str]:
     elif len(script["hook_text"].split()) > 14:
         problems.append("hook_text > 14 mots")
     total = sum(len(voice._plain(s["text"])) for s in segs)
-    if total < 1350:
-        problems.append(f"texte trop court ({total} car.) : viser 1 450 à 1 750 car. pour dépasser 60 s")
+    if total < 1250:
+        problems.append(f"texte trop court ({total} car.) : viser 1 300 à 1 550 car. pour dépasser 60 s")
+    if total > 1650:
+        problems.append(f"texte trop long ({total} car.) : viser 1 300 à 1 550 car. (voix posée, 80 à 95 s)")
     nvis = 0
     for i, s in enumerate(segs):
         if len(s["text"]) > 260:
@@ -92,7 +94,8 @@ def main(script_path: str) -> dict:
     if not os.environ.get("TF_VOICE") and voice.KYUTAI_OK.exists():
         os.environ["TF_VOICE"] = "kyutai"
     print(f"[1/3] voix ({voice.engine()})")
-    v = voice.synthesize(script["segments"], work, script.get("tone", "pote"))
+    # 0,6 s de silence au début : l'affiche de couverture s'affiche avant que la voix démarre
+    v = voice.synthesize(script["segments"], work, script.get("tone", "pote"), lead=0.6)
     print(f"      durée {v['duration']:.1f}s")
     if v["duration"] < 58:
         print(f"[!] vidéo courte ({v['duration']:.0f} s) : allonger le script la prochaine fois")
