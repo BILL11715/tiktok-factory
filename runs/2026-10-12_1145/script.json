@@ -1,0 +1,117 @@
+{
+ "title": "Reco : il invente un culte maléfique pour jouer au héros, et il existe vraiment",
+ "format": "reco",
+ "tone": "pote",
+ "music": "pote",
+ "animes": [
+  "Kage no Jitsuryokusha ni Naritakute!: Zankyou-hen"
+ ],
+ "cover": {
+  "text": "Son faux culte existe vraiment",
+  "highlight": [
+   "vraiment"
+  ],
+  "emoji": "😱",
+  "sub": "reco du jour"
+ },
+ "hook_text": "Il invente un culte maléfique pour jouer au héros, et ce culte existe vraiment",
+ "spoiler": false,
+ "segments": [
+  {
+   "text": "Il invente un culte maléfique pour jouer au héros, et ce culte existe vraiment.",
+   "sfx": true,
+   "emphasis": [
+    "vraiment"
+   ]
+  },
+  {
+   "text": "[whispering] Reste jusqu'au bout, j'te donne le nom, et y'a une suite qui est annoncée."
+  },
+  {
+   "text": "Au départ, c'est un lycéen japonais obsédé par un seul rêve. Pas être le héros. Lui, il veut être l'éminence de l'ombre, le mec mystérieux qui tire les ficelles.",
+   "shots": [
+    {
+     "kind": "wide"
+    }
+   ],
+   "emphasis": [
+    "l'ombre"
+   ]
+  },
+  {
+   "text": "Il s'entraîne pour de vrai, nuits blanches comprises. Jusqu'au soir où il fonce sur les phares d'un camion en pensant trouver de la magie.",
+   "emphasis": [
+    "camion"
+   ]
+  },
+  {
+   "text": "[laughing] Il meurt, évidemment. Et il se réincarne dans un monde de fantasy avec de la vraie magie, sous le nom de Cid.",
+   "emphasis": [
+    "Cid"
+   ]
+  },
+  {
+   "text": "Là, Cid se dit que c'est son moment. Il sauve une elfe rongée par une malédiction, Alpha, et pour faire stylé, il lui invente toute une histoire.",
+   "emphasis": [
+    "Alpha"
+   ]
+  },
+  {
+   "text": "D'ailleurs si t'aimes les héros à côté de la plaque, abonne-toi, j'te sors une reco comme ça tous les jours.",
+   "cta": true
+  },
+  {
+   "text": "Donc Cid raconte à Alpha qu'un culte secret, Diablos, manipule le monde depuis des siècles. Il improvise tout, c'est du délire pur.",
+   "emphasis": [
+    "Diablos"
+   ]
+  },
+  {
+   "text": "Sauf que le culte existe vraiment. Alpha le prend au sérieux, elle recrute Beta, Delta et d'autres filles, et elles montent une vraie armée de l'ombre.",
+   "sfx": true,
+   "stamp": "IL EXISTE",
+   "grade": "bw",
+   "emphasis": [
+    "vraiment"
+   ]
+  },
+  {
+   "text": "[surprised] Et Cid, lui, il capte rien. Il croit que c'est un jeu de rôle pendant que ses filles démantèlent des complots dans tout le royaume.",
+   "emphasis": [
+    "rien"
+   ]
+  },
+  {
+   "text": "Le pire, c'est qu'il est monstrueux. Le jour il joue le figurant du lycée, la nuit il sort en manteau noir sous le nom de Shadow.",
+   "grade": "cinematic",
+   "emphasis": [
+    "Shadow"
+   ]
+  },
+  {
+   "text": "[excited] Et quand il lâche son attaque I am Atomic, frr, l'écran explose littéralement.",
+   "sfx": true,
+   "emphasis": [
+    "Atomic"
+   ]
+  },
+  {
+   "text": "Pour moi c'est l'isekai le plus drôle de ces dernières années, il se moque des clichés et les fait mieux que tout le monde.",
+   "stamp": "VALIDÉ"
+  },
+  {
+   "text": "Le nom, c'est The Eminence in Shadow. Deux saisons dispo, et la suite est déjà annoncée. T'es team Cid ou team Alpha ? Dis-moi en com'."
+  }
+ ],
+ "reveal_text": "The Eminence in Shadow",
+ "reveal_segments": 1,
+ "caption": "Il pensait jouer au héros de l'ombre, sauf que tout était vrai 😭 t'es team Cid ou team Alpha ?",
+ "hashtags": [
+  "#anime",
+  "#manga",
+  "#animefr",
+  "#otakufr",
+  "#eminenceinshadow",
+  "#recommandationanime"
+ ]
+}
