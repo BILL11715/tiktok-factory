@@ -1,0 +1,77 @@
+{
+ "stamp": "2026-10-12_2200",
+ "duration": 99.2,
+ "lead": 0.6,
+ "cps": 23.8,
+ "accuracy": 0.908,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "fri lance s e o",
+   "entendu": "freelance seo"
+  },
+  {
+   "dit": "s e o",
+   "entendu": "seo"
+  },
+  {
+   "dit": "une",
+   "entendu": "mon"
+  },
+  {
+   "dit": "les",
+   "entendu": "des"
+  },
+  {
+   "dit": "si",
+   "entendu": "c est"
+  },
+  {
+   "dit": "l urgence",
+   "entendu": ""
+  },
+  {
+   "dit": "idee",
+   "entendu": "idees"
+  },
+  {
+   "dit": "claude",
+   "entendu": "cloud"
+  },
+  {
+   "dit": "verifie",
+   "entendu": "verifiez"
+  },
+  {
+   "dit": "ta",
+   "entendu": ""
+  },
+  {
+   "dit": "s e o radiusse",
+   "entendu": "seo radius"
+  },
+  {
+   "dit": "refais",
+   "entendu": "parfait"
+  },
+  {
+   "dit": "le score",
+   "entendu": "postcore"
+  },
+  {
+   "dit": "ils",
+   "entendu": "et"
+  },
+  {
+   "dit": "oreille",
+   "entendu": "oreilles"
+  },
+  {
+   "dit": "le",
+   "entendu": "lui"
+  }
+ ],
+ "alerts": [
+  "prononciation 91% des mots compris (min 93%)"
+ ]
+}
