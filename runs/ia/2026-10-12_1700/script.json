@@ -1,0 +1,226 @@
+{
+  "title": "Une page par ville pour ton client",
+  "theme": "seo",
+  "pillar": "seo-radius",
+  "format": "methode",
+  "music": "pote",
+  "cover": {
+    "text": "Invisible dans la ville d'à côté",
+    "highlight": [
+      "Invisible"
+    ],
+    "emoji": "📍",
+    "sub": "la méthode"
+  },
+  "hook_text": "Ton client bosse dans cinq villes. Google ne le voit que dans une.",
+  "segments": [
+    {
+      "text": "Ton client bosse dans cinq villes. Google ne le voit que dans une.",
+      "emphasis": [
+        "Google"
+      ]
+    },
+    {
+      "text": "Son site n'a qu'une page d'accueil, avec le nom de sa ville à lui. Rien d'autre.",
+      "visual": {
+        "kind": "title",
+        "kicker": "Le problème",
+        "text": "Une page pour cinq villes",
+        "highlight": [
+          "une"
+        ]
+      }
+    },
+    {
+      "text": "Alors quand quelqu'un cherche un plombier dans la ville d'à côté, ce sont ses concurrents qui sortent.",
+      "visual": {
+        "kind": "search",
+        "query": "plombier Bron",
+        "results": [
+          {
+            "name": "Plomberie du Parilly",
+            "note": "page Bron dédiée",
+            "rating": "4,7"
+          },
+          {
+            "name": "Bron Dépannage",
+            "note": "fiche à jour",
+            "rating": "4,5"
+          },
+          {
+            "name": "Ton client",
+            "note": "absent",
+            "rating": "?"
+          }
+        ],
+        "pick": 2
+      }
+    },
+    {
+      "text": "La solution ? Une page par ville vraiment desservie. Pas une de plus.",
+      "sfx": true,
+      "visual": {
+        "kind": "title",
+        "kicker": "La solution",
+        "text": "Une page par ville",
+        "highlight": [
+          "ville"
+        ],
+        "sub": "seulement les villes desservies"
+      }
+    },
+    {
+      "text": "Attention, pas un copier coller où seul le nom de la ville change. Google appelle ça des pages satellites, et il peut les sanctionner.",
+      "visual": {
+        "kind": "compare",
+        "left": {
+          "title": "Copier coller",
+          "items": [
+            "Même texte partout",
+            "Seul le nom change"
+          ]
+        },
+        "right": {
+          "title": "Vraie page locale",
+          "items": [
+            "Contenu propre à la ville",
+            "Utile au client"
+          ]
+        }
+      }
+    },
+    {
+      "text": "Une vraie page locale, c'est trois choses. Un chantier fait sur place, avec une photo. Les quartiers couverts et le délai. Et un avis d'un client de la ville.",
+      "visual": {
+        "kind": "list",
+        "title": "Une vraie page locale",
+        "items": [
+          "Un chantier avec photo",
+          "Quartiers et délai",
+          "Un avis local"
+        ],
+        "at": [
+          "chantier",
+          "quartiers",
+          "avis"
+        ]
+      }
+    },
+    {
+      "text": "Le titre de la page dit le métier et la ville. Par exemple : plombier à Bron, dépannage rapide.",
+      "visual": {
+        "kind": "title",
+        "kicker": "Le titre",
+        "text": "Plombier à Bron",
+        "highlight": [
+          "Bron"
+        ],
+        "sub": "métier + ville"
+      }
+    },
+    {
+      "text": "Pour écrire vite, donne à une IA les vraies infos du chantier. Puis relis tout. Elle ne doit rien inventer.",
+      "visual": {
+        "kind": "chat",
+        "name": "Claude",
+        "user": "Rédige l'intro d'une page plombier à Bron. Chantier réel : fuite réparée rue Paul Pic, mardi. Ne rien inventer.",
+        "assistant": "Plombier à Bron, nous intervenons dans tous les quartiers. Mardi encore, nous avons réparé une fuite rue Paul Pic..."
+      }
+    },
+    {
+      "text": "Maintenant, comment trouver les entreprises qui ont ce problème ? C'est là que SEO Radius aide.",
+      "visual": {
+        "kind": "card",
+        "emoji": "🔎",
+        "name": "SEO Radius",
+        "desc": "Prospection SEO locale pour freelances",
+        "tags": [
+          "SEO local",
+          "prospection"
+        ],
+        "url": "seoradius.fr"
+      }
+    },
+    {
+      "text": "Tu tapes un métier et une ville. L'outil analyse jusqu'à 50 résultats Google et écarte les annuaires.",
+      "visual": {
+        "kind": "stat",
+        "value": 50,
+        "label": "résultats Google analysés",
+        "prefix": "jusqu'à "
+      }
+    },
+    {
+      "text": "Ton artisan bosse dans cette ville mais n'apparaît nulle part ? Tu tiens ton argument.",
+      "stamp": "argument",
+      "visual": {
+        "kind": "search",
+        "query": "électricien Vénissieux",
+        "results": [
+          {
+            "name": "Annuaire national",
+            "note": "écarté",
+            "rating": ""
+          },
+          {
+            "name": "Élec Services 69",
+            "note": "page ville dédiée",
+            "rating": "4,6"
+          },
+          {
+            "name": "Ton prospect",
+            "note": "absent",
+            "rating": "?"
+          }
+        ],
+        "pick": 2
+      }
+    },
+    {
+      "text": "Et le score sur 100 t'aide à voir le potentiel. Ce sont des estimations, à vérifier avec ton client.",
+      "visual": {
+        "kind": "stat",
+        "value": 78,
+        "suffix": "/100",
+        "label": "score d'opportunité (estimation)"
+      }
+    },
+    {
+      "text": "Ensuite, ton offre est simple : trois pages de villes bien faites, la fiche Google mise à jour, et le suivi des appels.",
+      "sfx": true,
+      "visual": {
+        "kind": "list",
+        "title": "Ton offre",
+        "items": [
+          "3 pages de villes",
+          "Fiche Google à jour",
+          "Suivi des appels"
+        ],
+        "at": [
+          "trois",
+          "fiche",
+          "appels"
+        ]
+      }
+    },
+    {
+      "text": "Et toi, ton client couvre combien de villes qu'il n'a pas sur son site ? Dis-le en commentaire.",
+      "visual": {
+        "kind": "title",
+        "kicker": "À toi",
+        "text": "Combien de villes oubliées ?",
+        "highlight": [
+          "villes"
+        ]
+      }
+    }
+  ],
+  "caption": "Ton client est invisible dans la ville d'à côté ? Une page par ville, bien faite 📍 (outil de prospection en lien en bio)",
+  "hashtags": [
+    "#seo",
+    "#seolocal",
+    "#freelance",
+    "#prospection",
+    "#referencement"
+  ]
+}

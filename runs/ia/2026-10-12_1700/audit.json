@@ -1,0 +1,55 @@
+{
+ "stamp": "2026-10-12_1700",
+ "duration": 83.6,
+ "lead": 0.6,
+ "cps": 24.3,
+ "accuracy": 0.933,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "ton client",
+   "entendu": "donc il y en"
+  },
+  {
+   "dit": "coller",
+   "entendu": "colle"
+  },
+  {
+   "dit": "satellites",
+   "entendu": "satellite"
+  },
+  {
+   "dit": "une vraie",
+   "entendu": "un vrai"
+  },
+  {
+   "dit": "locale",
+   "entendu": "local"
+  },
+  {
+   "dit": "bron depannage rapide pour",
+   "entendu": "bronze des panages rapides tout"
+  },
+  {
+   "dit": "ia",
+   "entendu": "hyale"
+  },
+  {
+   "dit": "seo radius",
+   "entendu": "ceoradus"
+  },
+  {
+   "dit": "t aide",
+   "entendu": "aides"
+  },
+  {
+   "dit": "villes",
+   "entendu": "ville"
+  },
+  {
+   "dit": "faites",
+   "entendu": "faite"
+  }
+ ],
+ "alerts": []
+}
