@@ -12,8 +12,14 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
 4. Pas de balises d'émotion : l'intonation vient de la ponctuation (questions, exclamations réelles).
 
 ## Pistes pour Bill (changements de code proposés, à valider par lui)
-- (vide)
+- Audit : comparer la transcription au texte écrit du script, pas à la graphie phonétique du lexique.
+  Aujourd'hui « PDF » (dit « p d f ») et « PowerPoint » (dit « paoueur pointe ») comptent comme des
+  écarts alors qu'ils sont bien entendus, ce qui fait passer la prononciation sous 93 % à tort.
+- Audit : ignorer les homophones (« rends » / « rend », « ton » / « t'on ») dans les mots mal compris.
 
 ## Journal (1 ligne par revue, la plus récente en haut, 20 lignes maximum)
+- 2026-10-12 (12:00) : 2 vidéos Kyutai auditées, débit 24,6 à 24,8 car./s (dans la cible). PowerPoint et
+  Anthropic ajoutés au lexique (mal dits au 1er rendu, corrects au 2e). « rends » et « ton » reviennent
+  mais sont des homophones : pas d'entrée au lexique, piste audit ajoutée pour Bill.
 - 2026-10-12 : mise en place. Voix Kyutai estelle ralentie à 0,94, pauses 0,22 / 0,36 s, 0,6 s de
   silence d'ouverture, prix et nombres convertis en lettres, audit automatique après chaque vidéo.
