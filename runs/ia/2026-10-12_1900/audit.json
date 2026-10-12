@@ -1,0 +1,81 @@
+{
+ "stamp": "2026-10-12_1900",
+ "duration": 85.2,
+ "lead": 0.6,
+ "cps": 25.1,
+ "accuracy": 0.929,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "ton",
+   "entendu": "dans l"
+  },
+  {
+   "dit": "est demain",
+   "entendu": "et de main"
+  },
+  {
+   "dit": "relire",
+   "entendu": "relires"
+  },
+  {
+   "dit": "choisis",
+   "entendu": "choisie"
+  },
+  {
+   "dit": "langue",
+   "entendu": "lampe"
+  },
+  {
+   "dit": "ecris",
+   "entendu": "ecrit"
+  },
+  {
+   "dit": "ses",
+   "entendu": ""
+  },
+  {
+   "dit": "vocal",
+   "entendu": "vocale"
+  },
+  {
+   "dit": "reponds",
+   "entendu": "repond"
+  },
+  {
+   "dit": "coupe",
+   "entendu": "coute"
+  },
+  {
+   "dit": "il",
+   "entendu": "et"
+  },
+  {
+   "dit": "endroit",
+   "entendu": "droit"
+  },
+  {
+   "dit": "retravailler",
+   "entendu": "retravaille"
+  },
+  {
+   "dit": "une",
+   "entendu": ""
+  },
+  {
+   "dit": "comptent",
+   "entendu": "compte"
+  },
+  {
+   "dit": "et les",
+   "entendu": "il y a des"
+  },
+  {
+   "dit": "dis le",
+   "entendu": "lui"
+  }
+ ],
+ "alerts": [
+  "prononciation 93% des mots compris (min 93%)"
+ ]
+}
