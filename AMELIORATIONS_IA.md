@@ -21,6 +21,9 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
 - Audit : ignorer les homophones (« rends » / « rend », « ton » / « t'on ») dans les mots mal compris.
 
 ## Journal (1 ligne par revue, la plus récente en haut, 20 lignes maximum)
+- 2026-10-13 (22:00) : sans alerte au 1er rendu (débit 24,0 car./s, prononciation 94 %, 88 s), règle 5 tenue.
+  Sur les 10 derniers audits, 7 alertes concernent la prononciation juste sous 93 % (88 à 93 %), aucune le débit.
+  « rangée(s) » mal transcrit 3 fois ici (« ranger », « arranger ») : homophone, 1 seule vidéo, pas de règle.
 - 2026-10-13 (08:00) : 1re vidéo sans alerte depuis le 12/10 17:00 (débit 24,5 car./s, prononciation 94 %),
   règle 5 appliquée (aucune phrase ouverte par « Ton »). « seo » et « radius » restent candidats au lexique
   mais sont bien entendus (« seo radius ») : écart dû à la graphie phonétique, déjà en piste audit. « IA »
