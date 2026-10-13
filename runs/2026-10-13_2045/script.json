@@ -1,0 +1,31 @@
+{
+ "title": "Reco : la plus grande guerrière renaît dans le corps d'une gamine malade",
+ "format": "reco",
+ "tone": "pote",
+ "music": "pote",
+ "animes": ["Nia Liston: The Merciless Maiden"],
+ "cover": {"text": "Elle renaît en gamine malade", "highlight": ["malade"], "emoji": "😤"},
+ "hook_text": "Elle a jamais perdu un combat, et elle est morte dans son lit",
+ "spoiler": false,
+ "segments": [
+  {"text": "Elle a jamais perdu un combat, et elle est morte dans son lit.", "sfx": true, "emphasis": ["dans son lit"], "grade": "bw"},
+  {"text": "[whispering] Reste jusqu'au bout, j'te donne le nom, et c'est en train de sortir en ce moment même.", "emphasis": ["en ce moment"]},
+  {"text": "Imagine la plus grande guerrière de son époque. Invaincue. Personne a jamais réussi à la mettre au sol.", "shots": [{"kind": "wide"}], "emphasis": ["Invaincue"]},
+  {"text": "Et le truc qui la rend malade, c'est justement ça. Elle a jamais trouvé un adversaire à sa taille.", "emphasis": ["à sa taille"]},
+  {"text": "Du coup elle meurt tranquille, sur son lit, avec un seul regret : pas être tombée sur le champ de bataille.", "grade": "bw", "emphasis": ["regret"]},
+  {"text": "[surprised] Sauf qu'elle rouvre les yeux. Dans le corps d'une petite fille noble, toute fragile, qui tient à peine debout.", "sfx": true, "emphasis": ["petite fille"]},
+  {"text": "La gamine s'appelle Nia. Elle est tellement malade que dans sa famille, tout le monde pense qu'elle va pas tenir longtemps.", "emphasis": ["Nia"]},
+  {"text": "Et franchement, pour quelqu'un qui vivait que pour se battre, j'vois pas de pire punition.", "emphasis": ["punition"]},
+  {"text": "Si t'aimes les héros cheatés qui repartent de zéro, abonne-toi, j'te sors une reco comme ça tous les jours.", "cta": true},
+  {"text": "Mais Nia, elle a gardé un truc de sa vie d'avant : la tête d'une combattante qui lâche jamais rien.", "emphasis": ["lâche jamais"]},
+  {"text": "Alors elle se fixe un objectif simple. Guérir ce corps, le rendre solide, et cette fois mourir en combattant.", "stamp": "DÉTERMINÉE", "emphasis": ["mourir en combattant"]},
+  {"text": "[laughing] Le décalage est génial. T'as une gamine toute mignonne avec le mental d'une vieille guerrière qui veut juste taper des gens.", "emphasis": ["décalage"]},
+  {"text": "Mon avis : c'est pas l'anime le plus profond de la saison, mais c'est le plus fun à regarder le soir. J'ai pas décroché.", "emphasis": ["le plus fun"]},
+  {"text": "[excited] Y'a deux épisodes dispo, le troisième arrive le 20 octobre, et c'est prévu sur vingt-cinq épisodes. T'as le temps de rattraper.", "sfx": true, "emphasis": ["vingt-cinq"]},
+  {"text": "Ça s'appelle Nia Liston, The Merciless Maiden. Dis-moi en com' si tu la regardes déjà.", "emphasis": ["Nia Liston"]}
+ ],
+ "reveal_text": "Nia Liston: The Merciless Maiden",
+ "reveal_segments": 1,
+ "caption": "Invaincue toute sa vie, elle renaît dans un corps qui tient à peine debout 😤 tu la regardes déjà ?",
+ "hashtags": ["#anime", "#manga", "#animefr", "#otakufr", "#nialiston", "#recommandationanime"]
+}
