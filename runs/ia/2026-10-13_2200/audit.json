@@ -1,0 +1,59 @@
+{
+ "stamp": "2026-10-13_2200",
+ "duration": 88.0,
+ "lead": 0.6,
+ "cps": 24.0,
+ "accuracy": 0.938,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "boulangere rangee",
+   "entendu": "boulanger ranger"
+  },
+  {
+   "dit": "un",
+   "entendu": ""
+  },
+  {
+   "dit": "resultat",
+   "entendu": "d azultat"
+  },
+  {
+   "dit": "de",
+   "entendu": ""
+  },
+  {
+   "dit": "par produit",
+   "entendu": "part produite"
+  },
+  {
+   "dit": "une",
+   "entendu": ""
+  },
+  {
+   "dit": "a faire",
+   "entendu": "affaire"
+  },
+  {
+   "dit": "o radiusse",
+   "entendu": "au radius"
+  },
+  {
+   "dit": "scorees",
+   "entendu": "scorer"
+  },
+  {
+   "dit": "mal rangees",
+   "entendu": "m arranger"
+  },
+  {
+   "dit": "le",
+   "entendu": "peu"
+  },
+  {
+   "dit": "rangees",
+   "entendu": "ranges"
+  }
+ ],
+ "alerts": []
+}

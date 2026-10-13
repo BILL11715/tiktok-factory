@@ -1,0 +1,192 @@
+{
+ "title": "La case de la fiche Google qui cache ton client",
+ "theme": "seo",
+ "pillar": "seo-radius",
+ "format": "methode",
+ "music": "pote",
+ "cover": {
+  "text": "Un seul mot le rend invisible",
+  "highlight": [
+   "invisible"
+  ],
+  "emoji": "📍",
+  "sub": "astuce SEO local"
+ },
+ "hook_text": "Une seule case de la fiche Google peut faire remonter ton client.",
+ "segments": [
+  {
+   "text": "Une seule case de la fiche Google peut faire remonter ton client.",
+   "emphasis": [
+    "case"
+   ]
+  },
+  {
+   "text": "Cette case, c'est la catégorie principale. Le petit mot sous le nom de l'entreprise, sur Google Maps.",
+   "visual": {
+    "kind": "title",
+    "kicker": "La case oubliée",
+    "text": "La catégorie principale",
+    "highlight": "principale",
+    "sub": "sous le nom, sur Maps"
+   }
+  },
+  {
+   "text": "Google l'écrit dans son aide : les catégories choisies influencent le classement local.",
+   "visual": {
+    "kind": "card",
+    "emoji": "📄",
+    "owner": "Google",
+    "name": "Aide Fiche d'établissement",
+    "desc": "Les catégories influencent le classement local.",
+    "tags": [
+     "officiel",
+     "SEO local"
+    ],
+    "url": "support.google.com/business/answer/7249669"
+   }
+  },
+  {
+   "text": "Pourtant, plein d'artisans se trompent. Une boulangère rangée en magasin. Un plombier en entreprise de construction.",
+   "visual": {
+    "kind": "search",
+    "query": "boulangerie Nantes",
+    "results": [
+     {
+      "name": "Fournil du Quai",
+      "note": "catégorie : magasin",
+      "rating": "4,7"
+     },
+     {
+      "name": "Maison Briand",
+      "note": "catégorie : boulangerie",
+      "rating": "4,3"
+     }
+    ],
+    "pick": 0
+   },
+   "sfx": true
+  },
+  {
+   "text": "Résultat ? Elle passe derrière des concurrents moins bien notés quand on cherche une boulangerie.",
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "Catégorie floue",
+     "items": [
+      "Magasin",
+      "Absente des recherches"
+     ]
+    },
+    "right": {
+     "title": "Catégorie précise",
+     "items": [
+      "Boulangerie",
+      "Visible au bon moment"
+     ]
+    }
+   }
+  },
+  {
+   "text": "La règle de Google est simple. Choisis la catégorie la plus précise. Salon de manucure, plutôt que salon.",
+   "visual": {
+    "kind": "list",
+    "title": "La règle Google",
+    "items": [
+     "La plus précise",
+     "Quelques secondaires",
+     "Pas une par produit"
+    ],
+    "at": [
+     "précise",
+     "secondaires",
+     "produit"
+    ]
+   }
+  },
+  {
+   "text": "Ajoute quelques catégories secondaires pour les services à part. Mais pas une par produit."
+  },
+  {
+   "text": "Pour vérifier, tu ouvres Google Maps, tu cherches l'entreprise, et tu lis le mot sous son nom.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Le test",
+    "text": "Lis le mot sous le nom",
+    "highlight": "mot",
+    "sub": "sur Google Maps"
+   }
+  },
+  {
+   "text": "Si c'est vague ou faux, tu tiens un argument concret. Une correction visible, rapide à faire.",
+   "stamp": "argument"
+  },
+  {
+   "text": "Pour trouver ces entreprises, SEO Radius aide. Tu tapes un métier et une ville, l'outil analyse jusqu'à 50 résultats Google.",
+   "visual": {
+    "kind": "stat",
+    "value": 50,
+    "label": "résultats Google analysés",
+    "source": "SEO Radius"
+   }
+  },
+  {
+   "text": "Il écarte les annuaires et les grandes plateformes, puis classe les vraies entreprises avec un score d'opportunité estimé sur 100.",
+   "visual": {
+    "kind": "search",
+    "query": "plombier Rennes",
+    "results": [
+     {
+      "name": "Plomberie Vilaine",
+      "note": "score 82/100 (estimation)",
+      "rating": "4,2"
+     },
+     {
+      "name": "Rennes Dépannage Eau",
+      "note": "score 61/100 (estimation)",
+      "rating": "4,6"
+     }
+    ],
+    "pick": 0
+   },
+   "sfx": true
+  },
+  {
+   "text": "Tu ouvres les fiches les mieux scorées et tu regardes la catégorie. Les fiches mal rangées passent en haut de ta liste."
+  },
+  {
+   "text": "Le premier message tient en trois phrases. Ce que tu as vu, ce que ça lui coûte, et une question.",
+   "visual": {
+    "kind": "chat",
+    "name": "Premier message",
+    "user": "Message court pour un plombier classé en entreprise de construction.",
+    "assistant": "Bonjour ! En cherchant plombier à Rennes, votre fiche n'apparaît pas. Elle est rangée en entreprise de construction. Changer ce seul mot peut vous rendre visible. Je vous montre ?"
+   }
+  },
+  {
+   "text": "Attention, ce n'est pas magique. Les avis, la distance et le site comptent aussi. Dis-le au client : il te fera confiance.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Honnête",
+    "text": "Un levier, pas une baguette magique",
+    "highlight": "levier"
+   }
+  },
+  {
+   "text": "Ce soir, ouvre trois fiches de ta ville. Combien sont mal rangées ? Dis-moi en commentaire ce que tu trouves !",
+   "visual": {
+    "kind": "stat",
+    "value": 3,
+    "label": "fiches à vérifier ce soir",
+    "source": "ta ville"
+   }
+  }
+ ],
+ "caption": "Un seul mot sur la fiche Google peut cacher ton prochain client 📍 SEO Radius pour trouver ces fiches : lien en bio",
+ "hashtags": [
+  "#seo",
+  "#seolocal",
+  "#googlemaps",
+  "#freelance",
+  "#prospection"
+ ]
+}
