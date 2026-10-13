@@ -1,0 +1,204 @@
+{
+  "title": "Haiku, Sonnet ou Opus : quel Claude choisir",
+  "theme": "ia",
+  "pillar": "ia",
+  "format": "actu",
+  "music": "hype",
+  "cover": {
+    "text": "Tu utilises le mauvais Claude",
+    "highlight": [
+      "mauvais"
+    ],
+    "emoji": "🧠",
+    "sub": "Haiku, Sonnet ou Opus"
+  },
+  "hook_text": "Tu utilises Claude gratuitement ? Tu as peut-être le mauvais modèle.",
+  "segments": [
+    {
+      "text": "Tu utilises Claude gratuitement ? Tu as peut-être le mauvais modèle.",
+      "emphasis": [
+        "modèle"
+      ]
+    },
+    {
+      "text": "Anthropic vient de sortir une nouvelle famille de modèles. Et choisir le bon change vraiment tes réponses.",
+      "visual": {
+        "kind": "title",
+        "kicker": "Actu IA, octobre 2026",
+        "text": "Trois cerveaux, un seul Claude",
+        "highlight": "Trois",
+        "sub": "la famille 5.5"
+      }
+    },
+    {
+      "text": "Un modèle, c'est le cerveau qui répond derrière Claude. Il y a Haiku, le sprinteur. Sonnet, le polyvalent. Et Opus, celui qui réfléchit longtemps.",
+      "visual": {
+        "kind": "list",
+        "title": "Les trois modèles",
+        "items": [
+          "Haiku, le sprinteur",
+          "Sonnet, le polyvalent",
+          "Opus, le penseur"
+        ],
+        "at": [
+          "Haiku",
+          "Sonnet",
+          "Opus"
+        ]
+      }
+    },
+    {
+      "text": "Haiku est sorti le 7 octobre. Il est disponible en gratuit, sur le site et sur mobile. C'est le plus rapide de tous.",
+      "visual": {
+        "kind": "card",
+        "emoji": "⚡",
+        "owner": "Anthropic",
+        "name": "Claude Haiku 5.5",
+        "desc": "Le plus rapide, dispo en gratuit",
+        "tags": [
+          "gratuit",
+          "web",
+          "mobile"
+        ],
+        "price": "Gratuit",
+        "url": "claude.ai"
+      }
+    },
+    {
+      "text": "Il est parfait pour une question rapide, ou pour résumer un mail. Et surtout, il use moins vite ta limite de messages.",
+      "visual": {
+        "kind": "chat",
+        "name": "Claude Haiku",
+        "user": "Résume ce mail en trois points.",
+        "assistant": "1. La réunion passe à jeudi.\n2. Il faut envoyer le devis avant.\n3. Marc s'occupe des slides."
+      }
+    },
+    {
+      "text": "Sonnet, c'est le modèle du quotidien. Écrire, analyser un document, travailler en plusieurs étapes. Lui aussi est gratuit.",
+      "visual": {
+        "kind": "card",
+        "emoji": "✍️",
+        "owner": "Anthropic",
+        "name": "Claude Sonnet 5.5",
+        "desc": "Le modèle du quotidien",
+        "tags": [
+          "écrire",
+          "analyser",
+          "gratuit"
+        ],
+        "price": "Gratuit",
+        "url": "claude.ai"
+      }
+    },
+    {
+      "text": "Et le conseil officiel d'Anthropic est simple. Si tu hésites, commence par Sonnet.",
+      "visual": {
+        "kind": "title",
+        "kicker": "Le conseil officiel",
+        "text": "Tu hésites ? Prends Sonnet.",
+        "highlight": "Sonnet"
+      },
+      "sfx": true
+    },
+    {
+      "text": "Et Opus ? Il sert aux grosses recherches et aux raisonnements compliqués. Mais il est réservé aux formules payantes.",
+      "visual": {
+        "kind": "card",
+        "emoji": "🧠",
+        "owner": "Anthropic",
+        "name": "Claude Opus 5.5",
+        "desc": "Pour les gros raisonnements",
+        "tags": [
+          "recherche",
+          "réflexion"
+        ],
+        "price": "Formules payantes",
+        "url": "claude.ai"
+      }
+    },
+    {
+      "text": "Il mange aussi une grosse part de ta limite. Donc pas besoin d'Opus pour une recette de crêpes !",
+      "stamp": "crêpes"
+    },
+    {
+      "text": "Pour changer, clique sur le sélecteur de modèle, dans la zone où tu écris. Choisis le modèle, puis règle l'effort.",
+      "visual": {
+        "kind": "list",
+        "title": "Changer de modèle",
+        "items": [
+          "Ouvre le sélecteur",
+          "Choisis le modèle",
+          "Règle l'effort"
+        ],
+        "at": [
+          "clique",
+          "choisis",
+          "effort"
+        ]
+      }
+    },
+    {
+      "text": "L'effort, c'est le temps que Claude passe à réfléchir. Plus bas, la réponse arrive plus vite, et ça use moins ta limite.",
+      "visual": {
+        "kind": "compare",
+        "left": {
+          "title": "Effort élevé",
+          "items": [
+            "Plus lent",
+            "Use ta limite"
+          ]
+        },
+        "right": {
+          "title": "Effort bas",
+          "items": [
+            "Plus rapide",
+            "Plus économe"
+          ]
+        }
+      }
+    },
+    {
+      "text": "Attention quand même. Haiku va très vite, mais sur un problème de logique, il peut se tromper. Un test de la presse l'a montré.",
+      "visual": {
+        "kind": "title",
+        "kicker": "Attention",
+        "text": "Rapide ne veut pas dire juste",
+        "highlight": "juste"
+      }
+    },
+    {
+      "text": "Donc la règle est simple. Haiku pour le rapide. Sonnet pour le quotidien. Opus seulement quand ça coince.",
+      "visual": {
+        "kind": "list",
+        "title": "La règle simple",
+        "items": [
+          "Haiku : le rapide",
+          "Sonnet : le quotidien",
+          "Opus : quand ça coince"
+        ],
+        "at": [
+          "rapide",
+          "quotidien",
+          "coince"
+        ]
+      }
+    },
+    {
+      "text": "Et toi, tu étais sur quel modèle sans le savoir ? Dis-le-moi en commentaire.",
+      "visual": {
+        "kind": "title",
+        "kicker": "À toi",
+        "text": "Tu étais sur quel modèle ?",
+        "highlight": "modèle"
+      }
+    }
+  ],
+  "caption": "Haiku, Sonnet ou Opus : le bon modèle Claude pour chaque tâche 🧠 (infos vérifiées sur academy.claude.com et support.claude.com)",
+  "hashtags": [
+    "#ia",
+    "#claude",
+    "#intelligenceartificielle",
+    "#astuce",
+    "#productivite"
+  ]
+}

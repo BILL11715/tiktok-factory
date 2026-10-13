@@ -1,0 +1,89 @@
+{
+ "stamp": "2026-10-13_1900",
+ "duration": 93.2,
+ "lead": 0.6,
+ "cps": 24.3,
+ "accuracy": 0.905,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "anne tropique",
+   "entendu": "anthropique"
+  },
+  {
+   "dit": "haiku",
+   "entendu": "aiku"
+  },
+  {
+   "dit": "sprinteur sonnet",
+   "entendu": "sprinter sonet"
+  },
+  {
+   "dit": "opusse",
+   "entendu": "au pus"
+  },
+  {
+   "dit": "haiku",
+   "entendu": "aiku"
+  },
+  {
+   "dit": "il",
+   "entendu": "c"
+  },
+  {
+   "dit": "messages",
+   "entendu": "message"
+  },
+  {
+   "dit": "anne tropique",
+   "entendu": "anthropique"
+  },
+  {
+   "dit": "opusse",
+   "entendu": "opus"
+  },
+  {
+   "dit": "payantes il mange",
+   "entendu": "payante ben j ai"
+  },
+  {
+   "dit": "opusse",
+   "entendu": "opus"
+  },
+  {
+   "dit": "modele",
+   "entendu": "modeles"
+  },
+  {
+   "dit": "l",
+   "entendu": "d"
+  },
+  {
+   "dit": "haiku",
+   "entendu": "aiku"
+  },
+  {
+   "dit": "haiku",
+   "entendu": "aiku"
+  },
+  {
+   "dit": "sonnet",
+   "entendu": "sonne"
+  },
+  {
+   "dit": "opusse",
+   "entendu": "au plus"
+  },
+  {
+   "dit": "quand ca coince",
+   "entendu": "qu en s accroissent"
+  },
+  {
+   "dit": "moi",
+   "entendu": "mot"
+  }
+ ],
+ "alerts": [
+  "prononciation 90% des mots compris (min 93%)"
+ ]
+}
