@@ -1,0 +1,127 @@
+{
+ "title": "Reco : vendue au palais, elle goûte du poison pour le plaisir",
+ "format": "reco",
+ "tone": "pote",
+ "music": "pote",
+ "animes": [
+  "The Apothecary Diaries Season 3"
+ ],
+ "hook_text": "Vendue comme servante au palais, elle goûte du poison pour le plaisir",
+ "spoiler": false,
+ "segments": [
+  {
+   "text": "Vendue comme servante au palais, elle goûte du poison pour le plaisir.",
+   "sfx": true,
+   "emphasis": [
+    "poison"
+   ]
+  },
+  {
+   "text": "[whispering] Reste jusqu'au bout, j'te donne le nom, et la nouvelle saison vient de sortir.",
+   "emphasis": [
+    "nouvelle saison"
+   ]
+  },
+  {
+   "text": "Elle s'appelle Maomao. Elle a grandi chez un vieil apothicaire qui lui a tout appris sur les plantes.",
+   "emphasis": [
+    "Maomao"
+   ]
+  },
+  {
+   "text": "Un jour, on la kidnappe et on la revend au palais impérial, là où vivent les concubines de l'empereur.",
+   "shots": [
+    {
+     "kind": "wide"
+    }
+   ],
+   "emphasis": [
+    "kidnappent"
+   ]
+  },
+  {
+   "text": "Son plan, c'est faire profil bas et rentrer chez elle. Surtout, que personne sache qu'elle sait lire.",
+   "emphasis": [
+    "profil bas"
+   ]
+  },
+  {
+   "text": "Sauf que les bébés de l'empereur tombent malades les uns après les autres, et tout le palais parle d'une malédiction.",
+   "grade": "bw",
+   "emphasis": [
+    "malédiction"
+   ]
+  },
+  {
+   "text": "[surprised] Maomao, elle, pige direct. C'est pas une malédiction, c'est la poudre blanche que les concubines se mettent sur le visage. Y'a du plomb dedans.",
+   "sfx": true,
+   "stamp": "PLOMB",
+   "emphasis": [
+    "plomb"
+   ]
+  },
+  {
+   "text": "Elle veut pas d'histoires, donc elle prévient en douce, avec un message écrit sur un bout de tissu.",
+   "emphasis": [
+    "en douce"
+   ]
+  },
+  {
+   "text": "Si t'aimes les persos trop malins pour leur propre bien, abonne-toi, j'te sors une reco comme ça tous les jours.",
+   "cta": true
+  },
+  {
+   "text": "Le problème, c'est Jinshi. Un eunuque si beau que tout le palais fond devant lui. Tout le palais, sauf elle.",
+   "emphasis": [
+    "Jinshi"
+   ]
+  },
+  {
+   "text": "Il retrouve qui a écrit le message, et à partir de là il la lâche plus. [laughing] Elle, elle le regarde comme une limace.",
+   "emphasis": [
+    "limace"
+   ]
+  },
+  {
+   "text": "Il la place comme goûteuse chez la concubine Gyokuyou. Le poste le plus risqué du palais, et elle est ravie.",
+   "emphasis": [
+    "goûteuse"
+   ]
+  },
+  {
+   "text": "Parce que Maomao teste les poisons sur son propre bras. Il est couvert de cicatrices, et pour elle c'est normal.",
+   "grade": "bw",
+   "sfx": true,
+   "emphasis": [
+    "son propre bras"
+   ]
+  },
+  {
+   "text": "Chaque épisode, c'est une enquête, et elle démêle tout avec la science, zéro pouvoir.",
+   "emphasis": [
+    "zéro pouvoir"
+   ]
+  },
+  {
+   "text": "[excited] Franchement, une héroïne sans épée ni magie, juste des herbes, et j'te jure c'est plus tendu qu'un shonen.",
+   "stamp": "VALIDÉ",
+   "emphasis": [
+    "plus tendu"
+   ]
+  },
+  {
+   "text": "La saison 3 est sortie le 2 octobre. C'est The Apothecary Diaries. Dis-moi en com' si t'as commencé."
+  }
+ ],
+ "reveal_text": "The Apothecary Diaries",
+ "reveal_segments": 1,
+ "caption": "Elle préfère le poison aux bijoux 🧪 t'as déjà commencé la saison 3 ?",
+ "hashtags": [
+  "#anime",
+  "#manga",
+  "#animefr",
+  "#mangafr",
+  "#apothecarydiaries",
+  "#recommandationanime"
+ ]
+}
