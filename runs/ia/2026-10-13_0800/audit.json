@@ -1,0 +1,47 @@
+{
+ "stamp": "2026-10-13_0800",
+ "duration": 82.0,
+ "lead": 0.6,
+ "cps": 24.5,
+ "accuracy": 0.941,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "hausse",
+   "entendu": "osse"
+  },
+  {
+   "dit": "s e o radiusse",
+   "entendu": "seo radius"
+  },
+  {
+   "dit": "ia",
+   "entendu": "aya par"
+  },
+  {
+   "dit": "paysagiste",
+   "entendu": "pays agistes"
+  },
+  {
+   "dit": "l ia compare",
+   "entendu": "d ailleurs on part"
+  },
+  {
+   "dit": "aux concurrents",
+   "entendu": "au concurrent"
+  },
+  {
+   "dit": "passent",
+   "entendu": "passe"
+  },
+  {
+   "dit": "envoie",
+   "entendu": "en vois"
+  },
+  {
+   "dit": "garde",
+   "entendu": "gardes"
+  }
+ ],
+ "alerts": []
+}
