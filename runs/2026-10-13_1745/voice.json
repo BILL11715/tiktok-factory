@@ -1,0 +1,1657 @@
+{
+ "engine": "fish",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-13_1745/voice.wav",
+ "duration": 81.876,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 3.48,
+   "slot_end": 3.303,
+   "text": "Le capitaine le plus fort de Black Clover passe sa vie aux toilettes.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 0.0,
+     "end": 0.12
+    },
+    {
+     "w": "capitaine",
+     "start": 0.12,
+     "end": 0.6
+    },
+    {
+     "w": "le",
+     "start": 0.6,
+     "end": 0.82
+    },
+    {
+     "w": "plus",
+     "start": 0.82,
+     "end": 1.0
+    },
+    {
+     "w": "fort",
+     "start": 1.0,
+     "end": 1.32
+    },
+    {
+     "w": "de",
+     "start": 1.32,
+     "end": 1.48
+    },
+    {
+     "w": "Black",
+     "start": 1.48,
+     "end": 1.7
+    },
+    {
+     "w": "Clover",
+     "start": 1.7,
+     "end": 2.02
+    },
+    {
+     "w": "passe",
+     "start": 2.02,
+     "end": 2.32
+    },
+    {
+     "w": "sa",
+     "start": 2.32,
+     "end": 2.52
+    },
+    {
+     "w": "vie",
+     "start": 2.52,
+     "end": 2.66
+    },
+    {
+     "w": "aux",
+     "start": 2.66,
+     "end": 2.96
+    },
+    {
+     "w": "toilettes.",
+     "start": 2.96,
+     "end": 3.48
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 3.58,
+   "end": 6.96,
+   "slot_end": 7.12,
+   "text": "Reste jusqu'au bout, mon numéro 1 va faire rager du monde en com'.",
+   "words": [
+    {
+     "w": "Reste",
+     "start": 3.58,
+     "end": 3.92
+    },
+    {
+     "w": "jusqu'au",
+     "start": 3.92,
+     "end": 4.2
+    },
+    {
+     "w": "bout,",
+     "start": 4.2,
+     "end": 4.34
+    },
+    {
+     "w": "mon",
+     "start": 4.46,
+     "end": 4.58
+    },
+    {
+     "w": "numéro",
+     "start": 4.58,
+     "end": 4.94
+    },
+    {
+     "w": "1",
+     "start": 4.94,
+     "end": 5.22
+    },
+    {
+     "w": "va",
+     "start": 5.22,
+     "end": 5.4
+    },
+    {
+     "w": "faire",
+     "start": 5.4,
+     "end": 5.66
+    },
+    {
+     "w": "rager",
+     "start": 5.66,
+     "end": 6.1
+    },
+    {
+     "w": "du",
+     "start": 6.1,
+     "end": 6.28
+    },
+    {
+     "w": "monde",
+     "start": 6.28,
+     "end": 6.54
+    },
+    {
+     "w": "en",
+     "start": 6.54,
+     "end": 6.78
+    },
+    {
+     "w": "com'.",
+     "start": 6.78,
+     "end": 6.96
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 7.1,
+   "end": 13.02,
+   "slot_end": 13.157,
+   "text": "La saison 2 de Black Clover est enfin là, alors j'ai classé les capitaines des Chevaliers-Mages. Que des capitaines, pas de Julius, sinon c'est trop facile.",
+   "words": [
+    {
+     "w": "La",
+     "start": 7.1,
+     "end": 7.24
+    },
+    {
+     "w": "saison",
+     "start": 7.24,
+     "end": 7.48
+    },
+    {
+     "w": "2",
+     "start": 7.48,
+     "end": 7.64
+    },
+    {
+     "w": "de",
+     "start": 7.64,
+     "end": 7.74
+    },
+    {
+     "w": "Black",
+     "start": 7.74,
+     "end": 7.92
+    },
+    {
+     "w": "Clover",
+     "start": 7.92,
+     "end": 8.18
+    },
+    {
+     "w": "est",
+     "start": 8.18,
+     "end": 8.32
+    },
+    {
+     "w": "enfin",
+     "start": 8.32,
+     "end": 8.48
+    },
+    {
+     "w": "là,",
+     "start": 8.48,
+     "end": 8.64
+    },
+    {
+     "w": "alors",
+     "start": 8.74,
+     "end": 8.84
+    },
+    {
+     "w": "j'ai",
+     "start": 8.84,
+     "end": 9.0
+    },
+    {
+     "w": "classé",
+     "start": 9.0,
+     "end": 9.26
+    },
+    {
+     "w": "les",
+     "start": 9.26,
+     "end": 9.4
+    },
+    {
+     "w": "capitaines",
+     "start": 9.4,
+     "end": 9.86
+    },
+    {
+     "w": "des",
+     "start": 9.86,
+     "end": 10.0
+    },
+    {
+     "w": "Chevaliers-Mages.",
+     "start": 10.0,
+     "end": 10.5
+    },
+    {
+     "w": "Que",
+     "start": 10.82,
+     "end": 10.94
+    },
+    {
+     "w": "des",
+     "start": 10.94,
+     "end": 11.12
+    },
+    {
+     "w": "capitaines,",
+     "start": 11.12,
+     "end": 11.6
+    },
+    {
+     "w": "pas",
+     "start": 11.7,
+     "end": 11.78
+    },
+    {
+     "w": "de",
+     "start": 11.78,
+     "end": 11.9
+    },
+    {
+     "w": "Julius,",
+     "start": 11.9,
+     "end": 12.06
+    },
+    {
+     "w": "sinon",
+     "start": 12.36,
+     "end": 12.5
+    },
+    {
+     "w": "c'est",
+     "start": 12.5,
+     "end": 12.66
+    },
+    {
+     "w": "trop",
+     "start": 12.66,
+     "end": 12.76
+    },
+    {
+     "w": "facile.",
+     "start": 12.76,
+     "end": 13.02
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 13.16,
+   "end": 18.38,
+   "slot_end": 18.474,
+   "text": "Numéro 5, Jack le Découpeur. Ce mec découpe absolument tout, et plus son adversaire est fort, plus il kiffe.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 13.16,
+     "end": 13.4
+    },
+    {
+     "w": "5,",
+     "start": 13.4,
+     "end": 13.62
+    },
+    {
+     "w": "Jack",
+     "start": 13.9,
+     "end": 14.04
+    },
+    {
+     "w": "le",
+     "start": 14.04,
+     "end": 14.22
+    },
+    {
+     "w": "Découpeur.",
+     "start": 14.22,
+     "end": 14.68
+    },
+    {
+     "w": "Ce",
+     "start": 14.88,
+     "end": 15.04
+    },
+    {
+     "w": "mec",
+     "start": 15.04,
+     "end": 15.22
+    },
+    {
+     "w": "découpe",
+     "start": 15.22,
+     "end": 15.64
+    },
+    {
+     "w": "absolument",
+     "start": 15.64,
+     "end": 16.08
+    },
+    {
+     "w": "tout,",
+     "start": 16.08,
+     "end": 16.36
+    },
+    {
+     "w": "et",
+     "start": 16.84,
+     "end": 16.89
+    },
+    {
+     "w": "plus",
+     "start": 16.86,
+     "end": 17.06
+    },
+    {
+     "w": "son",
+     "start": 17.06,
+     "end": 17.22
+    },
+    {
+     "w": "adversaire",
+     "start": 17.22,
+     "end": 17.58
+    },
+    {
+     "w": "est",
+     "start": 17.58,
+     "end": 17.74
+    },
+    {
+     "w": "fort,",
+     "start": 17.74,
+     "end": 17.84
+    },
+    {
+     "w": "plus",
+     "start": 18.0,
+     "end": 18.08
+    },
+    {
+     "w": "il",
+     "start": 18.08,
+     "end": 18.3
+    },
+    {
+     "w": "kiffe.",
+     "start": 18.3,
+     "end": 18.38
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 18.82,
+   "end": 21.92,
+   "slot_end": 22.033,
+   "text": "Son seul vrai problème, c'est qu'il veut couper Yami en deux depuis toujours.",
+   "words": [
+    {
+     "w": "Son",
+     "start": 18.82,
+     "end": 19.12
+    },
+    {
+     "w": "seul",
+     "start": 19.12,
+     "end": 19.42
+    },
+    {
+     "w": "vrai",
+     "start": 19.42,
+     "end": 19.5
+    },
+    {
+     "w": "problème,",
+     "start": 19.5,
+     "end": 19.82
+    },
+    {
+     "w": "c'est",
+     "start": 19.88,
+     "end": 20.0
+    },
+    {
+     "w": "qu'il",
+     "start": 20.0,
+     "end": 20.16
+    },
+    {
+     "w": "veut",
+     "start": 20.16,
+     "end": 20.3
+    },
+    {
+     "w": "couper",
+     "start": 20.3,
+     "end": 20.52
+    },
+    {
+     "w": "Yami",
+     "start": 20.52,
+     "end": 20.84
+    },
+    {
+     "w": "en",
+     "start": 20.84,
+     "end": 21.12
+    },
+    {
+     "w": "deux",
+     "start": 21.12,
+     "end": 21.3
+    },
+    {
+     "w": "depuis",
+     "start": 21.3,
+     "end": 21.5
+    },
+    {
+     "w": "toujours.",
+     "start": 21.5,
+     "end": 21.92
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 22.04,
+   "end": 28.8,
+   "slot_end": 28.947,
+   "text": "Numéro 4, Nozel Silva. Sa magie de mercure attaque et protège en même temps. Il a l'air glacial, mais il est dur avec Noelle pour la protéger.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 22.04,
+     "end": 22.26
+    },
+    {
+     "w": "4,",
+     "start": 22.26,
+     "end": 22.54
+    },
+    {
+     "w": "Nozel",
+     "start": 22.92,
+     "end": 23.06
+    },
+    {
+     "w": "Silva.",
+     "start": 23.06,
+     "end": 23.3
+    },
+    {
+     "w": "Sa",
+     "start": 23.74,
+     "end": 23.84
+    },
+    {
+     "w": "magie",
+     "start": 23.84,
+     "end": 24.08
+    },
+    {
+     "w": "de",
+     "start": 24.08,
+     "end": 24.2
+    },
+    {
+     "w": "mercure",
+     "start": 24.2,
+     "end": 24.62
+    },
+    {
+     "w": "attaque",
+     "start": 24.62,
+     "end": 25.0
+    },
+    {
+     "w": "et",
+     "start": 25.0,
+     "end": 25.12
+    },
+    {
+     "w": "protège",
+     "start": 25.12,
+     "end": 25.38
+    },
+    {
+     "w": "en",
+     "start": 25.38,
+     "end": 25.46
+    },
+    {
+     "w": "même",
+     "start": 25.46,
+     "end": 25.56
+    },
+    {
+     "w": "temps.",
+     "start": 25.56,
+     "end": 25.76
+    },
+    {
+     "w": "Il",
+     "start": 26.18,
+     "end": 26.34
+    },
+    {
+     "w": "a",
+     "start": 26.34,
+     "end": 26.42
+    },
+    {
+     "w": "l'air",
+     "start": 26.42,
+     "end": 26.52
+    },
+    {
+     "w": "glacial,",
+     "start": 26.52,
+     "end": 26.84
+    },
+    {
+     "w": "mais",
+     "start": 27.08,
+     "end": 27.22
+    },
+    {
+     "w": "il",
+     "start": 27.22,
+     "end": 27.28
+    },
+    {
+     "w": "est",
+     "start": 27.28,
+     "end": 27.38
+    },
+    {
+     "w": "dur",
+     "start": 27.38,
+     "end": 27.54
+    },
+    {
+     "w": "avec",
+     "start": 27.54,
+     "end": 27.88
+    },
+    {
+     "w": "Noelle",
+     "start": 27.88,
+     "end": 28.18
+    },
+    {
+     "w": "pour",
+     "start": 28.18,
+     "end": 28.34
+    },
+    {
+     "w": "la",
+     "start": 28.34,
+     "end": 28.46
+    },
+    {
+     "w": "protéger.",
+     "start": 28.46,
+     "end": 28.8
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 28.8,
+   "end": 34.0,
+   "slot_end": 34.114,
+   "text": "Et attends, parce que le podium est chaud. Si tu kiffes Black Clover, abonne-toi, j'en sors tous les jours sur les animes de la saison.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 28.8,
+     "end": 29.02
+    },
+    {
+     "w": "attends,",
+     "start": 29.02,
+     "end": 29.18
+    },
+    {
+     "w": "parce",
+     "start": 29.28,
+     "end": 29.34
+    },
+    {
+     "w": "que",
+     "start": 29.34,
+     "end": 29.46
+    },
+    {
+     "w": "le",
+     "start": 29.46,
+     "end": 29.54
+    },
+    {
+     "w": "podium",
+     "start": 29.54,
+     "end": 29.72
+    },
+    {
+     "w": "est",
+     "start": 29.72,
+     "end": 29.9
+    },
+    {
+     "w": "chaud.",
+     "start": 29.9,
+     "end": 30.08
+    },
+    {
+     "w": "Si",
+     "start": 30.5,
+     "end": 30.66
+    },
+    {
+     "w": "tu",
+     "start": 30.66,
+     "end": 30.78
+    },
+    {
+     "w": "kiffes",
+     "start": 30.78,
+     "end": 31.06
+    },
+    {
+     "w": "Black",
+     "start": 31.06,
+     "end": 31.46
+    },
+    {
+     "w": "Clover,",
+     "start": 31.46,
+     "end": 31.86
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 31.86,
+     "end": 32.26
+    },
+    {
+     "w": "j'en",
+     "start": 32.46,
+     "end": 32.56
+    },
+    {
+     "w": "sors",
+     "start": 32.56,
+     "end": 32.72
+    },
+    {
+     "w": "tous",
+     "start": 32.72,
+     "end": 32.92
+    },
+    {
+     "w": "les",
+     "start": 32.92,
+     "end": 33.04
+    },
+    {
+     "w": "jours",
+     "start": 33.04,
+     "end": 33.18
+    },
+    {
+     "w": "sur",
+     "start": 33.18,
+     "end": 33.34
+    },
+    {
+     "w": "les",
+     "start": 33.34,
+     "end": 33.46
+    },
+    {
+     "w": "animes",
+     "start": 33.46,
+     "end": 33.6
+    },
+    {
+     "w": "de",
+     "start": 33.6,
+     "end": 33.7
+    },
+    {
+     "w": "la",
+     "start": 33.7,
+     "end": 33.78
+    },
+    {
+     "w": "saison.",
+     "start": 33.78,
+     "end": 34.0
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 34.24,
+   "end": 40.88,
+   "slot_end": 40.933,
+   "text": "Numéro 3, et là ça devient chelou. Dorothy Unsworth. Elle dort tout le temps, même pendant les réunions.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 34.24,
+     "end": 34.38
+    },
+    {
+     "w": "3,",
+     "start": 34.38,
+     "end": 34.72
+    },
+    {
+     "w": "et",
+     "start": 34.98,
+     "end": 35.06
+    },
+    {
+     "w": "là",
+     "start": 35.06,
+     "end": 35.18
+    },
+    {
+     "w": "ça",
+     "start": 35.18,
+     "end": 35.28
+    },
+    {
+     "w": "devient",
+     "start": 35.28,
+     "end": 35.52
+    },
+    {
+     "w": "chelou.",
+     "start": 35.52,
+     "end": 35.94
+    },
+    {
+     "w": "Dorothy",
+     "start": 36.58,
+     "end": 37.21
+    },
+    {
+     "w": "Unsworth.",
+     "start": 37.21,
+     "end": 37.84
+    },
+    {
+     "w": "Elle",
+     "start": 38.42,
+     "end": 38.74
+    },
+    {
+     "w": "dort",
+     "start": 38.74,
+     "end": 39.04
+    },
+    {
+     "w": "tout",
+     "start": 39.04,
+     "end": 39.4
+    },
+    {
+     "w": "le",
+     "start": 39.4,
+     "end": 39.56
+    },
+    {
+     "w": "temps,",
+     "start": 39.56,
+     "end": 39.7
+    },
+    {
+     "w": "même",
+     "start": 39.8,
+     "end": 39.96
+    },
+    {
+     "w": "pendant",
+     "start": 39.96,
+     "end": 40.24
+    },
+    {
+     "w": "les",
+     "start": 40.24,
+     "end": 40.46
+    },
+    {
+     "w": "réunions.",
+     "start": 40.46,
+     "end": 40.88
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 41.0,
+   "end": 45.4,
+   "slot_end": 45.524,
+   "text": "Sauf que si elle t'attire dans son monde des rêves, c'est elle qui fixe les règles. Tu peux plus rien faire.",
+   "words": [
+    {
+     "w": "Sauf",
+     "start": 41.0,
+     "end": 41.1
+    },
+    {
+     "w": "que",
+     "start": 41.1,
+     "end": 41.28
+    },
+    {
+     "w": "si",
+     "start": 41.28,
+     "end": 41.48
+    },
+    {
+     "w": "elle",
+     "start": 41.48,
+     "end": 41.6
+    },
+    {
+     "w": "t'attire",
+     "start": 41.6,
+     "end": 41.92
+    },
+    {
+     "w": "dans",
+     "start": 41.92,
+     "end": 42.14
+    },
+    {
+     "w": "son",
+     "start": 42.14,
+     "end": 42.3
+    },
+    {
+     "w": "monde",
+     "start": 42.3,
+     "end": 42.48
+    },
+    {
+     "w": "des",
+     "start": 42.48,
+     "end": 42.7
+    },
+    {
+     "w": "rêves,",
+     "start": 42.7,
+     "end": 43.0
+    },
+    {
+     "w": "c'est",
+     "start": 43.1,
+     "end": 43.3
+    },
+    {
+     "w": "elle",
+     "start": 43.3,
+     "end": 43.46
+    },
+    {
+     "w": "qui",
+     "start": 43.46,
+     "end": 43.58
+    },
+    {
+     "w": "fixe",
+     "start": 43.58,
+     "end": 43.82
+    },
+    {
+     "w": "les",
+     "start": 43.82,
+     "end": 43.92
+    },
+    {
+     "w": "règles.",
+     "start": 43.92,
+     "end": 44.16
+    },
+    {
+     "w": "Tu",
+     "start": 44.54,
+     "end": 44.66
+    },
+    {
+     "w": "peux",
+     "start": 44.66,
+     "end": 44.78
+    },
+    {
+     "w": "plus",
+     "start": 44.78,
+     "end": 44.94
+    },
+    {
+     "w": "rien",
+     "start": 44.94,
+     "end": 45.16
+    },
+    {
+     "w": "faire.",
+     "start": 45.16,
+     "end": 45.4
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 45.62,
+   "end": 51.44,
+   "slot_end": 51.573,
+   "text": "Numéro 2, Mereoleona Vermillion, la grande sœur de Fuegoleon. Elle se bat avec des poings en feu et elle encaisse tout.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 45.62,
+     "end": 45.8
+    },
+    {
+     "w": "2,",
+     "start": 45.8,
+     "end": 46.02
+    },
+    {
+     "w": "Mereoleona",
+     "start": 46.14,
+     "end": 46.79
+    },
+    {
+     "w": "Vermillion,",
+     "start": 46.79,
+     "end": 47.44
+    },
+    {
+     "w": "la",
+     "start": 47.7,
+     "end": 47.76
+    },
+    {
+     "w": "grande",
+     "start": 47.76,
+     "end": 47.96
+    },
+    {
+     "w": "sœur",
+     "start": 47.96,
+     "end": 48.3
+    },
+    {
+     "w": "de",
+     "start": 48.3,
+     "end": 48.42
+    },
+    {
+     "w": "Fuegoleon.",
+     "start": 48.42,
+     "end": 49.06
+    },
+    {
+     "w": "Elle",
+     "start": 49.24,
+     "end": 49.38
+    },
+    {
+     "w": "se",
+     "start": 49.38,
+     "end": 49.54
+    },
+    {
+     "w": "bat",
+     "start": 49.54,
+     "end": 49.68
+    },
+    {
+     "w": "avec",
+     "start": 49.68,
+     "end": 49.84
+    },
+    {
+     "w": "des",
+     "start": 49.84,
+     "end": 50.02
+    },
+    {
+     "w": "poings",
+     "start": 50.02,
+     "end": 50.24
+    },
+    {
+     "w": "en",
+     "start": 50.24,
+     "end": 50.36
+    },
+    {
+     "w": "feu",
+     "start": 50.36,
+     "end": 50.54
+    },
+    {
+     "w": "et",
+     "start": 50.54,
+     "end": 50.84
+    },
+    {
+     "w": "elle",
+     "start": 50.84,
+     "end": 50.96
+    },
+    {
+     "w": "encaisse",
+     "start": 50.96,
+     "end": 51.3
+    },
+    {
+     "w": "tout.",
+     "start": 51.3,
+     "end": 51.44
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 51.54,
+   "end": 55.82,
+   "slot_end": 55.912,
+   "text": "Ses entraînements, c'est souffrir jusqu'à tenir debout tout seul. J'ai hésité à la mettre première, j'te jure.",
+   "words": [
+    {
+     "w": "Ses",
+     "start": 51.54,
+     "end": 51.78
+    },
+    {
+     "w": "entraînements,",
+     "start": 51.78,
+     "end": 52.02
+    },
+    {
+     "w": "c'est",
+     "start": 52.2,
+     "end": 52.28
+    },
+    {
+     "w": "souffrir",
+     "start": 52.28,
+     "end": 52.54
+    },
+    {
+     "w": "jusqu'à",
+     "start": 52.54,
+     "end": 52.86
+    },
+    {
+     "w": "tenir",
+     "start": 52.86,
+     "end": 53.06
+    },
+    {
+     "w": "debout",
+     "start": 53.06,
+     "end": 53.38
+    },
+    {
+     "w": "tout",
+     "start": 53.38,
+     "end": 53.54
+    },
+    {
+     "w": "seul.",
+     "start": 53.54,
+     "end": 53.72
+    },
+    {
+     "w": "J'ai",
+     "start": 54.24,
+     "end": 54.48
+    },
+    {
+     "w": "hésité",
+     "start": 54.48,
+     "end": 54.82
+    },
+    {
+     "w": "à",
+     "start": 54.82,
+     "end": 54.94
+    },
+    {
+     "w": "la",
+     "start": 54.94,
+     "end": 55.0
+    },
+    {
+     "w": "mettre",
+     "start": 55.0,
+     "end": 55.08
+    },
+    {
+     "w": "première,",
+     "start": 55.08,
+     "end": 55.36
+    },
+    {
+     "w": "j'te",
+     "start": 55.54,
+     "end": 55.64
+    },
+    {
+     "w": "jure.",
+     "start": 55.64,
+     "end": 55.82
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 55.82,
+   "end": 63.02,
+   "slot_end": 63.144,
+   "text": "Mais non. Numéro 1, Yami Sukehiro, capitaine du Taureau Noir. Le mec du hook, qui disparaît aux toilettes au pire moment.",
+   "words": [
+    {
+     "w": "Mais",
+     "start": 55.82,
+     "end": 55.99
+    },
+    {
+     "w": "non.",
+     "start": 55.99,
+     "end": 56.16
+    },
+    {
+     "w": "Numéro",
+     "start": 56.8,
+     "end": 57.18
+    },
+    {
+     "w": "1,",
+     "start": 57.18,
+     "end": 57.58
+    },
+    {
+     "w": "Yami",
+     "start": 57.92,
+     "end": 58.4
+    },
+    {
+     "w": "Sukehiro,",
+     "start": 58.4,
+     "end": 58.68
+    },
+    {
+     "w": "capitaine",
+     "start": 58.82,
+     "end": 59.24
+    },
+    {
+     "w": "du",
+     "start": 59.24,
+     "end": 59.46
+    },
+    {
+     "w": "Taureau",
+     "start": 59.46,
+     "end": 59.78
+    },
+    {
+     "w": "Noir.",
+     "start": 59.78,
+     "end": 60.16
+    },
+    {
+     "w": "Le",
+     "start": 60.6,
+     "end": 60.82
+    },
+    {
+     "w": "mec",
+     "start": 60.82,
+     "end": 60.94
+    },
+    {
+     "w": "du",
+     "start": 60.94,
+     "end": 61.22
+    },
+    {
+     "w": "hook,",
+     "start": 61.22,
+     "end": 61.44
+    },
+    {
+     "w": "qui",
+     "start": 61.44,
+     "end": 61.68
+    },
+    {
+     "w": "disparaît",
+     "start": 61.68,
+     "end": 62.14
+    },
+    {
+     "w": "aux",
+     "start": 62.14,
+     "end": 62.19
+    },
+    {
+     "w": "toilettes",
+     "start": 62.14,
+     "end": 62.19
+    },
+    {
+     "w": "au",
+     "start": 62.14,
+     "end": 62.28
+    },
+    {
+     "w": "pire",
+     "start": 62.28,
+     "end": 62.65
+    },
+    {
+     "w": "moment.",
+     "start": 62.65,
+     "end": 63.02
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 63.14,
+   "end": 66.84,
+   "slot_end": 66.937,
+   "text": "C'est le capitaine d'Asta, celui qui a ramassé une bande de rejetés dont personne voulait.",
+   "words": [
+    {
+     "w": "C'est",
+     "start": 63.14,
+     "end": 63.24
+    },
+    {
+     "w": "le",
+     "start": 63.24,
+     "end": 63.34
+    },
+    {
+     "w": "capitaine",
+     "start": 63.34,
+     "end": 63.74
+    },
+    {
+     "w": "d'Asta,",
+     "start": 63.74,
+     "end": 64.02
+    },
+    {
+     "w": "celui",
+     "start": 64.32,
+     "end": 64.37
+    },
+    {
+     "w": "qui",
+     "start": 64.32,
+     "end": 64.48
+    },
+    {
+     "w": "a",
+     "start": 64.48,
+     "end": 64.58
+    },
+    {
+     "w": "ramassé",
+     "start": 64.58,
+     "end": 64.96
+    },
+    {
+     "w": "une",
+     "start": 64.96,
+     "end": 65.1
+    },
+    {
+     "w": "bande",
+     "start": 65.1,
+     "end": 65.3
+    },
+    {
+     "w": "de",
+     "start": 65.3,
+     "end": 65.5
+    },
+    {
+     "w": "rejetés",
+     "start": 65.5,
+     "end": 66.0
+    },
+    {
+     "w": "dont",
+     "start": 66.0,
+     "end": 66.14
+    },
+    {
+     "w": "personne",
+     "start": 66.14,
+     "end": 66.46
+    },
+    {
+     "w": "voulait.",
+     "start": 66.46,
+     "end": 66.84
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 66.94,
+   "end": 72.28,
+   "slot_end": 72.389,
+   "text": "Sa magie des ténèbres coupe à travers les dimensions. Et sa phrase culte, dépasse tes limites, c'est tout Black Clover en trois mots.",
+   "words": [
+    {
+     "w": "Sa",
+     "start": 66.94,
+     "end": 67.06
+    },
+    {
+     "w": "magie",
+     "start": 67.06,
+     "end": 67.34
+    },
+    {
+     "w": "des",
+     "start": 67.34,
+     "end": 67.48
+    },
+    {
+     "w": "ténèbres",
+     "start": 67.48,
+     "end": 67.78
+    },
+    {
+     "w": "coupe",
+     "start": 67.78,
+     "end": 68.02
+    },
+    {
+     "w": "à",
+     "start": 68.02,
+     "end": 68.16
+    },
+    {
+     "w": "travers",
+     "start": 68.16,
+     "end": 68.4
+    },
+    {
+     "w": "les",
+     "start": 68.4,
+     "end": 68.54
+    },
+    {
+     "w": "dimensions.",
+     "start": 68.54,
+     "end": 68.9
+    },
+    {
+     "w": "Et",
+     "start": 68.9,
+     "end": 69.44
+    },
+    {
+     "w": "sa",
+     "start": 69.44,
+     "end": 69.56
+    },
+    {
+     "w": "phrase",
+     "start": 69.56,
+     "end": 69.74
+    },
+    {
+     "w": "culte,",
+     "start": 69.74,
+     "end": 70.16
+    },
+    {
+     "w": "dépasse",
+     "start": 70.16,
+     "end": 70.46
+    },
+    {
+     "w": "tes",
+     "start": 70.46,
+     "end": 70.62
+    },
+    {
+     "w": "limites,",
+     "start": 70.62,
+     "end": 71.0
+    },
+    {
+     "w": "c'est",
+     "start": 71.0,
+     "end": 71.2
+    },
+    {
+     "w": "tout",
+     "start": 71.2,
+     "end": 71.34
+    },
+    {
+     "w": "Black",
+     "start": 71.34,
+     "end": 71.52
+    },
+    {
+     "w": "Clover",
+     "start": 71.52,
+     "end": 71.82
+    },
+    {
+     "w": "en",
+     "start": 71.82,
+     "end": 72.0
+    },
+    {
+     "w": "trois",
+     "start": 72.0,
+     "end": 72.14
+    },
+    {
+     "w": "mots.",
+     "start": 72.14,
+     "end": 72.28
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 72.38,
+   "end": 78.45,
+   "slot_end": 78.508,
+   "text": "Mereoleona pourrait discuter, je sais. Mais c'est lui qui a construit Asta. Et toi, ton capitaine numéro 1, c'est qui ?",
+   "words": [
+    {
+     "w": "Mereoleona",
+     "start": 72.38,
+     "end": 73.0
+    },
+    {
+     "w": "pourrait",
+     "start": 73.0,
+     "end": 73.26
+    },
+    {
+     "w": "discuter,",
+     "start": 73.26,
+     "end": 73.7
+    },
+    {
+     "w": "je",
+     "start": 73.78,
+     "end": 73.84
+    },
+    {
+     "w": "sais.",
+     "start": 73.84,
+     "end": 74.04
+    },
+    {
+     "w": "Mais",
+     "start": 74.46,
+     "end": 74.58
+    },
+    {
+     "w": "c'est",
+     "start": 74.58,
+     "end": 74.72
+    },
+    {
+     "w": "lui",
+     "start": 74.72,
+     "end": 74.9
+    },
+    {
+     "w": "qui",
+     "start": 74.9,
+     "end": 75.08
+    },
+    {
+     "w": "a",
+     "start": 75.08,
+     "end": 75.18
+    },
+    {
+     "w": "construit",
+     "start": 75.18,
+     "end": 75.62
+    },
+    {
+     "w": "Asta.",
+     "start": 75.62,
+     "end": 75.88
+    },
+    {
+     "w": "Et",
+     "start": 76.42,
+     "end": 76.56
+    },
+    {
+     "w": "toi,",
+     "start": 76.56,
+     "end": 76.82
+    },
+    {
+     "w": "ton",
+     "start": 76.96,
+     "end": 77.04
+    },
+    {
+     "w": "capitaine",
+     "start": 77.04,
+     "end": 77.48
+    },
+    {
+     "w": "numéro",
+     "start": 77.48,
+     "end": 77.7
+    },
+    {
+     "w": "1,",
+     "start": 77.7,
+     "end": 78.06
+    },
+    {
+     "w": "c'est",
+     "start": 78.1,
+     "end": 78.24
+    },
+    {
+     "w": "qui",
+     "start": 78.24,
+     "end": 78.4
+    },
+    {
+     "w": "?",
+     "start": 78.4,
+     "end": 78.45
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "start": 78.5,
+   "end": 81.06,
+   "slot_end": 81.876,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 78.5,
+     "end": 78.72
+    },
+    {
+     "w": "Asura.",
+     "start": 78.72,
+     "end": 79.08
+    },
+    {
+     "w": "On",
+     "start": 79.9,
+     "end": 80.14
+    },
+    {
+     "w": "se",
+     "start": 80.14,
+     "end": 80.24
+    },
+    {
+     "w": "capte",
+     "start": 80.24,
+     "end": 80.44
+    },
+    {
+     "w": "au",
+     "start": 80.44,
+     "end": 80.5
+    },
+    {
+     "w": "prochain",
+     "start": 80.5,
+     "end": 80.68
+    },
+    {
+     "w": "épisode.",
+     "start": 80.68,
+     "end": 81.06
+    }
+   ]
+  }
+ ],
+ "aligned": 0.99
+}
