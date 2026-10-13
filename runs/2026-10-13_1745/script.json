@@ -1,0 +1,142 @@
+{
+ "title": "Top 5 des capitaines les plus forts de Black Clover",
+ "format": "top",
+ "tone": "hype",
+ "music": "hype",
+ "animes": [
+  "Black Clover Season 2"
+ ],
+ "cover": {
+  "text": "Le capitaine le plus fort de Black Clover",
+  "highlight": [
+   "capitaine"
+  ],
+  "emoji": "😱",
+  "sub": "top 5 saison 2"
+ },
+ "hook_text": "Le capitaine le plus fort de Black Clover passe sa vie aux toilettes",
+ "spoiler": false,
+ "segments": [
+  {
+   "text": "Le capitaine le plus fort de Black Clover passe sa vie aux toilettes.",
+   "sfx": true,
+   "emphasis": [
+    "toilettes"
+   ]
+  },
+  {
+   "text": "[whispering] Reste jusqu'au bout, mon numéro 1 va faire rager du monde en com'.",
+   "emphasis": [
+    "numéro 1"
+   ]
+  },
+  {
+   "text": "La saison 2 de Black Clover est enfin là, alors j'ai classé les capitaines des Chevaliers-Mages. Que des capitaines, pas de Julius, sinon c'est trop facile.",
+   "emphasis": [
+    "capitaines"
+   ],
+   "shots": [
+    {
+     "kind": "wide"
+    }
+   ]
+  },
+  {
+   "text": "Numéro 5, Jack le Découpeur. Ce mec découpe absolument tout, et plus son adversaire est fort, plus il kiffe.",
+   "overlay": "#5",
+   "emphasis": [
+    "découpe"
+   ],
+   "shots": [
+    {
+     "anime": "Black Clover Season 2",
+     "kind": "character",
+     "character": "Jack",
+     "at": "Jack"
+    }
+   ]
+  },
+  {
+   "text": "[laughing] Son seul vrai problème, c'est qu'il veut couper Yami en deux depuis toujours.",
+   "emphasis": [
+    "Yami"
+   ]
+  },
+  {
+   "text": "Numéro 4, Nozel Silva. Sa magie de mercure attaque et protège en même temps. Il a l'air glacial, mais il est dur avec Noelle pour la protéger.",
+   "overlay": "#4",
+   "emphasis": [
+    "mercure"
+   ]
+  },
+  {
+   "text": "Et attends, parce que le podium est chaud. Si tu kiffes Black Clover, abonne-toi, j'en sors tous les jours sur les animes de la saison.",
+   "cta": true
+  },
+  {
+   "text": "Numéro 3, et là ça devient chelou. Dorothy Unsworth. Elle dort tout le temps, même pendant les réunions.",
+   "overlay": "#3",
+   "emphasis": [
+    "dort"
+   ]
+  },
+  {
+   "text": "[surprised] Sauf que si elle t'attire dans son monde des rêves, c'est elle qui fixe les règles. Tu peux plus rien faire.",
+   "sfx": true,
+   "stamp": "CHEATÉE",
+   "emphasis": [
+    "rêves"
+   ]
+  },
+  {
+   "text": "Numéro 2, Mereoleona Vermillion, la grande sœur de Fuegoleon. Elle se bat avec des poings en feu et elle encaisse tout.",
+   "overlay": "#2",
+   "emphasis": [
+    "poings"
+   ]
+  },
+  {
+   "text": "Ses entraînements, c'est souffrir jusqu'à tenir debout tout seul. J'ai hésité à la mettre première, j'te jure.",
+   "emphasis": [
+    "hésité"
+   ]
+  },
+  {
+   "text": "[excited] Mais non. Numéro 1, Yami Sukehiro, capitaine du Taureau Noir. Le mec du hook, qui disparaît aux toilettes au pire moment.",
+   "overlay": "#1",
+   "sfx": true,
+   "emphasis": [
+    "Yami"
+   ]
+  },
+  {
+   "text": "C'est le capitaine d'Asta, celui qui a ramassé une bande de rejetés dont personne voulait.",
+   "emphasis": [
+    "rejetés"
+   ]
+  },
+  {
+   "text": "Sa magie des ténèbres coupe à travers les dimensions. Et sa phrase culte, dépasse tes limites, c'est tout Black Clover en trois mots.",
+   "grade": "bw",
+   "stamp": "VALIDÉ",
+   "emphasis": [
+    "limites"
+   ]
+  },
+  {
+   "text": "[sigh] Mereoleona pourrait discuter, je sais. Mais c'est lui qui a construit Asta. Et toi, ton capitaine numéro 1, c'est qui ?",
+   "emphasis": [
+    "toi"
+   ]
+  }
+ ],
+ "caption": "Yami premier, ça se discute ou pas ? 😤 c'est qui ton capitaine numéro 1 ?",
+ "hashtags": [
+  "#anime",
+  "#manga",
+  "#animefr",
+  "#mangafr",
+  "#blackclover",
+  "#topanime"
+ ]
+}
