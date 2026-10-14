@@ -19,8 +19,12 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
   Aujourd'hui « PDF » (dit « p d f ») et « PowerPoint » (dit « paoueur pointe ») comptent comme des
   écarts alors qu'ils sont bien entendus, ce qui fait passer la prononciation sous 93 % à tort.
 - Audit : ignorer les homophones (« rends » / « rend », « ton » / « t'on ») dans les mots mal compris.
+- Audit : relancer `factory.audit` sur le même run ajoute une 2e ligne identique dans `audits_ia.jsonl` (doublons 14/10 12:00 et 19:00), ce qui gonfle le compte des « mots mal compris sur plusieurs vidéos ». Remplacer la ligne du même stamp au lieu d'en ajouter une.
 
 ## Journal (1 ligne par revue, la plus récente en haut, 20 lignes maximum)
+- 2026-10-14 (19:00) : 1er rendu à 1 590 car. = 100,4 s (hors cible) et « chatbot » entendu « chapeau » 2 fois : chatbot ajouté au
+  lexique (« tchatte botte », bien entendu au 2e rendu), texte ramené à 1 523 car. = 89,4 s. Prononciation 91 % : écarts surtout dus à la
+  graphie phonétique (piste déjà notée). Sur les 10 derniers audits, débit 23,8 à 25,2 car./s, cible tenue. Pas de nouvelle règle (1 seule vidéo trop longue).
 - 2026-10-14 (12:00) : « IA » mal compris sur 2 vidéos (13/10 « aya par », 14/10 « il y a », « haies ») : ajouté au
   lexique (« I A »), avec Jan (« djanne ») et Linux (« linuxe »). Au 2e rendu, les trois sont bien entendus, mais la
   prononciation tombe de 91 % à 89 % car l'audit compare à la graphie phonétique (piste déjà notée). Débit 24,3 car./s.
