@@ -1,0 +1,73 @@
+{
+ "stamp": "2026-10-14_2200",
+ "duration": 90.8,
+ "lead": 0.6,
+ "cps": 23.8,
+ "accuracy": 0.917,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "references",
+   "entendu": "reference"
+  },
+  {
+   "dit": "s e o",
+   "entendu": "seo"
+  },
+  {
+   "dit": "prospecter",
+   "entendu": "prospecte"
+  },
+  {
+   "dit": "pidzeria",
+   "entendu": "pizzeria"
+  },
+  {
+   "dit": "la",
+   "entendu": "pas"
+  },
+  {
+   "dit": "o radiusse aide",
+   "entendu": "radius ed"
+  },
+  {
+   "dit": "il",
+   "entendu": "et"
+  },
+  {
+   "dit": "opportunite",
+   "entendu": "opportunites"
+  },
+  {
+   "dit": "i a",
+   "entendu": "aia"
+  },
+  {
+   "dit": "s e o radiusse",
+   "entendu": "se radius"
+  },
+  {
+   "dit": "envoi",
+   "entendu": "en voie"
+  },
+  {
+   "dit": "claire",
+   "entendu": "clair"
+  },
+  {
+   "dit": "sois",
+   "entendu": "soit"
+  },
+  {
+   "dit": "promets",
+   "entendu": "promet"
+  },
+  {
+   "dit": "place promets",
+   "entendu": "peine qu on met"
+  }
+ ],
+ "alerts": [
+  "prononciation 92% des mots compris (min 93%)"
+ ]
+}
