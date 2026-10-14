@@ -1,0 +1,21 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-14_1145/video.mp4",
+ "duration": 87.537,
+ "shots": 63,
+ "sources": [
+  "https://anilist.co/anime/212888",
+  "https://kitsu.io/anime/temppal-item-no-chikara"
+ ],
+ "music": {
+  "file": "mystere.mp3",
+  "bpm": 152.0,
+  "offset": 17.462999999999994
+ },
+ "sfx": 24,
+ "engine": "remotion (OpenMontage)",
+ "voice_engine": "fish",
+ "repo_path": "videos/2026/10/2026-10-14_1145.mp4",
+ "raw_url": "https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/videos/2026/10/2026-10-14_1145.mp4",
+ "lint": [],
+ "render_seconds": 1329.8
+}

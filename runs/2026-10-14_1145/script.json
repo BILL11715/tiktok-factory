@@ -1,0 +1,121 @@
+{
+ "title": "Théorie Overgeared : Grid n'a pas eu de chance, le jeu l'a choisi",
+ "format": "theorie",
+ "tone": "conteur",
+ "music": "mystere",
+ "animes": [
+  "Overgeared"
+ ],
+ "cover": {
+  "text": "Grid a été choisi exprès",
+  "highlight": [
+   "choisi"
+  ],
+  "emoji": "🤔",
+  "sub": "théorie Overgeared"
+ },
+ "hook_text": "Grid n'a pas eu de la chance, le jeu l'a choisi exprès",
+ "spoiler": false,
+ "segments": [
+  {
+   "text": "Grid n'a pas eu de la chance, le jeu l'a choisi exprès.",
+   "sfx": true,
+   "emphasis": [
+    "exprès"
+   ],
+   "grade": "bw"
+  },
+  {
+   "text": "[whispering] Reste jusqu'au bout, parce que la dernière preuve change complètement la façon de voir Overgeared.",
+   "emphasis": [
+    "preuve"
+   ]
+  },
+  {
+   "text": "Pour ceux qui l'ont pas lancé : Shin Youngwoo, c'est le mec qui rate tout dans la vraie vie, criblé de dettes, qui galère sur les chantiers.",
+   "shots": [
+    {
+     "anime": "Overgeared",
+     "kind": "character",
+     "character": "Grid",
+     "at": "Youngwoo"
+    }
+   ]
+  },
+  {
+   "text": "Le soir, il se connecte sur Satisfy, le jeu en réalité virtuelle que tout le monde s'arrache. Et là-bas aussi, il est nul.",
+   "shots": [
+    {
+     "kind": "wide"
+    }
+   ]
+  },
+  {
+   "text": "Son pseudo c'est Grid, et les autres joueurs le prennent pour un boulet. Sauf qu'un jour, il tombe sur le livre rare de Pagma.",
+   "emphasis": [
+    "Pagma"
+   ]
+  },
+  {
+   "text": "[surprised] Pagma, c'est le forgeron légendaire de ce monde. Et Grid devient son descendant. Lui, le pire joueur du serveur.",
+   "sfx": true,
+   "emphasis": [
+    "légendaire"
+   ],
+   "stamp": "LÉGENDAIRE"
+  },
+  {
+   "text": "Tout le monde dit que c'est de la chance pure. Moi j'y crois pas une seconde, et j'ai trois indices.",
+   "grade": "cinematic"
+  },
+  {
+   "text": "Si t'aimes quand on creuse les animes de la saison comme ça, abonne-toi, j'en sors tous les jours.",
+   "cta": true
+  },
+  {
+   "text": "Premier indice. Regarde qui a les autres classes légendaires. Kraugel, le numéro un mondial. Logique, c'est le meilleur.",
+   "emphasis": [
+    "Kraugel"
+   ]
+  },
+  {
+   "text": "Sauf que Grid, c'est l'inverse total. Si le jeu récompensait le talent, il aurait jamais vu ce livre.",
+   "emphasis": [
+    "l'inverse"
+   ]
+  },
+  {
+   "text": "Deuxième indice. Satisfy, c'est pas un jeu comme les autres. Les persos du monde ont une histoire, des envies, ils réagissent à Grid comme à un vrai humain."
+  },
+  {
+   "text": "[whispering] Et un monde aussi vivant, franchement, il choisit peut-être lui-même qui récupère l'héritage de Pagma.",
+   "grade": "bw"
+  },
+  {
+   "text": "Troisième indice, et c'est là que ça devient chaud. Un forgeron, il lui faut de la patience, de la rage, et un mental qui lâche rien.",
+   "sfx": true
+  },
+  {
+   "text": "Et ça, c'est exactement Youngwoo. Le jeu a pas cherché le meilleur, il a cherché le plus affamé. [excited] Pour moi c'est validé.",
+   "stamp": "VALIDÉ",
+   "emphasis": [
+    "affamé"
+   ]
+  },
+  {
+   "text": "Après ça reste une théorie, et ce qui la contredit, c'est que Grid fait n'importe quoi la moitié du temps. Alors, chance ou choix du jeu ? Dis-moi en com'.",
+   "emphasis": [
+    "théorie"
+   ]
+  }
+ ],
+ "caption": "Le pire joueur de Satisfy qui tombe sur une classe légendaire, t'appelles ça de la chance ? 🤔 chance ou choix du jeu ?",
+ "hashtags": [
+  "#anime",
+  "#manga",
+  "#animefr",
+  "#mangafr",
+  "#overgeared",
+  "#theorie"
+ ]
+}
