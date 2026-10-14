@@ -1,0 +1,89 @@
+{
+ "stamp": "2026-10-14_1900",
+ "duration": 89.4,
+ "lead": 0.6,
+ "cps": 25.2,
+ "accuracy": 0.907,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "tchatte botte",
+   "entendu": "chatbot"
+  },
+  {
+   "dit": "i",
+   "entendu": "aille"
+  },
+  {
+   "dit": "fait",
+   "entendu": "faire"
+  },
+  {
+   "dit": "courses",
+   "entendu": "cours"
+  },
+  {
+   "dit": "tchatte botte",
+   "entendu": "chatbot"
+  },
+  {
+   "dit": "lui",
+   "entendu": "il y"
+  },
+  {
+   "dit": "anne tropique",
+   "entendu": "anthropique"
+  },
+  {
+   "dit": "i a",
+   "entendu": "aia"
+  },
+  {
+   "dit": "aout",
+   "entendu": "de l annee"
+  },
+  {
+   "dit": "remplis",
+   "entendu": "rempli"
+  },
+  {
+   "dit": "s",
+   "entendu": "si"
+  },
+  {
+   "dit": "anne tropique",
+   "entendu": "anthropie qui"
+  },
+  {
+   "dit": "garde",
+   "entendu": "gardes"
+  },
+  {
+   "dit": "mes",
+   "entendu": "on a"
+  },
+  {
+   "dit": "relis",
+   "entendu": "relie"
+  },
+  {
+   "dit": "tchatte botte",
+   "entendu": "chat de bot"
+  },
+  {
+   "dit": "agent c",
+   "entendu": "agence"
+  },
+  {
+   "dit": "les clics",
+   "entendu": "l equipe"
+  },
+  {
+   "dit": "le",
+   "entendu": ""
+  }
+ ],
+ "alerts": [
+  "prononciation 91% des mots compris (min 93%)"
+ ]
+}

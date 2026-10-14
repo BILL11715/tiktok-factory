@@ -1,0 +1,234 @@
+{
+  "title": "C'est quoi un agent IA ?",
+  "theme": "ia",
+  "pillar": "ia",
+  "format": "mythe",
+  "music": "mystere",
+  "cover": {
+    "text": "L'IA qui clique à ta place",
+    "highlight": [
+      "clique"
+    ],
+    "emoji": "🤖",
+    "sub": "agent IA expliqué"
+  },
+  "hook_text": "Un chatbot te donne la recette. Un agent IA fait les courses.",
+  "segments": [
+    {
+      "text": "Un chatbot te donne la recette. Un agent IA fait les courses.",
+      "emphasis": [
+        "agent"
+      ]
+    },
+    {
+      "text": "Agent, c'est le mot qu'on entend partout cette année. Je t'explique avec une image simple.",
+      "visual": {
+        "kind": "title",
+        "kicker": "Le mot du jour",
+        "text": "Agent IA",
+        "highlight": [
+          "Agent"
+        ],
+        "sub": "expliqué simplement"
+      }
+    },
+    {
+      "text": "Un chatbot classique, tu lui poses une question, il répond. Et le reste, c'est toi qui le fais.",
+      "visual": {
+        "kind": "chat",
+        "name": "Chatbot",
+        "user": "Trouve-moi un créneau chez le coiffeur samedi.",
+        "assistant": "Va sur le site du salon, ouvre l'agenda de samedi et choisis une heure libre."
+      }
+    },
+    {
+      "text": "Un agent, lui, a des outils. Il peut ouvrir une page web, cliquer sur un bouton, remplir un formulaire.",
+      "visual": {
+        "kind": "list",
+        "title": "Les outils d'un agent",
+        "items": [
+          "Ouvrir une page",
+          "Cliquer",
+          "Remplir un formulaire"
+        ],
+        "at": [
+          "ouvrir",
+          "cliquer",
+          "remplir"
+        ]
+      }
+    },
+    {
+      "text": "Et surtout, il tourne en boucle. Il regarde l'écran, il agit, il vérifie. Puis il recommence.",
+      "stamp": "en boucle",
+      "sfx": true,
+      "visual": {
+        "kind": "terminal",
+        "title": "agent",
+        "lines": [
+          {
+            "cmd": "regarder l'écran"
+          },
+          {
+            "out": "formulaire trouvé"
+          },
+          {
+            "cmd": "remplir le nom"
+          },
+          {
+            "out": "fait"
+          },
+          {
+            "cmd": "vérifier"
+          },
+          {
+            "out": "envoyé ✔"
+          }
+        ]
+      }
+    },
+    {
+      "text": "C'est presque la définition d'Anthropic, l'entreprise qui fait Claude. Une IA qui utilise des outils, en boucle.",
+      "visual": {
+        "kind": "title",
+        "kicker": "Définition d'Anthropic",
+        "text": "Une IA + des outils, en boucle",
+        "highlight": [
+          "boucle"
+        ]
+      }
+    },
+    {
+      "text": "Exemple concret ! Claude in Chrome, l'extension pour le navigateur Chrome. Elle est ouverte à toutes les formules payantes depuis fin août.",
+      "visual": {
+        "kind": "card",
+        "emoji": "🧭",
+        "owner": "Anthropic",
+        "name": "Claude in Chrome",
+        "desc": "Un agent dans ton navigateur",
+        "tags": [
+          "Chrome",
+          "extension"
+        ],
+        "price": "Plans payants",
+        "url": "claude.com/fr/blog"
+      }
+    },
+    {
+      "text": "Tu lui dis : remplis ce formulaire de remboursement avec les infos de ce mail. Et tu le regardes cliquer, case après case.",
+      "visual": {
+        "kind": "chat",
+        "name": "Claude in Chrome",
+        "user": "Remplis le formulaire de remboursement avec les infos de ce mail.",
+        "assistant": "J'ouvre le formulaire. Je copie le numéro de commande. Je remplis la date. Tu veux relire avant l'envoi ?"
+      }
+    },
+    {
+      "text": "Pourquoi c'est plus fort ? Parce que s'il se trompe de case, il le voit à l'écran. Et il corrige.",
+      "emphasis": [
+        "corrige"
+      ],
+      "visual": {
+        "kind": "compare",
+        "left": {
+          "title": "Chatbot",
+          "items": [
+            "Te répond",
+            "Toi, tu cliques"
+          ]
+        },
+        "right": {
+          "title": "Agent",
+          "items": [
+            "Agit pour toi",
+            "Voit ses erreurs"
+          ]
+        }
+      }
+    },
+    {
+      "text": "Mais attention, un agent n'est pas magique. Il peut mal comprendre une page. Ou tomber sur un site piégé, qui cache des consignes pour le détourner.",
+      "visual": {
+        "kind": "list",
+        "title": "Les risques",
+        "items": [
+          "Page mal comprise",
+          "Site piégé",
+          "Mauvais clic"
+        ],
+        "at": [
+          "comprendre",
+          "piégé",
+          "détourner"
+        ]
+      }
+    },
+    {
+      "text": "Anthropic a mis des garde-fous. Chaque action est comparée à ta demande de départ. Et tu peux valider chaque clic toi-même.",
+      "visual": {
+        "kind": "title",
+        "kicker": "Garde-fous",
+        "text": "Tu gardes la main",
+        "highlight": [
+          "main"
+        ]
+      }
+    },
+    {
+      "text": "Mes trois règles. Commence par des tâches sans risque. Ne lui confie pas ta banque. Et relis avant chaque envoi.",
+      "visual": {
+        "kind": "list",
+        "title": "Mes 3 règles",
+        "items": [
+          "Tâches sans risque",
+          "Pas ta banque",
+          "Relire avant l'envoi"
+        ],
+        "at": [
+          "tâches",
+          "banque",
+          "relis"
+        ]
+      }
+    },
+    {
+      "text": "Pas de formule payante ? Un chatbot gratuit reste parfait pour apprendre. L'agent, c'est pour déléguer les clics.",
+      "visual": {
+        "kind": "compare",
+        "left": {
+          "title": "Chatbot",
+          "items": [
+            "Gratuit",
+            "Pour apprendre"
+          ]
+        },
+        "right": {
+          "title": "Agent",
+          "items": [
+            "Plans payants",
+            "Pour déléguer"
+          ]
+        }
+      }
+    },
+    {
+      "text": "Et toi, quelle tâche répétitive tu confierais à un agent ? Dis-le-moi en commentaire, je te dis si c'est faisable !",
+      "visual": {
+        "kind": "title",
+        "kicker": "À toi",
+        "text": "Quelle tâche tu délègues ?",
+        "highlight": [
+          "délègues"
+        ]
+      }
+    }
+  ],
+  "caption": "Chatbot ou agent IA ? La différence en une image 🤖 Source : https://www.anthropic.com/research/building-effective-agents et https://claude.com/fr/blog/claude-in-chrome-generally-available",
+  "hashtags": [
+    "#ia",
+    "#agentia",
+    "#claude",
+    "#intelligenceartificielle",
+    "#astuce"
+  ]
+}
