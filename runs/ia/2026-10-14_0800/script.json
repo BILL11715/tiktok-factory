@@ -1,0 +1,207 @@
+{
+ "title": "Le mail de prospection qui se fait lire",
+ "theme": "seo",
+ "pillar": "seo-radius",
+ "format": "methode",
+ "music": "pote",
+ "cover": {
+  "text": "Le mail qu'un artisan lit",
+  "highlight": [
+   "lit"
+  ],
+  "emoji": "✉️",
+  "sub": "email IA + mini audit"
+ },
+ "hook_text": "Ton mail de prospection finit à la poubelle en trois secondes. Voilà pourquoi.",
+ "segments": [
+  {
+   "text": "Ton mail de prospection finit à la poubelle en trois secondes. Voilà pourquoi.",
+   "emphasis": [
+    "poubelle"
+   ]
+  },
+  {
+   "text": "Un gérant reçoit des dizaines de mails qui disent : je peux améliorer votre référencement. Il ne lit même pas la fin.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Le problème",
+    "text": "Un mail qui parle de toi",
+    "highlight": "toi"
+   }
+  },
+  {
+   "text": "Ce qui marche, c'est un mail qui parle de lui. De sa position sur Google, avec un vrai constat.",
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "Mail générique",
+     "items": [
+      "Je fais du SEO",
+      "Mes tarifs",
+      "Aucun constat"
+     ]
+    },
+    "right": {
+     "title": "Mail utile",
+     "items": [
+      "Son nom",
+      "Sa position",
+      "Un constat précis"
+     ]
+    }
+   },
+   "sfx": true
+  },
+  {
+   "text": "Dans SEO Radius, l'email de prospection est rédigé par IA, avec un mini audit du prospect dedans. C'est inclus à partir du plan Starter.",
+   "visual": {
+    "kind": "card",
+    "emoji": "✉️",
+    "owner": "SEO Radius",
+    "name": "Email IA",
+    "desc": "Mail de prospection avec mini audit",
+    "tags": [
+     "SEO local",
+     "prospection"
+    ],
+    "url": "seoradius.fr"
+   }
+  },
+  {
+   "text": "Exemple. Tu tapes électricien et Rennes. L'outil analyse les résultats Google et met de côté les annuaires.",
+   "visual": {
+    "kind": "search",
+    "query": "électricien Rennes",
+    "results": [
+     {
+      "name": "Exemple Élec",
+      "note": "page 2",
+      "rating": "4,7"
+     },
+     {
+      "name": "Exemple Courant",
+      "note": "top 3",
+      "rating": "4,1"
+     }
+    ],
+    "pick": 0
+   }
+  },
+  {
+   "text": "Tu tombes sur une entreprise bien notée, mais coincée en page deux. Son score d'opportunité est élevé. C'est une estimation, mais ça vaut le coup.",
+   "visual": {
+    "kind": "stat",
+    "value": 68,
+    "suffix": "/100",
+    "label": "score d'opportunité",
+    "source": "estimation SEO Radius"
+   }
+  },
+  {
+   "text": "Tu la réserves, puis tu génères le mail. L'IA part de ce que l'outil a trouvé sur elle.",
+   "stamp": "réservée"
+  },
+  {
+   "text": "Le mail tient en trois parties : un constat sur sa position, une piste concrète, et une question pour finir.",
+   "visual": {
+    "kind": "list",
+    "title": "Le bon mail",
+    "items": [
+     "Un constat",
+     "Une piste",
+     "Une question"
+    ],
+    "at": [
+     "constat",
+     "piste",
+     "question"
+    ]
+   }
+  },
+  {
+   "text": "[excited] Ça donne à peu près ça.",
+   "visual": {
+    "kind": "chat",
+    "name": "Email IA",
+    "user": "Écris un mail court pour cet électricien de Rennes.",
+    "assistant": "Bonjour, en cherchant électricien à Rennes, votre entreprise apparaît en page 2 alors que vos avis sont excellents. Une piste simple pourrait vous faire remonter. Voulez-vous que je vous la montre ?"
+   }
+  },
+  {
+   "text": "Maintenant, la règle d'or. Ce texte vient d'une IA, et les chiffres sont des estimations. Tu le relis toujours avant l'envoi.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Règle d'or",
+    "text": "Relis avant d'envoyer",
+    "highlight": "Relis"
+   },
+   "stamp": "relis"
+  },
+  {
+   "text": "Tu vérifies le nom, la ville, la position. Et tu ajoutes une phrase à toi, un détail que tu as vu sur son site.",
+   "visual": {
+    "kind": "list",
+    "title": "Avant d'envoyer",
+    "items": [
+     "Vérifier le nom",
+     "Vérifier la position",
+     "Ajouter ton détail"
+    ],
+    "at": [
+     "nom",
+     "position",
+     "détail"
+    ]
+   }
+  },
+  {
+   "text": "Dernier réglage : coupe. Si ton mail dépasse cinq lignes, il est trop long pour un gérant qui lit sur son téléphone.",
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "Trop long",
+     "items": [
+      "Quinze lignes",
+      "Pièce jointe",
+      "Tarifs"
+     ]
+    },
+    "right": {
+     "title": "Bon format",
+     "items": [
+      "Cinq lignes",
+      "Un constat",
+      "Une question"
+     ]
+    }
+   }
+  },
+  {
+   "text": "Pas de pièce jointe, pas de tarifs. Le seul but du premier mail, c'est d'obtenir une réponse.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Le seul but",
+    "text": "Obtenir une réponse",
+    "highlight": "réponse"
+   }
+  },
+  {
+   "text": "Et toi, ton premier mail de prospection, il fait combien de lignes aujourd'hui ? Dis-le-moi en commentaire.",
+   "visual": {
+    "kind": "stat",
+    "value": 5,
+    "suffix": " lignes",
+    "label": "le maximum pour un premier mail",
+    "source": "conseil terrain"
+   }
+  }
+ ],
+ "caption": "Ton mail de prospection finit à la poubelle ? Fais parler le prospect de lui, pas de toi ✉️ (lien en bio)",
+ "hashtags": [
+  "#seo",
+  "#seolocal",
+  "#freelance",
+  "#prospection",
+  "#ia"
+ ]
+}
