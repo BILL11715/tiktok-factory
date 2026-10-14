@@ -1,0 +1,89 @@
+{
+ "stamp": "2026-10-14_1200",
+ "duration": 85.0,
+ "lead": 0.6,
+ "cps": 24.3,
+ "accuracy": 0.887,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "i a",
+   "entendu": "ai"
+  },
+  {
+   "dit": "tchatte g p t",
+   "entendu": "chat gpt"
+  },
+  {
+   "dit": "djanne",
+   "entendu": "jan"
+  },
+  {
+   "dit": "est",
+   "entendu": "et"
+  },
+  {
+   "dit": "mille",
+   "entendu": "zero"
+  },
+  {
+   "dit": "github",
+   "entendu": "jtop"
+  },
+  {
+   "dit": "i a",
+   "entendu": "ai"
+  },
+  {
+   "dit": "djanne",
+   "entendu": "jan"
+  },
+  {
+   "dit": "i a",
+   "entendu": "ia"
+  },
+  {
+   "dit": "djanne",
+   "entendu": "jan"
+  },
+  {
+   "dit": "linuxe",
+   "entendu": "linux"
+  },
+  {
+   "dit": "tchatte g p t",
+   "entendu": "chat gpt"
+  },
+  {
+   "dit": "gigas",
+   "entendu": "giga"
+  },
+  {
+   "dit": "i a",
+   "entendu": "ailleurs"
+  },
+  {
+   "dit": "djanne",
+   "entendu": "janne"
+  },
+  {
+   "dit": "i a",
+   "entendu": "ailleurs"
+  },
+  {
+   "dit": "local",
+   "entendu": "locale"
+  },
+  {
+   "dit": "connecte",
+   "entendu": "connectee"
+  },
+  {
+   "dit": "github",
+   "entendu": "giteux"
+  }
+ ],
+ "alerts": [
+  "prononciation 89% des mots compris (min 93%)"
+ ]
+}
