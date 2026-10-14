@@ -1,0 +1,43 @@
+{
+ "stamp": "2026-10-14_1700",
+ "duration": 87.4,
+ "lead": 0.6,
+ "cps": 24.7,
+ "accuracy": 0.944,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "aident",
+   "entendu": "aide"
+  },
+  {
+   "dit": "feries les",
+   "entendu": "ferriers et"
+  },
+  {
+   "dit": "ou",
+   "entendu": ""
+  },
+  {
+   "dit": "chez",
+   "entendu": "je suis"
+  },
+  {
+   "dit": "rapide a corriger",
+   "entendu": "papi d accorreger"
+  },
+  {
+   "dit": "e o radiusse",
+   "entendu": "aura dus"
+  },
+  {
+   "dit": "les mieux scorees",
+   "entendu": "et menues scorer"
+  },
+  {
+   "dit": "affichent",
+   "entendu": "affiche"
+  }
+ ],
+ "alerts": []
+}
