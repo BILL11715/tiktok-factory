@@ -21,6 +21,9 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
 - Audit : ignorer les homophones (« rends » / « rend », « ton » / « t'on ») dans les mots mal compris.
 
 ## Journal (1 ligne par revue, la plus récente en haut, 20 lignes maximum)
+- 2026-10-14 (12:00) : « IA » mal compris sur 2 vidéos (13/10 « aya par », 14/10 « il y a », « haies ») : ajouté au
+  lexique (« I A »), avec Jan (« djanne ») et Linux (« linuxe »). Au 2e rendu, les trois sont bien entendus, mais la
+  prononciation tombe de 91 % à 89 % car l'audit compare à la graphie phonétique (piste déjà notée). Débit 24,3 car./s.
 - 2026-10-13 (22:00) : sans alerte au 1er rendu (débit 24,0 car./s, prononciation 94 %, 88 s), règle 5 tenue.
   Sur les 10 derniers audits, 7 alertes concernent la prononciation juste sous 93 % (88 à 93 %), aucune le débit.
   « rangée(s) » mal transcrit 3 fois ici (« ranger », « arranger ») : homophone, 1 seule vidéo, pas de règle.
