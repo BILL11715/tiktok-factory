@@ -1,0 +1,30 @@
+{
+  "title": "Théorie Apothecary Diaries : Jinshi n'est pas le frère de l'empereur",
+  "format": "theorie",
+  "tone": "conteur",
+  "music": "mystere",
+  "animes": ["The Apothecary Diaries Season 3"],
+  "cover": {"text": "Jinshi cache un secret énorme", "highlight": ["secret"], "emoji": "🤫", "sub": "théorie"},
+  "hook_text": "Jinshi n'est pas le frère de l'empereur, je pense que c'est son fils",
+  "spoiler": true,
+  "spoiler_label": "saison 2",
+  "segments": [
+    {"text": "Jinshi n'est pas le frère de l'empereur, je pense que c'est son fils.", "sfx": true, "emphasis": ["son fils"]},
+    {"text": "[whispering] Reste jusqu'au bout, parce que l'indice qui tue, c'est Maomao qui l'a vu la première.", "emphasis": ["indice"]},
+    {"text": "Bon, on pose le décor. Officiellement, Jinshi c'est le petit frère de l'empereur, élevé au palais comme un prince.", "shots": [{"kind": "wide"}], "emphasis": ["officiellement"]},
+    {"text": "Sauf que ce mec se fait passer pour un eunuque, et gère le harem au lieu de vivre sa vie de prince. Pourquoi il se cache, frr ?", "emphasis": ["eunuque"]},
+    {"text": "Et c'est là qu'arrive Ah-Duo. La toute première concubine de l'empereur, celle qui a grandi avec lui.", "emphasis": ["Ah-Duo"]},
+    {"text": "Y'a des années, elle accouche presque en même temps que la mère de l'empereur. Deux bébés au palais, à quelques jours d'écart.", "grade": "bw", "emphasis": ["deux bébés"]},
+    {"text": "[sad] Et le bébé d'Ah-Duo meurt. Elle pourra plus jamais avoir d'enfant après ça.", "grade": "bw", "sfx": true, "emphasis": ["meurt"]},
+    {"text": "Si cette théorie te retourne le cerveau, abonne-toi, je décortique Apothecary Diaries toute la saison.", "cta": true},
+    {"text": "Maintenant, le médecin qui était là cette nuit-là. C'est Luomen, le père adoptif de Maomao. Et il a été puni et viré du palais juste après.", "emphasis": ["Luomen"]},
+    {"text": "Pourquoi punir aussi fort un médecin pour un bébé malade ? À moins qu'il ait vu un truc qu'il fallait pas voir.", "stamp": "LOUCHE", "emphasis": ["pas voir"]},
+    {"text": "[excited] Et l'indice de Maomao ! Quand elle croise Ah-Duo, elle remarque direct qu'elle a les mêmes traits que Jinshi.", "sfx": true, "emphasis": ["mêmes traits"]},
+    {"text": "Ma théorie, c'est qu'Ah-Duo a échangé les deux bébés. Son fils à elle est vivant, et il s'appelle Jinshi.", "stamp": "ÉCHANGÉS", "emphasis": ["échangé"]},
+    {"text": "Ça expliquerait tout. Le masque d'eunuque, la distance avec le trône, et pourquoi l'empereur le couve autant.", "emphasis": ["trône"]},
+    {"text": "Ce qui coince quand même, c'est qu'aucun perso le dit clairement à l'écran. Ça reste une théorie, pour l'instant.", "emphasis": ["théorie"]},
+    {"text": "[whispering] Mais franchement, j'y crois à fond. Et toi, Jinshi, frère ou fils de l'empereur ? Dis-moi en com.", "emphasis": ["frère ou fils"]}
+  ],
+  "caption": "Le vrai secret du palais, c'est peut-être lui 🤫 frère ou fils, t'en penses quoi ?",
+  "hashtags": ["#anime", "#manga", "#animefr", "#mangafr", "#apothecarydiaries", "#theorie"]
+}
