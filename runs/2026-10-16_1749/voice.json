@@ -1,0 +1,1762 @@
+{
+ "engine": "fish",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-16_1749/voice.wav",
+ "duration": 79.195,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 2.84,
+   "slot_end": 2.936,
+   "text": "Le tueur le plus dangereux de Sakamoto Days, c'est un papy qui parle pas.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 0.0,
+     "end": 0.08
+    },
+    {
+     "w": "tueur",
+     "start": 0.08,
+     "end": 0.36
+    },
+    {
+     "w": "le",
+     "start": 0.36,
+     "end": 0.48
+    },
+    {
+     "w": "plus",
+     "start": 0.48,
+     "end": 0.6
+    },
+    {
+     "w": "dangereux",
+     "start": 0.6,
+     "end": 1.0
+    },
+    {
+     "w": "de",
+     "start": 1.0,
+     "end": 1.14
+    },
+    {
+     "w": "Sakamoto",
+     "start": 1.14,
+     "end": 1.44
+    },
+    {
+     "w": "Days,",
+     "start": 1.44,
+     "end": 1.72
+    },
+    {
+     "w": "c'est",
+     "start": 1.78,
+     "end": 1.88
+    },
+    {
+     "w": "un",
+     "start": 1.88,
+     "end": 2.04
+    },
+    {
+     "w": "papy",
+     "start": 2.04,
+     "end": 2.36
+    },
+    {
+     "w": "qui",
+     "start": 2.36,
+     "end": 2.46
+    },
+    {
+     "w": "parle",
+     "start": 2.46,
+     "end": 2.62
+    },
+    {
+     "w": "pas.",
+     "start": 2.62,
+     "end": 2.84
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 2.96,
+   "end": 6.04,
+   "slot_end": 6.188,
+   "text": "Et non, c'est pas Sakamoto. Reste jusqu'au numéro 1, tu vas comprendre.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 2.96,
+     "end": 3.02
+    },
+    {
+     "w": "non,",
+     "start": 3.02,
+     "end": 3.1
+    },
+    {
+     "w": "c'est",
+     "start": 3.22,
+     "end": 3.28
+    },
+    {
+     "w": "pas",
+     "start": 3.28,
+     "end": 3.4
+    },
+    {
+     "w": "Sakamoto.",
+     "start": 3.4,
+     "end": 3.74
+    },
+    {
+     "w": "Reste",
+     "start": 4.28,
+     "end": 4.58
+    },
+    {
+     "w": "jusqu'au",
+     "start": 4.58,
+     "end": 4.98
+    },
+    {
+     "w": "numéro",
+     "start": 4.98,
+     "end": 5.2
+    },
+    {
+     "w": "1,",
+     "start": 5.2,
+     "end": 5.54
+    },
+    {
+     "w": "tu",
+     "start": 5.6,
+     "end": 5.66
+    },
+    {
+     "w": "vas",
+     "start": 5.66,
+     "end": 5.76
+    },
+    {
+     "w": "comprendre.",
+     "start": 5.76,
+     "end": 6.04
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 6.22,
+   "end": 12.86,
+   "slot_end": 12.951,
+   "text": "Petit rappel avant la saison 2, prévue en janvier 2027. Ici les tueurs à gages ont leur propre école, leur association, et même leur élite.",
+   "words": [
+    {
+     "w": "Petit",
+     "start": 6.22,
+     "end": 6.36
+    },
+    {
+     "w": "rappel",
+     "start": 6.36,
+     "end": 6.6
+    },
+    {
+     "w": "avant",
+     "start": 6.6,
+     "end": 6.78
+    },
+    {
+     "w": "la",
+     "start": 6.78,
+     "end": 6.88
+    },
+    {
+     "w": "saison",
+     "start": 6.88,
+     "end": 7.1
+    },
+    {
+     "w": "2,",
+     "start": 7.1,
+     "end": 7.34
+    },
+    {
+     "w": "prévue",
+     "start": 7.56,
+     "end": 7.84
+    },
+    {
+     "w": "en",
+     "start": 7.84,
+     "end": 8.02
+    },
+    {
+     "w": "janvier",
+     "start": 8.02,
+     "end": 8.38
+    },
+    {
+     "w": "2027.",
+     "start": 8.38,
+     "end": 9.02
+    },
+    {
+     "w": "Ici",
+     "start": 9.52,
+     "end": 9.76
+    },
+    {
+     "w": "les",
+     "start": 9.88,
+     "end": 9.93
+    },
+    {
+     "w": "tueurs",
+     "start": 9.92,
+     "end": 10.14
+    },
+    {
+     "w": "à",
+     "start": 10.14,
+     "end": 10.28
+    },
+    {
+     "w": "gages",
+     "start": 10.28,
+     "end": 10.48
+    },
+    {
+     "w": "ont",
+     "start": 10.48,
+     "end": 10.58
+    },
+    {
+     "w": "leur",
+     "start": 10.58,
+     "end": 10.7
+    },
+    {
+     "w": "propre",
+     "start": 10.7,
+     "end": 10.94
+    },
+    {
+     "w": "école,",
+     "start": 10.94,
+     "end": 11.18
+    },
+    {
+     "w": "leur",
+     "start": 11.34,
+     "end": 11.39
+    },
+    {
+     "w": "association,",
+     "start": 11.36,
+     "end": 11.68
+    },
+    {
+     "w": "et",
+     "start": 11.68,
+     "end": 12.34
+    },
+    {
+     "w": "même",
+     "start": 12.34,
+     "end": 12.52
+    },
+    {
+     "w": "leur",
+     "start": 12.52,
+     "end": 12.68
+    },
+    {
+     "w": "élite.",
+     "start": 12.68,
+     "end": 12.86
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 12.96,
+   "end": 19.7,
+   "slot_end": 19.863,
+   "text": "Numéro 5, Shin. Le jeune de la supérette qui lit dans les pensées. Tu crois que c'est un pouvoir de soutien, sauf qu'en combat il voit chaque coup arriver.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 12.96,
+     "end": 13.16
+    },
+    {
+     "w": "5,",
+     "start": 13.16,
+     "end": 13.42
+    },
+    {
+     "w": "Shin.",
+     "start": 13.72,
+     "end": 13.96
+    },
+    {
+     "w": "Le",
+     "start": 14.56,
+     "end": 14.82
+    },
+    {
+     "w": "jeune",
+     "start": 14.82,
+     "end": 15.08
+    },
+    {
+     "w": "de",
+     "start": 15.08,
+     "end": 15.22
+    },
+    {
+     "w": "la",
+     "start": 15.22,
+     "end": 15.32
+    },
+    {
+     "w": "supérette",
+     "start": 15.32,
+     "end": 15.78
+    },
+    {
+     "w": "qui",
+     "start": 15.78,
+     "end": 15.88
+    },
+    {
+     "w": "lit",
+     "start": 15.88,
+     "end": 15.96
+    },
+    {
+     "w": "dans",
+     "start": 15.96,
+     "end": 16.08
+    },
+    {
+     "w": "les",
+     "start": 16.08,
+     "end": 16.18
+    },
+    {
+     "w": "pensées.",
+     "start": 16.18,
+     "end": 16.54
+    },
+    {
+     "w": "Tu",
+     "start": 16.96,
+     "end": 17.16
+    },
+    {
+     "w": "crois",
+     "start": 17.16,
+     "end": 17.3
+    },
+    {
+     "w": "que",
+     "start": 17.3,
+     "end": 17.4
+    },
+    {
+     "w": "c'est",
+     "start": 17.4,
+     "end": 17.48
+    },
+    {
+     "w": "un",
+     "start": 17.48,
+     "end": 17.54
+    },
+    {
+     "w": "pouvoir",
+     "start": 17.54,
+     "end": 17.72
+    },
+    {
+     "w": "de",
+     "start": 17.72,
+     "end": 17.92
+    },
+    {
+     "w": "soutien,",
+     "start": 17.92,
+     "end": 18.26
+    },
+    {
+     "w": "sauf",
+     "start": 18.38,
+     "end": 18.52
+    },
+    {
+     "w": "qu'en",
+     "start": 18.52,
+     "end": 18.66
+    },
+    {
+     "w": "combat",
+     "start": 18.66,
+     "end": 18.9
+    },
+    {
+     "w": "il",
+     "start": 18.96,
+     "end": 19.01
+    },
+    {
+     "w": "voit",
+     "start": 19.0,
+     "end": 19.1
+    },
+    {
+     "w": "chaque",
+     "start": 19.1,
+     "end": 19.32
+    },
+    {
+     "w": "coup",
+     "start": 19.32,
+     "end": 19.46
+    },
+    {
+     "w": "arriver.",
+     "start": 19.46,
+     "end": 19.7
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 20.26,
+   "end": 23.5,
+   "slot_end": 23.64,
+   "text": "Le mec se fait engueuler par Sakamoto toute la journée, mais j'aimerais pas l'avoir en face.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 20.26,
+     "end": 20.4
+    },
+    {
+     "w": "mec",
+     "start": 20.4,
+     "end": 20.56
+    },
+    {
+     "w": "se",
+     "start": 20.56,
+     "end": 20.74
+    },
+    {
+     "w": "fait",
+     "start": 20.74,
+     "end": 20.88
+    },
+    {
+     "w": "engueuler",
+     "start": 20.88,
+     "end": 21.4
+    },
+    {
+     "w": "par",
+     "start": 21.4,
+     "end": 21.6
+    },
+    {
+     "w": "Sakamoto",
+     "start": 21.6,
+     "end": 21.92
+    },
+    {
+     "w": "toute",
+     "start": 21.92,
+     "end": 22.16
+    },
+    {
+     "w": "la",
+     "start": 22.16,
+     "end": 22.3
+    },
+    {
+     "w": "journée,",
+     "start": 22.3,
+     "end": 22.48
+    },
+    {
+     "w": "mais",
+     "start": 22.5,
+     "end": 22.68
+    },
+    {
+     "w": "j'aimerais",
+     "start": 22.68,
+     "end": 22.92
+    },
+    {
+     "w": "pas",
+     "start": 22.92,
+     "end": 23.04
+    },
+    {
+     "w": "l'avoir",
+     "start": 23.04,
+     "end": 23.2
+    },
+    {
+     "w": "en",
+     "start": 23.2,
+     "end": 23.38
+    },
+    {
+     "w": "face.",
+     "start": 23.38,
+     "end": 23.5
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 23.66,
+   "end": 30.76,
+   "slot_end": 30.882,
+   "text": "Numéro 4, Slur. Le grand méchant à la cicatrice, celui qui chasse Sakamoto depuis le début. Il parle comme un gourou et veut changer tout le milieu.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 23.66,
+     "end": 24.0
+    },
+    {
+     "w": "4,",
+     "start": 24.0,
+     "end": 24.22
+    },
+    {
+     "w": "Slur.",
+     "start": 24.66,
+     "end": 24.98
+    },
+    {
+     "w": "Le",
+     "start": 25.58,
+     "end": 25.7
+    },
+    {
+     "w": "grand",
+     "start": 25.7,
+     "end": 25.88
+    },
+    {
+     "w": "méchant",
+     "start": 25.88,
+     "end": 26.12
+    },
+    {
+     "w": "à",
+     "start": 26.12,
+     "end": 26.22
+    },
+    {
+     "w": "la",
+     "start": 26.22,
+     "end": 26.28
+    },
+    {
+     "w": "cicatrice,",
+     "start": 26.28,
+     "end": 26.74
+    },
+    {
+     "w": "celui",
+     "start": 27.0,
+     "end": 27.14
+    },
+    {
+     "w": "qui",
+     "start": 27.14,
+     "end": 27.3
+    },
+    {
+     "w": "chasse",
+     "start": 27.3,
+     "end": 27.48
+    },
+    {
+     "w": "Sakamoto",
+     "start": 27.48,
+     "end": 27.86
+    },
+    {
+     "w": "depuis",
+     "start": 27.86,
+     "end": 28.12
+    },
+    {
+     "w": "le",
+     "start": 28.12,
+     "end": 28.3
+    },
+    {
+     "w": "début.",
+     "start": 28.3,
+     "end": 28.48
+    },
+    {
+     "w": "Il",
+     "start": 28.48,
+     "end": 29.04
+    },
+    {
+     "w": "parle",
+     "start": 29.04,
+     "end": 29.2
+    },
+    {
+     "w": "comme",
+     "start": 29.2,
+     "end": 29.4
+    },
+    {
+     "w": "un",
+     "start": 29.4,
+     "end": 29.5
+    },
+    {
+     "w": "gourou",
+     "start": 29.5,
+     "end": 29.74
+    },
+    {
+     "w": "et",
+     "start": 29.74,
+     "end": 29.84
+    },
+    {
+     "w": "veut",
+     "start": 29.84,
+     "end": 29.96
+    },
+    {
+     "w": "changer",
+     "start": 29.96,
+     "end": 30.16
+    },
+    {
+     "w": "tout",
+     "start": 30.16,
+     "end": 30.42
+    },
+    {
+     "w": "le",
+     "start": 30.42,
+     "end": 30.54
+    },
+    {
+     "w": "milieu.",
+     "start": 30.54,
+     "end": 30.76
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 30.94,
+   "end": 33.36,
+   "slot_end": 33.48,
+   "text": "Et le pire, c'est qu'on sait toujours pas ce qu'il a dans la tête.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 30.94,
+     "end": 31.0
+    },
+    {
+     "w": "le",
+     "start": 31.0,
+     "end": 31.24
+    },
+    {
+     "w": "pire,",
+     "start": 31.24,
+     "end": 31.54
+    },
+    {
+     "w": "c'est",
+     "start": 31.7,
+     "end": 31.82
+    },
+    {
+     "w": "qu'on",
+     "start": 31.82,
+     "end": 31.96
+    },
+    {
+     "w": "sait",
+     "start": 31.96,
+     "end": 32.08
+    },
+    {
+     "w": "toujours",
+     "start": 32.08,
+     "end": 32.32
+    },
+    {
+     "w": "pas",
+     "start": 32.32,
+     "end": 32.54
+    },
+    {
+     "w": "ce",
+     "start": 32.54,
+     "end": 32.74
+    },
+    {
+     "w": "qu'il",
+     "start": 32.74,
+     "end": 32.9
+    },
+    {
+     "w": "a",
+     "start": 32.9,
+     "end": 33.0
+    },
+    {
+     "w": "dans",
+     "start": 33.0,
+     "end": 33.1
+    },
+    {
+     "w": "la",
+     "start": 33.1,
+     "end": 33.2
+    },
+    {
+     "w": "tête.",
+     "start": 33.2,
+     "end": 33.36
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 33.52,
+   "end": 37.36,
+   "slot_end": 37.469,
+   "text": "Si tu kiffes ce genre de classement, abonne-toi, j'en sors tous les jours et je vais suivre la saison 2 de près.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 33.52,
+     "end": 33.62
+    },
+    {
+     "w": "tu",
+     "start": 33.62,
+     "end": 33.7
+    },
+    {
+     "w": "kiffes",
+     "start": 33.7,
+     "end": 33.86
+    },
+    {
+     "w": "ce",
+     "start": 33.86,
+     "end": 34.0
+    },
+    {
+     "w": "genre",
+     "start": 34.0,
+     "end": 34.16
+    },
+    {
+     "w": "de",
+     "start": 34.16,
+     "end": 34.32
+    },
+    {
+     "w": "classement,",
+     "start": 34.32,
+     "end": 34.74
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 34.88,
+     "end": 35.16
+    },
+    {
+     "w": "j'en",
+     "start": 35.28,
+     "end": 35.36
+    },
+    {
+     "w": "sors",
+     "start": 35.36,
+     "end": 35.48
+    },
+    {
+     "w": "tous",
+     "start": 35.48,
+     "end": 35.64
+    },
+    {
+     "w": "les",
+     "start": 35.64,
+     "end": 35.76
+    },
+    {
+     "w": "jours",
+     "start": 35.76,
+     "end": 35.9
+    },
+    {
+     "w": "et",
+     "start": 35.9,
+     "end": 36.0
+    },
+    {
+     "w": "je",
+     "start": 36.0,
+     "end": 36.08
+    },
+    {
+     "w": "vais",
+     "start": 36.08,
+     "end": 36.16
+    },
+    {
+     "w": "suivre",
+     "start": 36.16,
+     "end": 36.4
+    },
+    {
+     "w": "la",
+     "start": 36.4,
+     "end": 36.66
+    },
+    {
+     "w": "saison",
+     "start": 36.66,
+     "end": 36.88
+    },
+    {
+     "w": "2",
+     "start": 36.88,
+     "end": 37.04
+    },
+    {
+     "w": "de",
+     "start": 37.04,
+     "end": 37.16
+    },
+    {
+     "w": "près.",
+     "start": 37.16,
+     "end": 37.36
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 37.58,
+   "end": 45.1,
+   "slot_end": 45.179,
+   "text": "Numéro 3, Nagumo. L'ancien pote d'école de Sakamoto, toujours le sourire. Il se déguise en n'importe qui et il fait partie de l'ORDER, l'élite des tueurs.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 37.58,
+     "end": 37.9
+    },
+    {
+     "w": "3,",
+     "start": 37.9,
+     "end": 38.22
+    },
+    {
+     "w": "Nagumo.",
+     "start": 38.22,
+     "end": 38.82
+    },
+    {
+     "w": "L'ancien",
+     "start": 39.3,
+     "end": 39.74
+    },
+    {
+     "w": "pote",
+     "start": 39.74,
+     "end": 39.92
+    },
+    {
+     "w": "d'école",
+     "start": 39.92,
+     "end": 40.16
+    },
+    {
+     "w": "de",
+     "start": 40.16,
+     "end": 40.36
+    },
+    {
+     "w": "Sakamoto,",
+     "start": 40.36,
+     "end": 40.7
+    },
+    {
+     "w": "toujours",
+     "start": 40.88,
+     "end": 41.06
+    },
+    {
+     "w": "le",
+     "start": 41.06,
+     "end": 41.26
+    },
+    {
+     "w": "sourire.",
+     "start": 41.26,
+     "end": 41.6
+    },
+    {
+     "w": "Il",
+     "start": 42.0,
+     "end": 42.08
+    },
+    {
+     "w": "se",
+     "start": 42.08,
+     "end": 42.2
+    },
+    {
+     "w": "déguise",
+     "start": 42.2,
+     "end": 42.44
+    },
+    {
+     "w": "en",
+     "start": 42.44,
+     "end": 42.6
+    },
+    {
+     "w": "n'importe",
+     "start": 42.6,
+     "end": 42.84
+    },
+    {
+     "w": "qui",
+     "start": 42.84,
+     "end": 43.16
+    },
+    {
+     "w": "et",
+     "start": 43.16,
+     "end": 43.32
+    },
+    {
+     "w": "il",
+     "start": 43.32,
+     "end": 43.4
+    },
+    {
+     "w": "fait",
+     "start": 43.4,
+     "end": 43.5
+    },
+    {
+     "w": "partie",
+     "start": 43.5,
+     "end": 43.7
+    },
+    {
+     "w": "de",
+     "start": 43.7,
+     "end": 43.86
+    },
+    {
+     "w": "l'ORDER,",
+     "start": 43.86,
+     "end": 44.1
+    },
+    {
+     "w": "l'élite",
+     "start": 44.36,
+     "end": 44.6
+    },
+    {
+     "w": "des",
+     "start": 44.6,
+     "end": 44.8
+    },
+    {
+     "w": "tueurs.",
+     "start": 44.8,
+     "end": 45.1
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 45.18,
+   "end": 47.7,
+   "slot_end": 47.847,
+   "text": "Quand Nagumo arrête de sourire, frr, quelqu'un rentre pas chez lui ce soir.",
+   "words": [
+    {
+     "w": "Quand",
+     "start": 45.18,
+     "end": 45.26
+    },
+    {
+     "w": "Nagumo",
+     "start": 45.26,
+     "end": 45.52
+    },
+    {
+     "w": "arrête",
+     "start": 45.52,
+     "end": 45.72
+    },
+    {
+     "w": "de",
+     "start": 45.72,
+     "end": 45.86
+    },
+    {
+     "w": "sourire,",
+     "start": 45.86,
+     "end": 46.12
+    },
+    {
+     "w": "frr,",
+     "start": 46.22,
+     "end": 46.38
+    },
+    {
+     "w": "quelqu'un",
+     "start": 46.38,
+     "end": 46.76
+    },
+    {
+     "w": "rentre",
+     "start": 46.76,
+     "end": 46.9
+    },
+    {
+     "w": "pas",
+     "start": 46.9,
+     "end": 47.1
+    },
+    {
+     "w": "chez",
+     "start": 47.1,
+     "end": 47.22
+    },
+    {
+     "w": "lui",
+     "start": 47.22,
+     "end": 47.32
+    },
+    {
+     "w": "ce",
+     "start": 47.32,
+     "end": 47.48
+    },
+    {
+     "w": "soir.",
+     "start": 47.48,
+     "end": 47.7
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 47.9,
+   "end": 54.04,
+   "slot_end": 54.112,
+   "text": "Numéro 2, Sakamoto. Le plus grand tueur de sa génération, qui a tout lâché pour Aoi, a pris du ventre et tient une supérette.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 47.9,
+     "end": 48.14
+    },
+    {
+     "w": "2,",
+     "start": 48.14,
+     "end": 48.38
+    },
+    {
+     "w": "Sakamoto.",
+     "start": 48.38,
+     "end": 48.88
+    },
+    {
+     "w": "Le",
+     "start": 49.5,
+     "end": 49.6
+    },
+    {
+     "w": "plus",
+     "start": 49.6,
+     "end": 49.78
+    },
+    {
+     "w": "grand",
+     "start": 49.78,
+     "end": 50.02
+    },
+    {
+     "w": "tueur",
+     "start": 50.02,
+     "end": 50.34
+    },
+    {
+     "w": "de",
+     "start": 50.34,
+     "end": 50.46
+    },
+    {
+     "w": "sa",
+     "start": 50.46,
+     "end": 50.58
+    },
+    {
+     "w": "génération,",
+     "start": 50.58,
+     "end": 51.02
+    },
+    {
+     "w": "qui",
+     "start": 51.02,
+     "end": 51.38
+    },
+    {
+     "w": "a",
+     "start": 51.38,
+     "end": 51.48
+    },
+    {
+     "w": "tout",
+     "start": 51.48,
+     "end": 51.64
+    },
+    {
+     "w": "lâché",
+     "start": 51.64,
+     "end": 51.88
+    },
+    {
+     "w": "pour",
+     "start": 51.88,
+     "end": 52.14
+    },
+    {
+     "w": "Aoi,",
+     "start": 52.14,
+     "end": 52.34
+    },
+    {
+     "w": "a",
+     "start": 52.34,
+     "end": 52.5
+    },
+    {
+     "w": "pris",
+     "start": 52.5,
+     "end": 52.66
+    },
+    {
+     "w": "du",
+     "start": 52.66,
+     "end": 52.84
+    },
+    {
+     "w": "ventre",
+     "start": 52.84,
+     "end": 53.1
+    },
+    {
+     "w": "et",
+     "start": 53.1,
+     "end": 53.26
+    },
+    {
+     "w": "tient",
+     "start": 53.26,
+     "end": 53.4
+    },
+    {
+     "w": "une",
+     "start": 53.4,
+     "end": 53.52
+    },
+    {
+     "w": "supérette.",
+     "start": 53.52,
+     "end": 54.04
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 54.04,
+   "end": 58.08,
+   "slot_end": 58.758,
+   "text": "Il a promis à Aoi de plus jamais tuer. Et pourtant, avec un stylo ou une cuillère, il démonte des pros.",
+   "words": [
+    {
+     "w": "Il",
+     "start": 54.04,
+     "end": 54.18
+    },
+    {
+     "w": "a",
+     "start": 54.18,
+     "end": 54.3
+    },
+    {
+     "w": "promis",
+     "start": 54.3,
+     "end": 54.56
+    },
+    {
+     "w": "à",
+     "start": 54.56,
+     "end": 54.72
+    },
+    {
+     "w": "Aoi",
+     "start": 54.72,
+     "end": 54.88
+    },
+    {
+     "w": "de",
+     "start": 54.88,
+     "end": 55.0
+    },
+    {
+     "w": "plus",
+     "start": 55.0,
+     "end": 55.16
+    },
+    {
+     "w": "jamais",
+     "start": 55.16,
+     "end": 55.36
+    },
+    {
+     "w": "tuer.",
+     "start": 55.36,
+     "end": 55.76
+    },
+    {
+     "w": "Et",
+     "start": 55.98,
+     "end": 56.06
+    },
+    {
+     "w": "pourtant,",
+     "start": 56.06,
+     "end": 56.3
+    },
+    {
+     "w": "avec",
+     "start": 56.3,
+     "end": 56.46
+    },
+    {
+     "w": "un",
+     "start": 56.46,
+     "end": 56.64
+    },
+    {
+     "w": "stylo",
+     "start": 56.64,
+     "end": 56.9
+    },
+    {
+     "w": "ou",
+     "start": 56.9,
+     "end": 56.96
+    },
+    {
+     "w": "une",
+     "start": 56.96,
+     "end": 57.08
+    },
+    {
+     "w": "cuillère,",
+     "start": 57.08,
+     "end": 57.4
+    },
+    {
+     "w": "il",
+     "start": 57.48,
+     "end": 57.53
+    },
+    {
+     "w": "démonte",
+     "start": 57.52,
+     "end": 57.7
+    },
+    {
+     "w": "des",
+     "start": 57.7,
+     "end": 57.92
+    },
+    {
+     "w": "pros.",
+     "start": 57.92,
+     "end": 58.08
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 58.72,
+   "end": 61.82,
+   "slot_end": 61.956,
+   "text": "Mais y'a quelqu'un dont même l'ORDER se méfie, et c'est là que ça devient chaud.",
+   "words": [
+    {
+     "w": "Mais",
+     "start": 58.72,
+     "end": 58.86
+    },
+    {
+     "w": "y'a",
+     "start": 58.9,
+     "end": 58.96
+    },
+    {
+     "w": "quelqu'un",
+     "start": 58.96,
+     "end": 59.26
+    },
+    {
+     "w": "dont",
+     "start": 59.26,
+     "end": 59.38
+    },
+    {
+     "w": "même",
+     "start": 59.38,
+     "end": 59.6
+    },
+    {
+     "w": "l'ORDER",
+     "start": 59.6,
+     "end": 59.86
+    },
+    {
+     "w": "se",
+     "start": 59.86,
+     "end": 60.14
+    },
+    {
+     "w": "méfie,",
+     "start": 60.14,
+     "end": 60.5
+    },
+    {
+     "w": "et",
+     "start": 60.78,
+     "end": 60.88
+    },
+    {
+     "w": "c'est",
+     "start": 60.88,
+     "end": 61.0
+    },
+    {
+     "w": "là",
+     "start": 61.0,
+     "end": 61.14
+    },
+    {
+     "w": "que",
+     "start": 61.14,
+     "end": 61.22
+    },
+    {
+     "w": "ça",
+     "start": 61.22,
+     "end": 61.3
+    },
+    {
+     "w": "devient",
+     "start": 61.3,
+     "end": 61.5
+    },
+    {
+     "w": "chaud.",
+     "start": 61.5,
+     "end": 61.82
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 61.96,
+   "end": 69.96,
+   "slot_end": 70.011,
+   "text": "Numéro 1, Takamura. Le plus vieux de l'ORDER, un papy qui a l'air complètement perdu et dit presque rien. Il sort son sabre, et tout ce qui est devant lui est coupé.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 61.96,
+     "end": 62.2
+    },
+    {
+     "w": "1,",
+     "start": 62.2,
+     "end": 62.42
+    },
+    {
+     "w": "Takamura.",
+     "start": 62.62,
+     "end": 62.92
+    },
+    {
+     "w": "Le",
+     "start": 63.96,
+     "end": 64.14
+    },
+    {
+     "w": "plus",
+     "start": 64.14,
+     "end": 64.3
+    },
+    {
+     "w": "vieux",
+     "start": 64.3,
+     "end": 64.48
+    },
+    {
+     "w": "de",
+     "start": 64.48,
+     "end": 64.58
+    },
+    {
+     "w": "l'ORDER,",
+     "start": 64.58,
+     "end": 64.8
+    },
+    {
+     "w": "un",
+     "start": 64.98,
+     "end": 65.04
+    },
+    {
+     "w": "papy",
+     "start": 65.04,
+     "end": 65.26
+    },
+    {
+     "w": "qui",
+     "start": 65.26,
+     "end": 65.38
+    },
+    {
+     "w": "a",
+     "start": 65.38,
+     "end": 65.46
+    },
+    {
+     "w": "l'air",
+     "start": 65.46,
+     "end": 65.56
+    },
+    {
+     "w": "complètement",
+     "start": 65.56,
+     "end": 65.88
+    },
+    {
+     "w": "perdu",
+     "start": 65.88,
+     "end": 66.28
+    },
+    {
+     "w": "et",
+     "start": 66.28,
+     "end": 66.48
+    },
+    {
+     "w": "dit",
+     "start": 66.48,
+     "end": 66.6
+    },
+    {
+     "w": "presque",
+     "start": 66.6,
+     "end": 66.8
+    },
+    {
+     "w": "rien.",
+     "start": 66.8,
+     "end": 67.14
+    },
+    {
+     "w": "Il",
+     "start": 67.52,
+     "end": 67.66
+    },
+    {
+     "w": "sort",
+     "start": 67.66,
+     "end": 67.82
+    },
+    {
+     "w": "son",
+     "start": 67.82,
+     "end": 68.0
+    },
+    {
+     "w": "sabre,",
+     "start": 68.0,
+     "end": 68.36
+    },
+    {
+     "w": "et",
+     "start": 68.66,
+     "end": 68.71
+    },
+    {
+     "w": "tout",
+     "start": 68.68,
+     "end": 68.8
+    },
+    {
+     "w": "ce",
+     "start": 68.8,
+     "end": 68.9
+    },
+    {
+     "w": "qui",
+     "start": 68.9,
+     "end": 69.02
+    },
+    {
+     "w": "est",
+     "start": 69.02,
+     "end": 69.1
+    },
+    {
+     "w": "devant",
+     "start": 69.1,
+     "end": 69.28
+    },
+    {
+     "w": "lui",
+     "start": 69.28,
+     "end": 69.48
+    },
+    {
+     "w": "est",
+     "start": 69.48,
+     "end": 69.72
+    },
+    {
+     "w": "coupé.",
+     "start": 69.72,
+     "end": 69.96
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 70.0,
+   "end": 75.58,
+   "slot_end": 75.77,
+   "text": "Pour moi y'a pas débat, Takamura c'est le boss final du manga. Et toi, c'est quoi ton numéro 1 ? Dis-le moi en com'.",
+   "words": [
+    {
+     "w": "Pour",
+     "start": 70.0,
+     "end": 70.1
+    },
+    {
+     "w": "moi",
+     "start": 70.1,
+     "end": 70.28
+    },
+    {
+     "w": "y'a",
+     "start": 70.44,
+     "end": 70.49
+    },
+    {
+     "w": "pas",
+     "start": 70.44,
+     "end": 70.52
+    },
+    {
+     "w": "débat,",
+     "start": 70.52,
+     "end": 70.78
+    },
+    {
+     "w": "Takamura",
+     "start": 70.96,
+     "end": 71.28
+    },
+    {
+     "w": "c'est",
+     "start": 71.42,
+     "end": 71.5
+    },
+    {
+     "w": "le",
+     "start": 71.5,
+     "end": 71.6
+    },
+    {
+     "w": "boss",
+     "start": 71.6,
+     "end": 71.9
+    },
+    {
+     "w": "final",
+     "start": 71.9,
+     "end": 72.22
+    },
+    {
+     "w": "du",
+     "start": 72.22,
+     "end": 72.42
+    },
+    {
+     "w": "manga.",
+     "start": 72.42,
+     "end": 72.6
+    },
+    {
+     "w": "Et",
+     "start": 72.96,
+     "end": 73.06
+    },
+    {
+     "w": "toi,",
+     "start": 73.06,
+     "end": 73.16
+    },
+    {
+     "w": "c'est",
+     "start": 73.28,
+     "end": 73.36
+    },
+    {
+     "w": "quoi",
+     "start": 73.36,
+     "end": 73.42
+    },
+    {
+     "w": "ton",
+     "start": 73.42,
+     "end": 73.56
+    },
+    {
+     "w": "numéro",
+     "start": 73.56,
+     "end": 73.8
+    },
+    {
+     "w": "1",
+     "start": 73.8,
+     "end": 74.1
+    },
+    {
+     "w": "?",
+     "start": 74.5,
+     "end": 74.62
+    },
+    {
+     "w": "Dis-le",
+     "start": 74.62,
+     "end": 74.8
+    },
+    {
+     "w": "moi",
+     "start": 74.8,
+     "end": 75.18
+    },
+    {
+     "w": "en",
+     "start": 75.18,
+     "end": 75.38
+    },
+    {
+     "w": "com'.",
+     "start": 75.38,
+     "end": 75.58
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "start": 75.76,
+   "end": 78.42,
+   "slot_end": 79.195,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 75.76,
+     "end": 76.02
+    },
+    {
+     "w": "Asura.",
+     "start": 76.02,
+     "end": 76.42
+    },
+    {
+     "w": "On",
+     "start": 77.0,
+     "end": 77.14
+    },
+    {
+     "w": "se",
+     "start": 77.14,
+     "end": 77.3
+    },
+    {
+     "w": "capte",
+     "start": 77.3,
+     "end": 77.62
+    },
+    {
+     "w": "au",
+     "start": 77.62,
+     "end": 77.7
+    },
+    {
+     "w": "prochain",
+     "start": 77.7,
+     "end": 77.96
+    },
+    {
+     "w": "épisode.",
+     "start": 77.96,
+     "end": 78.42
+    }
+   ]
+  }
+ ],
+ "aligned": 0.997
+}
