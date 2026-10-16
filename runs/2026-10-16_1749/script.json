@@ -1,0 +1,121 @@
+{
+  "title": "Top 5 des tueurs les plus dangereux de Sakamoto Days avant la saison 2",
+  "format": "top",
+  "tone": "hype",
+  "music": "hype2",
+  "animes": [
+    "SAKAMOTO DAYS Season 2"
+  ],
+  "cover": {
+    "text": "Le tueur le plus dangereux de Sakamoto Days",
+    "highlight": [
+      "dangereux"
+    ],
+    "emoji": "🗡️",
+    "sub": "avant la saison 2"
+  },
+  "hook_text": "Le tueur le plus dangereux de Sakamoto Days, c'est un papy qui parle pas",
+  "spoiler": false,
+  "segments": [
+    {
+      "text": "Le tueur le plus dangereux de Sakamoto Days, c'est un papy qui parle pas.",
+      "sfx": true,
+      "emphasis": [
+        "papy"
+      ]
+    },
+    {
+      "text": "[whispering] Et non, c'est pas Sakamoto. Reste jusqu'au numéro 1, tu vas comprendre.",
+      "emphasis": [
+        "numéro 1"
+      ]
+    },
+    {
+      "text": "Petit rappel avant la saison 2, prévue en janvier 2027. Ici les tueurs à gages ont leur propre école, leur association, et même leur élite.",
+      "shots": [
+        {
+          "kind": "wide"
+        }
+      ]
+    },
+    {
+      "text": "Numéro 5, Shin. Le jeune de la supérette qui lit dans les pensées. Tu crois que c'est un pouvoir de soutien, sauf qu'en combat il voit chaque coup arriver.",
+      "overlay": "#5",
+      "emphasis": [
+        "pensées"
+      ]
+    },
+    {
+      "text": "[laughing] Le mec se fait engueuler par Sakamoto toute la journée, mais j'aimerais pas l'avoir en face.",
+      "emphasis": [
+        "engueuler"
+      ]
+    },
+    {
+      "text": "Numéro 4, Slur. Le grand méchant à la cicatrice, celui qui chasse Sakamoto depuis le début. Il parle comme un gourou et veut changer tout le milieu.",
+      "overlay": "#4",
+      "sfx": true,
+      "emphasis": [
+        "Slur"
+      ]
+    },
+    {
+      "text": "Et le pire, c'est qu'on sait toujours pas ce qu'il a dans la tête.",
+      "grade": "bw"
+    },
+    {
+      "text": "Si tu kiffes ce genre de classement, abonne-toi, j'en sors tous les jours et je vais suivre la saison 2 de près.",
+      "cta": true
+    },
+    {
+      "text": "Numéro 3, Nagumo. L'ancien pote d'école de Sakamoto, toujours le sourire. Il se déguise en n'importe qui et il fait partie de l'ORDER, l'élite des tueurs.",
+      "overlay": "#3",
+      "emphasis": [
+        "ORDER"
+      ]
+    },
+    {
+      "text": "[excited] Quand Nagumo arrête de sourire, frr, quelqu'un rentre pas chez lui ce soir.",
+      "stamp": "SOURIRE MORTEL"
+    },
+    {
+      "text": "Numéro 2, Sakamoto. Le plus grand tueur de sa génération, qui a tout lâché pour Aoi, a pris du ventre et tient une supérette.",
+      "overlay": "#2",
+      "emphasis": [
+        "supérette"
+      ]
+    },
+    {
+      "text": "Il a promis à Aoi de plus jamais tuer. Et pourtant, avec un stylo ou une cuillère, il démonte des pros.",
+      "sfx": true
+    },
+    {
+      "text": "[whispering] Mais y'a quelqu'un dont même l'ORDER se méfie, et c'est là que ça devient chaud.",
+      "grade": "bw"
+    },
+    {
+      "text": "Numéro 1, Takamura. Le plus vieux de l'ORDER, un papy qui a l'air complètement perdu et dit presque rien. Il sort son sabre, et tout ce qui est devant lui est coupé.",
+      "overlay": "#1",
+      "sfx": true,
+      "stamp": "INTOUCHABLE",
+      "emphasis": [
+        "Takamura"
+      ]
+    },
+    {
+      "text": "Pour moi y'a pas débat, Takamura c'est le boss final du manga. Et toi, c'est quoi ton numéro 1 ? Dis-le moi en com'.",
+      "emphasis": [
+        "boss final"
+      ]
+    }
+  ],
+  "caption": "Sakamoto est même pas numéro 1 😳 c'est quoi ton top avant la saison 2 ?",
+  "hashtags": [
+    "#anime",
+    "#manga",
+    "#animefr",
+    "#mangafr",
+    "#sakamotodays",
+    "#topanime"
+  ]
+}
