@@ -1,0 +1,32 @@
+{
+  "title": "Reco : dans cet anime, Momotarō c'est le méchant",
+  "format": "reco",
+  "tone": "pote",
+  "music": "pote",
+  "animes": ["TOUGEN ANKI: Nikko Kegon Falls Arc"],
+  "cover": {"text": "Et si Momotarō était le méchant", "highlight": ["méchant"], "emoji": "👹", "sub": "reco du moment"},
+  "hook_text": "Dans cet anime, le héros du conte japonais, c'est le méchant",
+  "spoiler": false,
+  "segments": [
+    {"text": "Dans cet anime, le héros du conte japonais, c'est le méchant.", "sfx": true, "emphasis": ["méchant"]},
+    {"text": "[whispering] Reste jusqu'au bout, j'te donne le nom et pourquoi faut le lancer maintenant.", "emphasis": ["maintenant"]},
+    {"text": "Tu connais Momotarō ? Le gamin né dans une pêche qui part tuer les démons. Bah ici, ses descendants existent encore.", "shots": [{"kind": "wide"}], "emphasis": ["Momotarō"]},
+    {"text": "Ils sont organisés, ils ont des moyens, et ils traquent tous ceux qui ont du sang d'oni dans les veines.", "emphasis": ["oni"]},
+    {"text": "Et au milieu de ça t'as Shiki, un gamin bagarreur qui vit tranquille avec son père adoptif. Il sait rien de tout ça.", "emphasis": ["Shiki"]},
+    {"text": "Sauf qu'un jour, un mec débarque chez eux pour le tuer. Et c'est son père qui se met devant.", "grade": "bw", "sfx": true, "emphasis": ["père"]},
+    {"text": "[sad] J'te dis pas comment ça finit, mais c'est cette scène qui m'a fait rester. Elle te met une claque direct, sans prévenir.", "grade": "bw"},
+    {"text": "Si t'aimes les recos de ce genre, abonne-toi, j'en sors tous les jours et la prochaine est déjà prête.", "cta": true},
+    {"text": "Bref, Shiki découvre qu'il est descendant d'oni. Et là, ça dérape complètement.", "emphasis": ["descendant"]},
+    {"text": "Un prof bizarre, Mudano, l'embarque dans une école cachée qui forme les gamins comme lui à se battre.", "emphasis": ["Mudano"]},
+    {"text": "[excited] Et le délire, c'est que leurs pouvoirs sortent de leur sang. Celui de Shiki se transforme en flingues, frr c'est trop stylé.", "sfx": true, "stamp": "SANG", "emphasis": ["flingues"]},
+    {"text": "Ce que j'aime, c'est que t'as jamais vraiment de camp propre. Les gentils de la légende font des trucs franchement sales.", "emphasis": ["sales"]},
+    {"text": "Perso je trouve ça plus malin que la moyenne des shonen de baston, même si le début est un peu classique, faut l'avouer.", "stamp": "VALIDÉ"},
+    {"text": "Et bonne nouvelle, la suite est en train de sortir en ce moment, avec un nouvel arc du côté de Nikko et des chutes de Kegon.", "emphasis": ["en ce moment"]},
+    {"text": "[excited] Donc si tu commences la saison 1 cette semaine, t'arrives pile à temps pour suivre la suite en direct.", "emphasis": ["pile"]},
+    {"text": "L'anime, c'est Tougen Anki. Dis-moi en com' si t'as déjà vu la première saison, et si t'es team oni ou team Momotarō."}
+  ],
+  "reveal_text": "Tougen Anki",
+  "reveal_segments": 1,
+  "caption": "Les descendants de Momotarō chassent les oni, et t'es du côté des démons 👹 t'es team qui ?",
+  "hashtags": ["#anime", "#manga", "#animefr", "#otakufr", "#tougenanki", "#recommandationanime"]
+}
