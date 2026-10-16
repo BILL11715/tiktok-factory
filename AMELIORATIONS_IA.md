@@ -15,7 +15,8 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
    entretien demain ? » ou placer le mot après le verbe.
 6. Mettre « SEO Radius » en fin de phrase, jamais suivi d'un verbe court : les mots qui le suivent sont avalés
    sur 3 vidéos (14/10 « aura dus », « radius ed » ; 16/10 « SEO Radius. Tape un » entendu « au radus ca par »).
-   Écrire « Pour ça, j'utilise SEO Radius. » puis une nouvelle phrase qui commence par « Tu ».
+   Écrire « Pour ça, j'utilise SEO Radius. » puis une nouvelle phrase qui commence par un mot d'au moins
+   2 syllabes (« Ensuite, tu tapes... ») : « SEO Radius. Tu tapes » a encore été avalé le 16/10 22:00 (« seo radus tap »).
 
 ## Pistes pour Bill (changements de code proposés, à valider par lui)
 - Audit : comparer la transcription au texte écrit du script, pas à la graphie phonétique du lexique.
@@ -25,6 +26,9 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
 - Audit : relancer `factory.audit` sur le même run ajoute une 2e ligne identique dans `audits_ia.jsonl` (doublons 14/10 12:00 et 19:00), ce qui gonfle le compte des « mots mal compris sur plusieurs vidéos ». Remplacer la ligne du même stamp au lieu d'en ajouter une.
 
 ## Journal (1 ligne par revue, la plus récente en haut, 20 lignes maximum)
+- 2026-10-16 (22:00) : 1er rendu à 92 % (« court » mal compris 2 fois : « co repolis », « courant ») : remplacé par « simple »
+  et « petit message », 2e rendu à 93 % sans alerte (débit 24,2 car./s, 83,6 s). « SEO Radius. Tu tapes » encore avalé malgré la règle 6 :
+  règle précisée (phrase suivante ouverte par un mot plus long). Doublon d'audit du même stamp retiré à la main (piste déjà notée).
 - 2026-10-16 (17:00) : hook « te fait peur » entendu « feper » et « offre » entendu « oeuf » au 1er rendu : reformulés
   (« Tu as peur d'appeler... », « proposition commerciale »), hook bien entendu au 2e rendu. Prononciation 90 % (débit 25,0 car./s, 90 s).
   Mots avalés après « SEO Radius » sur 3 vidéos : règle 6 ajoutée. Doublon d'audit du même stamp retiré à la main (piste déjà notée).
