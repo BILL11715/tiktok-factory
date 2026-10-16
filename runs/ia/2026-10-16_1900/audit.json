@@ -1,0 +1,63 @@
+{
+ "stamp": "2026-10-16_1900",
+ "duration": 85.3,
+ "lead": 0.6,
+ "cps": 25.4,
+ "accuracy": 0.938,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "tu copies colles",
+   "entendu": "le copy call"
+  },
+  {
+   "dit": "claude",
+   "entendu": "cloud"
+  },
+  {
+   "dit": "claude",
+   "entendu": "cloud"
+  },
+  {
+   "dit": "claude",
+   "entendu": "cloud"
+  },
+  {
+   "dit": "tu",
+   "entendu": "qui"
+  },
+  {
+   "dit": "connais",
+   "entendu": "connait"
+  },
+  {
+   "dit": "colore",
+   "entendu": "color"
+  },
+  {
+   "dit": "valides",
+   "entendu": "valide"
+  },
+  {
+   "dit": "extensions",
+   "entendu": "extension"
+  },
+  {
+   "dit": "limites",
+   "entendu": "lignites"
+  },
+  {
+   "dit": "gemini l i a",
+   "entendu": ""
+  },
+  {
+   "dit": "sait",
+   "entendu": "c est"
+  },
+  {
+   "dit": "ces",
+   "entendu": "ses"
+  }
+ ],
+ "alerts": []
+}
