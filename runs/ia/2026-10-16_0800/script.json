@@ -1,0 +1,208 @@
+{
+ "title": "Prospecter près de chez toi",
+ "theme": "seo",
+ "pillar": "seo-radius",
+ "format": "methode",
+ "music": "pote",
+ "cover": {
+  "text": "Tes clients sont à côté",
+  "highlight": [
+   "côté"
+  ],
+  "emoji": "📍",
+  "sub": "prospecter près de chez toi"
+ },
+ "hook_text": "Tu prospectes à Paris ? Tes clients sont peut-être à côté.",
+ "segments": [
+  {
+   "text": "Tu prospectes à Paris ? Tes clients sont peut-être à côté.",
+   "emphasis": [
+    "côté"
+   ]
+  },
+  {
+   "text": "Beaucoup de freelances SEO visent les grandes villes. Plus d'entreprises, mais aussi bien plus de concurrence.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Le piège",
+    "text": "Tout le monde vise la grande ville",
+    "highlight": "grande ville"
+   }
+  },
+  {
+   "text": "Autour de chez toi, c'est l'inverse. Moins de prestataires, et des patrons qui aiment travailler avec quelqu'un du coin.",
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "Grande ville",
+     "items": [
+      "Concurrence forte",
+      "Contact à distance"
+     ]
+    },
+    "right": {
+     "title": "Près de chez toi",
+     "items": [
+      "Moins de concurrence",
+      "Rendez-vous en vrai"
+     ]
+    }
+   },
+   "sfx": true
+  },
+  {
+   "text": "Et surtout, tu peux passer les voir. Un café avec un artisan vaut souvent mieux que dix mails.",
+   "stamp": "en vrai"
+  },
+  {
+   "text": "La méthode tient en quatre étapes. Choisir ta zone, lister les entreprises, réserver les meilleures, puis aller à leur rencontre.",
+   "visual": {
+    "kind": "list",
+    "title": "La méthode",
+    "items": [
+     "Choisir ta zone",
+     "Lister les entreprises",
+     "Réserver les meilleures",
+     "Aller les voir"
+    ],
+    "at": [
+     "choisir",
+     "lister",
+     "réserver",
+     "rencontre"
+    ]
+   }
+  },
+  {
+   "text": "Étape un, la zone. Dans SEO Radius, tu tapes un métier, puis une ville, ou un rayon autour de chez toi.",
+   "visual": {
+    "kind": "search",
+    "query": "plombier autour de Tours",
+    "results": [
+     {
+      "name": "Martin Plomberie",
+      "note": "site lent sur mobile",
+      "rating": "4,1"
+     },
+     {
+      "name": "Eau Services 37",
+      "note": "fiche Google incomplète",
+      "rating": "4,6"
+     }
+    ],
+    "pick": 0
+   }
+  },
+  {
+   "text": "L'outil analyse jusqu'à 50 résultats Google, écarte les annuaires, et garde les vraies entreprises du coin.",
+   "visual": {
+    "kind": "stat",
+    "value": 50,
+    "label": "résultats Google analysés",
+    "source": "SEO Radius"
+   }
+  },
+  {
+   "text": "Étape deux, trier. Chaque entreprise a un score d'opportunité sur 100. C'est une estimation de la marge de progrès.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Étape 2",
+    "text": "Un score sur 100",
+    "highlight": "100",
+    "sub": "une estimation, pas une promesse"
+   }
+  },
+  {
+   "text": "Étape trois, réserver. Le prospect disparaît des listes des autres utilisateurs. Tu as le temps de préparer ta visite.",
+   "visual": {
+    "kind": "card",
+    "emoji": "🔒",
+    "owner": "SEO Radius",
+    "name": "Réservation exclusive",
+    "desc": "Le prospect n'apparaît plus chez les autres utilisateurs de 7 à 30 jours selon le plan.",
+    "tags": [
+     "prospection",
+     "exclusif"
+    ],
+    "url": "seoradius.fr"
+   }
+  },
+  {
+   "text": "Étape quatre, la visite. Arrive avec un seul constat précis. Par exemple, son site est très lent sur mobile.",
+   "visual": {
+    "kind": "chat",
+    "name": "Ta phrase d'accroche",
+    "user": "Que dire en entrant chez un plombier ?",
+    "assistant": "Bonjour, je travaille dans le coin. J'ai remarqué que votre site est très lent sur téléphone. Je peux vous montrer en deux minutes ?"
+   }
+  },
+  {
+   "text": "Montre-le sur ton téléphone, devant lui. Il voit le problème de ses yeux, pas dans un rapport de vingt pages.",
+   "visual": {
+    "kind": "list",
+    "title": "Sur place",
+    "items": [
+     "Un seul constat",
+     "Montré sur téléphone",
+     "Une question ouverte"
+    ],
+    "at": [
+     "seul",
+     "téléphone",
+     "question"
+    ]
+   },
+   "sfx": true
+  },
+  {
+   "text": "Et termine par une question, pas par un prix. Est-ce que vous recevez assez d'appels en ce moment ?",
+   "visual": {
+    "kind": "title",
+    "kicker": "La fin",
+    "text": "Une question, pas un prix",
+    "highlight": "question"
+   },
+   "stamp": "question"
+  },
+  {
+   "text": "Reste honnête. Ne promets jamais la première place. Propose un travail précis, et un point dans un mois.",
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "À éviter",
+     "items": [
+      "Première place promise",
+      "Jargon technique"
+     ]
+    },
+    "right": {
+     "title": "À faire",
+     "items": [
+      "Un travail précis",
+      "Un point mensuel"
+     ]
+    }
+   }
+  },
+  {
+   "text": "Quelques visites par semaine dans ton rayon, et tu deviens vite le spécialiste du coin."
+  },
+  {
+   "text": "Et toi, tu prospectes plutôt par mail ou en vrai ? Dis-le-moi en commentaire !",
+   "visual": {
+    "kind": "title",
+    "kicker": "À toi",
+    "text": "Mail ou en vrai ?",
+    "highlight": "en vrai"
+   }
+  }
+ ],
+ "caption": "Tes prochains clients SEO sont peut-être à côté de chez toi 📍 SEO Radius pour les trouver par ville ou par rayon : lien en bio",
+ "hashtags": [
+  "#seo",
+  "#seolocal",
+  "#freelance",
+  "#prospection",
+  "#entrepreneur"
+ ]
+}
