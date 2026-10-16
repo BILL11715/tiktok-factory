@@ -13,6 +13,9 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
 5. Éviter de commencer une phrase (surtout le hook) par « Ton » + nom : mal compris sur 2 vidéos du 12/10
    (« ton client » entendu « donc il y en », « ton entretien » entendu « son » / « dans l »). Préférer « Tu as un
    entretien demain ? » ou placer le mot après le verbe.
+6. Mettre « SEO Radius » en fin de phrase, jamais suivi d'un verbe court : les mots qui le suivent sont avalés
+   sur 3 vidéos (14/10 « aura dus », « radius ed » ; 16/10 « SEO Radius. Tape un » entendu « au radus ca par »).
+   Écrire « Pour ça, j'utilise SEO Radius. » puis une nouvelle phrase qui commence par « Tu ».
 
 ## Pistes pour Bill (changements de code proposés, à valider par lui)
 - Audit : comparer la transcription au texte écrit du script, pas à la graphie phonétique du lexique.
@@ -22,6 +25,9 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
 - Audit : relancer `factory.audit` sur le même run ajoute une 2e ligne identique dans `audits_ia.jsonl` (doublons 14/10 12:00 et 19:00), ce qui gonfle le compte des « mots mal compris sur plusieurs vidéos ». Remplacer la ligne du même stamp au lieu d'en ajouter une.
 
 ## Journal (1 ligne par revue, la plus récente en haut, 20 lignes maximum)
+- 2026-10-16 (17:00) : hook « te fait peur » entendu « feper » et « offre » entendu « oeuf » au 1er rendu : reformulés
+  (« Tu as peur d'appeler... », « proposition commerciale »), hook bien entendu au 2e rendu. Prononciation 90 % (débit 25,0 car./s, 90 s).
+  Mots avalés après « SEO Radius » sur 3 vidéos : règle 6 ajoutée. Doublon d'audit du même stamp retiré à la main (piste déjà notée).
 - 2026-10-14 (19:00) : 1er rendu à 1 590 car. = 100,4 s (hors cible) et « chatbot » entendu « chapeau » 2 fois : chatbot ajouté au
   lexique (« tchatte botte », bien entendu au 2e rendu), texte ramené à 1 523 car. = 89,4 s. Prononciation 91 % : écarts surtout dus à la
   graphie phonétique (piste déjà notée). Sur les 10 derniers audits, débit 23,8 à 25,2 car./s, cible tenue. Pas de nouvelle règle (1 seule vidéo trop longue).
