@@ -1,0 +1,65 @@
+{
+ "stamp": "2026-10-16_1700",
+ "duration": 90.0,
+ "lead": 0.6,
+ "cps": 25.0,
+ "accuracy": 0.899,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "le",
+   "entendu": ""
+  },
+  {
+   "dit": "devis il a l habitude le",
+   "entendu": "deux vies un peu"
+  },
+  {
+   "dit": "e o radiusse tape un",
+   "entendu": "au radus ca par"
+  },
+  {
+   "dit": "garagiste",
+   "entendu": "garragiste"
+  },
+  {
+   "dit": "qui",
+   "entendu": ""
+  },
+  {
+   "dit": "une",
+   "entendu": "on"
+  },
+  {
+   "dit": "consultant s e o",
+   "entendu": "consultance seo"
+  },
+  {
+   "dit": "puis",
+   "entendu": "lui"
+  },
+  {
+   "dit": "garagiste",
+   "entendu": "garageiste"
+  },
+  {
+   "dit": "ses",
+   "entendu": "ces"
+  },
+  {
+   "dit": "non poli",
+   "entendu": "ampoli"
+  },
+  {
+   "dit": "c r m",
+   "entendu": "crm"
+  },
+  {
+   "dit": "appeler",
+   "entendu": "appuyer"
+  }
+ ],
+ "alerts": [
+  "prononciation 90% des mots compris (min 93%)"
+ ]
+}

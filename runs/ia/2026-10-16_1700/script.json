@@ -1,0 +1,214 @@
+{
+ "title": "Appeler un prospect sans le déranger",
+ "theme": "seo",
+ "pillar": "seo-radius",
+ "format": "mythe",
+ "music": "pote",
+ "cover": {
+  "text": "L'appel qui ne dérange pas",
+  "highlight": [
+   "dérange"
+  ],
+  "emoji": "📞",
+  "sub": "quoi dire en 30 secondes"
+ },
+ "hook_text": "Tu as peur d'appeler un prospect ? Voilà quoi dire en trente secondes.",
+ "segments": [
+  {
+   "text": "Tu as peur d'appeler un prospect ? Voilà quoi dire en trente secondes.",
+   "emphasis": [
+    "peur"
+   ]
+  },
+  {
+   "text": "On croit souvent qu'un appel dérange forcément. En vrai, ce qui dérange, c'est un appel sans raison.",
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "Le mythe",
+     "items": [
+      "Un appel dérange",
+      "Mieux vaut un mail"
+     ]
+    },
+    "right": {
+     "title": "La réalité",
+     "items": [
+      "Un appel vide dérange",
+      "Une vraie raison passe"
+     ]
+    }
+   },
+   "sfx": true
+  },
+  {
+   "text": "Le patron d'une petite entreprise décroche toute la journée. Des clients, des fournisseurs, des devis. Il a l'habitude.",
+   "visual": {
+    "kind": "title",
+    "kicker": "La réalité",
+    "text": "Il décroche toute la journée",
+    "highlight": "décroche"
+   }
+  },
+  {
+   "text": "Le secret, c'est d'appeler avec un constat précis sur son entreprise. Pas avec une proposition commerciale.",
+   "stamp": "constat"
+  },
+  {
+   "text": "Pour trouver ce constat, ouvre SEO Radius. Tape un métier et une ville, par exemple garagiste à Nantes.",
+   "visual": {
+    "kind": "search",
+    "query": "garagiste Nantes",
+    "results": [
+     {
+      "name": "Garage du Centre",
+      "note": "absent de la page 1",
+      "rating": "4,4"
+     },
+     {
+      "name": "Auto Services 44",
+      "note": "fiche Google incomplète",
+      "rating": "4,0"
+     }
+    ],
+    "pick": 0
+   }
+  },
+  {
+   "text": "L'outil écarte les annuaires et classe les entreprises avec un score d'opportunité sur 100. C'est une estimation.",
+   "visual": {
+    "kind": "stat",
+    "value": 78,
+    "suffix": "/100",
+    "label": "score d'opportunité estimé",
+    "source": "SEO Radius"
+   }
+  },
+  {
+   "text": "Tu réserves le prospect, et il disparaît des listes des autres utilisateurs. Personne ne l'appelle avant toi.",
+   "visual": {
+    "kind": "card",
+    "emoji": "🔒",
+    "owner": "SEO Radius",
+    "name": "Réservation exclusive",
+    "desc": "Le prospect n'apparaît plus chez les autres utilisateurs de 7 à 30 jours selon le plan.",
+    "tags": [
+     "prospection",
+     "exclusif"
+    ],
+    "url": "seoradius.fr"
+   }
+  },
+  {
+   "text": "Ensuite, l'appel tient en quatre temps. Qui tu es, ce que tu as vu, une question, puis un rendez-vous court.",
+   "visual": {
+    "kind": "list",
+    "title": "L'appel en 4 temps",
+    "items": [
+     "Qui tu es",
+     "Ce que tu as vu",
+     "Une question",
+     "Un rendez-vous court"
+    ],
+    "at": [
+     "qui",
+     "vu",
+     "question",
+     "rendez-vous"
+    ]
+   }
+  },
+  {
+   "text": "Une phrase pour te présenter. Bonjour, je suis consultant SEO, je travaille avec des garages de la région.",
+   "visual": {
+    "kind": "chat",
+    "name": "Ta phrase d'ouverture",
+    "user": "Comment je me présente au téléphone ?",
+    "assistant": "Bonjour, je suis consultant SEO. Je travaille avec des garages de la région. Vous avez deux minutes ?"
+   }
+  },
+  {
+   "text": "Puis le constat. Quand on cherche garagiste à Nantes, votre garage n'apparaît pas en première page.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Le constat",
+    "text": "Absent de la première page",
+    "highlight": "première page"
+   }
+  },
+  {
+   "text": "Ensuite, une vraie question. Est-ce que vous recevez assez de demandes par internet en ce moment ?",
+   "stamp": "question"
+  },
+  {
+   "text": "Et là, tu le laisses parler. Tu notes ses mots exacts, et tu évites tout jargon.",
+   "visual": {
+    "kind": "list",
+    "title": "Pendant l'appel",
+    "items": [
+     "Le laisser parler",
+     "Noter ses mots",
+     "Zéro jargon"
+    ],
+    "at": [
+     "parler",
+     "notes",
+     "jargon"
+    ]
+   },
+   "sfx": true
+  },
+  {
+   "text": "Pour finir, propose quinze minutes pour lui montrer le résultat sur son écran. Pas de prix au téléphone, et jamais de première place promise.",
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "À éviter",
+     "items": [
+      "Un prix au téléphone",
+      "La 1re place promise"
+     ]
+    },
+    "right": {
+     "title": "À faire",
+     "items": [
+      "Quinze minutes",
+      "Montrer son écran"
+     ]
+    }
+   }
+  },
+  {
+   "text": "Un non poli, ce n'est pas un échec. Note-le dans le CRM, et rappelle dans quelques mois.",
+   "visual": {
+    "kind": "card",
+    "emoji": "📋",
+    "owner": "SEO Radius",
+    "name": "CRM",
+    "desc": "Réservé, contacté, en attente, gagné : chaque prospect garde son statut.",
+    "tags": [
+     "suivi",
+     "relance"
+    ],
+    "url": "seoradius.fr"
+   }
+  },
+  {
+   "text": "Et toi, tu préfères appeler ou écrire ? Dis-le-moi en commentaire !",
+   "visual": {
+    "kind": "title",
+    "kicker": "À toi",
+    "text": "Appeler ou écrire ?",
+    "highlight": "appeler"
+   }
+  }
+ ],
+ "caption": "Appeler un prospect ne dérange pas quand tu as une vraie raison 📞 SEO Radius pour trouver ce constat avant d'appeler : lien en bio",
+ "hashtags": [
+  "#seo",
+  "#seolocal",
+  "#freelance",
+  "#prospection",
+  "#entrepreneur"
+ ]
+}
