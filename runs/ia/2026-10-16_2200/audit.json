@@ -1,0 +1,47 @@
+{
+ "stamp": "2026-10-16_2200",
+ "duration": 83.6,
+ "lead": 0.6,
+ "cps": 24.2,
+ "accuracy": 0.933,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "montre",
+   "entendu": "noutres"
+  },
+  {
+   "dit": "s e o radiusse tu tapes",
+   "entendu": "seo radus tap"
+  },
+  {
+   "dit": "ces",
+   "entendu": "ses"
+  },
+  {
+   "dit": "privees",
+   "entendu": "prives"
+  },
+  {
+   "dit": "sont les conseils",
+   "entendu": "n est conseil"
+  },
+  {
+   "dit": "pres",
+   "entendu": "prets"
+  },
+  {
+   "dit": "c r m",
+   "entendu": "crmet"
+  },
+  {
+   "dit": "reserve",
+   "entendu": "reserver"
+  },
+  {
+   "dit": "contacte",
+   "entendu": "contacter"
+  }
+ ],
+ "alerts": []
+}
