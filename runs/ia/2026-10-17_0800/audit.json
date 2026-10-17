@@ -1,0 +1,47 @@
+{
+ "stamp": "2026-10-17_0800",
+ "duration": 92.7,
+ "lead": 0.6,
+ "cps": 24.4,
+ "accuracy": 0.958,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "le",
+   "entendu": "peu"
+  },
+  {
+   "dit": "o radiusse",
+   "entendu": "ou radius de"
+  },
+  {
+   "dit": "opportunite",
+   "entendu": "opportunites"
+  },
+  {
+   "dit": "ce",
+   "entendu": ""
+  },
+  {
+   "dit": "eleve",
+   "entendu": "elevees"
+  },
+  {
+   "dit": "pas a",
+   "entendu": "pour"
+  },
+  {
+   "dit": "la",
+   "entendu": "ta"
+  },
+  {
+   "dit": "reserves ils",
+   "entendu": "reserve il"
+  },
+  {
+   "dit": "lui",
+   "entendu": ""
+  }
+ ],
+ "alerts": []
+}

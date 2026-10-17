@@ -1,0 +1,215 @@
+{
+  "title": "Vise le prospect qui peut monter vite",
+  "theme": "seo",
+  "pillar": "seo-radius",
+  "format": "mythe",
+  "music": "pote",
+  "cover": {
+    "text": "Tu vises les mauvais prospects",
+    "highlight": [
+      "mauvais"
+    ],
+    "emoji": "🎯",
+    "sub": "le score qui trie"
+  },
+  "hook_text": "Tu cherches tes clients parmi les sites les plus mal classés ? Mauvaise idée.",
+  "segments": [
+    {
+      "text": "Tu cherches tes clients parmi les sites les plus mal classés ? Mauvaise idée.",
+      "emphasis": [
+        "mauvaise"
+      ]
+    },
+    {
+      "text": "C'est le réflexe de tout le monde. On trouve une entreprise en page cinq, et on se dit : elle a besoin de moi !",
+      "visual": {
+        "kind": "search",
+        "query": "garage Nantes",
+        "results": [
+          {
+            "name": "Garage des Ponts",
+            "note": "page 5",
+            "rating": "3,8"
+          },
+          {
+            "name": "Auto Service Erdre",
+            "note": "page 3",
+            "rating": "4,4"
+          }
+        ],
+        "pick": 0
+      }
+    },
+    {
+      "text": "Le problème ? Une entreprise trop loin derrière, c'est des mois de travail avant le moindre résultat. Et le client finit par partir.",
+      "visual": {
+        "kind": "title",
+        "kicker": "Le piège",
+        "text": "Trop loin, c'est trop long",
+        "highlight": "long"
+      }
+    },
+    {
+      "text": "La vraie question, ce n'est pas : qui est mal classé ? C'est : qui pourrait monter vite ?",
+      "stamp": "vite"
+    },
+    {
+      "text": "Pour ça, j'utilise SEO Radius. Dedans, chaque entreprise reçoit un score d'opportunité sur 100.",
+      "visual": {
+        "kind": "card",
+        "emoji": "🎯",
+        "owner": "Outil",
+        "name": "SEO Radius",
+        "desc": "Prospection SEO locale avec un score d'opportunité",
+        "tags": [
+          "freelance",
+          "SEO local"
+        ],
+        "url": "seoradius.fr"
+      }
+    },
+    {
+      "text": "Ce score mesure l'écart entre sa place actuelle sur Google, et celle qu'elle pourrait avoir.",
+      "visual": {
+        "kind": "stat",
+        "value": 100,
+        "prefix": "",
+        "suffix": " max",
+        "label": "score d'opportunité estimé",
+        "source": "SEO Radius"
+      }
+    },
+    {
+      "text": "Le calcul regarde la position, l'autorité du site, le trafic, et les liens qui pointent vers lui.",
+      "visual": {
+        "kind": "list",
+        "title": "Ce que regarde le score",
+        "items": [
+          "La position",
+          "L'autorité du site",
+          "Le trafic estimé",
+          "Les liens entrants"
+        ],
+        "at": [
+          "position",
+          "autorité",
+          "trafic",
+          "liens"
+        ]
+      }
+    },
+    {
+      "text": "Exemple. Un garage en page trois, avec un site solide et déjà des visites : score élevé. Il est tout près du but.",
+      "visual": {
+        "kind": "search",
+        "query": "garage Nantes",
+        "results": [
+          {
+            "name": "Auto Service Erdre",
+            "note": "page 3, site solide",
+            "rating": "4,4"
+          },
+          {
+            "name": "Garage des Ponts",
+            "note": "page 8, site vide",
+            "rating": "3,8"
+          }
+        ],
+        "pick": 0
+      },
+      "sfx": true
+    },
+    {
+      "text": "À l'inverse, un garage en page huit, avec un site presque vide : score faible. Ce sera long, et dur à vendre.",
+      "visual": {
+        "kind": "compare",
+        "left": {
+          "title": "Page 3",
+          "items": [
+            "Site solide",
+            "Déjà des visites",
+            "Score élevé"
+          ]
+        },
+        "right": {
+          "title": "Page 8",
+          "items": [
+            "Site presque vide",
+            "Peu de visites",
+            "Score faible"
+          ]
+        }
+      }
+    },
+    {
+      "text": "Attention, ce score reste une estimation. Il sert à trier, pas à promettre un résultat.",
+      "visual": {
+        "kind": "title",
+        "kicker": "Attention",
+        "text": "Une estimation, pas une promesse",
+        "highlight": "estimation"
+      },
+      "stamp": "estimation"
+    },
+    {
+      "text": "La méthode. Tu tapes un métier et une ville, tu tries par score, tu gardes les trois premiers, et tu les réserves.",
+      "visual": {
+        "kind": "list",
+        "title": "La méthode",
+        "items": [
+          "Un métier, une ville",
+          "Trier par score",
+          "Garder les 3 premiers",
+          "Les réserver"
+        ],
+        "at": [
+          "métier",
+          "tries",
+          "gardes",
+          "réserves"
+        ]
+      }
+    },
+    {
+      "text": "Une fois réservés, ils disparaissent des listes des autres utilisateurs, de sept à trente jours selon ta formule.",
+      "visual": {
+        "kind": "stat",
+        "value": 30,
+        "prefix": "7 à ",
+        "suffix": " jours",
+        "label": "de réservation exclusive selon la formule",
+        "source": "SEO Radius"
+      }
+    },
+    {
+      "text": "Ensuite, au premier contact, tu montres un seul constat : ce qui le sépare de la première page.",
+      "visual": {
+        "kind": "chat",
+        "name": "Message au gérant",
+        "user": "Bonjour, votre garage apparaît en page 3 pour « garage Nantes ». Deux points simples vous séparent de la première page. Je vous les montre en 10 minutes ?",
+        "assistant": "Le gérant : D'accord, passez jeudi."
+      }
+    },
+    {
+      "text": "Une entreprise presque arrivée, tu lui montres un résultat rapide. Celle en page huit, il te faudra des mois.",
+      "visual": {
+        "kind": "title",
+        "kicker": "À retenir",
+        "text": "Vise ceux qui sont presque là",
+        "highlight": "presque"
+      },
+      "sfx": true
+    },
+    {
+      "text": "Et toi, tu choisis tes prospects comment ? Au feeling, ou avec une méthode ? Dis-moi tout en commentaire."
+    }
+  ],
+  "caption": "Le meilleur prospect SEO n'est pas le plus mal classé 🎯 La méthode du score d'opportunité (outil en lien en bio)",
+  "hashtags": [
+    "#seo",
+    "#seolocal",
+    "#freelance",
+    "#prospection",
+    "#seoradius"
+  ]
+}
