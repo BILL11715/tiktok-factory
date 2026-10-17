@@ -1,0 +1,207 @@
+{
+  "title": "3 relances qui font répondre un prospect",
+  "theme": "seo",
+  "pillar": "seo-radius",
+  "format": "top",
+  "music": "pote",
+  "cover": {
+    "text": "Ton prospect ne répond pas ?",
+    "highlight": [
+      "répond"
+    ],
+    "emoji": "📩",
+    "sub": "3 relances qui marchent"
+  },
+  "hook_text": "Un prospect qui ne répond pas, ce n'est pas un non.",
+  "segments": [
+    {
+      "text": "Un prospect qui ne répond pas, ce n'est pas un non.",
+      "emphasis": [
+        "non"
+      ]
+    },
+    {
+      "text": "La plupart du temps, ton message est juste passé sous la pile, entre deux chantiers et trois appels.",
+      "visual": {
+        "kind": "compare",
+        "left": {
+          "title": "Ce que tu crois",
+          "items": [
+            "Il a dit non",
+            "Il s'en fiche"
+          ]
+        },
+        "right": {
+          "title": "La réalité",
+          "items": [
+            "Il n'a pas vu",
+            "Il a oublié"
+          ]
+        }
+      }
+    },
+    {
+      "text": "Alors voici trois relances qui font répondre, sans passer pour quelqu'un de lourd.",
+      "visual": {
+        "kind": "title",
+        "kicker": "La méthode",
+        "text": "3 relances qui font répondre",
+        "highlight": "relances"
+      }
+    },
+    {
+      "text": "Première relance, trois jours après. Deux lignes seulement : tu rappelles ton constat, et tu poses une seule question.",
+      "visual": {
+        "kind": "stat",
+        "value": 3,
+        "suffix": " jours",
+        "label": "Première relance"
+      }
+    },
+    {
+      "text": "Par exemple : votre fiche Google n'a pas de photos. Vous avez deux minutes cette semaine ?",
+      "visual": {
+        "kind": "title",
+        "kicker": "Relance 1",
+        "text": "Vous avez 2 minutes cette semaine ?",
+        "highlight": "minutes"
+      }
+    },
+    {
+      "text": "Deuxième relance, une semaine plus tard. Là, tu apportes du nouveau : un concurrent qui vient de passer devant lui sur Google.",
+      "visual": {
+        "kind": "search",
+        "query": "garagiste Nantes",
+        "results": [
+          {
+            "name": "Garage du Centre",
+            "note": "vient de monter",
+            "rating": "4,6"
+          },
+          {
+            "name": "Auto Services 44",
+            "note": "ton prospect",
+            "rating": "4,2"
+          }
+        ],
+        "pick": 1
+      },
+      "sfx": true
+    },
+    {
+      "text": "Pour trouver ce nouveau constat en deux minutes, j'utilise SEO Radius.",
+      "visual": {
+        "kind": "card",
+        "emoji": "📡",
+        "name": "SEO Radius",
+        "desc": "Prospection SEO locale",
+        "tags": [
+          "métier + ville",
+          "score /100",
+          "CRM"
+        ],
+        "url": "seoradius.fr"
+      }
+    },
+    {
+      "text": "Ensuite, je relance l'analyse sur le même métier et la même ville. Je vois qui a bougé, et ça devient mon nouvel argument."
+    },
+    {
+      "text": "Troisième et dernière relance, deux semaines après. C'est la porte de sortie.",
+      "visual": {
+        "kind": "title",
+        "kicker": "Relance 3",
+        "text": "La porte de sortie",
+        "highlight": "sortie"
+      }
+    },
+    {
+      "text": "Tu écris simplement : je ne veux pas vous déranger, je clôture le dossier. Si le sujet revient, je reste disponible.",
+      "visual": {
+        "kind": "compare",
+        "left": {
+          "title": "Lourd",
+          "items": [
+            "Vous avez vu mon mail ?",
+            "Je me permets de relancer"
+          ]
+        },
+        "right": {
+          "title": "Porte de sortie",
+          "items": [
+            "Je clôture le dossier",
+            "Je reste disponible"
+          ]
+        }
+      }
+    },
+    {
+      "text": "C'est souvent celle-là qui déclenche une réponse. Personne n'aime voir une porte se fermer.",
+      "stamp": "Réponse"
+    },
+    {
+      "text": "Entre deux relances, note tout dans le CRM : réservé, contacté, en attente, gagné. Comme ça, tu ne relances jamais au hasard.",
+      "visual": {
+        "kind": "list",
+        "title": "Le suivi",
+        "items": [
+          "Réservé",
+          "Contacté",
+          "En attente",
+          "Gagné"
+        ],
+        "at": [
+          "réservé",
+          "contacté",
+          "attente",
+          "gagné"
+        ]
+      }
+    },
+    {
+      "text": "Et pendant ce temps, ton prospect est réservé. Il disparaît des listes des autres utilisateurs, de 7 à 30 jours selon le plan.",
+      "visual": {
+        "kind": "stat",
+        "value": 30,
+        "prefix": "7 à ",
+        "suffix": " jours",
+        "label": "Prospect réservé pour toi"
+      }
+    },
+    {
+      "text": "À éviter absolument : relancer tous les jours, ou parler de tes prix avant d'avoir une vraie réponse.",
+      "visual": {
+        "kind": "list",
+        "title": "À éviter",
+        "items": [
+          "Relancer chaque jour",
+          "Parler prix trop tôt"
+        ],
+        "at": [
+          "relancer",
+          "prix"
+        ]
+      }
+    },
+    {
+      "text": "Trois relances, trois semaines. Ensuite, tu passes au suivant, sans rancune.",
+      "visual": {
+        "kind": "title",
+        "kicker": "La règle",
+        "text": "3 relances, puis le suivant",
+        "highlight": "suivant"
+      }
+    },
+    {
+      "text": "Et toi, tu relances combien de fois avant de lâcher ? Dis-le en commentaire."
+    }
+  ],
+  "caption": "Ton prospect ne répond pas ? Ce n'est pas un non. 3 relances qui marchent 📩 (outil en lien en bio)",
+  "hashtags": [
+    "#seo",
+    "#seolocal",
+    "#freelance",
+    "#prospection",
+    "#relance"
+  ]
+}

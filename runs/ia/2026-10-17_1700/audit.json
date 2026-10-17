@@ -1,0 +1,31 @@
+{
+ "stamp": "2026-10-17_1700",
+ "duration": 83.0,
+ "lead": 0.6,
+ "cps": 25.1,
+ "accuracy": 0.96,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "non",
+   "entendu": "nom"
+  },
+  {
+   "dit": "deux lignes",
+   "entendu": "de l une"
+  },
+  {
+   "dit": "s e o radiusse",
+   "entendu": "seo radius"
+  },
+  {
+   "dit": "qui",
+   "entendu": "qu il y"
+  },
+  {
+   "dit": "c r m",
+   "entendu": "crm"
+  }
+ ],
+ "alerts": []
+}
