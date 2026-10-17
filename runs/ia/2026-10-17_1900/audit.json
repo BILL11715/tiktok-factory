@@ -1,0 +1,59 @@
+{
+ "stamp": "2026-10-17_1900",
+ "duration": 90.2,
+ "lead": 0.6,
+ "cps": 24.8,
+ "accuracy": 0.943,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "exemple",
+   "entendu": ""
+  },
+  {
+   "dit": "a qui",
+   "entendu": "acquis"
+  },
+  {
+   "dit": "ines",
+   "entendu": "linaise"
+  },
+  {
+   "dit": "resultat",
+   "entendu": "pasuta"
+  },
+  {
+   "dit": "ines",
+   "entendu": "linais"
+  },
+  {
+   "dit": "changements",
+   "entendu": "changes"
+  },
+  {
+   "dit": "peages",
+   "entendu": "payages"
+  },
+  {
+   "dit": "y mets",
+   "entendu": "imaginez"
+  },
+  {
+   "dit": "claude corrige",
+   "entendu": "plot courage"
+  },
+  {
+   "dit": "revisions",
+   "entendu": "revision"
+  },
+  {
+   "dit": "suivi",
+   "entendu": "solide"
+  },
+  {
+   "dit": "quel",
+   "entendu": "qu un"
+  }
+ ],
+ "alerts": []
+}
