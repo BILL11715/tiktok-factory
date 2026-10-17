@@ -1,0 +1,36 @@
+{
+ "MASHLE: Sanma Taisou Shinkakusha Saishuu Shiken-hen": {
+  "meta": {
+   "id": "48903",
+   "title": "MASHLE: Sanma Taisou Shinkakusha Saishuu Shiken-hen",
+   "titles": {
+    "en": "Mashle: Magic and Muscles Season 3",
+    "en_jp": "MASHLE: Sanma Taisou Shinkakusha Saishuu Shiken-hen",
+    "ja_jp": "マッシュル-MASHLE- 三魔対争神覚者最終試験編"
+   },
+   "synopsis": "The third season of MASHLE, adapting the Tri-Magic-Athalon Divine Visionary Final Exam Arc.",
+   "episodes": null,
+   "start": "2027-01-31",
+   "source": "https://kitsu.io/anime/mashle-season-3"
+  },
+  "wide": [
+   "/home/claude/tiktok-factory/runs/2026-10-17_2045/images/e30200d80d7e.jpg"
+  ],
+  "tall": [
+   "/home/claude/tiktok-factory/runs/2026-10-17_2045/images/859ce67fa6e0.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-17_2045/images/c4b82429e109.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-17_2045/images/b962af7eea69.jpg"
+  ],
+  "characters": {
+   "Mash Burnedead": "/home/claude/tiktok-factory/runs/2026-10-17_2045/images/8b4b767de0b6.jpg",
+   "Lance Crown": "/home/claude/tiktok-factory/runs/2026-10-17_2045/images/c66134055c0f.jpg",
+   "Dot Barrett": "/home/claude/tiktok-factory/runs/2026-10-17_2045/images/4b77473d7e45.jpg",
+   "Finn Ames": "/home/claude/tiktok-factory/runs/2026-10-17_2045/images/adf10cd62fac.jpg",
+   "Lemon  Irvine": "/home/claude/tiktok-factory/runs/2026-10-17_2045/images/8f8e5d372f1e.jpg"
+  },
+  "sources": [
+   "https://kitsu.io/anime/mashle-season-3",
+   "https://anilist.co/anime/177704"
+  ]
+ }
+}

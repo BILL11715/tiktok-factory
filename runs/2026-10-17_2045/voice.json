@@ -1,0 +1,1692 @@
+{
+ "engine": "fish",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-17_2045/voice.wav",
+ "duration": 80.677,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 2.92,
+   "slot_end": 3.008,
+   "text": "Le grand méchant de Mashle veut pas tuer Mash, il a besoin de lui.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 0.0,
+     "end": 0.12
+    },
+    {
+     "w": "grand",
+     "start": 0.12,
+     "end": 0.3
+    },
+    {
+     "w": "méchant",
+     "start": 0.3,
+     "end": 0.6
+    },
+    {
+     "w": "de",
+     "start": 0.6,
+     "end": 0.74
+    },
+    {
+     "w": "Mashle",
+     "start": 0.74,
+     "end": 1.06
+    },
+    {
+     "w": "veut",
+     "start": 1.06,
+     "end": 1.18
+    },
+    {
+     "w": "pas",
+     "start": 1.18,
+     "end": 1.38
+    },
+    {
+     "w": "tuer",
+     "start": 1.38,
+     "end": 1.58
+    },
+    {
+     "w": "Mash,",
+     "start": 1.58,
+     "end": 1.8
+    },
+    {
+     "w": "il",
+     "start": 2.08,
+     "end": 2.18
+    },
+    {
+     "w": "a",
+     "start": 2.18,
+     "end": 2.28
+    },
+    {
+     "w": "besoin",
+     "start": 2.28,
+     "end": 2.58
+    },
+    {
+     "w": "de",
+     "start": 2.58,
+     "end": 2.74
+    },
+    {
+     "w": "lui.",
+     "start": 2.74,
+     "end": 2.92
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 3.08,
+   "end": 6.86,
+   "slot_end": 6.955,
+   "text": "Et je pense que c'est exactement ce qui va le perdre, reste jusqu'au bout, j'te montre pourquoi.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 3.08,
+     "end": 3.13
+    },
+    {
+     "w": "je",
+     "start": 3.08,
+     "end": 3.2
+    },
+    {
+     "w": "pense",
+     "start": 3.2,
+     "end": 3.34
+    },
+    {
+     "w": "que",
+     "start": 3.34,
+     "end": 3.52
+    },
+    {
+     "w": "c'est",
+     "start": 3.52,
+     "end": 3.7
+    },
+    {
+     "w": "exactement",
+     "start": 3.7,
+     "end": 4.24
+    },
+    {
+     "w": "ce",
+     "start": 4.24,
+     "end": 4.42
+    },
+    {
+     "w": "qui",
+     "start": 4.42,
+     "end": 4.52
+    },
+    {
+     "w": "va",
+     "start": 4.52,
+     "end": 4.6
+    },
+    {
+     "w": "le",
+     "start": 4.6,
+     "end": 4.72
+    },
+    {
+     "w": "perdre,",
+     "start": 4.72,
+     "end": 5.06
+    },
+    {
+     "w": "reste",
+     "start": 5.46,
+     "end": 5.6
+    },
+    {
+     "w": "jusqu'au",
+     "start": 5.6,
+     "end": 6.0
+    },
+    {
+     "w": "bout,",
+     "start": 6.0,
+     "end": 6.16
+    },
+    {
+     "w": "j'te",
+     "start": 6.22,
+     "end": 6.36
+    },
+    {
+     "w": "montre",
+     "start": 6.36,
+     "end": 6.42
+    },
+    {
+     "w": "pourquoi.",
+     "start": 6.42,
+     "end": 6.86
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 6.96,
+   "end": 12.42,
+   "slot_end": 12.528,
+   "text": "Petit rappel pour ceux qui ont lâché. Dans ce monde, sans magie t'es rien, genre on te considère même pas comme un humain.",
+   "words": [
+    {
+     "w": "Petit",
+     "start": 6.96,
+     "end": 7.11
+    },
+    {
+     "w": "rappel",
+     "start": 7.11,
+     "end": 7.26
+    },
+    {
+     "w": "pour",
+     "start": 7.26,
+     "end": 7.6
+    },
+    {
+     "w": "ceux",
+     "start": 7.6,
+     "end": 7.76
+    },
+    {
+     "w": "qui",
+     "start": 7.76,
+     "end": 7.9
+    },
+    {
+     "w": "ont",
+     "start": 7.9,
+     "end": 7.98
+    },
+    {
+     "w": "lâché.",
+     "start": 7.98,
+     "end": 8.2
+    },
+    {
+     "w": "Dans",
+     "start": 8.96,
+     "end": 9.14
+    },
+    {
+     "w": "ce",
+     "start": 9.14,
+     "end": 9.32
+    },
+    {
+     "w": "monde,",
+     "start": 9.32,
+     "end": 9.56
+    },
+    {
+     "w": "sans",
+     "start": 9.76,
+     "end": 9.9
+    },
+    {
+     "w": "magie",
+     "start": 9.9,
+     "end": 10.24
+    },
+    {
+     "w": "t'es",
+     "start": 10.32,
+     "end": 10.4
+    },
+    {
+     "w": "rien,",
+     "start": 10.4,
+     "end": 10.66
+    },
+    {
+     "w": "genre",
+     "start": 10.8,
+     "end": 10.96
+    },
+    {
+     "w": "on",
+     "start": 10.96,
+     "end": 11.04
+    },
+    {
+     "w": "te",
+     "start": 11.04,
+     "end": 11.16
+    },
+    {
+     "w": "considère",
+     "start": 11.16,
+     "end": 11.56
+    },
+    {
+     "w": "même",
+     "start": 11.56,
+     "end": 11.76
+    },
+    {
+     "w": "pas",
+     "start": 11.76,
+     "end": 11.96
+    },
+    {
+     "w": "comme",
+     "start": 11.96,
+     "end": 12.14
+    },
+    {
+     "w": "un",
+     "start": 12.14,
+     "end": 12.24
+    },
+    {
+     "w": "humain.",
+     "start": 12.24,
+     "end": 12.42
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 12.82,
+   "end": 18.86,
+   "slot_end": 18.95,
+   "text": "Mash est né sans une seule goutte de magie. C'est Regro, un vieux monsieur, qui l'a trouvé bébé dans la forêt et qui l'a élevé.",
+   "words": [
+    {
+     "w": "Mash",
+     "start": 12.82,
+     "end": 12.92
+    },
+    {
+     "w": "est",
+     "start": 12.92,
+     "end": 13.02
+    },
+    {
+     "w": "né",
+     "start": 13.02,
+     "end": 13.12
+    },
+    {
+     "w": "sans",
+     "start": 13.12,
+     "end": 13.36
+    },
+    {
+     "w": "une",
+     "start": 13.36,
+     "end": 13.6
+    },
+    {
+     "w": "seule",
+     "start": 13.6,
+     "end": 13.78
+    },
+    {
+     "w": "goutte",
+     "start": 13.78,
+     "end": 14.1
+    },
+    {
+     "w": "de",
+     "start": 14.1,
+     "end": 14.26
+    },
+    {
+     "w": "magie.",
+     "start": 14.26,
+     "end": 14.96
+    },
+    {
+     "w": "C'est",
+     "start": 14.98,
+     "end": 15.22
+    },
+    {
+     "w": "Regro,",
+     "start": 15.22,
+     "end": 15.66
+    },
+    {
+     "w": "un",
+     "start": 15.66,
+     "end": 15.88
+    },
+    {
+     "w": "vieux",
+     "start": 15.88,
+     "end": 16.12
+    },
+    {
+     "w": "monsieur,",
+     "start": 16.12,
+     "end": 16.4
+    },
+    {
+     "w": "qui",
+     "start": 16.4,
+     "end": 16.72
+    },
+    {
+     "w": "l'a",
+     "start": 16.72,
+     "end": 16.88
+    },
+    {
+     "w": "trouvé",
+     "start": 16.88,
+     "end": 17.1
+    },
+    {
+     "w": "bébé",
+     "start": 17.1,
+     "end": 17.42
+    },
+    {
+     "w": "dans",
+     "start": 17.42,
+     "end": 17.58
+    },
+    {
+     "w": "la",
+     "start": 17.58,
+     "end": 17.72
+    },
+    {
+     "w": "forêt",
+     "start": 17.72,
+     "end": 18.0
+    },
+    {
+     "w": "et",
+     "start": 18.0,
+     "end": 18.16
+    },
+    {
+     "w": "qui",
+     "start": 18.16,
+     "end": 18.28
+    },
+    {
+     "w": "l'a",
+     "start": 18.28,
+     "end": 18.46
+    },
+    {
+     "w": "élevé.",
+     "start": 18.46,
+     "end": 18.86
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 18.94,
+   "end": 24.74,
+   "slot_end": 24.884,
+   "text": "Alors Mash compense avec des muscles complètement absurdes. Il pète des sorts à mains nues, et entre deux combats il mange des choux à la crème.",
+   "words": [
+    {
+     "w": "Alors",
+     "start": 18.94,
+     "end": 19.06
+    },
+    {
+     "w": "Mash",
+     "start": 19.06,
+     "end": 19.28
+    },
+    {
+     "w": "compense",
+     "start": 19.28,
+     "end": 19.6
+    },
+    {
+     "w": "avec",
+     "start": 19.6,
+     "end": 19.78
+    },
+    {
+     "w": "des",
+     "start": 19.78,
+     "end": 19.96
+    },
+    {
+     "w": "muscles",
+     "start": 19.96,
+     "end": 20.22
+    },
+    {
+     "w": "complètement",
+     "start": 20.22,
+     "end": 20.66
+    },
+    {
+     "w": "absurdes.",
+     "start": 20.66,
+     "end": 21.72
+    },
+    {
+     "w": "Il",
+     "start": 21.82,
+     "end": 21.94
+    },
+    {
+     "w": "pète",
+     "start": 21.94,
+     "end": 22.1
+    },
+    {
+     "w": "des",
+     "start": 22.1,
+     "end": 22.28
+    },
+    {
+     "w": "sorts",
+     "start": 22.28,
+     "end": 22.46
+    },
+    {
+     "w": "à",
+     "start": 22.46,
+     "end": 22.62
+    },
+    {
+     "w": "mains",
+     "start": 22.62,
+     "end": 22.72
+    },
+    {
+     "w": "nues,",
+     "start": 22.72,
+     "end": 22.94
+    },
+    {
+     "w": "et",
+     "start": 22.94,
+     "end": 23.1
+    },
+    {
+     "w": "entre",
+     "start": 23.1,
+     "end": 23.28
+    },
+    {
+     "w": "deux",
+     "start": 23.28,
+     "end": 23.46
+    },
+    {
+     "w": "combats",
+     "start": 23.46,
+     "end": 23.72
+    },
+    {
+     "w": "il",
+     "start": 23.8,
+     "end": 23.85
+    },
+    {
+     "w": "mange",
+     "start": 23.84,
+     "end": 23.96
+    },
+    {
+     "w": "des",
+     "start": 23.96,
+     "end": 24.14
+    },
+    {
+     "w": "choux",
+     "start": 24.14,
+     "end": 24.32
+    },
+    {
+     "w": "à",
+     "start": 24.32,
+     "end": 24.42
+    },
+    {
+     "w": "la",
+     "start": 24.42,
+     "end": 24.5
+    },
+    {
+     "w": "crème.",
+     "start": 24.5,
+     "end": 24.74
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 24.88,
+   "end": 30.58,
+   "slot_end": 30.679,
+   "text": "Sauf que la saison 2 lâche une bombe. Domina, le mec ultra fort qu'il affronte à l'examen, c'est son frère.",
+   "words": [
+    {
+     "w": "Sauf",
+     "start": 24.88,
+     "end": 25.08
+    },
+    {
+     "w": "que",
+     "start": 25.08,
+     "end": 25.2
+    },
+    {
+     "w": "la",
+     "start": 25.2,
+     "end": 25.3
+    },
+    {
+     "w": "saison",
+     "start": 25.3,
+     "end": 25.58
+    },
+    {
+     "w": "2",
+     "start": 25.58,
+     "end": 25.74
+    },
+    {
+     "w": "lâche",
+     "start": 25.74,
+     "end": 26.08
+    },
+    {
+     "w": "une",
+     "start": 26.08,
+     "end": 26.32
+    },
+    {
+     "w": "bombe.",
+     "start": 26.32,
+     "end": 26.94
+    },
+    {
+     "w": "Domina,",
+     "start": 27.32,
+     "end": 27.66
+    },
+    {
+     "w": "le",
+     "start": 27.84,
+     "end": 28.02
+    },
+    {
+     "w": "mec",
+     "start": 28.02,
+     "end": 28.22
+    },
+    {
+     "w": "ultra",
+     "start": 28.22,
+     "end": 28.68
+    },
+    {
+     "w": "fort",
+     "start": 28.68,
+     "end": 28.96
+    },
+    {
+     "w": "qu'il",
+     "start": 28.96,
+     "end": 29.18
+    },
+    {
+     "w": "affronte",
+     "start": 29.18,
+     "end": 29.46
+    },
+    {
+     "w": "à",
+     "start": 29.46,
+     "end": 29.6
+    },
+    {
+     "w": "l'examen,",
+     "start": 29.6,
+     "end": 29.88
+    },
+    {
+     "w": "c'est",
+     "start": 30.0,
+     "end": 30.1
+    },
+    {
+     "w": "son",
+     "start": 30.1,
+     "end": 30.26
+    },
+    {
+     "w": "frère.",
+     "start": 30.26,
+     "end": 30.58
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 30.68,
+   "end": 34.56,
+   "slot_end": 34.726,
+   "text": "Et leur père à tous les deux, c'est Innocent Zero, le mage noir que tout le monde redoute.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 30.68,
+     "end": 30.827
+    },
+    {
+     "w": "leur",
+     "start": 30.827,
+     "end": 30.973
+    },
+    {
+     "w": "père",
+     "start": 30.973,
+     "end": 31.12
+    },
+    {
+     "w": "à",
+     "start": 31.12,
+     "end": 31.28
+    },
+    {
+     "w": "tous",
+     "start": 31.28,
+     "end": 31.38
+    },
+    {
+     "w": "les",
+     "start": 31.38,
+     "end": 31.5
+    },
+    {
+     "w": "deux,",
+     "start": 31.5,
+     "end": 31.64
+    },
+    {
+     "w": "c'est",
+     "start": 31.64,
+     "end": 32.187
+    },
+    {
+     "w": "Innocent",
+     "start": 32.187,
+     "end": 32.46
+    },
+    {
+     "w": "Zero,",
+     "start": 32.46,
+     "end": 32.74
+    },
+    {
+     "w": "le",
+     "start": 32.74,
+     "end": 32.94
+    },
+    {
+     "w": "mage",
+     "start": 32.94,
+     "end": 33.2
+    },
+    {
+     "w": "noir",
+     "start": 33.2,
+     "end": 33.42
+    },
+    {
+     "w": "que",
+     "start": 33.42,
+     "end": 33.68
+    },
+    {
+     "w": "tout",
+     "start": 33.68,
+     "end": 33.9
+    },
+    {
+     "w": "le",
+     "start": 33.9,
+     "end": 34.04
+    },
+    {
+     "w": "monde",
+     "start": 34.04,
+     "end": 34.2
+    },
+    {
+     "w": "redoute.",
+     "start": 34.2,
+     "end": 34.56
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 34.72,
+   "end": 39.58,
+   "slot_end": 39.719,
+   "text": "Si tu veux que je décortique l'arc final avant sa sortie, abonne-toi, la partie 2 arrive bientôt.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 34.72,
+     "end": 34.84
+    },
+    {
+     "w": "tu",
+     "start": 34.84,
+     "end": 34.94
+    },
+    {
+     "w": "veux",
+     "start": 34.94,
+     "end": 35.04
+    },
+    {
+     "w": "que",
+     "start": 35.04,
+     "end": 35.14
+    },
+    {
+     "w": "je",
+     "start": 35.14,
+     "end": 35.45
+    },
+    {
+     "w": "décortique",
+     "start": 35.45,
+     "end": 35.76
+    },
+    {
+     "w": "l'arc",
+     "start": 35.76,
+     "end": 35.92
+    },
+    {
+     "w": "final",
+     "start": 35.92,
+     "end": 36.336
+    },
+    {
+     "w": "avant",
+     "start": 36.336,
+     "end": 36.752
+    },
+    {
+     "w": "sa",
+     "start": 36.752,
+     "end": 37.168
+    },
+    {
+     "w": "sortie,",
+     "start": 37.168,
+     "end": 37.584
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 37.584,
+     "end": 38.0
+    },
+    {
+     "w": "la",
+     "start": 38.36,
+     "end": 38.44
+    },
+    {
+     "w": "partie",
+     "start": 38.44,
+     "end": 38.66
+    },
+    {
+     "w": "2",
+     "start": 38.66,
+     "end": 38.88
+    },
+    {
+     "w": "arrive",
+     "start": 38.88,
+     "end": 39.1
+    },
+    {
+     "w": "bientôt.",
+     "start": 39.1,
+     "end": 39.58
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 39.74,
+   "end": 45.74,
+   "slot_end": 45.896,
+   "text": "Maintenant ma théorie. Innocent Zero a abandonné Mash parce qu'il avait zéro magie. Pour lui, c'était un déchet, point.",
+   "words": [
+    {
+     "w": "Maintenant",
+     "start": 39.74,
+     "end": 39.94
+    },
+    {
+     "w": "ma",
+     "start": 39.94,
+     "end": 40.18
+    },
+    {
+     "w": "théorie.",
+     "start": 40.18,
+     "end": 40.52
+    },
+    {
+     "w": "Innocent",
+     "start": 41.0,
+     "end": 41.34
+    },
+    {
+     "w": "Zero",
+     "start": 41.34,
+     "end": 41.7
+    },
+    {
+     "w": "a",
+     "start": 41.7,
+     "end": 41.82
+    },
+    {
+     "w": "abandonné",
+     "start": 41.82,
+     "end": 42.2
+    },
+    {
+     "w": "Mash",
+     "start": 42.2,
+     "end": 42.34
+    },
+    {
+     "w": "parce",
+     "start": 42.34,
+     "end": 42.6
+    },
+    {
+     "w": "qu'il",
+     "start": 42.6,
+     "end": 42.76
+    },
+    {
+     "w": "avait",
+     "start": 42.76,
+     "end": 42.94
+    },
+    {
+     "w": "zéro",
+     "start": 42.94,
+     "end": 43.24
+    },
+    {
+     "w": "magie.",
+     "start": 43.24,
+     "end": 43.6
+    },
+    {
+     "w": "Pour",
+     "start": 44.18,
+     "end": 44.44
+    },
+    {
+     "w": "lui,",
+     "start": 44.44,
+     "end": 44.62
+    },
+    {
+     "w": "c'était",
+     "start": 44.7,
+     "end": 44.86
+    },
+    {
+     "w": "un",
+     "start": 44.86,
+     "end": 45.04
+    },
+    {
+     "w": "déchet,",
+     "start": 45.04,
+     "end": 45.34
+    },
+    {
+     "w": "point.",
+     "start": 45.58,
+     "end": 45.74
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 45.9,
+   "end": 50.42,
+   "slot_end": 50.542,
+   "text": "Mais alors pourquoi il s'intéresse à lui maintenant ? Un mec comme ça, il se déplace pas pour un fils raté.",
+   "words": [
+    {
+     "w": "Mais",
+     "start": 45.9,
+     "end": 46.02
+    },
+    {
+     "w": "alors",
+     "start": 46.02,
+     "end": 46.18
+    },
+    {
+     "w": "pourquoi",
+     "start": 46.18,
+     "end": 46.56
+    },
+    {
+     "w": "il",
+     "start": 46.56,
+     "end": 46.78
+    },
+    {
+     "w": "s'intéresse",
+     "start": 46.78,
+     "end": 47.16
+    },
+    {
+     "w": "à",
+     "start": 47.16,
+     "end": 47.32
+    },
+    {
+     "w": "lui",
+     "start": 47.32,
+     "end": 47.44
+    },
+    {
+     "w": "maintenant",
+     "start": 47.44,
+     "end": 47.74
+    },
+    {
+     "w": "?",
+     "start": 47.74,
+     "end": 48.14
+    },
+    {
+     "w": "Un",
+     "start": 48.38,
+     "end": 48.52
+    },
+    {
+     "w": "mec",
+     "start": 48.52,
+     "end": 48.64
+    },
+    {
+     "w": "comme",
+     "start": 48.64,
+     "end": 48.82
+    },
+    {
+     "w": "ça,",
+     "start": 48.82,
+     "end": 48.98
+    },
+    {
+     "w": "il",
+     "start": 49.04,
+     "end": 49.09
+    },
+    {
+     "w": "se",
+     "start": 49.06,
+     "end": 49.18
+    },
+    {
+     "w": "déplace",
+     "start": 49.18,
+     "end": 49.44
+    },
+    {
+     "w": "pas",
+     "start": 49.44,
+     "end": 49.66
+    },
+    {
+     "w": "pour",
+     "start": 49.66,
+     "end": 49.86
+    },
+    {
+     "w": "un",
+     "start": 49.86,
+     "end": 50.0
+    },
+    {
+     "w": "fils",
+     "start": 50.0,
+     "end": 50.08
+    },
+    {
+     "w": "raté.",
+     "start": 50.08,
+     "end": 50.42
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 50.54,
+   "end": 55.38,
+   "slot_end": 55.535,
+   "text": "Je pense que c'est justement parce qu'il est né sans magie que Mash l'intéresse. Ce qu'il veut, c'est son corps.",
+   "words": [
+    {
+     "w": "Je",
+     "start": 50.54,
+     "end": 50.64
+    },
+    {
+     "w": "pense",
+     "start": 50.64,
+     "end": 50.86
+    },
+    {
+     "w": "que",
+     "start": 50.86,
+     "end": 51.04
+    },
+    {
+     "w": "c'est",
+     "start": 51.04,
+     "end": 51.18
+    },
+    {
+     "w": "justement",
+     "start": 51.18,
+     "end": 51.56
+    },
+    {
+     "w": "parce",
+     "start": 51.56,
+     "end": 51.84
+    },
+    {
+     "w": "qu'il",
+     "start": 51.84,
+     "end": 52.02
+    },
+    {
+     "w": "est",
+     "start": 52.02,
+     "end": 52.12
+    },
+    {
+     "w": "né",
+     "start": 52.12,
+     "end": 52.22
+    },
+    {
+     "w": "sans",
+     "start": 52.22,
+     "end": 52.4
+    },
+    {
+     "w": "magie",
+     "start": 52.4,
+     "end": 52.7
+    },
+    {
+     "w": "que",
+     "start": 52.7,
+     "end": 52.86
+    },
+    {
+     "w": "Mash",
+     "start": 52.86,
+     "end": 53.04
+    },
+    {
+     "w": "l'intéresse.",
+     "start": 53.04,
+     "end": 53.58
+    },
+    {
+     "w": "Ce",
+     "start": 54.04,
+     "end": 54.38
+    },
+    {
+     "w": "qu'il",
+     "start": 54.38,
+     "end": 54.56
+    },
+    {
+     "w": "veut,",
+     "start": 54.56,
+     "end": 54.7
+    },
+    {
+     "w": "c'est",
+     "start": 54.78,
+     "end": 54.9
+    },
+    {
+     "w": "son",
+     "start": 54.9,
+     "end": 55.06
+    },
+    {
+     "w": "corps.",
+     "start": 55.06,
+     "end": 55.38
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 55.38,
+   "end": 61.9,
+   "slot_end": 62.019,
+   "text": "Et c'est là que ça dérape pour lui. Toute sa puissance repose sur la magie, et Mash, la magie, il l'écrase avec ses poings.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 55.38,
+     "end": 55.62
+    },
+    {
+     "w": "c'est",
+     "start": 55.62,
+     "end": 55.72
+    },
+    {
+     "w": "là",
+     "start": 55.72,
+     "end": 55.82
+    },
+    {
+     "w": "que",
+     "start": 55.82,
+     "end": 55.9
+    },
+    {
+     "w": "ça",
+     "start": 55.9,
+     "end": 55.96
+    },
+    {
+     "w": "dérape",
+     "start": 55.96,
+     "end": 56.28
+    },
+    {
+     "w": "pour",
+     "start": 56.28,
+     "end": 56.4
+    },
+    {
+     "w": "lui.",
+     "start": 56.4,
+     "end": 56.6
+    },
+    {
+     "w": "Toute",
+     "start": 57.18,
+     "end": 57.34
+    },
+    {
+     "w": "sa",
+     "start": 57.34,
+     "end": 57.5
+    },
+    {
+     "w": "puissance",
+     "start": 57.5,
+     "end": 57.86
+    },
+    {
+     "w": "repose",
+     "start": 57.86,
+     "end": 58.26
+    },
+    {
+     "w": "sur",
+     "start": 58.26,
+     "end": 58.42
+    },
+    {
+     "w": "la",
+     "start": 58.42,
+     "end": 58.54
+    },
+    {
+     "w": "magie,",
+     "start": 58.54,
+     "end": 59.04
+    },
+    {
+     "w": "et",
+     "start": 59.38,
+     "end": 59.46
+    },
+    {
+     "w": "Mash,",
+     "start": 59.46,
+     "end": 59.78
+    },
+    {
+     "w": "la",
+     "start": 60.26,
+     "end": 60.4
+    },
+    {
+     "w": "magie,",
+     "start": 60.4,
+     "end": 60.7
+    },
+    {
+     "w": "il",
+     "start": 60.8,
+     "end": 60.85
+    },
+    {
+     "w": "l'écrase",
+     "start": 60.84,
+     "end": 61.24
+    },
+    {
+     "w": "avec",
+     "start": 61.24,
+     "end": 61.44
+    },
+    {
+     "w": "ses",
+     "start": 61.44,
+     "end": 61.62
+    },
+    {
+     "w": "poings.",
+     "start": 61.62,
+     "end": 61.9
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 62.04,
+   "end": 66.94,
+   "slot_end": 67.093,
+   "text": "Ce qui contredit ma théorie, c'est que l'anime l'a jamais dit clairement. Peut-être qu'il veut juste l'effacer.",
+   "words": [
+    {
+     "w": "Ce",
+     "start": 62.04,
+     "end": 62.12
+    },
+    {
+     "w": "qui",
+     "start": 62.12,
+     "end": 62.26
+    },
+    {
+     "w": "contredit",
+     "start": 62.26,
+     "end": 62.74
+    },
+    {
+     "w": "ma",
+     "start": 62.74,
+     "end": 62.9
+    },
+    {
+     "w": "théorie,",
+     "start": 62.9,
+     "end": 63.26
+    },
+    {
+     "w": "c'est",
+     "start": 63.48,
+     "end": 63.6
+    },
+    {
+     "w": "que",
+     "start": 63.6,
+     "end": 63.72
+    },
+    {
+     "w": "l'anime",
+     "start": 63.72,
+     "end": 64.08
+    },
+    {
+     "w": "l'a",
+     "start": 64.08,
+     "end": 64.24
+    },
+    {
+     "w": "jamais",
+     "start": 64.24,
+     "end": 64.52
+    },
+    {
+     "w": "dit",
+     "start": 64.52,
+     "end": 64.74
+    },
+    {
+     "w": "clairement.",
+     "start": 64.74,
+     "end": 65.1
+    },
+    {
+     "w": "Peut-être",
+     "start": 65.52,
+     "end": 65.8
+    },
+    {
+     "w": "qu'il",
+     "start": 65.8,
+     "end": 65.92
+    },
+    {
+     "w": "veut",
+     "start": 65.92,
+     "end": 66.06
+    },
+    {
+     "w": "juste",
+     "start": 66.06,
+     "end": 66.44
+    },
+    {
+     "w": "l'effacer.",
+     "start": 66.44,
+     "end": 66.94
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 67.1,
+   "end": 73.82,
+   "slot_end": 73.92,
+   "text": "Mais moi j'y crois force. L'arc de l'examen final arrive en janvier 2027, et là on saura enfin si j'avais raison.",
+   "words": [
+    {
+     "w": "Mais",
+     "start": 67.1,
+     "end": 67.2
+    },
+    {
+     "w": "moi",
+     "start": 67.2,
+     "end": 67.34
+    },
+    {
+     "w": "j'y",
+     "start": 67.34,
+     "end": 67.46
+    },
+    {
+     "w": "crois",
+     "start": 67.46,
+     "end": 67.56
+    },
+    {
+     "w": "force.",
+     "start": 67.56,
+     "end": 67.88
+    },
+    {
+     "w": "L'arc",
+     "start": 68.64,
+     "end": 68.88
+    },
+    {
+     "w": "de",
+     "start": 68.88,
+     "end": 69.02
+    },
+    {
+     "w": "l'examen",
+     "start": 69.02,
+     "end": 69.28
+    },
+    {
+     "w": "final",
+     "start": 69.28,
+     "end": 69.56
+    },
+    {
+     "w": "arrive",
+     "start": 69.56,
+     "end": 69.84
+    },
+    {
+     "w": "en",
+     "start": 69.84,
+     "end": 70.04
+    },
+    {
+     "w": "janvier",
+     "start": 70.04,
+     "end": 70.48
+    },
+    {
+     "w": "2027,",
+     "start": 70.48,
+     "end": 71.46
+    },
+    {
+     "w": "et",
+     "start": 72.3,
+     "end": 72.4
+    },
+    {
+     "w": "là",
+     "start": 72.4,
+     "end": 72.5
+    },
+    {
+     "w": "on",
+     "start": 72.5,
+     "end": 72.6
+    },
+    {
+     "w": "saura",
+     "start": 72.6,
+     "end": 72.88
+    },
+    {
+     "w": "enfin",
+     "start": 72.88,
+     "end": 73.16
+    },
+    {
+     "w": "si",
+     "start": 73.16,
+     "end": 73.38
+    },
+    {
+     "w": "j'avais",
+     "start": 73.38,
+     "end": 73.52
+    },
+    {
+     "w": "raison.",
+     "start": 73.52,
+     "end": 73.82
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 73.94,
+   "end": 77.79,
+   "slot_end": 77.77,
+   "text": "Alors dis-moi en com', Innocent Zero veut tuer Mash, ou il a besoin de lui pour survivre ?",
+   "words": [
+    {
+     "w": "Alors",
+     "start": 73.94,
+     "end": 74.04
+    },
+    {
+     "w": "dis-moi",
+     "start": 74.04,
+     "end": 74.24
+    },
+    {
+     "w": "en",
+     "start": 74.24,
+     "end": 74.44
+    },
+    {
+     "w": "com',",
+     "start": 74.44,
+     "end": 74.64
+    },
+    {
+     "w": "Innocent",
+     "start": 74.64,
+     "end": 74.84
+    },
+    {
+     "w": "Zero",
+     "start": 74.84,
+     "end": 75.04
+    },
+    {
+     "w": "veut",
+     "start": 75.04,
+     "end": 75.26
+    },
+    {
+     "w": "tuer",
+     "start": 75.26,
+     "end": 75.56
+    },
+    {
+     "w": "Mash,",
+     "start": 75.56,
+     "end": 75.9
+    },
+    {
+     "w": "ou",
+     "start": 75.9,
+     "end": 76.14
+    },
+    {
+     "w": "il",
+     "start": 76.14,
+     "end": 76.24
+    },
+    {
+     "w": "a",
+     "start": 76.24,
+     "end": 76.3
+    },
+    {
+     "w": "besoin",
+     "start": 76.3,
+     "end": 76.52
+    },
+    {
+     "w": "de",
+     "start": 76.52,
+     "end": 76.72
+    },
+    {
+     "w": "lui",
+     "start": 76.72,
+     "end": 76.9
+    },
+    {
+     "w": "pour",
+     "start": 76.9,
+     "end": 77.18
+    },
+    {
+     "w": "survivre",
+     "start": 77.18,
+     "end": 77.74
+    },
+    {
+     "w": "?",
+     "start": 77.74,
+     "end": 77.79
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "start": 77.78,
+   "end": 79.9,
+   "slot_end": 80.677,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 77.78,
+     "end": 78.1
+    },
+    {
+     "w": "Asura.",
+     "start": 78.1,
+     "end": 78.6
+    },
+    {
+     "w": "On",
+     "start": 78.76,
+     "end": 78.82
+    },
+    {
+     "w": "se",
+     "start": 78.82,
+     "end": 78.94
+    },
+    {
+     "w": "capte",
+     "start": 78.94,
+     "end": 79.16
+    },
+    {
+     "w": "au",
+     "start": 79.16,
+     "end": 79.26
+    },
+    {
+     "w": "prochain",
+     "start": 79.26,
+     "end": 79.46
+    },
+    {
+     "w": "épisode.",
+     "start": 79.46,
+     "end": 79.9
+    }
+   ]
+  }
+ ],
+ "aligned": 0.994
+}
