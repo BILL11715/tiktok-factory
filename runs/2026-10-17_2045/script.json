@@ -1,0 +1,29 @@
+{
+  "title": "Théorie Mashle : Innocent Zero ne veut pas tuer Mash, il a besoin de lui",
+  "format": "theorie",
+  "tone": "conteur",
+  "music": "mystere",
+  "animes": ["MASHLE: Sanma Taisou Shinkakusha Saishuu Shiken-hen"],
+  "cover": {"text": "Le méchant a besoin de Mash", "highlight": ["besoin"], "emoji": "🤯", "sub": "théorie saison 3"},
+  "hook_text": "Le grand méchant de Mashle veut pas tuer Mash, il a besoin de lui",
+  "spoiler": false,
+  "segments": [
+    {"text": "Le grand méchant de Mashle veut pas tuer Mash, il a besoin de lui.", "sfx": true, "emphasis": ["besoin"]},
+    {"text": "[whispering] Et je pense que c'est exactement ce qui va le perdre, reste jusqu'au bout, j'te montre pourquoi.", "emphasis": ["perdre"]},
+    {"text": "Petit rappel pour ceux qui ont lâché. Dans ce monde, sans magie t'es rien, genre on te considère même pas comme un humain.", "shots": [{"kind": "wide"}], "emphasis": ["sans magie"]},
+    {"text": "Mash est né sans une seule goutte de magie. C'est Regro, un vieux monsieur, qui l'a trouvé bébé dans la forêt et qui l'a élevé.", "emphasis": ["Regro"]},
+    {"text": "Alors Mash compense avec des muscles complètement absurdes. Il pète des sorts à mains nues, et entre deux combats il mange des choux à la crème.", "emphasis": ["muscles"]},
+    {"text": "[surprised] Sauf que la saison 2 lâche une bombe. Domina, le mec ultra fort qu'il affronte à l'examen, c'est son frère.", "sfx": true, "grade": "bw", "emphasis": ["frère"]},
+    {"text": "Et leur père à tous les deux, c'est Innocent Zero, le mage noir que tout le monde redoute.", "grade": "bw", "emphasis": ["Innocent Zero"]},
+    {"text": "Si tu veux que je décortique l'arc final avant sa sortie, abonne-toi, la partie 2 arrive bientôt.", "cta": true},
+    {"text": "Maintenant ma théorie. Innocent Zero a abandonné Mash parce qu'il avait zéro magie. Pour lui, c'était un déchet, point.", "emphasis": ["déchet"]},
+    {"text": "Mais alors pourquoi il s'intéresse à lui maintenant ? Un mec comme ça, il se déplace pas pour un fils raté.", "emphasis": ["pourquoi"]},
+    {"text": "[whispering] Je pense que c'est justement parce qu'il est né sans magie que Mash l'intéresse. Ce qu'il veut, c'est son corps.", "sfx": true, "stamp": "SON CORPS", "emphasis": ["corps"]},
+    {"text": "Et c'est là que ça dérape pour lui. Toute sa puissance repose sur la magie, et Mash, la magie, il l'écrase avec ses poings.", "emphasis": ["poings"]},
+    {"text": "Ce qui contredit ma théorie, c'est que l'anime l'a jamais dit clairement. Peut-être qu'il veut juste l'effacer.", "emphasis": ["contredit"]},
+    {"text": "[excited] Mais moi j'y crois force. L'arc de l'examen final arrive en janvier 2027, et là on saura enfin si j'avais raison.", "emphasis": ["janvier 2027"]},
+    {"text": "Alors dis-moi en com', Innocent Zero veut tuer Mash, ou il a besoin de lui pour survivre ?", "emphasis": ["com'"]}
+  ],
+  "caption": "Innocent Zero cache un truc depuis le début 👀 tu penses qu'il veut tuer Mash ou l'utiliser ?",
+  "hashtags": ["#anime", "#manga", "#animefr", "#otakufr", "#mashle", "#theorie"]
+}

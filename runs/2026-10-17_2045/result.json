@@ -1,0 +1,21 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-17_2045/video.mp4",
+ "duration": 80.677,
+ "shots": 65,
+ "sources": [
+  "https://anilist.co/anime/177704",
+  "https://kitsu.io/anime/mashle-season-3"
+ ],
+ "music": {
+  "file": "mystere.mp3",
+  "bpm": 152.0,
+  "offset": 24.322999999999993
+ },
+ "sfx": 20,
+ "engine": "remotion (OpenMontage)",
+ "voice_engine": "fish",
+ "repo_path": "videos/2026/10/2026-10-17_2045.mp4",
+ "raw_url": "https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/videos/2026/10/2026-10-17_2045.mp4",
+ "lint": [],
+ "render_seconds": 1113.1
+}
