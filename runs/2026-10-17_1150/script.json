@@ -1,0 +1,121 @@
+{
+ "title": "Reco : il a fini tous les jeux pourris, le jeu parfait va le regretter",
+ "format": "reco",
+ "tone": "pote",
+ "music": "pote",
+ "animes": [
+  "Shangri-La Frontier Season 3"
+ ],
+ "cover": {
+  "text": "Le gamer qui casse le jeu",
+  "highlight": [
+   "casse"
+  ],
+  "emoji": "🎮",
+  "sub": "ça revient en janvier"
+ },
+ "hook_text": "Ce mec a poncé tous les jeux pourris, et le jeu parfait va le regretter",
+ "spoiler": false,
+ "segments": [
+  {
+   "text": "Ce mec a poncé tous les jeux pourris, et le jeu parfait va le regretter.",
+   "sfx": true,
+   "emphasis": [
+    "pourris"
+   ]
+  },
+  {
+   "text": "[whispering] Reste jusqu'au bout, j'te donne le nom et la date, et ça arrive vite."
+  },
+  {
+   "text": "Le gars s'appelle Sunraku. Son kiff dans la vie, c'est les kusoge, les jeux tellement buggés que personne les finit.",
+   "emphasis": [
+    "kusoge"
+   ]
+  },
+  {
+   "text": "Genre des hitboxes cassées, des boss injouables, des contrôles qui répondent une fois sur deux. Et lui, il adore ça.",
+   "shots": [
+    {
+     "kind": "wide"
+    }
+   ]
+  },
+  {
+   "text": "Sauf qu'un jour, il teste enfin un vrai bon jeu en réalité virtuelle, immense, que tout le monde adore.",
+   "shots": [
+    {
+     "kind": "wide"
+    }
+   ]
+  },
+  {
+   "text": "[excited] Et c'est là que ça devient drôle. Toutes ces années à souffrir sur des jeux nuls lui ont donné des réflexes de malade.",
+   "sfx": true,
+   "emphasis": [
+    "réflexes"
+   ]
+  },
+  {
+   "text": "[laughing] Il débarque torse nu avec un masque d'oiseau sur la tête, et il roule sur des trucs où les autres joueurs galèrent.",
+   "emphasis": [
+    "masque"
+   ]
+  },
+  {
+   "text": "Si toi aussi t'as déjà rage quit sur un jeu pourri, abonne-toi, j'te sors une reco comme ça tous les jours.",
+   "cta": true
+  },
+  {
+   "text": "Dès le début, il tombe sur Lycaon, un loup géant, un monstre unique, qui lui colle une malédiction. N'importe qui aurait recommencé un perso.",
+   "grade": "bw",
+   "sfx": true,
+   "emphasis": [
+    "malédiction"
+   ]
+  },
+  {
+   "text": "Lui ? Il garde la malédiction comme une fierté. Et il rencontre Emul, une petite lapine qui l'emmène là où personne a mis les pieds.",
+   "emphasis": [
+    "Emul"
+   ]
+  },
+  {
+   "text": "Mais attends, le meilleur c'est son équipe. Pencilgon, une joueuse qui manipule tout le monde avec un grand sourire.",
+   "emphasis": [
+    "manipule"
+   ]
+  },
+  {
+   "text": "Et Oikatzo, un joueur pro qui vit pour le combat. Ces trois-là ensemble, c'est pas une guilde frr, c'est une catastrophe naturelle.",
+   "stamp": "CATASTROPHE"
+  },
+  {
+   "text": "[excited] C'est l'anime de jeu vidéo le plus fun que j'ai vu. Les combats de boss, ça bouge dans tous les sens.",
+   "emphasis": [
+    "fun"
+   ]
+  },
+  {
+   "text": "Moi j'le trouve grave sous-coté en France, et c'est le moment de s'y mettre, parce que la saison 3 arrive le 10 janvier.",
+   "stamp": "SOUS-COTÉ",
+   "emphasis": [
+    "10 janvier"
+   ]
+  },
+  {
+   "text": "Tu rattrapes les deux premières saisons d'ici là, t'es large. C'est Shangri-La Frontier. Dis-moi en com' si tu l'as déjà commencé."
+  }
+ ],
+ "reveal_text": "Shangri-La Frontier",
+ "reveal_segments": 2,
+ "caption": "Il roule sur le jeu parfait avec un masque d'oiseau 🐦 t'as déjà commencé ?",
+ "hashtags": [
+  "#anime",
+  "#manga",
+  "#animefr",
+  "#otakufr",
+  "#shangrilafrontier",
+  "#recommandationanime"
+ ]
+}

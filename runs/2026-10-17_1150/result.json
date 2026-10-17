@@ -1,0 +1,21 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-17_1150/video.mp4",
+ "duration": 77.02,
+ "shots": 60,
+ "sources": [
+  "https://anilist.co/anime/189323",
+  "https://kitsu.io/anime/shangri-la-frontier-3rd-season"
+ ],
+ "music": {
+  "file": "pote.mp3",
+  "bpm": 184.6,
+  "offset": 47.39
+ },
+ "sfx": 16,
+ "engine": "remotion (OpenMontage)",
+ "voice_engine": "fish",
+ "repo_path": "videos/2026/10/2026-10-17_1150.mp4",
+ "raw_url": "https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/videos/2026/10/2026-10-17_1150.mp4",
+ "lint": [],
+ "render_seconds": 1781.7
+}
