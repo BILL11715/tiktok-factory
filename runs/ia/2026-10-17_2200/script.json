@@ -1,0 +1,203 @@
+{
+ "title": "Un site lent, un argument de prospection",
+ "theme": "seo",
+ "pillar": "seo-radius",
+ "format": "methode",
+ "music": "pote",
+ "cover": {
+  "text": "Ce site lent cache ton client",
+  "highlight": [
+   "lent"
+  ],
+  "emoji": "🐢",
+  "sub": "le test gratuit"
+ },
+ "hook_text": "Un site qui rame sur téléphone ? C'est un client qui t'attend.",
+ "segments": [
+  {
+   "text": "Un site qui rame sur téléphone ? C'est un client qui t'attend.",
+   "emphasis": [
+    "rame"
+   ]
+  },
+  {
+   "text": "Quand on cherche un plombier en urgence, on est sur son téléphone. Si la page met du temps, on revient en arrière.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Le réflexe",
+    "text": "On cherche sur mobile",
+    "highlight": [
+     "mobile"
+    ]
+   }
+  },
+  {
+   "text": "Et on appelle le concurrent juste en dessous. Le patron ne le saura jamais.",
+   "visual": {
+    "kind": "search",
+    "query": "plombier Rennes",
+    "results": [
+     {
+      "name": "Plomberie Martin",
+      "note": "site lent",
+      "rating": "4,5"
+     },
+     {
+      "name": "Eau Services",
+      "note": "site rapide",
+      "rating": "4,1"
+     }
+    ],
+    "pick": 0
+   }
+  },
+  {
+   "text": "Pour mesurer ça, Google a un outil gratuit. Tu colles l'adresse du site, et tu as le résultat en quelques secondes.",
+   "visual": {
+    "kind": "card",
+    "emoji": "⚡",
+    "owner": "Google",
+    "name": "PageSpeed Insights",
+    "desc": "Mesure la vitesse d'une page, sur mobile et ordinateur.",
+    "tags": [
+     "gratuit",
+     "mobile"
+    ],
+    "url": "pagespeed.web.dev"
+   }
+  },
+  {
+   "text": "Regarde un seul chiffre : le temps d'affichage du plus gros élément de la page. Google le juge bon sous deux secondes et demie.",
+   "visual": {
+    "kind": "stat",
+    "value": 2.5,
+    "suffix": " s",
+    "label": "affichage jugé bon par Google",
+    "source": "web.dev"
+   }
+  },
+  {
+   "text": "Au-delà de quatre secondes, Google parle de mauvais résultat. Et tu n'as besoin d'aucune compétence technique pour le voir.",
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "Bon",
+     "items": [
+      "2,5 s ou moins",
+      "Page qui s'affiche vite"
+     ]
+    },
+    "right": {
+     "title": "Mauvais",
+     "items": [
+      "Plus de 4 s",
+      "Visiteur qui repart"
+     ]
+    }
+   }
+  },
+  {
+   "text": "Pour trouver les entreprises à tester, j'utilise SEO Radius. Ensuite, tu tapes un métier et une ville, tu tries au score estimé, et tu réserves.",
+   "visual": {
+    "kind": "list",
+    "title": "Dans SEO Radius",
+    "items": [
+     "Métier + ville",
+     "Tri au score estimé",
+     "Réserver le prospect"
+    ],
+    "at": [
+     "métier",
+     "score",
+     "réserves"
+    ]
+   }
+  },
+  {
+   "text": "Réserver, ça veut dire que le prospect disparaît des listes des autres, de sept à trente jours selon le plan.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Exclusif",
+    "text": "Personne d'autre ne le voit",
+    "highlight": [
+     "Personne"
+    ]
+   }
+  },
+  {
+   "text": "Ensuite, tu passes chaque site dans l'outil de Google, en mode mobile. Tu gardes ceux qui sont dans le rouge.",
+   "visual": {
+    "kind": "stat",
+    "value": 6,
+    "suffix": " s",
+    "label": "affichage sur mobile (exemple)",
+    "source": "exemple"
+   },
+   "sfx": true
+  },
+  {
+   "text": "Et là, tu tiens un argument que le gérant comprend tout de suite. Pas besoin de parler technique.",
+   "stamp": "zéro jargon"
+  },
+  {
+   "text": "Le message : Bonjour, j'ai testé votre site sur téléphone. Il met six secondes à s'afficher. Je vous montre ce que voit un client ?",
+   "visual": {
+    "kind": "chat",
+    "name": "Message au gérant",
+    "user": "Bonjour, j'ai testé votre site sur téléphone : 6 secondes pour s'afficher.",
+    "assistant": "Je vous montre ce que voit un client ?"
+   }
+  },
+  {
+   "text": "Encore mieux : fais le test devant lui, sur son propre téléphone. Il voit le problème avec les yeux d'un client.",
+   "visual": {
+    "kind": "title",
+    "kicker": "L'astuce",
+    "text": "Teste devant lui",
+    "highlight": [
+     "devant"
+    ]
+   },
+   "sfx": true
+  },
+  {
+   "text": "Attention, ne promets ni un site parfait ni la première place. La vitesse aide, mais c'est un critère parmi d'autres.",
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "À éviter",
+     "items": [
+      "Promettre la 1re place",
+      "Parler technique"
+     ]
+    },
+    "right": {
+     "title": "À faire",
+     "items": [
+      "Montrer le chiffre",
+      "Proposer d'en parler"
+     ]
+    }
+   }
+  },
+  {
+   "text": "Ce soir, teste le site d'un artisan près de chez toi. Il s'affiche en combien de secondes ? Dis-le moi en commentaire.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Ton défi",
+    "text": "Teste un site ce soir",
+    "highlight": [
+     "Teste"
+    ]
+   }
+  }
+ ],
+ "caption": "Un site lent sur téléphone, c'est un argument de prospection tout prêt 🐢 Test gratuit : pagespeed.web.dev, et SEO Radius en lien en bio",
+ "hashtags": [
+  "#seo",
+  "#seolocal",
+  "#freelance",
+  "#prospection",
+  "#siteweb"
+ ]
+}

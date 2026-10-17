@@ -1,0 +1,43 @@
+{
+ "stamp": "2026-10-17_2200",
+ "duration": 80.9,
+ "lead": 0.6,
+ "cps": 24.9,
+ "accuracy": 0.943,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "demie",
+   "entendu": "demi"
+  },
+  {
+   "dit": "s e o radiusse",
+   "entendu": "seo radius"
+  },
+  {
+   "dit": "reserver",
+   "entendu": "l aserve"
+  },
+  {
+   "dit": "l outil de",
+   "entendu": "le titre"
+  },
+  {
+   "dit": "un",
+   "entendu": "l"
+  },
+  {
+   "dit": "fais",
+   "entendu": "fait"
+  },
+  {
+   "dit": "il voit le probleme avec",
+   "entendu": "je vous fais un bleu d un bec"
+  },
+  {
+   "dit": "promets",
+   "entendu": "promene"
+  }
+ ],
+ "alerts": []
+}
