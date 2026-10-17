@@ -1,0 +1,30 @@
+{
+  "title": "Top 5 des persos les plus forts de Dandadan avant la saison 3",
+  "format": "top",
+  "tone": "hype",
+  "music": "hype",
+  "animes": ["Dandadan 3rd Season"],
+  "cover": {"text": "Le vrai monstre de Dandadan", "highlight": ["monstre"], "emoji": "👁️", "sub": "avant la saison 3"},
+  "hook_text": "Le numéro 1 de ce top, c'est un esprit qu'un village entier a voulu enfermer",
+  "spoiler": false,
+  "segments": [
+    {"text": "Le numéro 1 de ce top, c'est un esprit qu'un village entier a voulu enfermer.", "sfx": true, "emphasis": ["enfermer"]},
+    {"text": "[whispering] Reste jusqu'au bout, parce que le mec qu'il possède, tu l'as sûrement sous-estimé toi aussi."},
+    {"text": "Dandadan, c'est Momo qui croit aux fantômes, et Okarun qui croit aux aliens. Ils se lancent un défi débile, et en fait les deux avaient raison.", "emphasis": ["raison"], "shots": [{"kind": "wide"}]},
+    {"text": "Numéro 5, Aira. Elle se prend pour l'élue, honnêtement c'est la meuf la plus gênante de tout l'anime.", "overlay": "#5", "emphasis": ["l'élue"]},
+    {"text": "Sauf qu'elle porte le pouvoir d'Acrobatic Silky. Une mère qui a cherché sa fille jusqu'à sa mort, et frr cet épisode m'a détruit.", "grade": "bw", "emphasis": ["Silky"]},
+    {"text": "[excited] Numéro 4, Turbo Granny. Une mamie yokai qui court plus vite qu'une voiture dans un tunnel, en pleine nuit.", "overlay": "#4", "emphasis": ["Turbo Granny"]},
+    {"text": "[laughing] Et elle a volé à Okarun ses bijoux de famille. Oui oui, c'est littéralement le point de départ de tout l'anime.", "stamp": "VALIDÉ"},
+    {"text": "Si tu kiffes ce genre de classement, abonne-toi, la saison 3 de Dandadan est annoncée et j'vais tout couvrir ici.", "cta": true},
+    {"text": "Numéro 3, Okarun. Quand il emprunte le pouvoir de Turbo Granny, ses cheveux deviennent blancs et il passe en mode vitesse pure.", "overlay": "#3", "sfx": true, "emphasis": ["vitesse"]},
+    {"text": "Le gamin timide qui parlait à personne au lycée devient le mec le plus rapide du casting. C'est chaud quand même."},
+    {"text": "[excited] Numéro 2, Momo. Ses pouvoirs psychiques se réveillent le soir où des aliens essaient de l'enlever.", "overlay": "#2", "emphasis": ["psychiques"]},
+    {"text": "Avec ses mains invisibles, elle attrape, elle soulève, elle broie. Franchement elle mérite presque la première place, mais attends."},
+    {"text": "[whispering] Numéro 1, Jiji. Le pote d'enfance de Momo, le grand gars souriant, toujours relax, celui que personne ne calcule.", "overlay": "#1", "emphasis": ["Jiji"]},
+    {"text": "Sauf que dans son corps, y'a Evil Eye. Un gamin que des villageois ont sacrifié, et sa rage n'est jamais retombée.", "grade": "bw", "sfx": true, "emphasis": ["Evil Eye"]},
+    {"text": "[shouting] Quand Evil Eye prend le contrôle, il veut juste jouer. Et jouer pour lui, ça veut dire tout raser autour de lui.", "stamp": "CHEATÉ", "sfx": true, "emphasis": ["raser"]},
+    {"text": "Mon avis, Evil Eye c'est le meilleur perso de Dandadan, point. Et toi, c'est qui ton numéro 1 ? Dis-le moi en com'."}
+  ],
+  "caption": "Le numéro 1 fait peur même aux yokai 👁️ c'est qui ton top 1 de Dandadan ?",
+  "hashtags": ["#anime", "#manga", "#animefr", "#otakufr", "#dandadan", "#topanime"]
+}
