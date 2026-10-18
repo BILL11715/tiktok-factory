@@ -1,0 +1,133 @@
+{
+ "title": "Top 5 des membres les plus dangereux de Shadow Garden",
+ "format": "top",
+ "tone": "hype",
+ "music": "hype2",
+ "animes": [
+  "Kage no Jitsuryokusha ni Naritakute!: Zankyou-hen"
+ ],
+ "cover": {
+  "text": "La plus dangereuse de Shadow Garden",
+  "highlight": [
+   "dangereuse"
+  ],
+  "emoji": "😈"
+ },
+ "hook_text": "Le membre le plus dangereux de Shadow Garden, c'est pas Shadow",
+ "spoiler": false,
+ "segments": [
+  {
+   "text": "Le membre le plus dangereux de Shadow Garden, c'est pas Shadow.",
+   "sfx": true,
+   "emphasis": [
+    "dangereux"
+   ]
+  },
+  {
+   "text": "[whispering] Reste jusqu'au bout, parce que le numéro 1 a construit un empire entier sur une blague.",
+   "emphasis": [
+    "empire"
+   ]
+  },
+  {
+   "text": "Petit rappel. Cid se réincarne dans un monde de magie, et son seul kiff, c'est de jouer au boss caché qui tire les ficelles.",
+   "shots": [
+    {
+     "kind": "wide"
+    }
+   ],
+   "emphasis": [
+    "boss caché"
+   ]
+  },
+  {
+   "text": "Alors il recrute des filles et invente un faux culte. Sauf qu'elles prennent tout au sérieux, et c'est elles qui font peur.",
+   "emphasis": [
+    "sérieux"
+   ]
+  },
+  {
+   "text": "Numéro 5, Gamma. En combat, elle se prend les pieds dans sa propre cape, j'te jure, c'est la plus nulle du groupe.",
+   "overlay": "#5",
+   "emphasis": [
+    "Gamma"
+   ]
+  },
+  {
+   "text": "[laughing] Mais elle a monté Mitsugoshi avec les idées que Cid lui balançait. Elle tient l'argent du royaume, ça c'est une arme.",
+   "emphasis": [
+    "l'argent"
+   ]
+  },
+  {
+   "text": "Numéro 4, Zeta. La fille chat, l'espionne qui s'infiltre partout. Ton secret, elle le connaît déjà.",
+   "overlay": "#4",
+   "emphasis": [
+    "espionne"
+   ]
+  },
+  {
+   "text": "Numéro 3, Epsilon. Le contrôle de mana le plus précis du groupe, genre chirurgical. Bon, elle triche aussi sur sa silhouette avec son slime.",
+   "overlay": "#3",
+   "emphasis": [
+    "précis"
+   ]
+  },
+  {
+   "text": "Si tu veux la partie 2 avec Beta et les autres, abonne-toi, j'en sors tous les jours et la suite de l'anime est déjà annoncée.",
+   "cta": true
+  },
+  {
+   "text": "[excited] Numéro 2, Delta. Zéro cerveau, cent pour cent instinct. Elle appelle Cid boss et fonce sur tout ce qui bouge.",
+   "overlay": "#2",
+   "sfx": true,
+   "emphasis": [
+    "instinct"
+   ]
+  },
+  {
+   "text": "[whispering] Et là, on arrive à celle qui me fait vraiment flipper.",
+   "emphasis": [
+    "flipper"
+   ]
+  },
+  {
+   "text": "Numéro 1, Alpha. Au départ, c'est une elfe rongée par une malédiction, condamnée. Cid la soigne, mais pour lui c'est juste un test de magie.",
+   "overlay": "#1",
+   "grade": "bw",
+   "sfx": true,
+   "emphasis": [
+    "Alpha"
+   ]
+  },
+  {
+   "text": "Elle lui jure fidélité. Et pendant qu'il s'amuse avec son culte imaginaire, elle bâtit un vrai réseau, partout.",
+   "stamp": "EMPIRE",
+   "emphasis": [
+    "vrai réseau"
+   ]
+  },
+  {
+   "text": "[surprised] Le pire, c'est que le culte de Diablos existe vraiment. Alpha le traque, pendant que Cid croit encore faire du jeu de rôle.",
+   "sfx": true,
+   "emphasis": [
+    "Diablos"
+   ]
+  },
+  {
+   "text": "Pour moi c'est clair. Shadow a la puissance, mais Alpha a tout le reste. Et toi, c'est quoi ton top 1 ? Dis-moi en com'.",
+   "emphasis": [
+    "top 1"
+   ]
+  }
+ ],
+ "caption": "Shadow a la puissance, mais elle a tout le reste 😈 c'est quoi ton top 1 ?",
+ "hashtags": [
+  "#anime",
+  "#manga",
+  "#animefr",
+  "#otakufr",
+  "#eminenceinshadow",
+  "#topanime"
+ ]
+}
