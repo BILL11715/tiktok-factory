@@ -28,3 +28,4 @@ runs/ia/*/*.png
 runs/ia/*/timeline.json
 runs/ia/*/voice.json
 runs/ia/*/montage.json
+runs/*_test_*/
