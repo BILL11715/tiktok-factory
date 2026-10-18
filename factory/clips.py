@@ -18,6 +18,8 @@ import urllib.parse
 import urllib.request
 from pathlib import Path
 
+from . import scene
+
 UA = {"User-Agent": "tiktok-factory/1.0 (github.com/BILL11715/tiktok-factory)"}
 MAX_DL = 90 * 1024 * 1024  # 90 Mo par vidéo source
 MIN_SHOT, MAX_SHOT = 0.7, 6.0
@@ -106,20 +108,40 @@ def base_title(name: str) -> str:
 
 
 # ------------------------------------------------------------------ Sakugabooru
-def sakuga_videos(name: str, limit: int = 14) -> list[dict]:
+def sakuga_videos(name: str, limit: int = 24) -> list[dict]:
+    """Extraits d'animation notables, d'abord les combats et effets (vraies scènes d'action),
+    puis le reste des meilleurs extraits de l'anime."""
     base = "https://www.sakugabooru.com"
     tags = _get_json(f"{base}/tag.json?name={urllib.parse.quote(re.sub(chr(32), chr(95), name.lower()))}&type=3&order=count&limit=5")
     if not tags:
         return []
     tag = tags[0]["name"]
-    posts = _get_json(f"{base}/post.json?tags={urllib.parse.quote(tag)}+order:score&limit=40")
-    out = []
-    for p in posts:
-        u = p.get("file_url", "")
-        if u.endswith((".mp4", ".webm")) and p.get("rating", "s") == "s" and (p.get("file_size") or 0) < 40e6:
-            out.append({"url": u, "label": f"sakuga {p.get('id')}", "source": "Sakugabooru", "nc": True})
-        if len(out) >= limit:
-            break
+    # tag parent « _series » : toutes les saisons (jujutsu_kaisen_series 1509 extraits contre 281)
+    base_tag = re.sub(r"_(season|part|\d).*$", "", tag)
+    try:
+        ser = _get_json(f"{base}/tag.json?name={urllib.parse.quote(base_tag + '_series')}&limit=1")
+        if ser and ser[0]["name"] == base_tag + "_series" and ser[0].get("count", 0) > tags[0].get("count", 0):
+            tag = ser[0]["name"]
+    except Exception:
+        pass
+    excl = "+-production_materials+-genga+-storyboard+-layout+-western"
+    out, seen = [], set()
+    for extra in ("fighting+~impact_frames+~effects", "fighting", "effects", ""):
+        q = urllib.parse.quote(tag) + (f"+{extra}" if extra else "") + excl + "+order:score"
+        try:
+            posts = _get_json(f"{base}/post.json?tags={q}&limit=60")
+        except Exception:
+            continue
+        for p in posts:
+            u = p.get("file_url", "")
+            if u in seen or not u.endswith((".mp4", ".webm")) or p.get("rating", "s") != "s" \
+                    or (p.get("file_size") or 0) >= 40e6:
+                continue
+            seen.add(u)
+            out.append({"url": u, "label": f"sakuga {p.get('id')}", "source": "Sakugabooru", "nc": True,
+                        "tags": p.get("tags", "")})
+            if len(out) >= limit:
+                return out
     return out
 
 
@@ -144,7 +166,8 @@ def _luma(path: Path, t: float) -> float:
     return sum(o) / max(1, len(o))
 
 
-def split(src: Path, out_dir: Path, tag: str, skip_head: float, skip_tail: float, max_shots: int) -> list[dict]:
+def split(src: Path, out_dir: Path, tag: str, skip_head: float, skip_tail: float, max_shots: int,
+          see: bool = False) -> list[dict]:
     d = _dur(src)
     cuts = [0.0] + _scenes(src) + [d]
     shots = []
@@ -167,13 +190,19 @@ def split(src: Path, out_dir: Path, tag: str, skip_head: float, skip_tail: float
                             "-filter_complex", FRAME_9x16,
                             "-an", "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", str(out)])
         if r.returncode == 0 and out.exists():
-            res.append({"path": str(out), "dur": round(b - a, 3), "tag": tag})
+            item = {"path": str(out), "dur": round(b - a, 3), "tag": tag}
+            if see:  # ce que montre l'extrait (pour le choisir au bon moment)
+                try:
+                    item["emb"] = scene.embed_frames(src, [a + (b - a) * 0.3, a + (b - a) * 0.75])
+                except Exception as exc:
+                    print(f"[clips] analyse d'image impossible ({exc})")
+            res.append(item)
     return res
 
 
 # Cadrage 9:16 sans sur-zoom : l'extrait 16:9 garde ~2/3 de sa largeur (persos entiers),
 # centré sur un fond flou et assombri du même plan (style des gros comptes anime).
-FG_W = 1600
+FG_W = 1420
 FRAME_9x16 = (
     "[0:v]split[a][b];"
     "[a]scale=270:480:force_original_aspect_ratio=increase,crop=270:480,boxblur=12:2,"
@@ -190,12 +219,21 @@ def collect(animes: list[str], work: Path, index: dict | None = None, per_anime:
     raw = work / "clips_src"
     raw.mkdir(exist_ok=True)
     result: dict = {}
+    see = scene.available()
     for ai, anime in enumerate(animes):
         meta = ((index or {}).get(anime) or {}).get("meta") or {}
         anilist_id = meta.get("anilist_id")
         titles = meta.get("titles") or {}
-        names = [anime] + [n for n in (titles.get("en_jp"), titles.get("en"), meta.get("title"))
-                           if n and _norm(n) != _norm(anime)]
+        search = anime
+        if meta.get("media") in ("manhwa", "manga", "webtoon"):
+            # œuvre papier : extraits de son adaptation animée, sinon images seulement
+            if not meta.get("adaptation"):
+                print(f"[clips] {anime} : pas d'adaptation animée, montage en images")
+                result[anime] = []
+                continue
+            search = meta["adaptation"]
+        names = [search] + [n for n in (titles.get("en_jp"), titles.get("en"), meta.get("title"))
+                            if n and _norm(n) != _norm(search) and _norm(n) != _norm(anime)]
         names = list(dict.fromkeys(names))
         bases = list(dict.fromkeys(b for b in (base_title(n) for n in names) if len(b) >= 5))
         sources: list[dict] = []
@@ -233,7 +271,7 @@ def collect(animes: list[str], work: Path, index: dict | None = None, per_anime:
                 _add(animethemes_videos(b, None, limit=5, franchise=True))
             except Exception as exc:
                 print(f"[clips] AnimeThemes (franchise) indisponible pour {b} ({exc})")
-        themes = [v for v in sources if v["source"] == "AnimeThemes"][:5]
+        themes = [v for v in sources if v["source"] == "AnimeThemes"][:3]
         sakus = [v for v in sources if v["source"] == "Sakugabooru"]
         # alterner les sources pour ne pas tout prendre dans un seul opening
         order: list[dict] = []
@@ -247,11 +285,11 @@ def collect(animes: list[str], work: Path, index: dict | None = None, per_anime:
         shots: list[dict] = []
         budget = per_anime if len(animes) == 1 else max(14, per_anime // len(animes))
         n_themes = max(1, sum(1 for v in sources if v["source"] == "AnimeThemes"))
-        per_theme = max(8, min(16, budget // n_themes))
+        per_theme = max(6, min(10, budget // n_themes))
         for k, v in enumerate(sources):
             if len(shots) >= budget:
                 break
-            if v["source"] == "Sakugabooru" and sum(1 for x in shots if "Sakuga" in x.get("source", "")) >= budget // 2:
+            if v["source"] == "Sakugabooru" and sum(1 for x in shots if "Sakuga" in x.get("source", "")) >= budget * 2 // 3:
                 continue
             ext = ".webm" if v["url"].endswith(".webm") else ".mp4"
             src = raw / f"a{ai}_{k}{ext}"
@@ -260,14 +298,17 @@ def collect(animes: list[str], work: Path, index: dict | None = None, per_anime:
             is_theme = v["source"] == "AnimeThemes"
             # openings : on saute le titre et la fin (crédits, logo)
             got = split(src, out_dir, f"a{ai}_{k}", 3.0 if is_theme else 0.0, 5.0 if is_theme else 0.0,
-                        min(per_theme if is_theme else 3, budget - len(shots)))
+                        min(per_theme if is_theme else 3, budget - len(shots)), see=see)
             for i, g in enumerate(got):
                 g["source"] = f"{v['source']} ({v['label']})"
                 g["order"] = i  # ordre chronologique dans la source (continuité du montage)
                 g["energy"] = "high" if not is_theme else "mid"
+                if v.get("tags"):
+                    g["tags"] = v["tags"]
             shots += got
             src.unlink(missing_ok=True)
         print(f"[clips] {anime} : {len(shots)} extraits ({', '.join(sorted({s['source'].split(' (')[0] for s in shots})) or 'aucun'})")
         result[anime] = shots
     (work / "clips.json").write_text(json.dumps(result, ensure_ascii=False, indent=1))
+    scene.release()
     return result

@@ -54,6 +54,23 @@ def _norm(s: str) -> str:
 
 
 # --------------------------------------------------------------------- Kitsu
+def kitsu_manga_images(query: str) -> dict:
+    """Couverture et bannière officielles d'un manhwa/manga sur Kitsu."""
+    out = {"poster": [], "cover": [], "source": None}
+    d = _get(f"{KITSU}/manga", {"filter[text]": query, "page[limit]": 5})
+    for m in (d or {}).get("data") or []:
+        a = m.get("attributes") or {}
+        titles = [a.get("canonicalTitle") or ""] + list((a.get("titles") or {}).values())
+        if not any(_norm(query) in _norm(t) or _norm(t) in _norm(query) for t in titles if t):
+            continue
+        if (a.get("posterImage") or {}).get("original"):
+            out["poster"].append(a["posterImage"]["original"])
+        if (a.get("coverImage") or {}).get("original"):
+            out["cover"].append(a["coverImage"]["original"])
+        out["source"] = out["source"] or f"https://kitsu.io/manga/{a.get('slug')}"
+    return out
+
+
 def kitsu_search(query: str) -> list:
     d = _get(f"{KITSU}/anime", {"filter[text]": query, "page[limit]": 12})
     return (d or {}).get("data") or []
@@ -143,18 +160,20 @@ def jikan_images(query: str) -> dict:
 
 # ------------------------------------------------------------------ AniList
 ANILIST = "https://graphql.anilist.co"
-_AL_Q = """query($q:String){Media(search:$q,type:ANIME,sort:POPULARITY_DESC){id siteUrl
+_AL_Q = """query($q:String,$t:MediaType){Media(search:$q,type:$t,sort:POPULARITY_DESC){id siteUrl countryOfOrigin
  title{romaji english} coverImage{extraLarge} bannerImage
  streamingEpisodes{thumbnail}
- relations{edges{relationType node{type bannerImage coverImage{extraLarge} streamingEpisodes{thumbnail}}}}
+ relations{edges{relationType node{type title{romaji english} bannerImage coverImage{extraLarge} streamingEpisodes{thumbnail}}}}
  characters(sort:[ROLE,FAVOURITES_DESC],perPage:25){nodes{name{full alternative} image{large}}}}}"""
 
 
-def anilist_images(query: str) -> dict:
-    out = {"poster": [], "wide": [], "characters": {}, "source": None}
+def anilist_images(query: str, mtype: str = "ANIME") -> dict:
+    """mtype ANIME, ou MANGA pour un manhwa/manga (couvertures, bannière, persos, et titre de
+    l'adaptation animée s'il y en a une : elle sert à trouver des extraits vidéo)."""
+    out = {"poster": [], "wide": [], "characters": {}, "source": None, "adaptation": None, "country": None}
     for i in range(2):
         try:
-            r = requests.post(ANILIST, json={"query": _AL_Q, "variables": {"q": query}},
+            r = requests.post(ANILIST, json={"query": _AL_Q, "variables": {"q": query, "t": mtype}},
                               headers=UA, timeout=20)
             if r.status_code != 200:
                 time.sleep(1.5)
@@ -169,8 +188,16 @@ def anilist_images(query: str) -> dict:
             # vignettes d'épisodes (saison + saison précédente) et visuels de la franchise :
             # bien plus de plans différents qu'avec 2 affiches
             out["wide"] += [e["thumbnail"] for e in (m.get("streamingEpisodes") or []) if e.get("thumbnail")][:24]
+            out["country"] = m.get("countryOfOrigin")
             for e in ((m.get("relations") or {}).get("edges") or []):
                 n = e.get("node") or {}
+                if mtype == "MANGA" and e.get("relationType") == "ADAPTATION" and n.get("type") == "ANIME":
+                    t = n.get("title") or {}
+                    out["adaptation"] = out["adaptation"] or t.get("english") or t.get("romaji")
+                    if n.get("bannerImage"):
+                        out["wide"].append(n["bannerImage"])
+                    out["wide"] += [x["thumbnail"] for x in (n.get("streamingEpisodes") or []) if x.get("thumbnail")][:16]
+                    continue
                 if n.get("type") != "ANIME" or e.get("relationType") not in ("PREQUEL", "SEQUEL", "PARENT", "SIDE_STORY"):
                     continue
                 if n.get("bannerImage"):
@@ -190,16 +217,34 @@ def anilist_images(query: str) -> dict:
 
 
 # ------------------------------------------------------------------ public API
-def collect(animes: list[str], workdir: Path) -> dict:
-    """Télécharge un pool d'images pour chaque anime. Retourne un index JSON."""
+def collect(animes: list[str], workdir: Path, media: dict | None = None) -> dict:
+    """Télécharge un pool d'images pour chaque œuvre. Retourne un index JSON.
+    media = {titre: "anime" | "manhwa" | "manga"} (anime par défaut). Pour un manhwa/manga :
+    visuels de l'œuvre papier (AniList + Kitsu manga) + ceux de son adaptation animée."""
     img_dir = workdir / "images"
     img_dir.mkdir(parents=True, exist_ok=True)
     index: dict = {}
     for name in animes:
-        k = kitsu_images(name)
-        j = jikan_images(name)
-        al = anilist_images(name)
-        entry = {"meta": k.get("anime"), "wide": [], "tall": [], "characters": {}, "sources": []}
+        kind = (media or {}).get(name, "anime")
+        if kind in ("manhwa", "manga", "webtoon"):
+            alm = anilist_images(name, "MANGA")
+            km = kitsu_manga_images(name)
+            adapt = alm.get("adaptation")
+            al = anilist_images(adapt) if adapt else {"poster": [], "wide": [], "characters": {}, "source": None}
+            al["poster"] = alm["poster"] + km["poster"] + al["poster"]
+            al["wide"] = alm["wide"] + km["cover"] + al["wide"]
+            al["characters"] = {**al["characters"], **alm["characters"]}
+            al["source"] = alm["source"] or km["source"]
+            k = kitsu_images(adapt) if adapt else {"anime": None, "cover": [], "poster": [], "characters": {}}
+            j = {"poster": [], "pictures": [], "characters": {}}
+            meta = dict(k.get("anime") or {})
+            meta.update({"media": kind, "adaptation": adapt, "title": name})
+        else:
+            k = kitsu_images(name)
+            j = jikan_images(name)
+            al = anilist_images(name)
+            meta = k.get("anime")
+        entry = {"meta": meta, "wide": [], "tall": [], "characters": {}, "sources": []}
         for url in al["wide"] + k["cover"] + k.get("episodes", [])[:40]:
             p = _download(url, img_dir)
             if p:

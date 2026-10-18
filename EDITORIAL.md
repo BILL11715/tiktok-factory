@@ -4,7 +4,7 @@ Version complète et à jour : page Notion "Ligne éditoriale @the.asura8"
 (https://app.notion.com/p/3e765926442181ef91d8d612a6b2d09a). En cas d'écart, Notion fait foi.
 
 ## Identité
-- Anime & manga, en français. C'est Asura (Bill) qui parle, un fan qui partage à ses potes. Jamais un ton documentaire.
+- Anime, manga ET manhwa (webtoons coréens : Solo Leveling, Pick Me Up, Omniscient Reader, Eleceed, Tower of God, Lookism, pépites de Webtoon), en français. C'est Asura (Bill) qui parle, un fan qui partage à ses potes. Jamais un ton documentaire.
 - Pseudo à l'écran et à la voix : **Asura**. Signature ajoutée automatiquement : "C'était Asura. On se capte au prochain épisode."
 - Objectif n°1 : les abonnements. Chaque vidéo a un appel à s'abonner au milieu (champ cta), jamais seulement à la fin.
 - Catalogue : 80% mainstream (One Piece, Jujutsu Kaisen, Solo Leveling, Demon Slayer, Naruto/Boruto, Chainsaw Man, Frieren, Dandadan, Kaiju n°8, Blue Lock, Attack on Titan, Hunter x Hunter, Bleach, My Hero Academia, Sakamoto Days, Tokyo Revengers), 20% pépites peu couvertes en FR.
@@ -12,11 +12,14 @@ Version complète et à jour : page Notion "Ligne éditoriale @the.asura8"
 ## Grille
 | Créneau | Formats possibles |
 |---|---|
-| 12h30 | reco, anecdote |
-| 18h30 | reco, theorie, top (priorité à l'actu si gros chapitre/épisode récent) |
-| 21h30 | reco, top, theorie, citation |
-- Jamais deux fois le même format le même jour. Jamais le même anime deux fois en 48 h.
+| 12h30 | reco, anecdote, lecture |
+| 18h30 | reco, theorie, top, storytelling (priorité à l'actu si gros chapitre/épisode récent) |
+| 21h30 | reco, top, theorie, citation, storytelling |
+- Jamais deux fois le même format le même jour. **Jamais la même franchise deux fois en 7 jours**
+  (`python3 -m factory.recent` donne la liste interdite). Varier les genres d'un jour à l'autre.
+- **Au moins 1 vidéo manhwa par jour** (reco de pépite, storytelling d'un arc, top de persos, lecture du moment).
 - Semaine cible : ~10 recos, 4 théories, 4 tops, 3 anecdotes/citations. Au moins 1 reco par jour, 2 si possible.
+- **Manhwas** : piocher dans la partie manhwa de `factory.season` (tendance, classiques, pépites). Dire « manhwa » et où le lire légalement (Webtoon, Piccoma, Kakao, éditions papier FR) sans lien. S'il y a une adaptation animée, le dire (« l'anime arrive », « l'anime existe mais le manhwa est 10 fois mieux »).
 - **Nouveautés d'abord** : 3 vidéos sur 4 portent sur un anime en cours de diffusion, qui sort bientôt
   (nouvelle saison, suite) ou tout juste annoncé (`python3 -m factory.season`). Les classiques déjà vus
   par tout le monde : 1 vidéo sur 4 maximum.
@@ -29,6 +32,8 @@ Version complète et à jour : page Notion "Ligne éditoriale @the.asura8"
 | top | 75-100 s | hype | hype ou hype2 | hook = promesse + provoc ; du 5 au 1, overlay "#5".."#1" sur le segment ; 1 raison concrète par entrée ; "c'est quoi ton top 1 ?" |
 | anecdote | 60-70 s | pote | pote ou mystere | hook = le fait surprenant direct ; contexte, détail, conséquence ; "tu savais ?". Faits vérifiables uniquement |
 | citation | 40-60 s | pose | triste | contexte en 1 ligne ; réplique lente ; 2-3 phrases de Bill ; peu de texte |
+| storytelling | 70-90 s | conteur | mystere ou epic | raconter UN arc ou UN moment culte d'un manhwa/manga comme une histoire au coin du feu : situation, basculement, combat ou trahison, conséquence, « et c'est là que j'ai compris que ce manhwa était différent ». Spoilers légers annoncés (spoiler=true si fin d'arc) |
+| lecture | 60-75 s | pote | pote | « ce que je lis en ce moment » : UNIQUEMENT une œuvre de `config/lectures.json` (jamais inventée) ; où Bill en est, ce qui l'a accroché, un moment marquant sans gros spoiler, à qui il le conseille. Si la liste est vide, faire une reco manhwa à la place |
 
 Repère : la voix parle vite (environ 24 caractères par seconde). Pour 65-70 s, visez 1 500 à 1 650 caractères de texte au total (280-300 mots).
 

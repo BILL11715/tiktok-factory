@@ -64,7 +64,7 @@ def main(script_path: str) -> dict:
         if script.get("reveal_text"):
             script["reveal_segments"] = int(script.get("reveal_segments", 1)) + 1
     print(f"[1/4] visuels pour {script['animes']}")
-    index = assets.collect(script["animes"], work)
+    index = assets.collect(script["animes"], work, script.get("media"))
     try:  # extraits vidéo (openings officiels, sakuga) ; sans eux, images fixes
         clips.collect(script["animes"], work, index)
     except Exception as exc:

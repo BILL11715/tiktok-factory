@@ -92,7 +92,7 @@ def _compose_fill(src: str, dest: Path, variant: int = 0) -> None:
         bg.save(dest, quality=92)
         return
     bg = ImageEnhance.Brightness(bg.filter(ImageFilter.GaussianBlur(40))).enhance(0.55)
-    fw = W2 if r < 1.2 else int(W2 * 1.0)
+    fw = int(W2 * 0.88)  # image entière visible, légèrement dézoomée
     fg = im.resize((fw, int(fw / r)), Image.LANCZOS)
     if fg.height > H2 * 0.86:
         fh = int(H2 * 0.86)
@@ -201,6 +201,26 @@ class _Story:
         groups = self._tags(anime)
         return bool(groups) and all(self.uses.get(c["path"], 0) > 0 for g in groups.values() for c in g)
 
+    def pick_scene(self, anime: str, qv) -> tuple:
+        """Extrait le plus proche de la scène décrite (vecteur texte qv), parmi les moins
+        utilisés. Renvoie (None, 0) si rien ne ressemble assez à la description."""
+        import numpy as np
+        groups = self._tags(anime)
+        cands = [c for g in groups.values() for c in g if c.get("emb") and c is not self.last_clip]
+        if not cands or qv is None:
+            return None, 0
+        E = np.array([c["emb"] for c in cands], dtype=np.float32)
+        sim = E @ qv - 0.025 * np.array([self.uses.get(c["path"], 0) for c in cands], dtype=np.float32)
+        i = int(np.argmax(sim))
+        if float(sim[i]) < 0.235:
+            return None, 0
+        c = cands[i]
+        n = self.uses.get(c["path"], 0)
+        self.uses[c["path"]] = n + 1
+        self.last_clip = c
+        self.last_tag[anime] = c.get("tag")
+        return c, n
+
     def pick(self, anime: str, seg: int, late: bool, punch: bool):
         groups = self._tags(anime)
         if not groups:
@@ -231,11 +251,28 @@ class _Story:
         return c, n
 
 
-def assign_media(shots: list[dict], index: dict, clips: dict, pub: Path, rng: random.Random) -> list[dict]:
+def _scene_vectors(script: dict) -> dict:
+    """Vecteur texte de la scène voulue pour chaque segment (champ "scene", en anglais)."""
+    wanted = {i: sg["scene"] for i, sg in enumerate(script.get("segments", [])) if sg.get("scene")}
+    if not wanted:
+        return {}
+    try:
+        from . import scene
+        T = scene.embed_texts([scene.query(t) for t in wanted.values()])
+        scene.release()  # le rendu Remotion a besoin de toute la mémoire
+        return dict(zip(wanted.keys(), T))
+    except Exception as exc:
+        print(f"[montage] scènes non analysées ({exc})")
+        return {}
+
+
+def assign_media(shots: list[dict], index: dict, clips: dict, pub: Path, rng: random.Random,
+                 scenes: dict | None = None) -> list[dict]:
     """Associe un extrait vidéo (ou une image) à chaque plan. Aucun plan ne revient à
     l'identique : extrait déjà vu = miroir + autre portion, image déjà vue = autre cadrage."""
     (pub / "clips").mkdir(exist_ok=True)
     story = _Story(clips, rng)
+    shown_chars: set = set()
     total = shots[-1]["end"] if shots else 1.0
     img_uses: dict = {}
     used_imgs: list = []
@@ -252,6 +289,12 @@ def assign_media(shots: list[dict], index: dict, clips: dict, pub: Path, rng: ra
     while k < len(shots):
         s = shots[k]
         dur = s["end"] - s["start"]
+        # un perso déjà présenté : s'il y a une scène décrite, on montre l'action plutôt que sa fiche
+        seen_char = s.get("character") and s["character"] in shown_chars
+        if seen_char and (scenes or {}).get(s.get("seg", -1)) is not None:
+            s = {**s, "character": None, "kind": "clip"}
+        if s.get("character"):
+            shown_chars.add(s["character"])
         if s.get("character") or s.get("kind") in ("character", "poster", "wide"):
             img = A.pick(index, s["anime"], s.get("kind") if s.get("kind") != "clip" else "any",
                          s.get("character"), used_imgs)
@@ -268,7 +311,9 @@ def assign_media(shots: list[dict], index: dict, clips: dict, pub: Path, rng: ra
                 out.append(still(k, s, fresh_img))
                 k += 1
                 continue
-        c, n = story.pick(s["anime"], s.get("seg", 0), late, s.get("fx") == "punch")
+        c, n = story.pick_scene(s["anime"], (scenes or {}).get(s.get("seg", -1)))
+        if c is None:
+            c, n = story.pick(s["anime"], s.get("seg", 0), late, s.get("fx") == "punch")
         if c is not None:
             dst = pub / "clips" / Path(c["path"]).name
             if not dst.exists():
@@ -369,7 +414,8 @@ def build_v4(script: dict, voice: dict, index: dict, clips: dict, work: Path, pu
     total = tl[-1]["slot_end"]
     tone = script.get("tone", "pote")
     hook_end = tl[0]["slot_end"] if script.get("hook_text") else 0.0
-    shots = assign_media(plan_v4(script, tl, index, clips, rng), index, clips, pub, rng)
+    shots = assign_media(plan_v4(script, tl, index, clips, rng), index, clips, pub, rng,
+                         _scene_vectors(script))
     props_shots, cues = [], [(0.0, "boom")]
     for k, s in enumerate(shots):
         seg = script["segments"][min(s.get("seg", 0), len(script["segments"]) - 1)]

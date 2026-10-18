@@ -12,7 +12,9 @@ fi
 # shellcheck disable=SC1091
 . "$VENV/bin/activate"
 pip install -q --upgrade pip >>"$LOG" 2>&1
-pip install -q requests pillow "numpy<2.4" piper-tts pyyaml faster-whisper num2words >>"$LOG" 2>&1 || echo "[setup] ERREUR pip base (voir $LOG)"
+pip install -q requests pillow "numpy<2.4" piper-tts pyyaml faster-whisper num2words onnxruntime tokenizers >>"$LOG" 2>&1 || echo "[setup] ERREUR pip base (voir $LOG)"
+# Modèle image-texte (choix des scènes) : téléchargé une fois, en arrière-plan du reste
+( python -c "from factory import scene; print(scene.available())" >>"$LOG" 2>&1 && echo "[setup] analyse des scènes prête" ) &
 # Modèle d'alignement mot par mot (synchro image/son), téléchargé une fois
 python -c "from faster_whisper import WhisperModel; WhisperModel('small', device='cpu', compute_type='int8')" >>"$LOG" 2>&1 \
   && echo "[setup] alignement mot par mot prêt" || echo "[setup] alignement indisponible (temps estimés)"

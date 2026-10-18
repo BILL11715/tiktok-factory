@@ -1,4 +1,4 @@
-"""Animes du moment : saison en cours (en diffusion) et à venir (annoncés), via AniList.
+"""Animes du moment (en cours, à venir, annoncés) et manhwas (tendance et pépites), via AniList.
 
 Usage : python -m factory.season   -> écrit /tmp/tf-season.json et affiche une liste courte
 que l'agent utilise pour choisir l'anime d'une reco (priorité aux nouveautés).
@@ -58,6 +58,58 @@ def _item(m: dict, kind: str) -> dict:
             "pitch": (m.get("description") or "").replace("<br>", " ")[:300]}
 
 
+QM = """
+query ($sort: [MediaSort], $status: MediaStatus, $page: Int) {
+  Page(page: $page, perPage: 40) {
+    media(type: MANGA, countryOfOrigin: "KR", sort: $sort, status: $status, isAdult: false) {
+      id title { romaji english } status popularity trending averageScore chapters genres
+      startDate { year }
+      relations { edges { relationType node { type title { english romaji } status startDate { year month } } } }
+      description(asHtml: false)
+    }
+  }
+}"""
+
+
+def _qm(variables: dict) -> list[dict]:
+    req = urllib.request.Request("https://graphql.anilist.co", method="POST",
+                                 data=json.dumps({"query": QM, "variables": variables}).encode(),
+                                 headers={"Content-Type": "application/json", "Accept": "application/json",
+                                          "User-Agent": "tiktok-factory/1.0"})
+    with urllib.request.urlopen(req, timeout=30) as r:
+        return json.loads(r.read())["data"]["Page"]["media"]
+
+
+def _manhwa(m: dict, kind: str) -> dict:
+    adapt = [e["node"] for e in (m.get("relations") or {}).get("edges", [])
+             if e["relationType"] == "ADAPTATION" and e["node"]["type"] == "ANIME"]
+    a = adapt[0] if adapt else None
+    return {"kind": kind, "anilist_id": m["id"], "title": m["title"]["english"] or m["title"]["romaji"],
+            "romaji": m["title"]["romaji"], "format": "MANHWA", "popularity": m["popularity"],
+            "trending": m.get("trending"), "score": m.get("averageScore"),
+            "start": f"{(m.get('startDate') or {}).get('year')}", "status": m.get("status"),
+            "chapters": m.get("chapters"), "genres": m.get("genres", [])[:4], "suite_de": [],
+            "anime": (a["title"]["english"] or a["title"]["romaji"]) if a else None,
+            "anime_status": a["status"] if a else None,
+            "pitch": (m.get("description") or "").replace("<br>", " ")[:300]}
+
+
+def manhwas() -> list[dict]:
+    """Manhwas coréens : en tendance en ce moment (en cours de parution) et grands classiques.
+    Une pépite = bonne note, encore peu connue en France (popularité AniList < 60 000)."""
+    out = []
+    for m in _qm({"sort": ["TRENDING_DESC"], "status": "RELEASING", "page": 1}):
+        if (m.get("averageScore") or 0) >= 72 and m["popularity"] >= 4000:
+            out.append(_manhwa(m, "manhwa_tendance"))
+    for m in _qm({"sort": ["POPULARITY_DESC"], "page": 1}):
+        if (m.get("averageScore") or 0) >= 75:
+            out.append(_manhwa(m, "manhwa_classique"))
+    for m in _qm({"sort": ["SCORE_DESC"], "page": 1}):
+        if 3000 <= m["popularity"] < 60000:
+            out.append(_manhwa(m, "manhwa_pepite"))
+    return out
+
+
 def main() -> list[dict]:
     today = dt.date.today()
     cur, year = _season(today)
@@ -67,9 +119,13 @@ def main() -> list[dict]:
     # suites très attendues sans saison fixée (annoncées)
     out += [_item(m, "annonce") for m in _q({"status": "NOT_YET_RELEASED", "page": 1})
             if not m.get("season") and m["popularity"] > 40000][:15]
+    try:
+        out += manhwas()
+    except Exception as exc:  # AniList indisponible : les animes suffisent
+        print(f"[season] manhwas indisponibles ({exc})")
     seen, uniq = set(), []
     for x in out:
-        if x["popularity"] < 5000:  # trop confidentiel pour un compte FR
+        if x["popularity"] < (3000 if x["format"] == "MANHWA" else 5000):  # trop confidentiel
             continue
         if x["anilist_id"] not in seen:
             seen.add(x["anilist_id"])
@@ -78,7 +134,11 @@ def main() -> list[dict]:
         json.dump(uniq, f, ensure_ascii=False, indent=1)
     for x in uniq:
         suite = f" (suite de {x['suite_de'][0]})" if x["suite_de"] else ""
-        print(f"[{x['kind']}] {x['title']}{suite} | début {x['start']} | pop {x['popularity']} | {', '.join(x['genres'])}")
+        if x["format"] == "MANHWA":
+            ad = f" | anime : {x['anime']} ({x['anime_status']})" if x.get("anime") else " | pas d'anime"
+            print(f"[{x['kind']}] {x['title']} | note {x['score']} | pop {x['popularity']} | {x.get('status')}{ad} | {', '.join(x['genres'])}")
+        else:
+            print(f"[{x['kind']}] {x['title']}{suite} | début {x['start']} | pop {x['popularity']} | {', '.join(x['genres'])}")
     return uniq
 
 

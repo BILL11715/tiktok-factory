@@ -62,7 +62,7 @@ export type AnimeShortProps = {
 
 const W = 1080;
 const H = 1920;
-const OVER = 1.14;
+const OVER = 1.08;
 const OV = 8; // recouvrement entre plans pour les transitions
 const YELLOW = "#FFD400";
 
@@ -121,8 +121,8 @@ const ShotLayer: React.FC<{ shot: Shot; isFirst: boolean }> = ({ shot, isFirst }
   let ty = 0;
   const m = shot.motion ?? "zoom-in";
   // extraits vidéo : déjà cadrés en 9:16 (fond flou), marge réduite pour ne pas recouper les persos
-  const ov = shot.video ? 1.03 : OVER;
-  const amp = shot.video ? 0.02 + rnd(seed) * 0.02 : 0.05 + rnd(seed) * 0.04;
+  const ov = shot.video ? 1.02 : OVER;
+  const amp = shot.video ? 0.01 + rnd(seed) * 0.015 : 0.035 + rnd(seed) * 0.03;
   if (m === "zoom-in") scale = 1 + amp * t;
   else if (m === "zoom-out") scale = 1 + amp * (1 - t);
   else if (m === "pan-left") tx = ((W * ov - W) / 2) * (1 - 2 * t);

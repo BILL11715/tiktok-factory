@@ -24,9 +24,18 @@ Bill n'est pas là pendant le run : ne pose aucune question, décide et continue
    **Installation en arrière-plan tout de suite** :
    `cd /home/claude/tiktok-factory && nohup bash setup.sh > /tmp/tf-setup.out 2>&1 &`
    (ça tourne pendant que tu écris le script).
-3. **Contexte** : lis `EDITORIAL.md` et les 30 dernières lignes de `history.jsonl`, puis lance
-   `python3 -m factory.season` : liste des animes EN COURS de diffusion, À VENIR (saison
-   suivante) et ANNONCÉS, avec date de début et popularité (AniList).
+3. **Contexte** : lis `EDITORIAL.md`, lance `python3 -m factory.recent` (franchises déjà traitées
+   et liste des franchises INTERDITES pour cette vidéo : traitées il y a moins de 7 jours) puis
+   `python3 -m factory.season` : animes EN COURS, À VENIR, ANNONCÉS, et MANHWAS (tendance du
+   moment, grands classiques, pépites peu connues, avec l'adaptation animée s'il y en a une).
+   Lis aussi `config/lectures.json` (ce que Bill lit en ce moment).
+   **Variété (demande de Bill, prioritaire)** : jamais une franchise de la liste INTERDITES ;
+   au moins 1 vidéo par jour sur un **manhwa** (Solo Leveling, Pick Me Up, Omniscient Reader,
+   Eleceed, Tower of God, pépites de la liste...), idéalement 2 un jour sur deux ; varie les
+   genres (pas trois isekai/réincarnation d'affilée) et les formats. Ces règles priment sur la
+   consigne « 3 vidéos sur 4 sur un anime nouveau » du message de la tâche : un manhwa en cours
+   de parution ou en tendance compte comme une nouveauté. Pour un manhwa tu peux
+   faire 1 recherche web Webtoon (ex. « Webtoon tendance manhwa ») pour un angle d'actualité.
    Donne-toi l'heure actuelle (outil current_time) pour savoir le créneau (12h30, 18h30 ou 21h30,
    le prochain à venir). Si `history.jsonl` a déjà une vidéo pour ce jour et ce créneau
    (champ `slot` = "AAAA-MM-JJ 18:30"), prends le créneau suivant (le lendemain 12:30 après 21:30).
@@ -40,7 +49,10 @@ Bill n'est pas là pendant le run : ne pose aucune question, décide et continue
    Choisis dans la liste de `factory.season` (priorité aux plus populaires et aux sorties
    des 3 prochaines semaines). Un vieil anime déjà connu de tous : 1 vidéo sur 4 maximum.
    Mets dans `animes` le titre exact de la liste (champ title), c'est ce qui permet de
-   trouver les extraits vidéo de la bonne saison.
+   trouver les extraits vidéo de la bonne saison. Pour un manhwa ou un manga papier, ajoute
+   `"media": {"<titre>": "manhwa"}` (ou "manga") : les visuels viennent de l'œuvre papier et
+   les extraits vidéo de son adaptation animée si elle existe (sinon montage en images, alors
+   privilégie les persos nommés et les couvertures).
 4. **Script** : écris `runs/<AAAA-MM-DD_HHMM>/script.json` (heure de Paris) au format ci-dessous.
    Relis-le à voix haute mentalement avec les règles anti-IA de EDITORIAL.md et corrige.
 5. **Rendu** : attends la fin du setup (`grep -q "\[setup\] OK" /tmp/tf-setup.out`, vérifier
@@ -65,7 +77,7 @@ Bill n'est pas là pendant le run : ne pose aucune question, décide et continue
    Lien Buffer (https://publish.buffer.com/post/<id>), Sources visuels (result.sources),
    Voix ("Fish Audio" si voice_engine = fish, "Clone Bill" si clone, sinon "Piper"), Durée (s), Notes (créneau).
 9. **Historique local** : ajoute une ligne JSON à `history.jsonl`
-   `{"stamp","slot" ("AAAA-MM-JJ HH:MM"),"format","anime","title","hook","buffer_id","notion_url","raw_url","voice"}`,
+   `{"stamp","slot" ("AAAA-MM-JJ HH:MM"),"format","anime","media" ("anime"|"manhwa"|"manga"),"title","hook","buffer_id","notion_url","raw_url","voice"}`,
    commit + push (pull --rebase avant).
 10. **Nettoyage du repo public** : pour chaque ligne de `history.jsonl` de plus de 3 jours
     dont le fichier `videos/...` existe encore, regarde le post Buffer (`get_post`). Supprime la
@@ -87,17 +99,20 @@ FFmpeg de secours prend le relais (result.json -> "engine").
 ```json
 {
   "title": "Top 3 des persos les plus cheatés de Jujutsu Kaisen",
-  "format": "reco | theorie | top | anecdote | citation",
+  "format": "reco | theorie | top | anecdote | citation | storytelling | lecture",
   "tone": "pote | conteur | hype | pose",
   "music": "pote | mystere | hype | hype2 | triste",
   "animes": ["Jujutsu Kaisen"],
+  "media": {"Jujutsu Kaisen": "anime"},
   "cover": {"text": "Le perso le plus cheaté de JJK", "highlight": ["cheaté"], "emoji": "😱"},
   "hook_text": "Le numéro 1 est tellement cheaté que l'auteur a dû le sceller",
   "spoiler": false,
   "spoiler_label": "chapitre 1160",
   "segments": [
-    {"text": "Le numéro 1 est tellement cheaté que l'auteur a dû l'enfermer.", "sfx": true, "emphasis": ["cheaté"]},
+    {"text": "Le numéro 1 est tellement cheaté que l'auteur a dû l'enfermer.", "sfx": true, "emphasis": ["cheaté"],
+     "scene": "a white haired man with a blindfold unleashing a huge blue energy blast"},
     {"text": "Numéro 3, Megumi. Ouais je sais, il perd tout le temps.", "overlay": "#3", "sfx": true,
+     "scene": "a dark haired boy summoning shadow dogs in a fight",
      "shots": [{"anime": "Jujutsu Kaisen", "kind": "character", "character": "Megumi", "at": "Megumi"}]},
     {"text": "Si tu kiffes ce genre de classement, abonne-toi, j'en sors tous les jours.", "cta": true}
   ],
@@ -124,6 +139,15 @@ Règles (le pipeline refuse le script si les points marqués ⛔ manquent) :
   sa fiche au moment exact où il est prononcé. Pour forcer une image, ajoute un shot avec
   `"at": "<mot du segment>"` : l'image change quand ce mot est dit. Ne mets pas plus de 2 shots
   par segment. Évite de parler d'un perso sans le nommer.
+- **`scene` (presque chaque segment, EN ANGLAIS)** : décris en 8 à 15 mots ce qu'on doit VOIR
+  pendant ce passage, de façon visuelle et concrète (action, persos décrits par leur apparence,
+  décor, émotion) : "two delinquents punching each other in the rain", "a blond boy crying on
+  his knees", "a giant monster destroying a city at night", "a boy shaking hands with a gang
+  leader". Le montage regarde chaque extrait vidéo et prend celui qui ressemble le plus à ta
+  description : c'est ce qui met le combat pendant qu'on parle du combat. Pas de nom de perso
+  dans `scene` (le modèle ne les connaît pas), décris-les. Seuls les segments sans action
+  précise (signature, abonnement) peuvent s'en passer.
+- `media` : "anime" par défaut ; "manhwa" ou "manga" pour une œuvre papier (voir étape 3).
 - `animes` : noms tels que cherchés sur AniList/Kitsu (titre anglais ou romaji courant). Pour un
   top multi-animes, liste-les tous et mets le bon `anime` dans les shots.
 - `kind` : character (avec `character`), wide (captures/bannières), poster, any.
