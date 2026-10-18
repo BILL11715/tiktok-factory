@@ -1,0 +1,16 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-18_1145/video.mp4",
+ "duration": 77.302,
+ "shots": 55,
+ "sources": [
+  "https://anilist.co/anime/186541",
+  "https://kitsu.io/anime/mezametara-saikyou-soubi-to-uchuusen-mochi-datta-node-ikkodate-mezashite-youhei-to-shite-jiyuu-ni-ikitai"
+ ],
+ "music": {
+  "file": "pote.mp3",
+  "bpm": 184.6,
+  "offset": 47.39
+ },
+ "sfx": 22,
+ "engine": "remotion (OpenMontage)"
+}

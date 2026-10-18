@@ -1,0 +1,1727 @@
+{
+ "engine": "fish",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-18_1145/voice.wav",
+ "duration": 77.302,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 2.94,
+   "slot_end": 3.014,
+   "text": "Ce gamer se réveille dans son jeu, aux commandes du vaisseau le plus cheaté.",
+   "words": [
+    {
+     "w": "Ce",
+     "start": 0.0,
+     "end": 0.06
+    },
+    {
+     "w": "gamer",
+     "start": 0.06,
+     "end": 0.18
+    },
+    {
+     "w": "se",
+     "start": 0.18,
+     "end": 0.44
+    },
+    {
+     "w": "réveille",
+     "start": 0.44,
+     "end": 0.68
+    },
+    {
+     "w": "dans",
+     "start": 0.68,
+     "end": 0.82
+    },
+    {
+     "w": "son",
+     "start": 0.82,
+     "end": 0.96
+    },
+    {
+     "w": "jeu,",
+     "start": 0.96,
+     "end": 1.16
+    },
+    {
+     "w": "aux",
+     "start": 1.32,
+     "end": 1.46
+    },
+    {
+     "w": "commandes",
+     "start": 1.46,
+     "end": 1.76
+    },
+    {
+     "w": "du",
+     "start": 1.76,
+     "end": 1.88
+    },
+    {
+     "w": "vaisseau",
+     "start": 1.88,
+     "end": 2.18
+    },
+    {
+     "w": "le",
+     "start": 2.18,
+     "end": 2.34
+    },
+    {
+     "w": "plus",
+     "start": 2.34,
+     "end": 2.5
+    },
+    {
+     "w": "cheaté.",
+     "start": 2.5,
+     "end": 2.94
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 3.04,
+   "end": 5.56,
+   "slot_end": 5.641,
+   "text": "Reste jusqu'au bout, j'te donne le nom et j'te dis pourquoi il m'a eu.",
+   "words": [
+    {
+     "w": "Reste",
+     "start": 3.04,
+     "end": 3.26
+    },
+    {
+     "w": "jusqu'au",
+     "start": 3.26,
+     "end": 3.7
+    },
+    {
+     "w": "bout,",
+     "start": 3.7,
+     "end": 3.84
+    },
+    {
+     "w": "j'te",
+     "start": 3.92,
+     "end": 4.06
+    },
+    {
+     "w": "donne",
+     "start": 4.06,
+     "end": 4.24
+    },
+    {
+     "w": "le",
+     "start": 4.24,
+     "end": 4.36
+    },
+    {
+     "w": "nom",
+     "start": 4.36,
+     "end": 4.58
+    },
+    {
+     "w": "et",
+     "start": 4.58,
+     "end": 4.76
+    },
+    {
+     "w": "j'te",
+     "start": 4.76,
+     "end": 4.92
+    },
+    {
+     "w": "dis",
+     "start": 4.92,
+     "end": 5.02
+    },
+    {
+     "w": "pourquoi",
+     "start": 5.02,
+     "end": 5.26
+    },
+    {
+     "w": "il",
+     "start": 5.26,
+     "end": 5.4
+    },
+    {
+     "w": "m'a",
+     "start": 5.4,
+     "end": 5.5
+    },
+    {
+     "w": "eu.",
+     "start": 5.5,
+     "end": 5.56
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 5.66,
+   "end": 10.84,
+   "slot_end": 10.942,
+   "text": "Le mec, c'est Hiro. Il passait ses nuits sur un jeu spatial en ligne, et il était très très fort.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 5.66,
+     "end": 5.74
+    },
+    {
+     "w": "mec,",
+     "start": 5.74,
+     "end": 5.86
+    },
+    {
+     "w": "c'est",
+     "start": 5.94,
+     "end": 6.04
+    },
+    {
+     "w": "Hiro.",
+     "start": 6.04,
+     "end": 6.3
+    },
+    {
+     "w": "Il",
+     "start": 7.06,
+     "end": 7.18
+    },
+    {
+     "w": "passait",
+     "start": 7.18,
+     "end": 7.44
+    },
+    {
+     "w": "ses",
+     "start": 7.44,
+     "end": 7.56
+    },
+    {
+     "w": "nuits",
+     "start": 7.56,
+     "end": 7.76
+    },
+    {
+     "w": "sur",
+     "start": 7.76,
+     "end": 7.92
+    },
+    {
+     "w": "un",
+     "start": 7.92,
+     "end": 8.08
+    },
+    {
+     "w": "jeu",
+     "start": 8.08,
+     "end": 8.26
+    },
+    {
+     "w": "spatial",
+     "start": 8.26,
+     "end": 8.66
+    },
+    {
+     "w": "en",
+     "start": 8.66,
+     "end": 9.14
+    },
+    {
+     "w": "ligne,",
+     "start": 9.14,
+     "end": 9.44
+    },
+    {
+     "w": "et",
+     "start": 10.08,
+     "end": 10.13
+    },
+    {
+     "w": "il",
+     "start": 10.12,
+     "end": 10.18
+    },
+    {
+     "w": "était",
+     "start": 10.18,
+     "end": 10.32
+    },
+    {
+     "w": "très",
+     "start": 10.32,
+     "end": 10.52
+    },
+    {
+     "w": "très",
+     "start": 10.52,
+     "end": 10.64
+    },
+    {
+     "w": "fort.",
+     "start": 10.64,
+     "end": 10.84
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 11.0,
+   "end": 17.98,
+   "slot_end": 18.15,
+   "text": "Un soir, il se connecte, il s'endort, et il se réveille dans le cockpit. Sauf que là, y'a plus de menu. Plus de bouton déconnexion. Rien.",
+   "words": [
+    {
+     "w": "Un",
+     "start": 11.0,
+     "end": 11.05
+    },
+    {
+     "w": "soir,",
+     "start": 11.02,
+     "end": 11.16
+    },
+    {
+     "w": "il",
+     "start": 11.46,
+     "end": 11.54
+    },
+    {
+     "w": "se",
+     "start": 11.54,
+     "end": 11.66
+    },
+    {
+     "w": "connecte,",
+     "start": 11.66,
+     "end": 12.08
+    },
+    {
+     "w": "il",
+     "start": 12.2,
+     "end": 12.26
+    },
+    {
+     "w": "s'endort,",
+     "start": 12.26,
+     "end": 12.58
+    },
+    {
+     "w": "et",
+     "start": 12.58,
+     "end": 12.84
+    },
+    {
+     "w": "il",
+     "start": 12.84,
+     "end": 12.92
+    },
+    {
+     "w": "se",
+     "start": 12.92,
+     "end": 13.0
+    },
+    {
+     "w": "réveille",
+     "start": 13.0,
+     "end": 13.24
+    },
+    {
+     "w": "dans",
+     "start": 13.24,
+     "end": 13.4
+    },
+    {
+     "w": "le",
+     "start": 13.4,
+     "end": 13.48
+    },
+    {
+     "w": "cockpit.",
+     "start": 13.48,
+     "end": 13.74
+    },
+    {
+     "w": "Sauf",
+     "start": 14.2,
+     "end": 14.46
+    },
+    {
+     "w": "que",
+     "start": 14.46,
+     "end": 14.64
+    },
+    {
+     "w": "là,",
+     "start": 14.64,
+     "end": 14.76
+    },
+    {
+     "w": "y'a",
+     "start": 15.08,
+     "end": 15.13
+    },
+    {
+     "w": "plus",
+     "start": 15.08,
+     "end": 15.24
+    },
+    {
+     "w": "de",
+     "start": 15.24,
+     "end": 15.4
+    },
+    {
+     "w": "menu.",
+     "start": 15.4,
+     "end": 15.6
+    },
+    {
+     "w": "Plus",
+     "start": 15.98,
+     "end": 16.16
+    },
+    {
+     "w": "de",
+     "start": 16.16,
+     "end": 16.3
+    },
+    {
+     "w": "bouton",
+     "start": 16.3,
+     "end": 16.81
+    },
+    {
+     "w": "déconnexion.",
+     "start": 16.81,
+     "end": 17.32
+    },
+    {
+     "w": "Rien.",
+     "start": 17.74,
+     "end": 17.98
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 18.16,
+   "end": 23.6,
+   "slot_end": 23.714,
+   "text": "Son vaisseau, le Krishna, c'est son bébé. Tout ce qu'il a farmé, il l'a encore. Sauf qu'ici, c'est une vraie arme de guerre.",
+   "words": [
+    {
+     "w": "Son",
+     "start": 18.16,
+     "end": 18.3
+    },
+    {
+     "w": "vaisseau,",
+     "start": 18.3,
+     "end": 18.72
+    },
+    {
+     "w": "le",
+     "start": 18.88,
+     "end": 18.93
+    },
+    {
+     "w": "Krishna,",
+     "start": 18.92,
+     "end": 19.24
+    },
+    {
+     "w": "c'est",
+     "start": 19.5,
+     "end": 19.56
+    },
+    {
+     "w": "son",
+     "start": 19.56,
+     "end": 19.7
+    },
+    {
+     "w": "bébé.",
+     "start": 19.7,
+     "end": 20.0
+    },
+    {
+     "w": "Tout",
+     "start": 20.18,
+     "end": 20.28
+    },
+    {
+     "w": "ce",
+     "start": 20.28,
+     "end": 20.38
+    },
+    {
+     "w": "qu'il",
+     "start": 20.38,
+     "end": 20.48
+    },
+    {
+     "w": "a",
+     "start": 20.48,
+     "end": 20.6
+    },
+    {
+     "w": "farmé,",
+     "start": 20.6,
+     "end": 20.92
+    },
+    {
+     "w": "il",
+     "start": 21.0,
+     "end": 21.08
+    },
+    {
+     "w": "l'a",
+     "start": 21.08,
+     "end": 21.22
+    },
+    {
+     "w": "encore.",
+     "start": 21.22,
+     "end": 21.52
+    },
+    {
+     "w": "Sauf",
+     "start": 21.92,
+     "end": 22.22
+    },
+    {
+     "w": "qu'ici,",
+     "start": 22.22,
+     "end": 22.5
+    },
+    {
+     "w": "c'est",
+     "start": 22.68,
+     "end": 22.73
+    },
+    {
+     "w": "une",
+     "start": 22.72,
+     "end": 22.88
+    },
+    {
+     "w": "vraie",
+     "start": 22.88,
+     "end": 23.1
+    },
+    {
+     "w": "arme",
+     "start": 23.1,
+     "end": 23.28
+    },
+    {
+     "w": "de",
+     "start": 23.28,
+     "end": 23.42
+    },
+    {
+     "w": "guerre.",
+     "start": 23.42,
+     "end": 23.6
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 23.74,
+   "end": 28.46,
+   "slot_end": 28.581,
+   "text": "Et lui, les combats spatiaux, il les connaît par cœur. Les pirates qui l'attaquent ont aucune idée de qui ils viennent de croiser.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 23.74,
+     "end": 23.8
+    },
+    {
+     "w": "lui,",
+     "start": 23.8,
+     "end": 23.92
+    },
+    {
+     "w": "les",
+     "start": 24.0,
+     "end": 24.06
+    },
+    {
+     "w": "combats",
+     "start": 24.06,
+     "end": 24.26
+    },
+    {
+     "w": "spatiaux,",
+     "start": 24.26,
+     "end": 24.6
+    },
+    {
+     "w": "il",
+     "start": 24.68,
+     "end": 24.76
+    },
+    {
+     "w": "les",
+     "start": 24.76,
+     "end": 24.88
+    },
+    {
+     "w": "connaît",
+     "start": 24.88,
+     "end": 25.1
+    },
+    {
+     "w": "par",
+     "start": 25.1,
+     "end": 25.3
+    },
+    {
+     "w": "cœur.",
+     "start": 25.3,
+     "end": 25.48
+    },
+    {
+     "w": "Les",
+     "start": 25.48,
+     "end": 26.02
+    },
+    {
+     "w": "pirates",
+     "start": 26.02,
+     "end": 26.28
+    },
+    {
+     "w": "qui",
+     "start": 26.28,
+     "end": 26.48
+    },
+    {
+     "w": "l'attaquent",
+     "start": 26.48,
+     "end": 26.76
+    },
+    {
+     "w": "ont",
+     "start": 26.76,
+     "end": 26.92
+    },
+    {
+     "w": "aucune",
+     "start": 26.92,
+     "end": 27.24
+    },
+    {
+     "w": "idée",
+     "start": 27.24,
+     "end": 27.44
+    },
+    {
+     "w": "de",
+     "start": 27.44,
+     "end": 27.58
+    },
+    {
+     "w": "qui",
+     "start": 27.58,
+     "end": 27.74
+    },
+    {
+     "w": "ils",
+     "start": 27.74,
+     "end": 27.86
+    },
+    {
+     "w": "viennent",
+     "start": 27.86,
+     "end": 28.04
+    },
+    {
+     "w": "de",
+     "start": 28.04,
+     "end": 28.18
+    },
+    {
+     "w": "croiser.",
+     "start": 28.18,
+     "end": 28.46
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 28.58,
+   "end": 33.9,
+   "slot_end": 34.005,
+   "text": "Si t'aimes les animes qui passent sous les radars en France, abonne-toi, j'en sors tous les jours et le prochain est encore plus fou.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 28.58,
+     "end": 28.72
+    },
+    {
+     "w": "t'aimes",
+     "start": 28.72,
+     "end": 28.9
+    },
+    {
+     "w": "les",
+     "start": 28.9,
+     "end": 29.04
+    },
+    {
+     "w": "animes",
+     "start": 29.04,
+     "end": 29.34
+    },
+    {
+     "w": "qui",
+     "start": 29.34,
+     "end": 29.58
+    },
+    {
+     "w": "passent",
+     "start": 29.58,
+     "end": 29.96
+    },
+    {
+     "w": "sous",
+     "start": 29.96,
+     "end": 30.1
+    },
+    {
+     "w": "les",
+     "start": 30.1,
+     "end": 30.2
+    },
+    {
+     "w": "radars",
+     "start": 30.2,
+     "end": 30.44
+    },
+    {
+     "w": "en",
+     "start": 30.44,
+     "end": 30.58
+    },
+    {
+     "w": "France,",
+     "start": 30.58,
+     "end": 30.88
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 31.42,
+     "end": 31.54
+    },
+    {
+     "w": "j'en",
+     "start": 31.54,
+     "end": 31.82
+    },
+    {
+     "w": "sors",
+     "start": 31.82,
+     "end": 31.9
+    },
+    {
+     "w": "tous",
+     "start": 31.9,
+     "end": 32.16
+    },
+    {
+     "w": "les",
+     "start": 32.16,
+     "end": 32.32
+    },
+    {
+     "w": "jours",
+     "start": 32.32,
+     "end": 32.48
+    },
+    {
+     "w": "et",
+     "start": 32.48,
+     "end": 32.66
+    },
+    {
+     "w": "le",
+     "start": 32.66,
+     "end": 32.78
+    },
+    {
+     "w": "prochain",
+     "start": 32.78,
+     "end": 33.06
+    },
+    {
+     "w": "est",
+     "start": 33.06,
+     "end": 33.28
+    },
+    {
+     "w": "encore",
+     "start": 33.28,
+     "end": 33.44
+    },
+    {
+     "w": "plus",
+     "start": 33.44,
+     "end": 33.7
+    },
+    {
+     "w": "fou.",
+     "start": 33.7,
+     "end": 33.9
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 34.02,
+   "end": 39.68,
+   "slot_end": 39.905,
+   "text": "Et c'est là que ça devient intéressant. Il débarque sur une station et il tombe sur Mimi, une fille coincée dans une sale situation.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 34.02,
+     "end": 34.08
+    },
+    {
+     "w": "c'est",
+     "start": 34.08,
+     "end": 34.192
+    },
+    {
+     "w": "là",
+     "start": 34.192,
+     "end": 34.248
+    },
+    {
+     "w": "que",
+     "start": 34.248,
+     "end": 34.304
+    },
+    {
+     "w": "ça",
+     "start": 34.304,
+     "end": 34.36
+    },
+    {
+     "w": "devient",
+     "start": 34.36,
+     "end": 34.58
+    },
+    {
+     "w": "intéressant.",
+     "start": 34.58,
+     "end": 35.04
+    },
+    {
+     "w": "Il",
+     "start": 35.76,
+     "end": 35.88
+    },
+    {
+     "w": "débarque",
+     "start": 35.88,
+     "end": 36.14
+    },
+    {
+     "w": "sur",
+     "start": 36.14,
+     "end": 36.3
+    },
+    {
+     "w": "une",
+     "start": 36.3,
+     "end": 36.4
+    },
+    {
+     "w": "station",
+     "start": 36.4,
+     "end": 36.64
+    },
+    {
+     "w": "et",
+     "start": 36.64,
+     "end": 37.04
+    },
+    {
+     "w": "il",
+     "start": 37.04,
+     "end": 37.16
+    },
+    {
+     "w": "tombe",
+     "start": 37.16,
+     "end": 37.3
+    },
+    {
+     "w": "sur",
+     "start": 37.3,
+     "end": 37.52
+    },
+    {
+     "w": "Mimi,",
+     "start": 37.52,
+     "end": 37.82
+    },
+    {
+     "w": "une",
+     "start": 38.24,
+     "end": 38.38
+    },
+    {
+     "w": "fille",
+     "start": 38.38,
+     "end": 38.54
+    },
+    {
+     "w": "coincée",
+     "start": 38.54,
+     "end": 38.82
+    },
+    {
+     "w": "dans",
+     "start": 38.82,
+     "end": 38.94
+    },
+    {
+     "w": "une",
+     "start": 38.94,
+     "end": 39.1
+    },
+    {
+     "w": "sale",
+     "start": 39.1,
+     "end": 39.22
+    },
+    {
+     "w": "situation.",
+     "start": 39.22,
+     "end": 39.68
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 39.9,
+   "end": 43.98,
+   "slot_end": 44.66,
+   "text": "Il aurait pu passer son chemin. Il l'aide, et elle finit dans son équipage.",
+   "words": [
+    {
+     "w": "Il",
+     "start": 39.9,
+     "end": 40.0
+    },
+    {
+     "w": "aurait",
+     "start": 40.0,
+     "end": 40.22
+    },
+    {
+     "w": "pu",
+     "start": 40.22,
+     "end": 40.38
+    },
+    {
+     "w": "passer",
+     "start": 40.38,
+     "end": 40.6
+    },
+    {
+     "w": "son",
+     "start": 40.6,
+     "end": 40.84
+    },
+    {
+     "w": "chemin.",
+     "start": 40.84,
+     "end": 41.16
+    },
+    {
+     "w": "Il",
+     "start": 41.88,
+     "end": 42.2
+    },
+    {
+     "w": "l'aide,",
+     "start": 42.2,
+     "end": 42.42
+    },
+    {
+     "w": "et",
+     "start": 42.42,
+     "end": 42.76
+    },
+    {
+     "w": "elle",
+     "start": 42.76,
+     "end": 42.88
+    },
+    {
+     "w": "finit",
+     "start": 42.88,
+     "end": 43.14
+    },
+    {
+     "w": "dans",
+     "start": 43.14,
+     "end": 43.28
+    },
+    {
+     "w": "son",
+     "start": 43.28,
+     "end": 43.44
+    },
+    {
+     "w": "équipage.",
+     "start": 43.44,
+     "end": 43.98
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 44.82,
+   "end": 50.06,
+   "slot_end": 50.288,
+   "text": "Ensuite y'a Elma, une elfe mercenaire avec un sacré caractère, et le vaisseau commence à ressembler à une petite famille de l'espace.",
+   "words": [
+    {
+     "w": "Ensuite",
+     "start": 44.82,
+     "end": 45.14
+    },
+    {
+     "w": "y'a",
+     "start": 45.36,
+     "end": 45.46
+    },
+    {
+     "w": "Elma,",
+     "start": 45.46,
+     "end": 45.84
+    },
+    {
+     "w": "une",
+     "start": 46.08,
+     "end": 46.18
+    },
+    {
+     "w": "elfe",
+     "start": 46.18,
+     "end": 46.32
+    },
+    {
+     "w": "mercenaire",
+     "start": 46.32,
+     "end": 46.72
+    },
+    {
+     "w": "avec",
+     "start": 46.72,
+     "end": 46.84
+    },
+    {
+     "w": "un",
+     "start": 46.84,
+     "end": 46.94
+    },
+    {
+     "w": "sacré",
+     "start": 46.94,
+     "end": 47.14
+    },
+    {
+     "w": "caractère,",
+     "start": 47.14,
+     "end": 47.62
+    },
+    {
+     "w": "et",
+     "start": 47.88,
+     "end": 48.06
+    },
+    {
+     "w": "le",
+     "start": 48.06,
+     "end": 48.16
+    },
+    {
+     "w": "vaisseau",
+     "start": 48.16,
+     "end": 48.36
+    },
+    {
+     "w": "commence",
+     "start": 48.36,
+     "end": 48.54
+    },
+    {
+     "w": "à",
+     "start": 48.54,
+     "end": 48.7
+    },
+    {
+     "w": "ressembler",
+     "start": 48.7,
+     "end": 49.0
+    },
+    {
+     "w": "à",
+     "start": 49.0,
+     "end": 49.14
+    },
+    {
+     "w": "une",
+     "start": 49.14,
+     "end": 49.26
+    },
+    {
+     "w": "petite",
+     "start": 49.26,
+     "end": 49.42
+    },
+    {
+     "w": "famille",
+     "start": 49.42,
+     "end": 49.68
+    },
+    {
+     "w": "de",
+     "start": 49.68,
+     "end": 49.82
+    },
+    {
+     "w": "l'espace.",
+     "start": 49.82,
+     "end": 50.06
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 50.3,
+   "end": 55.72,
+   "slot_end": 55.91,
+   "text": "Et le délire, c'est que Hiro joue pas au héros. Il veut juste de la thune, une maison sur une planète tranquille, et dormir.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 50.3,
+     "end": 50.38
+    },
+    {
+     "w": "le",
+     "start": 50.38,
+     "end": 50.46
+    },
+    {
+     "w": "délire,",
+     "start": 50.46,
+     "end": 50.7
+    },
+    {
+     "w": "c'est",
+     "start": 50.74,
+     "end": 50.9
+    },
+    {
+     "w": "que",
+     "start": 50.9,
+     "end": 51.02
+    },
+    {
+     "w": "Hiro",
+     "start": 51.02,
+     "end": 51.24
+    },
+    {
+     "w": "joue",
+     "start": 51.24,
+     "end": 51.46
+    },
+    {
+     "w": "pas",
+     "start": 51.46,
+     "end": 51.66
+    },
+    {
+     "w": "au",
+     "start": 51.66,
+     "end": 51.76
+    },
+    {
+     "w": "héros.",
+     "start": 51.76,
+     "end": 51.92
+    },
+    {
+     "w": "Il",
+     "start": 52.42,
+     "end": 52.56
+    },
+    {
+     "w": "veut",
+     "start": 52.56,
+     "end": 52.66
+    },
+    {
+     "w": "juste",
+     "start": 52.66,
+     "end": 52.86
+    },
+    {
+     "w": "de",
+     "start": 52.86,
+     "end": 53.0
+    },
+    {
+     "w": "la",
+     "start": 53.0,
+     "end": 53.08
+    },
+    {
+     "w": "thune,",
+     "start": 53.08,
+     "end": 53.34
+    },
+    {
+     "w": "une",
+     "start": 53.66,
+     "end": 53.82
+    },
+    {
+     "w": "maison",
+     "start": 53.82,
+     "end": 53.98
+    },
+    {
+     "w": "sur",
+     "start": 53.98,
+     "end": 54.24
+    },
+    {
+     "w": "une",
+     "start": 54.24,
+     "end": 54.36
+    },
+    {
+     "w": "planète",
+     "start": 54.36,
+     "end": 54.62
+    },
+    {
+     "w": "tranquille,",
+     "start": 54.62,
+     "end": 55.06
+    },
+    {
+     "w": "et",
+     "start": 55.06,
+     "end": 55.5
+    },
+    {
+     "w": "dormir.",
+     "start": 55.5,
+     "end": 55.72
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 55.96,
+   "end": 59.54,
+   "slot_end": 59.675,
+   "text": "Sauf que quand t'as le vaisseau le plus dangereux du coin, c'est les galères qui viennent te chercher.",
+   "words": [
+    {
+     "w": "Sauf",
+     "start": 55.96,
+     "end": 56.04
+    },
+    {
+     "w": "que",
+     "start": 56.04,
+     "end": 56.18
+    },
+    {
+     "w": "quand",
+     "start": 56.18,
+     "end": 56.32
+    },
+    {
+     "w": "t'as",
+     "start": 56.32,
+     "end": 56.5
+    },
+    {
+     "w": "le",
+     "start": 56.5,
+     "end": 56.59
+    },
+    {
+     "w": "vaisseau",
+     "start": 56.59,
+     "end": 56.68
+    },
+    {
+     "w": "le",
+     "start": 56.68,
+     "end": 56.8
+    },
+    {
+     "w": "plus",
+     "start": 56.8,
+     "end": 56.94
+    },
+    {
+     "w": "dangereux",
+     "start": 56.94,
+     "end": 57.34
+    },
+    {
+     "w": "du",
+     "start": 57.34,
+     "end": 57.44
+    },
+    {
+     "w": "coin,",
+     "start": 57.44,
+     "end": 57.7
+    },
+    {
+     "w": "c'est",
+     "start": 57.84,
+     "end": 58.24
+    },
+    {
+     "w": "les",
+     "start": 58.24,
+     "end": 58.38
+    },
+    {
+     "w": "galères",
+     "start": 58.38,
+     "end": 58.72
+    },
+    {
+     "w": "qui",
+     "start": 58.72,
+     "end": 58.88
+    },
+    {
+     "w": "viennent",
+     "start": 58.88,
+     "end": 59.08
+    },
+    {
+     "w": "te",
+     "start": 59.08,
+     "end": 59.22
+    },
+    {
+     "w": "chercher.",
+     "start": 59.22,
+     "end": 59.54
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 59.68,
+   "end": 66.32,
+   "slot_end": 66.442,
+   "text": "Mon avis ? C'est pas l'anime qui va changer ta vie. Mais on sort enfin de l'isekai médiéval, et un mec qui gère son vaisseau comme une PME, j'kiffe.",
+   "words": [
+    {
+     "w": "Mon",
+     "start": 59.68,
+     "end": 59.8
+    },
+    {
+     "w": "avis",
+     "start": 59.8,
+     "end": 59.92
+    },
+    {
+     "w": "?",
+     "start": 59.92,
+     "end": 60.04
+    },
+    {
+     "w": "C'est",
+     "start": 60.36,
+     "end": 60.54
+    },
+    {
+     "w": "pas",
+     "start": 60.54,
+     "end": 60.68
+    },
+    {
+     "w": "l'anime",
+     "start": 60.68,
+     "end": 60.88
+    },
+    {
+     "w": "qui",
+     "start": 60.88,
+     "end": 61.06
+    },
+    {
+     "w": "va",
+     "start": 61.06,
+     "end": 61.14
+    },
+    {
+     "w": "changer",
+     "start": 61.14,
+     "end": 61.32
+    },
+    {
+     "w": "ta",
+     "start": 61.32,
+     "end": 61.5
+    },
+    {
+     "w": "vie.",
+     "start": 61.5,
+     "end": 61.66
+    },
+    {
+     "w": "Mais",
+     "start": 61.82,
+     "end": 61.96
+    },
+    {
+     "w": "on",
+     "start": 61.96,
+     "end": 62.08
+    },
+    {
+     "w": "sort",
+     "start": 62.08,
+     "end": 62.3
+    },
+    {
+     "w": "enfin",
+     "start": 62.3,
+     "end": 62.7
+    },
+    {
+     "w": "de",
+     "start": 62.7,
+     "end": 62.86
+    },
+    {
+     "w": "l'isekai",
+     "start": 62.86,
+     "end": 63.28
+    },
+    {
+     "w": "médiéval,",
+     "start": 63.28,
+     "end": 63.68
+    },
+    {
+     "w": "et",
+     "start": 63.68,
+     "end": 64.18
+    },
+    {
+     "w": "un",
+     "start": 64.18,
+     "end": 64.32
+    },
+    {
+     "w": "mec",
+     "start": 64.32,
+     "end": 64.44
+    },
+    {
+     "w": "qui",
+     "start": 64.44,
+     "end": 64.49
+    },
+    {
+     "w": "gère",
+     "start": 64.44,
+     "end": 64.7
+    },
+    {
+     "w": "son",
+     "start": 64.7,
+     "end": 64.86
+    },
+    {
+     "w": "vaisseau",
+     "start": 64.86,
+     "end": 65.16
+    },
+    {
+     "w": "comme",
+     "start": 65.16,
+     "end": 65.32
+    },
+    {
+     "w": "une",
+     "start": 65.32,
+     "end": 65.44
+    },
+    {
+     "w": "PME,",
+     "start": 65.44,
+     "end": 65.74
+    },
+    {
+     "w": "j'kiffe.",
+     "start": 65.92,
+     "end": 66.32
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 66.46,
+   "end": 69.96,
+   "slot_end": 70.055,
+   "text": "Ça vient de commencer cet automne, un épisode par semaine, t'as le temps de rattraper.",
+   "words": [
+    {
+     "w": "Ça",
+     "start": 66.46,
+     "end": 66.54
+    },
+    {
+     "w": "vient",
+     "start": 66.54,
+     "end": 66.66
+    },
+    {
+     "w": "de",
+     "start": 66.66,
+     "end": 66.74
+    },
+    {
+     "w": "commencer",
+     "start": 66.74,
+     "end": 67.0
+    },
+    {
+     "w": "cet",
+     "start": 67.0,
+     "end": 67.18
+    },
+    {
+     "w": "automne,",
+     "start": 67.18,
+     "end": 67.72
+    },
+    {
+     "w": "un",
+     "start": 67.84,
+     "end": 67.94
+    },
+    {
+     "w": "épisode",
+     "start": 67.94,
+     "end": 68.22
+    },
+    {
+     "w": "par",
+     "start": 68.22,
+     "end": 68.42
+    },
+    {
+     "w": "semaine,",
+     "start": 68.42,
+     "end": 68.68
+    },
+    {
+     "w": "t'as",
+     "start": 69.1,
+     "end": 69.22
+    },
+    {
+     "w": "le",
+     "start": 69.22,
+     "end": 69.34
+    },
+    {
+     "w": "temps",
+     "start": 69.34,
+     "end": 69.46
+    },
+    {
+     "w": "de",
+     "start": 69.46,
+     "end": 69.58
+    },
+    {
+     "w": "rattraper.",
+     "start": 69.58,
+     "end": 69.96
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 70.1,
+   "end": 73.4,
+   "slot_end": 73.565,
+   "text": "Le nom, c'est Reborn as a Space Mercenary. Tu l'avais déjà vu passer ? Dis-moi en com'.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 70.1,
+     "end": 70.16
+    },
+    {
+     "w": "nom,",
+     "start": 70.16,
+     "end": 70.32
+    },
+    {
+     "w": "c'est",
+     "start": 70.32,
+     "end": 70.52
+    },
+    {
+     "w": "Reborn",
+     "start": 70.52,
+     "end": 70.86
+    },
+    {
+     "w": "as",
+     "start": 70.86,
+     "end": 71.08
+    },
+    {
+     "w": "a",
+     "start": 71.08,
+     "end": 71.14
+    },
+    {
+     "w": "Space",
+     "start": 71.14,
+     "end": 71.36
+    },
+    {
+     "w": "Mercenary.",
+     "start": 71.36,
+     "end": 71.9
+    },
+    {
+     "w": "Tu",
+     "start": 72.1,
+     "end": 72.18
+    },
+    {
+     "w": "l'avais",
+     "start": 72.18,
+     "end": 72.32
+    },
+    {
+     "w": "déjà",
+     "start": 72.32,
+     "end": 72.5
+    },
+    {
+     "w": "vu",
+     "start": 72.5,
+     "end": 72.6
+    },
+    {
+     "w": "passer",
+     "start": 72.6,
+     "end": 72.78
+    },
+    {
+     "w": "?",
+     "start": 73.08,
+     "end": 73.13
+    },
+    {
+     "w": "Dis-moi",
+     "start": 73.1,
+     "end": 73.24
+    },
+    {
+     "w": "en",
+     "start": 73.24,
+     "end": 73.34
+    },
+    {
+     "w": "com'.",
+     "start": 73.34,
+     "end": 73.4
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "start": 73.58,
+   "end": 76.56,
+   "slot_end": 77.302,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 73.58,
+     "end": 73.78
+    },
+    {
+     "w": "Asura.",
+     "start": 73.78,
+     "end": 74.16
+    },
+    {
+     "w": "On",
+     "start": 74.94,
+     "end": 75.22
+    },
+    {
+     "w": "se",
+     "start": 75.22,
+     "end": 75.36
+    },
+    {
+     "w": "capte",
+     "start": 75.36,
+     "end": 75.72
+    },
+    {
+     "w": "au",
+     "start": 75.72,
+     "end": 75.77
+    },
+    {
+     "w": "prochain",
+     "start": 75.72,
+     "end": 76.02
+    },
+    {
+     "w": "épisode.",
+     "start": 76.02,
+     "end": 76.56
+    }
+   ]
+  }
+ ],
+ "aligned": 0.994
+}
