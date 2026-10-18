@@ -1,0 +1,1668 @@
+{
+ "engine": "fish",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/voice.wav",
+ "duration": 83.344,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 3.14,
+   "slot_end": 3.31,
+   "text": "Le pouvoir de Takemichi n'est pas un hasard, il est lié à Mikey.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 0.0,
+     "end": 0.08
+    },
+    {
+     "w": "pouvoir",
+     "start": 0.08,
+     "end": 0.36
+    },
+    {
+     "w": "de",
+     "start": 0.36,
+     "end": 0.52
+    },
+    {
+     "w": "Takemichi",
+     "start": 0.52,
+     "end": 0.98
+    },
+    {
+     "w": "n'est",
+     "start": 0.98,
+     "end": 1.26
+    },
+    {
+     "w": "pas",
+     "start": 1.26,
+     "end": 1.4
+    },
+    {
+     "w": "un",
+     "start": 1.4,
+     "end": 1.58
+    },
+    {
+     "w": "hasard,",
+     "start": 1.58,
+     "end": 1.9
+    },
+    {
+     "w": "il",
+     "start": 2.12,
+     "end": 2.17
+    },
+    {
+     "w": "est",
+     "start": 2.16,
+     "end": 2.26
+    },
+    {
+     "w": "lié",
+     "start": 2.26,
+     "end": 2.48
+    },
+    {
+     "w": "à",
+     "start": 2.48,
+     "end": 2.7
+    },
+    {
+     "w": "Mikey.",
+     "start": 2.7,
+     "end": 3.14
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 3.32,
+   "end": 6.6,
+   "slot_end": 6.82,
+   "text": "Reste jusqu'au bout, parce que si j'ai raison, toute l'histoire change de sens.",
+   "words": [
+    {
+     "w": "Reste",
+     "start": 3.32,
+     "end": 3.52
+    },
+    {
+     "w": "jusqu'au",
+     "start": 3.52,
+     "end": 3.88
+    },
+    {
+     "w": "bout,",
+     "start": 3.88,
+     "end": 4.04
+    },
+    {
+     "w": "parce",
+     "start": 4.16,
+     "end": 4.28
+    },
+    {
+     "w": "que",
+     "start": 4.28,
+     "end": 4.4
+    },
+    {
+     "w": "si",
+     "start": 4.4,
+     "end": 4.54
+    },
+    {
+     "w": "j'ai",
+     "start": 4.54,
+     "end": 4.72
+    },
+    {
+     "w": "raison,",
+     "start": 4.72,
+     "end": 4.96
+    },
+    {
+     "w": "toute",
+     "start": 5.38,
+     "end": 5.46
+    },
+    {
+     "w": "l'histoire",
+     "start": 5.46,
+     "end": 5.8
+    },
+    {
+     "w": "change",
+     "start": 5.8,
+     "end": 6.18
+    },
+    {
+     "w": "de",
+     "start": 6.18,
+     "end": 6.34
+    },
+    {
+     "w": "sens.",
+     "start": 6.34,
+     "end": 6.6
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 6.82,
+   "end": 11.7,
+   "slot_end": 11.779,
+   "text": "Rappel rapide. Takemichi, c'est le loser qui remonte dans le passé pour sauver Hinata, sa copine du collège.",
+   "words": [
+    {
+     "w": "Rappel",
+     "start": 6.82,
+     "end": 7.02
+    },
+    {
+     "w": "rapide.",
+     "start": 7.02,
+     "end": 7.44
+    },
+    {
+     "w": "Takemichi,",
+     "start": 7.88,
+     "end": 8.28
+    },
+    {
+     "w": "c'est",
+     "start": 8.52,
+     "end": 8.57
+    },
+    {
+     "w": "le",
+     "start": 8.56,
+     "end": 8.68
+    },
+    {
+     "w": "loser",
+     "start": 8.68,
+     "end": 8.84
+    },
+    {
+     "w": "qui",
+     "start": 8.84,
+     "end": 9.08
+    },
+    {
+     "w": "remonte",
+     "start": 9.08,
+     "end": 9.32
+    },
+    {
+     "w": "dans",
+     "start": 9.32,
+     "end": 9.5
+    },
+    {
+     "w": "le",
+     "start": 9.5,
+     "end": 9.58
+    },
+    {
+     "w": "passé",
+     "start": 9.58,
+     "end": 9.8
+    },
+    {
+     "w": "pour",
+     "start": 9.8,
+     "end": 10.0
+    },
+    {
+     "w": "sauver",
+     "start": 10.0,
+     "end": 10.3
+    },
+    {
+     "w": "Hinata,",
+     "start": 10.3,
+     "end": 10.62
+    },
+    {
+     "w": "sa",
+     "start": 10.78,
+     "end": 10.86
+    },
+    {
+     "w": "copine",
+     "start": 10.86,
+     "end": 11.18
+    },
+    {
+     "w": "du",
+     "start": 11.18,
+     "end": 11.36
+    },
+    {
+     "w": "collège.",
+     "start": 11.36,
+     "end": 11.7
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 11.78,
+   "end": 17.74,
+   "slot_end": 17.809,
+   "text": "Et son déclencheur, c'est toujours le même : il serre la main de Naoto, le petit frère de Hinata, et paf, il repart douze ans en arrière.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 11.78,
+     "end": 11.84
+    },
+    {
+     "w": "son",
+     "start": 11.84,
+     "end": 11.96
+    },
+    {
+     "w": "déclencheur,",
+     "start": 11.96,
+     "end": 12.19
+    },
+    {
+     "w": "c'est",
+     "start": 12.19,
+     "end": 12.58
+    },
+    {
+     "w": "toujours",
+     "start": 12.58,
+     "end": 12.76
+    },
+    {
+     "w": "le",
+     "start": 12.76,
+     "end": 12.9
+    },
+    {
+     "w": "même",
+     "start": 12.9,
+     "end": 13.04
+    },
+    {
+     "w": ":",
+     "start": 13.04,
+     "end": 13.3
+    },
+    {
+     "w": "il",
+     "start": 13.3,
+     "end": 13.42
+    },
+    {
+     "w": "serre",
+     "start": 13.42,
+     "end": 13.72
+    },
+    {
+     "w": "la",
+     "start": 13.72,
+     "end": 13.94
+    },
+    {
+     "w": "main",
+     "start": 13.94,
+     "end": 14.14
+    },
+    {
+     "w": "de",
+     "start": 14.14,
+     "end": 14.32
+    },
+    {
+     "w": "Naoto,",
+     "start": 14.32,
+     "end": 14.64
+    },
+    {
+     "w": "le",
+     "start": 14.8,
+     "end": 14.86
+    },
+    {
+     "w": "petit",
+     "start": 14.86,
+     "end": 15.04
+    },
+    {
+     "w": "frère",
+     "start": 15.04,
+     "end": 15.3
+    },
+    {
+     "w": "de",
+     "start": 15.3,
+     "end": 15.46
+    },
+    {
+     "w": "Hinata,",
+     "start": 15.46,
+     "end": 15.76
+    },
+    {
+     "w": "et",
+     "start": 16.04,
+     "end": 16.14
+    },
+    {
+     "w": "paf,",
+     "start": 16.14,
+     "end": 16.38
+    },
+    {
+     "w": "il",
+     "start": 16.52,
+     "end": 16.58
+    },
+    {
+     "w": "repart",
+     "start": 16.58,
+     "end": 16.86
+    },
+    {
+     "w": "douze",
+     "start": 16.86,
+     "end": 17.14
+    },
+    {
+     "w": "ans",
+     "start": 17.14,
+     "end": 17.3
+    },
+    {
+     "w": "en",
+     "start": 17.3,
+     "end": 17.38
+    },
+    {
+     "w": "arrière.",
+     "start": 17.38,
+     "end": 17.74
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 17.8,
+   "end": 22.93,
+   "slot_end": 22.825,
+   "text": "Sauf que personne explique pourquoi lui. Pourquoi un mec random qui bosse dans une boutique de location ?",
+   "words": [
+    {
+     "w": "Sauf",
+     "start": 17.8,
+     "end": 17.96
+    },
+    {
+     "w": "que",
+     "start": 17.96,
+     "end": 18.1
+    },
+    {
+     "w": "personne",
+     "start": 18.1,
+     "end": 18.4
+    },
+    {
+     "w": "explique",
+     "start": 18.4,
+     "end": 18.86
+    },
+    {
+     "w": "pourquoi",
+     "start": 18.86,
+     "end": 19.24
+    },
+    {
+     "w": "lui.",
+     "start": 19.24,
+     "end": 19.52
+    },
+    {
+     "w": "Pourquoi",
+     "start": 20.18,
+     "end": 20.4
+    },
+    {
+     "w": "un",
+     "start": 20.4,
+     "end": 20.64
+    },
+    {
+     "w": "mec",
+     "start": 20.64,
+     "end": 20.76
+    },
+    {
+     "w": "random",
+     "start": 20.76,
+     "end": 21.06
+    },
+    {
+     "w": "qui",
+     "start": 21.06,
+     "end": 21.36
+    },
+    {
+     "w": "bosse",
+     "start": 21.36,
+     "end": 21.52
+    },
+    {
+     "w": "dans",
+     "start": 21.52,
+     "end": 21.66
+    },
+    {
+     "w": "une",
+     "start": 21.66,
+     "end": 21.84
+    },
+    {
+     "w": "boutique",
+     "start": 21.84,
+     "end": 22.16
+    },
+    {
+     "w": "de",
+     "start": 22.16,
+     "end": 22.3
+    },
+    {
+     "w": "location",
+     "start": 22.3,
+     "end": 22.6
+    },
+    {
+     "w": "?",
+     "start": 22.82,
+     "end": 22.93
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 22.93,
+   "end": 29.16,
+   "slot_end": 29.272,
+   "text": "Premier indice. Chaque fois qu'il change le passé, tout tourne autour d'un seul mec : Mikey. Pas Hinata, pas Draken. Mikey.",
+   "words": [
+    {
+     "w": "Premier",
+     "start": 22.93,
+     "end": 23.04
+    },
+    {
+     "w": "indice.",
+     "start": 23.04,
+     "end": 23.34
+    },
+    {
+     "w": "Chaque",
+     "start": 23.66,
+     "end": 23.88
+    },
+    {
+     "w": "fois",
+     "start": 23.88,
+     "end": 23.98
+    },
+    {
+     "w": "qu'il",
+     "start": 23.98,
+     "end": 24.14
+    },
+    {
+     "w": "change",
+     "start": 24.14,
+     "end": 24.32
+    },
+    {
+     "w": "le",
+     "start": 24.32,
+     "end": 24.46
+    },
+    {
+     "w": "passé,",
+     "start": 24.46,
+     "end": 24.64
+    },
+    {
+     "w": "tout",
+     "start": 24.96,
+     "end": 25.02
+    },
+    {
+     "w": "tourne",
+     "start": 25.02,
+     "end": 25.3
+    },
+    {
+     "w": "autour",
+     "start": 25.3,
+     "end": 25.54
+    },
+    {
+     "w": "d'un",
+     "start": 25.54,
+     "end": 25.82
+    },
+    {
+     "w": "seul",
+     "start": 25.82,
+     "end": 26.0
+    },
+    {
+     "w": "mec",
+     "start": 26.0,
+     "end": 26.2
+    },
+    {
+     "w": ":",
+     "start": 26.46,
+     "end": 26.846
+    },
+    {
+     "w": "Mikey.",
+     "start": 26.846,
+     "end": 27.231
+    },
+    {
+     "w": "Pas",
+     "start": 27.231,
+     "end": 27.617
+    },
+    {
+     "w": "Hinata,",
+     "start": 27.617,
+     "end": 28.003
+    },
+    {
+     "w": "pas",
+     "start": 28.003,
+     "end": 28.389
+    },
+    {
+     "w": "Draken.",
+     "start": 28.389,
+     "end": 28.774
+    },
+    {
+     "w": "Mikey.",
+     "start": 28.774,
+     "end": 29.16
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 29.16,
+   "end": 37.02,
+   "slot_end": 37.069,
+   "text": "Deuxième indice. Mikey a un truc noir en lui, une pulsion qu'il arrive plus à contrôler, et il le dit lui-même. C'est pour ça qu'il repousse tous ses potes.",
+   "words": [
+    {
+     "w": "Deuxième",
+     "start": 29.16,
+     "end": 29.64
+    },
+    {
+     "w": "indice.",
+     "start": 29.64,
+     "end": 30.0
+    },
+    {
+     "w": "Mikey",
+     "start": 30.62,
+     "end": 30.96
+    },
+    {
+     "w": "a",
+     "start": 30.96,
+     "end": 31.2
+    },
+    {
+     "w": "un",
+     "start": 31.2,
+     "end": 31.32
+    },
+    {
+     "w": "truc",
+     "start": 31.32,
+     "end": 31.46
+    },
+    {
+     "w": "noir",
+     "start": 31.46,
+     "end": 31.72
+    },
+    {
+     "w": "en",
+     "start": 31.72,
+     "end": 31.86
+    },
+    {
+     "w": "lui,",
+     "start": 31.86,
+     "end": 32.0
+    },
+    {
+     "w": "une",
+     "start": 32.18,
+     "end": 32.32
+    },
+    {
+     "w": "pulsion",
+     "start": 32.32,
+     "end": 32.76
+    },
+    {
+     "w": "qu'il",
+     "start": 32.76,
+     "end": 32.96
+    },
+    {
+     "w": "arrive",
+     "start": 33.06,
+     "end": 33.12
+    },
+    {
+     "w": "plus",
+     "start": 33.12,
+     "end": 33.32
+    },
+    {
+     "w": "à",
+     "start": 33.32,
+     "end": 33.44
+    },
+    {
+     "w": "contrôler,",
+     "start": 33.44,
+     "end": 33.8
+    },
+    {
+     "w": "et",
+     "start": 33.8,
+     "end": 34.04
+    },
+    {
+     "w": "il",
+     "start": 34.04,
+     "end": 34.12
+    },
+    {
+     "w": "le",
+     "start": 34.12,
+     "end": 34.32
+    },
+    {
+     "w": "dit",
+     "start": 34.32,
+     "end": 34.44
+    },
+    {
+     "w": "lui-même.",
+     "start": 34.44,
+     "end": 34.84
+    },
+    {
+     "w": "C'est",
+     "start": 35.34,
+     "end": 35.72
+    },
+    {
+     "w": "pour",
+     "start": 35.72,
+     "end": 35.86
+    },
+    {
+     "w": "ça",
+     "start": 35.86,
+     "end": 35.96
+    },
+    {
+     "w": "qu'il",
+     "start": 35.96,
+     "end": 36.12
+    },
+    {
+     "w": "repousse",
+     "start": 36.12,
+     "end": 36.4
+    },
+    {
+     "w": "tous",
+     "start": 36.4,
+     "end": 36.62
+    },
+    {
+     "w": "ses",
+     "start": 36.62,
+     "end": 36.8
+    },
+    {
+     "w": "potes.",
+     "start": 36.8,
+     "end": 37.02
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 37.16,
+   "end": 41.94,
+   "slot_end": 42.054,
+   "text": "Si toi aussi tu cherches des réponses sur Tokyo Revengers, abonne-toi, je décortique cet arc épisode après épisode.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 37.16,
+     "end": 37.21
+    },
+    {
+     "w": "toi",
+     "start": 37.18,
+     "end": 37.3
+    },
+    {
+     "w": "aussi",
+     "start": 37.3,
+     "end": 37.46
+    },
+    {
+     "w": "tu",
+     "start": 37.46,
+     "end": 37.6
+    },
+    {
+     "w": "cherches",
+     "start": 37.6,
+     "end": 37.86
+    },
+    {
+     "w": "des",
+     "start": 37.86,
+     "end": 37.98
+    },
+    {
+     "w": "réponses",
+     "start": 37.98,
+     "end": 38.3
+    },
+    {
+     "w": "sur",
+     "start": 38.3,
+     "end": 38.48
+    },
+    {
+     "w": "Tokyo",
+     "start": 38.48,
+     "end": 38.64
+    },
+    {
+     "w": "Revengers,",
+     "start": 38.64,
+     "end": 39.18
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 39.38,
+     "end": 39.76
+    },
+    {
+     "w": "je",
+     "start": 40.02,
+     "end": 40.08
+    },
+    {
+     "w": "décortique",
+     "start": 40.08,
+     "end": 40.4
+    },
+    {
+     "w": "cet",
+     "start": 40.4,
+     "end": 40.72
+    },
+    {
+     "w": "arc",
+     "start": 40.72,
+     "end": 40.9
+    },
+    {
+     "w": "épisode",
+     "start": 40.9,
+     "end": 41.28
+    },
+    {
+     "w": "après",
+     "start": 41.28,
+     "end": 41.56
+    },
+    {
+     "w": "épisode.",
+     "start": 41.56,
+     "end": 41.94
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 42.08,
+   "end": 49.52,
+   "slot_end": 49.615,
+   "text": "Troisième indice, et c'est là que ça devient chaud. Dans l'arc des Trois Titans, Takemichi commence à voir des flashs du futur, avec le nez qui saigne.",
+   "words": [
+    {
+     "w": "Troisième",
+     "start": 42.08,
+     "end": 42.36
+    },
+    {
+     "w": "indice,",
+     "start": 42.36,
+     "end": 42.74
+    },
+    {
+     "w": "et",
+     "start": 42.9,
+     "end": 42.96
+    },
+    {
+     "w": "c'est",
+     "start": 42.96,
+     "end": 43.04
+    },
+    {
+     "w": "là",
+     "start": 43.04,
+     "end": 43.16
+    },
+    {
+     "w": "que",
+     "start": 43.16,
+     "end": 43.24
+    },
+    {
+     "w": "ça",
+     "start": 43.24,
+     "end": 43.32
+    },
+    {
+     "w": "devient",
+     "start": 43.32,
+     "end": 43.52
+    },
+    {
+     "w": "chaud.",
+     "start": 43.52,
+     "end": 43.8
+    },
+    {
+     "w": "Dans",
+     "start": 44.46,
+     "end": 44.6
+    },
+    {
+     "w": "l'arc",
+     "start": 44.6,
+     "end": 44.76
+    },
+    {
+     "w": "des",
+     "start": 44.76,
+     "end": 45.04
+    },
+    {
+     "w": "Trois",
+     "start": 45.04,
+     "end": 45.26
+    },
+    {
+     "w": "Titans,",
+     "start": 45.26,
+     "end": 45.62
+    },
+    {
+     "w": "Takemichi",
+     "start": 45.74,
+     "end": 46.16
+    },
+    {
+     "w": "commence",
+     "start": 46.16,
+     "end": 46.4
+    },
+    {
+     "w": "à",
+     "start": 46.4,
+     "end": 46.62
+    },
+    {
+     "w": "voir",
+     "start": 46.62,
+     "end": 46.82
+    },
+    {
+     "w": "des",
+     "start": 46.82,
+     "end": 47.02
+    },
+    {
+     "w": "flashs",
+     "start": 47.02,
+     "end": 47.38
+    },
+    {
+     "w": "du",
+     "start": 47.38,
+     "end": 47.6
+    },
+    {
+     "w": "futur,",
+     "start": 47.6,
+     "end": 47.98
+    },
+    {
+     "w": "avec",
+     "start": 47.98,
+     "end": 48.64
+    },
+    {
+     "w": "le",
+     "start": 48.64,
+     "end": 48.92
+    },
+    {
+     "w": "nez",
+     "start": 48.92,
+     "end": 49.08
+    },
+    {
+     "w": "qui",
+     "start": 49.08,
+     "end": 49.22
+    },
+    {
+     "w": "saigne.",
+     "start": 49.22,
+     "end": 49.52
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 49.6,
+   "end": 55.48,
+   "slot_end": 55.56,
+   "text": "Un pouvoir qui évolue, pile au moment où Mikey sombre avec le Kanto Manji. Moi j'appelle pas ça une coïncidence frr.",
+   "words": [
+    {
+     "w": "Un",
+     "start": 49.6,
+     "end": 49.7
+    },
+    {
+     "w": "pouvoir",
+     "start": 49.7,
+     "end": 49.96
+    },
+    {
+     "w": "qui",
+     "start": 49.96,
+     "end": 50.12
+    },
+    {
+     "w": "évolue,",
+     "start": 50.12,
+     "end": 50.52
+    },
+    {
+     "w": "pile",
+     "start": 50.64,
+     "end": 50.7
+    },
+    {
+     "w": "au",
+     "start": 50.7,
+     "end": 50.82
+    },
+    {
+     "w": "moment",
+     "start": 50.82,
+     "end": 51.04
+    },
+    {
+     "w": "où",
+     "start": 51.04,
+     "end": 51.22
+    },
+    {
+     "w": "Mikey",
+     "start": 51.22,
+     "end": 51.48
+    },
+    {
+     "w": "sombre",
+     "start": 51.48,
+     "end": 51.98
+    },
+    {
+     "w": "avec",
+     "start": 51.98,
+     "end": 52.2
+    },
+    {
+     "w": "le",
+     "start": 52.2,
+     "end": 52.4
+    },
+    {
+     "w": "Kanto",
+     "start": 52.4,
+     "end": 52.72
+    },
+    {
+     "w": "Manji.",
+     "start": 52.72,
+     "end": 53.18
+    },
+    {
+     "w": "Moi",
+     "start": 53.76,
+     "end": 53.9
+    },
+    {
+     "w": "j'appelle",
+     "start": 53.9,
+     "end": 54.1
+    },
+    {
+     "w": "pas",
+     "start": 54.1,
+     "end": 54.3
+    },
+    {
+     "w": "ça",
+     "start": 54.3,
+     "end": 54.46
+    },
+    {
+     "w": "une",
+     "start": 54.46,
+     "end": 54.6
+    },
+    {
+     "w": "coïncidence",
+     "start": 54.6,
+     "end": 55.08
+    },
+    {
+     "w": "frr.",
+     "start": 55.08,
+     "end": 55.48
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 55.48,
+   "end": 62.21,
+   "slot_end": 62.186,
+   "text": "Et y'a un nom qui revient toujours dans l'ombre de Mikey. Shinichiro, son grand frère mort, celui que Mikey admirait plus que tout.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 55.48,
+     "end": 55.68
+    },
+    {
+     "w": "y'a",
+     "start": 55.76,
+     "end": 55.81
+    },
+    {
+     "w": "un",
+     "start": 55.76,
+     "end": 55.88
+    },
+    {
+     "w": "nom",
+     "start": 55.88,
+     "end": 55.96
+    },
+    {
+     "w": "qui",
+     "start": 55.96,
+     "end": 56.12
+    },
+    {
+     "w": "revient",
+     "start": 56.12,
+     "end": 56.4
+    },
+    {
+     "w": "toujours",
+     "start": 56.4,
+     "end": 56.68
+    },
+    {
+     "w": "dans",
+     "start": 56.68,
+     "end": 56.84
+    },
+    {
+     "w": "l'ombre",
+     "start": 56.84,
+     "end": 57.1
+    },
+    {
+     "w": "de",
+     "start": 57.1,
+     "end": 57.26
+    },
+    {
+     "w": "Mikey.",
+     "start": 57.26,
+     "end": 57.54
+    },
+    {
+     "w": "Shinichiro,",
+     "start": 58.3,
+     "end": 59.08
+    },
+    {
+     "w": "son",
+     "start": 59.38,
+     "end": 59.6
+    },
+    {
+     "w": "grand",
+     "start": 59.6,
+     "end": 59.74
+    },
+    {
+     "w": "frère",
+     "start": 59.74,
+     "end": 60.0
+    },
+    {
+     "w": "mort,",
+     "start": 60.0,
+     "end": 60.26
+    },
+    {
+     "w": "celui",
+     "start": 60.66,
+     "end": 60.82
+    },
+    {
+     "w": "que",
+     "start": 60.82,
+     "end": 61.04
+    },
+    {
+     "w": "Mikey",
+     "start": 61.04,
+     "end": 61.28
+    },
+    {
+     "w": "admirait",
+     "start": 61.28,
+     "end": 61.76
+    },
+    {
+     "w": "plus",
+     "start": 61.76,
+     "end": 61.92
+    },
+    {
+     "w": "que",
+     "start": 61.92,
+     "end": 62.16
+    },
+    {
+     "w": "tout.",
+     "start": 62.16,
+     "end": 62.21
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 62.16,
+   "end": 68.6,
+   "slot_end": 68.681,
+   "text": "Ma théorie, c'est que le pouvoir de Takemichi et la noirceur de Mikey ont la même origine, et que Shinichiro est au centre de tout ça.",
+   "words": [
+    {
+     "w": "Ma",
+     "start": 62.16,
+     "end": 62.28
+    },
+    {
+     "w": "théorie,",
+     "start": 62.28,
+     "end": 62.56
+    },
+    {
+     "w": "c'est",
+     "start": 62.76,
+     "end": 62.86
+    },
+    {
+     "w": "que",
+     "start": 62.86,
+     "end": 62.98
+    },
+    {
+     "w": "le",
+     "start": 62.98,
+     "end": 63.08
+    },
+    {
+     "w": "pouvoir",
+     "start": 63.08,
+     "end": 63.34
+    },
+    {
+     "w": "de",
+     "start": 63.34,
+     "end": 63.64
+    },
+    {
+     "w": "Takemichi",
+     "start": 63.64,
+     "end": 64.16
+    },
+    {
+     "w": "et",
+     "start": 64.16,
+     "end": 64.42
+    },
+    {
+     "w": "la",
+     "start": 64.42,
+     "end": 64.58
+    },
+    {
+     "w": "noirceur",
+     "start": 64.58,
+     "end": 65.06
+    },
+    {
+     "w": "de",
+     "start": 65.06,
+     "end": 65.16
+    },
+    {
+     "w": "Mikey",
+     "start": 65.16,
+     "end": 65.46
+    },
+    {
+     "w": "ont",
+     "start": 65.46,
+     "end": 65.72
+    },
+    {
+     "w": "la",
+     "start": 65.72,
+     "end": 65.86
+    },
+    {
+     "w": "même",
+     "start": 65.86,
+     "end": 66.12
+    },
+    {
+     "w": "origine,",
+     "start": 66.12,
+     "end": 66.74
+    },
+    {
+     "w": "et",
+     "start": 66.74,
+     "end": 66.98
+    },
+    {
+     "w": "que",
+     "start": 66.98,
+     "end": 67.08
+    },
+    {
+     "w": "Shinichiro",
+     "start": 67.08,
+     "end": 67.56
+    },
+    {
+     "w": "est",
+     "start": 67.56,
+     "end": 67.76
+    },
+    {
+     "w": "au",
+     "start": 67.76,
+     "end": 67.88
+    },
+    {
+     "w": "centre",
+     "start": 67.88,
+     "end": 68.1
+    },
+    {
+     "w": "de",
+     "start": 68.1,
+     "end": 68.28
+    },
+    {
+     "w": "tout",
+     "start": 68.28,
+     "end": 68.42
+    },
+    {
+     "w": "ça.",
+     "start": 68.42,
+     "end": 68.6
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 68.68,
+   "end": 73.64,
+   "slot_end": 73.732,
+   "text": "Maintenant, ce qui coince. Takemichi avait déjà son pouvoir avant de recroiser Mikey, donc ça tient pas à cent pour cent.",
+   "words": [
+    {
+     "w": "Maintenant,",
+     "start": 68.68,
+     "end": 68.94
+    },
+    {
+     "w": "ce",
+     "start": 69.34,
+     "end": 69.54
+    },
+    {
+     "w": "qui",
+     "start": 69.54,
+     "end": 69.7
+    },
+    {
+     "w": "coince.",
+     "start": 69.7,
+     "end": 70.04
+    },
+    {
+     "w": "Takemichi",
+     "start": 70.38,
+     "end": 70.78
+    },
+    {
+     "w": "avait",
+     "start": 70.78,
+     "end": 71.0
+    },
+    {
+     "w": "déjà",
+     "start": 71.0,
+     "end": 71.2
+    },
+    {
+     "w": "son",
+     "start": 71.2,
+     "end": 71.32
+    },
+    {
+     "w": "pouvoir",
+     "start": 71.32,
+     "end": 71.6
+    },
+    {
+     "w": "avant",
+     "start": 71.6,
+     "end": 71.78
+    },
+    {
+     "w": "de",
+     "start": 71.78,
+     "end": 71.98
+    },
+    {
+     "w": "recroiser",
+     "start": 71.98,
+     "end": 72.24
+    },
+    {
+     "w": "Mikey,",
+     "start": 72.24,
+     "end": 72.48
+    },
+    {
+     "w": "donc",
+     "start": 72.64,
+     "end": 72.72
+    },
+    {
+     "w": "ça",
+     "start": 72.72,
+     "end": 72.86
+    },
+    {
+     "w": "tient",
+     "start": 72.92,
+     "end": 72.98
+    },
+    {
+     "w": "pas",
+     "start": 72.98,
+     "end": 73.18
+    },
+    {
+     "w": "à",
+     "start": 73.18,
+     "end": 73.32
+    },
+    {
+     "w": "cent",
+     "start": 73.32,
+     "end": 73.427
+    },
+    {
+     "w": "pour",
+     "start": 73.427,
+     "end": 73.533
+    },
+    {
+     "w": "cent.",
+     "start": 73.533,
+     "end": 73.64
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 73.64,
+   "end": 79.656,
+   "slot_end": 79.716,
+   "text": "Mais franchement, tout pointe vers la famille Sano. Alors dis-moi en com', le pouvoir de Takemichi, il vient d'où selon toi ?",
+   "words": [
+    {
+     "w": "Mais",
+     "start": 73.64,
+     "end": 73.82
+    },
+    {
+     "w": "franchement,",
+     "start": 73.82,
+     "end": 74.18
+    },
+    {
+     "w": "tout",
+     "start": 74.3,
+     "end": 74.38
+    },
+    {
+     "w": "pointe",
+     "start": 74.38,
+     "end": 74.68
+    },
+    {
+     "w": "vers",
+     "start": 74.68,
+     "end": 74.82
+    },
+    {
+     "w": "la",
+     "start": 74.82,
+     "end": 75.0
+    },
+    {
+     "w": "famille",
+     "start": 75.0,
+     "end": 75.34
+    },
+    {
+     "w": "Sano.",
+     "start": 75.34,
+     "end": 75.62
+    },
+    {
+     "w": "Alors",
+     "start": 76.26,
+     "end": 76.5
+    },
+    {
+     "w": "dis-moi",
+     "start": 76.5,
+     "end": 76.68
+    },
+    {
+     "w": "en",
+     "start": 76.68,
+     "end": 76.8
+    },
+    {
+     "w": "com',",
+     "start": 76.8,
+     "end": 76.98
+    },
+    {
+     "w": "le",
+     "start": 77.3,
+     "end": 77.44
+    },
+    {
+     "w": "pouvoir",
+     "start": 77.44,
+     "end": 77.72
+    },
+    {
+     "w": "de",
+     "start": 77.72,
+     "end": 77.9
+    },
+    {
+     "w": "Takemichi,",
+     "start": 77.9,
+     "end": 78.42
+    },
+    {
+     "w": "il",
+     "start": 78.76,
+     "end": 78.82
+    },
+    {
+     "w": "vient",
+     "start": 78.82,
+     "end": 78.98
+    },
+    {
+     "w": "d'où",
+     "start": 78.98,
+     "end": 79.2
+    },
+    {
+     "w": "selon",
+     "start": 79.24,
+     "end": 79.36
+    },
+    {
+     "w": "toi",
+     "start": 79.36,
+     "end": 79.58
+    },
+    {
+     "w": "?",
+     "start": 79.58,
+     "end": 79.656
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 79.72,
+   "end": 82.48,
+   "slot_end": 83.344,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 79.72,
+     "end": 79.98
+    },
+    {
+     "w": "Asura.",
+     "start": 79.98,
+     "end": 80.42
+    },
+    {
+     "w": "On",
+     "start": 81.2,
+     "end": 81.48
+    },
+    {
+     "w": "se",
+     "start": 81.48,
+     "end": 81.6
+    },
+    {
+     "w": "capte",
+     "start": 81.6,
+     "end": 81.84
+    },
+    {
+     "w": "au",
+     "start": 81.84,
+     "end": 81.96
+    },
+    {
+     "w": "prochain",
+     "start": 81.96,
+     "end": 82.18
+    },
+    {
+     "w": "épisode.",
+     "start": 82.18,
+     "end": 82.48
+    }
+   ]
+  }
+ ],
+ "aligned": 0.99
+}

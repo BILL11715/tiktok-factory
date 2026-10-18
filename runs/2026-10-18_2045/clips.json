@@ -1,0 +1,484 @@
+{
+ "Tokyo Revengers: War of the Three Titans Arc": [
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_0_00.mp4",
+   "dur": 4.344,
+   "tag": "a0_0",
+   "source": "AnimeThemes (Tokyo Revengers: Santen Sensou-hen OP1)",
+   "order": 0,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_0_01.mp4",
+   "dur": 2.676,
+   "tag": "a0_0",
+   "source": "AnimeThemes (Tokyo Revengers: Santen Sensou-hen OP1)",
+   "order": 1,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_0_02.mp4",
+   "dur": 1.508,
+   "tag": "a0_0",
+   "source": "AnimeThemes (Tokyo Revengers: Santen Sensou-hen OP1)",
+   "order": 2,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_0_03.mp4",
+   "dur": 6.0,
+   "tag": "a0_0",
+   "source": "AnimeThemes (Tokyo Revengers: Santen Sensou-hen OP1)",
+   "order": 3,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_0_04.mp4",
+   "dur": 0.966,
+   "tag": "a0_0",
+   "source": "AnimeThemes (Tokyo Revengers: Santen Sensou-hen OP1)",
+   "order": 4,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_0_05.mp4",
+   "dur": 0.924,
+   "tag": "a0_0",
+   "source": "AnimeThemes (Tokyo Revengers: Santen Sensou-hen OP1)",
+   "order": 5,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_0_06.mp4",
+   "dur": 1.3,
+   "tag": "a0_0",
+   "source": "AnimeThemes (Tokyo Revengers: Santen Sensou-hen OP1)",
+   "order": 6,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_0_07.mp4",
+   "dur": 1.634,
+   "tag": "a0_0",
+   "source": "AnimeThemes (Tokyo Revengers: Santen Sensou-hen OP1)",
+   "order": 7,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_0_08.mp4",
+   "dur": 0.966,
+   "tag": "a0_0",
+   "source": "AnimeThemes (Tokyo Revengers: Santen Sensou-hen OP1)",
+   "order": 8,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_0_09.mp4",
+   "dur": 0.716,
+   "tag": "a0_0",
+   "source": "AnimeThemes (Tokyo Revengers: Santen Sensou-hen OP1)",
+   "order": 9,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_0_10.mp4",
+   "dur": 3.677,
+   "tag": "a0_0",
+   "source": "AnimeThemes (Tokyo Revengers: Santen Sensou-hen OP1)",
+   "order": 10,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_0_11.mp4",
+   "dur": 1.342,
+   "tag": "a0_0",
+   "source": "AnimeThemes (Tokyo Revengers: Santen Sensou-hen OP1)",
+   "order": 11,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_1_00.mp4",
+   "dur": 1.3,
+   "tag": "a0_1",
+   "source": "Sakugabooru (sakuga 318636)",
+   "order": 0,
+   "energy": "high"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_1_01.mp4",
+   "dur": 0.883,
+   "tag": "a0_1",
+   "source": "Sakugabooru (sakuga 318636)",
+   "order": 1,
+   "energy": "high"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_1_02.mp4",
+   "dur": 1.091,
+   "tag": "a0_1",
+   "source": "Sakugabooru (sakuga 318636)",
+   "order": 2,
+   "energy": "high"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_2_00.mp4",
+   "dur": 2.551,
+   "tag": "a0_2",
+   "source": "Sakugabooru (sakuga 318676)",
+   "order": 0,
+   "energy": "high"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_2_01.mp4",
+   "dur": 3.552,
+   "tag": "a0_2",
+   "source": "Sakugabooru (sakuga 318676)",
+   "order": 1,
+   "energy": "high"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_2_02.mp4",
+   "dur": 2.301,
+   "tag": "a0_2",
+   "source": "Sakugabooru (sakuga 318676)",
+   "order": 2,
+   "energy": "high"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_3_00.mp4",
+   "dur": 6.0,
+   "tag": "a0_3",
+   "source": "AnimeThemes (Tokyo Revengers: Seiya Kessen-hen OP1)",
+   "order": 0,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_3_01.mp4",
+   "dur": 1.216,
+   "tag": "a0_3",
+   "source": "AnimeThemes (Tokyo Revengers: Seiya Kessen-hen OP1)",
+   "order": 1,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_3_02.mp4",
+   "dur": 0.716,
+   "tag": "a0_3",
+   "source": "AnimeThemes (Tokyo Revengers: Seiya Kessen-hen OP1)",
+   "order": 2,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_3_03.mp4",
+   "dur": 3.301,
+   "tag": "a0_3",
+   "source": "AnimeThemes (Tokyo Revengers: Seiya Kessen-hen OP1)",
+   "order": 3,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_3_04.mp4",
+   "dur": 1.425,
+   "tag": "a0_3",
+   "source": "AnimeThemes (Tokyo Revengers: Seiya Kessen-hen OP1)",
+   "order": 4,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_3_05.mp4",
+   "dur": 1.299,
+   "tag": "a0_3",
+   "source": "AnimeThemes (Tokyo Revengers: Seiya Kessen-hen OP1)",
+   "order": 5,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_3_06.mp4",
+   "dur": 3.051,
+   "tag": "a0_3",
+   "source": "AnimeThemes (Tokyo Revengers: Seiya Kessen-hen OP1)",
+   "order": 6,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_3_07.mp4",
+   "dur": 0.841,
+   "tag": "a0_3",
+   "source": "AnimeThemes (Tokyo Revengers: Seiya Kessen-hen OP1)",
+   "order": 7,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_3_08.mp4",
+   "dur": 1.967,
+   "tag": "a0_3",
+   "source": "AnimeThemes (Tokyo Revengers: Seiya Kessen-hen OP1)",
+   "order": 8,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_3_09.mp4",
+   "dur": 1.634,
+   "tag": "a0_3",
+   "source": "AnimeThemes (Tokyo Revengers: Seiya Kessen-hen OP1)",
+   "order": 9,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_3_10.mp4",
+   "dur": 1.551,
+   "tag": "a0_3",
+   "source": "AnimeThemes (Tokyo Revengers: Seiya Kessen-hen OP1)",
+   "order": 10,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_3_11.mp4",
+   "dur": 1.3,
+   "tag": "a0_3",
+   "source": "AnimeThemes (Tokyo Revengers: Seiya Kessen-hen OP1)",
+   "order": 11,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_4_00.mp4",
+   "dur": 4.386,
+   "tag": "a0_4",
+   "source": "AnimeThemes (Tokyo Revengers: Seiya Kessen-hen ED1)",
+   "order": 0,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_4_01.mp4",
+   "dur": 3.094,
+   "tag": "a0_4",
+   "source": "AnimeThemes (Tokyo Revengers: Seiya Kessen-hen ED1)",
+   "order": 1,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_4_02.mp4",
+   "dur": 6.0,
+   "tag": "a0_4",
+   "source": "AnimeThemes (Tokyo Revengers: Seiya Kessen-hen ED1)",
+   "order": 2,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_4_03.mp4",
+   "dur": 1.217,
+   "tag": "a0_4",
+   "source": "AnimeThemes (Tokyo Revengers: Seiya Kessen-hen ED1)",
+   "order": 3,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_4_04.mp4",
+   "dur": 1.299,
+   "tag": "a0_4",
+   "source": "AnimeThemes (Tokyo Revengers: Seiya Kessen-hen ED1)",
+   "order": 4,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_4_05.mp4",
+   "dur": 0.799,
+   "tag": "a0_4",
+   "source": "AnimeThemes (Tokyo Revengers: Seiya Kessen-hen ED1)",
+   "order": 5,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_4_06.mp4",
+   "dur": 6.0,
+   "tag": "a0_4",
+   "source": "AnimeThemes (Tokyo Revengers: Seiya Kessen-hen ED1)",
+   "order": 6,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_4_07.mp4",
+   "dur": 3.761,
+   "tag": "a0_4",
+   "source": "AnimeThemes (Tokyo Revengers: Seiya Kessen-hen ED1)",
+   "order": 7,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_4_08.mp4",
+   "dur": 2.009,
+   "tag": "a0_4",
+   "source": "AnimeThemes (Tokyo Revengers: Seiya Kessen-hen ED1)",
+   "order": 8,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_4_09.mp4",
+   "dur": 1.801,
+   "tag": "a0_4",
+   "source": "AnimeThemes (Tokyo Revengers: Seiya Kessen-hen ED1)",
+   "order": 9,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_4_10.mp4",
+   "dur": 5.262,
+   "tag": "a0_4",
+   "source": "AnimeThemes (Tokyo Revengers: Seiya Kessen-hen ED1)",
+   "order": 10,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_4_11.mp4",
+   "dur": 4.678,
+   "tag": "a0_4",
+   "source": "AnimeThemes (Tokyo Revengers: Seiya Kessen-hen ED1)",
+   "order": 11,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_5_00.mp4",
+   "dur": 2.426,
+   "tag": "a0_5",
+   "source": "AnimeThemes (Tokyo Revengers: Tenjiku-hen OP1)",
+   "order": 0,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_5_01.mp4",
+   "dur": 3.26,
+   "tag": "a0_5",
+   "source": "AnimeThemes (Tokyo Revengers: Tenjiku-hen OP1)",
+   "order": 1,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_5_02.mp4",
+   "dur": 2.134,
+   "tag": "a0_5",
+   "source": "AnimeThemes (Tokyo Revengers: Tenjiku-hen OP1)",
+   "order": 2,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_5_03.mp4",
+   "dur": 3.761,
+   "tag": "a0_5",
+   "source": "AnimeThemes (Tokyo Revengers: Tenjiku-hen OP1)",
+   "order": 3,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_5_04.mp4",
+   "dur": 1.466,
+   "tag": "a0_5",
+   "source": "AnimeThemes (Tokyo Revengers: Tenjiku-hen OP1)",
+   "order": 4,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_5_05.mp4",
+   "dur": 1.341,
+   "tag": "a0_5",
+   "source": "AnimeThemes (Tokyo Revengers: Tenjiku-hen OP1)",
+   "order": 5,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_5_06.mp4",
+   "dur": 2.551,
+   "tag": "a0_5",
+   "source": "AnimeThemes (Tokyo Revengers: Tenjiku-hen OP1)",
+   "order": 6,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_5_07.mp4",
+   "dur": 0.841,
+   "tag": "a0_5",
+   "source": "AnimeThemes (Tokyo Revengers: Tenjiku-hen OP1)",
+   "order": 7,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_5_08.mp4",
+   "dur": 6.0,
+   "tag": "a0_5",
+   "source": "AnimeThemes (Tokyo Revengers: Tenjiku-hen OP1)",
+   "order": 8,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_5_09.mp4",
+   "dur": 4.386,
+   "tag": "a0_5",
+   "source": "AnimeThemes (Tokyo Revengers: Tenjiku-hen OP1)",
+   "order": 9,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_5_10.mp4",
+   "dur": 1.132,
+   "tag": "a0_5",
+   "source": "AnimeThemes (Tokyo Revengers: Tenjiku-hen OP1)",
+   "order": 10,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_5_11.mp4",
+   "dur": 0.925,
+   "tag": "a0_5",
+   "source": "AnimeThemes (Tokyo Revengers: Tenjiku-hen OP1)",
+   "order": 11,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_6_00.mp4",
+   "dur": 2.426,
+   "tag": "a0_6",
+   "source": "AnimeThemes (Tokyo Revengers: Tenjiku-hen OP1)",
+   "order": 0,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_6_01.mp4",
+   "dur": 4.387,
+   "tag": "a0_6",
+   "source": "AnimeThemes (Tokyo Revengers: Tenjiku-hen OP1)",
+   "order": 1,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_6_02.mp4",
+   "dur": 2.926,
+   "tag": "a0_6",
+   "source": "AnimeThemes (Tokyo Revengers: Tenjiku-hen OP1)",
+   "order": 2,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_6_03.mp4",
+   "dur": 1.216,
+   "tag": "a0_6",
+   "source": "AnimeThemes (Tokyo Revengers: Tenjiku-hen OP1)",
+   "order": 3,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_6_04.mp4",
+   "dur": 4.261,
+   "tag": "a0_6",
+   "source": "AnimeThemes (Tokyo Revengers: Tenjiku-hen OP1)",
+   "order": 4,
+   "energy": "mid"
+  },
+  {
+   "path": "/home/claude/tiktok-factory/runs/2026-10-18_2045/clips/a0_6_05.mp4",
+   "dur": 0.924,
+   "tag": "a0_6",
+   "source": "AnimeThemes (Tokyo Revengers: Tenjiku-hen OP1)",
+   "order": 5,
+   "energy": "mid"
+  }
+ ]
+}
