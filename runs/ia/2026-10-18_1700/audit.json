@@ -1,0 +1,55 @@
+{
+ "stamp": "2026-10-18_1700",
+ "duration": 84.7,
+ "lead": 0.6,
+ "cps": 24.7,
+ "accuracy": 0.936,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "fri lance s e o",
+   "entendu": "freelance seo"
+  },
+  {
+   "dit": "a",
+   "entendu": ""
+  },
+  {
+   "dit": "exemple",
+   "entendu": "mes armes"
+  },
+  {
+   "dit": "resultats",
+   "entendu": "resultat"
+  },
+  {
+   "dit": "heures",
+   "entendu": "heure"
+  },
+  {
+   "dit": "s e o radiusse",
+   "entendu": "seo radius"
+  },
+  {
+   "dit": "audit",
+   "entendu": "audi"
+  },
+  {
+   "dit": "paie",
+   "entendu": "paye"
+  },
+  {
+   "dit": "air",
+   "entendu": "heure"
+  },
+  {
+   "dit": "non",
+   "entendu": "nom"
+  },
+  {
+   "dit": "promettre",
+   "entendu": "pour mettre a"
+  }
+ ],
+ "alerts": []
+}
