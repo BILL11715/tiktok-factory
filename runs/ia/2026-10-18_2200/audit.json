@@ -1,0 +1,65 @@
+{
+ "stamp": "2026-10-18_2200",
+ "duration": 77.0,
+ "lead": 0.6,
+ "cps": 25.2,
+ "accuracy": 0.918,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "lille",
+   "entendu": "l ile"
+  },
+  {
+   "dit": "nulle part",
+   "entendu": "nul pas"
+  },
+  {
+   "dit": "ce gerant laisse filer",
+   "entendu": "suggerant l esfile"
+  },
+  {
+   "dit": "o radiusse",
+   "entendu": "radus"
+  },
+  {
+   "dit": "tu choisis",
+   "entendu": "choisie"
+  },
+  {
+   "dit": "qui",
+   "entendu": "qu il"
+  },
+  {
+   "dit": "c",
+   "entendu": ""
+  },
+  {
+   "dit": "villes",
+   "entendu": "vies"
+  },
+  {
+   "dit": "faits",
+   "entendu": "fait"
+  },
+  {
+   "dit": "il travaille",
+   "entendu": "ils travaillent"
+  },
+  {
+   "dit": "au premier contact",
+   "entendu": "aux premiers contacts"
+  },
+  {
+   "dit": "puis",
+   "entendu": "lui se"
+  },
+  {
+   "dit": "et",
+   "entendu": "mais"
+  }
+ ],
+ "alerts": [
+  "prononciation 92% des mots compris (min 93%)"
+ ]
+}
