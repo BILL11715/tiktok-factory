@@ -1,0 +1,16 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-18_1745/video.mp4",
+ "duration": 82.962,
+ "shots": 63,
+ "sources": [
+  "https://anilist.co/anime/171952",
+  "https://kitsu.io/anime/Kage-no-Jitsuryokusha-ni-Naritakute-Zankyouhen"
+ ],
+ "music": {
+  "file": "hype2.mp3",
+  "bpm": 92.3,
+  "offset": 16.35
+ },
+ "sfx": 24,
+ "engine": "remotion (OpenMontage)"
+}

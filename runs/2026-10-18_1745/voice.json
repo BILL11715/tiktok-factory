@@ -1,0 +1,1707 @@
+{
+ "engine": "fish",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-18_1745/voice.wav",
+ "duration": 82.962,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 2.42,
+   "slot_end": 2.586,
+   "text": "Le membre le plus dangereux de Shadow Garden, c'est pas Shadow.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 0.0,
+     "end": 0.08
+    },
+    {
+     "w": "membre",
+     "start": 0.08,
+     "end": 0.3
+    },
+    {
+     "w": "le",
+     "start": 0.3,
+     "end": 0.42
+    },
+    {
+     "w": "plus",
+     "start": 0.42,
+     "end": 0.52
+    },
+    {
+     "w": "dangereux",
+     "start": 0.52,
+     "end": 0.98
+    },
+    {
+     "w": "de",
+     "start": 0.98,
+     "end": 1.14
+    },
+    {
+     "w": "Shadow",
+     "start": 1.14,
+     "end": 1.4
+    },
+    {
+     "w": "Garden,",
+     "start": 1.4,
+     "end": 1.74
+    },
+    {
+     "w": "c'est",
+     "start": 1.94,
+     "end": 2.06
+    },
+    {
+     "w": "pas",
+     "start": 2.06,
+     "end": 2.16
+    },
+    {
+     "w": "Shadow.",
+     "start": 2.16,
+     "end": 2.42
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 2.56,
+   "end": 6.18,
+   "slot_end": 6.252,
+   "text": "Reste jusqu'au bout, parce que le numéro 1 a construit un empire entier sur une blague.",
+   "words": [
+    {
+     "w": "Reste",
+     "start": 2.56,
+     "end": 2.68
+    },
+    {
+     "w": "jusqu'au",
+     "start": 2.68,
+     "end": 3.04
+    },
+    {
+     "w": "bout,",
+     "start": 3.04,
+     "end": 3.14
+    },
+    {
+     "w": "parce",
+     "start": 3.14,
+     "end": 3.3
+    },
+    {
+     "w": "que",
+     "start": 3.3,
+     "end": 3.44
+    },
+    {
+     "w": "le",
+     "start": 3.44,
+     "end": 3.54
+    },
+    {
+     "w": "numéro",
+     "start": 3.54,
+     "end": 3.78
+    },
+    {
+     "w": "1",
+     "start": 3.78,
+     "end": 4.06
+    },
+    {
+     "w": "a",
+     "start": 4.06,
+     "end": 4.2
+    },
+    {
+     "w": "construit",
+     "start": 4.2,
+     "end": 4.62
+    },
+    {
+     "w": "un",
+     "start": 4.62,
+     "end": 4.78
+    },
+    {
+     "w": "empire",
+     "start": 4.78,
+     "end": 5.16
+    },
+    {
+     "w": "entier",
+     "start": 5.16,
+     "end": 5.58
+    },
+    {
+     "w": "sur",
+     "start": 5.58,
+     "end": 5.8
+    },
+    {
+     "w": "une",
+     "start": 5.8,
+     "end": 5.94
+    },
+    {
+     "w": "blague.",
+     "start": 5.94,
+     "end": 6.18
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 6.28,
+   "end": 12.02,
+   "slot_end": 12.114,
+   "text": "Petit rappel. Cid se réincarne dans un monde de magie, et son seul kiff, c'est de jouer au boss caché qui tire les ficelles.",
+   "words": [
+    {
+     "w": "Petit",
+     "start": 6.28,
+     "end": 6.613
+    },
+    {
+     "w": "rappel.",
+     "start": 6.613,
+     "end": 6.947
+    },
+    {
+     "w": "Cid",
+     "start": 6.947,
+     "end": 7.28
+    },
+    {
+     "w": "se",
+     "start": 7.28,
+     "end": 7.52
+    },
+    {
+     "w": "réincarne",
+     "start": 7.52,
+     "end": 7.88
+    },
+    {
+     "w": "dans",
+     "start": 7.88,
+     "end": 8.04
+    },
+    {
+     "w": "un",
+     "start": 8.04,
+     "end": 8.18
+    },
+    {
+     "w": "monde",
+     "start": 8.18,
+     "end": 8.32
+    },
+    {
+     "w": "de",
+     "start": 8.32,
+     "end": 8.46
+    },
+    {
+     "w": "magie,",
+     "start": 8.46,
+     "end": 8.76
+    },
+    {
+     "w": "et",
+     "start": 8.76,
+     "end": 9.08
+    },
+    {
+     "w": "son",
+     "start": 9.08,
+     "end": 9.2
+    },
+    {
+     "w": "seul",
+     "start": 9.2,
+     "end": 9.44
+    },
+    {
+     "w": "kiff,",
+     "start": 9.44,
+     "end": 9.7
+    },
+    {
+     "w": "c'est",
+     "start": 9.94,
+     "end": 10.14
+    },
+    {
+     "w": "de",
+     "start": 10.14,
+     "end": 10.28
+    },
+    {
+     "w": "jouer",
+     "start": 10.28,
+     "end": 10.4
+    },
+    {
+     "w": "au",
+     "start": 10.4,
+     "end": 10.66
+    },
+    {
+     "w": "boss",
+     "start": 10.66,
+     "end": 10.98
+    },
+    {
+     "w": "caché",
+     "start": 10.98,
+     "end": 11.24
+    },
+    {
+     "w": "qui",
+     "start": 11.24,
+     "end": 11.42
+    },
+    {
+     "w": "tire",
+     "start": 11.42,
+     "end": 11.6
+    },
+    {
+     "w": "les",
+     "start": 11.6,
+     "end": 11.72
+    },
+    {
+     "w": "ficelles.",
+     "start": 11.72,
+     "end": 12.02
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 12.14,
+   "end": 16.32,
+   "slot_end": 16.41,
+   "text": "Alors il recrute des filles et invente un faux culte. Sauf qu'elles prennent tout au sérieux, et c'est elles qui font peur.",
+   "words": [
+    {
+     "w": "Alors",
+     "start": 12.14,
+     "end": 12.24
+    },
+    {
+     "w": "il",
+     "start": 12.24,
+     "end": 12.38
+    },
+    {
+     "w": "recrute",
+     "start": 12.38,
+     "end": 12.58
+    },
+    {
+     "w": "des",
+     "start": 12.58,
+     "end": 12.74
+    },
+    {
+     "w": "filles",
+     "start": 12.74,
+     "end": 12.98
+    },
+    {
+     "w": "et",
+     "start": 12.98,
+     "end": 13.14
+    },
+    {
+     "w": "invente",
+     "start": 13.14,
+     "end": 13.44
+    },
+    {
+     "w": "un",
+     "start": 13.44,
+     "end": 13.6
+    },
+    {
+     "w": "faux",
+     "start": 13.6,
+     "end": 13.91
+    },
+    {
+     "w": "culte.",
+     "start": 13.91,
+     "end": 14.22
+    },
+    {
+     "w": "Sauf",
+     "start": 14.22,
+     "end": 14.46
+    },
+    {
+     "w": "qu'elles",
+     "start": 14.46,
+     "end": 14.6
+    },
+    {
+     "w": "prennent",
+     "start": 14.6,
+     "end": 14.84
+    },
+    {
+     "w": "tout",
+     "start": 14.84,
+     "end": 14.96
+    },
+    {
+     "w": "au",
+     "start": 14.96,
+     "end": 15.12
+    },
+    {
+     "w": "sérieux,",
+     "start": 15.12,
+     "end": 15.48
+    },
+    {
+     "w": "et",
+     "start": 15.48,
+     "end": 15.64
+    },
+    {
+     "w": "c'est",
+     "start": 15.64,
+     "end": 15.76
+    },
+    {
+     "w": "elles",
+     "start": 15.76,
+     "end": 15.86
+    },
+    {
+     "w": "qui",
+     "start": 15.86,
+     "end": 15.98
+    },
+    {
+     "w": "font",
+     "start": 15.98,
+     "end": 16.12
+    },
+    {
+     "w": "peur.",
+     "start": 16.12,
+     "end": 16.32
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 16.52,
+   "end": 22.18,
+   "slot_end": 22.334,
+   "text": "Numéro 5, Gamma. En combat, elle se prend les pieds dans sa propre cape, j'te jure, c'est la plus nulle du groupe.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 16.52,
+     "end": 16.72
+    },
+    {
+     "w": "5,",
+     "start": 16.72,
+     "end": 17.04
+    },
+    {
+     "w": "Gamma.",
+     "start": 17.76,
+     "end": 18.08
+    },
+    {
+     "w": "En",
+     "start": 18.38,
+     "end": 18.68
+    },
+    {
+     "w": "combat,",
+     "start": 18.68,
+     "end": 18.94
+    },
+    {
+     "w": "elle",
+     "start": 18.94,
+     "end": 19.04
+    },
+    {
+     "w": "se",
+     "start": 19.04,
+     "end": 19.14
+    },
+    {
+     "w": "prend",
+     "start": 19.14,
+     "end": 19.32
+    },
+    {
+     "w": "les",
+     "start": 19.32,
+     "end": 19.44
+    },
+    {
+     "w": "pieds",
+     "start": 19.44,
+     "end": 19.66
+    },
+    {
+     "w": "dans",
+     "start": 19.66,
+     "end": 19.78
+    },
+    {
+     "w": "sa",
+     "start": 19.78,
+     "end": 19.94
+    },
+    {
+     "w": "propre",
+     "start": 19.94,
+     "end": 20.16
+    },
+    {
+     "w": "cape,",
+     "start": 20.16,
+     "end": 20.48
+    },
+    {
+     "w": "j'te",
+     "start": 20.58,
+     "end": 20.76
+    },
+    {
+     "w": "jure,",
+     "start": 20.76,
+     "end": 21.02
+    },
+    {
+     "w": "c'est",
+     "start": 21.18,
+     "end": 21.3
+    },
+    {
+     "w": "la",
+     "start": 21.3,
+     "end": 21.46
+    },
+    {
+     "w": "plus",
+     "start": 21.46,
+     "end": 21.58
+    },
+    {
+     "w": "nulle",
+     "start": 21.58,
+     "end": 21.82
+    },
+    {
+     "w": "du",
+     "start": 21.82,
+     "end": 21.96
+    },
+    {
+     "w": "groupe.",
+     "start": 21.96,
+     "end": 22.18
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 22.36,
+   "end": 27.36,
+   "slot_end": 27.408,
+   "text": "Mais elle a monté Mitsugoshi avec les idées que Cid lui balançait. Elle tient l'argent du royaume, ça c'est une arme.",
+   "words": [
+    {
+     "w": "Mais",
+     "start": 22.36,
+     "end": 22.44
+    },
+    {
+     "w": "elle",
+     "start": 22.44,
+     "end": 22.64
+    },
+    {
+     "w": "a",
+     "start": 22.64,
+     "end": 22.69
+    },
+    {
+     "w": "monté",
+     "start": 22.68,
+     "end": 22.94
+    },
+    {
+     "w": "Mitsugoshi",
+     "start": 22.94,
+     "end": 23.36
+    },
+    {
+     "w": "avec",
+     "start": 23.36,
+     "end": 23.68
+    },
+    {
+     "w": "les",
+     "start": 23.68,
+     "end": 23.88
+    },
+    {
+     "w": "idées",
+     "start": 23.88,
+     "end": 24.1
+    },
+    {
+     "w": "que",
+     "start": 24.1,
+     "end": 24.24
+    },
+    {
+     "w": "Cid",
+     "start": 24.24,
+     "end": 24.42
+    },
+    {
+     "w": "lui",
+     "start": 24.42,
+     "end": 24.62
+    },
+    {
+     "w": "balançait.",
+     "start": 24.62,
+     "end": 24.98
+    },
+    {
+     "w": "Elle",
+     "start": 25.5,
+     "end": 25.62
+    },
+    {
+     "w": "tient",
+     "start": 25.62,
+     "end": 25.8
+    },
+    {
+     "w": "l'argent",
+     "start": 25.8,
+     "end": 26.16
+    },
+    {
+     "w": "du",
+     "start": 26.16,
+     "end": 26.38
+    },
+    {
+     "w": "royaume,",
+     "start": 26.38,
+     "end": 26.7
+    },
+    {
+     "w": "ça",
+     "start": 26.78,
+     "end": 26.94
+    },
+    {
+     "w": "c'est",
+     "start": 26.94,
+     "end": 27.08
+    },
+    {
+     "w": "une",
+     "start": 27.08,
+     "end": 27.2
+    },
+    {
+     "w": "arme.",
+     "start": 27.2,
+     "end": 27.36
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 27.36,
+   "end": 33.22,
+   "slot_end": 33.321,
+   "text": "Numéro 4, Zeta. La fille chat, l'espionne qui s'infiltre partout. Ton secret, elle le connaît déjà.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 27.36,
+     "end": 27.64
+    },
+    {
+     "w": "4,",
+     "start": 27.64,
+     "end": 27.9
+    },
+    {
+     "w": "Zeta.",
+     "start": 27.9,
+     "end": 28.46
+    },
+    {
+     "w": "La",
+     "start": 28.9,
+     "end": 29.12
+    },
+    {
+     "w": "fille",
+     "start": 29.12,
+     "end": 29.34
+    },
+    {
+     "w": "chat,",
+     "start": 29.34,
+     "end": 29.74
+    },
+    {
+     "w": "l'espionne",
+     "start": 29.74,
+     "end": 30.44
+    },
+    {
+     "w": "qui",
+     "start": 30.44,
+     "end": 30.6
+    },
+    {
+     "w": "s'infiltre",
+     "start": 30.6,
+     "end": 31.14
+    },
+    {
+     "w": "partout.",
+     "start": 31.14,
+     "end": 31.64
+    },
+    {
+     "w": "Ton",
+     "start": 31.88,
+     "end": 32.02
+    },
+    {
+     "w": "secret,",
+     "start": 32.02,
+     "end": 32.36
+    },
+    {
+     "w": "elle",
+     "start": 32.36,
+     "end": 32.6
+    },
+    {
+     "w": "le",
+     "start": 32.6,
+     "end": 32.76
+    },
+    {
+     "w": "connaît",
+     "start": 32.76,
+     "end": 32.96
+    },
+    {
+     "w": "déjà.",
+     "start": 32.96,
+     "end": 33.22
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 33.36,
+   "end": 41.16,
+   "slot_end": 41.326,
+   "text": "Numéro 3, Epsilon. Le contrôle de mana le plus précis du groupe, genre chirurgical. Bon, elle triche aussi sur sa silhouette avec son slime.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 33.36,
+     "end": 33.58
+    },
+    {
+     "w": "3,",
+     "start": 33.58,
+     "end": 33.94
+    },
+    {
+     "w": "Epsilon.",
+     "start": 33.94,
+     "end": 34.48
+    },
+    {
+     "w": "Le",
+     "start": 35.14,
+     "end": 35.24
+    },
+    {
+     "w": "contrôle",
+     "start": 35.24,
+     "end": 35.54
+    },
+    {
+     "w": "de",
+     "start": 35.54,
+     "end": 35.76
+    },
+    {
+     "w": "mana",
+     "start": 35.76,
+     "end": 35.92
+    },
+    {
+     "w": "le",
+     "start": 35.92,
+     "end": 36.04
+    },
+    {
+     "w": "plus",
+     "start": 36.04,
+     "end": 36.18
+    },
+    {
+     "w": "précis",
+     "start": 36.18,
+     "end": 36.52
+    },
+    {
+     "w": "du",
+     "start": 36.52,
+     "end": 36.7
+    },
+    {
+     "w": "groupe,",
+     "start": 36.7,
+     "end": 36.96
+    },
+    {
+     "w": "genre",
+     "start": 36.96,
+     "end": 37.38
+    },
+    {
+     "w": "chirurgical.",
+     "start": 37.38,
+     "end": 37.94
+    },
+    {
+     "w": "Bon,",
+     "start": 38.74,
+     "end": 38.96
+    },
+    {
+     "w": "elle",
+     "start": 39.32,
+     "end": 39.42
+    },
+    {
+     "w": "triche",
+     "start": 39.42,
+     "end": 39.64
+    },
+    {
+     "w": "aussi",
+     "start": 39.64,
+     "end": 39.88
+    },
+    {
+     "w": "sur",
+     "start": 39.88,
+     "end": 40.08
+    },
+    {
+     "w": "sa",
+     "start": 40.08,
+     "end": 40.2
+    },
+    {
+     "w": "silhouette",
+     "start": 40.2,
+     "end": 40.42
+    },
+    {
+     "w": "avec",
+     "start": 40.42,
+     "end": 40.7
+    },
+    {
+     "w": "son",
+     "start": 40.7,
+     "end": 40.86
+    },
+    {
+     "w": "slime.",
+     "start": 40.86,
+     "end": 41.16
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 41.64,
+   "end": 46.36,
+   "slot_end": 46.683,
+   "text": "Si tu veux la partie 2 avec Beta et les autres, abonne-toi, j'en sors tous les jours et la suite de l'anime est déjà annoncée.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 41.64,
+     "end": 41.8
+    },
+    {
+     "w": "tu",
+     "start": 41.8,
+     "end": 41.9
+    },
+    {
+     "w": "veux",
+     "start": 41.9,
+     "end": 42.04
+    },
+    {
+     "w": "la",
+     "start": 42.04,
+     "end": 42.16
+    },
+    {
+     "w": "partie",
+     "start": 42.16,
+     "end": 42.36
+    },
+    {
+     "w": "2",
+     "start": 42.36,
+     "end": 42.54
+    },
+    {
+     "w": "avec",
+     "start": 42.54,
+     "end": 42.74
+    },
+    {
+     "w": "Beta",
+     "start": 42.74,
+     "end": 42.98
+    },
+    {
+     "w": "et",
+     "start": 42.98,
+     "end": 43.3
+    },
+    {
+     "w": "les",
+     "start": 43.3,
+     "end": 43.44
+    },
+    {
+     "w": "autres,",
+     "start": 43.44,
+     "end": 43.62
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 43.86,
+     "end": 44.2
+    },
+    {
+     "w": "j'en",
+     "start": 44.32,
+     "end": 44.4
+    },
+    {
+     "w": "sors",
+     "start": 44.4,
+     "end": 44.54
+    },
+    {
+     "w": "tous",
+     "start": 44.54,
+     "end": 44.7
+    },
+    {
+     "w": "les",
+     "start": 44.7,
+     "end": 44.82
+    },
+    {
+     "w": "jours",
+     "start": 44.82,
+     "end": 44.96
+    },
+    {
+     "w": "et",
+     "start": 44.96,
+     "end": 45.08
+    },
+    {
+     "w": "la",
+     "start": 45.08,
+     "end": 45.18
+    },
+    {
+     "w": "suite",
+     "start": 45.18,
+     "end": 45.32
+    },
+    {
+     "w": "de",
+     "start": 45.32,
+     "end": 45.48
+    },
+    {
+     "w": "l'anime",
+     "start": 45.48,
+     "end": 45.68
+    },
+    {
+     "w": "est",
+     "start": 45.68,
+     "end": 45.82
+    },
+    {
+     "w": "déjà",
+     "start": 45.82,
+     "end": 46.04
+    },
+    {
+     "w": "annoncée.",
+     "start": 46.04,
+     "end": 46.36
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 46.68,
+   "end": 53.32,
+   "slot_end": 53.417,
+   "text": "Numéro 2, Delta. Zéro cerveau, cent pour cent instinct. Elle appelle Cid boss et fonce sur tout ce qui bouge.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 46.68,
+     "end": 46.96
+    },
+    {
+     "w": "2,",
+     "start": 46.96,
+     "end": 47.4
+    },
+    {
+     "w": "Delta.",
+     "start": 47.4,
+     "end": 47.76
+    },
+    {
+     "w": "Zéro",
+     "start": 48.46,
+     "end": 48.7
+    },
+    {
+     "w": "cerveau,",
+     "start": 48.7,
+     "end": 49.12
+    },
+    {
+     "w": "cent",
+     "start": 49.38,
+     "end": 49.44
+    },
+    {
+     "w": "pour",
+     "start": 49.44,
+     "end": 49.5
+    },
+    {
+     "w": "cent",
+     "start": 49.5,
+     "end": 49.56
+    },
+    {
+     "w": "instinct.",
+     "start": 49.92,
+     "end": 50.48
+    },
+    {
+     "w": "Elle",
+     "start": 51.16,
+     "end": 51.38
+    },
+    {
+     "w": "appelle",
+     "start": 51.38,
+     "end": 51.6
+    },
+    {
+     "w": "Cid",
+     "start": 51.6,
+     "end": 51.9
+    },
+    {
+     "w": "boss",
+     "start": 51.9,
+     "end": 52.12
+    },
+    {
+     "w": "et",
+     "start": 52.12,
+     "end": 52.38
+    },
+    {
+     "w": "fonce",
+     "start": 52.38,
+     "end": 52.58
+    },
+    {
+     "w": "sur",
+     "start": 52.58,
+     "end": 52.84
+    },
+    {
+     "w": "tout",
+     "start": 52.84,
+     "end": 52.98
+    },
+    {
+     "w": "ce",
+     "start": 52.98,
+     "end": 53.06
+    },
+    {
+     "w": "qui",
+     "start": 53.06,
+     "end": 53.14
+    },
+    {
+     "w": "bouge.",
+     "start": 53.14,
+     "end": 53.32
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 53.32,
+   "end": 55.4,
+   "slot_end": 55.576,
+   "text": "Et là, on arrive à celle qui me fait vraiment flipper.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 53.32,
+     "end": 53.5
+    },
+    {
+     "w": "là,",
+     "start": 53.5,
+     "end": 53.66
+    },
+    {
+     "w": "on",
+     "start": 53.8,
+     "end": 53.86
+    },
+    {
+     "w": "arrive",
+     "start": 53.86,
+     "end": 54.04
+    },
+    {
+     "w": "à",
+     "start": 54.04,
+     "end": 54.22
+    },
+    {
+     "w": "celle",
+     "start": 54.22,
+     "end": 54.38
+    },
+    {
+     "w": "qui",
+     "start": 54.38,
+     "end": 54.54
+    },
+    {
+     "w": "me",
+     "start": 54.54,
+     "end": 54.64
+    },
+    {
+     "w": "fait",
+     "start": 54.64,
+     "end": 54.76
+    },
+    {
+     "w": "vraiment",
+     "start": 54.76,
+     "end": 55.04
+    },
+    {
+     "w": "flipper.",
+     "start": 55.04,
+     "end": 55.4
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 55.66,
+   "end": 62.64,
+   "slot_end": 62.698,
+   "text": "Numéro 1, Alpha. Au départ, c'est une elfe rongée par une malédiction, condamnée. Cid la soigne, mais pour lui c'est juste un test de magie.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 55.66,
+     "end": 55.82
+    },
+    {
+     "w": "1,",
+     "start": 55.82,
+     "end": 56.1
+    },
+    {
+     "w": "Alpha.",
+     "start": 56.56,
+     "end": 56.8
+    },
+    {
+     "w": "Au",
+     "start": 57.48,
+     "end": 57.6
+    },
+    {
+     "w": "départ,",
+     "start": 57.6,
+     "end": 57.74
+    },
+    {
+     "w": "c'est",
+     "start": 57.86,
+     "end": 57.96
+    },
+    {
+     "w": "une",
+     "start": 57.96,
+     "end": 58.08
+    },
+    {
+     "w": "elfe",
+     "start": 58.08,
+     "end": 58.3
+    },
+    {
+     "w": "rongée",
+     "start": 58.3,
+     "end": 58.56
+    },
+    {
+     "w": "par",
+     "start": 58.56,
+     "end": 58.72
+    },
+    {
+     "w": "une",
+     "start": 58.72,
+     "end": 58.86
+    },
+    {
+     "w": "malédiction,",
+     "start": 58.86,
+     "end": 59.24
+    },
+    {
+     "w": "condamnée.",
+     "start": 59.24,
+     "end": 59.9
+    },
+    {
+     "w": "Cid",
+     "start": 60.2,
+     "end": 60.46
+    },
+    {
+     "w": "la",
+     "start": 60.46,
+     "end": 60.56
+    },
+    {
+     "w": "soigne,",
+     "start": 60.56,
+     "end": 60.84
+    },
+    {
+     "w": "mais",
+     "start": 61.02,
+     "end": 61.16
+    },
+    {
+     "w": "pour",
+     "start": 61.16,
+     "end": 61.3
+    },
+    {
+     "w": "lui",
+     "start": 61.3,
+     "end": 61.42
+    },
+    {
+     "w": "c'est",
+     "start": 61.52,
+     "end": 61.57
+    },
+    {
+     "w": "juste",
+     "start": 61.56,
+     "end": 61.74
+    },
+    {
+     "w": "un",
+     "start": 61.74,
+     "end": 61.94
+    },
+    {
+     "w": "test",
+     "start": 61.94,
+     "end": 62.12
+    },
+    {
+     "w": "de",
+     "start": 62.12,
+     "end": 62.34
+    },
+    {
+     "w": "magie.",
+     "start": 62.34,
+     "end": 62.64
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 62.72,
+   "end": 67.62,
+   "slot_end": 67.65,
+   "text": "Elle lui jure fidélité. Et pendant qu'il s'amuse avec son culte imaginaire, elle bâtit un vrai réseau, partout.",
+   "words": [
+    {
+     "w": "Elle",
+     "start": 62.72,
+     "end": 62.8
+    },
+    {
+     "w": "lui",
+     "start": 62.8,
+     "end": 62.98
+    },
+    {
+     "w": "jure",
+     "start": 62.98,
+     "end": 63.2
+    },
+    {
+     "w": "fidélité.",
+     "start": 63.2,
+     "end": 63.78
+    },
+    {
+     "w": "Et",
+     "start": 64.32,
+     "end": 64.44
+    },
+    {
+     "w": "pendant",
+     "start": 64.44,
+     "end": 64.56
+    },
+    {
+     "w": "qu'il",
+     "start": 64.56,
+     "end": 64.76
+    },
+    {
+     "w": "s'amuse",
+     "start": 64.76,
+     "end": 65.0
+    },
+    {
+     "w": "avec",
+     "start": 65.0,
+     "end": 65.14
+    },
+    {
+     "w": "son",
+     "start": 65.14,
+     "end": 65.32
+    },
+    {
+     "w": "culte",
+     "start": 65.32,
+     "end": 65.5
+    },
+    {
+     "w": "imaginaire,",
+     "start": 65.5,
+     "end": 65.96
+    },
+    {
+     "w": "elle",
+     "start": 66.24,
+     "end": 66.32
+    },
+    {
+     "w": "bâtit",
+     "start": 66.32,
+     "end": 66.58
+    },
+    {
+     "w": "un",
+     "start": 66.58,
+     "end": 66.74
+    },
+    {
+     "w": "vrai",
+     "start": 66.74,
+     "end": 66.96
+    },
+    {
+     "w": "réseau,",
+     "start": 66.96,
+     "end": 67.3
+    },
+    {
+     "w": "partout.",
+     "start": 67.44,
+     "end": 67.62
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 67.62,
+   "end": 72.94,
+   "slot_end": 73.081,
+   "text": "Le pire, c'est que le culte de Diablos existe vraiment. Alpha le traque, pendant que Cid croit encore faire du jeu de rôle.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 67.62,
+     "end": 67.76
+    },
+    {
+     "w": "pire,",
+     "start": 67.76,
+     "end": 68.04
+    },
+    {
+     "w": "c'est",
+     "start": 68.1,
+     "end": 68.15
+    },
+    {
+     "w": "que",
+     "start": 68.14,
+     "end": 68.24
+    },
+    {
+     "w": "le",
+     "start": 68.24,
+     "end": 68.38
+    },
+    {
+     "w": "culte",
+     "start": 68.38,
+     "end": 68.68
+    },
+    {
+     "w": "de",
+     "start": 68.68,
+     "end": 68.76
+    },
+    {
+     "w": "Diablos",
+     "start": 68.76,
+     "end": 69.06
+    },
+    {
+     "w": "existe",
+     "start": 69.06,
+     "end": 69.46
+    },
+    {
+     "w": "vraiment.",
+     "start": 69.46,
+     "end": 69.86
+    },
+    {
+     "w": "Alpha",
+     "start": 70.24,
+     "end": 70.48
+    },
+    {
+     "w": "le",
+     "start": 70.48,
+     "end": 70.66
+    },
+    {
+     "w": "traque,",
+     "start": 70.66,
+     "end": 71.0
+    },
+    {
+     "w": "pendant",
+     "start": 71.24,
+     "end": 71.42
+    },
+    {
+     "w": "que",
+     "start": 71.42,
+     "end": 71.62
+    },
+    {
+     "w": "Cid",
+     "start": 71.62,
+     "end": 71.76
+    },
+    {
+     "w": "croit",
+     "start": 71.76,
+     "end": 72.0
+    },
+    {
+     "w": "encore",
+     "start": 72.0,
+     "end": 72.16
+    },
+    {
+     "w": "faire",
+     "start": 72.16,
+     "end": 72.36
+    },
+    {
+     "w": "du",
+     "start": 72.36,
+     "end": 72.52
+    },
+    {
+     "w": "jeu",
+     "start": 72.52,
+     "end": 72.64
+    },
+    {
+     "w": "de",
+     "start": 72.64,
+     "end": 72.76
+    },
+    {
+     "w": "rôle.",
+     "start": 72.76,
+     "end": 72.94
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 73.08,
+   "end": 79.16,
+   "slot_end": 79.344,
+   "text": "Pour moi c'est clair. Shadow a la puissance, mais Alpha a tout le reste. Et toi, c'est quoi ton top 1 ? Dis-moi en com'.",
+   "words": [
+    {
+     "w": "Pour",
+     "start": 73.08,
+     "end": 73.18
+    },
+    {
+     "w": "moi",
+     "start": 73.18,
+     "end": 73.32
+    },
+    {
+     "w": "c'est",
+     "start": 73.32,
+     "end": 73.46
+    },
+    {
+     "w": "clair.",
+     "start": 73.46,
+     "end": 73.64
+    },
+    {
+     "w": "Shadow",
+     "start": 74.26,
+     "end": 74.38
+    },
+    {
+     "w": "a",
+     "start": 74.38,
+     "end": 74.46
+    },
+    {
+     "w": "la",
+     "start": 74.46,
+     "end": 74.64
+    },
+    {
+     "w": "puissance,",
+     "start": 74.64,
+     "end": 75.02
+    },
+    {
+     "w": "mais",
+     "start": 75.42,
+     "end": 75.56
+    },
+    {
+     "w": "Alpha",
+     "start": 75.56,
+     "end": 75.84
+    },
+    {
+     "w": "a",
+     "start": 75.84,
+     "end": 76.04
+    },
+    {
+     "w": "tout",
+     "start": 76.04,
+     "end": 76.12
+    },
+    {
+     "w": "le",
+     "start": 76.12,
+     "end": 76.22
+    },
+    {
+     "w": "reste.",
+     "start": 76.22,
+     "end": 76.44
+    },
+    {
+     "w": "Et",
+     "start": 77.02,
+     "end": 77.12
+    },
+    {
+     "w": "toi,",
+     "start": 77.12,
+     "end": 77.28
+    },
+    {
+     "w": "c'est",
+     "start": 77.38,
+     "end": 77.44
+    },
+    {
+     "w": "quoi",
+     "start": 77.44,
+     "end": 77.58
+    },
+    {
+     "w": "ton",
+     "start": 77.58,
+     "end": 77.8
+    },
+    {
+     "w": "top",
+     "start": 77.8,
+     "end": 78.06
+    },
+    {
+     "w": "1",
+     "start": 78.06,
+     "end": 78.26
+    },
+    {
+     "w": "?",
+     "start": 78.74,
+     "end": 78.845
+    },
+    {
+     "w": "Dis-moi",
+     "start": 78.845,
+     "end": 78.95
+    },
+    {
+     "w": "en",
+     "start": 78.95,
+     "end": 79.055
+    },
+    {
+     "w": "com'.",
+     "start": 79.055,
+     "end": 79.16
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "start": 79.34,
+   "end": 82.12,
+   "slot_end": 82.962,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 79.34,
+     "end": 79.64
+    },
+    {
+     "w": "Asura.",
+     "start": 79.64,
+     "end": 80.12
+    },
+    {
+     "w": "On",
+     "start": 80.78,
+     "end": 80.94
+    },
+    {
+     "w": "se",
+     "start": 80.94,
+     "end": 81.08
+    },
+    {
+     "w": "capte",
+     "start": 81.08,
+     "end": 81.42
+    },
+    {
+     "w": "au",
+     "start": 81.42,
+     "end": 81.5
+    },
+    {
+     "w": "prochain",
+     "start": 81.5,
+     "end": 81.68
+    },
+    {
+     "w": "épisode.",
+     "start": 81.68,
+     "end": 82.12
+    }
+   ]
+  }
+ ],
+ "aligned": 1.0
+}
