@@ -1,0 +1,184 @@
+{
+  "title": "Claude fait tes diapos, même en gratuit",
+  "theme": "ia",
+  "pillar": "ia",
+  "format": "actu",
+  "music": "pote",
+  "cover": {
+    "text": "Ton diaporama fait par l'IA",
+    "highlight": [
+      "diaporama"
+    ],
+    "emoji": "📊",
+    "sub": "gratuit, sur Claude"
+  },
+  "hook_text": "Un exposé à rendre demain ? Claude te fait le diaporama, gratuitement.",
+  "segments": [
+    {
+      "text": "Un exposé à rendre demain ? Claude te fait le diaporama, gratuitement.",
+      "emphasis": [
+        "diaporama"
+      ]
+    },
+    {
+      "text": "Depuis le 8 octobre, les présentations de Claude ne sont plus en test. Et elles marchent aussi avec le compte gratuit.",
+      "sfx": true,
+      "visual": {
+        "kind": "title",
+        "kicker": "Nouveau",
+        "text": "Les diapos Claude, gratuites",
+        "highlight": "gratuites",
+        "sub": "depuis le 8 octobre 2026"
+      }
+    },
+    {
+      "text": "Concrètement, tu demandes une présentation dans une conversation normale. Claude construit les diapos à partir de tes notes.",
+      "visual": {
+        "kind": "chat",
+        "name": "Claude",
+        "user": "Fais-moi une présentation de 6 diapos sur le recyclage, à partir de mes notes.",
+        "assistant": "Voici ta présentation : une diapo de titre, quatre diapos de contenu et une conclusion. Tu peux modifier chaque diapo directement."
+      }
+    },
+    {
+      "text": "La méthode en trois étapes. D'abord, colle tes notes ou ton rapport. Ensuite, précise à qui tu parles. Enfin, corrige chaque diapo toi-même.",
+      "visual": {
+        "kind": "list",
+        "title": "La méthode",
+        "items": [
+          "Colle tes notes",
+          "Précise ton public",
+          "Corrige chaque diapo"
+        ],
+        "at": [
+          "colle",
+          "précise",
+          "corrige"
+        ]
+      }
+    },
+    {
+      "text": "Le public, c'est le détail qui change tout. Une classe de collège et un client pressé, ce n'est pas le même diaporama.",
+      "emphasis": [
+        "public"
+      ],
+      "visual": {
+        "kind": "compare",
+        "left": {
+          "title": "Pour la classe",
+          "items": [
+            "Mots simples",
+            "Des images",
+            "Une histoire"
+          ]
+        },
+        "right": {
+          "title": "Pour un client",
+          "items": [
+            "Chiffres clés",
+            "Une idée par diapo",
+            "Court"
+          ]
+        }
+      }
+    },
+    {
+      "text": "Tu veux changer un titre ? Tu cliques dessus et tu le réécris, comme dans PowerPoint. Pas besoin de tout redemander.",
+      "visual": {
+        "kind": "title",
+        "kicker": "Modifier",
+        "text": "Clique et réécris",
+        "highlight": "réécris"
+      }
+    },
+    {
+      "text": "Et quand c'est prêt, tu présentes directement depuis Claude, sans changer de logiciel."
+    },
+    {
+      "text": "Tu préfères l'envoyer ? Il s'exporte en PowerPoint ou en PDF, avec la mise en page intacte. Ou directement vers Google Slides.",
+      "visual": {
+        "kind": "list",
+        "title": "Exporter",
+        "items": [
+          "PowerPoint",
+          "PDF",
+          "Google Slides"
+        ],
+        "at": [
+          "PowerPoint",
+          "PDF",
+          "Google"
+        ]
+      }
+    },
+    {
+      "text": "Ça marche aussi sur téléphone. Tu peux retoucher une diapo dans le métro, avant d'arriver.",
+      "visual": {
+        "kind": "card",
+        "emoji": "📱",
+        "owner": "Anthropic",
+        "name": "Claude sur mobile",
+        "desc": "Voir et modifier tes diapos",
+        "tags": [
+          "iOS",
+          "Android"
+        ],
+        "url": "claude.ai"
+      }
+    },
+    {
+      "text": "Et ce n'est pas un gadget : plus de 45 millions de documents, présentations et designs ont déjà été créés.",
+      "visual": {
+        "kind": "stat",
+        "value": 45,
+        "suffix": " millions",
+        "label": "docs, diapos et designs créés",
+        "source": "Anthropic, 8 octobre 2026"
+      }
+    },
+    {
+      "text": "Maintenant, la limite. Claude peut se tromper sur un chiffre ou une date. Vérifie chaque diapo avant de la montrer.",
+      "stamp": "Vérifie",
+      "visual": {
+        "kind": "title",
+        "kicker": "Attention",
+        "text": "Vérifie chaque diapo",
+        "highlight": "Vérifie"
+      }
+    },
+    {
+      "text": "Et si rien ne s'affiche, va dans les réglages : la création de fichiers doit être activée.",
+      "visual": {
+        "kind": "card",
+        "emoji": "⚙️",
+        "owner": "Réglages",
+        "name": "Création de fichiers",
+        "desc": "À activer pour créer des diapos",
+        "tags": [
+          "gratuit"
+        ],
+        "url": "support.claude.com"
+      }
+    },
+    {
+      "text": "Dernier conseil : demande d'abord le plan, puis les diapos. Tu valides la structure avant que Claude remplisse tout.",
+      "visual": {
+        "kind": "chat",
+        "name": "Claude",
+        "user": "Propose-moi d'abord le plan en cinq parties, sans faire les diapos.",
+        "assistant": "Voici le plan : le problème, les chiffres, les solutions, un exemple, la conclusion. On garde ça ?"
+      }
+    },
+    {
+      "text": "Et toi, tu vas l'utiliser pour quoi ? Un exposé, une réunion, ou un prochain client ? Dis-le en commentaire !"
+    }
+  ],
+  "caption": "Claude fait tes diapos, même avec le compte gratuit, depuis le 8 octobre 📊 Annonce officielle : https://claude.com/resources/articles/dashboards-and-motion",
+  "hashtags": [
+    "#ia",
+    "#claude",
+    "#presentation",
+    "#astuce",
+    "#powerpoint"
+  ]
+}

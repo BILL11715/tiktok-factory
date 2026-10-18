@@ -1,0 +1,51 @@
+{
+ "stamp": "2026-10-18_1900",
+ "duration": 88.4,
+ "lead": 0.6,
+ "cps": 24.4,
+ "accuracy": 0.945,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "ou",
+   "entendu": "au"
+  },
+  {
+   "dit": "enfin",
+   "entendu": "fin"
+  },
+  {
+   "dit": "paoueur pointe",
+   "entendu": "power point"
+  },
+  {
+   "dit": "paoueur pointe",
+   "entendu": "power point"
+  },
+  {
+   "dit": "p d f",
+   "entendu": "pdf"
+  },
+  {
+   "dit": "date",
+   "entendu": "dette"
+  },
+  {
+   "dit": "dernier conseil",
+   "entendu": "derners conseils"
+  },
+  {
+   "dit": "valides",
+   "entendu": "valis de"
+  },
+  {
+   "dit": "vas",
+   "entendu": "va"
+  },
+  {
+   "dit": "expose",
+   "entendu": "explose"
+  }
+ ],
+ "alerts": []
+}
