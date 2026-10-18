@@ -1,0 +1,203 @@
+{
+  "title": "Upscayl : agrandir une petite photo avec l'IA, gratuit",
+  "theme": "ia",
+  "pillar": "ia",
+  "format": "outil",
+  "music": "pote",
+  "cover": {
+    "text": "Sauve tes vieilles photos",
+    "highlight": [
+      "photos"
+    ],
+    "emoji": "📸",
+    "sub": "outil gratuit"
+  },
+  "hook_text": "Une vieille photo toute petite et pixelisée ? Une IA gratuite l'agrandit proprement.",
+  "segments": [
+    {
+      "text": "Une vieille photo toute petite et pixelisée ? Une IA gratuite l'agrandit proprement.",
+      "emphasis": [
+        "gratuite"
+      ]
+    },
+    {
+      "text": "Elle s'appelle Upscayl. C'est une application libre et gratuite, à installer sur Windows, Mac ou Linux.",
+      "visual": {
+        "kind": "card",
+        "emoji": "🖼️",
+        "owner": "upscayl",
+        "name": "upscayl",
+        "desc": "Agrandir une image avec l'IA",
+        "tags": [
+          "gratuit",
+          "open source",
+          "Windows Mac Linux"
+        ],
+        "stars": "50,3k",
+        "url": "github.com/upscayl/upscayl"
+      }
+    },
+    {
+      "text": "Le problème ? Quand tu agrandis une image normalement, tu obtiens des gros carrés flous. C'est moche, surtout à l'impression.",
+      "visual": {
+        "kind": "title",
+        "kicker": "Le problème",
+        "text": "Agrandir donne des gros carrés",
+        "highlight": [
+          "carrés"
+        ]
+      }
+    },
+    {
+      "text": "Là, l'outil devine les détails qui manquent. Il a appris sur énormément d'images à quoi ressemble un contour bien net.",
+      "visual": {
+        "kind": "compare",
+        "left": {
+          "title": "Zoom classique",
+          "items": [
+            "Gros pixels",
+            "Bords flous"
+          ]
+        },
+        "right": {
+          "title": "Avec Upscayl",
+          "items": [
+            "Contours nets",
+            "Détails devinés"
+          ]
+        }
+      }
+    },
+    {
+      "text": "Au final, l'image peut devenir jusqu'à 16 fois plus grande !",
+      "sfx": true,
+      "visual": {
+        "kind": "stat",
+        "value": 16,
+        "prefix": "x",
+        "suffix": "",
+        "label": "plus grande, au maximum",
+        "source": "upscayl.org"
+      }
+    },
+    {
+      "text": "Comment on s'en sert ? Tu ouvres ta photo, tu choisis un modèle, puis tu lances.",
+      "visual": {
+        "kind": "list",
+        "title": "En 3 étapes",
+        "items": [
+          "Ouvrir la photo",
+          "Choisir un modèle",
+          "Lancer"
+        ],
+        "at": [
+          "photo",
+          "modèle",
+          "lances"
+        ]
+      }
+    },
+    {
+      "text": "Il y a plusieurs modèles, un peu comme des filtres photo. Essaie-en deux sur la même image, et garde le plus joli."
+    },
+    {
+      "text": "Et tu peux en traiter plusieurs d'un coup. Par exemple, tout un dossier de photos de famille.",
+      "visual": {
+        "kind": "title",
+        "kicker": "Astuce",
+        "text": "Tout un dossier d'un coup",
+        "highlight": [
+          "dossier"
+        ]
+      }
+    },
+    {
+      "text": "Pratique pour un logo trop petit, une photo à imprimer, ou les images de ta boutique en ligne.",
+      "visual": {
+        "kind": "list",
+        "title": "Ça sert pour",
+        "items": [
+          "Un logo trop petit",
+          "Une photo à imprimer",
+          "Une boutique en ligne"
+        ],
+        "at": [
+          "logo",
+          "imprimer",
+          "boutique"
+        ]
+      }
+    },
+    {
+      "text": "Maintenant, les limites. Il faut une carte graphique compatible. Sur beaucoup d'ordinateurs simples, ça ne marche pas.",
+      "visual": {
+        "kind": "title",
+        "kicker": "Limite",
+        "text": "Il faut une bonne carte graphique",
+        "highlight": [
+          "carte"
+        ]
+      }
+    },
+    {
+      "text": "Et une photo prise sans mise au point restera floue. L'IA agrandit, elle ne fait pas de miracle.",
+      "stamp": "pas de miracle",
+      "visual": {
+        "kind": "compare",
+        "left": {
+          "title": "Elle sait faire",
+          "items": [
+            "Agrandir",
+            "Lisser les pixels"
+          ]
+        },
+        "right": {
+          "title": "Elle ne sait pas",
+          "items": [
+            "Rattraper le flou",
+            "Retrouver le vrai"
+          ]
+        }
+      }
+    },
+    {
+      "text": "Autre point important : les détails ajoutés sont inventés. Pour un papier officiel ou une preuve, garde toujours l'original.",
+      "visual": {
+        "kind": "title",
+        "kicker": "Important",
+        "text": "Garde toujours l'original",
+        "highlight": [
+          "original"
+        ]
+      }
+    },
+    {
+      "text": "Il existe aussi une version en ligne payante, avec d'autres options. Mais l'application à installer reste gratuite, et elle est à toi.",
+      "visual": {
+        "kind": "card",
+        "emoji": "💻",
+        "owner": "upscayl",
+        "name": "Upscayl",
+        "desc": "Application à installer",
+        "tags": [
+          "Windows",
+          "Mac",
+          "Linux"
+        ],
+        "price": "Gratuit",
+        "url": "upscayl.org"
+      }
+    },
+    {
+      "text": "Le lien GitHub est dans la légende. Dis-moi en commentaire quelle photo tu vas sauver en premier !"
+    }
+  ],
+  "caption": "Agrandir une petite photo pixelisée avec l'IA, gratuitement 📸 Upscayl : https://github.com/upscayl/upscayl (site : https://upscayl.org)",
+  "hashtags": [
+    "#ia",
+    "#outilgratuit",
+    "#photo",
+    "#opensource",
+    "#astuce"
+  ]
+}
