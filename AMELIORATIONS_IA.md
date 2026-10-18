@@ -15,10 +15,14 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
    entretien demain ? » ou placer le mot après le verbe.
    Même chose pour « Résultat ? » en ouverture de phrase : mal compris sur 2 vidéos (17/10 19:00 « pasuta »,
    18/10 08:00 « l azultat ») ; écrire « Au final ? » (bien entendu au 2e rendu du 18/10).
+   Même chose pour « Exemple, » en ouverture : mal compris sur 2 vidéos (17/10 19:00 avalé, 18/10 17:00 « mes armes »),
+   et « Prends un... » (18/10 17:00 « si tu es ») ; écrire « Imagine un plombier. » ou glisser l'exemple dans la phrase.
 6. Mettre « SEO Radius » en fin de phrase, jamais suivi d'un verbe court : les mots qui le suivent sont avalés
    sur 3 vidéos (14/10 « aura dus », « radius ed » ; 16/10 « SEO Radius. Tape un » entendu « au radus ca par »).
    Écrire « Pour ça, j'utilise SEO Radius. » puis une nouvelle phrase qui commence par un mot d'au moins
-   2 syllabes (« Ensuite, tu tapes... ») : « SEO Radius. Tu tapes » a encore été avalé le 16/10 22:00 (« seo radus tap »).
+   2 syllabes (« Ensuite, tu choisis... ») : « SEO Radius. Tu tapes » a encore été avalé le 16/10 22:00 (« seo radus tap »).
+   Le verbe « tapes » lui-même est mal compris sur 2 vidéos (16/10 « tap », 18/10 17:00 « t apples ») : écrire « tu choisis »
+   (bien entendu au 2e rendu du 18/10 17:00).
 
 ## Pistes pour Bill (changements de code proposés, à valider par lui)
 - Audit : comparer la transcription au texte écrit du script, pas à la graphie phonétique du lexique.
@@ -28,6 +32,9 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
 - Audit : relancer `factory.audit` sur le même run ajoute une 2e ligne identique dans `audits_ia.jsonl` (doublons 14/10 12:00 et 19:00), ce qui gonfle le compte des « mots mal compris sur plusieurs vidéos ». Remplacer la ligne du même stamp au lieu d'en ajouter une.
 
 ## Journal (1 ligne par revue, la plus récente en haut, 20 lignes maximum)
+- 2026-10-18 (17:00) : 1er rendu à 93 % avec alerte (« prends » entendu « si tu es », « tapes » entendu « t apples », « vaut » entendu « voir ») :
+  reformulés, 2e rendu à 94 % sans alerte (débit 24,7 car./s, 84,7 s). Sur les 10 derniers audits, débit 24,2 à 25,4 car./s, 8 sans alerte.
+  « Exemple, » en ouverture et « tu tapes » mal compris sur 2 vidéos : règles 5 et 6 précisées. Doublon d'audit du même stamp retiré à la main (piste déjà notée).
 - 2026-10-18 (08:00) : 1er rendu à 91 % (« mercredi » entendu « marc redit », « le suivi range » entendu « je suggère en »,
   « un clic », « Résultat ») : reformulés (« jeudi », « chaque prospect reçoit un statut », « en un seul clic », « Au final »),
   2e rendu à 93 % sans alerte (débit 24,2 car./s, 91,2 s). Sur les 10 derniers audits, débit 23,8 à 25,4 car./s, 7 sans alerte.
