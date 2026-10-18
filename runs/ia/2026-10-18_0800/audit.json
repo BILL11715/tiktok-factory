@@ -1,0 +1,59 @@
+{
+ "stamp": "2026-10-18_0800",
+ "duration": 91.2,
+ "lead": 0.6,
+ "cps": 24.2,
+ "accuracy": 0.931,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "fri",
+   "entendu": "free"
+  },
+  {
+   "dit": "appelle",
+   "entendu": "appel"
+  },
+  {
+   "dit": "placee",
+   "entendu": "passee"
+  },
+  {
+   "dit": "au",
+   "entendu": "pour"
+  },
+  {
+   "dit": "trouvee pour eviter ca",
+   "entendu": "trouve vous pouvez utiliser ces choix"
+  },
+  {
+   "dit": "s e o radiusse",
+   "entendu": "seo radius"
+  },
+  {
+   "dit": "decouverte",
+   "entendu": "decouvertes"
+  },
+  {
+   "dit": "starter",
+   "entendu": "starters"
+  },
+  {
+   "dit": "agency",
+   "entendu": "agencie"
+  },
+  {
+   "dit": "starter",
+   "entendu": ""
+  },
+  {
+   "dit": "t",
+   "entendu": ""
+  },
+  {
+   "dit": "appele",
+   "entendu": "appuye"
+  }
+ ],
+ "alerts": []
+}

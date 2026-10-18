@@ -1,0 +1,209 @@
+{
+ "title": "Ton prospect, personne d'autre ne le voit",
+ "theme": "seo",
+ "pillar": "seo-radius",
+ "format": "methode",
+ "music": "pote",
+ "cover": {
+  "text": "Trois freelances, un seul prospect",
+  "highlight": [
+   "seul"
+  ],
+  "emoji": "🔒",
+  "sub": "la réservation exclusive"
+ },
+ "hook_text": "Tu as trouvé le prospect parfait ? Un autre freelance l'appelle peut-être demain.",
+ "segments": [
+  {
+   "text": "Tu as trouvé le prospect parfait ? Un autre freelance l'appelle peut-être demain.",
+   "emphasis": [
+    "demain"
+   ]
+  },
+  {
+   "text": "Imagine une boulangerie mal placée sur Google. Elle est visible pour tout le monde. Donc tout le monde la démarche.",
+   "visual": {
+    "kind": "search",
+    "query": "boulangerie Rennes",
+    "results": [
+     {
+      "name": "Au Fournil Breton",
+      "note": "page 2, site lent",
+      "rating": "4,6"
+     },
+     {
+      "name": "Maison Le Goff",
+      "note": "page 1",
+      "rating": "4,3"
+     }
+    ],
+    "pick": 0
+   }
+  },
+  {
+   "text": "Lundi, elle reçoit un premier mail. Jeudi, un appel. Vendredi, encore un message qui dit la même chose.",
+   "visual": {
+    "kind": "list",
+    "title": "Sa semaine",
+    "items": [
+     "Lundi : un mail",
+     "Jeudi : un appel",
+     "Vendredi : encore un"
+    ],
+    "at": [
+     "lundi",
+     "jeudi",
+     "vendredi"
+    ]
+   }
+  },
+  {
+   "text": "Au final ? La gérante sature. Elle ne répond plus à personne. Même pas à toi.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Le piège",
+    "text": "Trop sollicitée, elle ignore tout",
+    "highlight": "ignore"
+   },
+   "sfx": true
+  },
+  {
+   "text": "Le problème, ce n'est pas forcément ton message. C'est que tu n'es pas le seul à l'avoir trouvée.",
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "Ce que tu crois",
+     "items": [
+      "Mon mail est nul",
+      "Pas le bon moment"
+     ]
+    },
+    "right": {
+     "title": "La réalité",
+     "items": [
+      "D'autres sont passés avant",
+      "Elle sature"
+     ]
+    }
+   }
+  },
+  {
+   "text": "Pour éviter ça, j'utilise SEO Radius.",
+   "visual": {
+    "kind": "card",
+    "emoji": "🔒",
+    "owner": "Outil",
+    "name": "SEO Radius",
+    "desc": "Prospection SEO locale avec réservation exclusive",
+    "tags": [
+     "freelance",
+     "SEO local"
+    ],
+    "url": "seoradius.fr"
+   }
+  },
+  {
+   "text": "Concrètement, tu tapes un métier et une ville. L'outil écarte les annuaires et classe les entreprises qui ont du potentiel.",
+   "visual": {
+    "kind": "search",
+    "query": "boulangerie Rennes",
+    "results": [
+     {
+      "name": "Au Fournil Breton",
+      "note": "score estimé élevé",
+      "rating": "4,6"
+     },
+     {
+      "name": "Pain et Malice",
+      "note": "score estimé moyen",
+      "rating": "4,1"
+     }
+    ],
+    "pick": 0
+   }
+  },
+  {
+   "text": "Ensuite, tu réserves celles qui t'intéressent. En un seul clic, elles disparaissent des listes des autres utilisateurs.",
+   "visual": {
+    "kind": "title",
+    "kicker": "La réservation",
+    "text": "Elle disparaît des autres listes",
+    "highlight": "disparaît"
+   },
+   "stamp": "réservé",
+   "sfx": true
+  },
+  {
+   "text": "Pendant ce temps, tu prépares tranquillement ton premier contact."
+  },
+  {
+   "text": "Combien de temps ? Sept jours avec les formules Découverte et Starter. Quatorze jours en Pro. Trente jours en Agency.",
+   "visual": {
+    "kind": "stat",
+    "value": 30,
+    "prefix": "7 à ",
+    "suffix": " jours",
+    "label": "de réservation exclusive selon la formule",
+    "source": "seoradius.fr"
+   }
+  },
+  {
+   "text": "Attention, la réservation bloque seulement les autres utilisateurs de l'outil. Le reste du monde peut toujours appeler.",
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "Bloqué",
+     "items": [
+      "Les autres utilisateurs"
+     ]
+    },
+    "right": {
+     "title": "Pas bloqué",
+     "items": [
+      "Le reste du monde"
+     ]
+    }
+   }
+  },
+  {
+   "text": "Alors utilise ces jours comme un compte à rebours. Le premier jour, un constat précis. Trois jours après, une relance courte.",
+   "visual": {
+    "kind": "list",
+    "title": "Ta semaine réservée",
+    "items": [
+     "Jour 1 : un constat",
+     "Jour 3 : une relance",
+     "Jour 7 : décider"
+    ],
+    "at": [
+     "constat",
+     "relance",
+     "septième"
+    ]
+   }
+  },
+  {
+   "text": "Et au septième jour, tu décides : tu continues, ou tu passes au suivant."
+  },
+  {
+   "text": "Pour ne rien oublier, chaque prospect reçoit un statut : réservé, contacté, en attente, ou gagné. C'est inclus à partir de Starter.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Le suivi",
+    "text": "Réservé, contacté, en attente, gagné",
+    "highlight": "gagné"
+   }
+  },
+  {
+   "text": "Et toi, un prospect t'a déjà répondu : on m'a appelé hier pour ça ? Raconte-moi en commentaire."
+  }
+ ],
+ "caption": "Trois freelances sur le même prospect ? Réserve-le avant les autres 🔒 (outil en lien en bio)",
+ "hashtags": [
+  "#seo",
+  "#seolocal",
+  "#freelance",
+  "#prospection",
+  "#seoradius"
+ ]
+}
