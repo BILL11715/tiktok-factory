@@ -1,0 +1,127 @@
+{
+ "title": "Reco : il se réveille dans son jeu, aux commandes du vaisseau le plus cheaté",
+ "format": "reco",
+ "tone": "pote",
+ "music": "pote",
+ "animes": [
+  "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!"
+ ],
+ "cover": {
+  "text": "Réveillé dans son vaisseau cheaté",
+  "highlight": [
+   "cheaté"
+  ],
+  "emoji": "🚀"
+ },
+ "hook_text": "Ce gamer se réveille dans son jeu, aux commandes du vaisseau le plus cheaté",
+ "spoiler": false,
+ "segments": [
+  {
+   "text": "Ce gamer se réveille dans son jeu, aux commandes du vaisseau le plus cheaté.",
+   "sfx": true,
+   "emphasis": [
+    "cheaté"
+   ]
+  },
+  {
+   "text": "[whispering] Reste jusqu'au bout, j'te donne le nom et j'te dis pourquoi il m'a eu.",
+   "emphasis": [
+    "nom"
+   ]
+  },
+  {
+   "text": "Le mec, c'est Hiro. Il passait ses nuits sur un jeu spatial en ligne, et il était très très fort.",
+   "emphasis": [
+    "Hiro"
+   ],
+   "shots": [
+    {
+     "kind": "wide"
+    }
+   ]
+  },
+  {
+   "text": "Un soir, il se connecte, il s'endort, et il se réveille dans le cockpit. Sauf que là, y'a plus de menu. Plus de bouton déconnexion. Rien.",
+   "grade": "bw",
+   "sfx": true,
+   "emphasis": [
+    "déconnexion"
+   ]
+  },
+  {
+   "text": "Son vaisseau, le Krishna, c'est son bébé. Tout ce qu'il a farmé, il l'a encore. Sauf qu'ici, c'est une vraie arme de guerre.",
+   "emphasis": [
+    "Krishna"
+   ]
+  },
+  {
+   "text": "[excited] Et lui, les combats spatiaux, il les connaît par cœur. Les pirates qui l'attaquent ont aucune idée de qui ils viennent de croiser.",
+   "stamp": "CHEATÉ",
+   "emphasis": [
+    "pirates"
+   ]
+  },
+  {
+   "text": "Si t'aimes les animes qui passent sous les radars en France, abonne-toi, j'en sors tous les jours et le prochain est encore plus fou.",
+   "cta": true
+  },
+  {
+   "text": "Et c'est là que ça devient intéressant. Il débarque sur une station et il tombe sur Mimi, une fille coincée dans une sale situation.",
+   "emphasis": [
+    "Mimi"
+   ]
+  },
+  {
+   "text": "Il aurait pu passer son chemin. Il l'aide, et elle finit dans son équipage.",
+   "emphasis": [
+    "équipage"
+   ]
+  },
+  {
+   "text": "Ensuite y'a Elma, une elfe mercenaire avec un sacré caractère, et le vaisseau commence à ressembler à une petite famille de l'espace.",
+   "emphasis": [
+    "Elma"
+   ]
+  },
+  {
+   "text": "[laughing] Et le délire, c'est que Hiro joue pas au héros. Il veut juste de la thune, une maison sur une planète tranquille, et dormir.",
+   "emphasis": [
+    "thune"
+   ]
+  },
+  {
+   "text": "Sauf que quand t'as le vaisseau le plus dangereux du coin, c'est les galères qui viennent te chercher.",
+   "sfx": true,
+   "emphasis": [
+    "galères"
+   ]
+  },
+  {
+   "text": "Mon avis ? C'est pas l'anime qui va changer ta vie. Mais on sort enfin de l'isekai médiéval, et un mec qui gère son vaisseau comme une PME, j'kiffe.",
+   "stamp": "VALIDÉ",
+   "emphasis": [
+    "kiffe"
+   ]
+  },
+  {
+   "text": "[excited] Ça vient de commencer cet automne, un épisode par semaine, t'as le temps de rattraper.",
+   "emphasis": [
+    "automne"
+   ]
+  },
+  {
+   "text": "Le nom, c'est Reborn as a Space Mercenary. Tu l'avais déjà vu passer ? Dis-moi en com'."
+  }
+ ],
+ "reveal_text": "Reborn as a Space Mercenary",
+ "reveal_segments": 1,
+ "caption": "Il voulait juste une maison tranquille, il a eu des pirates à la place 🚀 tu l'avais vu passer ?",
+ "hashtags": [
+  "#anime",
+  "#manga",
+  "#animefr",
+  "#otakufr",
+  "#spacemercenary",
+  "#recommandationanime"
+ ]
+}
