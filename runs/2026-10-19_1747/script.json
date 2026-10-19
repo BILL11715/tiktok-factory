@@ -1,0 +1,131 @@
+{
+ "title": "Omniscient Reader : le seul lecteur d'un roman qui devient réel",
+ "format": "storytelling",
+ "tone": "conteur",
+ "music": "mystere",
+ "animes": [
+  "Omniscient Reader"
+ ],
+ "media": {
+  "Omniscient Reader": "manhwa"
+ },
+ "cover": {
+  "text": "Il connaît déjà la fin",
+  "highlight": [
+   "fin"
+  ],
+  "emoji": "📖",
+  "sub": "et c'est un problème"
+ },
+ "hook_text": "Ce mec est le seul lecteur d'un roman, et un jour le roman devient réel",
+ "spoiler": false,
+ "segments": [
+  {
+   "text": "Ce mec est le seul lecteur d'un roman, et un jour le roman devient réel.",
+   "sfx": true,
+   "emphasis": [
+    "réel"
+   ],
+   "scene": "a young office worker reading his phone in a crowded subway at night"
+  },
+  {
+   "text": "[whispering] Et le pire, c'est qu'il connaît déjà la fin. Reste jusqu'au bout, tu vas comprendre pourquoi c'est un problème.",
+   "emphasis": [
+    "la fin"
+   ],
+   "scene": "a man staring at a glowing phone screen with dark shadows around him"
+  },
+  {
+   "text": "Lui, c'est Dokja. Un employé lambda, zéro vie sociale, qui lit le même web novel depuis plus de dix ans.",
+   "emphasis": [
+    "dix ans"
+   ],
+   "scene": "a tired young man in a suit sitting alone on a train"
+  },
+  {
+   "text": "Le roman raconte comment survivre dans un monde en ruine. Tout le monde a lâché. Lui, il est allé jusqu'au dernier chapitre.",
+   "scene": "a destroyed city with collapsed buildings under a red sky",
+   "shots": [
+    {
+     "kind": "wide"
+    }
+   ]
+  },
+  {
+   "text": "Sauf que ce jour-là, dans le métro, tout s'arrête. Une petite créature apparaît dans le wagon et annonce le premier scénario.",
+   "sfx": true,
+   "emphasis": [
+    "scénario"
+   ],
+   "scene": "a small floating creature appearing in a subway car in front of frightened passengers"
+  },
+  {
+   "text": "La règle est simple, tuer au moins un être vivant avant la fin du temps imparti. Sinon, c'est toi qui meurs.",
+   "grade": "bw",
+   "emphasis": [
+    "tuer"
+   ],
+   "scene": "panicked passengers fighting each other inside a dark subway car"
+  },
+  {
+   "text": "[surprised] Et là, les gens du wagon se regardent bizarrement. Mais Dokja a déjà lu cette scène. Un être vivant, frère, c'est pas forcément un humain.",
+   "emphasis": [
+    "humain"
+   ],
+   "stamp": "MALIN",
+   "scene": "a calm man crouching and looking at a small insect while people panic around him"
+  },
+  {
+   "text": "Si t'aimes les héros qui gagnent avec leur tête, abonne-toi, je t'en raconte une nouvelle tous les jours.",
+   "cta": true
+  },
+  {
+   "text": "Mais c'est là que ça dérape. Le vrai héros du roman, c'est pas Dokja. C'est Yoo Joonghyuk, un épéiste qui revient au début à chaque fois qu'il meurt.",
+   "sfx": true,
+   "emphasis": [
+    "héros"
+   ],
+   "scene": "a dark haired swordsman in a long black coat standing on ruins"
+  },
+  {
+   "text": "Joonghyuk a vécu des vies entières. Dokja, lui, les connaît toutes par cœur.",
+   "scene": "a swordsman fighting a giant monster in a destroyed city"
+  },
+  {
+   "text": "[excited] Et au-dessus, y'a les Constellations. Des êtres qui regardent les humains survivre comme un live, et qui balancent des pièces quand le show leur plaît.",
+   "emphasis": [
+    "live"
+   ],
+   "scene": "glowing stars and giant eyes in the night sky watching a ruined city"
+  },
+  {
+   "text": "Alors pourquoi connaître la fin, c'est un problème ? Parce que presque personne ne s'en sort. Et Dokja sait exactement qui va tomber.",
+   "grade": "bw",
+   "sfx": true,
+   "emphasis": [
+    "tomber"
+   ],
+   "scene": "a man standing alone in a burning city with a sad face"
+  },
+  {
+   "text": "Du coup il fait un truc de fou, il décide de réécrire l'histoire avec sa propre fin. Et c'est là que j'ai compris que ce manhwa était différent.",
+   "emphasis": [
+    "réécrire"
+   ],
+   "scene": "a determined young man walking forward through ruins at sunrise"
+  },
+  {
+   "text": "Ça s'appelle Omniscient Reader, c'est sur Webtoon, et l'anime est annoncé. Lis-le avant. Tu l'as déjà lu ? Dis-moi en com'.",
+   "scene": "a young man and a swordsman standing back to back facing monsters"
+  }
+ ],
+ "caption": "Imagine connaître la fin du monde et savoir qui va tomber 📖 tu l'as lu ou pas ?",
+ "hashtags": [
+  "#anime",
+  "#manhwa",
+  "#animefr",
+  "#mangafr",
+  "#omniscientreader",
+  "#webtoon"
+ ]
+}
