@@ -1,0 +1,218 @@
+{
+ "title": "Les photos de la fiche Google, un argument de prospection",
+ "theme": "seo",
+ "pillar": "seo-radius",
+ "format": "mythe",
+ "music": "pote",
+ "cover": {
+  "text": "Sans photo, pas d'appel",
+  "highlight": [
+   "photo"
+  ],
+  "emoji": "📸",
+  "sub": "fiche Google"
+ },
+ "hook_text": "Une fiche Google sans photo, c'est une vitrine avec le rideau baissé.",
+ "segments": [
+  {
+   "text": "Une fiche Google sans photo, c'est une vitrine avec le rideau baissé.",
+   "emphasis": [
+    "photo"
+   ]
+  },
+  {
+   "text": "Beaucoup d'artisans pensent que les photos, c'est de la déco. Pourtant, pour le client qui compare sur son téléphone, c'est souvent ce qui décide.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Mythe",
+    "text": "Les photos, c'est de la déco",
+    "highlight": "déco",
+    "sub": "vraiment ?"
+   }
+  },
+  {
+   "text": "Imagine un serrurier à Lyon. Sa fiche n'a aucune photo, ses deux concurrents montrent leur camion et leur équipe. Qui reçoit l'appel ?",
+   "visual": {
+    "kind": "search",
+    "query": "serrurier Lyon",
+    "results": [
+     {
+      "name": "Serrurerie du Centre",
+      "note": "12 photos",
+      "rating": "4,6"
+     },
+     {
+      "name": "Clés Express",
+      "note": "8 photos",
+      "rating": "4,4"
+     },
+     {
+      "name": "Serrurier Martin",
+      "note": "aucune photo",
+      "rating": "4,7"
+     }
+    ],
+    "pick": 2
+   }
+  },
+  {
+   "text": "La réalité ? Google le dit lui-même : les photos aident une entreprise à se démarquer.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Réalité",
+    "text": "Les photos font choisir",
+    "highlight": "choisir",
+    "sub": "selon Google"
+   },
+   "sfx": true
+  },
+  {
+   "text": "Le conseil officiel ? Au moins trois photos de l'extérieur, trois de l'intérieur, et trois du travail en cours.",
+   "visual": {
+    "kind": "stat",
+    "value": 3,
+    "suffix": " photos",
+    "label": "minimum par type, conseil Google",
+    "source": "support.google.com/business"
+   }
+  },
+  {
+   "text": "L'extérieur, pour reconnaître la devanture. L'intérieur, pour l'ambiance. Le travail, pour le savoir-faire.",
+   "visual": {
+    "kind": "list",
+    "title": "Les 3 photos clés",
+    "items": [
+     "L'extérieur",
+     "L'intérieur",
+     "Le travail en cours"
+    ],
+    "at": [
+     "extérieur",
+     "intérieur",
+     "travail"
+    ]
+   }
+  },
+  {
+   "text": "Et ajoute l'équipe. Un visage rassure plus qu'un logo.",
+   "stamp": "un visage"
+  },
+  {
+   "text": "Côté prospection, une fiche sans photo, c'est un argument parfait pour un premier contact.",
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "Fiche vide",
+     "items": [
+      "Aucune photo",
+      "Logo flou",
+      "Rien sur le travail"
+     ]
+    },
+    "right": {
+     "title": "Fiche soignée",
+     "items": [
+      "La devanture",
+      "L'équipe",
+      "Les chantiers"
+     ]
+    }
+   }
+  },
+  {
+   "text": "Pour les trouver, j'utilise SEO Radius. Ensuite, tu choisis un métier et une ville, et l'outil classe les entreprises avec un score d'opportunité estimé.",
+   "visual": {
+    "kind": "stat",
+    "value": 78,
+    "suffix": "/100",
+    "label": "score d'opportunité estimé",
+    "source": "SEO Radius"
+   }
+  },
+  {
+   "text": "Ouvre la fiche Google des premières. Pas de photo ? Tu réserves le prospect, et il disparaît des listes des autres utilisateurs.",
+   "visual": {
+    "kind": "card",
+    "emoji": "🔎",
+    "owner": "seoradius.fr",
+    "name": "SEO Radius",
+    "desc": "Réservation exclusive du prospect, de 7 à 30 jours selon le plan",
+    "tags": [
+     "métier + ville",
+     "score estimé",
+     "réservation"
+    ],
+    "url": "seoradius.fr"
+   }
+  },
+  {
+   "text": "Ensuite, un message tout simple. Tu dis ce que tu as vu, sans juger, et tu poses une question.",
+   "visual": {
+    "kind": "chat",
+    "name": "Message au gérant",
+    "user": "Écris un message court au gérant : sa fiche Google n'a aucune photo.",
+    "assistant": "Bonjour, en cherchant un serrurier à Lyon, j'ai vu que votre fiche Google n'a aucune photo, alors que vos voisins en montrent une dizaine. Voulez-vous que je vous montre ce que ça change, en dix minutes ?"
+   }
+  },
+  {
+   "text": "Mieux encore, au rendez-vous, fais trois photos avec ton téléphone. Bien nettes, à la lumière du jour. Et ajoutez-les ensemble.",
+   "visual": {
+    "kind": "list",
+    "title": "Au rendez-vous",
+    "items": [
+     "3 photos au téléphone",
+     "Nettes, lumière du jour",
+     "Ajoutées ensemble"
+    ],
+    "at": [
+     "trois",
+     "nettes",
+     "ensemble"
+    ]
+   }
+  },
+  {
+   "text": "Attention, montre la vraie entreprise, pas des images d'internet. Et ne promets jamais la première place.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Attention",
+    "text": "Des vraies photos",
+    "highlight": "vraies",
+    "sub": "pas d'images d'internet"
+   },
+   "sfx": true
+  },
+  {
+   "text": "Au final, c'est une petite mission, utile, et facile à montrer. La porte d'entrée idéale vers un suivi mensuel.",
+   "stamp": "porte d'entrée"
+  },
+  {
+   "text": "Et toi, combien de fiches sans photo tu trouves dans ta ville ? Dis-moi en commentaire.",
+   "visual": {
+    "kind": "search",
+    "query": "plombier Lyon",
+    "results": [
+     {
+      "name": "Plomberie Saint-Jean",
+      "note": "aucune photo",
+      "rating": "4,5"
+     },
+     {
+      "name": "Eau Services",
+      "note": "2 photos",
+      "rating": "4,2"
+     }
+    ],
+    "pick": 0
+   }
+  }
+ ],
+ "caption": "Une fiche Google sans photo, c'est un client qui appelle le concurrent 📸 La méthode pour en faire ton argument de prospection (lien en bio)",
+ "hashtags": [
+  "#seo",
+  "#seolocal",
+  "#fichegoogle",
+  "#freelance",
+  "#prospection"
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "stamp": "2026-10-19_1700",
+ "duration": 97.9,
+ "lead": 0.6,
+ "cps": 23.9,
+ "accuracy": 0.937,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "serrurier",
+   "entendu": "serrerier"
+  },
+  {
+   "dit": "lyon",
+   "entendu": "lion"
+  },
+  {
+   "dit": "ses",
+   "entendu": "ces"
+  },
+  {
+   "dit": "la",
+   "entendu": "par"
+  },
+  {
+   "dit": "aident",
+   "entendu": "est d"
+  },
+  {
+   "dit": "rassure",
+   "entendu": "rassur"
+  },
+  {
+   "dit": "trouver",
+   "entendu": "trouves"
+  },
+  {
+   "dit": "o radiusse",
+   "entendu": "radus"
+  },
+  {
+   "dit": "opportunite estime",
+   "entendu": "opportunites estimees"
+  },
+  {
+   "dit": "photo",
+   "entendu": "photos"
+  },
+  {
+   "dit": "bien nettes",
+   "entendu": "gliannette"
+  },
+  {
+   "dit": "promets",
+   "entendu": "promet"
+  },
+  {
+   "dit": "au",
+   "entendu": "pour"
+  },
+  {
+   "dit": "la",
+   "entendu": "ta"
+  },
+  {
+   "dit": "photo",
+   "entendu": "photos"
+  }
+ ],
+ "alerts": []
+}
