@@ -1,0 +1,71 @@
+{
+ "stamp": "2026-10-19_1900",
+ "duration": 92.9,
+ "lead": 0.6,
+ "cps": 24.5,
+ "accuracy": 0.939,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "relire",
+   "entendu": "regnire"
+  },
+  {
+   "dit": "jour j",
+   "entendu": "jorgi"
+  },
+  {
+   "dit": "pour",
+   "entendu": "on"
+  },
+  {
+   "dit": "lancer",
+   "entendu": "lancez"
+  },
+  {
+   "dit": "onde",
+   "entendu": "tombe"
+  },
+  {
+   "dit": "choisis",
+   "entendu": "choisir"
+  },
+  {
+   "dit": "ecris",
+   "entendu": "ecrire"
+  },
+  {
+   "dit": "colle",
+   "entendu": "call"
+  },
+  {
+   "dit": "en pose",
+   "entendu": "impose"
+  },
+  {
+   "dit": "c est",
+   "entendu": "ses"
+  },
+  {
+   "dit": "appuyer",
+   "entendu": "appuye"
+  },
+  {
+   "dit": "demande",
+   "entendu": "demandes"
+  },
+  {
+   "dit": "pire",
+   "entendu": "pierre"
+  },
+  {
+   "dit": "limites",
+   "entendu": "limite"
+  },
+  {
+   "dit": "quelle",
+   "entendu": ""
+  }
+ ],
+ "alerts": []
+}

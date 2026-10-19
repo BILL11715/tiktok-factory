@@ -1,0 +1,204 @@
+{
+  "title": "Répète ton entretien à voix haute avec Claude",
+  "theme": "ia",
+  "pillar": "ia",
+  "format": "methode",
+  "music": "pote",
+  "cover": {
+    "text": "Répète ton entretien avec l'IA",
+    "highlight": [
+      "entretien"
+    ],
+    "emoji": "🎙️",
+    "sub": "gratuit, à voix haute"
+  },
+  "hook_text": "Tu as un entretien d'embauche cette semaine ? Entraîne-toi à voix haute avec Claude.",
+  "segments": [
+    {
+      "text": "Tu as un entretien d'embauche cette semaine ? Entraîne-toi à voix haute avec Claude.",
+      "emphasis": [
+        "voix"
+      ]
+    },
+    {
+      "text": "Relire tes notes dans ta tête, ça ne suffit pas. Le jour J, c'est ta voix qui doit suivre. Et souvent, elle bloque.",
+      "visual": {
+        "kind": "compare",
+        "left": {
+          "title": "Dans ta tête",
+          "items": [
+            "Phrases parfaites",
+            "Aucun stress"
+          ]
+        },
+        "right": {
+          "title": "À voix haute",
+          "items": [
+            "Tu cherches tes mots",
+            "Tu parles trop vite"
+          ]
+        }
+      }
+    },
+    {
+      "text": "Claude a un mode vocal. Tu parles, et il te répond à voix haute, comme au téléphone.",
+      "visual": {
+        "kind": "card",
+        "emoji": "🎙️",
+        "owner": "Anthropic",
+        "name": "Mode vocal de Claude",
+        "desc": "Parler à Claude, il répond à voix haute",
+        "tags": [
+          "Bêta",
+          "Téléphone",
+          "Ordi",
+          "Web"
+        ],
+        "price": "Gratuit",
+        "url": "support.claude.com"
+      }
+    },
+    {
+      "text": "Il marche sur tous les plans, même le gratuit, sur téléphone, ordinateur et web. C'est encore une version bêta."
+    },
+    {
+      "text": "Pour le lancer, ouvre une conversation, appuie sur la petite onde sonore à côté du micro, puis choisis une voix.",
+      "visual": {
+        "kind": "list",
+        "title": "Lancer le mode vocal",
+        "items": [
+          "Ouvre une conversation",
+          "Appuie sur l'onde",
+          "Choisis une voix"
+        ],
+        "at": [
+          "conversation",
+          "onde",
+          "voix"
+        ]
+      }
+    },
+    {
+      "text": "Avant de parler, écris-lui son rôle. Colle l'annonce du poste, et demande-lui de jouer un recruteur exigeant.",
+      "visual": {
+        "kind": "chat",
+        "name": "Claude",
+        "user": "Voici l'annonce du poste. Joue un recruteur exigeant. Pose-moi une question à la fois, puis attends ma réponse.",
+        "assistant": "D'accord, on commence. Première question : pourquoi ce poste vous intéresse-t-il ?"
+      }
+    },
+    {
+      "text": "La phrase qui change tout : une question à la fois. Sinon, il t'en pose cinq d'un coup !",
+      "sfx": true,
+      "visual": {
+        "kind": "title",
+        "kicker": "La phrase clé",
+        "text": "Une question à la fois",
+        "highlight": [
+          "question"
+        ]
+      }
+    },
+    {
+      "text": "Ensuite, tu réponds à voix haute, comme devant le recruteur. Si tu bloques, reprends ta phrase. Claude s'arrête et t'écoute.",
+      "visual": {
+        "kind": "chat",
+        "name": "Claude",
+        "user": "Euh... j'aime le contact avec les clients, et...",
+        "assistant": "Prenez votre temps. Pouvez-vous me donner un exemple précis ?"
+      }
+    },
+    {
+      "text": "Par défaut, c'est mains libres. Dans un endroit bruyant, passe en appuyer pour parler : tu tiens le bouton pendant que tu parles.",
+      "visual": {
+        "kind": "list",
+        "title": "Deux façons de parler",
+        "items": [
+          "Mains libres",
+          "Appuyer pour parler"
+        ],
+        "at": [
+          "libres",
+          "appuyer"
+        ]
+      }
+    },
+    {
+      "text": "Après quelques questions, demande un bilan. Ce qui était clair, ce qui était flou, et une meilleure version de ta pire réponse.",
+      "visual": {
+        "kind": "title",
+        "kicker": "Le bilan",
+        "text": "Clair, flou, à refaire",
+        "highlight": [
+          "flou"
+        ]
+      }
+    },
+    {
+      "text": "Bonne nouvelle : tout reste écrit. Les questions, tes réponses et le bilan sont dans la conversation, à relire au calme.",
+      "visual": {
+        "kind": "list",
+        "title": "Tout reste écrit",
+        "items": [
+          "Les questions",
+          "Tes réponses",
+          "Le bilan"
+        ],
+        "at": [
+          "questions",
+          "réponses",
+          "bilan"
+        ]
+      }
+    },
+    {
+      "text": "Côté limites, la voix compte dans ta limite d'utilisation, comme le texte. Et pour les langues autres que l'anglais, c'est encore en bêta.",
+      "visual": {
+        "kind": "compare",
+        "left": {
+          "title": "Le plus",
+          "items": [
+            "Gratuit",
+            "Tout est écrit"
+          ]
+        },
+        "right": {
+          "title": "Les limites",
+          "items": [
+            "Compte dans ta limite",
+            "Bêta hors anglais"
+          ]
+        }
+      }
+    },
+    {
+      "text": "Surtout, Claude ne connaît pas l'entreprise de l'intérieur. Vérifie les infos sur leur site, et garde tes données perso pour toi.",
+      "stamp": "Vérifie",
+      "visual": {
+        "kind": "title",
+        "kicker": "Attention",
+        "text": "Vérifie sur leur site",
+        "highlight": [
+          "site"
+        ]
+      }
+    },
+    {
+      "text": "Dix minutes la veille, et le jour J, tes réponses sortent plus facilement. Quelle question te fait le plus peur en entretien ? Dis-le en commentaire.",
+      "visual": {
+        "kind": "stat",
+        "value": 10,
+        "suffix": " min",
+        "label": "d'entraînement la veille"
+      }
+    }
+  ],
+  "caption": "Entraîne-toi à ton entretien à voix haute avec le mode vocal de Claude 🎙️ Guide officiel : https://support.claude.com/en/articles/11101966-use-voice-mode",
+  "hashtags": [
+    "#ia",
+    "#claude",
+    "#entretien",
+    "#emploi",
+    "#astuce"
+  ]
+}
