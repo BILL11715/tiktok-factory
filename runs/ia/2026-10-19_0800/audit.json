@@ -1,0 +1,55 @@
+{
+ "stamp": "2026-10-19_0800",
+ "duration": 89.8,
+ "lead": 0.6,
+ "cps": 24.8,
+ "accuracy": 0.938,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "fri lance",
+   "entendu": "freelance"
+  },
+  {
+   "dit": "o radiusse",
+   "entendu": "radius"
+  },
+  {
+   "dit": "reserve",
+   "entendu": "reserver"
+  },
+  {
+   "dit": "contacte",
+   "entendu": "contacter"
+  },
+  {
+   "dit": "gagne",
+   "entendu": "gagner"
+  },
+  {
+   "dit": "horaires",
+   "entendu": "horaire"
+  },
+  {
+   "dit": "quand",
+   "entendu": "tant"
+  },
+  {
+   "dit": "passe le",
+   "entendu": "pas celui"
+  },
+  {
+   "dit": "quels metiers",
+   "entendu": "quel metier"
+  },
+  {
+   "dit": "quelles villes signent",
+   "entendu": "quel ville signe"
+  },
+  {
+   "dit": "la",
+   "entendu": "ta"
+  }
+ ],
+ "alerts": []
+}

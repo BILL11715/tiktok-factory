@@ -1,0 +1,216 @@
+{
+ "title": "La routine qui sauve tes prospects",
+ "theme": "seo",
+ "pillar": "seo-radius",
+ "format": "methode",
+ "music": "pote",
+ "cover": {
+  "text": "Tes prospects dorment ici",
+  "highlight": [
+   "dorment"
+  ],
+  "emoji": "😴",
+  "sub": "la routine du lundi"
+ },
+ "hook_text": "10 prospects en cours ? Je parie que tu en oublies 3.",
+ "segments": [
+  {
+   "text": "10 prospects en cours ? Je parie que tu en oublies 3.",
+   "emphasis": [
+    "oublié"
+   ]
+  },
+  {
+   "text": "Le problème, ce n'est pas la prospection. C'est le suivi. Un prospect oublié deux semaines finit chez un autre freelance.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Le vrai problème",
+    "text": "Le suivi, pas la prospection",
+    "highlight": "suivi"
+   }
+  },
+  {
+   "text": "Beaucoup gardent tout dans leur tête. Au bout d'un mois, plus personne ne sait qui a répondu quoi.",
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "Dans ta tête",
+     "items": [
+      "Qui a répondu ?",
+      "Relance oubliée",
+      "Prospect perdu"
+     ]
+    },
+    "right": {
+     "title": "Avec un suivi",
+     "items": [
+      "Statut visible",
+      "Relance au bon jour",
+      "Décision claire"
+     ]
+    }
+   }
+  },
+  {
+   "text": "Pour ça, j'utilise le suivi de SEO Radius. Concrètement, chaque prospect avance dans quatre statuts.",
+   "visual": {
+    "kind": "card",
+    "emoji": "📋",
+    "owner": "seoradius.fr",
+    "name": "SEO Radius",
+    "desc": "Suivi des prospects en 4 statuts",
+    "tags": [
+     "prospection",
+     "suivi"
+    ],
+    "url": "seoradius.fr"
+   }
+  },
+  {
+   "text": "D'abord, réservé : le prospect disparaît des listes des autres utilisateurs. Contacté : ton message est parti. En attente : pas encore de réponse. Enfin, gagné : le contrat est signé.",
+   "visual": {
+    "kind": "list",
+    "title": "Les 4 statuts",
+    "items": [
+     "Réservé",
+     "Contacté",
+     "En attente",
+     "Gagné"
+    ],
+    "at": [
+     "réservé",
+     "contacté",
+     "attente",
+     "gagné"
+    ]
+   }
+  },
+  {
+   "text": "Le piège, c'est la colonne en attente. C'est là que les prospects s'endorment.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Le piège",
+    "text": "La colonne en attente",
+    "highlight": "attente"
+   },
+   "sfx": true
+  },
+  {
+   "text": "Alors voici la routine. Chaque lundi matin, tu ouvres le suivi et tu regardes seulement cette colonne. Dix minutes.",
+   "visual": {
+    "kind": "list",
+    "title": "La routine du lundi",
+    "items": [
+     "Ouvrir le suivi",
+     "Colonne en attente",
+     "Dix minutes max"
+    ],
+    "at": [
+     "ouvres",
+     "colonne",
+     "minutes"
+    ]
+   }
+  },
+  {
+   "text": "Pour chaque prospect, une seule question : je relance, ou je classe ?",
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "Je relance",
+     "items": [
+      "Nouveau constat",
+      "Deux lignes max"
+     ]
+    },
+    "right": {
+     "title": "Je classe",
+     "items": [
+      "Aucune réponse",
+      "Place libérée"
+     ]
+    }
+   }
+  },
+  {
+   "text": "Si tu relances, apporte un nouveau constat. Imagine un garage dont la fiche Google n'a toujours pas d'horaires, alors qu'un concurrent vient de passer devant.",
+   "visual": {
+    "kind": "search",
+    "query": "garage Nantes",
+    "results": [
+     {
+      "name": "Garage du Centre",
+      "note": "passe devant",
+      "rating": "4,6"
+     },
+     {
+      "name": "Auto Services Martin",
+      "note": "fiche sans horaires",
+      "rating": "4,1"
+     }
+    ],
+    "pick": 1
+   }
+  },
+  {
+   "text": "Ça donne une vraie raison d'écrire, sans harceler."
+  },
+  {
+   "text": "Et surveille la réservation : de sept à trente jours selon ton plan. Ensuite, le prospect est de nouveau visible pour les autres.",
+   "visual": {
+    "kind": "stat",
+    "value": 30,
+    "prefix": "jusqu'à ",
+    "suffix": " jours",
+    "label": "réservation exclusive selon le plan",
+    "source": "seoradius.fr"
+   }
+  },
+  {
+   "text": "Donc avant la fin, décide. Une dernière relance, ou tu libères la place proprement.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Avant la fin",
+    "text": "Relance ou libère",
+    "highlight": "libère"
+   }
+  },
+  {
+   "text": "Quand un prospect signe, passe-le en gagné. Au bout de quelques mois, tu vois quels métiers et quelles villes signent le mieux.",
+   "visual": {
+    "kind": "list",
+    "title": "Ce que tu apprends",
+    "items": [
+     "Métiers qui signent",
+     "Villes qui signent"
+    ],
+    "at": [
+     "métiers",
+     "villes"
+    ]
+   },
+   "stamp": "gagné",
+   "sfx": true
+  },
+  {
+   "text": "Ces chiffres-là sont à toi, pas une estimation. La meilleure boussole pour choisir ta prochaine niche.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Ta boussole",
+    "text": "Tes vrais chiffres",
+    "highlight": "chiffres"
+   }
+  },
+  {
+   "text": "Alors, combien de prospects dorment dans ta colonne en attente ? Dis-le moi en commentaire."
+  }
+ ],
+ "caption": "Tes prospects s'endorment dans la colonne en attente 😴 La routine du lundi pour ne plus en perdre (outil lien en bio)",
+ "hashtags": [
+  "#seo",
+  "#seolocal",
+  "#freelance",
+  "#prospection",
+  "#crm"
+ ]
+}
