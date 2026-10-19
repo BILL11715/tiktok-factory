@@ -1,0 +1,1617 @@
+{
+ "engine": "fish",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-19_1146/voice.wav",
+ "duration": 76.528,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 2.94,
+   "slot_end": 3.05,
+   "text": "Ce chasseur de rang F devient plus fort à chaque fois qu'il meurt.",
+   "words": [
+    {
+     "w": "Ce",
+     "start": 0.0,
+     "end": 0.14
+    },
+    {
+     "w": "chasseur",
+     "start": 0.14,
+     "end": 0.58
+    },
+    {
+     "w": "de",
+     "start": 0.58,
+     "end": 0.74
+    },
+    {
+     "w": "rang",
+     "start": 0.74,
+     "end": 0.84
+    },
+    {
+     "w": "F",
+     "start": 0.84,
+     "end": 1.08
+    },
+    {
+     "w": "devient",
+     "start": 1.08,
+     "end": 1.28
+    },
+    {
+     "w": "plus",
+     "start": 1.28,
+     "end": 1.5
+    },
+    {
+     "w": "fort",
+     "start": 1.5,
+     "end": 1.76
+    },
+    {
+     "w": "à",
+     "start": 1.76,
+     "end": 1.86
+    },
+    {
+     "w": "chaque",
+     "start": 1.86,
+     "end": 2.06
+    },
+    {
+     "w": "fois",
+     "start": 2.06,
+     "end": 2.26
+    },
+    {
+     "w": "qu'il",
+     "start": 2.26,
+     "end": 2.46
+    },
+    {
+     "w": "meurt.",
+     "start": 2.46,
+     "end": 2.94
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 3.06,
+   "end": 6.5,
+   "slot_end": 6.562,
+   "text": "Reste jusqu'au bout, j'te donne le nom, et l'anime arrive dans pas longtemps.",
+   "words": [
+    {
+     "w": "Reste",
+     "start": 3.06,
+     "end": 3.28
+    },
+    {
+     "w": "jusqu'au",
+     "start": 3.28,
+     "end": 3.7
+    },
+    {
+     "w": "bout,",
+     "start": 3.7,
+     "end": 3.86
+    },
+    {
+     "w": "j'te",
+     "start": 4.1,
+     "end": 4.32
+    },
+    {
+     "w": "donne",
+     "start": 4.32,
+     "end": 4.48
+    },
+    {
+     "w": "le",
+     "start": 4.48,
+     "end": 4.66
+    },
+    {
+     "w": "nom,",
+     "start": 4.66,
+     "end": 4.86
+    },
+    {
+     "w": "et",
+     "start": 5.16,
+     "end": 5.24
+    },
+    {
+     "w": "l'anime",
+     "start": 5.24,
+     "end": 5.72
+    },
+    {
+     "w": "arrive",
+     "start": 5.72,
+     "end": 6.04
+    },
+    {
+     "w": "dans",
+     "start": 6.04,
+     "end": 6.22
+    },
+    {
+     "w": "pas",
+     "start": 6.22,
+     "end": 6.36
+    },
+    {
+     "w": "longtemps.",
+     "start": 6.36,
+     "end": 6.5
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 6.58,
+   "end": 11.74,
+   "slot_end": 11.861,
+   "text": "Le mec s'appelle Gongja. Chasseur de rang F, le plus bas de l'échelle, celui que personne ne calcule.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 6.58,
+     "end": 6.64
+    },
+    {
+     "w": "mec",
+     "start": 6.64,
+     "end": 6.76
+    },
+    {
+     "w": "s'appelle",
+     "start": 6.76,
+     "end": 7.02
+    },
+    {
+     "w": "Gongja.",
+     "start": 7.02,
+     "end": 7.46
+    },
+    {
+     "w": "Chasseur",
+     "start": 7.72,
+     "end": 8.18
+    },
+    {
+     "w": "de",
+     "start": 8.18,
+     "end": 8.34
+    },
+    {
+     "w": "rang",
+     "start": 8.34,
+     "end": 8.5
+    },
+    {
+     "w": "F,",
+     "start": 8.5,
+     "end": 8.84
+    },
+    {
+     "w": "le",
+     "start": 9.14,
+     "end": 9.24
+    },
+    {
+     "w": "plus",
+     "start": 9.24,
+     "end": 9.4
+    },
+    {
+     "w": "bas",
+     "start": 9.4,
+     "end": 9.56
+    },
+    {
+     "w": "de",
+     "start": 9.56,
+     "end": 9.68
+    },
+    {
+     "w": "l'échelle,",
+     "start": 9.68,
+     "end": 9.98
+    },
+    {
+     "w": "celui",
+     "start": 10.3,
+     "end": 10.52
+    },
+    {
+     "w": "que",
+     "start": 10.52,
+     "end": 10.74
+    },
+    {
+     "w": "personne",
+     "start": 10.74,
+     "end": 11.06
+    },
+    {
+     "w": "ne",
+     "start": 11.06,
+     "end": 11.36
+    },
+    {
+     "w": "calcule.",
+     "start": 11.36,
+     "end": 11.74
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 11.9,
+   "end": 16.5,
+   "slot_end": 16.576,
+   "text": "Dans son monde, les hunters sont des stars, et lui il regarde ça de loin, genre spectateur de sa propre vie.",
+   "words": [
+    {
+     "w": "Dans",
+     "start": 11.9,
+     "end": 12.0
+    },
+    {
+     "w": "son",
+     "start": 12.0,
+     "end": 12.18
+    },
+    {
+     "w": "monde,",
+     "start": 12.18,
+     "end": 12.46
+    },
+    {
+     "w": "les",
+     "start": 12.58,
+     "end": 12.63
+    },
+    {
+     "w": "hunters",
+     "start": 12.6,
+     "end": 12.94
+    },
+    {
+     "w": "sont",
+     "start": 12.94,
+     "end": 13.14
+    },
+    {
+     "w": "des",
+     "start": 13.14,
+     "end": 13.26
+    },
+    {
+     "w": "stars,",
+     "start": 13.26,
+     "end": 13.46
+    },
+    {
+     "w": "et",
+     "start": 13.72,
+     "end": 13.78
+    },
+    {
+     "w": "lui",
+     "start": 13.78,
+     "end": 13.94
+    },
+    {
+     "w": "il",
+     "start": 13.94,
+     "end": 13.99
+    },
+    {
+     "w": "regarde",
+     "start": 13.94,
+     "end": 14.2
+    },
+    {
+     "w": "ça",
+     "start": 14.2,
+     "end": 14.5
+    },
+    {
+     "w": "de",
+     "start": 14.5,
+     "end": 14.64
+    },
+    {
+     "w": "loin,",
+     "start": 14.64,
+     "end": 14.86
+    },
+    {
+     "w": "genre",
+     "start": 14.96,
+     "end": 15.1
+    },
+    {
+     "w": "spectateur",
+     "start": 15.1,
+     "end": 15.68
+    },
+    {
+     "w": "de",
+     "start": 15.68,
+     "end": 15.84
+    },
+    {
+     "w": "sa",
+     "start": 15.84,
+     "end": 15.98
+    },
+    {
+     "w": "propre",
+     "start": 15.98,
+     "end": 16.18
+    },
+    {
+     "w": "vie.",
+     "start": 16.18,
+     "end": 16.5
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 16.56,
+   "end": 21.66,
+   "slot_end": 21.838,
+   "text": "Un jour, il tombe sur un scandale qui touche le Flame Emperor, le chasseur le mieux classé de tous.",
+   "words": [
+    {
+     "w": "Un",
+     "start": 16.56,
+     "end": 16.66
+    },
+    {
+     "w": "jour,",
+     "start": 16.66,
+     "end": 16.94
+    },
+    {
+     "w": "il",
+     "start": 17.12,
+     "end": 17.28
+    },
+    {
+     "w": "tombe",
+     "start": 17.28,
+     "end": 17.54
+    },
+    {
+     "w": "sur",
+     "start": 17.54,
+     "end": 17.74
+    },
+    {
+     "w": "un",
+     "start": 17.74,
+     "end": 17.94
+    },
+    {
+     "w": "scandale",
+     "start": 17.94,
+     "end": 18.36
+    },
+    {
+     "w": "qui",
+     "start": 18.36,
+     "end": 18.54
+    },
+    {
+     "w": "touche",
+     "start": 18.54,
+     "end": 18.78
+    },
+    {
+     "w": "le",
+     "start": 18.78,
+     "end": 18.92
+    },
+    {
+     "w": "Flame",
+     "start": 18.92,
+     "end": 19.08
+    },
+    {
+     "w": "Emperor,",
+     "start": 19.08,
+     "end": 19.52
+    },
+    {
+     "w": "le",
+     "start": 20.0,
+     "end": 20.12
+    },
+    {
+     "w": "chasseur",
+     "start": 20.12,
+     "end": 20.52
+    },
+    {
+     "w": "le",
+     "start": 20.52,
+     "end": 20.66
+    },
+    {
+     "w": "mieux",
+     "start": 20.66,
+     "end": 20.84
+    },
+    {
+     "w": "classé",
+     "start": 20.84,
+     "end": 21.22
+    },
+    {
+     "w": "de",
+     "start": 21.22,
+     "end": 21.42
+    },
+    {
+     "w": "tous.",
+     "start": 21.42,
+     "end": 21.66
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 21.84,
+   "end": 27.64,
+   "slot_end": 27.674,
+   "text": "Sauf que voir ce qu'il fallait pas voir, ça se paye cash. Gongja se fait tuer. Fin de l'histoire ? Pas du tout.",
+   "words": [
+    {
+     "w": "Sauf",
+     "start": 21.84,
+     "end": 21.98
+    },
+    {
+     "w": "que",
+     "start": 21.98,
+     "end": 22.16
+    },
+    {
+     "w": "voir",
+     "start": 22.16,
+     "end": 22.36
+    },
+    {
+     "w": "ce",
+     "start": 22.36,
+     "end": 22.5
+    },
+    {
+     "w": "qu'il",
+     "start": 22.5,
+     "end": 22.6
+    },
+    {
+     "w": "fallait",
+     "start": 22.6,
+     "end": 22.74
+    },
+    {
+     "w": "pas",
+     "start": 22.74,
+     "end": 22.92
+    },
+    {
+     "w": "voir,",
+     "start": 22.92,
+     "end": 23.12
+    },
+    {
+     "w": "ça",
+     "start": 23.16,
+     "end": 23.34
+    },
+    {
+     "w": "se",
+     "start": 23.34,
+     "end": 23.52
+    },
+    {
+     "w": "paye",
+     "start": 23.52,
+     "end": 23.72
+    },
+    {
+     "w": "cash.",
+     "start": 23.72,
+     "end": 23.98
+    },
+    {
+     "w": "Gongja",
+     "start": 24.66,
+     "end": 25.02
+    },
+    {
+     "w": "se",
+     "start": 25.02,
+     "end": 25.24
+    },
+    {
+     "w": "fait",
+     "start": 25.24,
+     "end": 25.4
+    },
+    {
+     "w": "tuer.",
+     "start": 25.4,
+     "end": 25.78
+    },
+    {
+     "w": "Fin",
+     "start": 26.24,
+     "end": 26.38
+    },
+    {
+     "w": "de",
+     "start": 26.38,
+     "end": 26.52
+    },
+    {
+     "w": "l'histoire",
+     "start": 26.52,
+     "end": 26.84
+    },
+    {
+     "w": "?",
+     "start": 26.84,
+     "end": 26.89
+    },
+    {
+     "w": "Pas",
+     "start": 26.84,
+     "end": 27.38
+    },
+    {
+     "w": "du",
+     "start": 27.38,
+     "end": 27.5
+    },
+    {
+     "w": "tout.",
+     "start": 27.5,
+     "end": 27.64
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 27.74,
+   "end": 31.4,
+   "slot_end": 31.486,
+   "text": "Et au moment de mourir, un skill de rang S plus se réveille en lui. Un skill de copie.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 27.74,
+     "end": 27.79
+    },
+    {
+     "w": "au",
+     "start": 27.74,
+     "end": 27.82
+    },
+    {
+     "w": "moment",
+     "start": 27.82,
+     "end": 27.98
+    },
+    {
+     "w": "de",
+     "start": 27.98,
+     "end": 28.06
+    },
+    {
+     "w": "mourir,",
+     "start": 28.06,
+     "end": 28.36
+    },
+    {
+     "w": "un",
+     "start": 28.54,
+     "end": 28.62
+    },
+    {
+     "w": "skill",
+     "start": 28.62,
+     "end": 28.67
+    },
+    {
+     "w": "de",
+     "start": 28.62,
+     "end": 28.8
+    },
+    {
+     "w": "rang",
+     "start": 28.8,
+     "end": 28.9
+    },
+    {
+     "w": "S",
+     "start": 28.9,
+     "end": 29.12
+    },
+    {
+     "w": "plus",
+     "start": 29.12,
+     "end": 29.28
+    },
+    {
+     "w": "se",
+     "start": 29.28,
+     "end": 29.6
+    },
+    {
+     "w": "réveille",
+     "start": 29.6,
+     "end": 29.74
+    },
+    {
+     "w": "en",
+     "start": 29.74,
+     "end": 29.88
+    },
+    {
+     "w": "lui.",
+     "start": 29.88,
+     "end": 30.12
+    },
+    {
+     "w": "Un",
+     "start": 30.46,
+     "end": 30.66
+    },
+    {
+     "w": "skill",
+     "start": 30.66,
+     "end": 30.86
+    },
+    {
+     "w": "de",
+     "start": 30.86,
+     "end": 31.04
+    },
+    {
+     "w": "copie.",
+     "start": 31.04,
+     "end": 31.4
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 31.56,
+   "end": 37.08,
+   "slot_end": 37.179,
+   "text": "Ce pouvoir le renvoie vingt-quatre heures en arrière. À chaque mort, retour à la veille, avec tout ce qu'il a appris.",
+   "words": [
+    {
+     "w": "Ce",
+     "start": 31.56,
+     "end": 31.66
+    },
+    {
+     "w": "pouvoir",
+     "start": 31.66,
+     "end": 31.94
+    },
+    {
+     "w": "le",
+     "start": 31.94,
+     "end": 32.14
+    },
+    {
+     "w": "renvoie",
+     "start": 32.14,
+     "end": 32.46
+    },
+    {
+     "w": "vingt-quatre",
+     "start": 32.46,
+     "end": 32.84
+    },
+    {
+     "w": "heures",
+     "start": 32.84,
+     "end": 33.12
+    },
+    {
+     "w": "en",
+     "start": 33.12,
+     "end": 33.24
+    },
+    {
+     "w": "arrière.",
+     "start": 33.24,
+     "end": 33.64
+    },
+    {
+     "w": "À",
+     "start": 34.06,
+     "end": 34.36
+    },
+    {
+     "w": "chaque",
+     "start": 34.36,
+     "end": 34.52
+    },
+    {
+     "w": "mort,",
+     "start": 34.52,
+     "end": 34.78
+    },
+    {
+     "w": "retour",
+     "start": 35.26,
+     "end": 35.48
+    },
+    {
+     "w": "à",
+     "start": 35.48,
+     "end": 35.6
+    },
+    {
+     "w": "la",
+     "start": 35.6,
+     "end": 35.66
+    },
+    {
+     "w": "veille,",
+     "start": 35.66,
+     "end": 36.12
+    },
+    {
+     "w": "avec",
+     "start": 36.16,
+     "end": 36.32
+    },
+    {
+     "w": "tout",
+     "start": 36.32,
+     "end": 36.52
+    },
+    {
+     "w": "ce",
+     "start": 36.52,
+     "end": 36.64
+    },
+    {
+     "w": "qu'il",
+     "start": 36.64,
+     "end": 36.76
+    },
+    {
+     "w": "a",
+     "start": 36.76,
+     "end": 36.84
+    },
+    {
+     "w": "appris.",
+     "start": 36.84,
+     "end": 37.08
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 37.2,
+   "end": 41.68,
+   "slot_end": 41.795,
+   "text": "Si t'aimes les manhwas où le héros part de zéro, abonne-toi, j'en sors un nouveau tous les jours.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 37.2,
+     "end": 37.32
+    },
+    {
+     "w": "t'aimes",
+     "start": 37.32,
+     "end": 37.5
+    },
+    {
+     "w": "les",
+     "start": 37.5,
+     "end": 37.72
+    },
+    {
+     "w": "manhwas",
+     "start": 37.72,
+     "end": 38.04
+    },
+    {
+     "w": "où",
+     "start": 38.04,
+     "end": 38.32
+    },
+    {
+     "w": "le",
+     "start": 38.32,
+     "end": 38.46
+    },
+    {
+     "w": "héros",
+     "start": 38.46,
+     "end": 38.78
+    },
+    {
+     "w": "part",
+     "start": 38.78,
+     "end": 39.125
+    },
+    {
+     "w": "de",
+     "start": 39.125,
+     "end": 39.47
+    },
+    {
+     "w": "zéro,",
+     "start": 39.47,
+     "end": 39.815
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 39.815,
+     "end": 40.16
+    },
+    {
+     "w": "j'en",
+     "start": 40.54,
+     "end": 40.7
+    },
+    {
+     "w": "sors",
+     "start": 40.7,
+     "end": 40.81
+    },
+    {
+     "w": "un",
+     "start": 40.81,
+     "end": 40.92
+    },
+    {
+     "w": "nouveau",
+     "start": 40.92,
+     "end": 41.14
+    },
+    {
+     "w": "tous",
+     "start": 41.14,
+     "end": 41.38
+    },
+    {
+     "w": "les",
+     "start": 41.38,
+     "end": 41.52
+    },
+    {
+     "w": "jours.",
+     "start": 41.52,
+     "end": 41.68
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 41.8,
+   "end": 47.1,
+   "slot_end": 47.189,
+   "text": "Et c'est là que ça devient chaud. Le skill lui ramène aussi un fantôme, le Sword Emperor, une ancienne légende des chasseurs.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 41.8,
+     "end": 41.88
+    },
+    {
+     "w": "c'est",
+     "start": 41.88,
+     "end": 42.0
+    },
+    {
+     "w": "là",
+     "start": 42.0,
+     "end": 42.08
+    },
+    {
+     "w": "que",
+     "start": 42.08,
+     "end": 42.13
+    },
+    {
+     "w": "ça",
+     "start": 42.12,
+     "end": 42.2
+    },
+    {
+     "w": "devient",
+     "start": 42.2,
+     "end": 42.38
+    },
+    {
+     "w": "chaud.",
+     "start": 42.38,
+     "end": 42.64
+    },
+    {
+     "w": "Le",
+     "start": 42.86,
+     "end": 42.98
+    },
+    {
+     "w": "skill",
+     "start": 42.98,
+     "end": 43.14
+    },
+    {
+     "w": "lui",
+     "start": 43.14,
+     "end": 43.32
+    },
+    {
+     "w": "ramène",
+     "start": 43.32,
+     "end": 43.56
+    },
+    {
+     "w": "aussi",
+     "start": 43.56,
+     "end": 43.82
+    },
+    {
+     "w": "un",
+     "start": 43.82,
+     "end": 44.06
+    },
+    {
+     "w": "fantôme,",
+     "start": 44.06,
+     "end": 44.56
+    },
+    {
+     "w": "le",
+     "start": 44.64,
+     "end": 44.72
+    },
+    {
+     "w": "Sword",
+     "start": 44.72,
+     "end": 45.06
+    },
+    {
+     "w": "Emperor,",
+     "start": 45.06,
+     "end": 45.4
+    },
+    {
+     "w": "une",
+     "start": 45.76,
+     "end": 45.92
+    },
+    {
+     "w": "ancienne",
+     "start": 45.92,
+     "end": 46.24
+    },
+    {
+     "w": "légende",
+     "start": 46.24,
+     "end": 46.58
+    },
+    {
+     "w": "des",
+     "start": 46.58,
+     "end": 46.76
+    },
+    {
+     "w": "chasseurs.",
+     "start": 46.76,
+     "end": 47.1
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 47.18,
+   "end": 51.62,
+   "slot_end": 51.712,
+   "text": "Le fantôme le plus stylé du game devient son coach, et franchement leur duo c'est la meilleure partie du manhwa.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 47.18,
+     "end": 47.3
+    },
+    {
+     "w": "fantôme",
+     "start": 47.3,
+     "end": 47.62
+    },
+    {
+     "w": "le",
+     "start": 47.62,
+     "end": 47.8
+    },
+    {
+     "w": "plus",
+     "start": 47.8,
+     "end": 47.92
+    },
+    {
+     "w": "stylé",
+     "start": 47.92,
+     "end": 48.24
+    },
+    {
+     "w": "du",
+     "start": 48.24,
+     "end": 48.36
+    },
+    {
+     "w": "game",
+     "start": 48.36,
+     "end": 48.54
+    },
+    {
+     "w": "devient",
+     "start": 48.54,
+     "end": 48.8
+    },
+    {
+     "w": "son",
+     "start": 48.8,
+     "end": 48.98
+    },
+    {
+     "w": "coach,",
+     "start": 48.98,
+     "end": 49.36
+    },
+    {
+     "w": "et",
+     "start": 49.46,
+     "end": 49.51
+    },
+    {
+     "w": "franchement",
+     "start": 49.5,
+     "end": 49.84
+    },
+    {
+     "w": "leur",
+     "start": 49.9,
+     "end": 49.98
+    },
+    {
+     "w": "duo",
+     "start": 49.98,
+     "end": 50.34
+    },
+    {
+     "w": "c'est",
+     "start": 50.44,
+     "end": 50.49
+    },
+    {
+     "w": "la",
+     "start": 50.48,
+     "end": 50.58
+    },
+    {
+     "w": "meilleure",
+     "start": 50.58,
+     "end": 50.94
+    },
+    {
+     "w": "partie",
+     "start": 50.94,
+     "end": 51.14
+    },
+    {
+     "w": "du",
+     "start": 51.14,
+     "end": 51.34
+    },
+    {
+     "w": "manhwa.",
+     "start": 51.34,
+     "end": 51.62
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 51.7,
+   "end": 57.36,
+   "slot_end": 57.494,
+   "text": "Mais attends, le truc qui m'a vraiment eu, c'est que mourir devient une stratégie. Il se sert de sa propre mort comme d'une arme, et ça c'est chaud.",
+   "words": [
+    {
+     "w": "Mais",
+     "start": 51.7,
+     "end": 51.8
+    },
+    {
+     "w": "attends,",
+     "start": 51.8,
+     "end": 51.94
+    },
+    {
+     "w": "le",
+     "start": 52.02,
+     "end": 52.08
+    },
+    {
+     "w": "truc",
+     "start": 52.08,
+     "end": 52.22
+    },
+    {
+     "w": "qui",
+     "start": 52.22,
+     "end": 52.36
+    },
+    {
+     "w": "m'a",
+     "start": 52.36,
+     "end": 52.5
+    },
+    {
+     "w": "vraiment",
+     "start": 52.5,
+     "end": 52.7
+    },
+    {
+     "w": "eu,",
+     "start": 52.7,
+     "end": 52.92
+    },
+    {
+     "w": "c'est",
+     "start": 53.0,
+     "end": 53.08
+    },
+    {
+     "w": "que",
+     "start": 53.08,
+     "end": 53.16
+    },
+    {
+     "w": "mourir",
+     "start": 53.16,
+     "end": 53.48
+    },
+    {
+     "w": "devient",
+     "start": 53.48,
+     "end": 53.72
+    },
+    {
+     "w": "une",
+     "start": 53.72,
+     "end": 53.88
+    },
+    {
+     "w": "stratégie.",
+     "start": 53.88,
+     "end": 54.38
+    },
+    {
+     "w": "Il",
+     "start": 54.72,
+     "end": 54.82
+    },
+    {
+     "w": "se",
+     "start": 54.82,
+     "end": 54.94
+    },
+    {
+     "w": "sert",
+     "start": 54.94,
+     "end": 55.14
+    },
+    {
+     "w": "de",
+     "start": 55.14,
+     "end": 55.26
+    },
+    {
+     "w": "sa",
+     "start": 55.26,
+     "end": 55.38
+    },
+    {
+     "w": "propre",
+     "start": 55.38,
+     "end": 55.66
+    },
+    {
+     "w": "mort",
+     "start": 55.66,
+     "end": 55.94
+    },
+    {
+     "w": "comme",
+     "start": 55.94,
+     "end": 56.14
+    },
+    {
+     "w": "d'une",
+     "start": 56.14,
+     "end": 56.36
+    },
+    {
+     "w": "arme,",
+     "start": 56.36,
+     "end": 56.66
+    },
+    {
+     "w": "et",
+     "start": 56.66,
+     "end": 56.88
+    },
+    {
+     "w": "ça",
+     "start": 56.88,
+     "end": 57.02
+    },
+    {
+     "w": "c'est",
+     "start": 57.02,
+     "end": 57.22
+    },
+    {
+     "w": "chaud.",
+     "start": 57.22,
+     "end": 57.36
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 57.46,
+   "end": 61.96,
+   "slot_end": 62.162,
+   "text": "Perso je le trouve plus malin que Solo Leveling. Ouais, je l'ai dit, viens pas me chercher en com'.",
+   "words": [
+    {
+     "w": "Perso",
+     "start": 57.46,
+     "end": 57.76
+    },
+    {
+     "w": "je",
+     "start": 57.76,
+     "end": 57.84
+    },
+    {
+     "w": "le",
+     "start": 57.84,
+     "end": 57.92
+    },
+    {
+     "w": "trouve",
+     "start": 57.92,
+     "end": 58.18
+    },
+    {
+     "w": "plus",
+     "start": 58.18,
+     "end": 58.5
+    },
+    {
+     "w": "malin",
+     "start": 58.5,
+     "end": 59.04
+    },
+    {
+     "w": "que",
+     "start": 59.04,
+     "end": 59.2
+    },
+    {
+     "w": "Solo",
+     "start": 59.2,
+     "end": 59.54
+    },
+    {
+     "w": "Leveling.",
+     "start": 59.54,
+     "end": 59.86
+    },
+    {
+     "w": "Ouais,",
+     "start": 60.46,
+     "end": 60.66
+    },
+    {
+     "w": "je",
+     "start": 60.66,
+     "end": 60.82
+    },
+    {
+     "w": "l'ai",
+     "start": 60.82,
+     "end": 60.92
+    },
+    {
+     "w": "dit,",
+     "start": 60.92,
+     "end": 61.06
+    },
+    {
+     "w": "viens",
+     "start": 61.06,
+     "end": 61.26
+    },
+    {
+     "w": "pas",
+     "start": 61.26,
+     "end": 61.42
+    },
+    {
+     "w": "me",
+     "start": 61.42,
+     "end": 61.48
+    },
+    {
+     "w": "chercher",
+     "start": 61.48,
+     "end": 61.64
+    },
+    {
+     "w": "en",
+     "start": 61.64,
+     "end": 61.86
+    },
+    {
+     "w": "com'.",
+     "start": 61.86,
+     "end": 61.96
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 62.14,
+   "end": 66.02,
+   "slot_end": 66.881,
+   "text": "Et la bonne nouvelle, c'est que l'anime arrive en janvier 2027, sur Crunchyroll.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 62.14,
+     "end": 62.24
+    },
+    {
+     "w": "la",
+     "start": 62.24,
+     "end": 62.34
+    },
+    {
+     "w": "bonne",
+     "start": 62.34,
+     "end": 62.44
+    },
+    {
+     "w": "nouvelle,",
+     "start": 62.44,
+     "end": 62.66
+    },
+    {
+     "w": "c'est",
+     "start": 62.66,
+     "end": 62.92
+    },
+    {
+     "w": "que",
+     "start": 62.92,
+     "end": 63.0
+    },
+    {
+     "w": "l'anime",
+     "start": 63.0,
+     "end": 63.24
+    },
+    {
+     "w": "arrive",
+     "start": 63.24,
+     "end": 63.48
+    },
+    {
+     "w": "en",
+     "start": 63.48,
+     "end": 63.68
+    },
+    {
+     "w": "janvier",
+     "start": 63.68,
+     "end": 64.08
+    },
+    {
+     "w": "2027,",
+     "start": 64.08,
+     "end": 64.9
+    },
+    {
+     "w": "sur",
+     "start": 64.9,
+     "end": 65.46
+    },
+    {
+     "w": "Crunchyroll.",
+     "start": 65.46,
+     "end": 66.02
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 66.82,
+   "end": 72.72,
+   "slot_end": 72.8,
+   "text": "Le manhwa s'appelle SSS-Class Revival Hunter. Lis-le avant l'anime et dis-moi en com' si tu le connaissais déjà.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 66.82,
+     "end": 67.0
+    },
+    {
+     "w": "manhwa",
+     "start": 67.0,
+     "end": 67.32
+    },
+    {
+     "w": "s'appelle",
+     "start": 67.32,
+     "end": 67.68
+    },
+    {
+     "w": "SSS-Class",
+     "start": 67.68,
+     "end": 68.48
+    },
+    {
+     "w": "Revival",
+     "start": 68.48,
+     "end": 69.24
+    },
+    {
+     "w": "Hunter.",
+     "start": 69.24,
+     "end": 69.56
+    },
+    {
+     "w": "Lis-le",
+     "start": 70.22,
+     "end": 70.6
+    },
+    {
+     "w": "avant",
+     "start": 70.6,
+     "end": 70.8
+    },
+    {
+     "w": "l'anime",
+     "start": 70.8,
+     "end": 71.12
+    },
+    {
+     "w": "et",
+     "start": 71.12,
+     "end": 71.34
+    },
+    {
+     "w": "dis-moi",
+     "start": 71.34,
+     "end": 71.54
+    },
+    {
+     "w": "en",
+     "start": 71.54,
+     "end": 71.68
+    },
+    {
+     "w": "com'",
+     "start": 71.68,
+     "end": 71.74
+    },
+    {
+     "w": "si",
+     "start": 71.74,
+     "end": 71.96
+    },
+    {
+     "w": "tu",
+     "start": 71.96,
+     "end": 72.06
+    },
+    {
+     "w": "le",
+     "start": 72.06,
+     "end": 72.16
+    },
+    {
+     "w": "connaissais",
+     "start": 72.16,
+     "end": 72.46
+    },
+    {
+     "w": "déjà.",
+     "start": 72.46,
+     "end": 72.72
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "start": 72.8,
+   "end": 75.78,
+   "slot_end": 76.528,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 72.8,
+     "end": 73.06
+    },
+    {
+     "w": "Asura.",
+     "start": 73.06,
+     "end": 73.44
+    },
+    {
+     "w": "On",
+     "start": 73.9,
+     "end": 74.3
+    },
+    {
+     "w": "se",
+     "start": 74.3,
+     "end": 74.42
+    },
+    {
+     "w": "capte",
+     "start": 74.42,
+     "end": 74.84
+    },
+    {
+     "w": "au",
+     "start": 74.84,
+     "end": 75.12
+    },
+    {
+     "w": "prochain",
+     "start": 75.12,
+     "end": 75.34
+    },
+    {
+     "w": "épisode.",
+     "start": 75.34,
+     "end": 75.78
+    }
+   ]
+  }
+ ],
+ "aligned": 0.993
+}

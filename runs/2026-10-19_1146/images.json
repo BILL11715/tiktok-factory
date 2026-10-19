@@ -1,0 +1,53 @@
+{
+ "SSS-Class Revival Hunter": {
+  "meta": {
+   "id": "51025",
+   "title": "SSS-Class Revival Hunter",
+   "titles": {
+    "en": "SSS-Class Revival Hunter",
+    "en_jp": "Shishite Ikiru SSS-kyuu Hunter",
+    "ja_jp": "死して生きるSSS級ハンター"
+   },
+   "synopsis": "I want an S-Rank skill too! I want it so badly, I could die for it!\n\n[You have awakened an S-Rank skill.] [But it only works when you die.]\n\nHUH!? WHAT’S THE POINT OF GETTING ONE IF I DIE!?\n(Source: MU)",
+   "episodes": null,
+   "start": "2027-01-31",
+   "source": "https://kitsu.io/anime/shishite-ikiru-sss-kyuu-hunter",
+   "media": "manhwa",
+   "adaptation": "SSS-Class Revival Hunter"
+  },
+  "wide": [
+   "/home/claude/tiktok-factory/runs/2026-10-19_1146/images/3fa21021ba74.jpg"
+  ],
+  "tall": [
+   "/home/claude/tiktok-factory/runs/2026-10-19_1146/images/1f6f8f982cfc.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-19_1146/images/66e2f760f790.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-19_1146/images/1e472ee4ced3.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-19_1146/images/d11300b635fb.png",
+   "/home/claude/tiktok-factory/runs/2026-10-19_1146/images/fc8bb0d8c9be.png"
+  ],
+  "characters": {
+   "Gong-Ja Kim": "/home/claude/tiktok-factory/runs/2026-10-19_1146/images/3324c3a7a4d9.png",
+   "Geom-Je": "/home/claude/tiktok-factory/runs/2026-10-19_1146/images/ff396e2f1eef.png",
+   "Anastasia Zelenska": "/home/claude/tiktok-factory/runs/2026-10-19_1146/images/41074c39e05f.png",
+   "Yakjesa": "/home/claude/tiktok-factory/runs/2026-10-19_1146/images/395e36661a0b.png",
+   "Bambollina": "/home/claude/tiktok-factory/runs/2026-10-19_1146/images/4d39c45f8460.png",
+   "Nisha": "/home/claude/tiktok-factory/runs/2026-10-19_1146/images/4a418f6e3579.png",
+   "Liaofan": "/home/claude/tiktok-factory/runs/2026-10-19_1146/images/b36285d4d024.png",
+   "Marcus Calenbury": "/home/claude/tiktok-factory/runs/2026-10-19_1146/images/ff2a7db63e90.png",
+   "Patricia": "/home/claude/tiktok-factory/runs/2026-10-19_1146/images/15fee73dc0d9.png",
+   "So-Ha Yu": "/home/claude/tiktok-factory/runs/2026-10-19_1146/images/394bba6e6a68.png",
+   "Raviel Ivansia": "/home/claude/tiktok-factory/runs/2026-10-19_1146/images/29d2e67bf0af.jpg",
+   "Baek-Hyang Seo": "/home/claude/tiktok-factory/runs/2026-10-19_1146/images/5384ecfb5315.png",
+   "Hamustra": "/home/claude/tiktok-factory/runs/2026-10-19_1146/images/8b53639758f4.jpg",
+   "Preta": "/home/claude/tiktok-factory/runs/2026-10-19_1146/images/9d349fb94696.jpg",
+   "Bohoui Yeosin": "/home/claude/tiktok-factory/runs/2026-10-19_1146/images/c6171347a608.jpg",
+   "Ai-Gim Repanta": "/home/claude/tiktok-factory/runs/2026-10-19_1146/images/48113a3a1992.jpg",
+   "Hellfire Maiden": "/home/claude/tiktok-factory/runs/2026-10-19_1146/images/d9c9de86399e.jpg",
+   "Sarbast Aegim": "/home/claude/tiktok-factory/runs/2026-10-19_1146/images/b04b86fa04b3.jpg"
+  },
+  "sources": [
+   "https://kitsu.io/anime/shishite-ikiru-sss-kyuu-hunter",
+   "https://anilist.co/manga/128067"
+  ]
+ }
+}
