@@ -1,0 +1,16 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-19_2048/video.mp4",
+ "duration": 84.302,
+ "shots": 73,
+ "sources": [
+  "https://anilist.co/manga/105398",
+  "https://kitsu.io/anime/solo-leveling"
+ ],
+ "music": {
+  "file": "hype2.mp3",
+  "bpm": 92.3,
+  "offset": 16.35
+ },
+ "sfx": 27,
+ "engine": "remotion (OpenMontage)"
+}
