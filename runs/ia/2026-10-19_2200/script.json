@@ -1,0 +1,207 @@
+{
+ "title": "Prospecter un seul métier : 3 raisons",
+ "theme": "seo",
+ "pillar": "seo-radius",
+ "format": "top",
+ "music": "pote",
+ "cover": {
+  "text": "Arrête d'écrire à tout le monde",
+  "highlight": [
+   "tout"
+  ],
+  "emoji": "🎯",
+  "sub": "3 raisons"
+ },
+ "hook_text": "Tu prospectes tout le monde ? C'est pour ça que personne ne répond.",
+ "segments": [
+  {
+   "text": "Tu prospectes tout le monde ? C'est pour ça que personne ne répond.",
+   "emphasis": [
+    "personne"
+   ]
+  },
+  {
+   "text": "Plombiers, coiffeurs, restaurants... Quand tu écris à tout le monde, ton message ne parle à personne.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Le piège",
+    "text": "Écrire à tout le monde",
+    "highlight": "tout",
+    "sub": "et zéro réponse"
+   }
+  },
+  {
+   "text": "La solution ? Choisir un seul métier, et le connaître par cœur. Voici trois raisons.",
+   "stamp": "un seul métier"
+  },
+  {
+   "text": "Raison numéro un : tu parles leur langue. Un couvreur ne cherche pas du référencement. Il cherche des chantiers.",
+   "visual": {
+    "kind": "chat",
+    "name": "Message au couvreur",
+    "user": "Réécris mon message de prospection pour un couvreur.",
+    "assistant": "Bonjour, en cherchant couvreur à Bordeaux, je ne vois pas votre entreprise sur la première page. Ce sont des chantiers qui partent ailleurs. On en parle dix minutes ?"
+   }
+  },
+  {
+   "text": "Raison numéro deux : chaque client devient un exemple. Le deuxième couvreur verra ce que tu as fait pour le premier.",
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "Sans exemple",
+     "items": [
+      "Faites-moi confiance",
+      "Promesses vagues"
+     ]
+    },
+    "right": {
+     "title": "Avec un exemple",
+     "items": [
+      "Voici un couvreur",
+      "Ce qui a changé"
+     ]
+    }
+   }
+  },
+  {
+   "text": "Raison numéro trois : les artisans d'un même métier se parlent. Un client content, c'est souvent un nom qui circule.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Raison 3",
+    "text": "Les artisans se parlent",
+    "highlight": "parlent",
+    "sub": "le bouche-à-oreille"
+   },
+   "sfx": true
+  },
+  {
+   "text": "Mais comment choisir ? Vise un métier où un client rapporte gros, avec beaucoup d'entreprises en ville, et des clients qui cherchent sur Google.",
+   "visual": {
+    "kind": "list",
+    "title": "Un bon métier",
+    "items": [
+     "Un client rapporte gros",
+     "Beaucoup d'entreprises",
+     "On le cherche sur Google"
+    ],
+    "at": [
+     "gros",
+     "beaucoup",
+     "cherchent"
+    ]
+   }
+  },
+  {
+   "text": "Couvreur, plombier, cuisiniste : on les appelle pour une urgence ou pour un gros projet.",
+   "visual": {
+    "kind": "search",
+    "query": "couvreur Bordeaux",
+    "results": [
+     {
+      "name": "Toitures Garonne",
+      "note": "page 1",
+      "rating": "4,6"
+     },
+     {
+      "name": "Couverture Dubois",
+      "note": "page 3",
+      "rating": "4,8"
+     }
+    ],
+    "pick": 1
+   }
+  },
+  {
+   "text": "Pour tester un métier, j'utilise SEO Radius. Ensuite, tu choisis le métier et ta ville, et l'outil classe les entreprises trouvées.",
+   "visual": {
+    "kind": "card",
+    "emoji": "🔎",
+    "owner": "seoradius.fr",
+    "name": "SEO Radius",
+    "desc": "Prospection SEO locale : métier + ville, entreprises classées",
+    "tags": [
+     "métier + ville",
+     "score estimé",
+     "réservation"
+    ],
+    "url": "seoradius.fr"
+   }
+  },
+  {
+   "text": "Compare deux ou trois métiers. Regarde combien d'entreprises ont un bon score d'opportunité. C'est une estimation, mais elle aide à trier.",
+   "visual": {
+    "kind": "stat",
+    "value": 81,
+    "suffix": "/100",
+    "label": "score d'opportunité estimé",
+    "source": "SEO Radius"
+   }
+  },
+  {
+   "text": "Garde le métier où tu trouves le plus de belles opportunités. Puis réserve les trois premiers : ils disparaissent des listes des autres utilisateurs.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Ton choix",
+    "text": "Un métier, trois prospects",
+    "highlight": "trois",
+    "sub": "réservés pour toi"
+   }
+  },
+  {
+   "text": "Ensuite, apprends leur métier. Leurs mots, leurs saisons fortes, et ce que disent leurs clients dans les avis Google.",
+   "visual": {
+    "kind": "list",
+    "title": "Apprends leur métier",
+    "items": [
+     "Leurs mots",
+     "Leurs saisons fortes",
+     "Leurs avis Google"
+    ],
+    "at": [
+     "mots",
+     "saisons",
+     "avis"
+    ]
+   }
+  },
+  {
+   "text": "Attention, un seul métier, ce n'est pas une prison. Quand trois clients ont signé, tu peux en ouvrir un deuxième. Et ne promets jamais la première place.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Attention",
+    "text": "Pas une prison",
+    "highlight": "prison",
+    "sub": "un 2e métier plus tard"
+   },
+   "sfx": true
+  },
+  {
+   "text": "Et toi, tu choisirais quel métier pour commencer ? Dis-moi en commentaire.",
+   "visual": {
+    "kind": "search",
+    "query": "cuisiniste Bordeaux",
+    "results": [
+     {
+      "name": "Cuisines Lacanau",
+      "note": "page 2",
+      "rating": "4,7"
+     },
+     {
+      "name": "Atelier Cuisine",
+      "note": "page 1",
+      "rating": "4,3"
+     }
+    ],
+    "pick": 0
+   }
+  }
+ ],
+ "caption": "Écrire à tout le monde, c'est n'avoir de réponse de personne 🎯 3 raisons de prospecter un seul métier (lien en bio)",
+ "hashtags": [
+  "#seo",
+  "#seolocal",
+  "#freelance",
+  "#prospection",
+  "#niche"
+ ]
+}

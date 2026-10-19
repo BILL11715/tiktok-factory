@@ -1,0 +1,51 @@
+{
+ "stamp": "2026-10-19_2200",
+ "duration": 93.7,
+ "lead": 0.6,
+ "cps": 24.9,
+ "accuracy": 0.934,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "plombiers coiffeurs restaurants",
+   "entendu": "bombier coiffeur restaurant"
+  },
+  {
+   "dit": "raison",
+   "entendu": "bason"
+  },
+  {
+   "dit": "raison",
+   "entendu": "bason"
+  },
+  {
+   "dit": "raison",
+   "entendu": "bason"
+  },
+  {
+   "dit": "o radiusse",
+   "entendu": "oradius"
+  },
+  {
+   "dit": "compare",
+   "entendu": "on part"
+  },
+  {
+   "dit": "opportunite",
+   "entendu": "opportunites"
+  },
+  {
+   "dit": "garde",
+   "entendu": "regarde"
+  },
+  {
+   "dit": "puis reserve",
+   "entendu": "tu y reserves"
+  },
+  {
+   "dit": "leurs mots leurs saisons fortes",
+   "entendu": "leur mot leur saison forte"
+  }
+ ],
+ "alerts": []
+}
