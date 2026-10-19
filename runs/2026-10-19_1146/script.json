@@ -1,0 +1,150 @@
+{
+  "title": "Reco manhwa : ce chasseur de rang F devient plus fort à chaque mort",
+  "format": "reco",
+  "tone": "pote",
+  "music": "pote",
+  "animes": [
+    "SSS-Class Revival Hunter"
+  ],
+  "media": {
+    "SSS-Class Revival Hunter": "manhwa"
+  },
+  "cover": {
+    "text": "Il devient fort en mourant",
+    "highlight": [
+      "mourant"
+    ],
+    "emoji": "💀",
+    "sub": "manhwa à lire"
+  },
+  "hook_text": "Ce chasseur de rang F devient plus fort à chaque fois qu'il meurt",
+  "spoiler": false,
+  "segments": [
+    {
+      "text": "Ce chasseur de rang F devient plus fort à chaque fois qu'il meurt.",
+      "sfx": true,
+      "emphasis": [
+        "meurt"
+      ],
+      "scene": "a weak young man lying dead on the ground while a dark aura rises"
+    },
+    {
+      "text": "[whispering] Reste jusqu'au bout, j'te donne le nom, et l'anime arrive dans pas longtemps.",
+      "emphasis": [
+        "anime"
+      ],
+      "scene": "a mysterious figure in the shadows of a dark tower"
+    },
+    {
+      "text": "Le mec s'appelle Gongja. Chasseur de rang F, le plus bas de l'échelle, celui que personne ne calcule.",
+      "emphasis": [
+        "rang F"
+      ],
+      "scene": "a tired young man in a hoodie standing alone in a busy city street",
+      "shots": [
+        {
+          "anime": "SSS-Class Revival Hunter",
+          "kind": "character",
+          "character": "Gongja",
+          "at": "Gongja"
+        }
+      ]
+    },
+    {
+      "text": "Dans son monde, les hunters sont des stars, et lui il regarde ça de loin, genre spectateur de sa propre vie.",
+      "scene": "famous hunters posing in front of a crowd under city lights",
+      "shots": [
+        {
+          "kind": "wide"
+        }
+      ]
+    },
+    {
+      "text": "Un jour, il tombe sur un scandale qui touche le Flame Emperor, le chasseur le mieux classé de tous.",
+      "sfx": true,
+      "emphasis": [
+        "scandale"
+      ],
+      "scene": "a powerful man surrounded by flames looking down with cold eyes"
+    },
+    {
+      "text": "Sauf que voir ce qu'il fallait pas voir, ça se paye cash. Gongja se fait tuer. Fin de l'histoire ? Pas du tout.",
+      "grade": "bw",
+      "emphasis": [
+        "tuer"
+      ],
+      "scene": "a young man collapsing in the dark while fire burns around him"
+    },
+    {
+      "text": "[surprised] Et au moment de mourir, un skill de rang S plus se réveille en lui. Un skill de copie.",
+      "sfx": true,
+      "emphasis": [
+        "copie"
+      ],
+      "scene": "glowing blue system window appearing above a dead body"
+    },
+    {
+      "text": "Ce pouvoir le renvoie vingt-quatre heures en arrière. À chaque mort, retour à la veille, avec tout ce qu'il a appris.",
+      "emphasis": [
+        "vingt-quatre heures"
+      ],
+      "scene": "a clock spinning backwards as a young man wakes up in his bed"
+    },
+    {
+      "text": "Si t'aimes les manhwas où le héros part de zéro, abonne-toi, j'en sors un nouveau tous les jours.",
+      "cta": true
+    },
+    {
+      "text": "Et c'est là que ça devient chaud. Le skill lui ramène aussi un fantôme, le Sword Emperor, une ancienne légende des chasseurs.",
+      "emphasis": [
+        "fantôme"
+      ],
+      "scene": "a translucent ghost swordsman with long hair floating behind a young man"
+    },
+    {
+      "text": "[laughing] Le fantôme le plus stylé du game devient son coach, et franchement leur duo c'est la meilleure partie du manhwa.",
+      "scene": "a ghost swordsman teaching a young man to hold a sword"
+    },
+    {
+      "text": "Mais attends, le truc qui m'a vraiment eu, c'est que mourir devient une stratégie. Il se sert de sa propre mort comme d'une arme, et ça c'est chaud.",
+      "stamp": "STRATÉGIE",
+      "emphasis": [
+        "arme"
+      ],
+      "scene": "a young man smiling calmly while charging into a giant monster"
+    },
+    {
+      "text": "Perso je le trouve plus malin que Solo Leveling. Ouais, je l'ai dit, viens pas me chercher en com'.",
+      "emphasis": [
+        "malin"
+      ],
+      "scene": "a young hunter standing confidently on top of a defeated beast"
+    },
+    {
+      "text": "[excited] Et la bonne nouvelle, c'est que l'anime arrive en janvier 2027, sur Crunchyroll.",
+      "sfx": true,
+      "emphasis": [
+        "janvier 2027"
+      ],
+      "scene": "a young man raising a glowing sword toward the sky"
+    },
+    {
+      "text": "Le manhwa s'appelle SSS-Class Revival Hunter. Lis-le avant l'anime et dis-moi en com' si tu le connaissais déjà.",
+      "emphasis": [
+        "Revival Hunter"
+      ],
+      "scene": "a hunter walking toward a huge tower at sunset"
+    }
+  ],
+  "reveal_text": "SSS-Class Revival Hunter",
+  "reveal_segments": 1,
+  "caption": "Mourir, c'est son meilleur skill 💀 tu le lis déjà ou tu attends l'anime ?",
+  "hashtags": [
+    "#anime",
+    "#manhwa",
+    "#animefr",
+    "#mangafr",
+    "#sssclassrevivalhunter",
+    "#recommandationanime"
+  ]
+}

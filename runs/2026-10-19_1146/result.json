@@ -1,0 +1,21 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-19_1146/video.mp4",
+ "duration": 76.528,
+ "shots": 42,
+ "sources": [
+  "https://anilist.co/manga/128067",
+  "https://kitsu.io/anime/shishite-ikiru-sss-kyuu-hunter"
+ ],
+ "music": {
+  "file": "pote.mp3",
+  "bpm": 184.6,
+  "offset": 47.39
+ },
+ "sfx": 18,
+ "engine": "remotion (OpenMontage)",
+ "voice_engine": "fish",
+ "repo_path": "videos/2026/10/2026-10-19_1146.mp4",
+ "raw_url": "https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/videos/2026/10/2026-10-19_1146.mp4",
+ "lint": [],
+ "render_seconds": 977.0
+}
