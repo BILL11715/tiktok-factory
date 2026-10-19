@@ -34,6 +34,10 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
 - Audit : relancer `factory.audit` sur le même run ajoute une 2e ligne identique dans `audits_ia.jsonl` (doublons 14/10 12:00 et 19:00), ce qui gonfle le compte des « mots mal compris sur plusieurs vidéos ». Remplacer la ligne du même stamp au lieu d'en ajouter une.
 
 ## Journal (1 ligne par revue, la plus récente en haut, 20 lignes maximum)
+- 2026-10-19 (12:00) : sans alerte au 1er rendu (débit 24,3 car./s, prononciation 97 %, 89,9 s, 1 549 car.). Règle 7 tenue sur les 2 vidéos du jour (89,8 et 89,9 s).
+  Sur les 10 derniers audits, débit 24,2 à 25,2 car./s, 8 sans alerte (les 2 alertes : prononciation 91 et 92 %, déjà traitées). « Handy » et « Whisper »
+  ajoutés au lexique par précaution ; « Handy » reste entendu « andy » (proche, 1 seule vidéo, pas de règle). Le lint refuse « pas d'abonnement » (mot « abonne ») :
+  écrire « rien à payer chaque mois ». Pas de nouvelle règle.
 - 2026-10-18 (22:00) : 1er rendu à 89 % : noms de villes peu connus mal compris (« Bron » entendu « branc » 3 fois, « Vaulx-en-Velin », « Caluire »),
   remplacés par Lille, Roubaix, Tourcoing, Lens ; 2e rendu à 92 % avec alerte (« Lille » entendu « l'île », « ce gérant laisse filer » avalé). Débit 25,2 car./s, 77 s.
   Sur les 10 derniers audits, débit 24,2 à 25,2 car./s, 8 sans alerte ; 3 vidéos à 81 s ou moins : règle 7 ajoutée (longueur). Villes : 1 seule vidéo, pas de règle,
