@@ -1,0 +1,16 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-19_1747/video.mp4",
+ "duration": 85.071,
+ "shots": 51,
+ "sources": [
+  "https://anilist.co/manga/119257",
+  "https://kitsu.io/anime/omniscient-reader"
+ ],
+ "music": {
+  "file": "mystere.mp3",
+  "bpm": 152.0,
+  "offset": 19.929000000000002
+ },
+ "sfx": 19,
+ "engine": "remotion (OpenMontage)"
+}
