@@ -24,7 +24,8 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
    Le verbe « tapes » lui-même est mal compris sur 2 vidéos (16/10 « tap », 18/10 17:00 « t apples ») : écrire « tu choisis »
    (bien entendu au 2e rendu du 18/10 17:00).
 7. Durée : à débit 25 car./s, 1 450 à 1 480 caractères ne donnent que 77 à 81 s (17/10 22:00, 18/10 12:00, 18/10 22:00).
-   Viser 1 520 à 1 600 caractères pour tenir 82 à 90 s, sans dépasser 16 segments.
+   Viser 1 520 à 1 600 caractères pour tenir 82 à 90 s, sans dépasser 16 segments. Au-delà, ça déborde : 1 619 car. = 92,9 s (19/10 19:00),
+   et la vidéo du 19/10 17:00 a atteint 97,9 s (hors cible 95 s). Rester sous 1 600.
 
 ## Pistes pour Bill (changements de code proposés, à valider par lui)
 - Audit : comparer la transcription au texte écrit du script, pas à la graphie phonétique du lexique.
@@ -34,6 +35,9 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
 - Audit : relancer `factory.audit` sur le même run ajoute une 2e ligne identique dans `audits_ia.jsonl` (doublons 14/10 12:00 et 19:00), ce qui gonfle le compte des « mots mal compris sur plusieurs vidéos ». Remplacer la ligne du même stamp au lieu d'en ajouter une.
 
 ## Journal (1 ligne par revue, la plus récente en haut, 20 lignes maximum)
+- 2026-10-19 (19:00) : sans alerte au 1er rendu (débit 24,5 car./s, prononciation 94 %, 92,9 s, 1 619 car.). Sur les 10 derniers audits, débit 23,9 à 25,2 car./s,
+  8 sans alerte. 2 vidéos du jour au-dessus de 90 s (97,9 et 92,9 s) : règle 7 précisée (rester sous 1 600 car.). « jour J » entendu « jorgi » et « onde » entendu « tombe »
+  sur 1 seule vidéo : pas de règle. Pas de nouveau mot au lexique.
 - 2026-10-19 (12:00) : sans alerte au 1er rendu (débit 24,3 car./s, prononciation 97 %, 89,9 s, 1 549 car.). Règle 7 tenue sur les 2 vidéos du jour (89,8 et 89,9 s).
   Sur les 10 derniers audits, débit 24,2 à 25,2 car./s, 8 sans alerte (les 2 alertes : prononciation 91 et 92 %, déjà traitées). « Handy » et « Whisper »
   ajoutés au lexique par précaution ; « Handy » reste entendu « andy » (proche, 1 seule vidéo, pas de règle). Le lint refuse « pas d'abonnement » (mot « abonne ») :
