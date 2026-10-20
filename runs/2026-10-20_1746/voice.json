@@ -1,0 +1,1692 @@
+{
+ "engine": "fish",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-20_1746/voice.wav",
+ "duration": 78.365,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 3.4,
+   "slot_end": 3.465,
+   "text": "Ce gamin rêve d'être buteur, et son coach décide d'en faire un défenseur.",
+   "words": [
+    {
+     "w": "Ce",
+     "start": 0.0,
+     "end": 0.12
+    },
+    {
+     "w": "gamin",
+     "start": 0.12,
+     "end": 0.3
+    },
+    {
+     "w": "rêve",
+     "start": 0.3,
+     "end": 0.64
+    },
+    {
+     "w": "d'être",
+     "start": 0.64,
+     "end": 0.84
+    },
+    {
+     "w": "buteur,",
+     "start": 0.84,
+     "end": 1.32
+    },
+    {
+     "w": "et",
+     "start": 1.32,
+     "end": 1.54
+    },
+    {
+     "w": "son",
+     "start": 1.54,
+     "end": 1.7
+    },
+    {
+     "w": "coach",
+     "start": 1.7,
+     "end": 1.9
+    },
+    {
+     "w": "décide",
+     "start": 1.9,
+     "end": 2.34
+    },
+    {
+     "w": "d'en",
+     "start": 2.34,
+     "end": 2.5
+    },
+    {
+     "w": "faire",
+     "start": 2.5,
+     "end": 2.66
+    },
+    {
+     "w": "un",
+     "start": 2.66,
+     "end": 2.84
+    },
+    {
+     "w": "défenseur.",
+     "start": 2.84,
+     "end": 3.4
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 3.46,
+   "end": 7.82,
+   "slot_end": 7.862,
+   "text": "Reste jusqu'au bout, parce que ce choix qu'il déteste, c'est exactement ce qui va le rendre monstrueux.",
+   "words": [
+    {
+     "w": "Reste",
+     "start": 3.46,
+     "end": 3.62
+    },
+    {
+     "w": "jusqu'au",
+     "start": 3.62,
+     "end": 3.94
+    },
+    {
+     "w": "bout,",
+     "start": 3.94,
+     "end": 4.1
+    },
+    {
+     "w": "parce",
+     "start": 4.1,
+     "end": 4.3
+    },
+    {
+     "w": "que",
+     "start": 4.3,
+     "end": 4.42
+    },
+    {
+     "w": "ce",
+     "start": 4.42,
+     "end": 4.56
+    },
+    {
+     "w": "choix",
+     "start": 4.56,
+     "end": 4.8
+    },
+    {
+     "w": "qu'il",
+     "start": 4.8,
+     "end": 4.96
+    },
+    {
+     "w": "déteste,",
+     "start": 4.96,
+     "end": 5.34
+    },
+    {
+     "w": "c'est",
+     "start": 5.4,
+     "end": 5.62
+    },
+    {
+     "w": "exactement",
+     "start": 5.62,
+     "end": 6.08
+    },
+    {
+     "w": "ce",
+     "start": 6.08,
+     "end": 6.3
+    },
+    {
+     "w": "qui",
+     "start": 6.3,
+     "end": 6.44
+    },
+    {
+     "w": "va",
+     "start": 6.44,
+     "end": 6.56
+    },
+    {
+     "w": "le",
+     "start": 6.56,
+     "end": 6.7
+    },
+    {
+     "w": "rendre",
+     "start": 6.7,
+     "end": 6.9
+    },
+    {
+     "w": "monstrueux.",
+     "start": 6.9,
+     "end": 7.82
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 8.02,
+   "end": 13.64,
+   "slot_end": 13.804,
+   "text": "Lui c'est Ashito. Il vient d'Ehime, un coin paumé de Shikoku, et sa mère se tue au boulot pour l'élever.",
+   "words": [
+    {
+     "w": "Lui",
+     "start": 8.02,
+     "end": 8.07
+    },
+    {
+     "w": "c'est",
+     "start": 8.02,
+     "end": 8.36
+    },
+    {
+     "w": "Ashito.",
+     "start": 8.36,
+     "end": 8.8
+    },
+    {
+     "w": "Il",
+     "start": 9.32,
+     "end": 9.44
+    },
+    {
+     "w": "vient",
+     "start": 9.44,
+     "end": 9.66
+    },
+    {
+     "w": "d'Ehime,",
+     "start": 9.66,
+     "end": 10.26
+    },
+    {
+     "w": "un",
+     "start": 10.26,
+     "end": 10.48
+    },
+    {
+     "w": "coin",
+     "start": 10.48,
+     "end": 10.64
+    },
+    {
+     "w": "paumé",
+     "start": 10.64,
+     "end": 10.94
+    },
+    {
+     "w": "de",
+     "start": 10.94,
+     "end": 11.08
+    },
+    {
+     "w": "Shikoku,",
+     "start": 11.08,
+     "end": 11.48
+    },
+    {
+     "w": "et",
+     "start": 11.48,
+     "end": 12.0
+    },
+    {
+     "w": "sa",
+     "start": 12.0,
+     "end": 12.14
+    },
+    {
+     "w": "mère",
+     "start": 12.14,
+     "end": 12.28
+    },
+    {
+     "w": "se",
+     "start": 12.28,
+     "end": 12.48
+    },
+    {
+     "w": "tue",
+     "start": 12.48,
+     "end": 12.68
+    },
+    {
+     "w": "au",
+     "start": 12.68,
+     "end": 12.84
+    },
+    {
+     "w": "boulot",
+     "start": 12.84,
+     "end": 13.12
+    },
+    {
+     "w": "pour",
+     "start": 13.12,
+     "end": 13.3
+    },
+    {
+     "w": "l'élever.",
+     "start": 13.3,
+     "end": 13.64
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 13.8,
+   "end": 18.94,
+   "slot_end": 19.049,
+   "text": "Sur le terrain, c'est un buteur arrogant qui veut tout faire tout seul. Sauf qu'il a un truc que personne n'a remarqué.",
+   "words": [
+    {
+     "w": "Sur",
+     "start": 13.8,
+     "end": 13.9
+    },
+    {
+     "w": "le",
+     "start": 13.9,
+     "end": 14.04
+    },
+    {
+     "w": "terrain,",
+     "start": 14.04,
+     "end": 14.18
+    },
+    {
+     "w": "c'est",
+     "start": 14.34,
+     "end": 14.44
+    },
+    {
+     "w": "un",
+     "start": 14.44,
+     "end": 14.56
+    },
+    {
+     "w": "buteur",
+     "start": 14.56,
+     "end": 14.92
+    },
+    {
+     "w": "arrogant",
+     "start": 14.92,
+     "end": 15.24
+    },
+    {
+     "w": "qui",
+     "start": 15.24,
+     "end": 15.52
+    },
+    {
+     "w": "veut",
+     "start": 15.52,
+     "end": 15.66
+    },
+    {
+     "w": "tout",
+     "start": 15.66,
+     "end": 15.86
+    },
+    {
+     "w": "faire",
+     "start": 15.86,
+     "end": 16.06
+    },
+    {
+     "w": "tout",
+     "start": 16.06,
+     "end": 16.22
+    },
+    {
+     "w": "seul.",
+     "start": 16.22,
+     "end": 16.48
+    },
+    {
+     "w": "Sauf",
+     "start": 16.96,
+     "end": 17.2
+    },
+    {
+     "w": "qu'il",
+     "start": 17.2,
+     "end": 17.36
+    },
+    {
+     "w": "a",
+     "start": 17.36,
+     "end": 17.44
+    },
+    {
+     "w": "un",
+     "start": 17.44,
+     "end": 17.54
+    },
+    {
+     "w": "truc",
+     "start": 17.54,
+     "end": 17.7
+    },
+    {
+     "w": "que",
+     "start": 17.7,
+     "end": 17.96
+    },
+    {
+     "w": "personne",
+     "start": 17.96,
+     "end": 18.26
+    },
+    {
+     "w": "n'a",
+     "start": 18.26,
+     "end": 18.54
+    },
+    {
+     "w": "remarqué.",
+     "start": 18.54,
+     "end": 18.94
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 19.1,
+   "end": 23.26,
+   "slot_end": 23.373,
+   "text": "Il voit le terrain comme d'en haut. Genre il sait où sont les vingt-deux joueurs sans même tourner la tête.",
+   "words": [
+    {
+     "w": "Il",
+     "start": 19.1,
+     "end": 19.16
+    },
+    {
+     "w": "voit",
+     "start": 19.16,
+     "end": 19.34
+    },
+    {
+     "w": "le",
+     "start": 19.34,
+     "end": 19.56
+    },
+    {
+     "w": "terrain",
+     "start": 19.56,
+     "end": 19.76
+    },
+    {
+     "w": "comme",
+     "start": 19.76,
+     "end": 20.06
+    },
+    {
+     "w": "d'en",
+     "start": 20.06,
+     "end": 20.26
+    },
+    {
+     "w": "haut.",
+     "start": 20.26,
+     "end": 20.68
+    },
+    {
+     "w": "Genre",
+     "start": 20.74,
+     "end": 20.96
+    },
+    {
+     "w": "il",
+     "start": 21.04,
+     "end": 21.1
+    },
+    {
+     "w": "sait",
+     "start": 21.1,
+     "end": 21.22
+    },
+    {
+     "w": "où",
+     "start": 21.22,
+     "end": 21.38
+    },
+    {
+     "w": "sont",
+     "start": 21.38,
+     "end": 21.5
+    },
+    {
+     "w": "les",
+     "start": 21.5,
+     "end": 21.66
+    },
+    {
+     "w": "vingt-deux",
+     "start": 21.66,
+     "end": 22.08
+    },
+    {
+     "w": "joueurs",
+     "start": 22.08,
+     "end": 22.38
+    },
+    {
+     "w": "sans",
+     "start": 22.38,
+     "end": 22.54
+    },
+    {
+     "w": "même",
+     "start": 22.54,
+     "end": 22.74
+    },
+    {
+     "w": "tourner",
+     "start": 22.74,
+     "end": 23.02
+    },
+    {
+     "w": "la",
+     "start": 23.02,
+     "end": 23.16
+    },
+    {
+     "w": "tête.",
+     "start": 23.16,
+     "end": 23.26
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 23.36,
+   "end": 28.32,
+   "slot_end": 28.532,
+   "text": "Le seul qui capte ça, c'est Fukuda, un ancien joueur pro qui entraîne les jeunes d'Esperion, un gros club de Tokyo.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 23.36,
+     "end": 23.48
+    },
+    {
+     "w": "seul",
+     "start": 23.48,
+     "end": 23.62
+    },
+    {
+     "w": "qui",
+     "start": 23.62,
+     "end": 23.78
+    },
+    {
+     "w": "capte",
+     "start": 23.78,
+     "end": 23.98
+    },
+    {
+     "w": "ça,",
+     "start": 23.98,
+     "end": 24.2
+    },
+    {
+     "w": "c'est",
+     "start": 24.4,
+     "end": 24.48
+    },
+    {
+     "w": "Fukuda,",
+     "start": 24.48,
+     "end": 24.96
+    },
+    {
+     "w": "un",
+     "start": 25.2,
+     "end": 25.28
+    },
+    {
+     "w": "ancien",
+     "start": 25.28,
+     "end": 25.56
+    },
+    {
+     "w": "joueur",
+     "start": 25.56,
+     "end": 25.82
+    },
+    {
+     "w": "pro",
+     "start": 25.82,
+     "end": 26.02
+    },
+    {
+     "w": "qui",
+     "start": 26.02,
+     "end": 26.22
+    },
+    {
+     "w": "entraîne",
+     "start": 26.22,
+     "end": 26.5
+    },
+    {
+     "w": "les",
+     "start": 26.5,
+     "end": 26.64
+    },
+    {
+     "w": "jeunes",
+     "start": 26.64,
+     "end": 26.84
+    },
+    {
+     "w": "d'Esperion,",
+     "start": 26.84,
+     "end": 27.38
+    },
+    {
+     "w": "un",
+     "start": 27.54,
+     "end": 27.64
+    },
+    {
+     "w": "gros",
+     "start": 27.64,
+     "end": 27.78
+    },
+    {
+     "w": "club",
+     "start": 27.78,
+     "end": 28.0
+    },
+    {
+     "w": "de",
+     "start": 28.0,
+     "end": 28.12
+    },
+    {
+     "w": "Tokyo.",
+     "start": 28.12,
+     "end": 28.32
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 28.32,
+   "end": 34.22,
+   "slot_end": 34.338,
+   "text": "Il le fait monter à Tokyo pour les sélections. Et là, le petit roi d'Ehime se fait marcher dessus par des gamins formés en club.",
+   "words": [
+    {
+     "w": "Il",
+     "start": 28.32,
+     "end": 28.62
+    },
+    {
+     "w": "le",
+     "start": 28.62,
+     "end": 28.76
+    },
+    {
+     "w": "fait",
+     "start": 28.76,
+     "end": 28.88
+    },
+    {
+     "w": "monter",
+     "start": 28.88,
+     "end": 29.06
+    },
+    {
+     "w": "à",
+     "start": 29.06,
+     "end": 29.24
+    },
+    {
+     "w": "Tokyo",
+     "start": 29.24,
+     "end": 29.42
+    },
+    {
+     "w": "pour",
+     "start": 29.42,
+     "end": 29.76
+    },
+    {
+     "w": "les",
+     "start": 29.76,
+     "end": 29.9
+    },
+    {
+     "w": "sélections.",
+     "start": 29.9,
+     "end": 30.32
+    },
+    {
+     "w": "Et",
+     "start": 30.86,
+     "end": 31.04
+    },
+    {
+     "w": "là,",
+     "start": 31.04,
+     "end": 31.16
+    },
+    {
+     "w": "le",
+     "start": 31.16,
+     "end": 31.3
+    },
+    {
+     "w": "petit",
+     "start": 31.3,
+     "end": 31.5
+    },
+    {
+     "w": "roi",
+     "start": 31.5,
+     "end": 31.74
+    },
+    {
+     "w": "d'Ehime",
+     "start": 31.74,
+     "end": 31.98
+    },
+    {
+     "w": "se",
+     "start": 31.98,
+     "end": 32.2
+    },
+    {
+     "w": "fait",
+     "start": 32.2,
+     "end": 32.36
+    },
+    {
+     "w": "marcher",
+     "start": 32.36,
+     "end": 32.68
+    },
+    {
+     "w": "dessus",
+     "start": 32.68,
+     "end": 32.96
+    },
+    {
+     "w": "par",
+     "start": 32.96,
+     "end": 33.18
+    },
+    {
+     "w": "des",
+     "start": 33.18,
+     "end": 33.34
+    },
+    {
+     "w": "gamins",
+     "start": 33.34,
+     "end": 33.54
+    },
+    {
+     "w": "formés",
+     "start": 33.54,
+     "end": 33.92
+    },
+    {
+     "w": "en",
+     "start": 33.92,
+     "end": 34.04
+    },
+    {
+     "w": "club.",
+     "start": 34.04,
+     "end": 34.22
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 34.22,
+   "end": 37.34,
+   "slot_end": 37.452,
+   "text": "Si t'aimes quand je raconte un anime comme ça, abonne-toi, j'en sors tous les jours.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 34.22,
+     "end": 34.46
+    },
+    {
+     "w": "t'aimes",
+     "start": 34.46,
+     "end": 34.64
+    },
+    {
+     "w": "quand",
+     "start": 34.64,
+     "end": 34.76
+    },
+    {
+     "w": "je",
+     "start": 34.76,
+     "end": 34.84
+    },
+    {
+     "w": "raconte",
+     "start": 34.84,
+     "end": 35.08
+    },
+    {
+     "w": "un",
+     "start": 35.08,
+     "end": 35.22
+    },
+    {
+     "w": "anime",
+     "start": 35.22,
+     "end": 35.46
+    },
+    {
+     "w": "comme",
+     "start": 35.46,
+     "end": 35.58
+    },
+    {
+     "w": "ça,",
+     "start": 35.58,
+     "end": 35.8
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 35.94,
+     "end": 36.36
+    },
+    {
+     "w": "j'en",
+     "start": 36.54,
+     "end": 36.64
+    },
+    {
+     "w": "sors",
+     "start": 36.64,
+     "end": 36.82
+    },
+    {
+     "w": "tous",
+     "start": 36.82,
+     "end": 37.0
+    },
+    {
+     "w": "les",
+     "start": 37.0,
+     "end": 37.12
+    },
+    {
+     "w": "jours.",
+     "start": 37.12,
+     "end": 37.34
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 37.34,
+   "end": 43.5,
+   "slot_end": 43.598,
+   "text": "Et c'est là que tout dérape. Fukuda lui annonce qu'il ne jouera plus attaquant. Il le met latéral, en défense.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 37.34,
+     "end": 37.54
+    },
+    {
+     "w": "c'est",
+     "start": 37.54,
+     "end": 37.68
+    },
+    {
+     "w": "là",
+     "start": 37.68,
+     "end": 37.8
+    },
+    {
+     "w": "que",
+     "start": 37.8,
+     "end": 37.96
+    },
+    {
+     "w": "tout",
+     "start": 37.96,
+     "end": 38.22
+    },
+    {
+     "w": "dérape.",
+     "start": 38.22,
+     "end": 38.48
+    },
+    {
+     "w": "Fukuda",
+     "start": 39.2,
+     "end": 39.42
+    },
+    {
+     "w": "lui",
+     "start": 39.42,
+     "end": 39.58
+    },
+    {
+     "w": "annonce",
+     "start": 39.58,
+     "end": 39.9
+    },
+    {
+     "w": "qu'il",
+     "start": 39.9,
+     "end": 40.12
+    },
+    {
+     "w": "ne",
+     "start": 40.12,
+     "end": 40.3
+    },
+    {
+     "w": "jouera",
+     "start": 40.3,
+     "end": 40.52
+    },
+    {
+     "w": "plus",
+     "start": 40.52,
+     "end": 40.72
+    },
+    {
+     "w": "attaquant.",
+     "start": 40.88,
+     "end": 41.16
+    },
+    {
+     "w": "Il",
+     "start": 41.5,
+     "end": 41.82
+    },
+    {
+     "w": "le",
+     "start": 41.82,
+     "end": 42.04
+    },
+    {
+     "w": "met",
+     "start": 42.04,
+     "end": 42.09
+    },
+    {
+     "w": "latéral,",
+     "start": 42.08,
+     "end": 42.54
+    },
+    {
+     "w": "en",
+     "start": 42.54,
+     "end": 43.02
+    },
+    {
+     "w": "défense.",
+     "start": 43.02,
+     "end": 43.5
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 43.5,
+   "end": 48.66,
+   "slot_end": 48.785,
+   "text": "Pour un mec qui vit pour marquer, c'est comme si on lui arrachait son rêve. Il craque complètement, frr ça fait mal à regarder.",
+   "words": [
+    {
+     "w": "Pour",
+     "start": 43.5,
+     "end": 43.66
+    },
+    {
+     "w": "un",
+     "start": 43.72,
+     "end": 43.78
+    },
+    {
+     "w": "mec",
+     "start": 43.78,
+     "end": 43.88
+    },
+    {
+     "w": "qui",
+     "start": 43.88,
+     "end": 44.0
+    },
+    {
+     "w": "vit",
+     "start": 44.0,
+     "end": 44.12
+    },
+    {
+     "w": "pour",
+     "start": 44.12,
+     "end": 44.28
+    },
+    {
+     "w": "marquer,",
+     "start": 44.28,
+     "end": 44.56
+    },
+    {
+     "w": "c'est",
+     "start": 44.66,
+     "end": 44.82
+    },
+    {
+     "w": "comme",
+     "start": 44.82,
+     "end": 44.96
+    },
+    {
+     "w": "si",
+     "start": 44.96,
+     "end": 45.1
+    },
+    {
+     "w": "on",
+     "start": 45.1,
+     "end": 45.18
+    },
+    {
+     "w": "lui",
+     "start": 45.18,
+     "end": 45.3
+    },
+    {
+     "w": "arrachait",
+     "start": 45.3,
+     "end": 45.64
+    },
+    {
+     "w": "son",
+     "start": 45.64,
+     "end": 45.84
+    },
+    {
+     "w": "rêve.",
+     "start": 45.84,
+     "end": 46.54
+    },
+    {
+     "w": "Il",
+     "start": 46.54,
+     "end": 46.7
+    },
+    {
+     "w": "craque",
+     "start": 46.7,
+     "end": 46.98
+    },
+    {
+     "w": "complètement,",
+     "start": 46.98,
+     "end": 47.4
+    },
+    {
+     "w": "frr",
+     "start": 47.7,
+     "end": 47.78
+    },
+    {
+     "w": "ça",
+     "start": 47.78,
+     "end": 47.86
+    },
+    {
+     "w": "fait",
+     "start": 47.86,
+     "end": 48.12
+    },
+    {
+     "w": "mal",
+     "start": 48.12,
+     "end": 48.26
+    },
+    {
+     "w": "à",
+     "start": 48.26,
+     "end": 48.4
+    },
+    {
+     "w": "regarder.",
+     "start": 48.4,
+     "end": 48.66
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 48.66,
+   "end": 53.22,
+   "slot_end": 53.309,
+   "text": "Heureusement y'a Hana, la petite sœur de Fukuda, qui croit en lui au moment où lui-même n'y croit plus du tout.",
+   "words": [
+    {
+     "w": "Heureusement",
+     "start": 48.66,
+     "end": 49.06
+    },
+    {
+     "w": "y'a",
+     "start": 49.2,
+     "end": 49.26
+    },
+    {
+     "w": "Hana,",
+     "start": 49.26,
+     "end": 49.48
+    },
+    {
+     "w": "la",
+     "start": 49.64,
+     "end": 49.7
+    },
+    {
+     "w": "petite",
+     "start": 49.7,
+     "end": 49.9
+    },
+    {
+     "w": "sœur",
+     "start": 49.9,
+     "end": 50.18
+    },
+    {
+     "w": "de",
+     "start": 50.18,
+     "end": 50.3
+    },
+    {
+     "w": "Fukuda,",
+     "start": 50.3,
+     "end": 50.74
+    },
+    {
+     "w": "qui",
+     "start": 50.74,
+     "end": 50.92
+    },
+    {
+     "w": "croit",
+     "start": 50.92,
+     "end": 51.22
+    },
+    {
+     "w": "en",
+     "start": 51.22,
+     "end": 51.32
+    },
+    {
+     "w": "lui",
+     "start": 51.32,
+     "end": 51.48
+    },
+    {
+     "w": "au",
+     "start": 51.48,
+     "end": 51.6
+    },
+    {
+     "w": "moment",
+     "start": 51.6,
+     "end": 51.82
+    },
+    {
+     "w": "où",
+     "start": 51.82,
+     "end": 52.0
+    },
+    {
+     "w": "lui-même",
+     "start": 52.0,
+     "end": 52.32
+    },
+    {
+     "w": "n'y",
+     "start": 52.32,
+     "end": 52.46
+    },
+    {
+     "w": "croit",
+     "start": 52.46,
+     "end": 52.7
+    },
+    {
+     "w": "plus",
+     "start": 52.7,
+     "end": 52.88
+    },
+    {
+     "w": "du",
+     "start": 52.88,
+     "end": 53.02
+    },
+    {
+     "w": "tout.",
+     "start": 53.02,
+     "end": 53.22
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 53.22,
+   "end": 58.3,
+   "slot_end": 58.405,
+   "text": "Et petit à petit il comprend. Sa vision, en défense, elle sert à lire toute l'attaque adverse avant même qu'elle arrive.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 53.22,
+     "end": 53.4
+    },
+    {
+     "w": "petit",
+     "start": 53.4,
+     "end": 53.56
+    },
+    {
+     "w": "à",
+     "start": 53.56,
+     "end": 53.72
+    },
+    {
+     "w": "petit",
+     "start": 53.72,
+     "end": 53.92
+    },
+    {
+     "w": "il",
+     "start": 54.04,
+     "end": 54.09
+    },
+    {
+     "w": "comprend.",
+     "start": 54.08,
+     "end": 54.34
+    },
+    {
+     "w": "Sa",
+     "start": 54.34,
+     "end": 54.74
+    },
+    {
+     "w": "vision,",
+     "start": 54.74,
+     "end": 55.04
+    },
+    {
+     "w": "en",
+     "start": 55.28,
+     "end": 55.36
+    },
+    {
+     "w": "défense,",
+     "start": 55.36,
+     "end": 55.7
+    },
+    {
+     "w": "elle",
+     "start": 55.82,
+     "end": 55.87
+    },
+    {
+     "w": "sert",
+     "start": 55.86,
+     "end": 56.04
+    },
+    {
+     "w": "à",
+     "start": 56.04,
+     "end": 56.2
+    },
+    {
+     "w": "lire",
+     "start": 56.2,
+     "end": 56.36
+    },
+    {
+     "w": "toute",
+     "start": 56.36,
+     "end": 56.66
+    },
+    {
+     "w": "l'attaque",
+     "start": 56.66,
+     "end": 57.02
+    },
+    {
+     "w": "adverse",
+     "start": 57.02,
+     "end": 57.34
+    },
+    {
+     "w": "avant",
+     "start": 57.34,
+     "end": 57.64
+    },
+    {
+     "w": "même",
+     "start": 57.64,
+     "end": 57.9
+    },
+    {
+     "w": "qu'elle",
+     "start": 57.9,
+     "end": 58.08
+    },
+    {
+     "w": "arrive.",
+     "start": 58.08,
+     "end": 58.3
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 58.5,
+   "end": 64.94,
+   "slot_end": 65.402,
+   "text": "Le buteur raté devient le cerveau de l'équipe. Et en face, y'a Kuribayashi, le génie du club, la barre qu'il doit atteindre.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 58.5,
+     "end": 58.58
+    },
+    {
+     "w": "buteur",
+     "start": 58.58,
+     "end": 58.88
+    },
+    {
+     "w": "raté",
+     "start": 58.88,
+     "end": 59.18
+    },
+    {
+     "w": "devient",
+     "start": 59.18,
+     "end": 59.5
+    },
+    {
+     "w": "le",
+     "start": 59.5,
+     "end": 59.72
+    },
+    {
+     "w": "cerveau",
+     "start": 59.72,
+     "end": 60.3
+    },
+    {
+     "w": "de",
+     "start": 60.3,
+     "end": 60.4
+    },
+    {
+     "w": "l'équipe.",
+     "start": 60.4,
+     "end": 61.12
+    },
+    {
+     "w": "Et",
+     "start": 61.34,
+     "end": 61.39
+    },
+    {
+     "w": "en",
+     "start": 61.38,
+     "end": 61.88
+    },
+    {
+     "w": "face,",
+     "start": 61.88,
+     "end": 62.38
+    },
+    {
+     "w": "y'a",
+     "start": 62.38,
+     "end": 62.56
+    },
+    {
+     "w": "Kuribayashi,",
+     "start": 62.56,
+     "end": 62.74
+    },
+    {
+     "w": "le",
+     "start": 62.74,
+     "end": 63.0
+    },
+    {
+     "w": "génie",
+     "start": 63.0,
+     "end": 63.36
+    },
+    {
+     "w": "du",
+     "start": 63.36,
+     "end": 63.5
+    },
+    {
+     "w": "club,",
+     "start": 63.5,
+     "end": 63.74
+    },
+    {
+     "w": "la",
+     "start": 63.78,
+     "end": 63.98
+    },
+    {
+     "w": "barre",
+     "start": 63.98,
+     "end": 64.2
+    },
+    {
+     "w": "qu'il",
+     "start": 64.2,
+     "end": 64.42
+    },
+    {
+     "w": "doit",
+     "start": 64.42,
+     "end": 64.58
+    },
+    {
+     "w": "atteindre.",
+     "start": 64.58,
+     "end": 64.94
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 65.42,
+   "end": 70.16,
+   "slot_end": 70.265,
+   "text": "La saison 2 tourne depuis le 4 octobre, et c'est maintenant qu'on voit si le pari de Fukuda était le bon.",
+   "words": [
+    {
+     "w": "La",
+     "start": 65.42,
+     "end": 65.52
+    },
+    {
+     "w": "saison",
+     "start": 65.52,
+     "end": 65.76
+    },
+    {
+     "w": "2",
+     "start": 65.76,
+     "end": 65.96
+    },
+    {
+     "w": "tourne",
+     "start": 65.96,
+     "end": 66.24
+    },
+    {
+     "w": "depuis",
+     "start": 66.24,
+     "end": 66.56
+    },
+    {
+     "w": "le",
+     "start": 66.56,
+     "end": 66.74
+    },
+    {
+     "w": "4",
+     "start": 66.74,
+     "end": 66.92
+    },
+    {
+     "w": "octobre,",
+     "start": 66.92,
+     "end": 67.52
+    },
+    {
+     "w": "et",
+     "start": 67.66,
+     "end": 67.71
+    },
+    {
+     "w": "c'est",
+     "start": 67.7,
+     "end": 67.84
+    },
+    {
+     "w": "maintenant",
+     "start": 67.84,
+     "end": 68.16
+    },
+    {
+     "w": "qu'on",
+     "start": 68.16,
+     "end": 68.38
+    },
+    {
+     "w": "voit",
+     "start": 68.38,
+     "end": 68.58
+    },
+    {
+     "w": "si",
+     "start": 68.58,
+     "end": 68.76
+    },
+    {
+     "w": "le",
+     "start": 68.76,
+     "end": 68.94
+    },
+    {
+     "w": "pari",
+     "start": 68.94,
+     "end": 69.24
+    },
+    {
+     "w": "de",
+     "start": 69.24,
+     "end": 69.34
+    },
+    {
+     "w": "Fukuda",
+     "start": 69.34,
+     "end": 69.7
+    },
+    {
+     "w": "était",
+     "start": 69.7,
+     "end": 69.88
+    },
+    {
+     "w": "le",
+     "start": 69.88,
+     "end": 70.06
+    },
+    {
+     "w": "bon.",
+     "start": 70.06,
+     "end": 70.16
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 70.28,
+   "end": 74.64,
+   "slot_end": 74.871,
+   "text": "Perso c'est l'anime de foot le plus intelligent que j'ai vu. Dis-moi en com' si tu l'as commencé.",
+   "words": [
+    {
+     "w": "Perso",
+     "start": 70.28,
+     "end": 70.64
+    },
+    {
+     "w": "c'est",
+     "start": 70.68,
+     "end": 70.76
+    },
+    {
+     "w": "l'anime",
+     "start": 70.76,
+     "end": 71.12
+    },
+    {
+     "w": "de",
+     "start": 71.12,
+     "end": 71.26
+    },
+    {
+     "w": "foot",
+     "start": 71.26,
+     "end": 71.46
+    },
+    {
+     "w": "le",
+     "start": 71.62,
+     "end": 71.74
+    },
+    {
+     "w": "plus",
+     "start": 71.74,
+     "end": 71.98
+    },
+    {
+     "w": "intelligent",
+     "start": 71.98,
+     "end": 72.38
+    },
+    {
+     "w": "que",
+     "start": 72.38,
+     "end": 72.64
+    },
+    {
+     "w": "j'ai",
+     "start": 72.64,
+     "end": 72.82
+    },
+    {
+     "w": "vu.",
+     "start": 72.82,
+     "end": 73.0
+    },
+    {
+     "w": "Dis-moi",
+     "start": 73.48,
+     "end": 73.56
+    },
+    {
+     "w": "en",
+     "start": 73.56,
+     "end": 73.64
+    },
+    {
+     "w": "com'",
+     "start": 73.64,
+     "end": 73.72
+    },
+    {
+     "w": "si",
+     "start": 73.72,
+     "end": 74.14
+    },
+    {
+     "w": "tu",
+     "start": 74.14,
+     "end": 74.26
+    },
+    {
+     "w": "l'as",
+     "start": 74.26,
+     "end": 74.38
+    },
+    {
+     "w": "commencé.",
+     "start": 74.38,
+     "end": 74.64
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "start": 74.88,
+   "end": 77.6,
+   "slot_end": 78.365,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 74.88,
+     "end": 75.14
+    },
+    {
+     "w": "Asura.",
+     "start": 75.14,
+     "end": 75.52
+    },
+    {
+     "w": "On",
+     "start": 76.08,
+     "end": 76.28
+    },
+    {
+     "w": "se",
+     "start": 76.28,
+     "end": 76.42
+    },
+    {
+     "w": "capte",
+     "start": 76.42,
+     "end": 76.74
+    },
+    {
+     "w": "au",
+     "start": 76.74,
+     "end": 76.9
+    },
+    {
+     "w": "prochain",
+     "start": 76.9,
+     "end": 77.18
+    },
+    {
+     "w": "épisode.",
+     "start": 77.18,
+     "end": 77.6
+    }
+   ]
+  }
+ ],
+ "aligned": 1.0
+}
