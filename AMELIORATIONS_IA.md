@@ -28,7 +28,8 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
    Viser 1 520 à 1 600 caractères pour tenir 82 à 90 s, sans dépasser 16 segments. Au-delà, ça déborde : 1 619 car. = 92,9 s (19/10 19:00),
    et la vidéo du 19/10 17:00 a atteint 97,9 s (hors cible 95 s). Rester sous 1 600.
    À longueur égale, la durée varie de plusieurs secondes selon le texte : 1 546 à 1 571 car. ont donné 82 à 93 s (20/10 17:00 : 1 554 car. = 82,1 s à 25,4 car./s ;
-   20/10 08:00 : 1 560 car. = 92,9 s). Viser 1 540 à 1 580 car., jamais sous 1 520 (risque de passer sous 80 s), jamais au-dessus de 1 600.
+   20/10 08:00 : 1 560 car. = 92,9 s ; 20/10 22:00 : 1 570 car. = 81,7 s à 24,7 car./s). Viser 1 570 à 1 600 car., jamais sous 1 540 (2 vidéos du 20/10
+   à 82 s avec 1 554 et 1 570 car.), jamais au-dessus de 1 600.
 
 ## Pistes pour Bill (changements de code proposés, à valider par lui)
 - Audit : comparer la transcription au texte écrit du script, pas à la graphie phonétique du lexique.
@@ -38,6 +39,9 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
 - Audit : relancer `factory.audit` sur le même run ajoute une 2e ligne identique dans `audits_ia.jsonl` (doublons 14/10 12:00 et 19:00), ce qui gonfle le compte des « mots mal compris sur plusieurs vidéos ». Remplacer la ligne du même stamp au lieu d'en ajouter une.
 
 ## Journal (1 ligne par revue, la plus récente en haut, 20 lignes maximum)
+- 2026-10-20 (22:00) : sans alerte au 1er rendu (débit 24,7 car./s, prononciation 97 %, 81,7 s pour 1 570 car.). Sur les 10 derniers audits, débit 23,9 à 25,4 car./s,
+  8 sans alerte. 2e vidéo du jour à 82 s malgré 1 554 à 1 570 car. : règle 7 relevée (1 570 à 1 600 car.). « chauffagiste » entendu « chou fagiste » et « premier »
+  entendu « promenee » sur 1 seule vidéo : pas de lexique. « radiusse » et « opportunite » restent en tête des mots mal compris mais viennent de la graphie et du pluriel (piste déjà notée).
 - 2026-10-20 (17:00) : sans alerte au 1er rendu (débit 25,4 car./s, prononciation 93 %), mais 82,1 s pour 1 554 car. alors que 1 560 car. donnaient 92,9 s le matin :
   règle 7 revue (fourchette 1 540 à 1 580 car.). Sur les 10 derniers audits, débit 23,9 à 25,4 car./s, 7 sans alerte. Phrases nominales très courtes (« Aucun conflit. »)
   et fin de phrase « un vrai merci donne » avalées, « place » entendu « peste » : 1 seule vidéo, pas de règle. « promets » / « promet » : homophone, pas de lexique.
