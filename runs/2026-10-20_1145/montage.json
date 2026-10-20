@@ -1,0 +1,16 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-20_1145/video.mp4",
+ "duration": 79.235,
+ "shots": 35,
+ "sources": [
+  "https://anilist.co/manga/106929",
+  "https://kitsu.io/anime/eleceed"
+ ],
+ "music": {
+  "file": "pote.mp3",
+  "bpm": 184.6,
+  "offset": 47.39
+ },
+ "sfx": 13,
+ "engine": "remotion (OpenMontage)"
+}

@@ -1,0 +1,1767 @@
+{
+ "engine": "fish",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-20_1145/voice.wav",
+ "duration": 79.235,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 2.5,
+   "slot_end": 2.612,
+   "text": "Le combattant le plus fort du monde est coincé dans le corps d'un chat.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 0.0,
+     "end": 0.1
+    },
+    {
+     "w": "combattant",
+     "start": 0.1,
+     "end": 0.4
+    },
+    {
+     "w": "le",
+     "start": 0.4,
+     "end": 0.52
+    },
+    {
+     "w": "plus",
+     "start": 0.52,
+     "end": 0.66
+    },
+    {
+     "w": "fort",
+     "start": 0.66,
+     "end": 0.84
+    },
+    {
+     "w": "du",
+     "start": 0.84,
+     "end": 1.0
+    },
+    {
+     "w": "monde",
+     "start": 1.0,
+     "end": 1.12
+    },
+    {
+     "w": "est",
+     "start": 1.12,
+     "end": 1.3
+    },
+    {
+     "w": "coincé",
+     "start": 1.3,
+     "end": 1.64
+    },
+    {
+     "w": "dans",
+     "start": 1.64,
+     "end": 1.78
+    },
+    {
+     "w": "le",
+     "start": 1.78,
+     "end": 1.9
+    },
+    {
+     "w": "corps",
+     "start": 1.9,
+     "end": 2.08
+    },
+    {
+     "w": "d'un",
+     "start": 2.08,
+     "end": 2.32
+    },
+    {
+     "w": "chat.",
+     "start": 2.32,
+     "end": 2.5
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 2.62,
+   "end": 6.32,
+   "slot_end": 6.427,
+   "text": "Et reste jusqu'au bout, parce que l'anime de ce manhwa est déjà annoncé, j'te donne le nom à la fin.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 2.62,
+     "end": 2.7
+    },
+    {
+     "w": "reste",
+     "start": 2.7,
+     "end": 2.94
+    },
+    {
+     "w": "jusqu'au",
+     "start": 2.94,
+     "end": 3.24
+    },
+    {
+     "w": "bout,",
+     "start": 3.24,
+     "end": 3.34
+    },
+    {
+     "w": "parce",
+     "start": 3.34,
+     "end": 3.48
+    },
+    {
+     "w": "que",
+     "start": 3.48,
+     "end": 3.6
+    },
+    {
+     "w": "l'anime",
+     "start": 3.6,
+     "end": 3.92
+    },
+    {
+     "w": "de",
+     "start": 3.92,
+     "end": 4.04
+    },
+    {
+     "w": "ce",
+     "start": 4.04,
+     "end": 4.16
+    },
+    {
+     "w": "manhwa",
+     "start": 4.16,
+     "end": 4.37
+    },
+    {
+     "w": "est",
+     "start": 4.37,
+     "end": 4.58
+    },
+    {
+     "w": "déjà",
+     "start": 4.58,
+     "end": 4.84
+    },
+    {
+     "w": "annoncé,",
+     "start": 4.84,
+     "end": 5.34
+    },
+    {
+     "w": "j'te",
+     "start": 5.44,
+     "end": 5.58
+    },
+    {
+     "w": "donne",
+     "start": 5.58,
+     "end": 5.7
+    },
+    {
+     "w": "le",
+     "start": 5.7,
+     "end": 5.84
+    },
+    {
+     "w": "nom",
+     "start": 5.84,
+     "end": 6.0
+    },
+    {
+     "w": "à",
+     "start": 6.0,
+     "end": 6.06
+    },
+    {
+     "w": "la",
+     "start": 6.06,
+     "end": 6.14
+    },
+    {
+     "w": "fin.",
+     "start": 6.14,
+     "end": 6.32
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 6.54,
+   "end": 12.08,
+   "slot_end": 12.173,
+   "text": "Alors le héros, c'est Jiwoo. Un lycéen tout gentil, le genre de mec qui nourrit tous les chats errants du quartier.",
+   "words": [
+    {
+     "w": "Alors",
+     "start": 6.54,
+     "end": 6.59
+    },
+    {
+     "w": "le",
+     "start": 6.54,
+     "end": 6.78
+    },
+    {
+     "w": "héros,",
+     "start": 6.78,
+     "end": 7.02
+    },
+    {
+     "w": "c'est",
+     "start": 7.34,
+     "end": 7.4
+    },
+    {
+     "w": "Jiwoo.",
+     "start": 7.4,
+     "end": 7.94
+    },
+    {
+     "w": "Un",
+     "start": 8.52,
+     "end": 8.78
+    },
+    {
+     "w": "lycéen",
+     "start": 8.78,
+     "end": 9.26
+    },
+    {
+     "w": "tout",
+     "start": 9.26,
+     "end": 9.34
+    },
+    {
+     "w": "gentil,",
+     "start": 9.34,
+     "end": 9.7
+    },
+    {
+     "w": "le",
+     "start": 9.88,
+     "end": 10.0
+    },
+    {
+     "w": "genre",
+     "start": 10.0,
+     "end": 10.12
+    },
+    {
+     "w": "de",
+     "start": 10.12,
+     "end": 10.26
+    },
+    {
+     "w": "mec",
+     "start": 10.26,
+     "end": 10.36
+    },
+    {
+     "w": "qui",
+     "start": 10.36,
+     "end": 10.54
+    },
+    {
+     "w": "nourrit",
+     "start": 10.54,
+     "end": 10.8
+    },
+    {
+     "w": "tous",
+     "start": 10.8,
+     "end": 10.98
+    },
+    {
+     "w": "les",
+     "start": 10.98,
+     "end": 11.16
+    },
+    {
+     "w": "chats",
+     "start": 11.16,
+     "end": 11.26
+    },
+    {
+     "w": "errants",
+     "start": 11.26,
+     "end": 11.66
+    },
+    {
+     "w": "du",
+     "start": 11.66,
+     "end": 11.74
+    },
+    {
+     "w": "quartier.",
+     "start": 11.74,
+     "end": 12.08
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 12.18,
+   "end": 18.16,
+   "slot_end": 18.276,
+   "text": "Sauf que Jiwoo cache un truc. Il est rapide. Mais genre vraiment rapide, au point d'esquiver des voitures sans réfléchir.",
+   "words": [
+    {
+     "w": "Sauf",
+     "start": 12.18,
+     "end": 12.38
+    },
+    {
+     "w": "que",
+     "start": 12.38,
+     "end": 12.54
+    },
+    {
+     "w": "Jiwoo",
+     "start": 12.54,
+     "end": 12.92
+    },
+    {
+     "w": "cache",
+     "start": 12.92,
+     "end": 13.14
+    },
+    {
+     "w": "un",
+     "start": 13.14,
+     "end": 13.3
+    },
+    {
+     "w": "truc.",
+     "start": 13.3,
+     "end": 13.5
+    },
+    {
+     "w": "Il",
+     "start": 14.0,
+     "end": 14.14
+    },
+    {
+     "w": "est",
+     "start": 14.14,
+     "end": 14.24
+    },
+    {
+     "w": "rapide.",
+     "start": 14.24,
+     "end": 14.72
+    },
+    {
+     "w": "Mais",
+     "start": 15.16,
+     "end": 15.32
+    },
+    {
+     "w": "genre",
+     "start": 15.32,
+     "end": 15.56
+    },
+    {
+     "w": "vraiment",
+     "start": 15.56,
+     "end": 15.86
+    },
+    {
+     "w": "rapide,",
+     "start": 15.86,
+     "end": 16.3
+    },
+    {
+     "w": "au",
+     "start": 16.4,
+     "end": 16.52
+    },
+    {
+     "w": "point",
+     "start": 16.52,
+     "end": 16.64
+    },
+    {
+     "w": "d'esquiver",
+     "start": 16.64,
+     "end": 17.04
+    },
+    {
+     "w": "des",
+     "start": 17.04,
+     "end": 17.2
+    },
+    {
+     "w": "voitures",
+     "start": 17.2,
+     "end": 17.52
+    },
+    {
+     "w": "sans",
+     "start": 17.52,
+     "end": 17.74
+    },
+    {
+     "w": "réfléchir.",
+     "start": 17.74,
+     "end": 18.16
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 18.28,
+   "end": 23.82,
+   "slot_end": 23.919,
+   "text": "Un soir, il récupère un gros chat blessé. Et ce chat, c'est Kayden, un des éveillés les plus dangereux de la planète.",
+   "words": [
+    {
+     "w": "Un",
+     "start": 18.28,
+     "end": 18.38
+    },
+    {
+     "w": "soir,",
+     "start": 18.38,
+     "end": 18.58
+    },
+    {
+     "w": "il",
+     "start": 18.72,
+     "end": 18.8
+    },
+    {
+     "w": "récupère",
+     "start": 18.8,
+     "end": 19.14
+    },
+    {
+     "w": "un",
+     "start": 19.14,
+     "end": 19.32
+    },
+    {
+     "w": "gros",
+     "start": 19.32,
+     "end": 19.52
+    },
+    {
+     "w": "chat",
+     "start": 19.52,
+     "end": 19.72
+    },
+    {
+     "w": "blessé.",
+     "start": 19.72,
+     "end": 20.1
+    },
+    {
+     "w": "Et",
+     "start": 20.62,
+     "end": 20.74
+    },
+    {
+     "w": "ce",
+     "start": 20.74,
+     "end": 20.88
+    },
+    {
+     "w": "chat,",
+     "start": 20.88,
+     "end": 21.06
+    },
+    {
+     "w": "c'est",
+     "start": 21.06,
+     "end": 21.28
+    },
+    {
+     "w": "Kayden,",
+     "start": 21.28,
+     "end": 21.62
+    },
+    {
+     "w": "un",
+     "start": 22.1,
+     "end": 22.28
+    },
+    {
+     "w": "des",
+     "start": 22.28,
+     "end": 22.38
+    },
+    {
+     "w": "éveillés",
+     "start": 22.38,
+     "end": 22.7
+    },
+    {
+     "w": "les",
+     "start": 22.7,
+     "end": 22.88
+    },
+    {
+     "w": "plus",
+     "start": 22.88,
+     "end": 23.0
+    },
+    {
+     "w": "dangereux",
+     "start": 23.0,
+     "end": 23.3
+    },
+    {
+     "w": "de",
+     "start": 23.3,
+     "end": 23.44
+    },
+    {
+     "w": "la",
+     "start": 23.44,
+     "end": 23.54
+    },
+    {
+     "w": "planète.",
+     "start": 23.54,
+     "end": 23.82
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 23.92,
+   "end": 28.0,
+   "slot_end": 27.961,
+   "text": "Le mec a dû planquer son esprit dans un chat après un combat, et maintenant il se balade avec des pattes toutes rondes.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 23.92,
+     "end": 24.0
+    },
+    {
+     "w": "mec",
+     "start": 24.0,
+     "end": 24.1
+    },
+    {
+     "w": "a",
+     "start": 24.1,
+     "end": 24.22
+    },
+    {
+     "w": "dû",
+     "start": 24.22,
+     "end": 24.32
+    },
+    {
+     "w": "planquer",
+     "start": 24.32,
+     "end": 24.58
+    },
+    {
+     "w": "son",
+     "start": 24.58,
+     "end": 24.7
+    },
+    {
+     "w": "esprit",
+     "start": 24.7,
+     "end": 24.98
+    },
+    {
+     "w": "dans",
+     "start": 24.98,
+     "end": 25.14
+    },
+    {
+     "w": "un",
+     "start": 25.14,
+     "end": 25.28
+    },
+    {
+     "w": "chat",
+     "start": 25.28,
+     "end": 25.48
+    },
+    {
+     "w": "après",
+     "start": 25.48,
+     "end": 25.72
+    },
+    {
+     "w": "un",
+     "start": 25.72,
+     "end": 25.88
+    },
+    {
+     "w": "combat,",
+     "start": 25.88,
+     "end": 26.14
+    },
+    {
+     "w": "et",
+     "start": 26.28,
+     "end": 26.33
+    },
+    {
+     "w": "maintenant",
+     "start": 26.32,
+     "end": 26.56
+    },
+    {
+     "w": "il",
+     "start": 26.56,
+     "end": 26.66
+    },
+    {
+     "w": "se",
+     "start": 26.66,
+     "end": 26.74
+    },
+    {
+     "w": "balade",
+     "start": 26.74,
+     "end": 26.96
+    },
+    {
+     "w": "avec",
+     "start": 26.96,
+     "end": 27.1
+    },
+    {
+     "w": "des",
+     "start": 27.1,
+     "end": 27.28
+    },
+    {
+     "w": "pattes",
+     "start": 27.28,
+     "end": 27.52
+    },
+    {
+     "w": "toutes",
+     "start": 27.52,
+     "end": 27.76
+    },
+    {
+     "w": "rondes.",
+     "start": 27.76,
+     "end": 28.0
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 28.0,
+   "end": 33.82,
+   "slot_end": 33.897,
+   "text": "Kayden voit ce que Jiwoo sait faire et il décide d'en faire son disciple. Un maître ultra arrogant, un élève trop gentil, j'te jure le duo marche direct.",
+   "words": [
+    {
+     "w": "Kayden",
+     "start": 28.0,
+     "end": 28.24
+    },
+    {
+     "w": "voit",
+     "start": 28.24,
+     "end": 28.48
+    },
+    {
+     "w": "ce",
+     "start": 28.48,
+     "end": 28.54
+    },
+    {
+     "w": "que",
+     "start": 28.54,
+     "end": 28.62
+    },
+    {
+     "w": "Jiwoo",
+     "start": 28.62,
+     "end": 28.82
+    },
+    {
+     "w": "sait",
+     "start": 28.82,
+     "end": 28.94
+    },
+    {
+     "w": "faire",
+     "start": 28.94,
+     "end": 29.14
+    },
+    {
+     "w": "et",
+     "start": 29.14,
+     "end": 29.24
+    },
+    {
+     "w": "il",
+     "start": 29.24,
+     "end": 29.29
+    },
+    {
+     "w": "décide",
+     "start": 29.24,
+     "end": 29.44
+    },
+    {
+     "w": "d'en",
+     "start": 29.44,
+     "end": 29.56
+    },
+    {
+     "w": "faire",
+     "start": 29.56,
+     "end": 29.66
+    },
+    {
+     "w": "son",
+     "start": 29.66,
+     "end": 29.86
+    },
+    {
+     "w": "disciple.",
+     "start": 29.86,
+     "end": 30.28
+    },
+    {
+     "w": "Un",
+     "start": 30.72,
+     "end": 30.86
+    },
+    {
+     "w": "maître",
+     "start": 30.86,
+     "end": 31.04
+    },
+    {
+     "w": "ultra",
+     "start": 31.04,
+     "end": 31.32
+    },
+    {
+     "w": "arrogant,",
+     "start": 31.32,
+     "end": 31.66
+    },
+    {
+     "w": "un",
+     "start": 31.88,
+     "end": 31.96
+    },
+    {
+     "w": "élève",
+     "start": 31.96,
+     "end": 32.16
+    },
+    {
+     "w": "trop",
+     "start": 32.16,
+     "end": 32.28
+    },
+    {
+     "w": "gentil,",
+     "start": 32.28,
+     "end": 32.6
+    },
+    {
+     "w": "j'te",
+     "start": 32.7,
+     "end": 32.82
+    },
+    {
+     "w": "jure",
+     "start": 32.82,
+     "end": 32.96
+    },
+    {
+     "w": "le",
+     "start": 33.02,
+     "end": 33.12
+    },
+    {
+     "w": "duo",
+     "start": 33.12,
+     "end": 33.24
+    },
+    {
+     "w": "marche",
+     "start": 33.24,
+     "end": 33.5
+    },
+    {
+     "w": "direct.",
+     "start": 33.56,
+     "end": 33.82
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 33.9,
+   "end": 37.02,
+   "slot_end": 37.13,
+   "text": "Si t'aimes les recos manhwa comme ça, abonne-toi, j'en sors une nouvelle tous les jours.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 33.9,
+     "end": 34.02
+    },
+    {
+     "w": "t'aimes",
+     "start": 34.02,
+     "end": 34.14
+    },
+    {
+     "w": "les",
+     "start": 34.14,
+     "end": 34.28
+    },
+    {
+     "w": "recos",
+     "start": 34.28,
+     "end": 34.48
+    },
+    {
+     "w": "manhwa",
+     "start": 34.48,
+     "end": 34.76
+    },
+    {
+     "w": "comme",
+     "start": 34.76,
+     "end": 34.98
+    },
+    {
+     "w": "ça,",
+     "start": 34.98,
+     "end": 35.18
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 35.5,
+     "end": 35.84
+    },
+    {
+     "w": "j'en",
+     "start": 36.0,
+     "end": 36.08
+    },
+    {
+     "w": "sors",
+     "start": 36.08,
+     "end": 36.22
+    },
+    {
+     "w": "une",
+     "start": 36.22,
+     "end": 36.36
+    },
+    {
+     "w": "nouvelle",
+     "start": 36.36,
+     "end": 36.54
+    },
+    {
+     "w": "tous",
+     "start": 36.54,
+     "end": 36.72
+    },
+    {
+     "w": "les",
+     "start": 36.72,
+     "end": 36.86
+    },
+    {
+     "w": "jours.",
+     "start": 36.86,
+     "end": 37.02
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 37.12,
+   "end": 43.52,
+   "slot_end": 43.643,
+   "text": "Et attends, parce que c'est là que ça devient sérieux. Jiwoo tombe dans le monde des éveillés, avec des organisations qui recrutent les gamins doués.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 37.12,
+     "end": 37.22
+    },
+    {
+     "w": "attends,",
+     "start": 37.22,
+     "end": 37.4
+    },
+    {
+     "w": "parce",
+     "start": 37.6,
+     "end": 37.74
+    },
+    {
+     "w": "que",
+     "start": 37.74,
+     "end": 37.86
+    },
+    {
+     "w": "c'est",
+     "start": 37.86,
+     "end": 38.0
+    },
+    {
+     "w": "là",
+     "start": 38.0,
+     "end": 38.14
+    },
+    {
+     "w": "que",
+     "start": 38.14,
+     "end": 38.24
+    },
+    {
+     "w": "ça",
+     "start": 38.24,
+     "end": 38.36
+    },
+    {
+     "w": "devient",
+     "start": 38.36,
+     "end": 38.56
+    },
+    {
+     "w": "sérieux.",
+     "start": 38.56,
+     "end": 38.96
+    },
+    {
+     "w": "Jiwoo",
+     "start": 39.5,
+     "end": 39.86
+    },
+    {
+     "w": "tombe",
+     "start": 39.86,
+     "end": 40.08
+    },
+    {
+     "w": "dans",
+     "start": 40.08,
+     "end": 40.28
+    },
+    {
+     "w": "le",
+     "start": 40.28,
+     "end": 40.38
+    },
+    {
+     "w": "monde",
+     "start": 40.38,
+     "end": 40.54
+    },
+    {
+     "w": "des",
+     "start": 40.54,
+     "end": 40.8
+    },
+    {
+     "w": "éveillés,",
+     "start": 40.8,
+     "end": 41.28
+    },
+    {
+     "w": "avec",
+     "start": 41.34,
+     "end": 41.58
+    },
+    {
+     "w": "des",
+     "start": 41.58,
+     "end": 41.74
+    },
+    {
+     "w": "organisations",
+     "start": 41.74,
+     "end": 42.22
+    },
+    {
+     "w": "qui",
+     "start": 42.22,
+     "end": 42.52
+    },
+    {
+     "w": "recrutent",
+     "start": 42.52,
+     "end": 42.9
+    },
+    {
+     "w": "les",
+     "start": 42.9,
+     "end": 43.0
+    },
+    {
+     "w": "gamins",
+     "start": 43.0,
+     "end": 43.22
+    },
+    {
+     "w": "doués.",
+     "start": 43.22,
+     "end": 43.52
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 43.64,
+   "end": 48.66,
+   "slot_end": 48.755,
+   "text": "À l'école, y'a Subin, une fille qui frappe tellement fort qu'elle plie le métal. Elle va devenir sa rivale et sa meilleure alliée.",
+   "words": [
+    {
+     "w": "À",
+     "start": 43.64,
+     "end": 43.72
+    },
+    {
+     "w": "l'école,",
+     "start": 43.72,
+     "end": 43.9
+    },
+    {
+     "w": "y'a",
+     "start": 44.08,
+     "end": 44.14
+    },
+    {
+     "w": "Subin,",
+     "start": 44.14,
+     "end": 44.54
+    },
+    {
+     "w": "une",
+     "start": 44.72,
+     "end": 44.84
+    },
+    {
+     "w": "fille",
+     "start": 44.84,
+     "end": 45.02
+    },
+    {
+     "w": "qui",
+     "start": 45.02,
+     "end": 45.16
+    },
+    {
+     "w": "frappe",
+     "start": 45.16,
+     "end": 45.38
+    },
+    {
+     "w": "tellement",
+     "start": 45.38,
+     "end": 45.54
+    },
+    {
+     "w": "fort",
+     "start": 45.54,
+     "end": 45.84
+    },
+    {
+     "w": "qu'elle",
+     "start": 45.84,
+     "end": 46.06
+    },
+    {
+     "w": "plie",
+     "start": 46.06,
+     "end": 46.22
+    },
+    {
+     "w": "le",
+     "start": 46.22,
+     "end": 46.34
+    },
+    {
+     "w": "métal.",
+     "start": 46.34,
+     "end": 46.64
+    },
+    {
+     "w": "Elle",
+     "start": 47.02,
+     "end": 47.1
+    },
+    {
+     "w": "va",
+     "start": 47.1,
+     "end": 47.2
+    },
+    {
+     "w": "devenir",
+     "start": 47.2,
+     "end": 47.4
+    },
+    {
+     "w": "sa",
+     "start": 47.4,
+     "end": 47.62
+    },
+    {
+     "w": "rivale",
+     "start": 47.62,
+     "end": 47.84
+    },
+    {
+     "w": "et",
+     "start": 47.84,
+     "end": 48.04
+    },
+    {
+     "w": "sa",
+     "start": 48.04,
+     "end": 48.14
+    },
+    {
+     "w": "meilleure",
+     "start": 48.14,
+     "end": 48.42
+    },
+    {
+     "w": "alliée.",
+     "start": 48.42,
+     "end": 48.66
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 48.76,
+   "end": 54.54,
+   "slot_end": 54.613,
+   "text": "Et les combats, frr, c'est chaud. Jiwoo bouge tellement vite que le dessin te donne le tournis, chaque coup claque.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 48.76,
+     "end": 48.88
+    },
+    {
+     "w": "les",
+     "start": 48.88,
+     "end": 49.0
+    },
+    {
+     "w": "combats,",
+     "start": 49.0,
+     "end": 49.38
+    },
+    {
+     "w": "frr,",
+     "start": 49.38,
+     "end": 49.54
+    },
+    {
+     "w": "c'est",
+     "start": 49.54,
+     "end": 50.08
+    },
+    {
+     "w": "chaud.",
+     "start": 50.08,
+     "end": 50.3
+    },
+    {
+     "w": "Jiwoo",
+     "start": 50.96,
+     "end": 51.36
+    },
+    {
+     "w": "bouge",
+     "start": 51.36,
+     "end": 51.6
+    },
+    {
+     "w": "tellement",
+     "start": 51.6,
+     "end": 51.78
+    },
+    {
+     "w": "vite",
+     "start": 51.78,
+     "end": 52.08
+    },
+    {
+     "w": "que",
+     "start": 52.08,
+     "end": 52.24
+    },
+    {
+     "w": "le",
+     "start": 52.24,
+     "end": 52.34
+    },
+    {
+     "w": "dessin",
+     "start": 52.34,
+     "end": 52.66
+    },
+    {
+     "w": "te",
+     "start": 52.66,
+     "end": 52.8
+    },
+    {
+     "w": "donne",
+     "start": 52.8,
+     "end": 52.94
+    },
+    {
+     "w": "le",
+     "start": 52.94,
+     "end": 53.26
+    },
+    {
+     "w": "tournis,",
+     "start": 53.26,
+     "end": 53.58
+    },
+    {
+     "w": "chaque",
+     "start": 53.58,
+     "end": 53.9
+    },
+    {
+     "w": "coup",
+     "start": 53.9,
+     "end": 54.22
+    },
+    {
+     "w": "claque.",
+     "start": 54.22,
+     "end": 54.54
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 54.7,
+   "end": 59.32,
+   "slot_end": 59.369,
+   "text": "Y'a aussi Kartein, un soigneur complètement barré qui rêve d'avoir des cobayes. Chaque fois qu'il apparaît, j'suis mort de rire.",
+   "words": [
+    {
+     "w": "Y'a",
+     "start": 54.7,
+     "end": 54.75
+    },
+    {
+     "w": "aussi",
+     "start": 54.74,
+     "end": 54.92
+    },
+    {
+     "w": "Kartein,",
+     "start": 54.92,
+     "end": 55.15
+    },
+    {
+     "w": "un",
+     "start": 55.15,
+     "end": 55.38
+    },
+    {
+     "w": "soigneur",
+     "start": 55.48,
+     "end": 55.94
+    },
+    {
+     "w": "complètement",
+     "start": 55.94,
+     "end": 56.24
+    },
+    {
+     "w": "barré",
+     "start": 56.24,
+     "end": 56.66
+    },
+    {
+     "w": "qui",
+     "start": 56.66,
+     "end": 56.82
+    },
+    {
+     "w": "rêve",
+     "start": 56.82,
+     "end": 56.96
+    },
+    {
+     "w": "d'avoir",
+     "start": 56.96,
+     "end": 57.18
+    },
+    {
+     "w": "des",
+     "start": 57.18,
+     "end": 57.4
+    },
+    {
+     "w": "cobayes.",
+     "start": 57.4,
+     "end": 57.76
+    },
+    {
+     "w": "Chaque",
+     "start": 57.78,
+     "end": 57.88
+    },
+    {
+     "w": "fois",
+     "start": 57.88,
+     "end": 58.04
+    },
+    {
+     "w": "qu'il",
+     "start": 58.04,
+     "end": 58.18
+    },
+    {
+     "w": "apparaît,",
+     "start": 58.18,
+     "end": 58.54
+    },
+    {
+     "w": "j'suis",
+     "start": 58.64,
+     "end": 58.76
+    },
+    {
+     "w": "mort",
+     "start": 58.76,
+     "end": 58.94
+    },
+    {
+     "w": "de",
+     "start": 58.94,
+     "end": 59.1
+    },
+    {
+     "w": "rire.",
+     "start": 59.1,
+     "end": 59.32
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 59.38,
+   "end": 66.04,
+   "slot_end": 66.155,
+   "text": "Mon avis ? C'est le meilleur mélange action et humour que j'ai lu en webtoon. Et c'est le scénariste de Noblesse derrière, ça se sent.",
+   "words": [
+    {
+     "w": "Mon",
+     "start": 59.38,
+     "end": 59.46
+    },
+    {
+     "w": "avis",
+     "start": 59.46,
+     "end": 59.64
+    },
+    {
+     "w": "?",
+     "start": 59.64,
+     "end": 60.04
+    },
+    {
+     "w": "C'est",
+     "start": 60.1,
+     "end": 60.3
+    },
+    {
+     "w": "le",
+     "start": 60.3,
+     "end": 60.4
+    },
+    {
+     "w": "meilleur",
+     "start": 60.4,
+     "end": 60.72
+    },
+    {
+     "w": "mélange",
+     "start": 60.72,
+     "end": 61.22
+    },
+    {
+     "w": "action",
+     "start": 61.38,
+     "end": 61.58
+    },
+    {
+     "w": "et",
+     "start": 61.58,
+     "end": 61.88
+    },
+    {
+     "w": "humour",
+     "start": 61.88,
+     "end": 62.1
+    },
+    {
+     "w": "que",
+     "start": 62.1,
+     "end": 62.32
+    },
+    {
+     "w": "j'ai",
+     "start": 62.32,
+     "end": 62.46
+    },
+    {
+     "w": "lu",
+     "start": 62.46,
+     "end": 62.6
+    },
+    {
+     "w": "en",
+     "start": 62.6,
+     "end": 62.76
+    },
+    {
+     "w": "webtoon.",
+     "start": 62.76,
+     "end": 63.14
+    },
+    {
+     "w": "Et",
+     "start": 63.64,
+     "end": 63.86
+    },
+    {
+     "w": "c'est",
+     "start": 63.86,
+     "end": 63.98
+    },
+    {
+     "w": "le",
+     "start": 63.98,
+     "end": 64.1
+    },
+    {
+     "w": "scénariste",
+     "start": 64.1,
+     "end": 64.54
+    },
+    {
+     "w": "de",
+     "start": 64.54,
+     "end": 64.72
+    },
+    {
+     "w": "Noblesse",
+     "start": 64.72,
+     "end": 65.14
+    },
+    {
+     "w": "derrière,",
+     "start": 65.14,
+     "end": 65.34
+    },
+    {
+     "w": "ça",
+     "start": 65.62,
+     "end": 65.72
+    },
+    {
+     "w": "se",
+     "start": 65.72,
+     "end": 65.86
+    },
+    {
+     "w": "sent.",
+     "start": 65.86,
+     "end": 66.04
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 66.14,
+   "end": 71.54,
+   "slot_end": 72.076,
+   "text": "Et l'anime arrive. Donc c'est le moment parfait pour lire le manhwa avant tout le monde, il est sur Webtoon en français.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 66.14,
+     "end": 66.26
+    },
+    {
+     "w": "l'anime",
+     "start": 66.26,
+     "end": 66.74
+    },
+    {
+     "w": "arrive.",
+     "start": 66.74,
+     "end": 66.96
+    },
+    {
+     "w": "Donc",
+     "start": 67.38,
+     "end": 67.48
+    },
+    {
+     "w": "c'est",
+     "start": 67.48,
+     "end": 67.62
+    },
+    {
+     "w": "le",
+     "start": 67.62,
+     "end": 67.7
+    },
+    {
+     "w": "moment",
+     "start": 67.7,
+     "end": 67.84
+    },
+    {
+     "w": "parfait",
+     "start": 67.84,
+     "end": 68.18
+    },
+    {
+     "w": "pour",
+     "start": 68.18,
+     "end": 68.44
+    },
+    {
+     "w": "lire",
+     "start": 68.44,
+     "end": 68.62
+    },
+    {
+     "w": "le",
+     "start": 68.62,
+     "end": 68.8
+    },
+    {
+     "w": "manhwa",
+     "start": 68.8,
+     "end": 69.1
+    },
+    {
+     "w": "avant",
+     "start": 69.1,
+     "end": 69.46
+    },
+    {
+     "w": "tout",
+     "start": 69.46,
+     "end": 69.72
+    },
+    {
+     "w": "le",
+     "start": 69.72,
+     "end": 69.82
+    },
+    {
+     "w": "monde,",
+     "start": 69.82,
+     "end": 70.02
+    },
+    {
+     "w": "il",
+     "start": 70.02,
+     "end": 70.11
+    },
+    {
+     "w": "est",
+     "start": 70.11,
+     "end": 70.2
+    },
+    {
+     "w": "sur",
+     "start": 70.2,
+     "end": 70.46
+    },
+    {
+     "w": "Webtoon",
+     "start": 70.46,
+     "end": 71.02
+    },
+    {
+     "w": "en",
+     "start": 71.02,
+     "end": 71.22
+    },
+    {
+     "w": "français.",
+     "start": 71.22,
+     "end": 71.54
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 72.0,
+   "end": 75.8,
+   "slot_end": 75.92,
+   "text": "Ce manhwa, c'est Eleceed. Tu l'as déjà lu ou tu commences ce soir ? Dis-moi en com'.",
+   "words": [
+    {
+     "w": "Ce",
+     "start": 72.0,
+     "end": 72.16
+    },
+    {
+     "w": "manhwa,",
+     "start": 72.16,
+     "end": 72.46
+    },
+    {
+     "w": "c'est",
+     "start": 72.58,
+     "end": 72.76
+    },
+    {
+     "w": "Eleceed.",
+     "start": 72.76,
+     "end": 73.32
+    },
+    {
+     "w": "Tu",
+     "start": 73.64,
+     "end": 73.74
+    },
+    {
+     "w": "l'as",
+     "start": 73.74,
+     "end": 73.84
+    },
+    {
+     "w": "déjà",
+     "start": 73.84,
+     "end": 74.02
+    },
+    {
+     "w": "lu",
+     "start": 74.02,
+     "end": 74.2
+    },
+    {
+     "w": "ou",
+     "start": 74.2,
+     "end": 74.3
+    },
+    {
+     "w": "tu",
+     "start": 74.3,
+     "end": 74.38
+    },
+    {
+     "w": "commences",
+     "start": 74.38,
+     "end": 74.66
+    },
+    {
+     "w": "ce",
+     "start": 74.66,
+     "end": 74.74
+    },
+    {
+     "w": "soir",
+     "start": 74.74,
+     "end": 74.96
+    },
+    {
+     "w": "?",
+     "start": 75.34,
+     "end": 75.44
+    },
+    {
+     "w": "Dis-moi",
+     "start": 75.44,
+     "end": 75.56
+    },
+    {
+     "w": "en",
+     "start": 75.56,
+     "end": 75.68
+    },
+    {
+     "w": "com'.",
+     "start": 75.68,
+     "end": 75.8
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "start": 75.94,
+   "end": 78.48,
+   "slot_end": 79.235,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 75.94,
+     "end": 76.16
+    },
+    {
+     "w": "Asura.",
+     "start": 76.16,
+     "end": 76.54
+    },
+    {
+     "w": "On",
+     "start": 77.08,
+     "end": 77.33
+    },
+    {
+     "w": "se",
+     "start": 77.33,
+     "end": 77.58
+    },
+    {
+     "w": "capte",
+     "start": 77.58,
+     "end": 77.83
+    },
+    {
+     "w": "au",
+     "start": 77.83,
+     "end": 78.08
+    },
+    {
+     "w": "prochain",
+     "start": 78.08,
+     "end": 78.13
+    },
+    {
+     "w": "épisode.",
+     "start": 78.08,
+     "end": 78.48
+    }
+   ]
+  }
+ ],
+ "aligned": 0.991
+}
