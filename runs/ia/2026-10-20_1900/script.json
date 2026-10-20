@@ -1,0 +1,211 @@
+{
+  "title": "3 Projets Claude à créer, même en gratuit",
+  "theme": "ia",
+  "pillar": "ia",
+  "format": "top",
+  "music": "pote",
+  "cover": {
+    "text": "Arrête de tout réexpliquer à Claude",
+    "highlight": [
+      "réexpliquer"
+    ],
+    "emoji": "🗂️",
+    "sub": "gratuit, 3 idées"
+  },
+  "hook_text": "Tu réexpliques ta vie à Claude à chaque nouvelle conversation ?",
+  "segments": [
+    {
+      "text": "Tu réexpliques ta vie à Claude à chaque nouvelle conversation ?",
+      "emphasis": [
+        "chaque"
+      ]
+    },
+    {
+      "text": "Il existe une fonction gratuite pour ne plus jamais le faire. Elle s'appelle les Projets.",
+      "visual": {
+        "kind": "title",
+        "kicker": "Gratuit",
+        "text": "Les Projets de Claude",
+        "highlight": "Projets",
+        "sub": "un dossier par sujet"
+      }
+    },
+    {
+      "text": "Un projet, c'est un dossier. Tu y ranges tes documents et tes consignes, une seule fois. Ensuite, chaque nouvelle conversation part de là.",
+      "visual": {
+        "kind": "compare",
+        "left": {
+          "title": "Sans projet",
+          "items": [
+            "Tu recolles ton CV",
+            "Tu réexpliques tout"
+          ]
+        },
+        "right": {
+          "title": "Avec projet",
+          "items": [
+            "Documents déjà là",
+            "Consignes gardées"
+          ]
+        }
+      }
+    },
+    {
+      "text": "Sur le plan gratuit, tu as droit à cinq projets. C'est largement assez pour commencer.",
+      "visual": {
+        "kind": "stat",
+        "value": 5,
+        "suffix": "",
+        "label": "projets sur le plan gratuit",
+        "source": "support.claude.com"
+      },
+      "sfx": true
+    },
+    {
+      "text": "Voici les trois que je créerais dès ce soir : la paperasse, l'emploi, et les repas de la semaine.",
+      "visual": {
+        "kind": "list",
+        "title": "3 projets à créer",
+        "items": [
+          "Paperasse",
+          "Recherche d'emploi",
+          "Repas de la semaine"
+        ],
+        "at": [
+          "paperasse",
+          "emploi",
+          "repas"
+        ]
+      }
+    },
+    {
+      "text": "Numéro un, la paperasse. Tu déposes ton bail, ton contrat de travail et celui de ta mutuelle.",
+      "visual": {
+        "kind": "title",
+        "kicker": "Projet 1",
+        "text": "Paperasse",
+        "highlight": "Paperasse",
+        "sub": "bail, contrat, mutuelle"
+      }
+    },
+    {
+      "text": "Le jour où tu as un doute, tu demandes : mon propriétaire peut-il augmenter le loyer cette année ? Claude répond avec tes documents sous les yeux.",
+      "visual": {
+        "kind": "chat",
+        "name": "Claude",
+        "user": "Mon propriétaire peut-il augmenter le loyer cette année ?",
+        "assistant": "Je regarde ton bail. Voici le passage exact qui parle de la révision du loyer, et ce qu'il prévoit."
+      }
+    },
+    {
+      "text": "Mais garde le réflexe : pour une vraie décision, vérifie le passage cité, ou demande à un professionnel."
+    },
+    {
+      "text": "Numéro deux, la recherche d'emploi. Tu ajoutes ton CV, et une consigne : écris simple, sans formules toutes faites.",
+      "visual": {
+        "kind": "code",
+        "file": "Consignes du projet",
+        "code": "Écris simple.\nPas de formules toutes faites.\nUne page maximum.",
+        "highlight": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "text": "Ensuite, tu colles une annonce, et la lettre de motivation suit ton vrai parcours, sans rien réexpliquer.",
+      "visual": {
+        "kind": "title",
+        "kicker": "Projet 2",
+        "text": "Une annonce, une lettre",
+        "highlight": "lettre",
+        "sub": "ton CV est déjà là"
+      }
+    },
+    {
+      "text": "Numéro trois, les repas de la semaine. Tu écris tes goûts, ton budget, et ce que les enfants refusent de manger.",
+      "visual": {
+        "kind": "list",
+        "title": "Projet 3 : les repas",
+        "items": [
+          "Tes goûts",
+          "Ton budget",
+          "Ce qu'ils refusent"
+        ],
+        "at": [
+          "goûts",
+          "budget",
+          "refusent"
+        ]
+      }
+    },
+    {
+      "text": "Chaque dimanche soir, une seule phrase suffit : fais-moi les menus et la liste de courses.",
+      "visual": {
+        "kind": "chat",
+        "name": "Claude",
+        "user": "Fais-moi les menus de la semaine et la liste de courses.",
+        "assistant": "Lundi : gratin de pâtes. Mardi : omelette et salade. Mercredi : poulet au four. Voici la liste de courses, rangée par rayon."
+      }
+    },
+    {
+      "text": "Pour en créer un, clique sur Projets dans la barre de gauche. Donne un nom, ajoute tes fichiers, et écris tes consignes.",
+      "visual": {
+        "kind": "list",
+        "title": "Créer un projet",
+        "items": [
+          "Clique sur Projets",
+          "Donne un nom",
+          "Ajoute tes fichiers",
+          "Écris tes consignes"
+        ],
+        "at": [
+          "Projets",
+          "nom",
+          "fichiers",
+          "consignes"
+        ]
+      }
+    },
+    {
+      "text": "Une limite à connaître : en gratuit, impossible de partager un projet. Et n'y mets jamais tes codes bancaires ni tes mots de passe.",
+      "visual": {
+        "kind": "compare",
+        "left": {
+          "title": "Jamais",
+          "items": [
+            "Codes bancaires",
+            "Mots de passe"
+          ]
+        },
+        "right": {
+          "title": "Oui",
+          "items": [
+            "Contrats",
+            "CV",
+            "Menus"
+          ]
+        }
+      }
+    },
+    {
+      "text": "Et toi, quel serait le premier projet que tu crées ? Dis-le en commentaire.",
+      "visual": {
+        "kind": "title",
+        "kicker": "À toi",
+        "text": "Ton premier projet ?",
+        "highlight": "projet",
+        "sub": "dis-le en commentaire"
+      },
+      "stamp": "commentaire"
+    }
+  ],
+  "caption": "Arrête de tout réexpliquer à Claude : les Projets sont gratuits (5 max) 🗂️ Infos officielles : https://support.claude.com/en/articles/9517075-what-are-projects",
+  "hashtags": [
+    "#ia",
+    "#claude",
+    "#astuce",
+    "#organisation",
+    "#productivite"
+  ]
+}

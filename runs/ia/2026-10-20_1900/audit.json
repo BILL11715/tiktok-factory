@@ -1,0 +1,63 @@
+{
+ "stamp": "2026-10-20_1900",
+ "duration": 88.9,
+ "lead": 0.6,
+ "cps": 24.6,
+ "accuracy": 0.932,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "tu reexpliques",
+   "entendu": "je reexplique"
+  },
+  {
+   "dit": "ranges",
+   "entendu": "range"
+  },
+  {
+   "dit": "creerais",
+   "entendu": "creerai"
+  },
+  {
+   "dit": "paperasse",
+   "entendu": "paparaz"
+  },
+  {
+   "dit": "paperasse",
+   "entendu": "paparaz"
+  },
+  {
+   "dit": "le",
+   "entendu": "un"
+  },
+  {
+   "dit": "peut il augmenter",
+   "entendu": "que tu l augmentais"
+  },
+  {
+   "dit": "ajoutes",
+   "entendu": "rajoutes"
+  },
+  {
+   "dit": "ecris",
+   "entendu": "ecrit"
+  },
+  {
+   "dit": "formules toutes faites",
+   "entendu": "formule toute faite"
+  },
+  {
+   "dit": "projets",
+   "entendu": "projet"
+  },
+  {
+   "dit": "limite",
+   "entendu": "unitte"
+  },
+  {
+   "dit": "y mets",
+   "entendu": "imme"
+  }
+ ],
+ "alerts": []
+}
