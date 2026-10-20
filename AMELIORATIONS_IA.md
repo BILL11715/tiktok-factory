@@ -17,6 +17,7 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
    18/10 08:00 « l azultat ») ; écrire « Au final ? » (bien entendu au 2e rendu du 18/10).
    Même chose pour « Exemple, » en ouverture : mal compris sur 2 vidéos (17/10 19:00 avalé, 18/10 17:00 « mes armes »),
    et « Prends un... » (18/10 17:00 « si tu es ») ; écrire « Imagine un plombier. » ou glisser l'exemple dans la phrase.
+   Même chose pour « Puis » en ouverture : compté 3 fois dans les mots mal compris (20/10 08:00 « lui ») ; écrire « Ensuite, ».
 6. Mettre « SEO Radius » en fin de phrase, jamais suivi d'un verbe court : les mots qui le suivent sont avalés
    sur 3 vidéos (14/10 « aura dus », « radius ed » ; 16/10 « SEO Radius. Tape un » entendu « au radus ca par »).
    Écrire « Pour ça, j'utilise SEO Radius. » puis une nouvelle phrase qui commence par un mot d'au moins
@@ -26,6 +27,7 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
 7. Durée : à débit 25 car./s, 1 450 à 1 480 caractères ne donnent que 77 à 81 s (17/10 22:00, 18/10 12:00, 18/10 22:00).
    Viser 1 520 à 1 600 caractères pour tenir 82 à 90 s, sans dépasser 16 segments. Au-delà, ça déborde : 1 619 car. = 92,9 s (19/10 19:00),
    et la vidéo du 19/10 17:00 a atteint 97,9 s (hors cible 95 s). Rester sous 1 600.
+   Depuis le 19/10, 1 550 à 1 560 car. donnent déjà 90 à 93 s (19/10 22:00 93,7 s ; 20/10 08:00 92,9 s) : viser 1 500 à 1 550.
 
 ## Pistes pour Bill (changements de code proposés, à valider par lui)
 - Audit : comparer la transcription au texte écrit du script, pas à la graphie phonétique du lexique.
@@ -35,6 +37,9 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
 - Audit : relancer `factory.audit` sur le même run ajoute une 2e ligne identique dans `audits_ia.jsonl` (doublons 14/10 12:00 et 19:00), ce qui gonfle le compte des « mots mal compris sur plusieurs vidéos ». Remplacer la ligne du même stamp au lieu d'en ajouter une.
 
 ## Journal (1 ligne par revue, la plus récente en haut, 20 lignes maximum)
+- 2026-10-20 (08:00) : 1er rendu à 93 % avec alerte (« relis » entendu « venez », « montre » entendu « entre », « puis » entendu « lui ») : reformulés
+  (« vérifie », « fais-lui voir », « ensuite »), 2e rendu à 91 % (écarts surtout homophones et graphie : freelance, IA, ses/ces, peut/peu), débit 24,5 car./s, 92,9 s
+  pour 1 560 car. Sur les 10 derniers audits, débit 23,9 à 25,2 car./s, 7 sans alerte. Règle 5 étendue à « Puis », règle 7 resserrée (1 500 à 1 550 car.).
 - 2026-10-19 (19:00) : sans alerte au 1er rendu (débit 24,5 car./s, prononciation 94 %, 92,9 s, 1 619 car.). Sur les 10 derniers audits, débit 23,9 à 25,2 car./s,
   8 sans alerte. 2 vidéos du jour au-dessus de 90 s (97,9 et 92,9 s) : règle 7 précisée (rester sous 1 600 car.). « jour J » entendu « jorgi » et « onde » entendu « tombe »
   sur 1 seule vidéo : pas de règle. Pas de nouveau mot au lexique.
