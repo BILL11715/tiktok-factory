@@ -1,0 +1,134 @@
+{
+ "title": "Top 5 des persos les plus chaotiques de Bocchi the Rock",
+ "format": "top",
+ "tone": "hype",
+ "music": "hype2",
+ "animes": [
+  "Bocchi the Rock! 2nd Season"
+ ],
+ "media": {
+  "Bocchi the Rock! 2nd Season": "anime"
+ },
+ "cover": {
+  "text": "Le perso le plus chaotique de Bocchi",
+  "highlight": [
+   "chaotique"
+  ],
+  "emoji": "🎸"
+ },
+ "hook_text": "Elle mange de l'herbe pour survivre, et c'est même pas la plus chaotique",
+ "spoiler": false,
+ "segments": [
+  {
+   "text": "Elle mange de l'herbe pour survivre, et c'est même pas la plus chaotique.",
+   "sfx": true,
+   "emphasis": [
+    "herbe"
+   ],
+   "scene": "a blue haired girl with a bass guitar looking bored and hungry"
+  },
+  {
+   "text": "[whispering] Reste jusqu'au numéro 1, ce qu'elle fait sur scène, personne l'a vu venir.",
+   "scene": "a shy pink haired girl in a pink tracksuit holding a guitar alone in the dark"
+  },
+  {
+   "text": "Bocchi the Rock, c'est quatre filles qui montent un groupe de rock. Sur le papier c'est mignon, en vrai c'est un asile. Et la saison 2 est annoncée.",
+   "scene": "four teenage girls playing rock music together in a small live house",
+   "shots": [
+    {
+     "kind": "wide"
+    }
+   ]
+  },
+  {
+   "text": "Numéro 5, Seika, la gérante de la salle de concert. Elle te parle comme à un déchet, mais avec sa petite sœur Nijika, elle fond.",
+   "overlay": "#5",
+   "emphasis": [
+    "Nijika"
+   ],
+   "scene": "a stern older woman with long blonde hair behind a bar counter"
+  },
+  {
+   "text": "Numéro 4, Ryo. La bassiste stylée, toujours fauchée. Elle claque tout dans le matos, et quand y'a plus rien, frr, elle mange l'herbe du trottoir.",
+   "overlay": "#4",
+   "stamp": "FAUCHÉE",
+   "emphasis": [
+    "l'herbe"
+   ],
+   "scene": "a cool blue haired girl with a bass guitar eating grass by the street"
+  },
+  {
+   "text": "[laughing] Numéro 3, Kita. Son aura aveugle les gens. Sauf qu'elle a menti pour rentrer dans le groupe, elle savait pas jouer, et elle s'est barrée avant le premier concert.",
+   "overlay": "#3",
+   "emphasis": [
+    "menti"
+   ],
+   "scene": "a bright red haired girl smiling with sparkles around her"
+  },
+  {
+   "text": "C'est pour ça que Bocchi a été recrutée. Si tu kiffes ce genre de top, abonne-toi, j'en sors tous les jours.",
+   "cta": true
+  },
+  {
+   "text": "Numéro 2, Kikuri, la bassiste de Sick Hack. [excited] Bourrée H24, avec sa brique de saké. C'est elle qui traîne Bocchi jouer en pleine rue.",
+   "overlay": "#2",
+   "sfx": true,
+   "emphasis": [
+    "bourrée"
+   ],
+   "scene": "a drunk purple haired woman laughing and drinking from a carton"
+  },
+  {
+   "text": "Et le numéro 1, c'est Bocchi, Hitori Gotoh. Génie de la guitare sur internet, mais en vrai elle panique au point de fondre en flaque.",
+   "overlay": "#1",
+   "sfx": true,
+   "emphasis": [
+    "flaque"
+   ],
+   "scene": "a pink haired girl melting into a puddle from anxiety"
+  },
+  {
+   "text": "Pour son premier concert avec le groupe, elle a joué cachée dans un carton de mangues.",
+   "emphasis": [
+    "mangues"
+   ],
+   "scene": "a girl playing guitar hidden inside a cardboard box on stage"
+  },
+  {
+   "text": "Mais attends, le vrai moment, c'est le festival du lycée. En plein concert, une corde de sa guitare pète.",
+   "grade": "bw",
+   "sfx": true,
+   "scene": "a guitar string snapping on stage in front of a crowd"
+  },
+  {
+   "text": "[whispering] Kita improvise pour gagner du temps. Et Bocchi chope le verre de saké vide de Kikuri pour jouer son solo au bottleneck.",
+   "emphasis": [
+    "bottleneck"
+   ],
+   "scene": "a girl playing a guitar solo with a glass slide under stage lights"
+  },
+  {
+   "text": "[excited] Le public devient fou. Et là, portée par l'adrénaline, elle tente un slam dans la foule.",
+   "scene": "a girl jumping off the stage into the crowd at a school festival"
+  },
+  {
+   "text": "Sauf que personne la rattrape. Elle s'écrase par terre devant tout le lycée. Génie et catastrophe dans la même seconde.",
+   "grade": "bw",
+   "stamp": "CHAOS",
+   "scene": "a girl lying face down on the floor in front of a crowd"
+  },
+  {
+   "text": "Moi franchement, Ryo méritait le podium rien que pour l'herbe. C'est quoi ton top 1 ? Dis-moi en com'.",
+   "scene": "four girls of a rock band laughing together after a concert"
+  }
+ ],
+ "caption": "Ryo qui mange de l'herbe c'est même pas le pire 💀 c'est quoi ton top 1 ?",
+ "hashtags": [
+  "#anime",
+  "#manga",
+  "#animefr",
+  "#otakufr",
+  "#bocchitherock",
+  "#topanime"
+ ]
+}
