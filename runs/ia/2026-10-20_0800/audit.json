@@ -1,0 +1,69 @@
+{
+ "stamp": "2026-10-20_0800",
+ "duration": 92.9,
+ "lead": 0.6,
+ "cps": 24.5,
+ "accuracy": 0.912,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "audit s e o",
+   "entendu": "obit seo"
+  },
+  {
+   "dit": "fri lance",
+   "entendu": "freelance"
+  },
+  {
+   "dit": "fais",
+   "entendu": "c est"
+  },
+  {
+   "dit": "ces",
+   "entendu": "ses"
+  },
+  {
+   "dit": "pour preparer",
+   "entendu": "bon reparer"
+  },
+  {
+   "dit": "o radiusse",
+   "entendu": "ou radius"
+  },
+  {
+   "dit": "opportunite",
+   "entendu": "opportunites"
+  },
+  {
+   "dit": "i a",
+   "entendu": "ia"
+  },
+  {
+   "dit": "l i",
+   "entendu": "il y"
+  },
+  {
+   "dit": "peut",
+   "entendu": "peu"
+  },
+  {
+   "dit": "dessus ses concurrents",
+   "entendu": "desus c est concurrent"
+  },
+  {
+   "dit": "la",
+   "entendu": "pas"
+  },
+  {
+   "dit": "elle ouvre",
+   "entendu": "elles ouvrent"
+  },
+  {
+   "dit": "audit",
+   "entendu": "ou dit"
+  }
+ ],
+ "alerts": [
+  "prononciation 91% des mots compris (min 93%)"
+ ]
+}

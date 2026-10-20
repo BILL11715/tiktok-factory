@@ -1,0 +1,218 @@
+{
+ "title": "Le gérant ne lira pas ton audit de 40 pages",
+ "theme": "seo",
+ "pillar": "seo-radius",
+ "format": "mythe",
+ "music": "pote",
+ "cover": {
+  "text": "Ton audit finit à la poubelle",
+  "highlight": [
+   "poubelle"
+  ],
+  "emoji": "🗑️",
+  "sub": "fais une seule page"
+ },
+ "hook_text": "Un audit SEO de 40 pages ? Le gérant ne le lira jamais.",
+ "segments": [
+  {
+   "text": "Un audit SEO de 40 pages ? Le gérant ne le lira jamais.",
+   "emphasis": [
+    "40 pages"
+   ]
+  },
+  {
+   "text": "C'est le mythe du freelance qui débute : plus le rapport est épais, plus il fait sérieux.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Le mythe",
+    "text": "Plus c'est long, plus ça vend",
+    "highlight": "long"
+   }
+  },
+  {
+   "text": "En réalité, un artisan n'a pas le temps de lire. Il ouvre le fichier, il voit des graphiques, et il referme.",
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "Audit de 40 pages",
+     "items": [
+      "Du jargon",
+      "Des graphiques",
+      "Jamais lu"
+     ]
+    },
+    "right": {
+     "title": "Une seule page",
+     "items": [
+      "Ses concurrents",
+      "Sa place",
+      "Une question"
+     ]
+    }
+   }
+  },
+  {
+   "text": "Ce qui le fait réagir, c'est de voir ses concurrents passer devant lui sur Google.",
+   "visual": {
+    "kind": "search",
+    "query": "garagiste Nantes",
+    "results": [
+     {
+      "name": "Garage du Centre",
+      "note": "page 1",
+      "rating": "4,3"
+     },
+     {
+      "name": "Auto Plus",
+      "note": "page 1",
+      "rating": "4,1"
+     },
+     {
+      "name": "Garage Martin",
+      "note": "page 2",
+      "rating": "4,8"
+     }
+    ],
+    "pick": 2
+   }
+  },
+  {
+   "text": "Imagine un garagiste à Nantes. Ses avis sont excellents, mais il est en page 2, derrière trois garages moins bien notés. Pour lui, c'est injuste."
+  },
+  {
+   "text": "Fais-lui voir ces trois noms, avec sa place à lui juste en dessous. Là, il écoute vraiment.",
+   "stamp": "il écoute",
+   "sfx": true
+  },
+  {
+   "text": "Pour préparer ce comparatif en quelques minutes, j'utilise SEO Radius.",
+   "visual": {
+    "kind": "card",
+    "emoji": "📍",
+    "owner": "seoradius.fr",
+    "name": "SEO Radius",
+    "desc": "Prospection SEO locale",
+    "tags": [
+     "benchmark IA",
+     "score /100"
+    ],
+    "url": "seoradius.fr"
+   }
+  },
+  {
+   "text": "Ensuite, tu choisis un métier et une ville. L'outil analyse jusqu'à 50 résultats Google, sans les annuaires.",
+   "visual": {
+    "kind": "stat",
+    "value": 50,
+    "label": "résultats Google analysés",
+    "source": "seoradius.fr"
+   }
+  },
+  {
+   "text": "Chaque entreprise reçoit un score d'opportunité sur 100. C'est une estimation, qui sert à trier.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Score d'opportunité",
+    "text": "Une estimation pour trier",
+    "highlight": "trier"
+   }
+  },
+  {
+   "text": "Ensuite, le benchmark, généré par l'IA, met ton prospect face aux entreprises qui le dépassent.",
+   "emphasis": [
+    "benchmark"
+   ],
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "Garage Martin",
+     "items": [
+      "Avis 4,8",
+      "Page 2"
+     ]
+    },
+    "right": {
+     "title": "Les 3 premiers",
+     "items": [
+      "Avis plus bas",
+      "Page 1"
+     ]
+    }
+   }
+  },
+  {
+   "text": "Attention, l'IA peut se tromper. Vérifie chaque phrase avant d'envoyer quoi que ce soit.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Important",
+    "text": "Vérifie avant d'envoyer",
+    "highlight": "Vérifie"
+   }
+  },
+  {
+   "text": "Contrôle aussi les noms des concurrents toi-même, sur Google, depuis ton téléphone."
+  },
+  {
+   "text": "Au premier contact, garde une seule page, pas plus. Dessus : ses concurrents, sa place, et une question.",
+   "visual": {
+    "kind": "list",
+    "title": "La page unique",
+    "items": [
+     "Ses concurrents",
+     "Sa place",
+     "Une question"
+    ],
+    "at": [
+     "concurrents",
+     "place",
+     "question"
+    ]
+   }
+  },
+  {
+   "text": "La question peut être simple : vous savez pourquoi ces trois garages passent avant vous ? Elle ouvre la discussion, sans rien vendre.",
+   "visual": {
+    "kind": "title",
+    "kicker": "La question",
+    "text": "Pourquoi eux avant vous ?",
+    "highlight": "eux"
+   }
+  },
+  {
+   "text": "Et surtout, ne promets jamais la première place. Promets un plan clair, rien de plus.",
+   "sfx": true,
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "À éviter",
+     "items": [
+      "La 1re place promise"
+     ]
+    },
+    "right": {
+     "title": "À faire",
+     "items": [
+      "Un plan clair"
+     ]
+    }
+   }
+  },
+  {
+   "text": "Et toi, tu envoies quoi à un prospect aujourd'hui ? Un long audit, ou une seule page ? Dis-le-moi en commentaire.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Et toi ?",
+    "text": "40 pages ou une seule ?",
+    "highlight": "une"
+   }
+  }
+ ],
+ "caption": "Le gérant ne lira pas ton audit de 40 pages. Une seule page avec ses concurrents, ça marche mieux 📄 (outil en lien en bio)",
+ "hashtags": [
+  "#seo",
+  "#seolocal",
+  "#freelance",
+  "#prospection",
+  "#audit"
+ ]
+}
