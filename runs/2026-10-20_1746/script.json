@@ -1,0 +1,132 @@
+{
+ "title": "Aoashi : le buteur qu'on a forcé à défendre",
+ "format": "storytelling",
+ "tone": "conteur",
+ "music": "epic",
+ "animes": [
+  "Aoashi Season 2"
+ ],
+ "media": {
+  "Aoashi Season 2": "anime"
+ },
+ "cover": {
+  "text": "Buteur forcé de défendre",
+  "highlight": [
+   "défendre"
+  ],
+  "emoji": "😱"
+ },
+ "hook_text": "Ce gamin rêve d'être buteur, et son coach décide d'en faire un défenseur",
+ "spoiler": false,
+ "segments": [
+  {
+   "text": "Ce gamin rêve d'être buteur, et son coach décide d'en faire un défenseur.",
+   "sfx": true,
+   "emphasis": [
+    "défenseur"
+   ],
+   "scene": "a teenage boy in a soccer jersey looking shocked on a stadium pitch"
+  },
+  {
+   "text": "[whispering] Reste jusqu'au bout, parce que ce choix qu'il déteste, c'est exactement ce qui va le rendre monstrueux.",
+   "emphasis": [
+    "monstrueux"
+   ],
+   "scene": "a soccer coach in a suit watching young players from the sideline"
+  },
+  {
+   "text": "Lui c'est Ashito. Il vient d'Ehime, un coin paumé de Shikoku, et sa mère se tue au boulot pour l'élever.",
+   "emphasis": [
+    "Ehime"
+   ],
+   "scene": "a small rural seaside town with a boy kicking a ball alone",
+   "shots": [
+    {
+     "kind": "wide"
+    }
+   ]
+  },
+  {
+   "text": "Sur le terrain, c'est un buteur arrogant qui veut tout faire tout seul. Sauf qu'il a un truc que personne n'a remarqué.",
+   "scene": "a boy dribbling past several defenders on a dirt soccer field"
+  },
+  {
+   "text": "[surprised] Il voit le terrain comme d'en haut. Genre il sait où sont les vingt-deux joueurs sans même tourner la tête.",
+   "sfx": true,
+   "emphasis": [
+    "d'en haut"
+   ],
+   "scene": "a boy on a soccer field with a glowing overhead view of every player"
+  },
+  {
+   "text": "Le seul qui capte ça, c'est Fukuda, un ancien joueur pro qui entraîne les jeunes d'Esperion, un gros club de Tokyo.",
+   "emphasis": [
+    "Fukuda"
+   ],
+   "scene": "a tall man in a suit talking to a boy by a river at sunset"
+  },
+  {
+   "text": "Il le fait monter à Tokyo pour les sélections. Et là, le petit roi d'Ehime se fait marcher dessus par des gamins formés en club.",
+   "scene": "a boy falling on a soccer pitch while other players run past him"
+  },
+  {
+   "text": "Si t'aimes quand je raconte un anime comme ça, abonne-toi, j'en sors tous les jours.",
+   "cta": true
+  },
+  {
+   "text": "[sigh] Et c'est là que tout dérape. Fukuda lui annonce qu'il ne jouera plus attaquant. Il le met latéral, en défense.",
+   "sfx": true,
+   "grade": "bw",
+   "stamp": "DÉFENSEUR",
+   "emphasis": [
+    "en défense"
+   ],
+   "scene": "a coach telling a stunned boy something serious in a locker room"
+  },
+  {
+   "text": "Pour un mec qui vit pour marquer, c'est comme si on lui arrachait son rêve. Il craque complètement, frr ça fait mal à regarder.",
+   "grade": "bw",
+   "scene": "a boy crying alone on an empty soccer field at night"
+  },
+  {
+   "text": "Heureusement y'a Hana, la petite sœur de Fukuda, qui croit en lui au moment où lui-même n'y croit plus du tout.",
+   "emphasis": [
+    "Hana"
+   ],
+   "scene": "a girl with long hair encouraging a sad boy near a soccer field"
+  },
+  {
+   "text": "[excited] Et petit à petit il comprend. Sa vision, en défense, elle sert à lire toute l'attaque adverse avant même qu'elle arrive.",
+   "sfx": true,
+   "emphasis": [
+    "lire"
+   ],
+   "scene": "a defender intercepting a pass with a powerful sliding tackle"
+  },
+  {
+   "text": "Le buteur raté devient le cerveau de l'équipe. Et en face, y'a Kuribayashi, le génie du club, la barre qu'il doit atteindre.",
+   "stamp": "LE CERVEAU",
+   "emphasis": [
+    "cerveau"
+   ],
+   "scene": "a calm blond soccer prodigy controlling the ball in a big stadium"
+  },
+  {
+   "text": "La saison 2 tourne depuis le 4 octobre, et c'est maintenant qu'on voit si le pari de Fukuda était le bon.",
+   "scene": "a soccer team running onto a stadium pitch under bright lights"
+  },
+  {
+   "text": "Perso c'est l'anime de foot le plus intelligent que j'ai vu. Dis-moi en com' si tu l'as commencé.",
+   "scene": "a boy smiling with determination on a soccer field"
+  }
+ ],
+ "caption": "Il voulait marquer, on lui a demandé de défendre 😤 t'aurais accepté toi ?",
+ "hashtags": [
+  "#anime",
+  "#manga",
+  "#animefr",
+  "#otakufr",
+  "#aoashi",
+  "#storytelling"
+ ]
+}
