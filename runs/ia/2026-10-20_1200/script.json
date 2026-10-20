@@ -1,0 +1,193 @@
+{
+ "title": "Pourquoi l'IA compte mal les lettres",
+ "theme": "ia",
+ "pillar": "ia",
+ "format": "mythe",
+ "music": "pote",
+ "cover": {
+  "text": "L'IA ne sait pas compter",
+  "highlight": [
+   "compter"
+  ],
+  "emoji": "🧮",
+  "sub": "le vrai pourquoi"
+ },
+ "hook_text": "L'IA écrit un CV en dix secondes, mais elle compte mal les lettres.",
+ "segments": [
+  {
+   "text": "L'IA écrit un CV en dix secondes, mais elle compte mal les lettres.",
+   "emphasis": [
+    "compte"
+   ]
+  },
+  {
+   "text": "Tu lui demandes une bio de 150 caractères maximum. Souvent, elle t'en donne bien plus.",
+   "visual": {
+    "kind": "chat",
+    "name": "Claude",
+    "user": "Écris ma bio en 150 caractères maximum.",
+    "assistant": "Passionnée de cuisine et de voyages, je partage mes recettes du monde entier, testées dans ma petite cuisine, avec des astuces simples pour tous les jours !"
+   }
+  },
+  {
+   "text": "Tu crois qu'elle lit comme toi ? Pas du tout. Et ce n'est pas un bug.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Mythe",
+    "text": "L'IA lit comme nous",
+    "highlight": "comme nous",
+    "sub": "faux"
+   }
+  },
+  {
+   "text": "L'IA ne lit pas lettre par lettre. Elle découpe le texte en petits morceaux, qu'on appelle des tokens.",
+   "sfx": true,
+   "visual": {
+    "kind": "terminal",
+    "title": "Découpage (exemple)",
+    "lines": [
+     {
+      "cmd": "découpe \"bonjour tout le monde\""
+     },
+     {
+      "out": "[bon] [jour] [ tout] [ le] [ monde]"
+     }
+    ]
+   }
+  },
+  {
+   "text": "Un token, c'est parfois un mot entier, parfois un bout de mot, parfois une seule lettre.",
+   "visual": {
+    "kind": "list",
+    "title": "Un token, c'est",
+    "items": [
+     "Un mot entier",
+     "Un bout de mot",
+     "Une seule lettre"
+    ],
+    "at": [
+     "entier",
+     "bout",
+     "lettre"
+    ]
+   }
+  },
+  {
+   "text": "Anthropic, l'entreprise qui fait Claude, le dit dans sa documentation : ce sont les plus petites unités du modèle.",
+   "visual": {
+    "kind": "card",
+    "emoji": "📘",
+    "owner": "Anthropic",
+    "name": "Glossaire Claude",
+    "desc": "Tokens : les plus petites unités du modèle",
+    "tags": [
+     "officiel",
+     "gratuit"
+    ],
+    "url": "platform.claude.com/docs/en/about-claude/glossary"
+   }
+  },
+  {
+   "text": "Donc pour l'IA, un mot n'est pas une suite de lettres. C'est un petit paquet de morceaux collés.",
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "Toi",
+     "items": [
+      "f r a i s e",
+      "6 lettres"
+     ]
+    },
+    "right": {
+     "title": "L'IA",
+     "items": [
+      "[fr] [aise]",
+      "des morceaux"
+     ]
+    }
+   }
+  },
+  {
+   "text": "Compter les lettres, pour elle, c'est comme compter le riz dans un sac fermé. Elle ne compte pas vraiment, elle devine.",
+   "stamp": "devine",
+   "sfx": true,
+   "visual": {
+    "kind": "title",
+    "kicker": "Au fond",
+    "text": "Elle estime, elle ne compte pas",
+    "highlight": "estime"
+   }
+  },
+  {
+   "text": "Les modèles récents se trompent moins souvent. Mais sur une limite de caractères, ça arrive encore."
+  },
+  {
+   "text": "Alors, comment faire ? Trois réflexes : la faire épeler, vérifier avec un compteur, et raccourcir petit à petit.",
+   "visual": {
+    "kind": "list",
+    "title": "3 réflexes",
+    "items": [
+     "Faire épeler",
+     "Vérifier au compteur",
+     "Raccourcir petit à petit"
+    ],
+    "at": [
+     "épeler",
+     "compteur",
+     "raccourcir"
+    ]
+   }
+  },
+  {
+   "text": "Premier réflexe : demande-lui d'écrire le mot lettre par lettre, avec un espace entre chaque. Ensuite seulement, elle compte.",
+   "visual": {
+    "kind": "chat",
+    "name": "Claude",
+    "user": "Écris « fraise » lettre par lettre, ensuite compte les r.",
+    "assistant": "f r a i s e : il y a un seul r."
+   }
+  },
+  {
+   "text": "Deuxième réflexe : colle le texte dans un compteur de caractères. Word et Google Docs le font gratuitement.",
+   "visual": {
+    "kind": "stat",
+    "value": 150,
+    "suffix": "",
+    "label": "caractères demandés : vérifie toi-même",
+    "source": "Word ou Google Docs"
+   }
+  },
+  {
+   "text": "Troisième réflexe : si c'est trop long, ne redemande pas tout. Dis-lui simplement : enlève vingt caractères, garde le sens.",
+   "visual": {
+    "kind": "chat",
+    "name": "Claude",
+    "user": "Trop long. Enlève 20 caractères, garde le sens.",
+    "assistant": "Cuisine et voyages : mes recettes du monde, testées chez moi, simples pour tous les jours !"
+   }
+  },
+  {
+   "text": "Même chose pour les calculs : un total de facture, un pourcentage. Vérifie toujours avec la calculatrice du téléphone.",
+   "visual": {
+    "kind": "title",
+    "kicker": "À retenir",
+    "text": "Les chiffres, tu vérifies",
+    "highlight": "vérifies"
+   }
+  },
+  {
+   "text": "Et toi, quelle question toute simple a déjà piégé une IA ? Dis-moi en commentaire, je teste les meilleures.",
+   "emphasis": [
+    "piégé"
+   ]
+  }
+ ],
+ "caption": "Pourquoi l'IA compte mal les lettres, et 3 réflexes pour ne plus te faire avoir 🧮 Source officielle : https://platform.claude.com/docs/en/about-claude/glossary",
+ "hashtags": [
+  "#ia",
+  "#intelligenceartificielle",
+  "#claude",
+  "#astuce",
+  "#apprendre"
+ ]
+}

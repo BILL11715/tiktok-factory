@@ -1,0 +1,85 @@
+{
+ "stamp": "2026-10-20_1200",
+ "duration": 88.1,
+ "lead": 0.6,
+ "cps": 24.9,
+ "accuracy": 0.896,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "l i a",
+   "entendu": "il est"
+  },
+  {
+   "dit": "en donne",
+   "entendu": "endonne"
+  },
+  {
+   "dit": "l i a",
+   "entendu": "lea"
+  },
+  {
+   "dit": "tokenes",
+   "entendu": "tokens"
+  },
+  {
+   "dit": "tokene",
+   "entendu": "token"
+  },
+  {
+   "dit": "anne tropique",
+   "entendu": "anthropique"
+  },
+  {
+   "dit": "i a",
+   "entendu": "ia"
+  },
+  {
+   "dit": "compter",
+   "entendu": "comptez"
+  },
+  {
+   "dit": "elle",
+   "entendu": "elles"
+  },
+  {
+   "dit": "mais",
+   "entendu": "on est"
+  },
+  {
+   "dit": "caracteres",
+   "entendu": "caractere"
+  },
+  {
+   "dit": "epeler",
+   "entendu": "epler"
+  },
+  {
+   "dit": "caracteres word et",
+   "entendu": "caractere ou des"
+  },
+  {
+   "dit": "meme",
+   "entendu": "l une"
+  },
+  {
+   "dit": "facture",
+   "entendu": "factures"
+  },
+  {
+   "dit": "calculatrice",
+   "entendu": "calcul catrice"
+  },
+  {
+   "dit": "i a",
+   "entendu": "aya"
+  },
+  {
+   "dit": "les meilleures",
+   "entendu": "une aya"
+  }
+ ],
+ "alerts": [
+  "prononciation 90% des mots compris (min 93%)"
+ ]
+}
