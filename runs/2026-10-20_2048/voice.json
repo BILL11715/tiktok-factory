@@ -1,0 +1,1767 @@
+{
+ "engine": "fish",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-20_2048/voice.wav",
+ "duration": 78.453,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 2.88,
+   "slot_end": 2.962,
+   "text": "Elle mange de l'herbe pour survivre, et c'est même pas la plus chaotique.",
+   "words": [
+    {
+     "w": "Elle",
+     "start": 0.0,
+     "end": 0.08
+    },
+    {
+     "w": "mange",
+     "start": 0.08,
+     "end": 0.28
+    },
+    {
+     "w": "de",
+     "start": 0.28,
+     "end": 0.44
+    },
+    {
+     "w": "l'herbe",
+     "start": 0.44,
+     "end": 0.82
+    },
+    {
+     "w": "pour",
+     "start": 0.82,
+     "end": 1.02
+    },
+    {
+     "w": "survivre,",
+     "start": 1.02,
+     "end": 1.58
+    },
+    {
+     "w": "et",
+     "start": 1.58,
+     "end": 1.7
+    },
+    {
+     "w": "c'est",
+     "start": 1.7,
+     "end": 1.82
+    },
+    {
+     "w": "même",
+     "start": 1.82,
+     "end": 1.96
+    },
+    {
+     "w": "pas",
+     "start": 1.96,
+     "end": 2.14
+    },
+    {
+     "w": "la",
+     "start": 2.14,
+     "end": 2.26
+    },
+    {
+     "w": "plus",
+     "start": 2.26,
+     "end": 2.42
+    },
+    {
+     "w": "chaotique.",
+     "start": 2.42,
+     "end": 2.88
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 2.96,
+   "end": 5.98,
+   "slot_end": 6.089,
+   "text": "Reste jusqu'au numéro 1, ce qu'elle fait sur scène, personne l'a vu venir.",
+   "words": [
+    {
+     "w": "Reste",
+     "start": 2.96,
+     "end": 3.16
+    },
+    {
+     "w": "jusqu'au",
+     "start": 3.16,
+     "end": 3.42
+    },
+    {
+     "w": "numéro",
+     "start": 3.42,
+     "end": 3.54
+    },
+    {
+     "w": "1,",
+     "start": 3.54,
+     "end": 3.85
+    },
+    {
+     "w": "ce",
+     "start": 3.85,
+     "end": 4.16
+    },
+    {
+     "w": "qu'elle",
+     "start": 4.16,
+     "end": 4.28
+    },
+    {
+     "w": "fait",
+     "start": 4.28,
+     "end": 4.44
+    },
+    {
+     "w": "sur",
+     "start": 4.44,
+     "end": 4.62
+    },
+    {
+     "w": "scène,",
+     "start": 4.62,
+     "end": 4.86
+    },
+    {
+     "w": "personne",
+     "start": 5.14,
+     "end": 5.42
+    },
+    {
+     "w": "l'a",
+     "start": 5.42,
+     "end": 5.68
+    },
+    {
+     "w": "vu",
+     "start": 5.68,
+     "end": 5.78
+    },
+    {
+     "w": "venir.",
+     "start": 5.78,
+     "end": 5.98
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 6.12,
+   "end": 11.88,
+   "slot_end": 11.964,
+   "text": "Bocchi the Rock, c'est quatre filles qui montent un groupe de rock. Sur le papier c'est mignon, en vrai c'est un asile. Et la saison 2 est annoncée.",
+   "words": [
+    {
+     "w": "Bocchi",
+     "start": 6.12,
+     "end": 6.28
+    },
+    {
+     "w": "the",
+     "start": 6.28,
+     "end": 6.44
+    },
+    {
+     "w": "Rock,",
+     "start": 6.44,
+     "end": 6.62
+    },
+    {
+     "w": "c'est",
+     "start": 6.78,
+     "end": 6.84
+    },
+    {
+     "w": "quatre",
+     "start": 6.84,
+     "end": 7.04
+    },
+    {
+     "w": "filles",
+     "start": 7.04,
+     "end": 7.28
+    },
+    {
+     "w": "qui",
+     "start": 7.28,
+     "end": 7.44
+    },
+    {
+     "w": "montent",
+     "start": 7.44,
+     "end": 7.62
+    },
+    {
+     "w": "un",
+     "start": 7.62,
+     "end": 7.7
+    },
+    {
+     "w": "groupe",
+     "start": 7.7,
+     "end": 7.86
+    },
+    {
+     "w": "de",
+     "start": 7.86,
+     "end": 8.02
+    },
+    {
+     "w": "rock.",
+     "start": 8.02,
+     "end": 8.24
+    },
+    {
+     "w": "Sur",
+     "start": 8.24,
+     "end": 8.62
+    },
+    {
+     "w": "le",
+     "start": 8.62,
+     "end": 8.74
+    },
+    {
+     "w": "papier",
+     "start": 8.74,
+     "end": 8.94
+    },
+    {
+     "w": "c'est",
+     "start": 8.94,
+     "end": 9.18
+    },
+    {
+     "w": "mignon,",
+     "start": 9.18,
+     "end": 9.42
+    },
+    {
+     "w": "en",
+     "start": 9.52,
+     "end": 9.62
+    },
+    {
+     "w": "vrai",
+     "start": 9.62,
+     "end": 9.76
+    },
+    {
+     "w": "c'est",
+     "start": 9.76,
+     "end": 9.94
+    },
+    {
+     "w": "un",
+     "start": 9.94,
+     "end": 10.04
+    },
+    {
+     "w": "asile.",
+     "start": 10.04,
+     "end": 10.36
+    },
+    {
+     "w": "Et",
+     "start": 10.84,
+     "end": 10.94
+    },
+    {
+     "w": "la",
+     "start": 10.94,
+     "end": 11.04
+    },
+    {
+     "w": "saison",
+     "start": 11.04,
+     "end": 11.24
+    },
+    {
+     "w": "2",
+     "start": 11.24,
+     "end": 11.4
+    },
+    {
+     "w": "est",
+     "start": 11.4,
+     "end": 11.52
+    },
+    {
+     "w": "annoncée.",
+     "start": 11.52,
+     "end": 11.88
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 12.08,
+   "end": 18.22,
+   "slot_end": 18.339,
+   "text": "Numéro 5, Seika, la gérante de la salle de concert. Elle te parle comme à un déchet, mais avec sa petite sœur Nijika, elle fond.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 12.08,
+     "end": 12.2
+    },
+    {
+     "w": "5,",
+     "start": 12.2,
+     "end": 12.4
+    },
+    {
+     "w": "Seika,",
+     "start": 12.7,
+     "end": 13.14
+    },
+    {
+     "w": "la",
+     "start": 13.14,
+     "end": 13.28
+    },
+    {
+     "w": "gérante",
+     "start": 13.28,
+     "end": 13.66
+    },
+    {
+     "w": "de",
+     "start": 13.66,
+     "end": 13.8
+    },
+    {
+     "w": "la",
+     "start": 13.8,
+     "end": 13.92
+    },
+    {
+     "w": "salle",
+     "start": 13.92,
+     "end": 14.1
+    },
+    {
+     "w": "de",
+     "start": 14.1,
+     "end": 14.22
+    },
+    {
+     "w": "concert.",
+     "start": 14.22,
+     "end": 14.5
+    },
+    {
+     "w": "Elle",
+     "start": 15.14,
+     "end": 15.3
+    },
+    {
+     "w": "te",
+     "start": 15.3,
+     "end": 15.44
+    },
+    {
+     "w": "parle",
+     "start": 15.44,
+     "end": 15.62
+    },
+    {
+     "w": "comme",
+     "start": 15.62,
+     "end": 15.84
+    },
+    {
+     "w": "à",
+     "start": 15.84,
+     "end": 15.89
+    },
+    {
+     "w": "un",
+     "start": 15.84,
+     "end": 15.98
+    },
+    {
+     "w": "déchet,",
+     "start": 15.98,
+     "end": 16.24
+    },
+    {
+     "w": "mais",
+     "start": 16.24,
+     "end": 16.44
+    },
+    {
+     "w": "avec",
+     "start": 16.44,
+     "end": 16.6
+    },
+    {
+     "w": "sa",
+     "start": 16.6,
+     "end": 16.78
+    },
+    {
+     "w": "petite",
+     "start": 16.78,
+     "end": 16.98
+    },
+    {
+     "w": "sœur",
+     "start": 16.98,
+     "end": 17.28
+    },
+    {
+     "w": "Nijika,",
+     "start": 17.28,
+     "end": 17.82
+    },
+    {
+     "w": "elle",
+     "start": 17.94,
+     "end": 18.02
+    },
+    {
+     "w": "fond.",
+     "start": 18.02,
+     "end": 18.22
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 18.38,
+   "end": 25.42,
+   "slot_end": 25.495,
+   "text": "Numéro 4, Ryo. La bassiste stylée, toujours fauchée. Elle claque tout dans le matos, et quand y'a plus rien, frr, elle mange l'herbe du trottoir.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 18.38,
+     "end": 18.58
+    },
+    {
+     "w": "4,",
+     "start": 18.58,
+     "end": 18.82
+    },
+    {
+     "w": "Ryo.",
+     "start": 19.2,
+     "end": 19.54
+    },
+    {
+     "w": "La",
+     "start": 19.72,
+     "end": 19.8
+    },
+    {
+     "w": "bassiste",
+     "start": 19.8,
+     "end": 20.14
+    },
+    {
+     "w": "stylée,",
+     "start": 20.14,
+     "end": 20.66
+    },
+    {
+     "w": "toujours",
+     "start": 20.74,
+     "end": 20.9
+    },
+    {
+     "w": "fauchée.",
+     "start": 20.9,
+     "end": 21.28
+    },
+    {
+     "w": "Elle",
+     "start": 21.92,
+     "end": 22.02
+    },
+    {
+     "w": "claque",
+     "start": 22.02,
+     "end": 22.28
+    },
+    {
+     "w": "tout",
+     "start": 22.28,
+     "end": 22.4
+    },
+    {
+     "w": "dans",
+     "start": 22.4,
+     "end": 22.5
+    },
+    {
+     "w": "le",
+     "start": 22.5,
+     "end": 22.58
+    },
+    {
+     "w": "matos,",
+     "start": 22.58,
+     "end": 22.92
+    },
+    {
+     "w": "et",
+     "start": 22.92,
+     "end": 23.28
+    },
+    {
+     "w": "quand",
+     "start": 23.28,
+     "end": 23.38
+    },
+    {
+     "w": "y'a",
+     "start": 23.52,
+     "end": 23.57
+    },
+    {
+     "w": "plus",
+     "start": 23.52,
+     "end": 23.62
+    },
+    {
+     "w": "rien,",
+     "start": 23.62,
+     "end": 23.82
+    },
+    {
+     "w": "frr,",
+     "start": 23.82,
+     "end": 23.96
+    },
+    {
+     "w": "elle",
+     "start": 23.96,
+     "end": 24.16
+    },
+    {
+     "w": "mange",
+     "start": 24.16,
+     "end": 24.52
+    },
+    {
+     "w": "l'herbe",
+     "start": 24.68,
+     "end": 24.92
+    },
+    {
+     "w": "du",
+     "start": 24.92,
+     "end": 25.08
+    },
+    {
+     "w": "trottoir.",
+     "start": 25.08,
+     "end": 25.42
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 25.42,
+   "end": 31.78,
+   "slot_end": 31.962,
+   "text": "Numéro 3, Kita. Son aura aveugle les gens. Sauf qu'elle a menti pour rentrer dans le groupe, elle savait pas jouer, et elle s'est barrée avant le premier concert.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 25.42,
+     "end": 25.74
+    },
+    {
+     "w": "3,",
+     "start": 25.74,
+     "end": 25.98
+    },
+    {
+     "w": "Kita.",
+     "start": 26.14,
+     "end": 26.38
+    },
+    {
+     "w": "Son",
+     "start": 26.58,
+     "end": 26.78
+    },
+    {
+     "w": "aura",
+     "start": 26.78,
+     "end": 26.98
+    },
+    {
+     "w": "aveugle",
+     "start": 26.98,
+     "end": 27.24
+    },
+    {
+     "w": "les",
+     "start": 27.24,
+     "end": 27.42
+    },
+    {
+     "w": "gens.",
+     "start": 27.42,
+     "end": 27.7
+    },
+    {
+     "w": "Sauf",
+     "start": 27.88,
+     "end": 28.04
+    },
+    {
+     "w": "qu'elle",
+     "start": 28.04,
+     "end": 28.24
+    },
+    {
+     "w": "a",
+     "start": 28.24,
+     "end": 28.34
+    },
+    {
+     "w": "menti",
+     "start": 28.34,
+     "end": 28.66
+    },
+    {
+     "w": "pour",
+     "start": 28.66,
+     "end": 28.84
+    },
+    {
+     "w": "rentrer",
+     "start": 28.84,
+     "end": 29.12
+    },
+    {
+     "w": "dans",
+     "start": 29.12,
+     "end": 29.22
+    },
+    {
+     "w": "le",
+     "start": 29.22,
+     "end": 29.34
+    },
+    {
+     "w": "groupe,",
+     "start": 29.34,
+     "end": 29.52
+    },
+    {
+     "w": "elle",
+     "start": 29.68,
+     "end": 29.74
+    },
+    {
+     "w": "savait",
+     "start": 29.74,
+     "end": 29.94
+    },
+    {
+     "w": "pas",
+     "start": 29.94,
+     "end": 30.08
+    },
+    {
+     "w": "jouer,",
+     "start": 30.08,
+     "end": 30.24
+    },
+    {
+     "w": "et",
+     "start": 30.24,
+     "end": 30.5
+    },
+    {
+     "w": "elle",
+     "start": 30.5,
+     "end": 30.6
+    },
+    {
+     "w": "s'est",
+     "start": 30.6,
+     "end": 30.72
+    },
+    {
+     "w": "barrée",
+     "start": 30.72,
+     "end": 30.96
+    },
+    {
+     "w": "avant",
+     "start": 30.96,
+     "end": 31.14
+    },
+    {
+     "w": "le",
+     "start": 31.14,
+     "end": 31.32
+    },
+    {
+     "w": "premier",
+     "start": 31.32,
+     "end": 31.5
+    },
+    {
+     "w": "concert.",
+     "start": 31.5,
+     "end": 31.78
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 31.96,
+   "end": 35.44,
+   "slot_end": 35.539,
+   "text": "C'est pour ça que Bocchi a été recrutée. Si tu kiffes ce genre de top, abonne-toi, j'en sors tous les jours.",
+   "words": [
+    {
+     "w": "C'est",
+     "start": 31.96,
+     "end": 32.04
+    },
+    {
+     "w": "pour",
+     "start": 32.04,
+     "end": 32.14
+    },
+    {
+     "w": "ça",
+     "start": 32.14,
+     "end": 32.24
+    },
+    {
+     "w": "que",
+     "start": 32.3,
+     "end": 32.42
+    },
+    {
+     "w": "Bocchi",
+     "start": 32.42,
+     "end": 32.54
+    },
+    {
+     "w": "a",
+     "start": 32.54,
+     "end": 32.68
+    },
+    {
+     "w": "été",
+     "start": 32.68,
+     "end": 32.8
+    },
+    {
+     "w": "recrutée.",
+     "start": 32.8,
+     "end": 33.16
+    },
+    {
+     "w": "Si",
+     "start": 33.28,
+     "end": 33.38
+    },
+    {
+     "w": "tu",
+     "start": 33.38,
+     "end": 33.5
+    },
+    {
+     "w": "kiffes",
+     "start": 33.5,
+     "end": 33.66
+    },
+    {
+     "w": "ce",
+     "start": 33.66,
+     "end": 33.76
+    },
+    {
+     "w": "genre",
+     "start": 33.76,
+     "end": 33.88
+    },
+    {
+     "w": "de",
+     "start": 33.88,
+     "end": 33.98
+    },
+    {
+     "w": "top,",
+     "start": 33.98,
+     "end": 34.14
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 34.4,
+     "end": 34.68
+    },
+    {
+     "w": "j'en",
+     "start": 34.78,
+     "end": 34.86
+    },
+    {
+     "w": "sors",
+     "start": 34.86,
+     "end": 34.98
+    },
+    {
+     "w": "tous",
+     "start": 34.98,
+     "end": 35.18
+    },
+    {
+     "w": "les",
+     "start": 35.18,
+     "end": 35.3
+    },
+    {
+     "w": "jours.",
+     "start": 35.3,
+     "end": 35.44
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 35.56,
+   "end": 41.72,
+   "slot_end": 41.812,
+   "text": "Numéro 2, Kikuri, la bassiste de Sick Hack. Bourrée H24, avec sa brique de saké. C'est elle qui traîne Bocchi jouer en pleine rue.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 35.56,
+     "end": 35.76
+    },
+    {
+     "w": "2,",
+     "start": 35.76,
+     "end": 35.88
+    },
+    {
+     "w": "Kikuri,",
+     "start": 36.08,
+     "end": 36.26
+    },
+    {
+     "w": "la",
+     "start": 36.42,
+     "end": 36.48
+    },
+    {
+     "w": "bassiste",
+     "start": 36.48,
+     "end": 36.86
+    },
+    {
+     "w": "de",
+     "start": 36.86,
+     "end": 37.08
+    },
+    {
+     "w": "Sick",
+     "start": 37.08,
+     "end": 37.34
+    },
+    {
+     "w": "Hack.",
+     "start": 37.34,
+     "end": 37.68
+    },
+    {
+     "w": "Bourrée",
+     "start": 38.12,
+     "end": 38.46
+    },
+    {
+     "w": "H24,",
+     "start": 38.46,
+     "end": 38.88
+    },
+    {
+     "w": "avec",
+     "start": 38.88,
+     "end": 39.18
+    },
+    {
+     "w": "sa",
+     "start": 39.18,
+     "end": 39.36
+    },
+    {
+     "w": "brique",
+     "start": 39.36,
+     "end": 39.5
+    },
+    {
+     "w": "de",
+     "start": 39.5,
+     "end": 39.68
+    },
+    {
+     "w": "saké.",
+     "start": 39.68,
+     "end": 40.02
+    },
+    {
+     "w": "C'est",
+     "start": 40.12,
+     "end": 40.22
+    },
+    {
+     "w": "elle",
+     "start": 40.22,
+     "end": 40.34
+    },
+    {
+     "w": "qui",
+     "start": 40.34,
+     "end": 40.5
+    },
+    {
+     "w": "traîne",
+     "start": 40.5,
+     "end": 40.78
+    },
+    {
+     "w": "Bocchi",
+     "start": 40.78,
+     "end": 41.04
+    },
+    {
+     "w": "jouer",
+     "start": 41.04,
+     "end": 41.24
+    },
+    {
+     "w": "en",
+     "start": 41.24,
+     "end": 41.42
+    },
+    {
+     "w": "pleine",
+     "start": 41.42,
+     "end": 41.62
+    },
+    {
+     "w": "rue.",
+     "start": 41.62,
+     "end": 41.72
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 41.8,
+   "end": 46.88,
+   "slot_end": 47.023,
+   "text": "Et le numéro 1, c'est Bocchi, Hitori Gotoh. Génie de la guitare sur internet, mais en vrai elle panique au point de fondre en flaque.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 41.8,
+     "end": 41.88
+    },
+    {
+     "w": "le",
+     "start": 41.88,
+     "end": 41.98
+    },
+    {
+     "w": "numéro",
+     "start": 41.98,
+     "end": 42.16
+    },
+    {
+     "w": "1,",
+     "start": 42.16,
+     "end": 42.42
+    },
+    {
+     "w": "c'est",
+     "start": 42.6,
+     "end": 42.65
+    },
+    {
+     "w": "Bocchi,",
+     "start": 42.64,
+     "end": 42.927
+    },
+    {
+     "w": "Hitori",
+     "start": 42.927,
+     "end": 43.213
+    },
+    {
+     "w": "Gotoh.",
+     "start": 43.213,
+     "end": 43.5
+    },
+    {
+     "w": "Génie",
+     "start": 43.76,
+     "end": 43.94
+    },
+    {
+     "w": "de",
+     "start": 43.94,
+     "end": 44.1
+    },
+    {
+     "w": "la",
+     "start": 44.1,
+     "end": 44.18
+    },
+    {
+     "w": "guitare",
+     "start": 44.18,
+     "end": 44.42
+    },
+    {
+     "w": "sur",
+     "start": 44.42,
+     "end": 44.58
+    },
+    {
+     "w": "internet,",
+     "start": 44.58,
+     "end": 44.92
+    },
+    {
+     "w": "mais",
+     "start": 45.1,
+     "end": 45.18
+    },
+    {
+     "w": "en",
+     "start": 45.18,
+     "end": 45.28
+    },
+    {
+     "w": "vrai",
+     "start": 45.28,
+     "end": 45.44
+    },
+    {
+     "w": "elle",
+     "start": 45.44,
+     "end": 45.58
+    },
+    {
+     "w": "panique",
+     "start": 45.58,
+     "end": 45.86
+    },
+    {
+     "w": "au",
+     "start": 45.86,
+     "end": 46.02
+    },
+    {
+     "w": "point",
+     "start": 46.02,
+     "end": 46.14
+    },
+    {
+     "w": "de",
+     "start": 46.14,
+     "end": 46.26
+    },
+    {
+     "w": "fondre",
+     "start": 46.26,
+     "end": 46.5
+    },
+    {
+     "w": "en",
+     "start": 46.5,
+     "end": 46.68
+    },
+    {
+     "w": "flaque.",
+     "start": 46.68,
+     "end": 46.88
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 47.02,
+   "end": 50.18,
+   "slot_end": 50.274,
+   "text": "Pour son premier concert avec le groupe, elle a joué cachée dans un carton de mangues.",
+   "words": [
+    {
+     "w": "Pour",
+     "start": 47.02,
+     "end": 47.1
+    },
+    {
+     "w": "son",
+     "start": 47.1,
+     "end": 47.24
+    },
+    {
+     "w": "premier",
+     "start": 47.24,
+     "end": 47.5
+    },
+    {
+     "w": "concert",
+     "start": 47.5,
+     "end": 47.8
+    },
+    {
+     "w": "avec",
+     "start": 47.8,
+     "end": 47.98
+    },
+    {
+     "w": "le",
+     "start": 47.98,
+     "end": 48.16
+    },
+    {
+     "w": "groupe,",
+     "start": 48.16,
+     "end": 48.32
+    },
+    {
+     "w": "elle",
+     "start": 48.5,
+     "end": 48.58
+    },
+    {
+     "w": "a",
+     "start": 48.58,
+     "end": 48.68
+    },
+    {
+     "w": "joué",
+     "start": 48.68,
+     "end": 48.86
+    },
+    {
+     "w": "cachée",
+     "start": 48.86,
+     "end": 49.16
+    },
+    {
+     "w": "dans",
+     "start": 49.16,
+     "end": 49.32
+    },
+    {
+     "w": "un",
+     "start": 49.32,
+     "end": 49.46
+    },
+    {
+     "w": "carton",
+     "start": 49.46,
+     "end": 49.74
+    },
+    {
+     "w": "de",
+     "start": 49.74,
+     "end": 49.88
+    },
+    {
+     "w": "mangues.",
+     "start": 49.88,
+     "end": 50.18
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 50.18,
+   "end": 54.86,
+   "slot_end": 54.926,
+   "text": "Mais attends, le vrai moment, c'est le festival du lycée. En plein concert, une corde de sa guitare pète.",
+   "words": [
+    {
+     "w": "Mais",
+     "start": 50.18,
+     "end": 50.36
+    },
+    {
+     "w": "attends,",
+     "start": 50.36,
+     "end": 50.54
+    },
+    {
+     "w": "le",
+     "start": 50.78,
+     "end": 50.9
+    },
+    {
+     "w": "vrai",
+     "start": 50.9,
+     "end": 51.06
+    },
+    {
+     "w": "moment,",
+     "start": 51.06,
+     "end": 51.28
+    },
+    {
+     "w": "c'est",
+     "start": 51.36,
+     "end": 51.52
+    },
+    {
+     "w": "le",
+     "start": 51.52,
+     "end": 51.64
+    },
+    {
+     "w": "festival",
+     "start": 51.64,
+     "end": 52.02
+    },
+    {
+     "w": "du",
+     "start": 52.02,
+     "end": 52.22
+    },
+    {
+     "w": "lycée.",
+     "start": 52.22,
+     "end": 52.52
+    },
+    {
+     "w": "En",
+     "start": 53.0,
+     "end": 53.2
+    },
+    {
+     "w": "plein",
+     "start": 53.2,
+     "end": 53.36
+    },
+    {
+     "w": "concert,",
+     "start": 53.36,
+     "end": 53.62
+    },
+    {
+     "w": "une",
+     "start": 53.88,
+     "end": 53.98
+    },
+    {
+     "w": "corde",
+     "start": 53.98,
+     "end": 54.26
+    },
+    {
+     "w": "de",
+     "start": 54.26,
+     "end": 54.36
+    },
+    {
+     "w": "sa",
+     "start": 54.36,
+     "end": 54.41
+    },
+    {
+     "w": "guitare",
+     "start": 54.4,
+     "end": 54.66
+    },
+    {
+     "w": "pète.",
+     "start": 54.66,
+     "end": 54.86
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 54.96,
+   "end": 60.26,
+   "slot_end": 60.329,
+   "text": "Kita improvise pour gagner du temps. Et Bocchi chope le verre de saké vide de Kikuri pour jouer son solo au bottleneck.",
+   "words": [
+    {
+     "w": "Kita",
+     "start": 54.96,
+     "end": 55.14
+    },
+    {
+     "w": "improvise",
+     "start": 55.14,
+     "end": 55.58
+    },
+    {
+     "w": "pour",
+     "start": 55.58,
+     "end": 55.74
+    },
+    {
+     "w": "gagner",
+     "start": 55.74,
+     "end": 55.96
+    },
+    {
+     "w": "du",
+     "start": 55.96,
+     "end": 56.1
+    },
+    {
+     "w": "temps.",
+     "start": 56.1,
+     "end": 56.3
+    },
+    {
+     "w": "Et",
+     "start": 56.84,
+     "end": 56.92
+    },
+    {
+     "w": "Bocchi",
+     "start": 56.92,
+     "end": 57.2
+    },
+    {
+     "w": "chope",
+     "start": 57.2,
+     "end": 57.34
+    },
+    {
+     "w": "le",
+     "start": 57.34,
+     "end": 57.5
+    },
+    {
+     "w": "verre",
+     "start": 57.5,
+     "end": 57.74
+    },
+    {
+     "w": "de",
+     "start": 57.74,
+     "end": 57.82
+    },
+    {
+     "w": "saké",
+     "start": 57.82,
+     "end": 58.1
+    },
+    {
+     "w": "vide",
+     "start": 58.1,
+     "end": 58.28
+    },
+    {
+     "w": "de",
+     "start": 58.28,
+     "end": 58.36
+    },
+    {
+     "w": "Kikuri",
+     "start": 58.36,
+     "end": 58.68
+    },
+    {
+     "w": "pour",
+     "start": 58.68,
+     "end": 58.88
+    },
+    {
+     "w": "jouer",
+     "start": 58.88,
+     "end": 59.08
+    },
+    {
+     "w": "son",
+     "start": 59.08,
+     "end": 59.28
+    },
+    {
+     "w": "solo",
+     "start": 59.28,
+     "end": 59.56
+    },
+    {
+     "w": "au",
+     "start": 59.56,
+     "end": 59.8
+    },
+    {
+     "w": "bottleneck.",
+     "start": 59.8,
+     "end": 60.26
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 60.34,
+   "end": 64.76,
+   "slot_end": 64.878,
+   "text": "Le public devient fou. Et là, portée par l'adrénaline, elle tente un slam dans la foule.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 60.34,
+     "end": 60.44
+    },
+    {
+     "w": "public",
+     "start": 60.44,
+     "end": 60.72
+    },
+    {
+     "w": "devient",
+     "start": 60.72,
+     "end": 60.98
+    },
+    {
+     "w": "fou.",
+     "start": 60.98,
+     "end": 61.28
+    },
+    {
+     "w": "Et",
+     "start": 62.06,
+     "end": 62.18
+    },
+    {
+     "w": "là,",
+     "start": 62.18,
+     "end": 62.28
+    },
+    {
+     "w": "portée",
+     "start": 62.36,
+     "end": 62.66
+    },
+    {
+     "w": "par",
+     "start": 62.66,
+     "end": 62.82
+    },
+    {
+     "w": "l'adrénaline,",
+     "start": 62.82,
+     "end": 63.36
+    },
+    {
+     "w": "elle",
+     "start": 63.5,
+     "end": 63.58
+    },
+    {
+     "w": "tente",
+     "start": 63.58,
+     "end": 63.76
+    },
+    {
+     "w": "un",
+     "start": 63.76,
+     "end": 64.08
+    },
+    {
+     "w": "slam",
+     "start": 64.08,
+     "end": 64.16
+    },
+    {
+     "w": "dans",
+     "start": 64.16,
+     "end": 64.38
+    },
+    {
+     "w": "la",
+     "start": 64.38,
+     "end": 64.5
+    },
+    {
+     "w": "foule.",
+     "start": 64.5,
+     "end": 64.76
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 64.9,
+   "end": 70.68,
+   "slot_end": 70.765,
+   "text": "Sauf que personne la rattrape. Elle s'écrase par terre devant tout le lycée. Génie et catastrophe dans la même seconde.",
+   "words": [
+    {
+     "w": "Sauf",
+     "start": 64.9,
+     "end": 65.02
+    },
+    {
+     "w": "que",
+     "start": 65.02,
+     "end": 65.14
+    },
+    {
+     "w": "personne",
+     "start": 65.14,
+     "end": 65.4
+    },
+    {
+     "w": "la",
+     "start": 65.62,
+     "end": 65.67
+    },
+    {
+     "w": "rattrape.",
+     "start": 65.64,
+     "end": 65.98
+    },
+    {
+     "w": "Elle",
+     "start": 66.56,
+     "end": 66.72
+    },
+    {
+     "w": "s'écrase",
+     "start": 66.72,
+     "end": 67.2
+    },
+    {
+     "w": "par",
+     "start": 67.2,
+     "end": 67.44
+    },
+    {
+     "w": "terre",
+     "start": 67.44,
+     "end": 67.6
+    },
+    {
+     "w": "devant",
+     "start": 67.6,
+     "end": 67.84
+    },
+    {
+     "w": "tout",
+     "start": 67.84,
+     "end": 68.02
+    },
+    {
+     "w": "le",
+     "start": 68.02,
+     "end": 68.14
+    },
+    {
+     "w": "lycée.",
+     "start": 68.14,
+     "end": 68.48
+    },
+    {
+     "w": "Génie",
+     "start": 68.88,
+     "end": 69.24
+    },
+    {
+     "w": "et",
+     "start": 69.24,
+     "end": 69.38
+    },
+    {
+     "w": "catastrophe",
+     "start": 69.38,
+     "end": 69.6
+    },
+    {
+     "w": "dans",
+     "start": 69.6,
+     "end": 69.98
+    },
+    {
+     "w": "la",
+     "start": 69.98,
+     "end": 70.08
+    },
+    {
+     "w": "même",
+     "start": 70.08,
+     "end": 70.22
+    },
+    {
+     "w": "seconde.",
+     "start": 70.22,
+     "end": 70.68
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 70.74,
+   "end": 75.26,
+   "slot_end": 75.476,
+   "text": "Moi franchement, Ryo méritait le podium rien que pour l'herbe. C'est quoi ton top 1 ? Dis-moi en com'.",
+   "words": [
+    {
+     "w": "Moi",
+     "start": 70.74,
+     "end": 70.9
+    },
+    {
+     "w": "franchement,",
+     "start": 71.02,
+     "end": 71.28
+    },
+    {
+     "w": "Ryo",
+     "start": 71.38,
+     "end": 71.58
+    },
+    {
+     "w": "méritait",
+     "start": 71.58,
+     "end": 71.94
+    },
+    {
+     "w": "le",
+     "start": 71.94,
+     "end": 72.08
+    },
+    {
+     "w": "podium",
+     "start": 72.08,
+     "end": 72.28
+    },
+    {
+     "w": "rien",
+     "start": 72.28,
+     "end": 72.62
+    },
+    {
+     "w": "que",
+     "start": 72.62,
+     "end": 72.78
+    },
+    {
+     "w": "pour",
+     "start": 72.78,
+     "end": 72.92
+    },
+    {
+     "w": "l'herbe.",
+     "start": 72.92,
+     "end": 73.22
+    },
+    {
+     "w": "C'est",
+     "start": 73.46,
+     "end": 73.7
+    },
+    {
+     "w": "quoi",
+     "start": 73.7,
+     "end": 73.82
+    },
+    {
+     "w": "ton",
+     "start": 73.82,
+     "end": 73.98
+    },
+    {
+     "w": "top",
+     "start": 73.98,
+     "end": 74.14
+    },
+    {
+     "w": "1",
+     "start": 74.14,
+     "end": 74.32
+    },
+    {
+     "w": "?",
+     "start": 74.76,
+     "end": 74.885
+    },
+    {
+     "w": "Dis-moi",
+     "start": 74.885,
+     "end": 75.01
+    },
+    {
+     "w": "en",
+     "start": 75.01,
+     "end": 75.135
+    },
+    {
+     "w": "com'.",
+     "start": 75.135,
+     "end": 75.26
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "start": 75.52,
+   "end": 77.56,
+   "slot_end": 78.453,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 75.52,
+     "end": 75.68
+    },
+    {
+     "w": "Asura.",
+     "start": 75.68,
+     "end": 76.06
+    },
+    {
+     "w": "On",
+     "start": 76.4,
+     "end": 76.52
+    },
+    {
+     "w": "se",
+     "start": 76.52,
+     "end": 76.64
+    },
+    {
+     "w": "capte",
+     "start": 76.64,
+     "end": 76.9
+    },
+    {
+     "w": "au",
+     "start": 76.9,
+     "end": 77.16
+    },
+    {
+     "w": "prochain",
+     "start": 77.16,
+     "end": 77.21
+    },
+    {
+     "w": "épisode.",
+     "start": 77.16,
+     "end": 77.56
+    }
+   ]
+  }
+ ],
+ "aligned": 0.994
+}

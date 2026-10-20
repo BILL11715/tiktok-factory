@@ -1,0 +1,16 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-20_2048/video.mp4",
+ "duration": 78.453,
+ "shots": 61,
+ "sources": [
+  "https://anilist.co/anime/186712",
+  "https://kitsu.io/anime/Bocchi-the-Rock-2nd-Season"
+ ],
+ "music": {
+  "file": "hype2.mp3",
+  "bpm": 92.3,
+  "offset": 16.35
+ },
+ "sfx": 21,
+ "engine": "remotion (OpenMontage)"
+}
