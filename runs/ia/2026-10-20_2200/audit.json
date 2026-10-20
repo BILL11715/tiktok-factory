@@ -1,0 +1,39 @@
+{
+ "stamp": "2026-10-20_2200",
+ "duration": 81.7,
+ "lead": 0.6,
+ "cps": 24.7,
+ "accuracy": 0.97,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "manucure",
+   "entendu": "manicure"
+  },
+  {
+   "dit": "premier",
+   "entendu": "promenee"
+  },
+  {
+   "dit": "chauffagiste",
+   "entendu": "chou fagiste"
+  },
+  {
+   "dit": "celles",
+   "entendu": "celle"
+  },
+  {
+   "dit": "o radiusse",
+   "entendu": "r d u s"
+  },
+  {
+   "dit": "opportunite",
+   "entendu": "opportunites"
+  },
+  {
+   "dit": "promets",
+   "entendu": "promet"
+  }
+ ],
+ "alerts": []
+}
