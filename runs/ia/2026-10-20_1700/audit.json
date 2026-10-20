@@ -1,0 +1,59 @@
+{
+ "stamp": "2026-10-20_1700",
+ "duration": 82.1,
+ "lead": 0.6,
+ "cps": 25.4,
+ "accuracy": 0.93,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "dis",
+   "entendu": "dit"
+  },
+  {
+   "dit": "non",
+   "entendu": "au nom"
+  },
+  {
+   "dit": "croises",
+   "entendu": "crois"
+  },
+  {
+   "dit": "carreleur",
+   "entendu": "carler"
+  },
+  {
+   "dit": "qu il voit",
+   "entendu": "qui voient"
+  },
+  {
+   "dit": "aucun conflit",
+   "entendu": ""
+  },
+  {
+   "dit": "e o radiusse",
+   "entendu": "oradus"
+  },
+  {
+   "dit": "opportunite",
+   "entendu": "opportunites"
+  },
+  {
+   "dit": "il",
+   "entendu": "et"
+  },
+  {
+   "dit": "place",
+   "entendu": "peste"
+  },
+  {
+   "dit": "signe",
+   "entendu": "signifie on va merci d"
+  },
+  {
+   "dit": "vrai merci donne",
+   "entendu": ""
+  }
+ ],
+ "alerts": []
+}

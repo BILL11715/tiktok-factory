@@ -1,0 +1,202 @@
+{
+  "title": "Un client content peut te ramener 3 prospects",
+  "theme": "seo",
+  "pillar": "seo-radius",
+  "format": "methode",
+  "music": "pote",
+  "cover": {
+    "text": "Ton client content vaut triple",
+    "highlight": [
+      "triple"
+    ],
+    "emoji": "🤝",
+    "sub": "la bonne question"
+  },
+  "hook_text": "Un client content peut te ramener trois clients de plus.",
+  "segments": [
+    {
+      "text": "Un client content peut te ramener trois clients de plus.",
+      "emphasis": [
+        "trois"
+      ]
+    },
+    {
+      "text": "Pourtant, presque personne ne lui demande. Par peur de déranger, ou parce qu'on ne sait pas quand.",
+      "visual": {
+        "kind": "title",
+        "kicker": "Le problème",
+        "text": "Personne n'ose demander",
+        "highlight": [
+          "demander"
+        ]
+      }
+    },
+    {
+      "text": "Le bon moment, ce n'est pas la signature. C'est le jour où il voit un premier résultat.",
+      "visual": {
+        "kind": "compare",
+        "left": {
+          "title": "Trop tôt",
+          "items": [
+            "À la signature",
+            "Avant tout résultat"
+          ]
+        },
+        "right": {
+          "title": "Le bon moment",
+          "items": [
+            "Plus d'appels",
+            "Fiche mieux placée"
+          ]
+        }
+      }
+    },
+    {
+      "text": "Imagine un plombier. Depuis deux mois, sa fiche Google ressort mieux et son téléphone sonne plus souvent.",
+      "visual": {
+        "kind": "search",
+        "query": "plombier Nantes",
+        "results": [
+          {
+            "name": "Plomberie Marc",
+            "note": "ta fiche cliente",
+            "rating": "4,8"
+          },
+          {
+            "name": "Eau Services 44",
+            "note": "site lent",
+            "rating": "4,1"
+          }
+        ],
+        "pick": 0
+      }
+    },
+    {
+      "text": "Là, il est content. C'est maintenant qu'il faut demander, avec une question précise.",
+      "stamp": "maintenant"
+    },
+    {
+      "text": "Ne dis pas : tu connais quelqu'un ? Il va répondre non, sans réfléchir.",
+      "visual": {
+        "kind": "chat",
+        "name": "Le plombier",
+        "user": "Tu connais quelqu'un qui aurait besoin de moi ?",
+        "assistant": "Euh... non, pas vraiment."
+      }
+    },
+    {
+      "text": "Demande plutôt : quels artisans tu croises sur tes chantiers ? Un électricien, un carreleur, un peintre ?",
+      "visual": {
+        "kind": "list",
+        "title": "Ses voisins de chantier",
+        "items": [
+          "Un électricien",
+          "Un carreleur",
+          "Un peintre"
+        ],
+        "at": [
+          "électricien",
+          "carreleur",
+          "peintre"
+        ]
+      }
+    },
+    {
+      "text": "Ce sont des gens qu'il voit chaque semaine, sans les mêmes clients que lui. Aucun conflit.",
+      "visual": {
+        "kind": "title",
+        "kicker": "Le bon réflexe",
+        "text": "Pas des concurrents",
+        "highlight": [
+          "concurrents"
+        ]
+      }
+    },
+    {
+      "text": "Avec deux ou trois noms, tu regardes où ils en sont sur Google. Pour ça, j'utilise SEO Radius.",
+      "visual": {
+        "kind": "card",
+        "emoji": "🔎",
+        "name": "SEO Radius",
+        "desc": "Trouver les entreprises à aider en SEO local",
+        "tags": [
+          "métier + ville",
+          "score /100"
+        ],
+        "url": "seoradius.fr"
+      }
+    },
+    {
+      "text": "Ensuite, tu choisis le métier et la ville. L'outil donne à chaque entreprise un score d'opportunité sur 100, une estimation.",
+      "visual": {
+        "kind": "stat",
+        "value": 74,
+        "suffix": "/100",
+        "label": "score d'opportunité estimé"
+      }
+    },
+    {
+      "text": "Si l'électricien a un bon score, tu le réserves. Il disparaît des listes des autres utilisateurs pendant 7 à 30 jours.",
+      "visual": {
+        "kind": "title",
+        "kicker": "Réservation",
+        "text": "Il est à toi",
+        "highlight": [
+          "toi"
+        ],
+        "sub": "7 à 30 jours selon le plan"
+      }
+    },
+    {
+      "text": "Et là, ton premier message change tout. Tu écris : Marc, le plombier, m'a parlé de vous.",
+      "visual": {
+        "kind": "chat",
+        "name": "L'électricien",
+        "user": "Bonjour, Marc le plombier m'a parlé de vous.",
+        "assistant": "Ah, Marc ! Oui, je vous écoute."
+      }
+    },
+    {
+      "text": "Un nom connu, c'est une porte déjà ouverte. Il t'écoute, alors qu'il aurait ignoré un inconnu.",
+      "stamp": "ouverte",
+      "sfx": true
+    },
+    {
+      "text": "Attention, demande toujours l'accord de ton client avant de citer son nom. Et ne promets jamais la première place sur Google.",
+      "visual": {
+        "kind": "list",
+        "title": "Deux règles",
+        "items": [
+          "Son accord avant tout",
+          "Jamais la 1re place"
+        ],
+        "at": [
+          "accord",
+          "première"
+        ]
+      }
+    },
+    {
+      "text": "Remercie aussi ton client, même si rien ne se signe. Un vrai merci donne envie de recommencer.",
+      "visual": {
+        "kind": "title",
+        "kicker": "Le détail qui compte",
+        "text": "Dis merci",
+        "highlight": [
+          "merci"
+        ]
+      }
+    },
+    {
+      "text": "Et toi, tu as déjà demandé une recommandation à un client ? Dis-moi en commentaire comment ça s'est passé."
+    }
+  ],
+  "caption": "Ton client content connaît tes prochains clients 🤝 La bonne question à lui poser (lien en bio)",
+  "hashtags": [
+    "#seo",
+    "#seolocal",
+    "#freelance",
+    "#prospection",
+    "#recommandation"
+  ]
+}
