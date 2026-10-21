@@ -1,0 +1,202 @@
+{
+  "title": "Page 1 de Google : le piège des annuaires",
+  "theme": "seo",
+  "pillar": "seo-radius",
+  "format": "mythe",
+  "music": "pote",
+  "cover": {
+    "text": "Tu prospectes des annuaires",
+    "highlight": [
+      "annuaires"
+    ],
+    "emoji": "📒",
+    "sub": "le piège de la page 1"
+  },
+  "hook_text": "Tu prospectes la page 1 de Google ? Tu appelles peut-être un annuaire.",
+  "segments": [
+    {
+      "text": "Tu prospectes la page 1 de Google ? Tu appelles peut-être un annuaire.",
+      "emphasis": [
+        "annuaire"
+      ]
+    },
+    {
+      "text": "Fais le test ce soir. Cherche plombier et ta ville sur Google, et regarde qui est vraiment devant sur toute la première page.",
+      "visual": {
+        "kind": "search",
+        "query": "plombier Lyon",
+        "results": [
+          {
+            "name": "Annuaire en ligne",
+            "note": "annuaire",
+            "rating": "4,2"
+          },
+          {
+            "name": "Site de devis",
+            "note": "plateforme",
+            "rating": "4,0"
+          },
+          {
+            "name": "Plomberie du Rhône",
+            "note": "vraie entreprise",
+            "rating": "4,6"
+          }
+        ],
+        "pick": 2
+      }
+    },
+    {
+      "text": "Le mythe, c'est de croire que chaque résultat est un client possible pour toi.",
+      "visual": {
+        "kind": "title",
+        "kicker": "Le mythe",
+        "text": "Chaque résultat est un client",
+        "highlight": "client",
+        "sub": "faux"
+      }
+    },
+    {
+      "text": "En vrai, une partie des places est souvent prise par des annuaires, des sites de devis et des grandes plateformes.",
+      "visual": {
+        "kind": "list",
+        "title": "Pas des prospects",
+        "items": [
+          "Les annuaires",
+          "Les sites de devis",
+          "Les grandes plateformes"
+        ],
+        "at": [
+          "annuaires",
+          "devis",
+          "plateformes"
+        ]
+      }
+    },
+    {
+      "text": "Ceux-là ne t'achèteront jamais un site ou un référencement. Et les trier à la main, page après page, c'est du temps perdu.",
+      "stamp": "perdu"
+    },
+    {
+      "text": "Pour ça, j'utilise SEO Radius.",
+      "visual": {
+        "kind": "card",
+        "emoji": "🎯",
+        "owner": "seoradius.fr",
+        "name": "SEO Radius",
+        "desc": "Trouver les entreprises mal référencées près de toi",
+        "tags": [
+          "prospection",
+          "SEO local"
+        ],
+        "price": "Gratuit pour démarrer",
+        "url": "seoradius.fr"
+      }
+    },
+    {
+      "text": "Concrètement, tu choisis un métier et une ville, ou un rayon autour de chez toi. L'outil analyse jusqu'à 50 résultats Google.",
+      "visual": {
+        "kind": "stat",
+        "value": 50,
+        "label": "résultats Google analysés",
+        "source": "par recherche"
+      }
+    },
+    {
+      "text": "Ensuite, il écarte les annuaires et les grandes plateformes, et il ne garde que les vraies entreprises.",
+      "visual": {
+        "kind": "compare",
+        "left": {
+          "title": "Avant",
+          "items": [
+            "Annuaires",
+            "Sites de devis",
+            "Entreprises"
+          ]
+        },
+        "right": {
+          "title": "Après",
+          "items": [
+            "Entreprises locales"
+          ]
+        }
+      },
+      "sfx": true
+    },
+    {
+      "text": "Chaque entreprise reçoit un score d'opportunité sur 100. C'est une estimation de l'écart entre sa place actuelle et ce qu'elle pourrait viser.",
+      "visual": {
+        "kind": "title",
+        "kicker": "Score d'opportunité",
+        "text": "Où elle est, où elle peut aller",
+        "highlight": "peut",
+        "sub": "une estimation"
+      }
+    },
+    {
+      "text": "Au final, tu tombes sur des artisans coincés en page 2, juste derrière les annuaires.",
+      "visual": {
+        "kind": "search",
+        "query": "plombier Lyon, page 2",
+        "results": [
+          {
+            "name": "Plomberie Saxe",
+            "note": "page 2, score estimé élevé",
+            "rating": "4,7"
+          },
+          {
+            "name": "Lyon Sanitaire",
+            "note": "page 2",
+            "rating": "4,3"
+          }
+        ],
+        "pick": 0
+      }
+    },
+    {
+      "text": "Ce sont eux, tes meilleurs prospects. Ils sont proches du haut, ils ont déjà des avis, et un coup de pouce peut se voir assez vite.",
+      "emphasis": [
+        "proches"
+      ]
+    },
+    {
+      "text": "Réserve-les, pour que les autres utilisateurs de l'outil ne les démarchent pas en même temps que toi.",
+      "visual": {
+        "kind": "title",
+        "kicker": "Réservation exclusive",
+        "text": "Il sort des autres listes",
+        "highlight": "sort",
+        "sub": "le temps de la réservation"
+      }
+    },
+    {
+      "text": "Au premier contact, montre-lui ce que voit son client : des annuaires devant lui, sur son propre métier. Une seule phrase, un seul constat.",
+      "visual": {
+        "kind": "chat",
+        "name": "Claude",
+        "user": "Écris un message court à un plombier en page 2, derrière trois annuaires.",
+        "assistant": "Bonjour, en cherchant un plombier à Lyon, je vois trois annuaires avant votre entreprise. Vos clients passent peut-être par eux. On en parle dix minutes cette semaine ?"
+      },
+      "sfx": true
+    },
+    {
+      "text": "Et reste honnête : ne promets jamais de passer devant tous les annuaires. Le score sert à trier, pas à promettre.",
+      "visual": {
+        "kind": "title",
+        "kicker": "Reste honnête",
+        "text": "Le score trie, il ne promet pas",
+        "highlight": "trie"
+      }
+    },
+    {
+      "text": "Et toi, combien d'annuaires tu comptes devant ton métier, dans ta ville ? Dis-le-moi en commentaire."
+    }
+  ],
+  "caption": "Avant d'appeler la page 1 de Google, compte les annuaires 📒 (lien en bio)",
+  "hashtags": [
+    "#seo",
+    "#seolocal",
+    "#prospection",
+    "#freelance",
+    "#clientsseo"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+ "stamp": "2026-10-21_0800",
+ "duration": 72.6,
+ "lead": 0.6,
+ "cps": 26.1,
+ "accuracy": 0.955,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "tu prospectes",
+   "entendu": "il prospecte"
+  },
+  {
+   "dit": "un de",
+   "entendu": "en"
+  },
+  {
+   "dit": "fais",
+   "entendu": "fait"
+  },
+  {
+   "dit": "prise",
+   "entendu": "crise"
+  },
+  {
+   "dit": "trier",
+   "entendu": "tries"
+  },
+  {
+   "dit": "o radiusse",
+   "entendu": "au radius"
+  },
+  {
+   "dit": "opportunite",
+   "entendu": "opportunites"
+  },
+  {
+   "dit": "c est",
+   "entendu": ""
+  },
+  {
+   "dit": "promets",
+   "entendu": "promet"
+  }
+ ],
+ "alerts": [
+  "débit 26.1 car./s : trop rapide (max 25.5)"
+ ]
+}
