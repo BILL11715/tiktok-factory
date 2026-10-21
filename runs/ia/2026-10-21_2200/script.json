@@ -1,0 +1,207 @@
+{
+ "title": "Premier rendez-vous client : 3 erreurs à éviter",
+ "theme": "seo",
+ "pillar": "seo-radius",
+ "format": "top",
+ "music": "pote",
+ "cover": {
+  "text": "Le rendez-vous qui fait signer",
+  "highlight": [
+   "signer"
+  ],
+  "emoji": "☕",
+  "sub": "3 erreurs à éviter"
+ },
+ "hook_text": "Premier rendez-vous avec un artisan ? Trois erreurs peuvent tout gâcher.",
+ "segments": [
+  {
+   "text": "Premier rendez-vous avec un artisan ? Trois erreurs peuvent tout gâcher.",
+   "emphasis": [
+    "erreurs"
+   ]
+  },
+  {
+   "text": "Le plus dur est fait : il a dit oui pour un café. Maintenant, il faut transformer ce café en client.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Le rendez-vous",
+    "text": "Un café, pas encore un client",
+    "highlight": "client"
+   }
+  },
+  {
+   "text": "Première erreur : arriver avec plein de mots techniques. Balises, backlinks, maillage... Le gérant décroche en dix secondes.",
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "Ce que tu dis",
+     "items": [
+      "Balises",
+      "Backlinks",
+      "Maillage"
+     ]
+    },
+    "right": {
+     "title": "Ce qu'il entend",
+     "items": [
+      "Rien compris",
+      "Ça va coûter cher",
+      "Pas pour moi"
+     ]
+    }
+   }
+  },
+  {
+   "text": "Parle plutôt de ce qui compte pour lui : les appels, les devis, et les chantiers qui partent chez le concurrent.",
+   "stamp": "appels"
+  },
+  {
+   "text": "Encore mieux, sors ton téléphone. Cherche son métier et sa ville devant lui, et laisse-le regarder où il apparaît.",
+   "visual": {
+    "kind": "search",
+    "query": "couvreur Toulouse",
+    "results": [
+     {
+      "name": "Toitures du Sud",
+      "note": "concurrent",
+      "rating": "4,8"
+     },
+     {
+      "name": "Couverture Garonne",
+      "note": "concurrent",
+      "rating": "4,6"
+     },
+     {
+      "name": "Durand Toiture",
+      "note": "lui, en page 2",
+      "rating": "4,1"
+     }
+    ],
+    "pick": 2
+   }
+  },
+  {
+   "text": "Deuxième erreur : vouloir tout corriger d'un coup. Une liste de vingt problèmes, ça fait peur, et ça fait cher.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Erreur numéro deux",
+    "text": "Vingt problèmes d'un coup",
+    "highlight": "Vingt"
+   }
+  },
+  {
+   "text": "Garde un seul constat, le plus visible. Une fiche Google sans photo, un site qui rame sur mobile, ou des avis sans réponse.",
+   "visual": {
+    "kind": "list",
+    "title": "Un seul constat",
+    "items": [
+     "Fiche sans photo",
+     "Site lent sur mobile",
+     "Avis sans réponse"
+    ],
+    "at": [
+     "photo",
+     "mobile",
+     "avis"
+    ]
+   }
+  },
+  {
+   "text": "Pour trouver ce constat avant le rendez-vous, j'utilise SEO Radius.",
+   "visual": {
+    "kind": "card",
+    "emoji": "🔎",
+    "name": "SEO Radius",
+    "desc": "Prospection SEO pour freelances",
+    "tags": [
+     "score /100",
+     "benchmark IA",
+     "CRM"
+    ],
+    "url": "seoradius.fr"
+   }
+  },
+  {
+   "text": "Ensuite, le score d'opportunité, qui reste une estimation, et le benchmark des concurrents te donnent ton argument. Relis toujours le benchmark avant de le montrer.",
+   "visual": {
+    "kind": "stat",
+    "value": 72,
+    "suffix": "/100",
+    "label": "score d'opportunité (estimation)"
+   }
+  },
+  {
+   "text": "Et réserve le prospect avant le café. Il disparaît des listes des autres utilisateurs pendant 7 à 30 jours.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Réservation exclusive",
+    "text": "Personne d'autre ne le voit",
+    "highlight": "Personne"
+   }
+  },
+  {
+   "text": "Troisième erreur : promettre la première place. Même Google le dit : personne ne peut garantir la première place.",
+   "sfx": true,
+   "visual": {
+    "kind": "stat",
+    "value": 0,
+    "suffix": "",
+    "label": "garantie de 1re place",
+    "source": "Google Search Central"
+   }
+  },
+  {
+   "text": "Promets plutôt du concret : sa fiche complète en une semaine, des réponses à ses avis, et un point chaque mois.",
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "Promesse vide",
+     "items": [
+      "Première place",
+      "Résultat garanti"
+     ]
+    },
+    "right": {
+     "title": "Promesse tenue",
+     "items": [
+      "Fiche complète",
+      "Avis répondus",
+      "Point mensuel"
+     ]
+    }
+   }
+  },
+  {
+   "text": "Pour finir le rendez-vous, propose une petite première mission, avec un prix simple et une date de départ.",
+   "visual": {
+    "kind": "list",
+    "title": "La fin du rendez-vous",
+    "items": [
+     "Une petite mission",
+     "Un prix simple",
+     "Une date de départ"
+    ],
+    "at": [
+     "mission",
+     "prix",
+     "départ"
+    ]
+   }
+  },
+  {
+   "text": "Le gérant n'a pas à dire oui à tout. Il dit oui à un premier pas, et ce premier pas devient souvent un client à l'année.",
+   "stamp": "premier pas"
+  },
+  {
+   "text": "Et toi, quelle question poses-tu en premier à un artisan ? Dis-la en commentaire, je lis tout."
+  }
+ ],
+ "caption": "Ton premier rendez-vous avec un artisan, sans les 3 erreurs qui font fuir ☕ (lien en bio)",
+ "hashtags": [
+  "#seo",
+  "#seolocal",
+  "#freelance",
+  "#prospection",
+  "#rendezvousclient"
+ ]
+}

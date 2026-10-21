@@ -1,0 +1,59 @@
+{
+ "stamp": "2026-10-21_2200",
+ "duration": 79.4,
+ "lead": 0.6,
+ "cps": 25.4,
+ "accuracy": 0.938,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "client premiere",
+   "entendu": "criant premier"
+  },
+  {
+   "dit": "arriver",
+   "entendu": "arrive"
+  },
+  {
+   "dit": "balises backlinks maillage",
+   "entendu": "ballises backings maillages"
+  },
+  {
+   "dit": "decroche",
+   "entendu": "des croches"
+  },
+  {
+   "dit": "devis",
+   "entendu": "deux vies"
+  },
+  {
+   "dit": "sors",
+   "entendu": "sort"
+  },
+  {
+   "dit": "garde",
+   "entendu": "gardes"
+  },
+  {
+   "dit": "j",
+   "entendu": ""
+  },
+  {
+   "dit": "s e o radiusse",
+   "entendu": "seo radio"
+  },
+  {
+   "dit": "relis",
+   "entendu": "la liste"
+  },
+  {
+   "dit": "promets",
+   "entendu": "promet"
+  },
+  {
+   "dit": "poses",
+   "entendu": "pose"
+  }
+ ],
+ "alerts": []
+}
