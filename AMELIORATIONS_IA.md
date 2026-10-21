@@ -18,21 +18,19 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
    Même chose pour « Exemple, » en ouverture : mal compris sur 2 vidéos (17/10 19:00 avalé, 18/10 17:00 « mes armes »),
    et « Prends un... » (18/10 17:00 « si tu es ») ; écrire « Imagine un plombier. » ou glisser l'exemple dans la phrase.
    Même chose pour « Puis » en ouverture : compté 3 fois dans les mots mal compris (20/10 08:00 « lui ») ; écrire « Ensuite, ».
-   « Tu » + verbe en début de phrase entendu « il » sur 2 vidéos (21/10 08:00 « tu prospectes » → « il prospecte », 21/10 12:00
-   « Tu lui donnes » → « il donne ») : préférer un verbe d'au moins 2 syllabes après « Tu » (« Tu ajoutes », bien entendu au 2e rendu du 21/10 12:00).
+   « Tu » + verbe en début de phrase entendu « il » sur 3 vidéos (21/10 08:00 « tu prospectes », 21/10 12:00 « Tu lui donnes »,
+   21/10 19:00 « Tu demandes » → « il demande », alors que le verbe a 2 syllabes) : ne pas ouvrir la phrase par « Tu » ; écrire
+   « Quand tu demandes... », « Si tu ajoutes... » ou « Toi, tu... ».
 6. Mettre « SEO Radius » en fin de phrase, jamais suivi d'un verbe court : les mots qui le suivent sont avalés
    sur 3 vidéos (14/10 « aura dus », « radius ed » ; 16/10 « SEO Radius. Tape un » entendu « au radus ca par »).
    Écrire « Pour ça, j'utilise SEO Radius. » puis une nouvelle phrase qui commence par un mot d'au moins
    2 syllabes (« Ensuite, tu choisis... ») : « SEO Radius. Tu tapes » a encore été avalé le 16/10 22:00 (« seo radus tap »).
    Le verbe « tapes » lui-même est mal compris sur 2 vidéos (16/10 « tap », 18/10 17:00 « t apples ») : écrire « tu choisis »
    (bien entendu au 2e rendu du 18/10 17:00).
-7. Durée : à débit 25 car./s, 1 450 à 1 480 caractères ne donnent que 77 à 81 s (17/10 22:00, 18/10 12:00, 18/10 22:00).
-   Viser 1 520 à 1 600 caractères pour tenir 82 à 90 s, sans dépasser 16 segments. Au-delà, ça déborde : 1 619 car. = 92,9 s (19/10 19:00),
-   et la vidéo du 19/10 17:00 a atteint 97,9 s (hors cible 95 s). Rester sous 1 600.
-   À longueur égale, la durée varie de plusieurs secondes selon le texte : 1 546 à 1 571 car. ont donné 82 à 93 s (20/10 17:00 : 1 554 car. = 82,1 s à 25,4 car./s ;
-   20/10 08:00 : 1 560 car. = 92,9 s ; 20/10 22:00 : 1 570 car. = 81,7 s à 24,7 car./s). Viser 1 570 à 1 600 car., jamais sous 1 540 (2 vidéos du 20/10
-   à 82 s avec 1 554 et 1 570 car.), jamais au-dessus de 1 600.
-   Le 21/10 12:00, 1 607 car. ont donné 81,8 s à 24,3 car./s : en format outil (phrases courtes, listes), viser le haut de la fourchette (1 590 à 1 600 car.).
+7. Durée : la même longueur donne des durées très différentes (1 560 car. = 92,9 s le 20/10 08:00, 1 600 car. = 72 à 82 s le 21/10).
+   Le 21/10, 4 vidéos sur 4 sous 82 s avec 1 590 à 1 610 car. (72,6 s, 81,8 s, 72,3 s, 80,0 s pour 1 610 car. à 25,1 car./s) :
+   viser désormais 1 620 à 1 650 car. (plafond du runbook), sans dépasser 16 segments, surtout en format outil, mythe ou méthode
+   à phrases courtes. Si une vidéo repasse au-dessus de 93 s à cette longueur, redescendre à 1 600.
 
 ## Pistes pour Bill (changements de code proposés, à valider par lui)
 - Audit : comparer la transcription au texte écrit du script, pas à la graphie phonétique du lexique.
@@ -42,6 +40,9 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
 - Audit : relancer `factory.audit` sur le même run ajoute une 2e ligne identique dans `audits_ia.jsonl` (doublons 14/10 12:00 et 19:00), ce qui gonfle le compte des « mots mal compris sur plusieurs vidéos ». Remplacer la ligne du même stamp au lieu d'en ajouter une.
 
 ## Journal (1 ligne par revue, la plus récente en haut, 20 lignes maximum)
+- 2026-10-21 (19:00) : 1er rendu à 88 % (« il te la dicte » entendu « si tu l as dictes », « magique. Plus il fait d'étapes seul » avalé) : reformulés,
+  2e rendu à 91 % avec alerte (écarts surtout graphie et homophones : anne tropique, ses/ces, cuisines ; « Tu demandes » entendu « il demande »), débit 25,1 car./s, 80,0 s
+  pour 1 610 car. Sur les 10 derniers audits, débit 24,3 à 26,1 car./s, 6 sans alerte. Règle 5 étendue (ne plus ouvrir par « Tu »), règle 7 relevée (1 620 à 1 650 car.).
 - 2026-10-21 (12:00) : 1er rendu à 92 % (« tes papiers ne partent » entendu « le papier part », « ne les lit » entendu « l est lie », « Tu lui donnes » entendu « il donne ») :
   reformulés, 2e rendu à 94 % sans alerte (débit 24,3 car./s, 81,8 s pour 1 607 car.). Sur les 10 derniers audits, débit 23,9 à 26,1 car./s (alerte débit au 21/10 08:00, 72,6 s), 7 sans alerte.
   « Tu » entendu « il » sur 2 vidéos : règle 5 étendue. Règle 7 précisée. AnythingLLM et Word ajoutés au lexique (bien entendus). Doublon d'audit du même stamp retiré à la main (piste déjà notée).
@@ -101,5 +102,3 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
 - 2026-10-12 (12:00) : 2 vidéos Kyutai auditées, débit 24,6 à 24,8 car./s (dans la cible). PowerPoint et
   Anthropic ajoutés au lexique (mal dits au 1er rendu, corrects au 2e). « rends » et « ton » reviennent
   mais sont des homophones : pas d'entrée au lexique, piste audit ajoutée pour Bill.
-- 2026-10-12 : mise en place. Voix Kyutai estelle ralentie à 0,94, pauses 0,22 / 0,36 s, 0,6 s de
-  silence d'ouverture, prix et nombres convertis en lettres, audit automatique après chaque vidéo.
