@@ -1,0 +1,1718 @@
+{
+ "engine": "fish",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-21_1749/voice.wav",
+ "duration": 91.996,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 3.0,
+   "slot_end": 3.117,
+   "text": "Cet anime a des têtes de bébés, et il m'a traumatisé à vie.",
+   "words": [
+    {
+     "w": "Cet",
+     "start": 0.0,
+     "end": 0.18
+    },
+    {
+     "w": "anime",
+     "start": 0.18,
+     "end": 0.56
+    },
+    {
+     "w": "a",
+     "start": 0.56,
+     "end": 0.72
+    },
+    {
+     "w": "des",
+     "start": 0.72,
+     "end": 0.925
+    },
+    {
+     "w": "têtes",
+     "start": 0.925,
+     "end": 1.13
+    },
+    {
+     "w": "de",
+     "start": 1.13,
+     "end": 1.335
+    },
+    {
+     "w": "bébés,",
+     "start": 1.335,
+     "end": 1.54
+    },
+    {
+     "w": "et",
+     "start": 1.54,
+     "end": 1.84
+    },
+    {
+     "w": "il",
+     "start": 1.84,
+     "end": 1.94
+    },
+    {
+     "w": "m'a",
+     "start": 1.94,
+     "end": 2.06
+    },
+    {
+     "w": "traumatisé",
+     "start": 2.06,
+     "end": 2.66
+    },
+    {
+     "w": "à",
+     "start": 2.66,
+     "end": 2.82
+    },
+    {
+     "w": "vie.",
+     "start": 2.82,
+     "end": 3.0
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 3.12,
+   "end": 6.7,
+   "slot_end": 6.798,
+   "text": "Reste jusqu'au numéro 1, parce que celui-là, j'ai mis une semaine à m'en remettre.",
+   "words": [
+    {
+     "w": "Reste",
+     "start": 3.12,
+     "end": 3.36
+    },
+    {
+     "w": "jusqu'au",
+     "start": 3.36,
+     "end": 3.68
+    },
+    {
+     "w": "numéro",
+     "start": 3.68,
+     "end": 3.92
+    },
+    {
+     "w": "1,",
+     "start": 3.92,
+     "end": 4.36
+    },
+    {
+     "w": "parce",
+     "start": 4.36,
+     "end": 4.86
+    },
+    {
+     "w": "que",
+     "start": 4.86,
+     "end": 5.02
+    },
+    {
+     "w": "celui-là,",
+     "start": 5.02,
+     "end": 5.44
+    },
+    {
+     "w": "j'ai",
+     "start": 5.58,
+     "end": 5.63
+    },
+    {
+     "w": "mis",
+     "start": 5.62,
+     "end": 5.7
+    },
+    {
+     "w": "une",
+     "start": 5.7,
+     "end": 5.9
+    },
+    {
+     "w": "semaine",
+     "start": 5.9,
+     "end": 6.16
+    },
+    {
+     "w": "à",
+     "start": 6.16,
+     "end": 6.34
+    },
+    {
+     "w": "m'en",
+     "start": 6.34,
+     "end": 6.46
+    },
+    {
+     "w": "remettre.",
+     "start": 6.46,
+     "end": 6.7
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 6.86,
+   "end": 16.02,
+   "slot_end": 16.128,
+   "text": "Le délire de Made in Abyss, c'est un trou géant au milieu d'une ville, et des gamins qui descendent dedans. Riko veut retrouver sa mère Lyza, avec Reg, un robot qui a l'air d'un petit garçon.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 6.86,
+     "end": 6.91
+    },
+    {
+     "w": "délire",
+     "start": 6.88,
+     "end": 7.24
+    },
+    {
+     "w": "de",
+     "start": 7.24,
+     "end": 7.38
+    },
+    {
+     "w": "Made",
+     "start": 7.38,
+     "end": 7.587
+    },
+    {
+     "w": "in",
+     "start": 7.587,
+     "end": 7.793
+    },
+    {
+     "w": "Abyss,",
+     "start": 7.793,
+     "end": 8.0
+    },
+    {
+     "w": "c'est",
+     "start": 8.2,
+     "end": 8.36
+    },
+    {
+     "w": "un",
+     "start": 8.36,
+     "end": 8.54
+    },
+    {
+     "w": "trou",
+     "start": 8.54,
+     "end": 8.76
+    },
+    {
+     "w": "géant",
+     "start": 8.76,
+     "end": 9.1
+    },
+    {
+     "w": "au",
+     "start": 9.1,
+     "end": 9.26
+    },
+    {
+     "w": "milieu",
+     "start": 9.26,
+     "end": 9.44
+    },
+    {
+     "w": "d'une",
+     "start": 9.44,
+     "end": 9.64
+    },
+    {
+     "w": "ville,",
+     "start": 9.64,
+     "end": 9.9
+    },
+    {
+     "w": "et",
+     "start": 9.9,
+     "end": 10.2
+    },
+    {
+     "w": "des",
+     "start": 10.2,
+     "end": 10.36
+    },
+    {
+     "w": "gamins",
+     "start": 10.36,
+     "end": 10.56
+    },
+    {
+     "w": "qui",
+     "start": 10.56,
+     "end": 10.72
+    },
+    {
+     "w": "descendent",
+     "start": 10.72,
+     "end": 11.08
+    },
+    {
+     "w": "dedans.",
+     "start": 11.08,
+     "end": 11.32
+    },
+    {
+     "w": "Riko",
+     "start": 12.16,
+     "end": 12.44
+    },
+    {
+     "w": "veut",
+     "start": 12.44,
+     "end": 12.6
+    },
+    {
+     "w": "retrouver",
+     "start": 12.6,
+     "end": 12.9
+    },
+    {
+     "w": "sa",
+     "start": 12.9,
+     "end": 13.12
+    },
+    {
+     "w": "mère",
+     "start": 13.12,
+     "end": 13.28
+    },
+    {
+     "w": "Lyza,",
+     "start": 13.28,
+     "end": 13.6
+    },
+    {
+     "w": "avec",
+     "start": 13.6,
+     "end": 14.06
+    },
+    {
+     "w": "Reg,",
+     "start": 14.06,
+     "end": 14.32
+    },
+    {
+     "w": "un",
+     "start": 14.56,
+     "end": 14.72
+    },
+    {
+     "w": "robot",
+     "start": 14.72,
+     "end": 14.9
+    },
+    {
+     "w": "qui",
+     "start": 14.9,
+     "end": 15.14
+    },
+    {
+     "w": "a",
+     "start": 15.14,
+     "end": 15.28
+    },
+    {
+     "w": "l'air",
+     "start": 15.28,
+     "end": 15.4
+    },
+    {
+     "w": "d'un",
+     "start": 15.4,
+     "end": 15.58
+    },
+    {
+     "w": "petit",
+     "start": 15.58,
+     "end": 15.7
+    },
+    {
+     "w": "garçon.",
+     "start": 15.7,
+     "end": 16.02
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 16.12,
+   "end": 20.56,
+   "slot_end": 20.667,
+   "text": "Sauf que l'Abysse a une règle. Plus tu descends loin, plus la remontée te détruit le corps.",
+   "words": [
+    {
+     "w": "Sauf",
+     "start": 16.12,
+     "end": 16.32
+    },
+    {
+     "w": "que",
+     "start": 16.32,
+     "end": 16.46
+    },
+    {
+     "w": "l'Abysse",
+     "start": 16.46,
+     "end": 16.72
+    },
+    {
+     "w": "a",
+     "start": 16.72,
+     "end": 16.84
+    },
+    {
+     "w": "une",
+     "start": 16.84,
+     "end": 16.92
+    },
+    {
+     "w": "règle.",
+     "start": 16.92,
+     "end": 17.22
+    },
+    {
+     "w": "Plus",
+     "start": 17.78,
+     "end": 17.94
+    },
+    {
+     "w": "tu",
+     "start": 17.94,
+     "end": 18.08
+    },
+    {
+     "w": "descends",
+     "start": 18.08,
+     "end": 18.36
+    },
+    {
+     "w": "loin,",
+     "start": 18.36,
+     "end": 18.62
+    },
+    {
+     "w": "plus",
+     "start": 19.16,
+     "end": 19.22
+    },
+    {
+     "w": "la",
+     "start": 19.22,
+     "end": 19.4
+    },
+    {
+     "w": "remontée",
+     "start": 19.4,
+     "end": 19.8
+    },
+    {
+     "w": "te",
+     "start": 19.8,
+     "end": 19.94
+    },
+    {
+     "w": "détruit",
+     "start": 19.94,
+     "end": 20.2
+    },
+    {
+     "w": "le",
+     "start": 20.2,
+     "end": 20.36
+    },
+    {
+     "w": "corps.",
+     "start": 20.36,
+     "end": 20.56
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 20.66,
+   "end": 30.02,
+   "slot_end": 30.347,
+   "text": "Numéro 5, la main de Riko. Une bestiole lui plante une épine empoisonnée, et on l'entend hurler pendant de longues minutes. Moi j'ai baissé le son, frr.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 20.66,
+     "end": 20.92
+    },
+    {
+     "w": "5,",
+     "start": 20.92,
+     "end": 21.26
+    },
+    {
+     "w": "la",
+     "start": 21.6,
+     "end": 21.66
+    },
+    {
+     "w": "main",
+     "start": 21.66,
+     "end": 21.84
+    },
+    {
+     "w": "de",
+     "start": 21.84,
+     "end": 22.04
+    },
+    {
+     "w": "Riko.",
+     "start": 22.04,
+     "end": 22.36
+    },
+    {
+     "w": "Une",
+     "start": 23.04,
+     "end": 23.24
+    },
+    {
+     "w": "bestiole",
+     "start": 23.24,
+     "end": 23.78
+    },
+    {
+     "w": "lui",
+     "start": 23.94,
+     "end": 23.99
+    },
+    {
+     "w": "plante",
+     "start": 23.98,
+     "end": 24.2
+    },
+    {
+     "w": "une",
+     "start": 24.2,
+     "end": 24.42
+    },
+    {
+     "w": "épine",
+     "start": 24.42,
+     "end": 24.7
+    },
+    {
+     "w": "empoisonnée,",
+     "start": 24.7,
+     "end": 25.48
+    },
+    {
+     "w": "et",
+     "start": 25.48,
+     "end": 26.06
+    },
+    {
+     "w": "on",
+     "start": 26.06,
+     "end": 26.16
+    },
+    {
+     "w": "l'entend",
+     "start": 26.16,
+     "end": 26.48
+    },
+    {
+     "w": "hurler",
+     "start": 26.48,
+     "end": 26.86
+    },
+    {
+     "w": "pendant",
+     "start": 26.86,
+     "end": 27.14
+    },
+    {
+     "w": "de",
+     "start": 27.14,
+     "end": 27.38
+    },
+    {
+     "w": "longues",
+     "start": 27.38,
+     "end": 27.64
+    },
+    {
+     "w": "minutes.",
+     "start": 27.64,
+     "end": 28.0
+    },
+    {
+     "w": "Moi",
+     "start": 28.54,
+     "end": 28.9
+    },
+    {
+     "w": "j'ai",
+     "start": 28.9,
+     "end": 29.06
+    },
+    {
+     "w": "baissé",
+     "start": 29.06,
+     "end": 29.26
+    },
+    {
+     "w": "le",
+     "start": 29.26,
+     "end": 29.42
+    },
+    {
+     "w": "son,",
+     "start": 29.42,
+     "end": 29.62
+    },
+    {
+     "w": "frr.",
+     "start": 29.62,
+     "end": 30.02
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 30.347,
+   "end": 39.06,
+   "slot_end": 39.167,
+   "text": "Numéro 4, la malédiction elle-même. À partir de la sixième couche, si tu remontes, tu perds ton humanité. Tu restes en vie, mais t'es plus vraiment toi.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 30.347,
+     "end": 30.397
+    },
+    {
+     "w": "4,",
+     "start": 30.347,
+     "end": 30.54
+    },
+    {
+     "w": "la",
+     "start": 31.26,
+     "end": 31.62
+    },
+    {
+     "w": "malédiction",
+     "start": 31.62,
+     "end": 31.98
+    },
+    {
+     "w": "elle-même.",
+     "start": 31.98,
+     "end": 32.54
+    },
+    {
+     "w": "À",
+     "start": 33.1,
+     "end": 33.16
+    },
+    {
+     "w": "partir",
+     "start": 33.16,
+     "end": 33.38
+    },
+    {
+     "w": "de",
+     "start": 33.38,
+     "end": 33.56
+    },
+    {
+     "w": "la",
+     "start": 33.56,
+     "end": 33.66
+    },
+    {
+     "w": "sixième",
+     "start": 33.66,
+     "end": 34.06
+    },
+    {
+     "w": "couche,",
+     "start": 34.06,
+     "end": 34.46
+    },
+    {
+     "w": "si",
+     "start": 34.64,
+     "end": 34.9
+    },
+    {
+     "w": "tu",
+     "start": 34.9,
+     "end": 35.02
+    },
+    {
+     "w": "remontes,",
+     "start": 35.02,
+     "end": 35.44
+    },
+    {
+     "w": "tu",
+     "start": 35.58,
+     "end": 35.64
+    },
+    {
+     "w": "perds",
+     "start": 35.64,
+     "end": 35.94
+    },
+    {
+     "w": "ton",
+     "start": 35.94,
+     "end": 36.04
+    },
+    {
+     "w": "humanité.",
+     "start": 36.04,
+     "end": 36.66
+    },
+    {
+     "w": "Tu",
+     "start": 37.3,
+     "end": 37.46
+    },
+    {
+     "w": "restes",
+     "start": 37.46,
+     "end": 37.68
+    },
+    {
+     "w": "en",
+     "start": 37.68,
+     "end": 37.82
+    },
+    {
+     "w": "vie,",
+     "start": 37.82,
+     "end": 38.0
+    },
+    {
+     "w": "mais",
+     "start": 38.14,
+     "end": 38.22
+    },
+    {
+     "w": "t'es",
+     "start": 38.22,
+     "end": 38.34
+    },
+    {
+     "w": "plus",
+     "start": 38.34,
+     "end": 38.5
+    },
+    {
+     "w": "vraiment",
+     "start": 38.5,
+     "end": 38.8
+    },
+    {
+     "w": "toi.",
+     "start": 38.8,
+     "end": 39.06
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 39.16,
+   "end": 41.86,
+   "slot_end": 41.962,
+   "text": "Si t'aimes les animes qui font mal comme ça, abonne-toi, j'en sors tous les jours.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 39.16,
+     "end": 39.28
+    },
+    {
+     "w": "t'aimes",
+     "start": 39.28,
+     "end": 39.42
+    },
+    {
+     "w": "les",
+     "start": 39.42,
+     "end": 39.56
+    },
+    {
+     "w": "animes",
+     "start": 39.56,
+     "end": 39.72
+    },
+    {
+     "w": "qui",
+     "start": 39.72,
+     "end": 39.86
+    },
+    {
+     "w": "font",
+     "start": 39.86,
+     "end": 40.0
+    },
+    {
+     "w": "mal",
+     "start": 40.0,
+     "end": 40.16
+    },
+    {
+     "w": "comme",
+     "start": 40.16,
+     "end": 40.34
+    },
+    {
+     "w": "ça,",
+     "start": 40.34,
+     "end": 40.52
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 40.68,
+     "end": 41.04
+    },
+    {
+     "w": "j'en",
+     "start": 41.14,
+     "end": 41.28
+    },
+    {
+     "w": "sors",
+     "start": 41.28,
+     "end": 41.4
+    },
+    {
+     "w": "tous",
+     "start": 41.4,
+     "end": 41.56
+    },
+    {
+     "w": "les",
+     "start": 41.56,
+     "end": 41.7
+    },
+    {
+     "w": "jours.",
+     "start": 41.7,
+     "end": 41.86
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 41.962,
+   "end": 49.78,
+   "slot_end": 49.909,
+   "text": "Numéro 3, Mitty. C'est la meilleure amie de Nanachi, transformée en créature qui ne peut pas mourir. Et Nanachi demande à Reg de la libérer.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 41.962,
+     "end": 42.16
+    },
+    {
+     "w": "3,",
+     "start": 42.16,
+     "end": 42.52
+    },
+    {
+     "w": "Mitty.",
+     "start": 42.98,
+     "end": 43.34
+    },
+    {
+     "w": "C'est",
+     "start": 44.04,
+     "end": 44.28
+    },
+    {
+     "w": "la",
+     "start": 44.28,
+     "end": 44.42
+    },
+    {
+     "w": "meilleure",
+     "start": 44.42,
+     "end": 44.8
+    },
+    {
+     "w": "amie",
+     "start": 44.8,
+     "end": 45.0
+    },
+    {
+     "w": "de",
+     "start": 45.0,
+     "end": 45.12
+    },
+    {
+     "w": "Nanachi,",
+     "start": 45.12,
+     "end": 45.54
+    },
+    {
+     "w": "transformée",
+     "start": 45.68,
+     "end": 46.1
+    },
+    {
+     "w": "en",
+     "start": 46.1,
+     "end": 46.2
+    },
+    {
+     "w": "créature",
+     "start": 46.2,
+     "end": 46.58
+    },
+    {
+     "w": "qui",
+     "start": 46.58,
+     "end": 46.78
+    },
+    {
+     "w": "ne",
+     "start": 46.78,
+     "end": 46.9
+    },
+    {
+     "w": "peut",
+     "start": 46.9,
+     "end": 47.0
+    },
+    {
+     "w": "pas",
+     "start": 47.0,
+     "end": 47.18
+    },
+    {
+     "w": "mourir.",
+     "start": 47.18,
+     "end": 47.58
+    },
+    {
+     "w": "Et",
+     "start": 47.92,
+     "end": 48.14
+    },
+    {
+     "w": "Nanachi",
+     "start": 48.14,
+     "end": 48.5
+    },
+    {
+     "w": "demande",
+     "start": 48.5,
+     "end": 48.76
+    },
+    {
+     "w": "à",
+     "start": 48.76,
+     "end": 49.0
+    },
+    {
+     "w": "Reg",
+     "start": 49.0,
+     "end": 49.2
+    },
+    {
+     "w": "de",
+     "start": 49.2,
+     "end": 49.32
+    },
+    {
+     "w": "la",
+     "start": 49.32,
+     "end": 49.42
+    },
+    {
+     "w": "libérer.",
+     "start": 49.42,
+     "end": 49.78
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 49.92,
+   "end": 54.3,
+   "slot_end": 54.478,
+   "text": "Reg tire avec son rayon, et Nanachi regarde jusqu'au bout. Cette scène, je la revois encore.",
+   "words": [
+    {
+     "w": "Reg",
+     "start": 49.92,
+     "end": 50.1
+    },
+    {
+     "w": "tire",
+     "start": 50.1,
+     "end": 50.28
+    },
+    {
+     "w": "avec",
+     "start": 50.28,
+     "end": 50.44
+    },
+    {
+     "w": "son",
+     "start": 50.44,
+     "end": 50.6
+    },
+    {
+     "w": "rayon,",
+     "start": 50.6,
+     "end": 50.92
+    },
+    {
+     "w": "et",
+     "start": 51.22,
+     "end": 51.28
+    },
+    {
+     "w": "Nanachi",
+     "start": 51.28,
+     "end": 51.64
+    },
+    {
+     "w": "regarde",
+     "start": 51.64,
+     "end": 51.96
+    },
+    {
+     "w": "jusqu'au",
+     "start": 51.96,
+     "end": 52.38
+    },
+    {
+     "w": "bout.",
+     "start": 52.38,
+     "end": 52.54
+    },
+    {
+     "w": "Cette",
+     "start": 52.94,
+     "end": 53.14
+    },
+    {
+     "w": "scène,",
+     "start": 53.14,
+     "end": 53.42
+    },
+    {
+     "w": "je",
+     "start": 53.62,
+     "end": 53.7
+    },
+    {
+     "w": "la",
+     "start": 53.7,
+     "end": 53.82
+    },
+    {
+     "w": "revois",
+     "start": 53.82,
+     "end": 54.06
+    },
+    {
+     "w": "encore.",
+     "start": 54.06,
+     "end": 54.3
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 54.478,
+   "end": 62.54,
+   "slot_end": 62.718,
+   "text": "Numéro 2, Bondrewd. Le mec porte un masque et il est super poli. Et il transforme des enfants en cartouches pour survivre à la malédiction.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 54.478,
+     "end": 54.66
+    },
+    {
+     "w": "2,",
+     "start": 54.66,
+     "end": 55.02
+    },
+    {
+     "w": "Bondrewd.",
+     "start": 55.02,
+     "end": 56.06
+    },
+    {
+     "w": "Le",
+     "start": 56.22,
+     "end": 56.64
+    },
+    {
+     "w": "mec",
+     "start": 56.64,
+     "end": 56.84
+    },
+    {
+     "w": "porte",
+     "start": 56.84,
+     "end": 57.18
+    },
+    {
+     "w": "un",
+     "start": 57.18,
+     "end": 57.38
+    },
+    {
+     "w": "masque",
+     "start": 57.38,
+     "end": 57.68
+    },
+    {
+     "w": "et",
+     "start": 57.68,
+     "end": 57.82
+    },
+    {
+     "w": "il",
+     "start": 57.82,
+     "end": 57.92
+    },
+    {
+     "w": "est",
+     "start": 57.92,
+     "end": 58.04
+    },
+    {
+     "w": "super",
+     "start": 58.04,
+     "end": 58.32
+    },
+    {
+     "w": "poli.",
+     "start": 58.32,
+     "end": 59.0
+    },
+    {
+     "w": "Et",
+     "start": 59.0,
+     "end": 59.26
+    },
+    {
+     "w": "il",
+     "start": 59.26,
+     "end": 59.36
+    },
+    {
+     "w": "transforme",
+     "start": 59.36,
+     "end": 59.84
+    },
+    {
+     "w": "des",
+     "start": 59.84,
+     "end": 59.98
+    },
+    {
+     "w": "enfants",
+     "start": 59.98,
+     "end": 60.26
+    },
+    {
+     "w": "en",
+     "start": 60.26,
+     "end": 60.54
+    },
+    {
+     "w": "cartouches",
+     "start": 60.54,
+     "end": 61.16
+    },
+    {
+     "w": "pour",
+     "start": 61.16,
+     "end": 61.36
+    },
+    {
+     "w": "survivre",
+     "start": 61.36,
+     "end": 61.88
+    },
+    {
+     "w": "à",
+     "start": 61.88,
+     "end": 61.98
+    },
+    {
+     "w": "la",
+     "start": 61.98,
+     "end": 62.06
+    },
+    {
+     "w": "malédiction.",
+     "start": 62.06,
+     "end": 62.54
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 62.78,
+   "end": 67.84,
+   "slot_end": 67.885,
+   "text": "Et le pire, c'est qu'il est sincère. Il appelle ses victimes ses enfants. Mais attends le numéro 1.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 62.78,
+     "end": 62.83
+    },
+    {
+     "w": "le",
+     "start": 62.8,
+     "end": 62.96
+    },
+    {
+     "w": "pire,",
+     "start": 62.96,
+     "end": 63.14
+    },
+    {
+     "w": "c'est",
+     "start": 63.14,
+     "end": 63.32
+    },
+    {
+     "w": "qu'il",
+     "start": 63.32,
+     "end": 63.48
+    },
+    {
+     "w": "est",
+     "start": 63.48,
+     "end": 63.6
+    },
+    {
+     "w": "sincère.",
+     "start": 63.6,
+     "end": 64.2
+    },
+    {
+     "w": "Il",
+     "start": 64.78,
+     "end": 64.84
+    },
+    {
+     "w": "appelle",
+     "start": 64.84,
+     "end": 65.04
+    },
+    {
+     "w": "ses",
+     "start": 65.04,
+     "end": 65.28
+    },
+    {
+     "w": "victimes",
+     "start": 65.28,
+     "end": 65.66
+    },
+    {
+     "w": "ses",
+     "start": 65.66,
+     "end": 65.82
+    },
+    {
+     "w": "enfants.",
+     "start": 65.82,
+     "end": 66.14
+    },
+    {
+     "w": "Mais",
+     "start": 66.68,
+     "end": 66.98
+    },
+    {
+     "w": "attends",
+     "start": 66.98,
+     "end": 67.16
+    },
+    {
+     "w": "le",
+     "start": 67.16,
+     "end": 67.34
+    },
+    {
+     "w": "numéro",
+     "start": 67.34,
+     "end": 67.56
+    },
+    {
+     "w": "1.",
+     "start": 67.56,
+     "end": 67.84
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 67.92,
+   "end": 74.26,
+   "slot_end": 74.387,
+   "text": "Numéro 1, Prushka. La propre fille de Bondrewd, qui devient super pote avec Riko dans le film Dawn of the Deep Soul.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 67.92,
+     "end": 68.22
+    },
+    {
+     "w": "1,",
+     "start": 68.22,
+     "end": 68.52
+    },
+    {
+     "w": "Prushka.",
+     "start": 68.7,
+     "end": 69.2
+    },
+    {
+     "w": "La",
+     "start": 69.84,
+     "end": 69.98
+    },
+    {
+     "w": "propre",
+     "start": 69.98,
+     "end": 70.2
+    },
+    {
+     "w": "fille",
+     "start": 70.2,
+     "end": 70.48
+    },
+    {
+     "w": "de",
+     "start": 70.48,
+     "end": 70.62
+    },
+    {
+     "w": "Bondrewd,",
+     "start": 70.62,
+     "end": 71.06
+    },
+    {
+     "w": "qui",
+     "start": 71.06,
+     "end": 71.3
+    },
+    {
+     "w": "devient",
+     "start": 71.3,
+     "end": 71.56
+    },
+    {
+     "w": "super",
+     "start": 71.56,
+     "end": 71.88
+    },
+    {
+     "w": "pote",
+     "start": 71.88,
+     "end": 72.2
+    },
+    {
+     "w": "avec",
+     "start": 72.2,
+     "end": 72.46
+    },
+    {
+     "w": "Riko",
+     "start": 72.46,
+     "end": 72.68
+    },
+    {
+     "w": "dans",
+     "start": 72.68,
+     "end": 72.94
+    },
+    {
+     "w": "le",
+     "start": 72.94,
+     "end": 73.08
+    },
+    {
+     "w": "film",
+     "start": 73.08,
+     "end": 73.28
+    },
+    {
+     "w": "Dawn",
+     "start": 73.28,
+     "end": 73.46
+    },
+    {
+     "w": "of",
+     "start": 73.46,
+     "end": 73.64
+    },
+    {
+     "w": "the",
+     "start": 73.64,
+     "end": 73.82
+    },
+    {
+     "w": "Deep",
+     "start": 73.82,
+     "end": 73.98
+    },
+    {
+     "w": "Soul.",
+     "start": 73.98,
+     "end": 74.26
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 74.38,
+   "end": 81.68,
+   "slot_end": 81.756,
+   "text": "Et lui, sans trembler, il la sacrifie. Ce qui reste d'elle finit en sifflet blanc autour du cou de Riko. Là j'ai coupé l'écran, sérieux.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 74.38,
+     "end": 74.5
+    },
+    {
+     "w": "lui,",
+     "start": 74.5,
+     "end": 74.68
+    },
+    {
+     "w": "sans",
+     "start": 74.68,
+     "end": 74.86
+    },
+    {
+     "w": "trembler,",
+     "start": 74.86,
+     "end": 75.32
+    },
+    {
+     "w": "il",
+     "start": 75.54,
+     "end": 75.59
+    },
+    {
+     "w": "la",
+     "start": 75.56,
+     "end": 75.7
+    },
+    {
+     "w": "sacrifie.",
+     "start": 75.7,
+     "end": 76.64
+    },
+    {
+     "w": "Ce",
+     "start": 76.64,
+     "end": 76.84
+    },
+    {
+     "w": "qui",
+     "start": 76.84,
+     "end": 77.0
+    },
+    {
+     "w": "reste",
+     "start": 77.0,
+     "end": 77.2
+    },
+    {
+     "w": "d'elle",
+     "start": 77.2,
+     "end": 77.44
+    },
+    {
+     "w": "finit",
+     "start": 77.44,
+     "end": 77.8
+    },
+    {
+     "w": "en",
+     "start": 77.8,
+     "end": 77.96
+    },
+    {
+     "w": "sifflet",
+     "start": 77.96,
+     "end": 78.32
+    },
+    {
+     "w": "blanc",
+     "start": 78.32,
+     "end": 78.62
+    },
+    {
+     "w": "autour",
+     "start": 78.62,
+     "end": 78.92
+    },
+    {
+     "w": "du",
+     "start": 78.92,
+     "end": 79.16
+    },
+    {
+     "w": "cou",
+     "start": 79.16,
+     "end": 79.3
+    },
+    {
+     "w": "de",
+     "start": 79.3,
+     "end": 79.42
+    },
+    {
+     "w": "Riko.",
+     "start": 79.42,
+     "end": 79.68
+    },
+    {
+     "w": "Là",
+     "start": 80.28,
+     "end": 80.52
+    },
+    {
+     "w": "j'ai",
+     "start": 80.52,
+     "end": 80.68
+    },
+    {
+     "w": "coupé",
+     "start": 80.68,
+     "end": 80.94
+    },
+    {
+     "w": "l'écran,",
+     "start": 80.94,
+     "end": 81.24
+    },
+    {
+     "w": "sérieux.",
+     "start": 81.24,
+     "end": 81.68
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 81.68,
+   "end": 88.709,
+   "slot_end": 88.769,
+   "text": "Et ce 23 octobre, un nouveau film Made in Abyss sort. Je vais le regarder, mais avec des mouchoirs. Ton numéro 1 à toi, c'est lequel ?",
+   "words": [
+    {
+     "w": "Et",
+     "start": 81.68,
+     "end": 81.86
+    },
+    {
+     "w": "ce",
+     "start": 81.86,
+     "end": 82.06
+    },
+    {
+     "w": "23",
+     "start": 82.06,
+     "end": 82.46
+    },
+    {
+     "w": "octobre,",
+     "start": 82.46,
+     "end": 83.28
+    },
+    {
+     "w": "un",
+     "start": 83.34,
+     "end": 83.44
+    },
+    {
+     "w": "nouveau",
+     "start": 83.44,
+     "end": 83.6
+    },
+    {
+     "w": "film",
+     "start": 83.6,
+     "end": 83.92
+    },
+    {
+     "w": "Made",
+     "start": 83.92,
+     "end": 84.107
+    },
+    {
+     "w": "in",
+     "start": 84.107,
+     "end": 84.293
+    },
+    {
+     "w": "Abyss",
+     "start": 84.293,
+     "end": 84.48
+    },
+    {
+     "w": "sort.",
+     "start": 84.48,
+     "end": 84.86
+    },
+    {
+     "w": "Je",
+     "start": 85.28,
+     "end": 85.38
+    },
+    {
+     "w": "vais",
+     "start": 85.38,
+     "end": 85.52
+    },
+    {
+     "w": "le",
+     "start": 85.52,
+     "end": 85.64
+    },
+    {
+     "w": "regarder,",
+     "start": 85.64,
+     "end": 85.98
+    },
+    {
+     "w": "mais",
+     "start": 85.98,
+     "end": 86.28
+    },
+    {
+     "w": "avec",
+     "start": 86.28,
+     "end": 86.46
+    },
+    {
+     "w": "des",
+     "start": 86.46,
+     "end": 86.6
+    },
+    {
+     "w": "mouchoirs.",
+     "start": 86.6,
+     "end": 87.38
+    },
+    {
+     "w": "Ton",
+     "start": 87.38,
+     "end": 87.48
+    },
+    {
+     "w": "numéro",
+     "start": 87.48,
+     "end": 87.7
+    },
+    {
+     "w": "1",
+     "start": 87.7,
+     "end": 87.94
+    },
+    {
+     "w": "à",
+     "start": 87.94,
+     "end": 88.04
+    },
+    {
+     "w": "toi,",
+     "start": 88.04,
+     "end": 88.18
+    },
+    {
+     "w": "c'est",
+     "start": 88.18,
+     "end": 88.38
+    },
+    {
+     "w": "lequel",
+     "start": 88.38,
+     "end": 88.6
+    },
+    {
+     "w": "?",
+     "start": 88.6,
+     "end": 88.709
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 88.76,
+   "end": 91.22,
+   "slot_end": 91.996,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 88.76,
+     "end": 88.96
+    },
+    {
+     "w": "Asura.",
+     "start": 88.96,
+     "end": 89.36
+    },
+    {
+     "w": "On",
+     "start": 89.86,
+     "end": 90.12
+    },
+    {
+     "w": "se",
+     "start": 90.12,
+     "end": 90.22
+    },
+    {
+     "w": "capte",
+     "start": 90.22,
+     "end": 90.44
+    },
+    {
+     "w": "au",
+     "start": 90.44,
+     "end": 90.54
+    },
+    {
+     "w": "prochain",
+     "start": 90.54,
+     "end": 90.84
+    },
+    {
+     "w": "épisode.",
+     "start": 90.84,
+     "end": 91.22
+    }
+   ]
+  }
+ ],
+ "aligned": 0.984
+}

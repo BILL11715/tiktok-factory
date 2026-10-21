@@ -1,0 +1,69 @@
+{
+ "Made in Abyss": {
+  "meta": {
+   "id": "13273",
+   "title": "Made in Abyss",
+   "titles": {
+    "en_jp": "Made in Abyss",
+    "en_us": "Made in Abyss",
+    "ja_jp": "メイドインアビス"
+   },
+   "synopsis": "The enormous cave system, known as the Abyss, is the only unexplored place in the world. Nobody knows how deep down goes this titanic pit, inhabited by strange and wondrous creatures and full of mysterious ancient relics which purpose in unknown to modern man. Generations of bold adventurers have been drawn by the cryptic depths of the Abyss. In course of time those bold enough to explore the dangerous pit came to be known as \"Cave Raiders.\"\n\nIn Oosu, the town at the edge of the Abyss, there lives a little orphan named Rico, who dreams of becoming as great a cave raider as her mother was and solving the great mystery of the pit. One day exploring the murky depths she stumbles upon a little boy, who turns out to be a robot...",
+   "episodes": 13,
+   "start": "2017-07-07",
+   "source": "https://kitsu.io/anime/made-in-abyss"
+  },
+  "wide": [
+   "/home/claude/tiktok-factory/runs/2026-10-21_1749/images/aef36c6fbdeb.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-21_1749/images/f9f004e2cbde.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-21_1749/images/612ad9523604.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-21_1749/images/3deb24f89e1b.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-21_1749/images/513d2adb3618.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-21_1749/images/60bac8f9aad2.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-21_1749/images/e0fc95298da9.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-21_1749/images/cb987467dbac.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-21_1749/images/bc292f39cfdd.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-21_1749/images/b2f983cd34c0.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-21_1749/images/c8c7a8908b8a.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-21_1749/images/08cbbca6bffc.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-21_1749/images/65110aecf3fa.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-21_1749/images/a66f00e58316.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-21_1749/images/017291d86dc7.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-21_1749/images/e4f8b8e968cf.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-21_1749/images/4122b0645db7.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-21_1749/images/4084e7d3583f.jpg"
+  ],
+  "tall": [
+   "/home/claude/tiktok-factory/runs/2026-10-21_1749/images/863a60228602.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-21_1749/images/c0c79b397252.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-21_1749/images/7ecb84d32945.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-21_1749/images/c2a8ecaca3ee.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-21_1749/images/348c862a2200.jpg"
+  ],
+  "characters": {
+   "Ouzen": "/home/claude/tiktok-factory/runs/2026-10-21_1749/images/b4a5bcc6daef.jpg",
+   "Regu": "/home/claude/tiktok-factory/runs/2026-10-21_1749/images/c84288eb65ef.jpg",
+   "Riko": "/home/claude/tiktok-factory/runs/2026-10-21_1749/images/ab9d90e60d47.jpg",
+   "Bondrewd": "/home/claude/tiktok-factory/runs/2026-10-21_1749/images/86f1c233bbcb.jpg",
+   "Habolg": "/home/claude/tiktok-factory/runs/2026-10-21_1749/images/7bbc6adfea3d.jpg",
+   "Inchou": "/home/claude/tiktok-factory/runs/2026-10-21_1749/images/f7ca891bd940.jpg",
+   "Jiruo": "/home/claude/tiktok-factory/runs/2026-10-21_1749/images/e6143d727bf1.jpg",
+   "Kiwi": "/home/claude/tiktok-factory/runs/2026-10-21_1749/images/67dbe9377c44.jpg",
+   "Laffi": "/home/claude/tiktok-factory/runs/2026-10-21_1749/images/a4ffe49d10c3.jpg",
+   "Lyza": "/home/claude/tiktok-factory/runs/2026-10-21_1749/images/ea1f48ee0870.jpg",
+   "Maruruk": "/home/claude/tiktok-factory/runs/2026-10-21_1749/images/ab32a5d0dd83.jpg",
+   "Mio": "/home/claude/tiktok-factory/runs/2026-10-21_1749/images/fcce69cc2643.jpg",
+   "Mitty": "/home/claude/tiktok-factory/runs/2026-10-21_1749/images/4def3ed869d7.jpg",
+   "Nanachi": "/home/claude/tiktok-factory/runs/2026-10-21_1749/images/eacfbcc54e06.jpg",
+   "Nat": "/home/claude/tiktok-factory/runs/2026-10-21_1749/images/67439c20357f.jpg",
+   "Shimred": "/home/claude/tiktok-factory/runs/2026-10-21_1749/images/e86513d404c4.jpg",
+   "Siggy": "/home/claude/tiktok-factory/runs/2026-10-21_1749/images/411401fda917.jpg",
+   "Tankutsuka": "/home/claude/tiktok-factory/runs/2026-10-21_1749/images/d05709b63a0e.jpg",
+   "Yelme": "/home/claude/tiktok-factory/runs/2026-10-21_1749/images/ce1fdf4492eb.jpg",
+   "Zapo-jii": "/home/claude/tiktok-factory/runs/2026-10-21_1749/images/f69bd145836e.jpg"
+  },
+  "sources": [
+   "https://kitsu.io/anime/made-in-abyss"
+  ]
+ }
+}

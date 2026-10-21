@@ -1,0 +1,15 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-21_1749/video.mp4",
+ "duration": 91.996,
+ "shots": 68,
+ "sources": [
+  "https://kitsu.io/anime/made-in-abyss"
+ ],
+ "music": {
+  "file": "mystere.mp3",
+  "bpm": 152.0,
+  "offset": 13.004000000000005
+ },
+ "sfx": 32,
+ "engine": "remotion (OpenMontage)"
+}
