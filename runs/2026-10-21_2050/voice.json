@@ -1,0 +1,1642 @@
+{
+ "engine": "fish",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-21_2050/voice.wav",
+ "duration": 80.665,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 2.98,
+   "slot_end": 2.851,
+   "text": "Ce gamin a mis l'implant de sa mère morte dans sa colonne.",
+   "words": [
+    {
+     "w": "Ce",
+     "start": 0.0,
+     "end": 0.2
+    },
+    {
+     "w": "gamin",
+     "start": 0.2,
+     "end": 0.32
+    },
+    {
+     "w": "a",
+     "start": 0.32,
+     "end": 0.5
+    },
+    {
+     "w": "mis",
+     "start": 0.5,
+     "end": 0.56
+    },
+    {
+     "w": "l'implant",
+     "start": 0.56,
+     "end": 0.96
+    },
+    {
+     "w": "de",
+     "start": 0.96,
+     "end": 1.18
+    },
+    {
+     "w": "sa",
+     "start": 1.18,
+     "end": 1.38
+    },
+    {
+     "w": "mère",
+     "start": 1.38,
+     "end": 1.62
+    },
+    {
+     "w": "morte",
+     "start": 1.62,
+     "end": 1.98
+    },
+    {
+     "w": "dans",
+     "start": 1.98,
+     "end": 2.22
+    },
+    {
+     "w": "sa",
+     "start": 2.22,
+     "end": 2.42
+    },
+    {
+     "w": "colonne.",
+     "start": 2.42,
+     "end": 2.98
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 3.1,
+   "end": 8.14,
+   "slot_end": 8.325,
+   "text": "La saison 2 est sortie le 20 octobre sur Netflix, mais reste, j'te raconte d'abord comment tout a commencé.",
+   "words": [
+    {
+     "w": "La",
+     "start": 3.1,
+     "end": 3.2
+    },
+    {
+     "w": "saison",
+     "start": 3.2,
+     "end": 3.4
+    },
+    {
+     "w": "2",
+     "start": 3.4,
+     "end": 3.56
+    },
+    {
+     "w": "est",
+     "start": 3.56,
+     "end": 3.68
+    },
+    {
+     "w": "sortie",
+     "start": 3.68,
+     "end": 3.84
+    },
+    {
+     "w": "le",
+     "start": 3.84,
+     "end": 4.1
+    },
+    {
+     "w": "20",
+     "start": 4.1,
+     "end": 4.28
+    },
+    {
+     "w": "octobre",
+     "start": 4.28,
+     "end": 4.8
+    },
+    {
+     "w": "sur",
+     "start": 4.8,
+     "end": 4.96
+    },
+    {
+     "w": "Netflix,",
+     "start": 4.96,
+     "end": 5.26
+    },
+    {
+     "w": "mais",
+     "start": 5.88,
+     "end": 6.02
+    },
+    {
+     "w": "reste,",
+     "start": 6.02,
+     "end": 6.24
+    },
+    {
+     "w": "j'te",
+     "start": 6.42,
+     "end": 6.54
+    },
+    {
+     "w": "raconte",
+     "start": 6.54,
+     "end": 6.78
+    },
+    {
+     "w": "d'abord",
+     "start": 6.78,
+     "end": 7.08
+    },
+    {
+     "w": "comment",
+     "start": 7.08,
+     "end": 7.38
+    },
+    {
+     "w": "tout",
+     "start": 7.38,
+     "end": 7.62
+    },
+    {
+     "w": "a",
+     "start": 7.62,
+     "end": 7.78
+    },
+    {
+     "w": "commencé.",
+     "start": 7.78,
+     "end": 8.14
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 8.34,
+   "end": 14.38,
+   "slot_end": 14.459,
+   "text": "Night City. David bosse dans une académie Arasaka, et sa mère Gloria se tue au travail pour payer les frais.",
+   "words": [
+    {
+     "w": "Night",
+     "start": 8.34,
+     "end": 8.5
+    },
+    {
+     "w": "City.",
+     "start": 8.5,
+     "end": 8.82
+    },
+    {
+     "w": "David",
+     "start": 9.6,
+     "end": 9.88
+    },
+    {
+     "w": "bosse",
+     "start": 9.88,
+     "end": 10.18
+    },
+    {
+     "w": "dans",
+     "start": 10.18,
+     "end": 10.36
+    },
+    {
+     "w": "une",
+     "start": 10.36,
+     "end": 10.54
+    },
+    {
+     "w": "académie",
+     "start": 10.54,
+     "end": 10.93
+    },
+    {
+     "w": "Arasaka,",
+     "start": 10.93,
+     "end": 11.32
+    },
+    {
+     "w": "et",
+     "start": 11.8,
+     "end": 11.96
+    },
+    {
+     "w": "sa",
+     "start": 11.96,
+     "end": 12.08
+    },
+    {
+     "w": "mère",
+     "start": 12.08,
+     "end": 12.26
+    },
+    {
+     "w": "Gloria",
+     "start": 12.26,
+     "end": 12.64
+    },
+    {
+     "w": "se",
+     "start": 12.64,
+     "end": 12.9
+    },
+    {
+     "w": "tue",
+     "start": 12.9,
+     "end": 13.06
+    },
+    {
+     "w": "au",
+     "start": 13.06,
+     "end": 13.2
+    },
+    {
+     "w": "travail",
+     "start": 13.2,
+     "end": 13.48
+    },
+    {
+     "w": "pour",
+     "start": 13.48,
+     "end": 13.72
+    },
+    {
+     "w": "payer",
+     "start": 13.72,
+     "end": 13.96
+    },
+    {
+     "w": "les",
+     "start": 13.96,
+     "end": 14.18
+    },
+    {
+     "w": "frais.",
+     "start": 14.18,
+     "end": 14.38
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 14.46,
+   "end": 20.42,
+   "slot_end": 20.631,
+   "text": "Sauf qu'un soir, elle se fait prendre dans une fusillade sur l'autoroute, et l'ambulance de luxe ne vient même pas la chercher.",
+   "words": [
+    {
+     "w": "Sauf",
+     "start": 14.46,
+     "end": 14.62
+    },
+    {
+     "w": "qu'un",
+     "start": 14.62,
+     "end": 14.84
+    },
+    {
+     "w": "soir,",
+     "start": 14.84,
+     "end": 15.02
+    },
+    {
+     "w": "elle",
+     "start": 15.3,
+     "end": 15.4
+    },
+    {
+     "w": "se",
+     "start": 15.4,
+     "end": 15.52
+    },
+    {
+     "w": "fait",
+     "start": 15.52,
+     "end": 15.66
+    },
+    {
+     "w": "prendre",
+     "start": 15.66,
+     "end": 15.92
+    },
+    {
+     "w": "dans",
+     "start": 15.92,
+     "end": 16.18
+    },
+    {
+     "w": "une",
+     "start": 16.18,
+     "end": 16.4
+    },
+    {
+     "w": "fusillade",
+     "start": 16.4,
+     "end": 17.02
+    },
+    {
+     "w": "sur",
+     "start": 17.02,
+     "end": 17.26
+    },
+    {
+     "w": "l'autoroute,",
+     "start": 17.26,
+     "end": 17.78
+    },
+    {
+     "w": "et",
+     "start": 18.22,
+     "end": 18.4
+    },
+    {
+     "w": "l'ambulance",
+     "start": 18.4,
+     "end": 18.86
+    },
+    {
+     "w": "de",
+     "start": 18.86,
+     "end": 19.08
+    },
+    {
+     "w": "luxe",
+     "start": 19.08,
+     "end": 19.26
+    },
+    {
+     "w": "ne",
+     "start": 19.26,
+     "end": 19.48
+    },
+    {
+     "w": "vient",
+     "start": 19.48,
+     "end": 19.62
+    },
+    {
+     "w": "même",
+     "start": 19.62,
+     "end": 19.8
+    },
+    {
+     "w": "pas",
+     "start": 19.8,
+     "end": 20.0
+    },
+    {
+     "w": "la",
+     "start": 20.0,
+     "end": 20.14
+    },
+    {
+     "w": "chercher.",
+     "start": 20.14,
+     "end": 20.42
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 20.66,
+   "end": 26.2,
+   "slot_end": 26.302,
+   "text": "Gloria meurt. Dans ses affaires, David trouve un Sandevistan, un implant militaire qui ralentit le temps autour de toi.",
+   "words": [
+    {
+     "w": "Gloria",
+     "start": 20.66,
+     "end": 20.88
+    },
+    {
+     "w": "meurt.",
+     "start": 20.88,
+     "end": 21.4
+    },
+    {
+     "w": "Dans",
+     "start": 21.76,
+     "end": 21.81
+    },
+    {
+     "w": "ses",
+     "start": 21.78,
+     "end": 21.9
+    },
+    {
+     "w": "affaires,",
+     "start": 21.9,
+     "end": 22.2
+    },
+    {
+     "w": "David",
+     "start": 22.38,
+     "end": 22.52
+    },
+    {
+     "w": "trouve",
+     "start": 22.52,
+     "end": 22.76
+    },
+    {
+     "w": "un",
+     "start": 22.76,
+     "end": 22.9
+    },
+    {
+     "w": "Sandevistan,",
+     "start": 22.9,
+     "end": 23.58
+    },
+    {
+     "w": "un",
+     "start": 24.0,
+     "end": 24.14
+    },
+    {
+     "w": "implant",
+     "start": 24.14,
+     "end": 24.36
+    },
+    {
+     "w": "militaire",
+     "start": 24.36,
+     "end": 24.78
+    },
+    {
+     "w": "qui",
+     "start": 24.78,
+     "end": 24.96
+    },
+    {
+     "w": "ralentit",
+     "start": 24.96,
+     "end": 25.34
+    },
+    {
+     "w": "le",
+     "start": 25.34,
+     "end": 25.46
+    },
+    {
+     "w": "temps",
+     "start": 25.46,
+     "end": 25.64
+    },
+    {
+     "w": "autour",
+     "start": 25.64,
+     "end": 25.82
+    },
+    {
+     "w": "de",
+     "start": 25.82,
+     "end": 26.0
+    },
+    {
+     "w": "toi.",
+     "start": 26.0,
+     "end": 26.2
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 26.2,
+   "end": 29.9,
+   "slot_end": 30.03,
+   "text": "Et là c'est le carnage, il se le fait greffer et il devient le mec le plus rapide de toute la ville.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 26.2,
+     "end": 26.4
+    },
+    {
+     "w": "là",
+     "start": 26.4,
+     "end": 26.5
+    },
+    {
+     "w": "c'est",
+     "start": 26.58,
+     "end": 26.63
+    },
+    {
+     "w": "le",
+     "start": 26.6,
+     "end": 26.7
+    },
+    {
+     "w": "carnage,",
+     "start": 26.7,
+     "end": 27.02
+    },
+    {
+     "w": "il",
+     "start": 27.02,
+     "end": 27.14
+    },
+    {
+     "w": "se",
+     "start": 27.14,
+     "end": 27.2
+    },
+    {
+     "w": "le",
+     "start": 27.2,
+     "end": 27.3
+    },
+    {
+     "w": "fait",
+     "start": 27.3,
+     "end": 27.4
+    },
+    {
+     "w": "greffer",
+     "start": 27.4,
+     "end": 27.64
+    },
+    {
+     "w": "et",
+     "start": 27.64,
+     "end": 28.0
+    },
+    {
+     "w": "il",
+     "start": 28.0,
+     "end": 28.08
+    },
+    {
+     "w": "devient",
+     "start": 28.08,
+     "end": 28.38
+    },
+    {
+     "w": "le",
+     "start": 28.38,
+     "end": 28.58
+    },
+    {
+     "w": "mec",
+     "start": 28.58,
+     "end": 28.68
+    },
+    {
+     "w": "le",
+     "start": 28.68,
+     "end": 28.9
+    },
+    {
+     "w": "plus",
+     "start": 28.9,
+     "end": 28.98
+    },
+    {
+     "w": "rapide",
+     "start": 28.98,
+     "end": 29.28
+    },
+    {
+     "w": "de",
+     "start": 29.28,
+     "end": 29.44
+    },
+    {
+     "w": "toute",
+     "start": 29.44,
+     "end": 29.58
+    },
+    {
+     "w": "la",
+     "start": 29.58,
+     "end": 29.76
+    },
+    {
+     "w": "ville.",
+     "start": 29.76,
+     "end": 29.9
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 30.12,
+   "end": 34.36,
+   "slot_end": 34.562,
+   "text": "C'est là qu'il croise Lucy, une netrunneuse qui rêve d'une seule chose, aller vivre sur la Lune.",
+   "words": [
+    {
+     "w": "C'est",
+     "start": 30.12,
+     "end": 30.24
+    },
+    {
+     "w": "là",
+     "start": 30.24,
+     "end": 30.38
+    },
+    {
+     "w": "qu'il",
+     "start": 30.38,
+     "end": 30.54
+    },
+    {
+     "w": "croise",
+     "start": 30.54,
+     "end": 30.82
+    },
+    {
+     "w": "Lucy,",
+     "start": 30.82,
+     "end": 31.22
+    },
+    {
+     "w": "une",
+     "start": 31.38,
+     "end": 31.52
+    },
+    {
+     "w": "netrunneuse",
+     "start": 31.52,
+     "end": 32.02
+    },
+    {
+     "w": "qui",
+     "start": 32.02,
+     "end": 32.14
+    },
+    {
+     "w": "rêve",
+     "start": 32.14,
+     "end": 32.36
+    },
+    {
+     "w": "d'une",
+     "start": 32.36,
+     "end": 32.6
+    },
+    {
+     "w": "seule",
+     "start": 32.6,
+     "end": 32.76
+    },
+    {
+     "w": "chose,",
+     "start": 32.76,
+     "end": 33.12
+    },
+    {
+     "w": "aller",
+     "start": 33.26,
+     "end": 33.44
+    },
+    {
+     "w": "vivre",
+     "start": 33.44,
+     "end": 33.64
+    },
+    {
+     "w": "sur",
+     "start": 33.64,
+     "end": 33.92
+    },
+    {
+     "w": "la",
+     "start": 33.92,
+     "end": 34.08
+    },
+    {
+     "w": "Lune.",
+     "start": 34.08,
+     "end": 34.36
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 34.56,
+   "end": 37.34,
+   "slot_end": 37.429,
+   "text": "Si tu kiffes quand je raconte un anime comme ça, abonne-toi, j'en fais tous les soirs.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 34.56,
+     "end": 34.68
+    },
+    {
+     "w": "tu",
+     "start": 34.68,
+     "end": 34.76
+    },
+    {
+     "w": "kiffes",
+     "start": 34.76,
+     "end": 35.0
+    },
+    {
+     "w": "quand",
+     "start": 35.0,
+     "end": 35.1
+    },
+    {
+     "w": "je",
+     "start": 35.1,
+     "end": 35.18
+    },
+    {
+     "w": "raconte",
+     "start": 35.18,
+     "end": 35.4
+    },
+    {
+     "w": "un",
+     "start": 35.4,
+     "end": 35.54
+    },
+    {
+     "w": "anime",
+     "start": 35.54,
+     "end": 35.72
+    },
+    {
+     "w": "comme",
+     "start": 35.72,
+     "end": 35.86
+    },
+    {
+     "w": "ça,",
+     "start": 35.86,
+     "end": 36.04
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 36.22,
+     "end": 36.56
+    },
+    {
+     "w": "j'en",
+     "start": 36.64,
+     "end": 36.78
+    },
+    {
+     "w": "fais",
+     "start": 36.78,
+     "end": 36.88
+    },
+    {
+     "w": "tous",
+     "start": 36.88,
+     "end": 37.0
+    },
+    {
+     "w": "les",
+     "start": 37.0,
+     "end": 37.12
+    },
+    {
+     "w": "soirs.",
+     "start": 37.12,
+     "end": 37.34
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 37.44,
+   "end": 42.88,
+   "slot_end": 43.022,
+   "text": "Lucy le fait entrer dans l'équipe de Maine, avec Rebecca la petite folle aux gros flingues, Kiwi, Dorio et Pilar.",
+   "words": [
+    {
+     "w": "Lucy",
+     "start": 37.44,
+     "end": 37.76
+    },
+    {
+     "w": "le",
+     "start": 37.76,
+     "end": 37.92
+    },
+    {
+     "w": "fait",
+     "start": 37.92,
+     "end": 38.04
+    },
+    {
+     "w": "entrer",
+     "start": 38.04,
+     "end": 38.34
+    },
+    {
+     "w": "dans",
+     "start": 38.34,
+     "end": 38.48
+    },
+    {
+     "w": "l'équipe",
+     "start": 38.48,
+     "end": 38.82
+    },
+    {
+     "w": "de",
+     "start": 38.82,
+     "end": 38.96
+    },
+    {
+     "w": "Maine,",
+     "start": 38.96,
+     "end": 39.22
+    },
+    {
+     "w": "avec",
+     "start": 39.22,
+     "end": 39.56
+    },
+    {
+     "w": "Rebecca",
+     "start": 39.56,
+     "end": 40.02
+    },
+    {
+     "w": "la",
+     "start": 40.26,
+     "end": 40.32
+    },
+    {
+     "w": "petite",
+     "start": 40.32,
+     "end": 40.52
+    },
+    {
+     "w": "folle",
+     "start": 40.52,
+     "end": 40.86
+    },
+    {
+     "w": "aux",
+     "start": 40.86,
+     "end": 41.02
+    },
+    {
+     "w": "gros",
+     "start": 41.02,
+     "end": 41.22
+    },
+    {
+     "w": "flingues,",
+     "start": 41.22,
+     "end": 41.62
+    },
+    {
+     "w": "Kiwi,",
+     "start": 41.62,
+     "end": 41.94
+    },
+    {
+     "w": "Dorio",
+     "start": 42.04,
+     "end": 42.38
+    },
+    {
+     "w": "et",
+     "start": 42.38,
+     "end": 42.58
+    },
+    {
+     "w": "Pilar.",
+     "start": 42.58,
+     "end": 42.88
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 43.04,
+   "end": 48.59,
+   "slot_end": 49.025,
+   "text": "Mais attends, y'a un prix. Plus tu mets de chrome dans ton corps, plus ta tête lâche. Ça s'appelle la cyberpsychose.",
+   "words": [
+    {
+     "w": "Mais",
+     "start": 43.04,
+     "end": 43.12
+    },
+    {
+     "w": "attends,",
+     "start": 43.12,
+     "end": 43.36
+    },
+    {
+     "w": "y'a",
+     "start": 43.84,
+     "end": 43.9
+    },
+    {
+     "w": "un",
+     "start": 43.9,
+     "end": 43.98
+    },
+    {
+     "w": "prix.",
+     "start": 43.98,
+     "end": 44.12
+    },
+    {
+     "w": "Plus",
+     "start": 44.62,
+     "end": 44.7
+    },
+    {
+     "w": "tu",
+     "start": 44.7,
+     "end": 44.86
+    },
+    {
+     "w": "mets",
+     "start": 44.86,
+     "end": 45.013
+    },
+    {
+     "w": "de",
+     "start": 45.013,
+     "end": 45.167
+    },
+    {
+     "w": "chrome",
+     "start": 45.167,
+     "end": 45.32
+    },
+    {
+     "w": "dans",
+     "start": 45.32,
+     "end": 45.44
+    },
+    {
+     "w": "ton",
+     "start": 45.44,
+     "end": 45.54
+    },
+    {
+     "w": "corps,",
+     "start": 45.54,
+     "end": 45.82
+    },
+    {
+     "w": "plus",
+     "start": 46.0,
+     "end": 46.12
+    },
+    {
+     "w": "ta",
+     "start": 46.12,
+     "end": 46.28
+    },
+    {
+     "w": "tête",
+     "start": 46.28,
+     "end": 46.4
+    },
+    {
+     "w": "lâche.",
+     "start": 46.4,
+     "end": 46.82
+    },
+    {
+     "w": "Ça",
+     "start": 47.28,
+     "end": 47.46
+    },
+    {
+     "w": "s'appelle",
+     "start": 47.46,
+     "end": 47.72
+    },
+    {
+     "w": "la",
+     "start": 47.72,
+     "end": 47.9
+    },
+    {
+     "w": "cyberpsychose.",
+     "start": 47.9,
+     "end": 48.59
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 48.59,
+   "end": 53.61,
+   "slot_end": 53.556,
+   "text": "Maine y passe en premier. Et David, lui, continue d'empiler les implants et les médocs pour tenir le coup.",
+   "words": [
+    {
+     "w": "Maine",
+     "start": 48.59,
+     "end": 49.28
+    },
+    {
+     "w": "y",
+     "start": 49.28,
+     "end": 49.33
+    },
+    {
+     "w": "passe",
+     "start": 49.28,
+     "end": 49.4
+    },
+    {
+     "w": "en",
+     "start": 49.4,
+     "end": 49.52
+    },
+    {
+     "w": "premier.",
+     "start": 49.52,
+     "end": 49.82
+    },
+    {
+     "w": "Et",
+     "start": 50.38,
+     "end": 50.52
+    },
+    {
+     "w": "David,",
+     "start": 50.52,
+     "end": 50.78
+    },
+    {
+     "w": "lui,",
+     "start": 50.98,
+     "end": 51.18
+    },
+    {
+     "w": "continue",
+     "start": 51.24,
+     "end": 51.5
+    },
+    {
+     "w": "d'empiler",
+     "start": 51.5,
+     "end": 51.94
+    },
+    {
+     "w": "les",
+     "start": 51.94,
+     "end": 52.16
+    },
+    {
+     "w": "implants",
+     "start": 52.16,
+     "end": 52.4
+    },
+    {
+     "w": "et",
+     "start": 52.4,
+     "end": 52.56
+    },
+    {
+     "w": "les",
+     "start": 52.56,
+     "end": 52.64
+    },
+    {
+     "w": "médocs",
+     "start": 52.64,
+     "end": 53.0
+    },
+    {
+     "w": "pour",
+     "start": 53.0,
+     "end": 53.12
+    },
+    {
+     "w": "tenir",
+     "start": 53.12,
+     "end": 53.36
+    },
+    {
+     "w": "le",
+     "start": 53.36,
+     "end": 53.56
+    },
+    {
+     "w": "coup.",
+     "start": 53.56,
+     "end": 53.61
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 53.56,
+   "end": 60.12,
+   "slot_end": 60.673,
+   "text": "Jusqu'au dernier épisode, où il se retrouve dans une armure géante face à Adam Smasher, le cyborg le plus cheaté de Night City.",
+   "words": [
+    {
+     "w": "Jusqu'au",
+     "start": 53.56,
+     "end": 53.9
+    },
+    {
+     "w": "dernier",
+     "start": 53.9,
+     "end": 54.2
+    },
+    {
+     "w": "épisode,",
+     "start": 54.2,
+     "end": 54.9
+    },
+    {
+     "w": "où",
+     "start": 55.1,
+     "end": 55.18
+    },
+    {
+     "w": "il",
+     "start": 55.18,
+     "end": 55.26
+    },
+    {
+     "w": "se",
+     "start": 55.26,
+     "end": 55.38
+    },
+    {
+     "w": "retrouve",
+     "start": 55.38,
+     "end": 55.76
+    },
+    {
+     "w": "dans",
+     "start": 55.76,
+     "end": 55.94
+    },
+    {
+     "w": "une",
+     "start": 55.94,
+     "end": 56.14
+    },
+    {
+     "w": "armure",
+     "start": 56.14,
+     "end": 56.44
+    },
+    {
+     "w": "géante",
+     "start": 56.44,
+     "end": 56.84
+    },
+    {
+     "w": "face",
+     "start": 56.84,
+     "end": 57.06
+    },
+    {
+     "w": "à",
+     "start": 57.06,
+     "end": 57.28
+    },
+    {
+     "w": "Adam",
+     "start": 57.28,
+     "end": 57.62
+    },
+    {
+     "w": "Smasher,",
+     "start": 57.62,
+     "end": 58.08
+    },
+    {
+     "w": "le",
+     "start": 58.24,
+     "end": 58.32
+    },
+    {
+     "w": "cyborg",
+     "start": 58.32,
+     "end": 58.74
+    },
+    {
+     "w": "le",
+     "start": 58.74,
+     "end": 59.0
+    },
+    {
+     "w": "plus",
+     "start": 59.0,
+     "end": 59.12
+    },
+    {
+     "w": "cheaté",
+     "start": 59.12,
+     "end": 59.38
+    },
+    {
+     "w": "de",
+     "start": 59.38,
+     "end": 59.62
+    },
+    {
+     "w": "Night",
+     "start": 59.62,
+     "end": 59.82
+    },
+    {
+     "w": "City.",
+     "start": 59.82,
+     "end": 60.12
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 60.66,
+   "end": 66.44,
+   "slot_end": 66.55,
+   "text": "Smasher tue Rebecca. Puis David. Et Lucy part sur la Lune, toute seule, ce rêve qu'ils devaient vivre à deux.",
+   "words": [
+    {
+     "w": "Smasher",
+     "start": 60.66,
+     "end": 61.06
+    },
+    {
+     "w": "tue",
+     "start": 61.06,
+     "end": 61.3
+    },
+    {
+     "w": "Rebecca.",
+     "start": 61.3,
+     "end": 61.64
+    },
+    {
+     "w": "Puis",
+     "start": 62.1,
+     "end": 62.16
+    },
+    {
+     "w": "David.",
+     "start": 62.16,
+     "end": 62.38
+    },
+    {
+     "w": "Et",
+     "start": 63.06,
+     "end": 63.18
+    },
+    {
+     "w": "Lucy",
+     "start": 63.18,
+     "end": 63.5
+    },
+    {
+     "w": "part",
+     "start": 63.5,
+     "end": 63.72
+    },
+    {
+     "w": "sur",
+     "start": 63.72,
+     "end": 63.84
+    },
+    {
+     "w": "la",
+     "start": 63.84,
+     "end": 63.98
+    },
+    {
+     "w": "Lune,",
+     "start": 63.98,
+     "end": 64.18
+    },
+    {
+     "w": "toute",
+     "start": 64.18,
+     "end": 64.46
+    },
+    {
+     "w": "seule,",
+     "start": 64.46,
+     "end": 64.8
+    },
+    {
+     "w": "ce",
+     "start": 65.0,
+     "end": 65.12
+    },
+    {
+     "w": "rêve",
+     "start": 65.12,
+     "end": 65.42
+    },
+    {
+     "w": "qu'ils",
+     "start": 65.42,
+     "end": 65.6
+    },
+    {
+     "w": "devaient",
+     "start": 65.6,
+     "end": 65.88
+    },
+    {
+     "w": "vivre",
+     "start": 65.88,
+     "end": 66.14
+    },
+    {
+     "w": "à",
+     "start": 66.14,
+     "end": 66.28
+    },
+    {
+     "w": "deux.",
+     "start": 66.28,
+     "end": 66.44
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 66.56,
+   "end": 72.2,
+   "slot_end": 72.352,
+   "text": "Perso, cette fin m'a laissé vide pendant deux jours, frr. Et la saison 2 repart dans ce même Night City.",
+   "words": [
+    {
+     "w": "Perso,",
+     "start": 66.56,
+     "end": 66.8
+    },
+    {
+     "w": "cette",
+     "start": 66.8,
+     "end": 67.02
+    },
+    {
+     "w": "fin",
+     "start": 67.02,
+     "end": 67.13
+    },
+    {
+     "w": "m'a",
+     "start": 67.13,
+     "end": 67.42
+    },
+    {
+     "w": "laissé",
+     "start": 67.42,
+     "end": 67.64
+    },
+    {
+     "w": "vide",
+     "start": 67.64,
+     "end": 67.86
+    },
+    {
+     "w": "pendant",
+     "start": 67.86,
+     "end": 68.06
+    },
+    {
+     "w": "deux",
+     "start": 68.06,
+     "end": 68.4
+    },
+    {
+     "w": "jours,",
+     "start": 68.4,
+     "end": 68.68
+    },
+    {
+     "w": "frr.",
+     "start": 68.68,
+     "end": 69.08
+    },
+    {
+     "w": "Et",
+     "start": 69.64,
+     "end": 69.8
+    },
+    {
+     "w": "la",
+     "start": 69.8,
+     "end": 69.92
+    },
+    {
+     "w": "saison",
+     "start": 69.92,
+     "end": 70.28
+    },
+    {
+     "w": "2",
+     "start": 70.28,
+     "end": 70.48
+    },
+    {
+     "w": "repart",
+     "start": 70.48,
+     "end": 70.82
+    },
+    {
+     "w": "dans",
+     "start": 70.82,
+     "end": 71.02
+    },
+    {
+     "w": "ce",
+     "start": 71.02,
+     "end": 71.28
+    },
+    {
+     "w": "même",
+     "start": 71.28,
+     "end": 71.56
+    },
+    {
+     "w": "Night",
+     "start": 71.56,
+     "end": 71.82
+    },
+    {
+     "w": "City.",
+     "start": 71.82,
+     "end": 72.2
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 72.36,
+   "end": 76.32,
+   "slot_end": 76.431,
+   "text": "Alors toi, tu la lances ce soir ou t'as encore pas digéré la fin de David ? Dis-moi en com'.",
+   "words": [
+    {
+     "w": "Alors",
+     "start": 72.36,
+     "end": 72.48
+    },
+    {
+     "w": "toi,",
+     "start": 72.48,
+     "end": 72.68
+    },
+    {
+     "w": "tu",
+     "start": 72.68,
+     "end": 72.78
+    },
+    {
+     "w": "la",
+     "start": 72.78,
+     "end": 72.92
+    },
+    {
+     "w": "lances",
+     "start": 72.92,
+     "end": 73.16
+    },
+    {
+     "w": "ce",
+     "start": 73.16,
+     "end": 73.32
+    },
+    {
+     "w": "soir",
+     "start": 73.32,
+     "end": 73.54
+    },
+    {
+     "w": "ou",
+     "start": 73.54,
+     "end": 73.74
+    },
+    {
+     "w": "t'as",
+     "start": 73.74,
+     "end": 73.86
+    },
+    {
+     "w": "encore",
+     "start": 73.86,
+     "end": 74.04
+    },
+    {
+     "w": "pas",
+     "start": 74.04,
+     "end": 74.2
+    },
+    {
+     "w": "digéré",
+     "start": 74.2,
+     "end": 74.54
+    },
+    {
+     "w": "la",
+     "start": 74.54,
+     "end": 74.74
+    },
+    {
+     "w": "fin",
+     "start": 74.74,
+     "end": 74.9
+    },
+    {
+     "w": "de",
+     "start": 74.9,
+     "end": 75.02
+    },
+    {
+     "w": "David",
+     "start": 75.02,
+     "end": 75.28
+    },
+    {
+     "w": "?",
+     "start": 75.8,
+     "end": 75.93
+    },
+    {
+     "w": "Dis-moi",
+     "start": 75.93,
+     "end": 76.06
+    },
+    {
+     "w": "en",
+     "start": 76.06,
+     "end": 76.19
+    },
+    {
+     "w": "com'.",
+     "start": 76.19,
+     "end": 76.32
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "start": 76.48,
+   "end": 79.88,
+   "slot_end": 80.665,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 76.48,
+     "end": 76.68
+    },
+    {
+     "w": "Asura.",
+     "start": 76.68,
+     "end": 77.08
+    },
+    {
+     "w": "On",
+     "start": 78.0,
+     "end": 78.26
+    },
+    {
+     "w": "se",
+     "start": 78.26,
+     "end": 78.38
+    },
+    {
+     "w": "capte",
+     "start": 78.38,
+     "end": 78.76
+    },
+    {
+     "w": "au",
+     "start": 78.76,
+     "end": 79.1
+    },
+    {
+     "w": "prochain",
+     "start": 79.1,
+     "end": 79.38
+    },
+    {
+     "w": "épisode.",
+     "start": 79.38,
+     "end": 79.88
+    }
+   ]
+  }
+ ],
+ "aligned": 0.993
+}
