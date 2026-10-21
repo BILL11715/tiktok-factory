@@ -1,0 +1,203 @@
+{
+ "title": "AnythingLLM : pose tes questions à tes PDF, sans internet",
+ "theme": "ia",
+ "pillar": "ia",
+ "format": "outil",
+ "music": "pote",
+ "cover": {
+  "text": "Parle à tes PDF",
+  "highlight": [
+   "PDF"
+  ],
+  "emoji": "📄",
+  "sub": "gratuit et hors ligne"
+ },
+ "hook_text": "Un PDF de 50 pages à lire ? Pose-lui directement tes questions.",
+ "segments": [
+  {
+   "text": "Un PDF de 50 pages à lire ? Pose-lui directement tes questions.",
+   "emphasis": [
+    "questions"
+   ]
+  },
+  {
+   "text": "Il existe une application gratuite qui fait ça, directement sur ton ordinateur. Elle s'appelle AnythingLLM.",
+   "visual": {
+    "kind": "card",
+    "emoji": "📄",
+    "owner": "Mintplex-Labs",
+    "name": "AnythingLLM",
+    "desc": "Discute avec tes documents, chez toi",
+    "tags": [
+     "gratuit",
+     "open source",
+     "Windows Mac Linux"
+    ],
+    "url": "github.com/Mintplex-Labs/anything-llm"
+   }
+  },
+  {
+   "text": "Tu ajoutes tes documents : un bail, un contrat, un cours ou une notice. Ensuite, tu discutes avec eux, comme avec Claude.",
+   "visual": {
+    "kind": "list",
+    "title": "Tes documents",
+    "items": [
+     "Un bail",
+     "Un contrat",
+     "Un cours",
+     "Une notice"
+    ],
+    "at": [
+     "bail",
+     "contrat",
+     "cours",
+     "notice"
+    ]
+   }
+  },
+  {
+   "text": "Tu lui demandes par exemple quel est le préavis pour quitter ton appartement. Elle répond, et t'indique le passage du document.",
+   "visual": {
+    "kind": "chat",
+    "name": "AnythingLLM",
+    "user": "Quel est le préavis pour quitter mon appartement ?",
+    "assistant": "D'après ton bail, article 4 : un mois si le logement est meublé. Voici le passage exact."
+   }
+  },
+  {
+   "text": "Comment c'est possible sans internet ? Grâce à un modèle. C'est le cerveau de l'IA, un gros fichier que tu télécharges une seule fois.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Le mot du jour",
+    "text": "Modèle = le cerveau de l'IA",
+    "highlight": [
+     "cerveau"
+    ]
+   }
+  },
+  {
+   "text": "Et le plus fort : ce modèle tourne chez toi. Aucun document ne part sur un serveur. Personne d'autre ne peut les lire !",
+   "sfx": true,
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "IA en ligne",
+     "items": [
+      "Fichiers envoyés",
+      "Connexion obligatoire"
+     ]
+    },
+    "right": {
+     "title": "AnythingLLM",
+     "items": [
+      "Tout reste chez toi",
+      "Marche hors ligne"
+     ]
+    }
+   }
+  },
+  {
+   "text": "Rien à payer chaque mois, et pas besoin de créer un compte. Elle est open source : son code est public, n'importe qui peut le vérifier.",
+   "stamp": "Gratuit"
+  },
+  {
+   "text": "Pour l'installer, il y a trois étapes. Tu télécharges l'application, tu choisis un modèle, et tu glisses tes fichiers dedans.",
+   "visual": {
+    "kind": "list",
+    "title": "Installation",
+    "items": [
+     "Télécharger l'appli",
+     "Choisir un modèle",
+     "Glisser tes fichiers"
+    ],
+    "at": [
+     "télécharges",
+     "modèle",
+     "glisses"
+    ]
+   }
+  },
+  {
+   "text": "Elle marche sur Windows, Mac et Linux. Et elle lit les PDF, les fichiers Word et même les tableaux.",
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "Ordinateurs",
+     "items": [
+      "Windows",
+      "Mac",
+      "Linux"
+     ]
+    },
+    "right": {
+     "title": "Fichiers",
+     "items": [
+      "PDF",
+      "Word",
+      "Tableaux"
+     ]
+    }
+   }
+  },
+  {
+   "text": "Mais il y a des limites. Le modèle pèse plusieurs gigas, les réponses sont lentes sur un vieil ordinateur, et elle reste moins forte que Claude en ligne.",
+   "visual": {
+    "kind": "list",
+    "title": "Les limites",
+    "items": [
+     "Plusieurs gigas",
+     "Lente sur vieux PC",
+     "Moins forte"
+    ],
+    "at": [
+     "gigas",
+     "lentes",
+     "forte"
+    ]
+   }
+  },
+  {
+   "text": "Alors garde un réflexe : quand elle te répond, demande-lui la phrase exacte du document. Et vérifie-la toi-même, page par page.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Réflexe",
+    "text": "Demande la phrase exacte",
+    "highlight": [
+     "exacte"
+    ]
+   }
+  },
+  {
+   "text": "Imagine un étudiant avec trois cours en PDF. Il lui demande dix questions pour réviser le chapitre deux, sans rien envoyer sur internet. Pratique avant un examen !",
+   "visual": {
+    "kind": "chat",
+    "name": "AnythingLLM",
+    "user": "Fais-moi 10 questions pour réviser le chapitre 2.",
+    "assistant": "1. Quelle est la définition de l'offre ?\n2. Qu'est-ce qui fait monter un prix ?\n3. Donne un exemple de marché."
+   }
+  },
+  {
+   "text": "Le lien GitHub est dans la légende. Essaie avec ton dernier contrat, et dis-moi en commentaire la première question que tu lui poses !",
+   "visual": {
+    "kind": "card",
+    "emoji": "📄",
+    "owner": "Mintplex-Labs",
+    "name": "AnythingLLM",
+    "desc": "Gratuit, privé, hors ligne",
+    "tags": [
+     "MIT",
+     "tes documents"
+    ],
+    "url": "github.com/Mintplex-Labs/anything-llm"
+   }
+  }
+ ],
+ "caption": "Pose tes questions à tes PDF sans les envoyer sur internet 📄 AnythingLLM : https://github.com/Mintplex-Labs/anything-llm",
+ "hashtags": [
+  "#ia",
+  "#outilgratuit",
+  "#opensource",
+  "#pdf",
+  "#astuce"
+ ]
+}

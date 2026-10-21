@@ -1,0 +1,47 @@
+{
+ "stamp": "2026-10-21_1200",
+ "duration": 81.8,
+ "lead": 0.6,
+ "cps": 24.3,
+ "accuracy": 0.936,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "p d f",
+   "entendu": "pdf"
+  },
+  {
+   "dit": "enissingue l l m",
+   "entendu": "enissing ll monsieur"
+  },
+  {
+   "dit": "indique",
+   "entendu": "indiques"
+  },
+  {
+   "dit": "i a",
+   "entendu": "ia"
+  },
+  {
+   "dit": "linuxe",
+   "entendu": "linux"
+  },
+  {
+   "dit": "p d f",
+   "entendu": "pdf"
+  },
+  {
+   "dit": "oueurde",
+   "entendu": "word"
+  },
+  {
+   "dit": "p d f",
+   "entendu": "pdf"
+  },
+  {
+   "dit": "essaie",
+   "entendu": "essaye"
+  }
+ ],
+ "alerts": []
+}
