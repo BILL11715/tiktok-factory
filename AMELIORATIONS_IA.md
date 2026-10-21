@@ -18,6 +18,8 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
    Même chose pour « Exemple, » en ouverture : mal compris sur 2 vidéos (17/10 19:00 avalé, 18/10 17:00 « mes armes »),
    et « Prends un... » (18/10 17:00 « si tu es ») ; écrire « Imagine un plombier. » ou glisser l'exemple dans la phrase.
    Même chose pour « Puis » en ouverture : compté 3 fois dans les mots mal compris (20/10 08:00 « lui ») ; écrire « Ensuite, ».
+   « Tu » + verbe en début de phrase entendu « il » sur 2 vidéos (21/10 08:00 « tu prospectes » → « il prospecte », 21/10 12:00
+   « Tu lui donnes » → « il donne ») : préférer un verbe d'au moins 2 syllabes après « Tu » (« Tu ajoutes », bien entendu au 2e rendu du 21/10 12:00).
 6. Mettre « SEO Radius » en fin de phrase, jamais suivi d'un verbe court : les mots qui le suivent sont avalés
    sur 3 vidéos (14/10 « aura dus », « radius ed » ; 16/10 « SEO Radius. Tape un » entendu « au radus ca par »).
    Écrire « Pour ça, j'utilise SEO Radius. » puis une nouvelle phrase qui commence par un mot d'au moins
@@ -30,6 +32,7 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
    À longueur égale, la durée varie de plusieurs secondes selon le texte : 1 546 à 1 571 car. ont donné 82 à 93 s (20/10 17:00 : 1 554 car. = 82,1 s à 25,4 car./s ;
    20/10 08:00 : 1 560 car. = 92,9 s ; 20/10 22:00 : 1 570 car. = 81,7 s à 24,7 car./s). Viser 1 570 à 1 600 car., jamais sous 1 540 (2 vidéos du 20/10
    à 82 s avec 1 554 et 1 570 car.), jamais au-dessus de 1 600.
+   Le 21/10 12:00, 1 607 car. ont donné 81,8 s à 24,3 car./s : en format outil (phrases courtes, listes), viser le haut de la fourchette (1 590 à 1 600 car.).
 
 ## Pistes pour Bill (changements de code proposés, à valider par lui)
 - Audit : comparer la transcription au texte écrit du script, pas à la graphie phonétique du lexique.
@@ -39,6 +42,9 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
 - Audit : relancer `factory.audit` sur le même run ajoute une 2e ligne identique dans `audits_ia.jsonl` (doublons 14/10 12:00 et 19:00), ce qui gonfle le compte des « mots mal compris sur plusieurs vidéos ». Remplacer la ligne du même stamp au lieu d'en ajouter une.
 
 ## Journal (1 ligne par revue, la plus récente en haut, 20 lignes maximum)
+- 2026-10-21 (12:00) : 1er rendu à 92 % (« tes papiers ne partent » entendu « le papier part », « ne les lit » entendu « l est lie », « Tu lui donnes » entendu « il donne ») :
+  reformulés, 2e rendu à 94 % sans alerte (débit 24,3 car./s, 81,8 s pour 1 607 car.). Sur les 10 derniers audits, débit 23,9 à 26,1 car./s (alerte débit au 21/10 08:00, 72,6 s), 7 sans alerte.
+  « Tu » entendu « il » sur 2 vidéos : règle 5 étendue. Règle 7 précisée. AnythingLLM et Word ajoutés au lexique (bien entendus). Doublon d'audit du même stamp retiré à la main (piste déjà notée).
 - 2026-10-20 (22:00) : sans alerte au 1er rendu (débit 24,7 car./s, prononciation 97 %, 81,7 s pour 1 570 car.). Sur les 10 derniers audits, débit 23,9 à 25,4 car./s,
   8 sans alerte. 2e vidéo du jour à 82 s malgré 1 554 à 1 570 car. : règle 7 relevée (1 570 à 1 600 car.). « chauffagiste » entendu « chou fagiste » et « premier »
   entendu « promenee » sur 1 seule vidéo : pas de lexique. « radiusse » et « opportunite » restent en tête des mots mal compris mais viennent de la graphie et du pluriel (piste déjà notée).
