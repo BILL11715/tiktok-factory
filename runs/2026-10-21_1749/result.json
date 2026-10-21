@@ -1,0 +1,20 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-21_1749/video.mp4",
+ "duration": 91.996,
+ "shots": 68,
+ "sources": [
+  "https://kitsu.io/anime/made-in-abyss"
+ ],
+ "music": {
+  "file": "mystere.mp3",
+  "bpm": 152.0,
+  "offset": 13.004000000000005
+ },
+ "sfx": 32,
+ "engine": "remotion (OpenMontage)",
+ "voice_engine": "fish",
+ "repo_path": "videos/2026/10/2026-10-21_1749.mp4",
+ "raw_url": "https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/videos/2026/10/2026-10-21_1749.mp4",
+ "lint": [],
+ "render_seconds": 2099.8
+}
