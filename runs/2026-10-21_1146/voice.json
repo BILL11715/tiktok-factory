@@ -1,0 +1,1713 @@
+{
+ "engine": "fish",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-21_1146/voice.wav",
+ "duration": 75.1,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 2.98,
+   "slot_end": 3.057,
+   "text": "Ce gamin n'a pas un sou, et il ridiculise les fils de nobles en magie.",
+   "words": [
+    {
+     "w": "Ce",
+     "start": 0.0,
+     "end": 0.16
+    },
+    {
+     "w": "gamin",
+     "start": 0.16,
+     "end": 0.3
+    },
+    {
+     "w": "n'a",
+     "start": 0.3,
+     "end": 0.52
+    },
+    {
+     "w": "pas",
+     "start": 0.52,
+     "end": 0.62
+    },
+    {
+     "w": "un",
+     "start": 0.62,
+     "end": 0.76
+    },
+    {
+     "w": "sou,",
+     "start": 0.76,
+     "end": 0.96
+    },
+    {
+     "w": "et",
+     "start": 1.24,
+     "end": 1.3
+    },
+    {
+     "w": "il",
+     "start": 1.3,
+     "end": 1.46
+    },
+    {
+     "w": "ridiculise",
+     "start": 1.46,
+     "end": 1.98
+    },
+    {
+     "w": "les",
+     "start": 1.98,
+     "end": 2.14
+    },
+    {
+     "w": "fils",
+     "start": 2.14,
+     "end": 2.28
+    },
+    {
+     "w": "de",
+     "start": 2.28,
+     "end": 2.42
+    },
+    {
+     "w": "nobles",
+     "start": 2.42,
+     "end": 2.58
+    },
+    {
+     "w": "en",
+     "start": 2.58,
+     "end": 2.76
+    },
+    {
+     "w": "magie.",
+     "start": 2.76,
+     "end": 2.98
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 3.04,
+   "end": 6.18,
+   "slot_end": 6.38,
+   "text": "Reste jusqu'au bout, j'te donne le nom du manhwa, et franchement tu vas me remercier.",
+   "words": [
+    {
+     "w": "Reste",
+     "start": 3.04,
+     "end": 3.2
+    },
+    {
+     "w": "jusqu'au",
+     "start": 3.2,
+     "end": 3.56
+    },
+    {
+     "w": "bout,",
+     "start": 3.56,
+     "end": 3.68
+    },
+    {
+     "w": "j'te",
+     "start": 3.78,
+     "end": 3.92
+    },
+    {
+     "w": "donne",
+     "start": 3.92,
+     "end": 4.06
+    },
+    {
+     "w": "le",
+     "start": 4.06,
+     "end": 4.24
+    },
+    {
+     "w": "nom",
+     "start": 4.24,
+     "end": 4.38
+    },
+    {
+     "w": "du",
+     "start": 4.38,
+     "end": 4.52
+    },
+    {
+     "w": "manhwa,",
+     "start": 4.52,
+     "end": 4.9
+    },
+    {
+     "w": "et",
+     "start": 5.02,
+     "end": 5.12
+    },
+    {
+     "w": "franchement",
+     "start": 5.12,
+     "end": 5.42
+    },
+    {
+     "w": "tu",
+     "start": 5.42,
+     "end": 5.56
+    },
+    {
+     "w": "vas",
+     "start": 5.56,
+     "end": 5.66
+    },
+    {
+     "w": "me",
+     "start": 5.66,
+     "end": 5.78
+    },
+    {
+     "w": "remercier.",
+     "start": 5.78,
+     "end": 6.18
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 6.36,
+   "end": 12.02,
+   "slot_end": 12.075,
+   "text": "Le héros s'appelle Shirone. Il grandit dans une famille pauvre, loin de tout. Et chez eux, la magie, c'est un truc de riches.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 6.36,
+     "end": 6.5
+    },
+    {
+     "w": "héros",
+     "start": 6.5,
+     "end": 6.7
+    },
+    {
+     "w": "s'appelle",
+     "start": 6.7,
+     "end": 7.02
+    },
+    {
+     "w": "Shirone.",
+     "start": 7.02,
+     "end": 7.6
+    },
+    {
+     "w": "Il",
+     "start": 7.78,
+     "end": 7.86
+    },
+    {
+     "w": "grandit",
+     "start": 7.86,
+     "end": 8.16
+    },
+    {
+     "w": "dans",
+     "start": 8.16,
+     "end": 8.3
+    },
+    {
+     "w": "une",
+     "start": 8.3,
+     "end": 8.46
+    },
+    {
+     "w": "famille",
+     "start": 8.46,
+     "end": 8.72
+    },
+    {
+     "w": "pauvre,",
+     "start": 8.72,
+     "end": 9.16
+    },
+    {
+     "w": "loin",
+     "start": 9.16,
+     "end": 9.38
+    },
+    {
+     "w": "de",
+     "start": 9.38,
+     "end": 9.54
+    },
+    {
+     "w": "tout.",
+     "start": 9.54,
+     "end": 9.76
+    },
+    {
+     "w": "Et",
+     "start": 10.34,
+     "end": 10.46
+    },
+    {
+     "w": "chez",
+     "start": 10.46,
+     "end": 10.62
+    },
+    {
+     "w": "eux,",
+     "start": 10.62,
+     "end": 10.78
+    },
+    {
+     "w": "la",
+     "start": 10.86,
+     "end": 10.92
+    },
+    {
+     "w": "magie,",
+     "start": 10.92,
+     "end": 11.18
+    },
+    {
+     "w": "c'est",
+     "start": 11.22,
+     "end": 11.34
+    },
+    {
+     "w": "un",
+     "start": 11.34,
+     "end": 11.46
+    },
+    {
+     "w": "truc",
+     "start": 11.46,
+     "end": 11.58
+    },
+    {
+     "w": "de",
+     "start": 11.58,
+     "end": 11.76
+    },
+    {
+     "w": "riches.",
+     "start": 11.76,
+     "end": 12.02
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 12.1,
+   "end": 18.82,
+   "slot_end": 18.902,
+   "text": "Sauf que ce petit, il apprend à lire tout seul. Genre personne lui montre, il se débrouille. Et il dévore tous les bouquins qui lui tombent sous la main.",
+   "words": [
+    {
+     "w": "Sauf",
+     "start": 12.1,
+     "end": 12.26
+    },
+    {
+     "w": "que",
+     "start": 12.26,
+     "end": 12.4
+    },
+    {
+     "w": "ce",
+     "start": 12.4,
+     "end": 12.56
+    },
+    {
+     "w": "petit,",
+     "start": 12.56,
+     "end": 12.78
+    },
+    {
+     "w": "il",
+     "start": 12.92,
+     "end": 13.02
+    },
+    {
+     "w": "apprend",
+     "start": 13.02,
+     "end": 13.28
+    },
+    {
+     "w": "à",
+     "start": 13.28,
+     "end": 13.42
+    },
+    {
+     "w": "lire",
+     "start": 13.42,
+     "end": 13.56
+    },
+    {
+     "w": "tout",
+     "start": 13.56,
+     "end": 13.72
+    },
+    {
+     "w": "seul.",
+     "start": 13.72,
+     "end": 13.94
+    },
+    {
+     "w": "Genre",
+     "start": 14.42,
+     "end": 14.68
+    },
+    {
+     "w": "personne",
+     "start": 14.76,
+     "end": 14.96
+    },
+    {
+     "w": "lui",
+     "start": 14.96,
+     "end": 15.18
+    },
+    {
+     "w": "montre,",
+     "start": 15.18,
+     "end": 15.4
+    },
+    {
+     "w": "il",
+     "start": 15.6,
+     "end": 15.68
+    },
+    {
+     "w": "se",
+     "start": 15.68,
+     "end": 15.84
+    },
+    {
+     "w": "débrouille.",
+     "start": 15.84,
+     "end": 16.36
+    },
+    {
+     "w": "Et",
+     "start": 16.76,
+     "end": 16.9
+    },
+    {
+     "w": "il",
+     "start": 16.9,
+     "end": 17.02
+    },
+    {
+     "w": "dévore",
+     "start": 17.02,
+     "end": 17.34
+    },
+    {
+     "w": "tous",
+     "start": 17.34,
+     "end": 17.6
+    },
+    {
+     "w": "les",
+     "start": 17.6,
+     "end": 17.74
+    },
+    {
+     "w": "bouquins",
+     "start": 17.74,
+     "end": 17.98
+    },
+    {
+     "w": "qui",
+     "start": 17.98,
+     "end": 18.16
+    },
+    {
+     "w": "lui",
+     "start": 18.16,
+     "end": 18.26
+    },
+    {
+     "w": "tombent",
+     "start": 18.26,
+     "end": 18.42
+    },
+    {
+     "w": "sous",
+     "start": 18.42,
+     "end": 18.58
+    },
+    {
+     "w": "la",
+     "start": 18.58,
+     "end": 18.7
+    },
+    {
+     "w": "main.",
+     "start": 18.7,
+     "end": 18.82
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 18.9,
+   "end": 23.72,
+   "slot_end": 23.81,
+   "text": "Et c'est là que ça dérape. En lisant, il comprend la magie mieux que des gens qui l'étudient depuis des années.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 18.9,
+     "end": 19.02
+    },
+    {
+     "w": "c'est",
+     "start": 19.02,
+     "end": 19.1
+    },
+    {
+     "w": "là",
+     "start": 19.1,
+     "end": 19.22
+    },
+    {
+     "w": "que",
+     "start": 19.22,
+     "end": 19.3
+    },
+    {
+     "w": "ça",
+     "start": 19.3,
+     "end": 19.4
+    },
+    {
+     "w": "dérape.",
+     "start": 19.4,
+     "end": 19.76
+    },
+    {
+     "w": "En",
+     "start": 19.96,
+     "end": 20.06
+    },
+    {
+     "w": "lisant,",
+     "start": 20.06,
+     "end": 20.38
+    },
+    {
+     "w": "il",
+     "start": 20.5,
+     "end": 20.56
+    },
+    {
+     "w": "comprend",
+     "start": 20.56,
+     "end": 20.76
+    },
+    {
+     "w": "la",
+     "start": 20.76,
+     "end": 21.0
+    },
+    {
+     "w": "magie",
+     "start": 21.0,
+     "end": 21.5
+    },
+    {
+     "w": "mieux",
+     "start": 21.66,
+     "end": 21.9
+    },
+    {
+     "w": "que",
+     "start": 21.9,
+     "end": 22.08
+    },
+    {
+     "w": "des",
+     "start": 22.08,
+     "end": 22.2
+    },
+    {
+     "w": "gens",
+     "start": 22.2,
+     "end": 22.34
+    },
+    {
+     "w": "qui",
+     "start": 22.34,
+     "end": 22.48
+    },
+    {
+     "w": "l'étudient",
+     "start": 22.48,
+     "end": 22.96
+    },
+    {
+     "w": "depuis",
+     "start": 22.96,
+     "end": 23.2
+    },
+    {
+     "w": "des",
+     "start": 23.2,
+     "end": 23.48
+    },
+    {
+     "w": "années.",
+     "start": 23.48,
+     "end": 23.72
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 23.82,
+   "end": 28.96,
+   "slot_end": 29.095,
+   "text": "Il finit par entrer dans une école de magie remplie de fils de nobles. Imagine la tête des gosses de riches quand le petit paysan les dépasse.",
+   "words": [
+    {
+     "w": "Il",
+     "start": 23.82,
+     "end": 23.88
+    },
+    {
+     "w": "finit",
+     "start": 23.88,
+     "end": 24.06
+    },
+    {
+     "w": "par",
+     "start": 24.06,
+     "end": 24.2
+    },
+    {
+     "w": "entrer",
+     "start": 24.2,
+     "end": 24.38
+    },
+    {
+     "w": "dans",
+     "start": 24.38,
+     "end": 24.54
+    },
+    {
+     "w": "une",
+     "start": 24.54,
+     "end": 24.68
+    },
+    {
+     "w": "école",
+     "start": 24.68,
+     "end": 24.84
+    },
+    {
+     "w": "de",
+     "start": 24.84,
+     "end": 25.0
+    },
+    {
+     "w": "magie",
+     "start": 25.0,
+     "end": 25.2
+    },
+    {
+     "w": "remplie",
+     "start": 25.2,
+     "end": 25.46
+    },
+    {
+     "w": "de",
+     "start": 25.46,
+     "end": 25.56
+    },
+    {
+     "w": "fils",
+     "start": 25.56,
+     "end": 25.72
+    },
+    {
+     "w": "de",
+     "start": 25.72,
+     "end": 25.86
+    },
+    {
+     "w": "nobles.",
+     "start": 25.86,
+     "end": 26.06
+    },
+    {
+     "w": "Imagine",
+     "start": 26.52,
+     "end": 26.84
+    },
+    {
+     "w": "la",
+     "start": 26.84,
+     "end": 27.1
+    },
+    {
+     "w": "tête",
+     "start": 27.1,
+     "end": 27.2
+    },
+    {
+     "w": "des",
+     "start": 27.2,
+     "end": 27.38
+    },
+    {
+     "w": "gosses",
+     "start": 27.38,
+     "end": 27.5
+    },
+    {
+     "w": "de",
+     "start": 27.5,
+     "end": 27.66
+    },
+    {
+     "w": "riches",
+     "start": 27.66,
+     "end": 27.82
+    },
+    {
+     "w": "quand",
+     "start": 27.82,
+     "end": 27.92
+    },
+    {
+     "w": "le",
+     "start": 27.92,
+     "end": 28.04
+    },
+    {
+     "w": "petit",
+     "start": 28.04,
+     "end": 28.2
+    },
+    {
+     "w": "paysan",
+     "start": 28.2,
+     "end": 28.56
+    },
+    {
+     "w": "les",
+     "start": 28.56,
+     "end": 28.66
+    },
+    {
+     "w": "dépasse.",
+     "start": 28.66,
+     "end": 28.96
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 28.96,
+   "end": 33.06,
+   "slot_end": 33.147,
+   "text": "Si t'aimes les manhwas où le héros part de rien, abonne-toi, j'en déniche un nouveau tous les jours.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 28.96,
+     "end": 29.24
+    },
+    {
+     "w": "t'aimes",
+     "start": 29.24,
+     "end": 29.4
+    },
+    {
+     "w": "les",
+     "start": 29.4,
+     "end": 29.52
+    },
+    {
+     "w": "manhwas",
+     "start": 29.52,
+     "end": 29.9
+    },
+    {
+     "w": "où",
+     "start": 29.9,
+     "end": 30.2
+    },
+    {
+     "w": "le",
+     "start": 30.2,
+     "end": 30.34
+    },
+    {
+     "w": "héros",
+     "start": 30.34,
+     "end": 30.68
+    },
+    {
+     "w": "part",
+     "start": 30.68,
+     "end": 30.9
+    },
+    {
+     "w": "de",
+     "start": 30.9,
+     "end": 31.04
+    },
+    {
+     "w": "rien,",
+     "start": 31.04,
+     "end": 31.22
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 31.36,
+     "end": 31.74
+    },
+    {
+     "w": "j'en",
+     "start": 31.86,
+     "end": 31.96
+    },
+    {
+     "w": "déniche",
+     "start": 31.96,
+     "end": 32.22
+    },
+    {
+     "w": "un",
+     "start": 32.22,
+     "end": 32.4
+    },
+    {
+     "w": "nouveau",
+     "start": 32.4,
+     "end": 32.6
+    },
+    {
+     "w": "tous",
+     "start": 32.6,
+     "end": 32.8
+    },
+    {
+     "w": "les",
+     "start": 32.8,
+     "end": 32.92
+    },
+    {
+     "w": "jours.",
+     "start": 32.92,
+     "end": 33.06
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 33.16,
+   "end": 38.22,
+   "slot_end": 38.305,
+   "text": "Ce que j'adore, c'est que Shirone gagne pas en tapant plus fort. Il gagne parce qu'il réfléchit plus vite que tout le monde.",
+   "words": [
+    {
+     "w": "Ce",
+     "start": 33.16,
+     "end": 33.24
+    },
+    {
+     "w": "que",
+     "start": 33.24,
+     "end": 33.34
+    },
+    {
+     "w": "j'adore,",
+     "start": 33.34,
+     "end": 33.62
+    },
+    {
+     "w": "c'est",
+     "start": 33.74,
+     "end": 33.86
+    },
+    {
+     "w": "que",
+     "start": 33.86,
+     "end": 34.0
+    },
+    {
+     "w": "Shirone",
+     "start": 34.0,
+     "end": 34.62
+    },
+    {
+     "w": "gagne",
+     "start": 34.62,
+     "end": 34.7
+    },
+    {
+     "w": "pas",
+     "start": 34.7,
+     "end": 34.88
+    },
+    {
+     "w": "en",
+     "start": 34.88,
+     "end": 35.04
+    },
+    {
+     "w": "tapant",
+     "start": 35.04,
+     "end": 35.32
+    },
+    {
+     "w": "plus",
+     "start": 35.32,
+     "end": 35.48
+    },
+    {
+     "w": "fort.",
+     "start": 35.48,
+     "end": 35.7
+    },
+    {
+     "w": "Il",
+     "start": 36.24,
+     "end": 36.46
+    },
+    {
+     "w": "gagne",
+     "start": 36.46,
+     "end": 36.64
+    },
+    {
+     "w": "parce",
+     "start": 36.64,
+     "end": 36.8
+    },
+    {
+     "w": "qu'il",
+     "start": 36.8,
+     "end": 36.94
+    },
+    {
+     "w": "réfléchit",
+     "start": 36.94,
+     "end": 37.38
+    },
+    {
+     "w": "plus",
+     "start": 37.38,
+     "end": 37.58
+    },
+    {
+     "w": "vite",
+     "start": 37.58,
+     "end": 37.74
+    },
+    {
+     "w": "que",
+     "start": 37.74,
+     "end": 37.88
+    },
+    {
+     "w": "tout",
+     "start": 37.88,
+     "end": 38.02
+    },
+    {
+     "w": "le",
+     "start": 38.02,
+     "end": 38.1
+    },
+    {
+     "w": "monde.",
+     "start": 38.1,
+     "end": 38.22
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 38.4,
+   "end": 44.333,
+   "slot_end": 44.546,
+   "text": "Y'a Rian, un fils de noble qui rêve d'être épéiste, et qui devient son meilleur pote. Leur amitié, c'est un des trucs les plus sains du manhwa.",
+   "words": [
+    {
+     "w": "Y'a",
+     "start": 38.4,
+     "end": 38.46
+    },
+    {
+     "w": "Rian,",
+     "start": 38.46,
+     "end": 38.72
+    },
+    {
+     "w": "un",
+     "start": 38.96,
+     "end": 39.06
+    },
+    {
+     "w": "fils",
+     "start": 39.06,
+     "end": 39.24
+    },
+    {
+     "w": "de",
+     "start": 39.24,
+     "end": 39.42
+    },
+    {
+     "w": "noble",
+     "start": 39.42,
+     "end": 39.58
+    },
+    {
+     "w": "qui",
+     "start": 39.58,
+     "end": 39.8
+    },
+    {
+     "w": "rêve",
+     "start": 39.8,
+     "end": 40.02
+    },
+    {
+     "w": "d'être",
+     "start": 40.02,
+     "end": 40.2
+    },
+    {
+     "w": "épéiste,",
+     "start": 40.2,
+     "end": 40.66
+    },
+    {
+     "w": "et",
+     "start": 40.66,
+     "end": 40.92
+    },
+    {
+     "w": "qui",
+     "start": 40.92,
+     "end": 41.02
+    },
+    {
+     "w": "devient",
+     "start": 41.02,
+     "end": 41.24
+    },
+    {
+     "w": "son",
+     "start": 41.24,
+     "end": 41.42
+    },
+    {
+     "w": "meilleur",
+     "start": 41.42,
+     "end": 41.6
+    },
+    {
+     "w": "pote.",
+     "start": 41.6,
+     "end": 41.92
+    },
+    {
+     "w": "Leur",
+     "start": 42.64,
+     "end": 42.78
+    },
+    {
+     "w": "amitié,",
+     "start": 42.78,
+     "end": 43.02
+    },
+    {
+     "w": "c'est",
+     "start": 43.12,
+     "end": 43.26
+    },
+    {
+     "w": "un",
+     "start": 43.26,
+     "end": 43.36
+    },
+    {
+     "w": "des",
+     "start": 43.36,
+     "end": 43.44
+    },
+    {
+     "w": "trucs",
+     "start": 43.44,
+     "end": 43.56
+    },
+    {
+     "w": "les",
+     "start": 43.56,
+     "end": 43.76
+    },
+    {
+     "w": "plus",
+     "start": 43.76,
+     "end": 43.86
+    },
+    {
+     "w": "sains",
+     "start": 43.86,
+     "end": 44.04
+    },
+    {
+     "w": "du",
+     "start": 44.04,
+     "end": 44.16
+    },
+    {
+     "w": "manhwa.",
+     "start": 44.16,
+     "end": 44.333
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 44.333,
+   "end": 50.26,
+   "slot_end": 50.361,
+   "text": "Et y'a Amy, une génie de la magie de feu, qui le voit d'abord comme un rival. Leurs échanges sont trop drôles.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 44.333,
+     "end": 44.507
+    },
+    {
+     "w": "y'a",
+     "start": 44.507,
+     "end": 44.8
+    },
+    {
+     "w": "Amy,",
+     "start": 44.8,
+     "end": 45.02
+    },
+    {
+     "w": "une",
+     "start": 45.02,
+     "end": 45.34
+    },
+    {
+     "w": "génie",
+     "start": 45.34,
+     "end": 45.58
+    },
+    {
+     "w": "de",
+     "start": 45.58,
+     "end": 45.72
+    },
+    {
+     "w": "la",
+     "start": 45.72,
+     "end": 45.84
+    },
+    {
+     "w": "magie",
+     "start": 45.84,
+     "end": 46.12
+    },
+    {
+     "w": "de",
+     "start": 46.12,
+     "end": 46.24
+    },
+    {
+     "w": "feu,",
+     "start": 46.24,
+     "end": 46.52
+    },
+    {
+     "w": "qui",
+     "start": 46.52,
+     "end": 46.72
+    },
+    {
+     "w": "le",
+     "start": 46.72,
+     "end": 46.88
+    },
+    {
+     "w": "voit",
+     "start": 46.88,
+     "end": 47.0
+    },
+    {
+     "w": "d'abord",
+     "start": 47.0,
+     "end": 47.32
+    },
+    {
+     "w": "comme",
+     "start": 47.32,
+     "end": 47.58
+    },
+    {
+     "w": "un",
+     "start": 47.58,
+     "end": 47.76
+    },
+    {
+     "w": "rival.",
+     "start": 47.76,
+     "end": 47.88
+    },
+    {
+     "w": "Leurs",
+     "start": 48.74,
+     "end": 49.06
+    },
+    {
+     "w": "échanges",
+     "start": 49.06,
+     "end": 49.36
+    },
+    {
+     "w": "sont",
+     "start": 49.36,
+     "end": 49.7
+    },
+    {
+     "w": "trop",
+     "start": 49.7,
+     "end": 49.94
+    },
+    {
+     "w": "drôles.",
+     "start": 49.94,
+     "end": 50.26
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 50.36,
+   "end": 55.72,
+   "slot_end": 55.826,
+   "text": "Mais attends, le vrai kif, c'est le rythme. Chaque examen, chaque duel, t'as l'impression qu'il va se faire écraser, et il trouve toujours une idée de génie.",
+   "words": [
+    {
+     "w": "Mais",
+     "start": 50.36,
+     "end": 50.46
+    },
+    {
+     "w": "attends,",
+     "start": 50.46,
+     "end": 50.6
+    },
+    {
+     "w": "le",
+     "start": 50.76,
+     "end": 50.81
+    },
+    {
+     "w": "vrai",
+     "start": 50.8,
+     "end": 50.94
+    },
+    {
+     "w": "kif,",
+     "start": 50.94,
+     "end": 51.12
+    },
+    {
+     "w": "c'est",
+     "start": 51.12,
+     "end": 51.3
+    },
+    {
+     "w": "le",
+     "start": 51.3,
+     "end": 51.42
+    },
+    {
+     "w": "rythme.",
+     "start": 51.42,
+     "end": 51.82
+    },
+    {
+     "w": "Chaque",
+     "start": 51.84,
+     "end": 52.12
+    },
+    {
+     "w": "examen,",
+     "start": 52.12,
+     "end": 52.46
+    },
+    {
+     "w": "chaque",
+     "start": 52.54,
+     "end": 52.68
+    },
+    {
+     "w": "duel,",
+     "start": 52.68,
+     "end": 52.9
+    },
+    {
+     "w": "t'as",
+     "start": 53.04,
+     "end": 53.12
+    },
+    {
+     "w": "l'impression",
+     "start": 53.12,
+     "end": 53.36
+    },
+    {
+     "w": "qu'il",
+     "start": 53.36,
+     "end": 53.54
+    },
+    {
+     "w": "va",
+     "start": 53.54,
+     "end": 53.66
+    },
+    {
+     "w": "se",
+     "start": 53.66,
+     "end": 53.76
+    },
+    {
+     "w": "faire",
+     "start": 53.76,
+     "end": 53.9
+    },
+    {
+     "w": "écraser,",
+     "start": 53.9,
+     "end": 54.3
+    },
+    {
+     "w": "et",
+     "start": 54.3,
+     "end": 54.44
+    },
+    {
+     "w": "il",
+     "start": 54.44,
+     "end": 54.52
+    },
+    {
+     "w": "trouve",
+     "start": 54.52,
+     "end": 54.68
+    },
+    {
+     "w": "toujours",
+     "start": 54.68,
+     "end": 54.96
+    },
+    {
+     "w": "une",
+     "start": 54.96,
+     "end": 55.14
+    },
+    {
+     "w": "idée",
+     "start": 55.14,
+     "end": 55.32
+    },
+    {
+     "w": "de",
+     "start": 55.32,
+     "end": 55.48
+    },
+    {
+     "w": "génie.",
+     "start": 55.48,
+     "end": 55.72
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 55.72,
+   "end": 60.6,
+   "slot_end": 60.701,
+   "text": "Mon avis ? C'est un des meilleurs manhwas de magie en cours, et presque personne en parle chez nous. C'est chaud.",
+   "words": [
+    {
+     "w": "Mon",
+     "start": 55.72,
+     "end": 55.96
+    },
+    {
+     "w": "avis",
+     "start": 55.96,
+     "end": 56.14
+    },
+    {
+     "w": "?",
+     "start": 56.14,
+     "end": 56.54
+    },
+    {
+     "w": "C'est",
+     "start": 56.58,
+     "end": 56.78
+    },
+    {
+     "w": "un",
+     "start": 56.78,
+     "end": 56.92
+    },
+    {
+     "w": "des",
+     "start": 56.92,
+     "end": 57.0
+    },
+    {
+     "w": "meilleurs",
+     "start": 57.0,
+     "end": 57.36
+    },
+    {
+     "w": "manhwas",
+     "start": 57.36,
+     "end": 57.78
+    },
+    {
+     "w": "de",
+     "start": 57.78,
+     "end": 57.84
+    },
+    {
+     "w": "magie",
+     "start": 57.84,
+     "end": 58.16
+    },
+    {
+     "w": "en",
+     "start": 58.16,
+     "end": 58.32
+    },
+    {
+     "w": "cours,",
+     "start": 58.32,
+     "end": 58.54
+    },
+    {
+     "w": "et",
+     "start": 58.54,
+     "end": 58.72
+    },
+    {
+     "w": "presque",
+     "start": 58.72,
+     "end": 58.94
+    },
+    {
+     "w": "personne",
+     "start": 58.94,
+     "end": 59.36
+    },
+    {
+     "w": "en",
+     "start": 59.52,
+     "end": 59.57
+    },
+    {
+     "w": "parle",
+     "start": 59.54,
+     "end": 59.72
+    },
+    {
+     "w": "chez",
+     "start": 59.72,
+     "end": 59.94
+    },
+    {
+     "w": "nous.",
+     "start": 59.94,
+     "end": 60.08
+    },
+    {
+     "w": "C'est",
+     "start": 60.36,
+     "end": 60.44
+    },
+    {
+     "w": "chaud.",
+     "start": 60.44,
+     "end": 60.6
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 60.72,
+   "end": 64.82,
+   "slot_end": 65.006,
+   "text": "Y'a pas encore d'anime, mais tu peux le lire légalement, et il sort même en papier en France chez Kiraz.",
+   "words": [
+    {
+     "w": "Y'a",
+     "start": 60.72,
+     "end": 60.8
+    },
+    {
+     "w": "pas",
+     "start": 60.8,
+     "end": 60.88
+    },
+    {
+     "w": "encore",
+     "start": 60.88,
+     "end": 61.06
+    },
+    {
+     "w": "d'anime,",
+     "start": 61.06,
+     "end": 61.42
+    },
+    {
+     "w": "mais",
+     "start": 61.42,
+     "end": 61.56
+    },
+    {
+     "w": "tu",
+     "start": 61.56,
+     "end": 61.72
+    },
+    {
+     "w": "peux",
+     "start": 61.72,
+     "end": 61.84
+    },
+    {
+     "w": "le",
+     "start": 61.84,
+     "end": 61.94
+    },
+    {
+     "w": "lire",
+     "start": 61.94,
+     "end": 62.12
+    },
+    {
+     "w": "légalement,",
+     "start": 62.12,
+     "end": 62.7
+    },
+    {
+     "w": "et",
+     "start": 62.7,
+     "end": 62.96
+    },
+    {
+     "w": "il",
+     "start": 62.96,
+     "end": 63.06
+    },
+    {
+     "w": "sort",
+     "start": 63.06,
+     "end": 63.26
+    },
+    {
+     "w": "même",
+     "start": 63.26,
+     "end": 63.4
+    },
+    {
+     "w": "en",
+     "start": 63.4,
+     "end": 63.54
+    },
+    {
+     "w": "papier",
+     "start": 63.54,
+     "end": 63.8
+    },
+    {
+     "w": "en",
+     "start": 63.8,
+     "end": 64.0
+    },
+    {
+     "w": "France",
+     "start": 64.0,
+     "end": 64.22
+    },
+    {
+     "w": "chez",
+     "start": 64.22,
+     "end": 64.52
+    },
+    {
+     "w": "Kiraz.",
+     "start": 64.52,
+     "end": 64.82
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 64.82,
+   "end": 69.96,
+   "slot_end": 70.523,
+   "text": "Le nom, c'est The Infinite Mage. Dis-moi en com' si tu l'as déjà lu, et jusqu'où t'en es.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 64.82,
+     "end": 65.12
+    },
+    {
+     "w": "nom,",
+     "start": 65.12,
+     "end": 65.42
+    },
+    {
+     "w": "c'est",
+     "start": 65.62,
+     "end": 65.82
+    },
+    {
+     "w": "The",
+     "start": 65.82,
+     "end": 66.02
+    },
+    {
+     "w": "Infinite",
+     "start": 66.02,
+     "end": 66.52
+    },
+    {
+     "w": "Mage.",
+     "start": 66.52,
+     "end": 67.0
+    },
+    {
+     "w": "Dis-moi",
+     "start": 67.56,
+     "end": 67.8
+    },
+    {
+     "w": "en",
+     "start": 67.8,
+     "end": 67.98
+    },
+    {
+     "w": "com'",
+     "start": 67.98,
+     "end": 68.14
+    },
+    {
+     "w": "si",
+     "start": 68.14,
+     "end": 68.38
+    },
+    {
+     "w": "tu",
+     "start": 68.38,
+     "end": 68.5
+    },
+    {
+     "w": "l'as",
+     "start": 68.5,
+     "end": 68.62
+    },
+    {
+     "w": "déjà",
+     "start": 68.62,
+     "end": 68.85
+    },
+    {
+     "w": "lu,",
+     "start": 68.85,
+     "end": 69.08
+    },
+    {
+     "w": "et",
+     "start": 69.08,
+     "end": 69.26
+    },
+    {
+     "w": "jusqu'où",
+     "start": 69.26,
+     "end": 69.64
+    },
+    {
+     "w": "t'en",
+     "start": 69.64,
+     "end": 69.8
+    },
+    {
+     "w": "es.",
+     "start": 69.8,
+     "end": 69.96
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 70.46,
+   "end": 74.06,
+   "slot_end": 75.1,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 70.46,
+     "end": 70.86
+    },
+    {
+     "w": "Asura.",
+     "start": 70.86,
+     "end": 71.42
+    },
+    {
+     "w": "On",
+     "start": 72.16,
+     "end": 72.52
+    },
+    {
+     "w": "se",
+     "start": 72.52,
+     "end": 72.74
+    },
+    {
+     "w": "capte",
+     "start": 72.74,
+     "end": 73.2
+    },
+    {
+     "w": "au",
+     "start": 73.2,
+     "end": 73.32
+    },
+    {
+     "w": "prochain",
+     "start": 73.32,
+     "end": 73.6
+    },
+    {
+     "w": "épisode.",
+     "start": 73.6,
+     "end": 74.06
+    }
+   ]
+  }
+ ],
+ "aligned": 0.997
+}

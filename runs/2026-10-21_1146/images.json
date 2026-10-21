@@ -1,0 +1,43 @@
+{
+ "The Infinite Mage": {
+  "meta": {
+   "media": "manhwa",
+   "adaptation": null,
+   "title": "The Infinite Mage"
+  },
+  "wide": [],
+  "tall": [
+   "/home/claude/tiktok-factory/runs/2026-10-21_1146/images/4cf97ede90fc.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-21_1146/images/1bc0c3391b64.jpg"
+  ],
+  "characters": {
+   "Shirone Arian": "/home/claude/tiktok-factory/runs/2026-10-21_1146/images/86acdbdcd66b.jpg",
+   "Amy Karmis": "/home/claude/tiktok-factory/runs/2026-10-21_1146/images/155447c1b60c.jpg",
+   "Reina Ogent": "/home/claude/tiktok-factory/runs/2026-10-21_1146/images/915aded5f5dd.jpg",
+   "Rian Ogent": "/home/claude/tiktok-factory/runs/2026-10-21_1146/images/15c70f28f512.jpg",
+   "Siena Olifer": "/home/claude/tiktok-factory/runs/2026-10-21_1146/images/282643df2a29.png",
+   "Alpeas Milch": "/home/claude/tiktok-factory/runs/2026-10-21_1146/images/45367c801d13.png",
+   "Etella Romi": "/home/claude/tiktok-factory/runs/2026-10-21_1146/images/b5f1ff8c7858.png",
+   "Cerielle Portris": "/home/claude/tiktok-factory/runs/2026-10-21_1146/images/7cbd28c526ba.png",
+   "Klump Ogent": "/home/claude/tiktok-factory/runs/2026-10-21_1146/images/f36908e02925.png",
+   "Vincent Arian": "/home/claude/tiktok-factory/runs/2026-10-21_1146/images/885f2b7c6a67.png",
+   "Thad": "/home/claude/tiktok-factory/runs/2026-10-21_1146/images/7981d7170189.png",
+   "Guy Ogent": "/home/claude/tiktok-factory/runs/2026-10-21_1146/images/3b6a69a9cdae.png",
+   "Olina Arian": "/home/claude/tiktok-factory/runs/2026-10-21_1146/images/3bd827deb037.png",
+   "Jake Ardius": "/home/claude/tiktok-factory/runs/2026-10-21_1146/images/092cd721ba30.png",
+   "Kite": "/home/claude/tiktok-factory/runs/2026-10-21_1146/images/d04eac57796e.png",
+   "Shakora Karmis": "/home/claude/tiktok-factory/runs/2026-10-21_1146/images/a96062488d9c.png",
+   "Rai Ogent": "/home/claude/tiktok-factory/runs/2026-10-21_1146/images/d5dda1a58d3a.png",
+   "Temuran": "/home/claude/tiktok-factory/runs/2026-10-21_1146/images/a9012f4daac3.png",
+   "Bishop Ogent": "/home/claude/tiktok-factory/runs/2026-10-21_1146/images/bdafb1e6b019.png",
+   "Shuamin": "/home/claude/tiktok-factory/runs/2026-10-21_1146/images/34a2254cdf29.png",
+   "Martin": "/home/claude/tiktok-factory/runs/2026-10-21_1146/images/d2dd3d86dddc.png",
+   "Louis": "/home/claude/tiktok-factory/runs/2026-10-21_1146/images/d96b622c6619.png",
+   "Kemi": "/home/claude/tiktok-factory/runs/2026-10-21_1146/images/1f6c3346f2ab.png",
+   "Hannes": "/home/claude/tiktok-factory/runs/2026-10-21_1146/images/30f350a75706.png"
+  },
+  "sources": [
+   "https://anilist.co/manga/159930"
+  ]
+ }
+}

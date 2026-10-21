@@ -1,0 +1,15 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-21_1146/video.mp4",
+ "duration": 75.1,
+ "shots": 34,
+ "sources": [
+  "https://anilist.co/manga/159930"
+ ],
+ "music": {
+  "file": "pote.mp3",
+  "bpm": 184.6,
+  "offset": 47.39
+ },
+ "sfx": 18,
+ "engine": "remotion (OpenMontage)"
+}
