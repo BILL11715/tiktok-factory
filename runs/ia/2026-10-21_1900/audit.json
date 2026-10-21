@@ -1,0 +1,89 @@
+{
+ "stamp": "2026-10-21_1900",
+ "duration": 80.0,
+ "lead": 0.6,
+ "cps": 25.1,
+ "accuracy": 0.912,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "i a ce n",
+   "entendu": "ia c"
+  },
+  {
+   "dit": "tu demandes",
+   "entendu": "il demande"
+  },
+  {
+   "dit": "cuisines",
+   "entendu": "cuisine"
+  },
+  {
+   "dit": "qui",
+   "entendu": "qu il"
+  },
+  {
+   "dit": "chez anne tropique",
+   "entendu": "chaises anthropiques"
+  },
+  {
+   "dit": "ses",
+   "entendu": "ces"
+  },
+  {
+   "dit": "ce",
+   "entendu": "se"
+  },
+  {
+   "dit": "chercher",
+   "entendu": "cherche"
+  },
+  {
+   "dit": "lire",
+   "entendu": "lie a"
+  },
+  {
+   "dit": "mythe",
+   "entendu": "mnitz"
+  },
+  {
+   "dit": "anne",
+   "entendu": "un"
+  },
+  {
+   "dit": "cout",
+   "entendu": "coup"
+  },
+  {
+   "dit": "commencer",
+   "entendu": "commencez"
+  },
+  {
+   "dit": "garder",
+   "entendu": "gardez"
+  },
+  {
+   "dit": "verifier",
+   "entendu": "verifiez"
+  },
+  {
+   "dit": "ces",
+   "entendu": "ses"
+  },
+  {
+   "dit": "recompter",
+   "entendu": "reconter"
+  },
+  {
+   "dit": "ton regard",
+   "entendu": "t en regarde"
+  },
+  {
+   "dit": "quelle",
+   "entendu": "quel"
+  }
+ ],
+ "alerts": [
+  "prononciation 91% des mots compris (min 93%)"
+ ]
+}
