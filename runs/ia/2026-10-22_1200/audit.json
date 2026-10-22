@@ -1,0 +1,67 @@
+{
+ "stamp": "2026-10-22_1200",
+ "duration": 78.2,
+ "lead": 0.6,
+ "cps": 24.9,
+ "accuracy": 0.938,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "fini",
+   "entendu": "unis"
+  },
+  {
+   "dit": "coller",
+   "entendu": "colle"
+  },
+  {
+   "dit": "anne tropique",
+   "entendu": "anthropic"
+  },
+  {
+   "dit": "va",
+   "entendu": "vas"
+  },
+  {
+   "dit": "dans",
+   "entendu": "tenez"
+  },
+  {
+   "dit": "extensions",
+   "entendu": "extension"
+  },
+  {
+   "dit": "demande",
+   "entendu": "demandez"
+  },
+  {
+   "dit": "sheets",
+   "entendu": "sheet"
+  },
+  {
+   "dit": "slides",
+   "entendu": "slide"
+  },
+  {
+   "dit": "et rassure",
+   "entendu": "derassure"
+  },
+  {
+   "dit": "les limites",
+   "entendu": "il est limite"
+  },
+  {
+   "dit": "verifie",
+   "entendu": "verifiez"
+  },
+  {
+   "dit": "sheets",
+   "entendu": "sheet"
+  },
+  {
+   "dit": "slides",
+   "entendu": "slide"
+  }
+ ],
+ "alerts": []
+}
