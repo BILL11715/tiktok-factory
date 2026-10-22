@@ -1,0 +1,35 @@
+{
+ "Pick Me Up": {
+  "meta": {
+   "media": "manhwa",
+   "adaptation": null,
+   "title": "Pick Me Up"
+  },
+  "wide": [
+   "/home/claude/tiktok-factory/runs/2026-10-22_1147/images/1086758bd51f.jpg"
+  ],
+  "tall": [
+   "/home/claude/tiktok-factory/runs/2026-10-22_1147/images/a0ecb2e4ce5c.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-22_1147/images/89a3effb4c9c.jpg"
+  ],
+  "characters": {
+   "Yslat Han": "/home/claude/tiktok-factory/runs/2026-10-22_1147/images/ecf5982c4478.jpg",
+   "Jenna Shirai": "/home/claude/tiktok-factory/runs/2026-10-22_1147/images/2fd54498bfdf.jpg",
+   "Yvolka Strashur": "/home/claude/tiktok-factory/runs/2026-10-22_1147/images/63c60d568873.jpg",
+   "Yurneth Syd": "/home/claude/tiktok-factory/runs/2026-10-22_1147/images/b65d1c61f03b.jpg",
+   "Edith Callen": "/home/claude/tiktok-factory/runs/2026-10-22_1147/images/e8103a14b4f3.jpg",
+   "Aaron Delkard": "/home/claude/tiktok-factory/runs/2026-10-22_1147/images/de5c51045c67.png",
+   "Tel": "/home/claude/tiktok-factory/runs/2026-10-22_1147/images/0f3dc4157b84.jpg",
+   "Isel": "/home/claude/tiktok-factory/runs/2026-10-22_1147/images/752b25a24693.jpg",
+   "Ridigeon": "/home/claude/tiktok-factory/runs/2026-10-22_1147/images/43a973dd95f1.jpg",
+   "Syris Agentheim": "/home/claude/tiktok-factory/runs/2026-10-22_1147/images/eba30b05609c.jpg",
+   "Nihaku Geistfeld": "/home/claude/tiktok-factory/runs/2026-10-22_1147/images/0d8558ee09b8.jpg",
+   "Muden Nidelk": "/home/claude/tiktok-factory/runs/2026-10-22_1147/images/9470cadb0b08.jpg",
+   "Shay Lathasterie": "/home/claude/tiktok-factory/runs/2026-10-22_1147/images/659b0890270e.png",
+   "Mormonte Carle": "/home/claude/tiktok-factory/runs/2026-10-22_1147/images/eef1ded85e72.png"
+  },
+  "sources": [
+   "https://anilist.co/manga/159441"
+  ]
+ }
+}
