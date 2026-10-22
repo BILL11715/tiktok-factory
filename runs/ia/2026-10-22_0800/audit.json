@@ -1,0 +1,43 @@
+{
+ "stamp": "2026-10-22_0800",
+ "duration": 81.4,
+ "lead": 0.6,
+ "cps": 25.1,
+ "accuracy": 0.949,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "s e o radiusse",
+   "entendu": "seo radius"
+  },
+  {
+   "dit": "opportunite estime",
+   "entendu": "opportunites estimees"
+  },
+  {
+   "dit": "l i",
+   "entendu": "il y"
+  },
+  {
+   "dit": "ce",
+   "entendu": "le"
+  },
+  {
+   "dit": "i a",
+   "entendu": "ia"
+  },
+  {
+   "dit": "relis",
+   "entendu": "voilez"
+  },
+  {
+   "dit": "verifie",
+   "entendu": "verifiez"
+  },
+  {
+   "dit": "leurs listes",
+   "entendu": "leur liste"
+  }
+ ],
+ "alerts": []
+}
