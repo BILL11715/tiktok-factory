@@ -1,0 +1,73 @@
+{
+ "stamp": "2026-10-22_2200",
+ "duration": 83.6,
+ "lead": 0.6,
+ "cps": 24.7,
+ "accuracy": 0.904,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "lyon ses",
+   "entendu": "lion ces"
+  },
+  {
+   "dit": "s e o radiusse",
+   "entendu": "seo radius"
+  },
+  {
+   "dit": "annuaires",
+   "entendu": "annuaire"
+  },
+  {
+   "dit": "opportunite",
+   "entendu": "opportunites et"
+  },
+  {
+   "dit": "des",
+   "entendu": "de"
+  },
+  {
+   "dit": "officielle",
+   "entendu": "officiel"
+  },
+  {
+   "dit": "ou le q r",
+   "entendu": "au qr"
+  },
+  {
+   "dit": "q r",
+   "entendu": "qr"
+  },
+  {
+   "dit": "s m s",
+   "entendu": "sms"
+  },
+  {
+   "dit": "creer",
+   "entendu": "creez"
+  },
+  {
+   "dit": "q r",
+   "entendu": "qr"
+  },
+  {
+   "dit": "ecrire",
+   "entendu": "et creez"
+  },
+  {
+   "dit": "s m s",
+   "entendu": "sms"
+  },
+  {
+   "dit": "apres chantier mieux",
+   "entendu": "apreschantier nieux"
+  },
+  {
+   "dit": "plombier",
+   "entendu": "pommier"
+  }
+ ],
+ "alerts": [
+  "prononciation 90% des mots compris (min 93%)"
+ ]
+}

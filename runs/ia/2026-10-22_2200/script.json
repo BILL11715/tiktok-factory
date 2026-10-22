@@ -1,0 +1,218 @@
+{
+ "title": "Le lien d'avis Google, un argument de prospection",
+ "theme": "seo",
+ "pillar": "seo-radius",
+ "format": "mythe",
+ "music": "pote",
+ "cover": {
+  "text": "4 avis contre 80",
+  "highlight": [
+   "avis"
+  ],
+  "emoji": "⭐",
+  "sub": "ton prochain client"
+ },
+ "hook_text": "4 avis Google contre 80 : ton prochain client est là.",
+ "segments": [
+  {
+   "text": "4 avis Google contre 80 : ton prochain client est là.",
+   "emphasis": [
+    "avis"
+   ]
+  },
+  {
+   "text": "Beaucoup d'artisans pensent que les avis arrivent tout seuls. C'est faux. Un client content oublie, sauf si on lui demande.",
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "Mythe",
+     "items": [
+      "Les avis viennent seuls",
+      "Il suffit d'attendre"
+     ]
+    },
+    "right": {
+     "title": "Réalité",
+     "items": [
+      "Le client oublie",
+      "Il faut demander"
+     ]
+    }
+   }
+  },
+  {
+   "text": "Imagine un plombier de Lyon. Ses clients sont ravis, mais il n'a que 4 avis. Et son concurrent, juste à côté, en affiche 80. Qui reçoit l'appel ?",
+   "visual": {
+    "kind": "search",
+    "query": "plombier Lyon",
+    "results": [
+     {
+      "name": "Lyon Eau Services",
+      "note": "80 avis",
+      "rating": "4,6"
+     },
+     {
+      "name": "Martin Plomberie",
+      "note": "4 avis",
+      "rating": "5,0"
+     }
+    ],
+    "pick": 1
+   }
+  },
+  {
+   "text": "Moi, pour repérer ces entreprises, j'utilise SEO Radius.",
+   "visual": {
+    "kind": "card",
+    "emoji": "🎯",
+    "owner": "seoradius.fr",
+    "name": "SEO Radius",
+    "desc": "Trouver les entreprises mal placées sur Google",
+    "tags": [
+     "prospection",
+     "SEO local"
+    ],
+    "url": "seoradius.fr"
+   }
+  },
+  {
+   "text": "Ensuite, je choisis un métier et une ville. Le logiciel analyse jusqu'à 50 résultats, hors annuaires.",
+   "visual": {
+    "kind": "stat",
+    "value": 50,
+    "label": "résultats Google analysés",
+    "source": "SEO Radius"
+   }
+  },
+  {
+   "text": "Chaque entreprise reçoit un score d'opportunité, une estimation. Je garde les entreprises avec peu d'avis.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Score estimé",
+    "text": "Peu d'avis, belle opportunité",
+    "highlight": "opportunité"
+   }
+  },
+  {
+   "text": "Avant de l'appeler, je le réserve. Il disparaît des listes des autres utilisateurs pendant 7 à 30 jours.",
+   "visual": {
+    "kind": "stat",
+    "value": 30,
+    "prefix": "7 à ",
+    "suffix": " jours",
+    "label": "de réservation exclusive",
+    "source": "selon le plan"
+   }
+  },
+  {
+   "text": "Au premier contact, un seul constat : 4 avis, contre 80 chez son voisin. Et une solution simple : le lien d'avis Google.",
+   "stamp": "lien d'avis",
+   "visual": {
+    "kind": "title",
+    "kicker": "Premier contact",
+    "text": "Un seul constat",
+    "highlight": "constat"
+   }
+  },
+  {
+   "text": "Google l'explique dans son aide officielle. Sur la fiche, depuis un ordinateur, on clique sur Lire les avis, ensuite Obtenir plus d'avis. On copie le lien ou le QR code.",
+   "visual": {
+    "kind": "list",
+    "title": "Créer le lien",
+    "items": [
+     "Ouvrir la fiche Google",
+     "Lire les avis",
+     "Obtenir plus d'avis",
+     "Copier le lien"
+    ],
+    "at": [
+     "fiche",
+     "Lire",
+     "Obtenir",
+     "copie"
+    ]
+   }
+  },
+  {
+   "text": "L'artisan imprime le QR code pour son comptoir ou sa facture. Le lien part aussi par SMS, après le chantier.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Où le mettre",
+    "text": "Facture, comptoir, SMS",
+    "highlight": "SMS"
+   }
+  },
+  {
+   "text": "Attention à la règle : Google interdit d'offrir un cadeau ou une remise contre un avis. C'est du faux engagement.",
+   "sfx": true,
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "Interdit",
+     "items": [
+      "Cadeau contre avis",
+      "Remise contre avis"
+     ]
+    },
+    "right": {
+     "title": "Autorisé",
+     "items": [
+      "Demander à chaque client",
+      "Lien ou QR code"
+     ]
+    }
+   }
+  },
+  {
+   "text": "Et pas de faux avis non plus. Selon Google, un mélange de bons et de moins bons avis inspire souvent plus confiance.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Aide Google",
+    "text": "Le mélange rassure",
+    "highlight": "mélange"
+   }
+  },
+  {
+   "text": "Ensuite, propose une petite mission : créer le lien, faire le QR code, écrire le SMS d'après chantier.",
+   "visual": {
+    "kind": "list",
+    "title": "Première mission",
+    "items": [
+     "Créer le lien",
+     "Imprimer le QR code",
+     "Écrire le SMS"
+    ],
+    "at": [
+     "lien",
+     "QR",
+     "SMS"
+    ]
+   }
+  },
+  {
+   "text": "Mieux vaut garantir du concret que la première place.",
+   "stamp": "concret"
+  },
+  {
+   "text": "Dans un mois, vous comptez les nouveaux avis ensemble. Et c'est souvent la porte d'entrée vers un suivi mensuel.",
+   "visual": {
+    "kind": "stat",
+    "value": 1,
+    "suffix": " mois",
+    "label": "pour compter les nouveaux avis",
+    "source": "ton suivi"
+   }
+  },
+  {
+   "text": "Et chez toi, combien d'avis a le plombier le plus proche ?"
+  }
+ ],
+ "caption": "4 avis contre 80 : le lien d'avis Google, un vrai argument de prospection ⭐ (lien en bio)",
+ "hashtags": [
+  "#seo",
+  "#seolocal",
+  "#freelance",
+  "#prospection",
+  "#avisgoogle"
+ ]
+}
