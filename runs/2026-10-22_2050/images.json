@@ -1,0 +1,76 @@
+{
+ "Tower of God": {
+  "meta": {
+   "id": "43004",
+   "title": "Tower of God",
+   "titles": {
+    "en": "Tower of God",
+    "en_jp": "Kami no Tou: Tower of God",
+    "ja_jp": "神之塔 -Tower of God-"
+   },
+   "synopsis": "Reach the top, and everything will be yours. At the top of the tower exists everything in this world, and all of it can be yours. You can become a god. This is the story of the beginning and the end of Rachel, the girl who climbed the tower so she could see the stars, and Bam, the boy who needed nothing but her.\n\n(Source: Crunchyroll)",
+   "episodes": 13,
+   "start": "2020-04-01",
+   "source": "https://kitsu.io/anime/tower-of-god",
+   "media": "manhwa",
+   "adaptation": "Tower of God"
+  },
+  "wide": [
+   "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/6c45d8aff37a.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/abbab584208f.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/022061d11435.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/704542c5d5b7.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/abbab584208f.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/022061d11435.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/e91572b558b6.png",
+   "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/8bb4ca3b7626.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/e3006024d3d4.jpg"
+  ],
+  "tall": [
+   "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/e8c912730a73.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/d9c4dc00cbe1.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/5fda84349144.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/ae9080ce71e3.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/3c7bb747066d.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/45449ee5944f.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/bcb11ea8e226.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/5ce043f8ac3f.jpg"
+  ],
+  "characters": {
+   "Aguero Agnis Khun": "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/779d40dee55c.png",
+   "Twenty-Fifth Baam": "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/45f275f958ea.png",
+   "Rak Wraithraiser": "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/d393eb2dc628.jpg",
+   "Rachel": "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/f51cdfa81814.jpg",
+   "Endorsi Jahad": "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/6d84444fe228.png",
+   "Yuri Ha Jahad": "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/cdbf322d824a.png",
+   "Hwaryun": "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/8eaa0d662593.jpg",
+   "Lero-Ro": "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/389b973bee85.png",
+   "Hatz": "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/1ff3d478cbee.png",
+   "Anaak Jahad": "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/151e88ad3851.png",
+   "Shibisu": "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/c1367e48e9ab.png",
+   "Lauroe Phonsekal": "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/89227abd1a16.jpg",
+   "Yu Han Sung": "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/49311cfffadb.png",
+   "Headon": "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/c52937d26a54.png",
+   "Serena Rinnen": "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/d19a32fb9c00.png",
+   "Evan Edrok": "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/8e8a46ea4e7e.png",
+   "Quant Blitz": "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/b6551bc69474.jpg",
+   "Hoh": "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/ff6f037abb42.png",
+   "Hachuling Khun": "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/11381fdcce38.png",
+   "Dede Kancho": "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/cc5526dee00a.png",
+   "Geomeun Samwol": "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/d2aaad6f7050.jpg",
+   "Parakewl": "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/ab2b437a8c83.png",
+   "Sunwoo Nare": "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/7fb719a04364.png",
+   "Full Black": "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/409a24cdceb1.png",
+   "Blarouse": "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/5c0831c47edd.png",
+   "Urek Mazino": "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/10ec30b2d88d.png",
+   "White": "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/703523bad2b9.png",
+   "Wangnan Ja": "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/60b10aee7edd.jpg",
+   "Jin-Seong Ha": "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/1d32b3658e4f.png",
+   "Ran Khun": "/home/claude/tiktok-factory/runs/2026-10-22_2050/images/d60da38d7a72.jpg"
+  },
+  "sources": [
+   "https://kitsu.io/anime/tower-of-god",
+   "https://anilist.co/manga/85143"
+  ]
+ }
+}
