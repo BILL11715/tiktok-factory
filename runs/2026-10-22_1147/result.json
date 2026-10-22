@@ -1,0 +1,20 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-22_1147/video.mp4",
+ "duration": 73.693,
+ "shots": 29,
+ "sources": [
+  "https://anilist.co/manga/159441"
+ ],
+ "music": {
+  "file": "pote.mp3",
+  "bpm": 184.6,
+  "offset": 47.39
+ },
+ "sfx": 17,
+ "engine": "remotion (OpenMontage)",
+ "voice_engine": "fish",
+ "repo_path": "videos/2026/10/2026-10-22_1147.mp4",
+ "raw_url": "https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/videos/2026/10/2026-10-22_1147.mp4",
+ "lint": [],
+ "render_seconds": 579.2
+}

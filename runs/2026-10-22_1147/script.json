@@ -1,0 +1,124 @@
+{
+ "title": "Reco manhwa : le meilleur joueur du monde coincé dans son propre jeu",
+ "format": "reco",
+ "tone": "pote",
+ "music": "pote",
+ "animes": [
+  "Pick Me Up"
+ ],
+ "media": {
+  "Pick Me Up": "manhwa"
+ },
+ "cover": {
+  "text": "Le numéro 1 devient un perso nul",
+  "highlight": [
+   "nul"
+  ],
+  "emoji": "🎲",
+  "sub": "reco manhwa"
+ },
+ "hook_text": "Le meilleur joueur du monde se réveille dans son jeu, en perso le plus nul",
+ "spoiler": false,
+ "segments": [
+  {
+   "text": "Le meilleur joueur du monde se réveille dans son jeu, en perso le plus nul.",
+   "sfx": true,
+   "emphasis": [
+    "plus nul"
+   ],
+   "scene": "a young man waking up confused in a dark fantasy dungeon"
+  },
+  {
+   "text": "[whispering] Reste jusqu'au bout, j'te donne le nom du manhwa, et franchement tu vas me remercier.",
+   "scene": "a mysterious glowing summoning circle in a dark room"
+  },
+  {
+   "text": "Alors imagine. Y'a un jeu de gacha, où tu invoques des héros au hasard et tu les envoies grimper un donjon.",
+   "shots": [
+    {
+     "kind": "wide"
+    }
+   ],
+   "scene": "a huge tower dungeon rising into a cloudy sky"
+  },
+  {
+   "text": "Et dans ce jeu, y'a un joueur que tout le monde connaît. Il s'appelle Loki, et c'est le numéro un du classement.",
+   "emphasis": [
+    "Loki"
+   ],
+   "scene": "a confident player smirking in front of a glowing game screen"
+  },
+  {
+   "text": "Sauf qu'un jour, il ouvre les yeux, et il est plus derrière l'écran. Il est dedans. Et pas en boss, hein.",
+   "sfx": true,
+   "emphasis": [
+    "dedans"
+   ],
+   "scene": "a young man trapped inside a glowing digital world"
+  },
+  {
+   "text": "Il est devenu Han Isae, un héros une étoile, niveau un. Le genre de perso que lui-même jetait à la poubelle sans réfléchir.",
+   "emphasis": [
+    "une étoile"
+   ],
+   "stamp": "NIVEAU 1",
+   "scene": "a weak young swordsman with cheap armor standing alone"
+  },
+  {
+   "text": "[sad] Et c'est là que ça devient sombre. Dans ce jeu, quand un héros meurt, il revient pas. Et Loki, des héros, il en a sacrifié des tonnes pour gagner.",
+   "grade": "bw",
+   "scene": "fallen warriors lying on a battlefield under grey sky"
+  },
+  {
+   "text": "Si t'aimes les manhwas où le héros gagne avec sa tête et pas juste avec ses muscles, abonne-toi, j'en sors tous les jours.",
+   "cta": true
+  },
+  {
+   "text": "Parce que c'est ça le délire. Il a pas de stats. Mais il connaît le jeu par cœur, chaque piège, chaque monstre.",
+   "emphasis": [
+    "par cœur"
+   ],
+   "scene": "a young man calmly giving orders to a small party of adventurers"
+  },
+  {
+   "text": "Du coup il prend une équipe de héros nuls, que personne veut, et il les fait passer des étages qu'ils auraient jamais dû passer.",
+   "scene": "a ragtag group of heroes fighting a giant monster together"
+  },
+  {
+   "text": "[excited] Et j'te jure, les combats de stratégie, c'est un régal. Genre des échecs, mais avec des vies humaines.",
+   "emphasis": [
+    "échecs"
+   ],
+   "scene": "an intense battle with swords and magic in a dark cave"
+  },
+  {
+   "text": "Mais attends, le vrai truc qui m'a eu, c'est pas les combats. C'est qu'il découvre que ses héros, ceux qu'il traitait comme des cartes, ils ressentent tout.",
+   "grade": "bw",
+   "scene": "a sad warrior looking at his hands in silence"
+  },
+  {
+   "text": "Pour rentrer chez lui, il doit atteindre le sommet du donjon. Sans perdre personne. Et lui qui sacrifiait tout le monde, il doit apprendre à protéger.",
+   "sfx": true,
+   "stamp": "VALIDÉ",
+   "scene": "a young hero shielding his wounded companions from a monster"
+  },
+  {
+   "text": "Y'a pas encore d'anime, mais pour moi c'est un des meilleurs manhwas du moment. Le nom, c'est Pick Me Up. Dis-moi en com' si tu l'as lu.",
+   "emphasis": [
+    "Pick Me Up"
+   ],
+   "scene": "a hero standing on top of a tower looking at the sunrise"
+  }
+ ],
+ "reveal_text": "Pick Me Up",
+ "reveal_segments": 1,
+ "caption": "Le numéro 1 du jeu devient le perso qu'il jetait à la poubelle 🎲 tu l'as lu ?",
+ "hashtags": [
+  "#anime",
+  "#manhwa",
+  "#animefr",
+  "#webtoonfr",
+  "#pickmeup",
+  "#recommandationanime"
+ ]
+}
