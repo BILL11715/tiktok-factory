@@ -1,0 +1,85 @@
+{
+ "stamp": "2026-10-22_1900",
+ "duration": 80.8,
+ "lead": 0.6,
+ "cps": 25.3,
+ "accuracy": 0.9,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "prompt",
+   "entendu": "pointe"
+  },
+  {
+   "dit": "prompt",
+   "entendu": "pointe"
+  },
+  {
+   "dit": "l i a",
+   "entendu": "lia"
+  },
+  {
+   "dit": "elle obeisse",
+   "entendu": "elles obeissent"
+  },
+  {
+   "dit": "chez anne tropique",
+   "entendu": "chaises anthropiques"
+  },
+  {
+   "dit": "le dit ainsi",
+   "entendu": "de dience"
+  },
+  {
+   "dit": "donner",
+   "entendu": "donnez"
+  },
+  {
+   "dit": "montrer",
+   "entendu": "montrez"
+  },
+  {
+   "dit": "ecris",
+   "entendu": "ecrire"
+  },
+  {
+   "dit": "fais court",
+   "entendu": "fait croire"
+  },
+  {
+   "dit": "montrer",
+   "entendu": "montrez"
+  },
+  {
+   "dit": "colle une",
+   "entendu": "cole n"
+  },
+  {
+   "dit": "trouves reussie",
+   "entendu": "trouverais aussi"
+  },
+  {
+   "dit": "anne tropique",
+   "entendu": "anthropie"
+  },
+  {
+   "dit": "conseille",
+   "entendu": "conseil"
+  },
+  {
+   "dit": "l i",
+   "entendu": "il y"
+  },
+  {
+   "dit": "a",
+   "entendu": ""
+  },
+  {
+   "dit": "formule secrete",
+   "entendu": "formules secretes"
+  }
+ ],
+ "alerts": [
+  "prononciation 90% des mots compris (min 93%)"
+ ]
+}
