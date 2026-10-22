@@ -1,0 +1,190 @@
+{
+ "title": "Prospecter un artisan deux mois avant sa saison",
+ "theme": "seo",
+ "pillar": "seo-radius",
+ "format": "methode",
+ "music": "pote",
+ "cover": {
+  "text": "Appelle-le avant sa saison",
+  "highlight": [
+   "saison"
+  ],
+  "emoji": "📅",
+  "sub": "la méthode des deux mois"
+ },
+ "hook_text": "En plein hiver, un ramoneur n'a pas une minute pour toi.",
+ "segments": [
+  {
+   "text": "En plein hiver, un ramoneur n'a pas une minute pour toi.",
+   "emphasis": [
+    "hiver"
+   ]
+  },
+  {
+   "text": "Imagine que tu l'appelles en décembre. Son téléphone sonne toute la journée, ses clients attendent, et ton message finit à la poubelle.",
+   "visual": {
+    "kind": "title",
+    "kicker": "En décembre",
+    "text": "Ton message finit à la poubelle",
+    "highlight": "poubelle"
+   }
+  },
+  {
+   "text": "Chaque métier a sa saison. Le chauffage avant l'hiver, la climatisation avant l'été, le jardin au printemps.",
+   "visual": {
+    "kind": "list",
+    "title": "Chaque métier a sa saison",
+    "items": [
+     "Chauffage : avant l'hiver",
+     "Climatisation : avant l'été",
+     "Jardin : au printemps"
+    ],
+    "at": [
+     "chauffage",
+     "climatisation",
+     "jardin"
+    ]
+   }
+  },
+  {
+   "text": "L'idée, c'est de contacter l'artisan deux mois avant sa période chargée. Il a le temps de t'écouter. Et il veut être prêt quand les appels arrivent.",
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "En pleine saison",
+     "items": [
+      "Débordé",
+      "Pas le temps",
+      "Aucune réponse"
+     ]
+    },
+    "right": {
+     "title": "Deux mois avant",
+     "items": [
+      "Disponible",
+      "À l'écoute",
+      "Veut être prêt"
+     ]
+    }
+   },
+   "sfx": true
+  },
+  {
+   "text": "Pour trouver cette période, ouvre Google Trends. C'est gratuit, et ça montre quand les gens cherchent un mot.",
+   "visual": {
+    "kind": "card",
+    "emoji": "📈",
+    "owner": "Google",
+    "name": "Google Trends",
+    "desc": "Voir quand un mot est le plus recherché",
+    "tags": [
+     "gratuit",
+     "saisons"
+    ],
+    "price": "Gratuit",
+    "url": "trends.google.fr"
+   }
+  },
+  {
+   "text": "Ensuite, écris le métier, choisis la France, et regarde la courbe sur cinq ans. Les bosses qui reviennent chaque année, c'est la saison.",
+   "visual": {
+    "kind": "stat",
+    "value": 5,
+    "suffix": " ans",
+    "label": "de courbe à regarder",
+    "source": "Google Trends"
+   }
+  },
+  {
+   "text": "Une fois le mois trouvé, recule de deux mois. C'est ton moment idéal pour prospecter ce métier.",
+   "stamp": "deux mois"
+  },
+  {
+   "text": "Pour trouver les entreprises, j'utilise SEO Radius.",
+   "visual": {
+    "kind": "card",
+    "emoji": "🎯",
+    "owner": "seoradius.fr",
+    "name": "SEO Radius",
+    "desc": "Trouver les entreprises mal référencées près de toi",
+    "tags": [
+     "prospection",
+     "SEO local"
+    ],
+    "price": "Gratuit pour démarrer",
+    "url": "seoradius.fr"
+   }
+  },
+  {
+   "text": "Ensuite, tu choisis le métier et ta ville. L'outil analyse jusqu'à 50 résultats Google, écarte les annuaires et classe les artisans avec un score d'opportunité estimé.",
+   "visual": {
+    "kind": "search",
+    "query": "ramoneur Lyon",
+    "results": [
+     {
+      "name": "Lyon Ramonage Service",
+      "note": "page 2, score estimé élevé",
+      "rating": "4,6"
+     },
+     {
+      "name": "Cheminées du Rhône",
+      "note": "page 2",
+      "rating": "4,1"
+     }
+    ],
+    "pick": 0
+   }
+  },
+  {
+   "text": "Garde surtout ceux qui sont loin dans les résultats Google. Quand la saison démarre, ce sont eux qui ratent les appels.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Loin dans les résultats",
+    "text": "Ils ratent les appels de la saison",
+    "highlight": "appels"
+   }
+  },
+  {
+   "text": "Pense à les réserver tout de suite. Les autres utilisateurs de l'outil ne les verront plus pendant 7 à 30 jours, selon le plan.",
+   "visual": {
+    "kind": "stat",
+    "value": 30,
+    "prefix": "7 à ",
+    "suffix": " jours",
+    "label": "de réservation exclusive",
+    "source": "selon le plan"
+   }
+  },
+  {
+   "text": "Et dans ton premier message, parle de sa saison, pas de technique. Dans deux mois, les gens vont chercher un ramoneur. Est-ce qu'ils vous trouveront ?",
+   "visual": {
+    "kind": "chat",
+    "name": "Premier message",
+    "user": "Écris un message court à un ramoneur de Lyon, deux mois avant l'hiver.",
+    "assistant": "Bonjour, dans deux mois, beaucoup de gens vont chercher un ramoneur à Lyon. Aujourd'hui, votre entreprise apparaît en page 2 de Google. Est-ce qu'on regarde ensemble comment être prêt avant la saison ?"
+   },
+   "sfx": true
+  },
+  {
+   "text": "Attention, les chiffres de l'outil sont des estimations. Et personne ne peut garantir la première place. Mieux vaut promettre d'être prêt avant la saison.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Reste honnête",
+    "text": "Prêt avant la saison",
+    "highlight": "saison",
+    "sub": "pas la première place"
+   }
+  },
+  {
+   "text": "Et toi, quel métier vas-tu prospecter avant l'hiver ? Dis-le-moi en commentaire."
+  }
+ ],
+ "caption": "Un artisan débordé ne répond pas. Deux mois avant sa saison, si 📅 (lien en bio)",
+ "hashtags": [
+  "#seo",
+  "#seolocal",
+  "#prospection",
+  "#freelance",
+  "#artisan"
+ ]
+}

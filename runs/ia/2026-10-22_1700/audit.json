@@ -1,0 +1,39 @@
+{
+ "stamp": "2026-10-22_1700",
+ "duration": 79.9,
+ "lead": 0.6,
+ "cps": 25.5,
+ "accuracy": 0.956,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "plein",
+   "entendu": "pleine"
+  },
+  {
+   "dit": "son",
+   "entendu": "on"
+  },
+  {
+   "dit": "la climatisation",
+   "entendu": "l acclimatisation"
+  },
+  {
+   "dit": "au",
+   "entendu": "en"
+  },
+  {
+   "dit": "ecris",
+   "entendu": "ecrit"
+  },
+  {
+   "dit": "s e o radiusse",
+   "entendu": "seo radius"
+  },
+  {
+   "dit": "opportunite estime garde",
+   "entendu": "opportunites estimes ecarte"
+  }
+ ],
+ "alerts": []
+}
