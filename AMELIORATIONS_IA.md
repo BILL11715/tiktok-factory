@@ -10,7 +10,7 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
    lettres. Jamais plus de 2 chiffres dans la même phrase, sinon l'oreille décroche.
 3. La voix démarre 0,6 s après l'affiche de couverture : ne pas raccourcir le hook pour compenser.
 4. Pas de balises d'émotion : l'intonation vient de la ponctuation (questions, exclamations réelles).
-5. Éviter de commencer une phrase (surtout le hook) par « Ton » + nom : mal compris sur 2 vidéos du 12/10
+5. Éviter de commencer une phrase (surtout le hook) par « Ton » ou « Son » + nom (« Son concurrent » entendu « donc » le 22/10 22:00) : mal compris sur 2 vidéos du 12/10
    (« ton client » entendu « donc il y en », « ton entretien » entendu « son » / « dans l »). Préférer « Tu as un
    entretien demain ? » ou placer le mot après le verbe.
    Même chose pour « Résultat ? » en ouverture de phrase : mal compris sur 2 vidéos (17/10 19:00 « pasuta »,
@@ -42,11 +42,16 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
 ## Pistes pour Bill (changements de code proposés, à valider par lui)
 - Audit : comparer la transcription au texte écrit du script, pas à la graphie phonétique du lexique.
   Aujourd'hui « PDF » (dit « p d f ») et « PowerPoint » (dit « paoueur pointe ») comptent comme des
-  écarts alors qu'ils sont bien entendus, ce qui fait passer la prononciation sous 93 % à tort.
+  écarts alors qu'ils sont bien entendus, ce qui fait passer la prononciation sous 93 % à tort. Même chose pour les sigles du lexique (« QR », « SMS » dits
+  « Q R », « S M S » mais transcrits « qr », « sms » : 5 écarts sur la vidéo du 22/10 22:00).
 - Audit : ignorer les homophones (« rends » / « rend », « ton » / « t'on ») dans les mots mal compris.
 - Audit : relancer `factory.audit` sur le même run ajoute une 2e ligne identique dans `audits_ia.jsonl` (doublons 14/10 12:00 et 19:00), ce qui gonfle le compte des « mots mal compris sur plusieurs vidéos ». Remplacer la ligne du même stamp au lieu d'en ajouter une.
 
 ## Journal (1 ligne par revue, la plus récente en haut, 20 lignes maximum)
+- 2026-10-22 (22:00) : 1er rendu à 89 % (« à Lyon. Clients ravis » entendu « alliant client ravi », « Son concurrent » entendu « donc », « Pour trouver » « vous trouvez »,
+  « L'outil » « le tient », « Souvent, » « nouveau ») : reformulés, 2e rendu à 90 % avec alerte, mais les écarts restants viennent surtout de la graphie (QR et SMS ajoutés
+  au lexique en lettres, bien entendus « qr » « sms ») et des pluriels. Débit 24,7 car./s, 83,6 s pour 1 639 car. : règle 7 tenue. Sur les 10 derniers audits, débit 24,3 à 26,1 car./s,
+  6 sans alerte. « Son » + nom en ouverture rejoint « Ton » : règle 5 précisée. Doublons d'audit du même stamp retirés à la main (piste déjà notée).
 - 2026-10-22 (17:00) : 1er rendu 77,2 s avec alerte débit 25,6 (« ramoneur » en tout début de hook entendu « hame honneur », « rush » « roche », « Réserve » « deserve », « pic » « pied ») :
   hook réordonné (« En plein hiver, un ramoneur... »), mots remplacés, phrases coupées ; 2e rendu sans alerte (25,5 car./s, 96 %, 79,9 s). Sur les 10 derniers audits, débit 24,3 à 26,1 car./s,
   7 sans alerte. « promets » 4 fois : règle 5 étendue. Règle 7 précisée. Pas de nouveau mot au lexique (mots mal compris sur 1 seule vidéo).
@@ -109,6 +114,3 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
   règle 5 appliquée (aucune phrase ouverte par « Ton »). « seo » et « radius » restent candidats au lexique
   mais sont bien entendus (« seo radius ») : écart dû à la graphie phonétique, déjà en piste audit. « IA »
   en milieu de phrase mal compris 1 fois (« l'IA compare ») : à surveiller, pas de règle tant que ça ne revient pas.
-- 2026-10-12 (19:00) : débit 24,3 à 25,3 car./s sur les 4 dernières vidéos (cible tenue). « ton » en début de
-  phrase mal compris 7 fois sur 2 vidéos : règle 5 ajoutée (reformuler, pas de lexique possible pour un mot courant).
-  « l'appli » entendu « la plie » : remplacé par « l'application » au 2e rendu, corrigé.
