@@ -23,6 +23,8 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
    « Quand tu demandes... », « Si tu ajoutes... » ou « Toi, tu... ».
    « Relis » (impératif) mal compris sur 3 vidéos (20/10 08:00 « venez », 22/10 08:00 « voilez ») : écrire « Vérifie » ou
    « Prends le temps de relire » (mot courant, pas de lexique).
+   « Promets » (impératif) compté 4 fois dans les mots mal compris (22/10 17:00 « on met ») : écrire « Mieux vaut promettre... »
+   ou « garantir » (bien entendus au 2e rendu du 22/10 17:00).
 6. Mettre « SEO Radius » en fin de phrase, jamais suivi d'un verbe court : les mots qui le suivent sont avalés
    sur 3 vidéos (14/10 « aura dus », « radius ed » ; 16/10 « SEO Radius. Tape un » entendu « au radus ca par »).
    Écrire « Pour ça, j'utilise SEO Radius. » puis une nouvelle phrase qui commence par un mot d'au moins
@@ -34,6 +36,8 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
    viser désormais 1 620 à 1 650 car. (plafond du runbook), sans dépasser 16 segments, surtout en format outil, mythe ou méthode
    à phrases courtes. Si une vidéo repasse au-dessus de 93 s à cette longueur, redescendre à 1 600.
    Tenu le 22/10 08:00 (1 629 car. = 81,4 s à 25,1 car./s, sans alerte) : garder 1 620 à 1 650 car.
+   Le 22/10 17:00, 1 634 car. = 77,2 s (débit 25,6, alerte) au 1er rendu, 1 635 car. = 79,9 s au 2e : couper les phrases longues
+   en deux (« Il a le temps. Et il veut... ») ralentit la voix plus que d'ajouter du texte.
 
 ## Pistes pour Bill (changements de code proposés, à valider par lui)
 - Audit : comparer la transcription au texte écrit du script, pas à la graphie phonétique du lexique.
@@ -43,6 +47,9 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
 - Audit : relancer `factory.audit` sur le même run ajoute une 2e ligne identique dans `audits_ia.jsonl` (doublons 14/10 12:00 et 19:00), ce qui gonfle le compte des « mots mal compris sur plusieurs vidéos ». Remplacer la ligne du même stamp au lieu d'en ajouter une.
 
 ## Journal (1 ligne par revue, la plus récente en haut, 20 lignes maximum)
+- 2026-10-22 (17:00) : 1er rendu 77,2 s avec alerte débit 25,6 (« ramoneur » en tout début de hook entendu « hame honneur », « rush » « roche », « Réserve » « deserve », « pic » « pied ») :
+  hook réordonné (« En plein hiver, un ramoneur... »), mots remplacés, phrases coupées ; 2e rendu sans alerte (25,5 car./s, 96 %, 79,9 s). Sur les 10 derniers audits, débit 24,3 à 26,1 car./s,
+  7 sans alerte. « promets » 4 fois : règle 5 étendue. Règle 7 précisée. Pas de nouveau mot au lexique (mots mal compris sur 1 seule vidéo).
 - 2026-10-22 (08:00) : sans alerte au 1er rendu (débit 25,1 car./s, prononciation 95 %, 81,4 s pour 1 629 car.). Sur les 10 derniers audits, débit 24,3 à 26,1 car./s,
   6 sans alerte (2 alertes débit le 21/10, 2 prononciation). Règle 7 tenue. « Relis » mal compris sur 3 vidéos : règle 5 étendue. « radiusse » et « opportunite »
   restent en tête des mots mal compris mais viennent de la graphie et du pluriel (piste déjà notée). Pas de nouveau mot au lexique.
@@ -105,6 +112,3 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
 - 2026-10-12 (19:00) : débit 24,3 à 25,3 car./s sur les 4 dernières vidéos (cible tenue). « ton » en début de
   phrase mal compris 7 fois sur 2 vidéos : règle 5 ajoutée (reformuler, pas de lexique possible pour un mot courant).
   « l'appli » entendu « la plie » : remplacé par « l'application » au 2e rendu, corrigé.
-- 2026-10-12 (12:00) : 2 vidéos Kyutai auditées, débit 24,6 à 24,8 car./s (dans la cible). PowerPoint et
-  Anthropic ajoutés au lexique (mal dits au 1er rendu, corrects au 2e). « rends » et « ton » reviennent
-  mais sont des homophones : pas d'entrée au lexique, piste audit ajoutée pour Bill.
