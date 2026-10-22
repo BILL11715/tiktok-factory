@@ -1,0 +1,1672 @@
+{
+ "engine": "fish",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-22_1746/voice.wav",
+ "duration": 85.995,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 2.94,
+   "slot_end": 2.986,
+   "text": "Le méchant de Steel Ball Run a raison, et ça me rend malade.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 0.0,
+     "end": 0.12
+    },
+    {
+     "w": "méchant",
+     "start": 0.12,
+     "end": 0.44
+    },
+    {
+     "w": "de",
+     "start": 0.44,
+     "end": 0.58
+    },
+    {
+     "w": "Steel",
+     "start": 0.58,
+     "end": 0.8
+    },
+    {
+     "w": "Ball",
+     "start": 0.8,
+     "end": 1.02
+    },
+    {
+     "w": "Run",
+     "start": 1.02,
+     "end": 1.28
+    },
+    {
+     "w": "a",
+     "start": 1.28,
+     "end": 1.52
+    },
+    {
+     "w": "raison,",
+     "start": 1.52,
+     "end": 1.84
+    },
+    {
+     "w": "et",
+     "start": 1.84,
+     "end": 2.1
+    },
+    {
+     "w": "ça",
+     "start": 2.1,
+     "end": 2.26
+    },
+    {
+     "w": "me",
+     "start": 2.26,
+     "end": 2.42
+    },
+    {
+     "w": "rend",
+     "start": 2.42,
+     "end": 2.54
+    },
+    {
+     "w": "malade.",
+     "start": 2.54,
+     "end": 2.94
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 3.0,
+   "end": 6.7,
+   "slot_end": 6.819,
+   "text": "Reste jusqu'au bout, parce que le vrai problème de cette histoire, c'est peut-être le héros.",
+   "words": [
+    {
+     "w": "Reste",
+     "start": 3.0,
+     "end": 3.24
+    },
+    {
+     "w": "jusqu'au",
+     "start": 3.24,
+     "end": 3.68
+    },
+    {
+     "w": "bout,",
+     "start": 3.68,
+     "end": 3.84
+    },
+    {
+     "w": "parce",
+     "start": 4.0,
+     "end": 4.12
+    },
+    {
+     "w": "que",
+     "start": 4.12,
+     "end": 4.24
+    },
+    {
+     "w": "le",
+     "start": 4.24,
+     "end": 4.4
+    },
+    {
+     "w": "vrai",
+     "start": 4.4,
+     "end": 4.62
+    },
+    {
+     "w": "problème",
+     "start": 4.62,
+     "end": 4.92
+    },
+    {
+     "w": "de",
+     "start": 4.92,
+     "end": 5.06
+    },
+    {
+     "w": "cette",
+     "start": 5.06,
+     "end": 5.24
+    },
+    {
+     "w": "histoire,",
+     "start": 5.24,
+     "end": 5.56
+    },
+    {
+     "w": "c'est",
+     "start": 5.7,
+     "end": 5.86
+    },
+    {
+     "w": "peut-être",
+     "start": 5.86,
+     "end": 6.24
+    },
+    {
+     "w": "le",
+     "start": 6.24,
+     "end": 6.32
+    },
+    {
+     "w": "héros.",
+     "start": 6.32,
+     "end": 6.7
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 6.7,
+   "end": 14.36,
+   "slot_end": 14.479,
+   "text": "Petit rappel. 1890, une course à cheval complètement folle à travers les États-Unis, avec un gros paquet de fric à la clé.",
+   "words": [
+    {
+     "w": "Petit",
+     "start": 6.7,
+     "end": 6.96
+    },
+    {
+     "w": "rappel.",
+     "start": 6.96,
+     "end": 7.22
+    },
+    {
+     "w": "1890,",
+     "start": 7.92,
+     "end": 9.12
+    },
+    {
+     "w": "une",
+     "start": 9.58,
+     "end": 9.72
+    },
+    {
+     "w": "course",
+     "start": 9.72,
+     "end": 9.98
+    },
+    {
+     "w": "à",
+     "start": 9.98,
+     "end": 10.16
+    },
+    {
+     "w": "cheval",
+     "start": 10.16,
+     "end": 10.42
+    },
+    {
+     "w": "complètement",
+     "start": 10.42,
+     "end": 10.88
+    },
+    {
+     "w": "folle",
+     "start": 10.88,
+     "end": 11.34
+    },
+    {
+     "w": "à",
+     "start": 11.34,
+     "end": 11.42
+    },
+    {
+     "w": "travers",
+     "start": 11.42,
+     "end": 11.64
+    },
+    {
+     "w": "les",
+     "start": 11.64,
+     "end": 11.82
+    },
+    {
+     "w": "États-Unis,",
+     "start": 11.82,
+     "end": 12.26
+    },
+    {
+     "w": "avec",
+     "start": 12.72,
+     "end": 12.94
+    },
+    {
+     "w": "un",
+     "start": 12.94,
+     "end": 13.18
+    },
+    {
+     "w": "gros",
+     "start": 13.18,
+     "end": 13.38
+    },
+    {
+     "w": "paquet",
+     "start": 13.38,
+     "end": 13.62
+    },
+    {
+     "w": "de",
+     "start": 13.62,
+     "end": 13.82
+    },
+    {
+     "w": "fric",
+     "start": 13.82,
+     "end": 13.98
+    },
+    {
+     "w": "à",
+     "start": 13.98,
+     "end": 14.12
+    },
+    {
+     "w": "la",
+     "start": 14.12,
+     "end": 14.2
+    },
+    {
+     "w": "clé.",
+     "start": 14.2,
+     "end": 14.36
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 14.52,
+   "end": 19.66,
+   "slot_end": 19.723,
+   "text": "Johnny, ancien jockey prodige paralysé des jambes, s'inscrit quand même, avec Gyro et ses boules d'acier qui tournent.",
+   "words": [
+    {
+     "w": "Johnny,",
+     "start": 14.52,
+     "end": 14.74
+    },
+    {
+     "w": "ancien",
+     "start": 14.96,
+     "end": 15.3
+    },
+    {
+     "w": "jockey",
+     "start": 15.3,
+     "end": 15.54
+    },
+    {
+     "w": "prodige",
+     "start": 15.54,
+     "end": 16.0
+    },
+    {
+     "w": "paralysé",
+     "start": 16.0,
+     "end": 16.5
+    },
+    {
+     "w": "des",
+     "start": 16.5,
+     "end": 16.64
+    },
+    {
+     "w": "jambes,",
+     "start": 16.64,
+     "end": 16.96
+    },
+    {
+     "w": "s'inscrit",
+     "start": 17.08,
+     "end": 17.36
+    },
+    {
+     "w": "quand",
+     "start": 17.36,
+     "end": 17.52
+    },
+    {
+     "w": "même,",
+     "start": 17.52,
+     "end": 17.68
+    },
+    {
+     "w": "avec",
+     "start": 17.68,
+     "end": 18.0
+    },
+    {
+     "w": "Gyro",
+     "start": 18.0,
+     "end": 18.36
+    },
+    {
+     "w": "et",
+     "start": 18.36,
+     "end": 18.6
+    },
+    {
+     "w": "ses",
+     "start": 18.6,
+     "end": 18.74
+    },
+    {
+     "w": "boules",
+     "start": 18.74,
+     "end": 18.94
+    },
+    {
+     "w": "d'acier",
+     "start": 18.94,
+     "end": 19.24
+    },
+    {
+     "w": "qui",
+     "start": 19.24,
+     "end": 19.38
+    },
+    {
+     "w": "tournent.",
+     "start": 19.38,
+     "end": 19.66
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 19.74,
+   "end": 25.34,
+   "slot_end": 25.559,
+   "text": "Sauf que derrière la course, y'a Funny Valentine, le président des États-Unis. Et lui, le trophée, il s'en fiche complètement.",
+   "words": [
+    {
+     "w": "Sauf",
+     "start": 19.74,
+     "end": 19.84
+    },
+    {
+     "w": "que",
+     "start": 19.84,
+     "end": 20.0
+    },
+    {
+     "w": "derrière",
+     "start": 20.0,
+     "end": 20.2
+    },
+    {
+     "w": "la",
+     "start": 20.2,
+     "end": 20.42
+    },
+    {
+     "w": "course,",
+     "start": 20.42,
+     "end": 20.58
+    },
+    {
+     "w": "y'a",
+     "start": 20.78,
+     "end": 20.83
+    },
+    {
+     "w": "Funny",
+     "start": 20.8,
+     "end": 21.06
+    },
+    {
+     "w": "Valentine,",
+     "start": 21.06,
+     "end": 21.44
+    },
+    {
+     "w": "le",
+     "start": 21.7,
+     "end": 21.82
+    },
+    {
+     "w": "président",
+     "start": 21.82,
+     "end": 22.2
+    },
+    {
+     "w": "des",
+     "start": 22.2,
+     "end": 22.46
+    },
+    {
+     "w": "États-Unis.",
+     "start": 22.46,
+     "end": 22.94
+    },
+    {
+     "w": "Et",
+     "start": 23.42,
+     "end": 23.62
+    },
+    {
+     "w": "lui,",
+     "start": 23.62,
+     "end": 23.8
+    },
+    {
+     "w": "le",
+     "start": 24.1,
+     "end": 24.15
+    },
+    {
+     "w": "trophée,",
+     "start": 24.1,
+     "end": 24.42
+    },
+    {
+     "w": "il",
+     "start": 24.48,
+     "end": 24.54
+    },
+    {
+     "w": "s'en",
+     "start": 24.54,
+     "end": 24.68
+    },
+    {
+     "w": "fiche",
+     "start": 24.68,
+     "end": 24.86
+    },
+    {
+     "w": "complètement.",
+     "start": 24.86,
+     "end": 25.34
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 25.56,
+   "end": 31.98,
+   "slot_end": 32.082,
+   "text": "Ce qu'il veut, c'est les morceaux d'un cadavre saint cachés dans tout le pays. Celui qui les réunit devient quasi intouchable.",
+   "words": [
+    {
+     "w": "Ce",
+     "start": 25.56,
+     "end": 25.7
+    },
+    {
+     "w": "qu'il",
+     "start": 25.7,
+     "end": 25.86
+    },
+    {
+     "w": "veut,",
+     "start": 25.86,
+     "end": 26.1
+    },
+    {
+     "w": "c'est",
+     "start": 26.2,
+     "end": 26.3
+    },
+    {
+     "w": "les",
+     "start": 26.3,
+     "end": 26.46
+    },
+    {
+     "w": "morceaux",
+     "start": 26.46,
+     "end": 26.88
+    },
+    {
+     "w": "d'un",
+     "start": 26.88,
+     "end": 27.12
+    },
+    {
+     "w": "cadavre",
+     "start": 27.12,
+     "end": 27.66
+    },
+    {
+     "w": "saint",
+     "start": 27.66,
+     "end": 27.88
+    },
+    {
+     "w": "cachés",
+     "start": 27.88,
+     "end": 28.22
+    },
+    {
+     "w": "dans",
+     "start": 28.22,
+     "end": 28.52
+    },
+    {
+     "w": "tout",
+     "start": 28.52,
+     "end": 28.76
+    },
+    {
+     "w": "le",
+     "start": 28.76,
+     "end": 28.9
+    },
+    {
+     "w": "pays.",
+     "start": 28.9,
+     "end": 29.14
+    },
+    {
+     "w": "Celui",
+     "start": 29.14,
+     "end": 29.76
+    },
+    {
+     "w": "qui",
+     "start": 29.76,
+     "end": 30.04
+    },
+    {
+     "w": "les",
+     "start": 30.04,
+     "end": 30.2
+    },
+    {
+     "w": "réunit",
+     "start": 30.2,
+     "end": 30.58
+    },
+    {
+     "w": "devient",
+     "start": 30.58,
+     "end": 30.86
+    },
+    {
+     "w": "quasi",
+     "start": 30.86,
+     "end": 31.3
+    },
+    {
+     "w": "intouchable.",
+     "start": 31.3,
+     "end": 31.98
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 32.08,
+   "end": 37.68,
+   "slot_end": 37.793,
+   "text": "Voilà pour le décor. Si t'aimes quand on retourne un méchant dans tous les sens, abonne-toi, j'ai encore plein de théories comme ça en stock.",
+   "words": [
+    {
+     "w": "Voilà",
+     "start": 32.08,
+     "end": 32.3
+    },
+    {
+     "w": "pour",
+     "start": 32.3,
+     "end": 32.54
+    },
+    {
+     "w": "le",
+     "start": 32.54,
+     "end": 32.62
+    },
+    {
+     "w": "décor.",
+     "start": 32.62,
+     "end": 32.96
+    },
+    {
+     "w": "Si",
+     "start": 33.34,
+     "end": 33.52
+    },
+    {
+     "w": "t'aimes",
+     "start": 33.52,
+     "end": 33.72
+    },
+    {
+     "w": "quand",
+     "start": 33.72,
+     "end": 33.86
+    },
+    {
+     "w": "on",
+     "start": 33.86,
+     "end": 34.0
+    },
+    {
+     "w": "retourne",
+     "start": 34.0,
+     "end": 34.34
+    },
+    {
+     "w": "un",
+     "start": 34.42,
+     "end": 34.48
+    },
+    {
+     "w": "méchant",
+     "start": 34.48,
+     "end": 34.68
+    },
+    {
+     "w": "dans",
+     "start": 34.68,
+     "end": 34.8
+    },
+    {
+     "w": "tous",
+     "start": 34.8,
+     "end": 34.96
+    },
+    {
+     "w": "les",
+     "start": 34.96,
+     "end": 35.04
+    },
+    {
+     "w": "sens,",
+     "start": 35.04,
+     "end": 35.24
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 35.48,
+     "end": 35.88
+    },
+    {
+     "w": "j'ai",
+     "start": 36.04,
+     "end": 36.16
+    },
+    {
+     "w": "encore",
+     "start": 36.16,
+     "end": 36.26
+    },
+    {
+     "w": "plein",
+     "start": 36.26,
+     "end": 36.64
+    },
+    {
+     "w": "de",
+     "start": 36.64,
+     "end": 36.76
+    },
+    {
+     "w": "théories",
+     "start": 36.76,
+     "end": 36.98
+    },
+    {
+     "w": "comme",
+     "start": 36.98,
+     "end": 37.2
+    },
+    {
+     "w": "ça",
+     "start": 37.2,
+     "end": 37.36
+    },
+    {
+     "w": "en",
+     "start": 37.36,
+     "end": 37.46
+    },
+    {
+     "w": "stock.",
+     "start": 37.46,
+     "end": 37.68
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 37.8,
+   "end": 43.24,
+   "slot_end": 43.444,
+   "text": "Premier indice, la scène de la serviette. À table, celui qui prend la serviette en premier décide pour tous.",
+   "words": [
+    {
+     "w": "Premier",
+     "start": 37.8,
+     "end": 38.02
+    },
+    {
+     "w": "indice,",
+     "start": 38.02,
+     "end": 38.34
+    },
+    {
+     "w": "la",
+     "start": 38.82,
+     "end": 39.02
+    },
+    {
+     "w": "scène",
+     "start": 39.02,
+     "end": 39.24
+    },
+    {
+     "w": "de",
+     "start": 39.24,
+     "end": 39.4
+    },
+    {
+     "w": "la",
+     "start": 39.4,
+     "end": 39.54
+    },
+    {
+     "w": "serviette.",
+     "start": 39.54,
+     "end": 40.44
+    },
+    {
+     "w": "À",
+     "start": 40.48,
+     "end": 40.74
+    },
+    {
+     "w": "table,",
+     "start": 40.74,
+     "end": 40.94
+    },
+    {
+     "w": "celui",
+     "start": 40.94,
+     "end": 41.26
+    },
+    {
+     "w": "qui",
+     "start": 41.26,
+     "end": 41.46
+    },
+    {
+     "w": "prend",
+     "start": 41.46,
+     "end": 41.66
+    },
+    {
+     "w": "la",
+     "start": 41.66,
+     "end": 41.76
+    },
+    {
+     "w": "serviette",
+     "start": 41.76,
+     "end": 42.22
+    },
+    {
+     "w": "en",
+     "start": 42.22,
+     "end": 42.32
+    },
+    {
+     "w": "premier",
+     "start": 42.32,
+     "end": 42.56
+    },
+    {
+     "w": "décide",
+     "start": 42.56,
+     "end": 42.86
+    },
+    {
+     "w": "pour",
+     "start": 42.86,
+     "end": 43.02
+    },
+    {
+     "w": "tous.",
+     "start": 43.02,
+     "end": 43.24
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 43.42,
+   "end": 48.3,
+   "slot_end": 48.47,
+   "text": "Et Valentine veut juste que ce soit l'Amérique qui la prenne. Pas lui, son pays. Il fait tout ça pour son peuple.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 43.42,
+     "end": 43.52
+    },
+    {
+     "w": "Valentine",
+     "start": 43.52,
+     "end": 43.88
+    },
+    {
+     "w": "veut",
+     "start": 43.88,
+     "end": 44.06
+    },
+    {
+     "w": "juste",
+     "start": 44.06,
+     "end": 44.32
+    },
+    {
+     "w": "que",
+     "start": 44.32,
+     "end": 44.46
+    },
+    {
+     "w": "ce",
+     "start": 44.46,
+     "end": 44.56
+    },
+    {
+     "w": "soit",
+     "start": 44.56,
+     "end": 44.76
+    },
+    {
+     "w": "l'Amérique",
+     "start": 44.76,
+     "end": 45.2
+    },
+    {
+     "w": "qui",
+     "start": 45.2,
+     "end": 45.38
+    },
+    {
+     "w": "la",
+     "start": 45.38,
+     "end": 45.46
+    },
+    {
+     "w": "prenne.",
+     "start": 45.46,
+     "end": 45.96
+    },
+    {
+     "w": "Pas",
+     "start": 46.04,
+     "end": 46.18
+    },
+    {
+     "w": "lui,",
+     "start": 46.18,
+     "end": 46.36
+    },
+    {
+     "w": "son",
+     "start": 46.62,
+     "end": 46.72
+    },
+    {
+     "w": "pays.",
+     "start": 46.72,
+     "end": 46.94
+    },
+    {
+     "w": "Il",
+     "start": 47.28,
+     "end": 47.4
+    },
+    {
+     "w": "fait",
+     "start": 47.4,
+     "end": 47.48
+    },
+    {
+     "w": "tout",
+     "start": 47.48,
+     "end": 47.64
+    },
+    {
+     "w": "ça",
+     "start": 47.64,
+     "end": 47.78
+    },
+    {
+     "w": "pour",
+     "start": 47.78,
+     "end": 47.94
+    },
+    {
+     "w": "son",
+     "start": 47.94,
+     "end": 48.1
+    },
+    {
+     "w": "peuple.",
+     "start": 48.1,
+     "end": 48.3
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 48.48,
+   "end": 55.04,
+   "slot_end": 55.182,
+   "text": "Deuxième indice, son Stand, D4C, et surtout Love Train. Le malheur qui devait le toucher part ailleurs dans le monde.",
+   "words": [
+    {
+     "w": "Deuxième",
+     "start": 48.48,
+     "end": 48.76
+    },
+    {
+     "w": "indice,",
+     "start": 48.76,
+     "end": 49.18
+    },
+    {
+     "w": "son",
+     "start": 49.52,
+     "end": 49.66
+    },
+    {
+     "w": "Stand,",
+     "start": 49.66,
+     "end": 50.25
+    },
+    {
+     "w": "D4C,",
+     "start": 50.25,
+     "end": 50.84
+    },
+    {
+     "w": "et",
+     "start": 50.84,
+     "end": 51.1
+    },
+    {
+     "w": "surtout",
+     "start": 51.1,
+     "end": 51.42
+    },
+    {
+     "w": "Love",
+     "start": 51.42,
+     "end": 51.9
+    },
+    {
+     "w": "Train.",
+     "start": 51.9,
+     "end": 52.16
+    },
+    {
+     "w": "Le",
+     "start": 52.76,
+     "end": 53.04
+    },
+    {
+     "w": "malheur",
+     "start": 53.04,
+     "end": 53.38
+    },
+    {
+     "w": "qui",
+     "start": 53.38,
+     "end": 53.52
+    },
+    {
+     "w": "devait",
+     "start": 53.52,
+     "end": 53.74
+    },
+    {
+     "w": "le",
+     "start": 53.74,
+     "end": 53.88
+    },
+    {
+     "w": "toucher",
+     "start": 53.88,
+     "end": 54.16
+    },
+    {
+     "w": "part",
+     "start": 54.16,
+     "end": 54.36
+    },
+    {
+     "w": "ailleurs",
+     "start": 54.36,
+     "end": 54.6
+    },
+    {
+     "w": "dans",
+     "start": 54.6,
+     "end": 54.78
+    },
+    {
+     "w": "le",
+     "start": 54.78,
+     "end": 54.88
+    },
+    {
+     "w": "monde.",
+     "start": 54.88,
+     "end": 55.04
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 55.18,
+   "end": 61.64,
+   "slot_end": 61.738,
+   "text": "Troisième indice, et là ça pique. Johnny, notre héros, le dit lui-même : il est en dessous de zéro, il veut juste remonter à zéro.",
+   "words": [
+    {
+     "w": "Troisième",
+     "start": 55.18,
+     "end": 55.46
+    },
+    {
+     "w": "indice,",
+     "start": 55.46,
+     "end": 55.78
+    },
+    {
+     "w": "et",
+     "start": 55.78,
+     "end": 55.9
+    },
+    {
+     "w": "là",
+     "start": 55.9,
+     "end": 55.98
+    },
+    {
+     "w": "ça",
+     "start": 55.98,
+     "end": 56.16
+    },
+    {
+     "w": "pique.",
+     "start": 56.16,
+     "end": 56.34
+    },
+    {
+     "w": "Johnny,",
+     "start": 56.92,
+     "end": 57.2
+    },
+    {
+     "w": "notre",
+     "start": 57.38,
+     "end": 57.56
+    },
+    {
+     "w": "héros,",
+     "start": 57.56,
+     "end": 57.98
+    },
+    {
+     "w": "le",
+     "start": 57.98,
+     "end": 58.26
+    },
+    {
+     "w": "dit",
+     "start": 58.26,
+     "end": 58.44
+    },
+    {
+     "w": "lui-même",
+     "start": 58.44,
+     "end": 58.64
+    },
+    {
+     "w": ":",
+     "start": 58.64,
+     "end": 58.94
+    },
+    {
+     "w": "il",
+     "start": 59.24,
+     "end": 59.29
+    },
+    {
+     "w": "est",
+     "start": 59.28,
+     "end": 59.4
+    },
+    {
+     "w": "en",
+     "start": 59.4,
+     "end": 59.58
+    },
+    {
+     "w": "dessous",
+     "start": 59.58,
+     "end": 59.78
+    },
+    {
+     "w": "de",
+     "start": 59.78,
+     "end": 59.94
+    },
+    {
+     "w": "zéro,",
+     "start": 59.94,
+     "end": 60.24
+    },
+    {
+     "w": "il",
+     "start": 60.42,
+     "end": 60.5
+    },
+    {
+     "w": "veut",
+     "start": 60.5,
+     "end": 60.62
+    },
+    {
+     "w": "juste",
+     "start": 60.62,
+     "end": 60.8
+    },
+    {
+     "w": "remonter",
+     "start": 60.8,
+     "end": 61.32
+    },
+    {
+     "w": "à",
+     "start": 61.32,
+     "end": 61.4
+    },
+    {
+     "w": "zéro.",
+     "start": 61.4,
+     "end": 61.64
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 61.8,
+   "end": 67.3,
+   "slot_end": 67.389,
+   "text": "Il court pas pour sauver qui que ce soit, frr. Il court pour remarcher. Et pour ça, il est prêt à tuer.",
+   "words": [
+    {
+     "w": "Il",
+     "start": 61.8,
+     "end": 61.85
+    },
+    {
+     "w": "court",
+     "start": 61.82,
+     "end": 62.04
+    },
+    {
+     "w": "pas",
+     "start": 62.04,
+     "end": 62.26
+    },
+    {
+     "w": "pour",
+     "start": 62.26,
+     "end": 62.48
+    },
+    {
+     "w": "sauver",
+     "start": 62.48,
+     "end": 62.84
+    },
+    {
+     "w": "qui",
+     "start": 62.84,
+     "end": 63.04
+    },
+    {
+     "w": "que",
+     "start": 63.04,
+     "end": 63.16
+    },
+    {
+     "w": "ce",
+     "start": 63.16,
+     "end": 63.28
+    },
+    {
+     "w": "soit,",
+     "start": 63.28,
+     "end": 63.54
+    },
+    {
+     "w": "frr.",
+     "start": 63.54,
+     "end": 63.78
+    },
+    {
+     "w": "Il",
+     "start": 64.08,
+     "end": 64.3
+    },
+    {
+     "w": "court",
+     "start": 64.3,
+     "end": 64.54
+    },
+    {
+     "w": "pour",
+     "start": 64.54,
+     "end": 64.76
+    },
+    {
+     "w": "remarcher.",
+     "start": 64.76,
+     "end": 65.44
+    },
+    {
+     "w": "Et",
+     "start": 66.04,
+     "end": 66.1
+    },
+    {
+     "w": "pour",
+     "start": 66.1,
+     "end": 66.28
+    },
+    {
+     "w": "ça,",
+     "start": 66.28,
+     "end": 66.46
+    },
+    {
+     "w": "il",
+     "start": 66.56,
+     "end": 66.61
+    },
+    {
+     "w": "est",
+     "start": 66.6,
+     "end": 66.74
+    },
+    {
+     "w": "prêt",
+     "start": 66.74,
+     "end": 66.86
+    },
+    {
+     "w": "à",
+     "start": 66.86,
+     "end": 67.0
+    },
+    {
+     "w": "tuer.",
+     "start": 67.0,
+     "end": 67.3
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 67.56,
+   "end": 72.76,
+   "slot_end": 72.912,
+   "text": "Bon, y'a un gros trou. Ce malheur tombe sur les autres pays, et Valentine sacrifie des innocents sans trembler.",
+   "words": [
+    {
+     "w": "Bon,",
+     "start": 67.56,
+     "end": 67.74
+    },
+    {
+     "w": "y'a",
+     "start": 68.04,
+     "end": 68.09
+    },
+    {
+     "w": "un",
+     "start": 68.08,
+     "end": 68.22
+    },
+    {
+     "w": "gros",
+     "start": 68.22,
+     "end": 68.34
+    },
+    {
+     "w": "trou.",
+     "start": 68.34,
+     "end": 68.52
+    },
+    {
+     "w": "Ce",
+     "start": 68.9,
+     "end": 69.04
+    },
+    {
+     "w": "malheur",
+     "start": 69.04,
+     "end": 69.44
+    },
+    {
+     "w": "tombe",
+     "start": 69.44,
+     "end": 69.68
+    },
+    {
+     "w": "sur",
+     "start": 69.68,
+     "end": 69.82
+    },
+    {
+     "w": "les",
+     "start": 69.82,
+     "end": 69.94
+    },
+    {
+     "w": "autres",
+     "start": 69.94,
+     "end": 70.14
+    },
+    {
+     "w": "pays,",
+     "start": 70.14,
+     "end": 70.44
+    },
+    {
+     "w": "et",
+     "start": 70.62,
+     "end": 70.7
+    },
+    {
+     "w": "Valentine",
+     "start": 70.7,
+     "end": 71.1
+    },
+    {
+     "w": "sacrifie",
+     "start": 71.1,
+     "end": 71.58
+    },
+    {
+     "w": "des",
+     "start": 71.58,
+     "end": 71.76
+    },
+    {
+     "w": "innocents",
+     "start": 71.76,
+     "end": 72.22
+    },
+    {
+     "w": "sans",
+     "start": 72.22,
+     "end": 72.42
+    },
+    {
+     "w": "trembler.",
+     "start": 72.42,
+     "end": 72.76
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 72.9,
+   "end": 79.28,
+   "slot_end": 79.401,
+   "text": "Patriote, ouais. Héros, clairement pas. Mais entre lui et un mec qui fonce pour ses jambes, le plus pur, j'suis plus sûr.",
+   "words": [
+    {
+     "w": "Patriote,",
+     "start": 72.9,
+     "end": 73.26
+    },
+    {
+     "w": "ouais.",
+     "start": 73.26,
+     "end": 73.42
+    },
+    {
+     "w": "Héros,",
+     "start": 73.82,
+     "end": 74.04
+    },
+    {
+     "w": "clairement",
+     "start": 74.04,
+     "end": 74.32
+    },
+    {
+     "w": "pas.",
+     "start": 74.32,
+     "end": 74.58
+    },
+    {
+     "w": "Mais",
+     "start": 75.0,
+     "end": 75.16
+    },
+    {
+     "w": "entre",
+     "start": 75.16,
+     "end": 75.46
+    },
+    {
+     "w": "lui",
+     "start": 75.46,
+     "end": 75.7
+    },
+    {
+     "w": "et",
+     "start": 75.7,
+     "end": 75.94
+    },
+    {
+     "w": "un",
+     "start": 75.94,
+     "end": 76.1
+    },
+    {
+     "w": "mec",
+     "start": 76.1,
+     "end": 76.22
+    },
+    {
+     "w": "qui",
+     "start": 76.22,
+     "end": 76.36
+    },
+    {
+     "w": "fonce",
+     "start": 76.36,
+     "end": 76.64
+    },
+    {
+     "w": "pour",
+     "start": 76.64,
+     "end": 76.8
+    },
+    {
+     "w": "ses",
+     "start": 76.8,
+     "end": 76.94
+    },
+    {
+     "w": "jambes,",
+     "start": 76.94,
+     "end": 77.3
+    },
+    {
+     "w": "le",
+     "start": 77.7,
+     "end": 77.9
+    },
+    {
+     "w": "plus",
+     "start": 77.9,
+     "end": 78.08
+    },
+    {
+     "w": "pur,",
+     "start": 78.08,
+     "end": 78.34
+    },
+    {
+     "w": "j'suis",
+     "start": 78.74,
+     "end": 78.92
+    },
+    {
+     "w": "plus",
+     "start": 78.92,
+     "end": 79.04
+    },
+    {
+     "w": "sûr.",
+     "start": 79.04,
+     "end": 79.28
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 79.38,
+   "end": 82.68,
+   "slot_end": 82.787,
+   "text": "Et toi, Valentine, méchant ou héros de son pays ? Dis-moi en com'.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 79.38,
+     "end": 79.48
+    },
+    {
+     "w": "toi,",
+     "start": 79.48,
+     "end": 79.62
+    },
+    {
+     "w": "Valentine,",
+     "start": 79.62,
+     "end": 80.06
+    },
+    {
+     "w": "méchant",
+     "start": 80.06,
+     "end": 80.42
+    },
+    {
+     "w": "ou",
+     "start": 80.42,
+     "end": 80.6
+    },
+    {
+     "w": "héros",
+     "start": 80.6,
+     "end": 80.94
+    },
+    {
+     "w": "de",
+     "start": 80.94,
+     "end": 81.06
+    },
+    {
+     "w": "son",
+     "start": 81.06,
+     "end": 81.22
+    },
+    {
+     "w": "pays",
+     "start": 81.22,
+     "end": 81.5
+    },
+    {
+     "w": "?",
+     "start": 82.04,
+     "end": 82.22
+    },
+    {
+     "w": "Dis-moi",
+     "start": 82.22,
+     "end": 82.38
+    },
+    {
+     "w": "en",
+     "start": 82.38,
+     "end": 82.52
+    },
+    {
+     "w": "com'.",
+     "start": 82.52,
+     "end": 82.68
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "start": 82.8,
+   "end": 85.2,
+   "slot_end": 85.995,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 82.8,
+     "end": 83.04
+    },
+    {
+     "w": "Asura.",
+     "start": 83.04,
+     "end": 83.56
+    },
+    {
+     "w": "On",
+     "start": 83.94,
+     "end": 84.08
+    },
+    {
+     "w": "se",
+     "start": 84.08,
+     "end": 84.2
+    },
+    {
+     "w": "capte",
+     "start": 84.2,
+     "end": 84.48
+    },
+    {
+     "w": "au",
+     "start": 84.48,
+     "end": 84.56
+    },
+    {
+     "w": "prochain",
+     "start": 84.56,
+     "end": 84.76
+    },
+    {
+     "w": "épisode.",
+     "start": 84.76,
+     "end": 85.2
+    }
+   ]
+  }
+ ],
+ "aligned": 0.997
+}
