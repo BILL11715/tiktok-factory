@@ -1,0 +1,21 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-22_1746/video.mp4",
+ "duration": 85.995,
+ "shots": 65,
+ "sources": [
+  "https://anilist.co/anime/210482",
+  "https://kitsu.io/anime/steel-ball-run-jojo-no-kimyou-na-bouken"
+ ],
+ "music": {
+  "file": "mystere.mp3",
+  "bpm": 152.0,
+  "offset": 19.004999999999995
+ },
+ "sfx": 13,
+ "engine": "remotion (OpenMontage)",
+ "voice_engine": "fish",
+ "repo_path": "videos/2026/10/2026-10-22_1746.mp4",
+ "raw_url": "https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/videos/2026/10/2026-10-22_1746.mp4",
+ "lint": [],
+ "render_seconds": 1943.0
+}

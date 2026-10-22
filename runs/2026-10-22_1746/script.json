@@ -1,0 +1,127 @@
+{
+ "title": "Théorie Steel Ball Run : et si Funny Valentine avait raison ?",
+ "format": "theorie",
+ "tone": "conteur",
+ "music": "mystere",
+ "animes": [
+  "STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE"
+ ],
+ "media": {
+  "STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE": "anime"
+ },
+ "cover": {
+  "text": "Le méchant a raison",
+  "highlight": [
+   "raison"
+  ],
+  "emoji": "🇺🇸",
+  "sub": "Steel Ball Run"
+ },
+ "hook_text": "Le méchant de Steel Ball Run a raison, et ça me rend malade",
+ "spoiler": true,
+ "spoiler_label": "Steel Ball Run (manga)",
+ "segments": [
+  {
+   "text": "Le méchant de Steel Ball Run a raison, et ça me rend malade.",
+   "sfx": true,
+   "emphasis": [
+    "raison"
+   ],
+   "grade": "bw",
+   "scene": "a blond curly haired man in an elegant suit standing in front of an american flag"
+  },
+  {
+   "text": "[whispering] Reste jusqu'au bout, parce que le vrai problème de cette histoire, c'est peut-être le héros.",
+   "emphasis": [
+    "héros"
+   ],
+   "scene": "a young man in a cowboy hat riding a horse through an empty desert"
+  },
+  {
+   "text": "Petit rappel. 1890, une course à cheval complètement folle à travers les États-Unis, avec un gros paquet de fric à la clé.",
+   "scene": "hundreds of horse riders racing across a wide desert at sunrise",
+   "shots": [
+    {
+     "kind": "wide"
+    }
+   ]
+  },
+  {
+   "text": "Johnny, ancien jockey prodige paralysé des jambes, s'inscrit quand même, avec Gyro et ses boules d'acier qui tournent.",
+   "emphasis": [
+    "paralysé"
+   ],
+   "scene": "a man throwing a spinning steel ball during a fight"
+  },
+  {
+   "text": "Sauf que derrière la course, y'a Funny Valentine, le président des États-Unis. Et lui, le trophée, il s'en fiche complètement.",
+   "emphasis": [
+    "président"
+   ],
+   "scene": "a man with curly blond hair smiling in a dark presidential office"
+  },
+  {
+   "text": "[excited] Ce qu'il veut, c'est les morceaux d'un cadavre saint cachés dans tout le pays. Celui qui les réunit devient quasi intouchable.",
+   "sfx": true,
+   "emphasis": [
+    "cadavre"
+   ],
+   "scene": "glowing mummified body parts hidden in a rocky canyon"
+  },
+  {
+   "text": "Voilà pour le décor. Si t'aimes quand on retourne un méchant dans tous les sens, abonne-toi, j'ai encore plein de théories comme ça en stock.",
+   "cta": true
+  },
+  {
+   "text": "Premier indice, la scène de la serviette. À table, celui qui prend la serviette en premier décide pour tous.",
+   "emphasis": [
+    "serviette"
+   ],
+   "scene": "a man sitting at a long dinner table holding a white napkin"
+  },
+  {
+   "text": "Et Valentine veut juste que ce soit l'Amérique qui la prenne. Pas lui, son pays. Il fait tout ça pour son peuple.",
+   "stamp": "PATRIOTE",
+   "scene": "a serious man giving a speech in front of a crowd and flags"
+  },
+  {
+   "text": "[surprised] Deuxième indice, son Stand, D4C, et surtout Love Train. Le malheur qui devait le toucher part ailleurs dans le monde.",
+   "sfx": true,
+   "emphasis": [
+    "Love Train"
+   ],
+   "scene": "a man surrounded by a wall of glowing light deflecting bullets"
+  },
+  {
+   "text": "Troisième indice, et là ça pique. Johnny, notre héros, le dit lui-même : il est en dessous de zéro, il veut juste remonter à zéro.",
+   "grade": "bw",
+   "scene": "a sad young man crying on the ground in the rain"
+  },
+  {
+   "text": "Il court pas pour sauver qui que ce soit, frr. Il court pour remarcher. Et pour ça, il est prêt à tuer.",
+   "stamp": "ÉGOÏSTE",
+   "scene": "a young man pointing his glowing fingernail like a gun"
+  },
+  {
+   "text": "[sigh] Bon, y'a un gros trou. Ce malheur tombe sur les autres pays, et Valentine sacrifie des innocents sans trembler.",
+   "grade": "bw",
+   "scene": "a ruined town with people lying on the ground under a dark sky"
+  },
+  {
+   "text": "Patriote, ouais. Héros, clairement pas. Mais entre lui et un mec qui fonce pour ses jambes, le plus pur, j'suis plus sûr.",
+   "scene": "two men facing each other on horseback in a storm"
+  },
+  {
+   "text": "Et toi, Valentine, méchant ou héros de son pays ? Dis-moi en com'."
+  }
+ ],
+ "caption": "Funny Valentine fait tout pour son pays, Johnny fait tout pour lui 🤔 alors c'est qui le méchant ?",
+ "hashtags": [
+  "#anime",
+  "#manga",
+  "#animefr",
+  "#jojo",
+  "#steelballrun",
+  "#theorie"
+ ]
+}
