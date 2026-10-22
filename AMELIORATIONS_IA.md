@@ -21,6 +21,8 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
    « Tu » + verbe en début de phrase entendu « il » sur 3 vidéos (21/10 08:00 « tu prospectes », 21/10 12:00 « Tu lui donnes »,
    21/10 19:00 « Tu demandes » → « il demande », alors que le verbe a 2 syllabes) : ne pas ouvrir la phrase par « Tu » ; écrire
    « Quand tu demandes... », « Si tu ajoutes... » ou « Toi, tu... ».
+   « Relis » (impératif) mal compris sur 3 vidéos (20/10 08:00 « venez », 22/10 08:00 « voilez ») : écrire « Vérifie » ou
+   « Prends le temps de relire » (mot courant, pas de lexique).
 6. Mettre « SEO Radius » en fin de phrase, jamais suivi d'un verbe court : les mots qui le suivent sont avalés
    sur 3 vidéos (14/10 « aura dus », « radius ed » ; 16/10 « SEO Radius. Tape un » entendu « au radus ca par »).
    Écrire « Pour ça, j'utilise SEO Radius. » puis une nouvelle phrase qui commence par un mot d'au moins
@@ -31,6 +33,7 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
    Le 21/10, 4 vidéos sur 4 sous 82 s avec 1 590 à 1 610 car. (72,6 s, 81,8 s, 72,3 s, 80,0 s pour 1 610 car. à 25,1 car./s) :
    viser désormais 1 620 à 1 650 car. (plafond du runbook), sans dépasser 16 segments, surtout en format outil, mythe ou méthode
    à phrases courtes. Si une vidéo repasse au-dessus de 93 s à cette longueur, redescendre à 1 600.
+   Tenu le 22/10 08:00 (1 629 car. = 81,4 s à 25,1 car./s, sans alerte) : garder 1 620 à 1 650 car.
 
 ## Pistes pour Bill (changements de code proposés, à valider par lui)
 - Audit : comparer la transcription au texte écrit du script, pas à la graphie phonétique du lexique.
@@ -40,6 +43,9 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
 - Audit : relancer `factory.audit` sur le même run ajoute une 2e ligne identique dans `audits_ia.jsonl` (doublons 14/10 12:00 et 19:00), ce qui gonfle le compte des « mots mal compris sur plusieurs vidéos ». Remplacer la ligne du même stamp au lieu d'en ajouter une.
 
 ## Journal (1 ligne par revue, la plus récente en haut, 20 lignes maximum)
+- 2026-10-22 (08:00) : sans alerte au 1er rendu (débit 25,1 car./s, prononciation 95 %, 81,4 s pour 1 629 car.). Sur les 10 derniers audits, débit 24,3 à 26,1 car./s,
+  6 sans alerte (2 alertes débit le 21/10, 2 prononciation). Règle 7 tenue. « Relis » mal compris sur 3 vidéos : règle 5 étendue. « radiusse » et « opportunite »
+  restent en tête des mots mal compris mais viennent de la graphie et du pluriel (piste déjà notée). Pas de nouveau mot au lexique.
 - 2026-10-21 (19:00) : 1er rendu à 88 % (« il te la dicte » entendu « si tu l as dictes », « magique. Plus il fait d'étapes seul » avalé) : reformulés,
   2e rendu à 91 % avec alerte (écarts surtout graphie et homophones : anne tropique, ses/ces, cuisines ; « Tu demandes » entendu « il demande »), débit 25,1 car./s, 80,0 s
   pour 1 610 car. Sur les 10 derniers audits, débit 24,3 à 26,1 car./s, 6 sans alerte. Règle 5 étendue (ne plus ouvrir par « Tu »), règle 7 relevée (1 620 à 1 650 car.).
