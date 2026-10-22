@@ -1,0 +1,21 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-22_2050/video.mp4",
+ "duration": 85.689,
+ "shots": 67,
+ "sources": [
+  "https://anilist.co/manga/85143",
+  "https://kitsu.io/anime/tower-of-god"
+ ],
+ "music": {
+  "file": "mystere.mp3",
+  "bpm": 152.0,
+  "offset": 19.311000000000007
+ },
+ "sfx": 19,
+ "engine": "remotion (OpenMontage)",
+ "voice_engine": "fish",
+ "repo_path": "videos/2026/10/2026-10-22_2050.mp4",
+ "raw_url": "https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/videos/2026/10/2026-10-22_2050.mp4",
+ "lint": [],
+ "render_seconds": 1378.9
+}

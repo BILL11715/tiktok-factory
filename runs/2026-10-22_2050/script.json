@@ -1,0 +1,130 @@
+{
+  "title": "Tower of God : la trahison de Rachel racontée",
+  "format": "storytelling",
+  "tone": "conteur",
+  "music": "mystere",
+  "animes": [
+    "Tower of God"
+  ],
+  "media": {
+    "Tower of God": "manhwa"
+  },
+  "cover": {
+    "text": "Sa seule amie l'a trahi",
+    "highlight": [
+      "trahi"
+    ],
+    "emoji": "💔"
+  },
+  "hook_text": "Elle était sa seule amie, et elle l'a poussé dans le vide",
+  "spoiler": true,
+  "spoiler_label": "fin de la saison 1",
+  "segments": [
+    {
+      "text": "Elle était sa seule amie, et elle l'a poussé dans le vide.",
+      "sfx": true,
+      "emphasis": [
+        "seule amie"
+      ],
+      "grade": "bw",
+      "scene": "a girl standing behind a boy at the edge of a dark abyss"
+    },
+    {
+      "text": "[whispering] Reste jusqu'au bout, la raison de cette trahison m'a retourné le cerveau.",
+      "scene": "a gigantic dark tower piercing the clouds at night"
+    },
+    {
+      "text": "Ça vient de Tower of God, un manhwa coréen qu'on lit sur Webtoon. Le héros, c'est Bam, un gamin qui a grandi seul dans le noir.",
+      "emphasis": [
+        "Tower of God"
+      ],
+      "scene": "a small brown haired boy sitting alone in a dark cave"
+    },
+    {
+      "text": "Un jour, une fille débarque dans sa vie. Rachel. Elle lui parle des étoiles, et elle devient tout son monde.",
+      "emphasis": [
+        "étoiles"
+      ],
+      "scene": "a girl with long hair looking up at a starry night sky"
+    },
+    {
+      "text": "Sauf que Rachel veut grimper la Tour, un endroit où celui qui atteint le sommet obtient tout ce qu'il veut. Et elle part sans lui.",
+      "scene": "a huge mysterious tower rising above an endless sea",
+      "shots": [
+        {
+          "kind": "wide"
+        }
+      ]
+    },
+    {
+      "text": "[excited] Bam ouvre la porte et la suit quand même. Là, il apprend qu'il est un Irrégulier, entré dans la Tour sans avoir été choisi.",
+      "sfx": true,
+      "emphasis": [
+        "Irrégulier"
+      ],
+      "scene": "a boy opening a giant glowing door surrounded by light"
+    },
+    {
+      "text": "Dans les épreuves, il se fait deux potes. Khun, le stratège aux cheveux bleus, et Rak, un croco géant qui l'appelle Tortue.",
+      "emphasis": [
+        "Tortue"
+      ],
+      "scene": "a blue haired boy and a giant crocodile warrior holding a spear"
+    },
+    {
+      "text": "[laughing] Ce trio, je le kiffe trop. Si t'aimes quand je te raconte un arc comme ça, abonne-toi, j'en raconte un chaque semaine.",
+      "cta": true
+    },
+    {
+      "text": "Bam, lui, ferait n'importe quoi pour Rachel. Il prend des coups pour elle, tout ça pour qu'elle voie enfin ses étoiles.",
+      "scene": "a bruised boy protecting a girl during a violent fight"
+    },
+    {
+      "text": "Et à la fin de la première saison, Rachel se met juste derrière lui. Elle tend les bras. Et elle le pousse dans le vide.",
+      "sfx": true,
+      "grade": "bw",
+      "stamp": "TRAHISON",
+      "emphasis": [
+        "pousse"
+      ],
+      "scene": "a girl pushing a boy off a high platform into darkness"
+    },
+    {
+      "text": "[sad] Bam tombe, sans comprendre pourquoi la seule personne qu'il aimait vient de lui faire ça.",
+      "grade": "bw",
+      "scene": "a boy falling into deep dark water reaching his hand up"
+    },
+    {
+      "text": "Sa raison ? Bam est né spécial. Elle, non. Elle supporte pas qu'un gamin sorti de nulle part ait tout ce qu'elle doit arracher.",
+      "emphasis": [
+        "spécial"
+      ],
+      "scene": "a girl with a cold jealous expression standing in the shadows"
+    },
+    {
+      "text": "Mais attends. Bam survit. Il revient, le regard froid, sous un autre nom : Viole. Avec la FUG, qui veut tuer le roi de la Tour.",
+      "sfx": true,
+      "emphasis": [
+        "Viole"
+      ],
+      "scene": "a dark haired young man with cold eyes surrounded by dark energy"
+    },
+    {
+      "text": "Pour moi, c'est la meilleure trahison des manhwas. T'as jamais autant détesté un perso que Rachel.",
+      "stamp": "VALIDÉ",
+      "scene": "a smug girl smiling while others look at her with anger"
+    },
+    {
+      "text": "L'anime existe, mais lis le manhwa, c'est lui qui t'achève. Et toi, tu pardonnes à Rachel ou pas ? Dis-moi en com'."
+    }
+  ],
+  "caption": "Elle était tout pour lui, et elle l'a lâché dans le vide 💔 tu lui pardonnes ou pas ?",
+  "hashtags": [
+    "#anime",
+    "#manhwa",
+    "#animefr",
+    "#mangafr",
+    "#towerofgod",
+    "#webtoon"
+  ]
+}
