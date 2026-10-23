@@ -1,0 +1,222 @@
+{
+ "title": "10 recherches gratuites : la méthode pour ne pas les gaspiller",
+ "theme": "seo",
+ "pillar": "seo-radius",
+ "format": "methode",
+ "music": "pote",
+ "cover": {
+  "text": "Tes 10 recherches gratuites",
+  "highlight": [
+   "gratuites"
+  ],
+  "emoji": "🎯",
+  "sub": "ne les gaspille pas"
+ },
+ "hook_text": "Dix recherches gratuites pour trouver tes clients. Voici comment ne pas les gaspiller.",
+ "segments": [
+  {
+   "text": "Dix recherches gratuites pour trouver tes clients. Voici comment ne pas les gaspiller.",
+   "emphasis": [
+    "gratuites"
+   ]
+  },
+  {
+   "text": "Le plan gratuit s'appelle Découverte, chez SEO Radius. Avec ce plan, on a droit à dix recherches et cinq réservations, sans carte bancaire.",
+   "visual": {
+    "kind": "card",
+    "emoji": "🎯",
+    "owner": "seoradius.fr",
+    "name": "SEO Radius",
+    "desc": "Trouver des prospects en SEO local",
+    "tags": [
+     "Découverte",
+     "sans carte"
+    ],
+    "price": "Gratuit",
+    "url": "seoradius.fr"
+   }
+  },
+  {
+   "text": "Beaucoup de consultants cherchent un métier, une ville, puis tout autre chose, au hasard. Au bout de dix essais, plus rien.",
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "Au hasard",
+     "items": [
+      "Dix villes différentes",
+      "Aucun suivi",
+      "Zéro client"
+     ]
+    },
+    "right": {
+     "title": "Avec méthode",
+     "items": [
+      "Un seul métier",
+      "Deux ou trois villes",
+      "Cinq réservations"
+     ]
+    }
+   }
+  },
+  {
+   "text": "La méthode tient en quatre étapes : un seul métier, deux ou trois villes, un classement au score, puis les réservations.",
+   "visual": {
+    "kind": "list",
+    "title": "La méthode",
+    "items": [
+     "Un seul métier",
+     "Deux ou trois villes",
+     "Trier au score",
+     "Réserver les meilleurs"
+    ],
+    "at": [
+     "métier",
+     "villes",
+     "score",
+     "réservations"
+    ]
+   }
+  },
+  {
+   "text": "Étape un : choisis un seul métier. Un métier où un client rapporte gros, comme couvreur ou cuisiniste.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Étape 1",
+    "text": "Un seul métier",
+    "highlight": "métier",
+    "sub": "couvreur, cuisiniste"
+   }
+  },
+  {
+   "text": "Pourquoi ? Tes dix recherches comparent alors la même chose : mêmes problèmes, mêmes concurrents."
+  },
+  {
+   "text": "Étape deux : deux ou trois villes, pas plus. Une grande ville, ensuite ses voisines.",
+   "visual": {
+    "kind": "search",
+    "query": "couvreur Rennes",
+    "results": [
+     {
+      "name": "Toitures du Centre",
+      "note": "page 2",
+      "rating": "4,7"
+     },
+     {
+      "name": "Couverture Ouest",
+      "note": "site lent",
+      "rating": "4,5"
+     },
+     {
+      "name": "Atelier Ardoise",
+      "note": "sans photos",
+      "rating": "4,2"
+     }
+    ],
+    "pick": 0
+   }
+  },
+  {
+   "text": "À chaque recherche, l'outil analyse jusqu'à cinquante résultats Google. Ensuite, il écarte les annuaires et les plateformes.",
+   "visual": {
+    "kind": "stat",
+    "value": 50,
+    "suffix": " résultats",
+    "label": "analysés par recherche",
+    "source": "annuaires écartés"
+   }
+  },
+  {
+   "text": "Étape trois : trie la liste au score d'opportunité, sur cent. C'est une estimation, mais elle montre qui peut monter vite.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Étape 3",
+    "text": "Trier au score",
+    "highlight": "score",
+    "sub": "une estimation sur 100"
+   }
+  },
+  {
+   "text": "Ne vise pas le plus mal classé. Vise celui qui est en page deux, avec de bons avis, et un site qui traîne.",
+   "sfx": true,
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "Le plus mal classé",
+     "items": [
+      "Page cinq",
+      "Aucun avis",
+      "Petit budget"
+     ]
+    },
+    "right": {
+     "title": "Le bon prospect",
+     "items": [
+      "Page deux",
+      "Bons avis",
+      "Site lent"
+     ]
+    }
+   }
+  },
+  {
+   "text": "Étape quatre : les cinq réservations. Une réservation cache le prospect aux autres utilisateurs, pendant sept jours avec le plan gratuit.",
+   "visual": {
+    "kind": "list",
+    "title": "Réservation",
+    "items": [
+     "Prospect caché aux autres",
+     "Sept jours en gratuit"
+    ],
+    "at": [
+     "cache",
+     "sept"
+    ]
+   }
+  },
+  {
+   "text": "Alors garde-les pour tes meilleurs prospects. Pas pour les premiers venus.",
+   "stamp": "5 réservations"
+  },
+  {
+   "text": "Ensuite, contacte-les avec un seul constat. Une fiche Google sans photos, un site lent, ou des avis sans réponse.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Premier contact",
+    "text": "Un seul constat",
+    "highlight": "constat",
+    "sub": "photos, vitesse ou avis"
+   }
+  },
+  {
+   "text": "Personne ne peut garantir la première place. Mieux vaut annoncer du concret : des photos et des avis.",
+   "stamp": "concret"
+  },
+  {
+   "text": "Dix recherches bien utilisées peuvent suffire pour un premier client. Et toi, quel métier tu testerais en premier ?",
+   "visual": {
+    "kind": "list",
+    "title": "À retenir",
+    "items": [
+     "Un métier",
+     "Deux ou trois villes",
+     "Trier au score",
+     "Cinq réservations"
+    ],
+    "at": [
+     "recherches",
+     "utilisées",
+     "client",
+     "métier"
+    ]
+   }
+  }
+ ],
+ "caption": "10 recherches gratuites sur SEO Radius : la méthode pour ne pas les gaspiller 🎯 (lien en bio)",
+ "hashtags": [
+  "#seo",
+  "#seolocal",
+  "#freelance",
+  "#prospection",
+  "#clients"
+ ]
+}

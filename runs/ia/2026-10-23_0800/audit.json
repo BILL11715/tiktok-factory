@@ -1,0 +1,47 @@
+{
+ "stamp": "2026-10-23_0800",
+ "duration": 79.9,
+ "lead": 0.6,
+ "cps": 24.7,
+ "accuracy": 0.945,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "s e o radiusse",
+   "entendu": "ce haut radu"
+  },
+  {
+   "dit": "memes problemes memes concurrents",
+   "entendu": "meme probleme meme concurrent"
+  },
+  {
+   "dit": "trie",
+   "entendu": "tri"
+  },
+  {
+   "dit": "au",
+   "entendu": ""
+  },
+  {
+   "dit": "opportunite",
+   "entendu": "opportunites"
+  },
+  {
+   "dit": "qui",
+   "entendu": "qu il"
+  },
+  {
+   "dit": "garde",
+   "entendu": "gardez"
+  },
+  {
+   "dit": "contacte",
+   "entendu": "contactez"
+  },
+  {
+   "dit": "testerais",
+   "entendu": "testers"
+  }
+ ],
+ "alerts": []
+}
