@@ -1,0 +1,122 @@
+{
+ "title": "Reco manhwa : le gamin harcelé qui se réveille dans un deuxième corps",
+ "format": "reco",
+ "tone": "pote",
+ "music": "pote",
+ "animes": [
+  "Lookism"
+ ],
+ "media": {
+  "Lookism": "manhwa"
+ },
+ "cover": {
+  "text": "Il se réveille dans un autre corps",
+  "highlight": [
+   "autre"
+  ],
+  "emoji": "😳",
+  "sub": "reco manhwa"
+ },
+ "hook_text": "Ce gamin harcelé s'est réveillé un matin dans un deuxième corps",
+ "spoiler": false,
+ "segments": [
+  {
+   "text": "Ce gamin harcelé s'est réveillé un matin dans un deuxième corps.",
+   "sfx": true,
+   "emphasis": [
+    "deuxième corps"
+   ],
+   "scene": "a shocked boy waking up in bed and staring at his hands"
+  },
+  {
+   "text": "[whispering] Et attends, le vrai délire c'est pas le corps, c'est ce qu'il en fait. Reste jusqu'au bout, j'te donne le nom.",
+   "scene": "a dark room at night with a boy sitting alone"
+  },
+  {
+   "text": "Daniel, c'est le souffre-douleur de son lycée. Petit, gros, fauché, et y'a un mec, Logan, qui le frappe pour le plaisir.",
+   "emphasis": [
+    "souffre-douleur"
+   ],
+   "scene": "a chubby boy with glasses getting punched by a bully in a classroom"
+  },
+  {
+   "text": "Sa mère se tue au boulot pour lui, alors il dit rien. Il encaisse, et il pleure tout seul dans sa chambre.",
+   "grade": "bw",
+   "scene": "a sad chubby boy crying alone in his small bedroom"
+  },
+  {
+   "text": "Un jour il craque, il change de lycée, il repart de zéro. Et la première nuit, il se réveille à côté de son propre corps.",
+   "sfx": true,
+   "emphasis": [
+    "propre corps"
+   ],
+   "scene": "a tall handsome boy looking down at a sleeping chubby boy"
+  },
+  {
+   "text": "[surprised] Un deuxième corps, grand, beau, musclé. Et quand l'un s'endort, il se réveille direct dans l'autre.",
+   "stamp": "DEUX CORPS",
+   "scene": "a tall handsome young man looking at himself in a mirror"
+  },
+  {
+   "text": "Si t'aimes les manhwas qui te mettent une claque comme ça, abonne-toi, j'en sors un nouveau tous les jours.",
+   "cta": true
+  },
+  {
+   "text": "Parce que dans son nouveau lycée, avec sa nouvelle gueule, d'un coup tout le monde est gentil avec lui.",
+   "scene": "girls surrounding a handsome boy at a high school"
+  },
+  {
+   "text": "Et là le manhwa te pose la question qui pique vraiment. Est-ce qu'on l'aime lui, ou juste son visage ?",
+   "grade": "bw",
+   "stamp": "SUPERFICIEL",
+   "scene": "a boy staring at his reflection with a serious face"
+  },
+  {
+   "text": "Sauf que Daniel oublie pas d'où il vient. Il croise Vasco, un colosse qui défonce les harceleurs et il comprend que la force ça se travaille.",
+   "scene": "a huge muscular student beating up bullies in an alley"
+  },
+  {
+   "text": "Y'a Zack aussi, le boxeur du lycée, et Jay, le gosse de riche qui dit presque jamais un mot. Ses premiers vrais potes.",
+   "scene": "three high school boys standing together on a rooftop"
+  },
+  {
+   "text": "[excited] Et le plus chaud, frr, c'est que son vieux corps se met à se battre aussi. Il copie tout ce qu'il voit, et il devient un monstre.",
+   "sfx": true,
+   "emphasis": [
+    "monstre"
+   ],
+   "scene": "a chubby boy throwing a powerful punch in a street fight"
+  },
+  {
+   "text": "Mon avis ? Le début c'est du drama de lycée, mais après ça part en guerre de gangs, et pour moi c'est un des meilleurs manhwas de baston.",
+   "scene": "two gangs of students facing each other in the street at night"
+  },
+  {
+   "text": "Y'a même un anime sur Netflix, mais franchement le manhwa est dix fois mieux. Ça se lit sur Webtoon.",
+   "shots": [
+    {
+     "kind": "poster"
+    }
+   ]
+  },
+  {
+   "text": "[whispering] Le nom, c'est Lookism. Dis-moi en com' si toi aussi t'as lu ça jusqu'à trois heures du mat'.",
+   "shots": [
+    {
+     "kind": "poster"
+    }
+   ]
+  }
+ ],
+ "reveal_text": "Lookism",
+ "reveal_segments": 1,
+ "caption": "Un corps pour le jour, un pour la nuit 😳 tu l'as lu ou pas ?",
+ "hashtags": [
+  "#anime",
+  "#manhwa",
+  "#animefr",
+  "#webtoonfr",
+  "#lookism",
+  "#recommandationanime"
+ ]
+}
