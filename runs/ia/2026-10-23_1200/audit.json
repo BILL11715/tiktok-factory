@@ -1,0 +1,51 @@
+{
+ "stamp": "2026-10-23_1200",
+ "duration": 79.8,
+ "lead": 0.6,
+ "cps": 25.3,
+ "accuracy": 0.96,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "claude",
+   "entendu": "cloud"
+  },
+  {
+   "dit": "claude habituelle",
+   "entendu": "cloud habituel"
+  },
+  {
+   "dit": "prevision",
+   "entendu": "provision"
+  },
+  {
+   "dit": "actions",
+   "entendu": "action"
+  },
+  {
+   "dit": "limites",
+   "entendu": "limits"
+  },
+  {
+   "dit": "aux plans",
+   "entendu": "au plan"
+  },
+  {
+   "dit": "ses",
+   "entendu": "ces"
+  },
+  {
+   "dit": "claude",
+   "entendu": "cloud"
+  },
+  {
+   "dit": "ses",
+   "entendu": "ces"
+  },
+  {
+   "dit": "tes",
+   "entendu": "des"
+  }
+ ],
+ "alerts": []
+}
