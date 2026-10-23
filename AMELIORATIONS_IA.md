@@ -46,8 +46,14 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
   « Q R », « S M S » mais transcrits « qr », « sms » : 5 écarts sur la vidéo du 22/10 22:00).
 - Audit : ignorer les homophones (« rends » / « rend », « ton » / « t'on ») dans les mots mal compris.
 - Audit : relancer `factory.audit` sur le même run ajoute une 2e ligne identique dans `audits_ia.jsonl` (doublons 14/10 12:00 et 19:00), ce qui gonfle le compte des « mots mal compris sur plusieurs vidéos ». Remplacer la ligne du même stamp au lieu d'en ajouter une.
+- Rendu : Remotion télécharge son Chrome depuis remotion.media, bloqué par le proxy du conteneur (403) le 23/10 12:00. Contourné à la main en liant
+  `remotion/node_modules/.remotion/chrome-headless-shell/linux64/chrome-headless-shell-linux64` au Chromium local `/opt/pw-browsers/chromium_headless_shell-*`
+  (+ fichier VERSION attendu) : à intégrer dans setup.sh, sinon chaque run neuf échoue à l'étape montage.
 
 ## Journal (1 ligne par revue, la plus récente en haut, 20 lignes maximum)
+- 2026-10-23 (12:00) : sans alerte au 1er rendu (débit 25,3 car./s, prononciation 96 %, 79,8 s pour 1 633 car.). Sur les 10 derniers audits, débit 24,7 à 25,6 car./s,
+  6 sans alerte (3 prononciation à 90-91 %, 1 débit). Règle 7 tenue (78 à 84 s à 1 620-1 650 car.). « Claude » entendu « cloud » 2 fois sur 1 seule vidéo : pas de lexique.
+  Montage bloqué par le téléchargement de Chrome de Remotion (proxy) : contourné, piste ajoutée pour Bill. Pas de nouvelle règle.
 - 2026-10-22 (22:00) : 1er rendu à 89 % (« à Lyon. Clients ravis » entendu « alliant client ravi », « Son concurrent » entendu « donc », « Pour trouver » « vous trouvez »,
   « L'outil » « le tient », « Souvent, » « nouveau ») : reformulés, 2e rendu à 90 % avec alerte, mais les écarts restants viennent surtout de la graphie (QR et SMS ajoutés
   au lexique en lettres, bien entendus « qr » « sms ») et des pluriels. Débit 24,7 car./s, 83,6 s pour 1 639 car. : règle 7 tenue. Sur les 10 derniers audits, débit 24,3 à 26,1 car./s,
@@ -110,7 +116,3 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
 - 2026-10-13 (22:00) : sans alerte au 1er rendu (débit 24,0 car./s, prononciation 94 %, 88 s), règle 5 tenue.
   Sur les 10 derniers audits, 7 alertes concernent la prononciation juste sous 93 % (88 à 93 %), aucune le débit.
   « rangée(s) » mal transcrit 3 fois ici (« ranger », « arranger ») : homophone, 1 seule vidéo, pas de règle.
-- 2026-10-13 (08:00) : 1re vidéo sans alerte depuis le 12/10 17:00 (débit 24,5 car./s, prononciation 94 %),
-  règle 5 appliquée (aucune phrase ouverte par « Ton »). « seo » et « radius » restent candidats au lexique
-  mais sont bien entendus (« seo radius ») : écart dû à la graphie phonétique, déjà en piste audit. « IA »
-  en milieu de phrase mal compris 1 fois (« l'IA compare ») : à surveiller, pas de règle tant que ça ne revient pas.
