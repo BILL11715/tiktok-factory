@@ -38,6 +38,9 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
    Tenu le 22/10 08:00 (1 629 car. = 81,4 s à 25,1 car./s, sans alerte) : garder 1 620 à 1 650 car.
    Le 22/10 17:00, 1 634 car. = 77,2 s (débit 25,6, alerte) au 1er rendu, 1 635 car. = 79,9 s au 2e : couper les phrases longues
    en deux (« Il a le temps. Et il veut... ») ralentit la voix plus que d'ajouter du texte.
+8. « Claude » entendu « cloud » sur 2 vidéos (23/10 12:00 2 fois, 23/10 19:00 3 fois) ; le lexique « clôde » n'y change rien (essayé au 2e rendu du 23/10 19:00,
+   retiré). Le dire 4 fois maximum par vidéo, jamais en tout début de phrase : écrire « Avec Claude, ... », « demande à Claude » ou remplacer par « l'IA ».
+   Éviter aussi « coloc » (entendu « coloque ») et « appli » juste après un mot court (« appuie ») : préférer « application » une fois sur deux.
 
 ## Pistes pour Bill (changements de code proposés, à valider par lui)
 - Audit : comparer la transcription au texte écrit du script, pas à la graphie phonétique du lexique.
@@ -51,6 +54,9 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
   (+ fichier VERSION attendu) : à intégrer dans setup.sh, sinon chaque run neuf échoue à l'étape montage.
 
 ## Journal (1 ligne par revue, la plus récente en haut, 20 lignes maximum)
+- 2026-10-23 (19:00) : 1er rendu 79,3 s, débit 25,7, prononciation 91 % (« Claude » entendu « cloud » 3 fois, « Publier crée » « public écrit », « Tes colocs » « les colloques ») ;
+  phrases coupées, mots reformulés et « Claude » mis au lexique : 2e rendu 78,6 s, débit toujours 25,7, prononciation 88 % (« cloud » 3 fois encore, « appuie », « convaincre »).
+  Lexique retiré (sans effet), règle 8 ajoutée. Couper les phrases n'a pas ralenti la voix cette fois (1 636 car.). Sur les 10 derniers audits, 5 sans alerte.
 - 2026-10-23 (12:00) : sans alerte au 1er rendu (débit 25,3 car./s, prononciation 96 %, 79,8 s pour 1 633 car.). Sur les 10 derniers audits, débit 24,7 à 25,6 car./s,
   6 sans alerte (3 prononciation à 90-91 %, 1 débit). Règle 7 tenue (78 à 84 s à 1 620-1 650 car.). « Claude » entendu « cloud » 2 fois sur 1 seule vidéo : pas de lexique.
   Montage bloqué par le téléchargement de Chrome de Remotion (proxy) : contourné, piste ajoutée pour Bill. Pas de nouvelle règle.
@@ -113,6 +119,3 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
 - 2026-10-14 (12:00) : « IA » mal compris sur 2 vidéos (13/10 « aya par », 14/10 « il y a », « haies ») : ajouté au
   lexique (« I A »), avec Jan (« djanne ») et Linux (« linuxe »). Au 2e rendu, les trois sont bien entendus, mais la
   prononciation tombe de 91 % à 89 % car l'audit compare à la graphie phonétique (piste déjà notée). Débit 24,3 car./s.
-- 2026-10-13 (22:00) : sans alerte au 1er rendu (débit 24,0 car./s, prononciation 94 %, 88 s), règle 5 tenue.
-  Sur les 10 derniers audits, 7 alertes concernent la prononciation juste sous 93 % (88 à 93 %), aucune le débit.
-  « rangée(s) » mal transcrit 3 fois ici (« ranger », « arranger ») : homophone, 1 seule vidéo, pas de règle.
