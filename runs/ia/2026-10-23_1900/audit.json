@@ -1,0 +1,106 @@
+{
+ "stamp": "2026-10-23_1900",
+ "duration": 78.6,
+ "lead": 0.6,
+ "cps": 25.7,
+ "accuracy": 0.875,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "appli",
+   "entendu": "appuie"
+  },
+  {
+   "dit": "clode",
+   "entendu": "cloud"
+  },
+  {
+   "dit": "coloc",
+   "entendu": "coloque"
+  },
+  {
+   "dit": "combien a",
+   "entendu": "convaincre"
+  },
+  {
+   "dit": "clode",
+   "entendu": "cloud"
+  },
+  {
+   "dit": "clode",
+   "entendu": "cloud"
+  },
+  {
+   "dit": "quatre gestes decrire",
+   "entendu": "cas de geste d ecrire"
+  },
+  {
+   "dit": "artefacts",
+   "entendu": "artefact"
+  },
+  {
+   "dit": "decris",
+   "entendu": "decrit"
+  },
+  {
+   "dit": "a",
+   "entendu": ""
+  },
+  {
+   "dit": "clode",
+   "entendu": "claude"
+  },
+  {
+   "dit": "paie",
+   "entendu": "paye"
+  },
+  {
+   "dit": "quand c est clair demande",
+   "entendu": "dans ces clairs demandez"
+  },
+  {
+   "dit": "qui",
+   "entendu": "qu il"
+  },
+  {
+   "dit": "publier",
+   "entendu": "public"
+  },
+  {
+   "dit": "colocs l ouvrent",
+   "entendu": "colocent lourd"
+  },
+  {
+   "dit": "leur propre copie",
+   "entendu": "leurs propres copies"
+  },
+  {
+   "dit": "limites",
+   "entendu": "lignites"
+  },
+  {
+   "dit": "artefacts",
+   "entendu": "artefact"
+  },
+  {
+   "dit": "i a",
+   "entendu": "ia"
+  },
+  {
+   "dit": "clode",
+   "entendu": "claude"
+  },
+  {
+   "dit": "revisions",
+   "entendu": "revision"
+  },
+  {
+   "dit": "quelle petite",
+   "entendu": "quel petit"
+  }
+ ],
+ "alerts": [
+  "débit 25.7 car./s : trop rapide (max 25.5)",
+  "prononciation 88% des mots compris (min 93%)"
+ ]
+}
