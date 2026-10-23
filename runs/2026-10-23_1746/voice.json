@@ -1,0 +1,1698 @@
+{
+ "engine": "fish",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-23_1746/voice.wav",
+ "duration": 82.374,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 2.76,
+   "slot_end": 2.946,
+   "text": "Il dort sous le même toit que son crush, et c'est un secret.",
+   "words": [
+    {
+     "w": "Il",
+     "start": 0.0,
+     "end": 0.14
+    },
+    {
+     "w": "dort",
+     "start": 0.14,
+     "end": 0.32
+    },
+    {
+     "w": "sous",
+     "start": 0.32,
+     "end": 0.54
+    },
+    {
+     "w": "le",
+     "start": 0.54,
+     "end": 0.66
+    },
+    {
+     "w": "même",
+     "start": 0.66,
+     "end": 0.86
+    },
+    {
+     "w": "toit",
+     "start": 0.86,
+     "end": 1.14
+    },
+    {
+     "w": "que",
+     "start": 1.14,
+     "end": 1.22
+    },
+    {
+     "w": "son",
+     "start": 1.22,
+     "end": 1.38
+    },
+    {
+     "w": "crush,",
+     "start": 1.38,
+     "end": 1.7
+    },
+    {
+     "w": "et",
+     "start": 1.7,
+     "end": 2.02
+    },
+    {
+     "w": "c'est",
+     "start": 2.02,
+     "end": 2.16
+    },
+    {
+     "w": "un",
+     "start": 2.16,
+     "end": 2.32
+    },
+    {
+     "w": "secret.",
+     "start": 2.32,
+     "end": 2.76
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 2.96,
+   "end": 6.16,
+   "slot_end": 6.216,
+   "text": "Reste jusqu'au bout, parce que la vraie victime de cette histoire, c'est pas du tout lui.",
+   "words": [
+    {
+     "w": "Reste",
+     "start": 2.96,
+     "end": 3.14
+    },
+    {
+     "w": "jusqu'au",
+     "start": 3.14,
+     "end": 3.5
+    },
+    {
+     "w": "bout,",
+     "start": 3.5,
+     "end": 3.64
+    },
+    {
+     "w": "parce",
+     "start": 3.64,
+     "end": 3.8
+    },
+    {
+     "w": "que",
+     "start": 3.8,
+     "end": 3.92
+    },
+    {
+     "w": "la",
+     "start": 3.92,
+     "end": 4.02
+    },
+    {
+     "w": "vraie",
+     "start": 4.02,
+     "end": 4.3
+    },
+    {
+     "w": "victime",
+     "start": 4.3,
+     "end": 4.84
+    },
+    {
+     "w": "de",
+     "start": 4.84,
+     "end": 4.96
+    },
+    {
+     "w": "cette",
+     "start": 4.96,
+     "end": 5.1
+    },
+    {
+     "w": "histoire,",
+     "start": 5.1,
+     "end": 5.42
+    },
+    {
+     "w": "c'est",
+     "start": 5.58,
+     "end": 5.66
+    },
+    {
+     "w": "pas",
+     "start": 5.66,
+     "end": 5.8
+    },
+    {
+     "w": "du",
+     "start": 5.8,
+     "end": 5.94
+    },
+    {
+     "w": "tout",
+     "start": 5.94,
+     "end": 6.04
+    },
+    {
+     "w": "lui.",
+     "start": 6.04,
+     "end": 6.16
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 6.22,
+   "end": 12.56,
+   "slot_end": 12.641,
+   "text": "Lui, c'est Taiki. Première année au lycée Eimei, joueur de badminton, et il se lève tous les jours à l'aube pour aller au gymnase.",
+   "words": [
+    {
+     "w": "Lui,",
+     "start": 6.22,
+     "end": 6.36
+    },
+    {
+     "w": "c'est",
+     "start": 6.48,
+     "end": 6.58
+    },
+    {
+     "w": "Taiki.",
+     "start": 6.58,
+     "end": 6.84
+    },
+    {
+     "w": "Première",
+     "start": 7.34,
+     "end": 7.62
+    },
+    {
+     "w": "année",
+     "start": 7.62,
+     "end": 7.9
+    },
+    {
+     "w": "au",
+     "start": 7.9,
+     "end": 8.06
+    },
+    {
+     "w": "lycée",
+     "start": 8.06,
+     "end": 8.36
+    },
+    {
+     "w": "Eimei,",
+     "start": 8.5,
+     "end": 8.7
+    },
+    {
+     "w": "joueur",
+     "start": 8.7,
+     "end": 9.08
+    },
+    {
+     "w": "de",
+     "start": 9.08,
+     "end": 9.2
+    },
+    {
+     "w": "badminton,",
+     "start": 9.2,
+     "end": 9.82
+    },
+    {
+     "w": "et",
+     "start": 9.82,
+     "end": 10.38
+    },
+    {
+     "w": "il",
+     "start": 10.38,
+     "end": 10.52
+    },
+    {
+     "w": "se",
+     "start": 10.52,
+     "end": 10.6
+    },
+    {
+     "w": "lève",
+     "start": 10.6,
+     "end": 10.78
+    },
+    {
+     "w": "tous",
+     "start": 10.78,
+     "end": 11.02
+    },
+    {
+     "w": "les",
+     "start": 11.02,
+     "end": 11.16
+    },
+    {
+     "w": "jours",
+     "start": 11.16,
+     "end": 11.32
+    },
+    {
+     "w": "à",
+     "start": 11.32,
+     "end": 11.5
+    },
+    {
+     "w": "l'aube",
+     "start": 11.5,
+     "end": 11.6
+    },
+    {
+     "w": "pour",
+     "start": 11.6,
+     "end": 11.8
+    },
+    {
+     "w": "aller",
+     "start": 11.8,
+     "end": 11.96
+    },
+    {
+     "w": "au",
+     "start": 11.96,
+     "end": 12.12
+    },
+    {
+     "w": "gymnase.",
+     "start": 12.12,
+     "end": 12.56
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 12.64,
+   "end": 20.22,
+   "slot_end": 20.355,
+   "text": "Pourquoi aussi tôt ? Parce que dans ce gymnase, y'a Chinatsu. Un an de plus que lui, la star du basket, et elle est là chaque matin.",
+   "words": [
+    {
+     "w": "Pourquoi",
+     "start": 12.64,
+     "end": 12.92
+    },
+    {
+     "w": "aussi",
+     "start": 12.92,
+     "end": 13.073
+    },
+    {
+     "w": "tôt",
+     "start": 13.073,
+     "end": 13.227
+    },
+    {
+     "w": "?",
+     "start": 13.227,
+     "end": 13.38
+    },
+    {
+     "w": "Parce",
+     "start": 14.04,
+     "end": 14.24
+    },
+    {
+     "w": "que",
+     "start": 14.24,
+     "end": 14.36
+    },
+    {
+     "w": "dans",
+     "start": 14.36,
+     "end": 14.52
+    },
+    {
+     "w": "ce",
+     "start": 14.52,
+     "end": 14.72
+    },
+    {
+     "w": "gymnase,",
+     "start": 14.72,
+     "end": 15.18
+    },
+    {
+     "w": "y'a",
+     "start": 15.34,
+     "end": 15.42
+    },
+    {
+     "w": "Chinatsu.",
+     "start": 15.42,
+     "end": 15.9
+    },
+    {
+     "w": "Un",
+     "start": 16.64,
+     "end": 16.96
+    },
+    {
+     "w": "an",
+     "start": 16.96,
+     "end": 17.1
+    },
+    {
+     "w": "de",
+     "start": 17.1,
+     "end": 17.22
+    },
+    {
+     "w": "plus",
+     "start": 17.22,
+     "end": 17.36
+    },
+    {
+     "w": "que",
+     "start": 17.36,
+     "end": 17.54
+    },
+    {
+     "w": "lui,",
+     "start": 17.54,
+     "end": 17.74
+    },
+    {
+     "w": "la",
+     "start": 17.92,
+     "end": 18.0
+    },
+    {
+     "w": "star",
+     "start": 18.0,
+     "end": 18.24
+    },
+    {
+     "w": "du",
+     "start": 18.24,
+     "end": 18.42
+    },
+    {
+     "w": "basket,",
+     "start": 18.42,
+     "end": 18.64
+    },
+    {
+     "w": "et",
+     "start": 19.24,
+     "end": 19.42
+    },
+    {
+     "w": "elle",
+     "start": 19.42,
+     "end": 19.52
+    },
+    {
+     "w": "est",
+     "start": 19.52,
+     "end": 19.6
+    },
+    {
+     "w": "là",
+     "start": 19.6,
+     "end": 19.72
+    },
+    {
+     "w": "chaque",
+     "start": 19.72,
+     "end": 19.92
+    },
+    {
+     "w": "matin.",
+     "start": 19.92,
+     "end": 20.22
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 20.36,
+   "end": 27.58,
+   "slot_end": 27.672,
+   "text": "Et un jour, tout dérape. Les parents de Chinatsu partent vivre à l'étranger pour le boulot, elle veut pas lâcher le basket, et devine chez qui elle atterrit.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 20.36,
+     "end": 20.44
+    },
+    {
+     "w": "un",
+     "start": 20.44,
+     "end": 20.54
+    },
+    {
+     "w": "jour,",
+     "start": 20.54,
+     "end": 20.7
+    },
+    {
+     "w": "tout",
+     "start": 20.8,
+     "end": 20.88
+    },
+    {
+     "w": "dérape.",
+     "start": 20.88,
+     "end": 21.28
+    },
+    {
+     "w": "Les",
+     "start": 21.88,
+     "end": 22.0
+    },
+    {
+     "w": "parents",
+     "start": 22.0,
+     "end": 22.2
+    },
+    {
+     "w": "de",
+     "start": 22.2,
+     "end": 22.36
+    },
+    {
+     "w": "Chinatsu",
+     "start": 22.36,
+     "end": 22.74
+    },
+    {
+     "w": "partent",
+     "start": 22.74,
+     "end": 23.08
+    },
+    {
+     "w": "vivre",
+     "start": 23.08,
+     "end": 23.22
+    },
+    {
+     "w": "à",
+     "start": 23.22,
+     "end": 23.38
+    },
+    {
+     "w": "l'étranger",
+     "start": 23.38,
+     "end": 23.68
+    },
+    {
+     "w": "pour",
+     "start": 23.68,
+     "end": 23.9
+    },
+    {
+     "w": "le",
+     "start": 23.9,
+     "end": 24.04
+    },
+    {
+     "w": "boulot,",
+     "start": 24.04,
+     "end": 24.3
+    },
+    {
+     "w": "elle",
+     "start": 24.64,
+     "end": 24.77
+    },
+    {
+     "w": "veut",
+     "start": 24.77,
+     "end": 24.9
+    },
+    {
+     "w": "pas",
+     "start": 24.9,
+     "end": 25.02
+    },
+    {
+     "w": "lâcher",
+     "start": 25.02,
+     "end": 25.2
+    },
+    {
+     "w": "le",
+     "start": 25.2,
+     "end": 25.36
+    },
+    {
+     "w": "basket,",
+     "start": 25.36,
+     "end": 25.6
+    },
+    {
+     "w": "et",
+     "start": 26.32,
+     "end": 26.48
+    },
+    {
+     "w": "devine",
+     "start": 26.48,
+     "end": 26.78
+    },
+    {
+     "w": "chez",
+     "start": 26.78,
+     "end": 26.98
+    },
+    {
+     "w": "qui",
+     "start": 26.98,
+     "end": 27.12
+    },
+    {
+     "w": "elle",
+     "start": 27.12,
+     "end": 27.35
+    },
+    {
+     "w": "atterrit.",
+     "start": 27.35,
+     "end": 27.58
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 27.7,
+   "end": 33.52,
+   "slot_end": 33.64,
+   "text": "Chez Taiki. Leurs mères sont amies. Du jour au lendemain, il partage sa maison avec la fille qu'il admire en secret.",
+   "words": [
+    {
+     "w": "Chez",
+     "start": 27.7,
+     "end": 27.9
+    },
+    {
+     "w": "Taiki.",
+     "start": 27.9,
+     "end": 28.34
+    },
+    {
+     "w": "Leurs",
+     "start": 28.72,
+     "end": 29.08
+    },
+    {
+     "w": "mères",
+     "start": 29.08,
+     "end": 29.34
+    },
+    {
+     "w": "sont",
+     "start": 29.34,
+     "end": 29.52
+    },
+    {
+     "w": "amies.",
+     "start": 29.52,
+     "end": 29.82
+    },
+    {
+     "w": "Du",
+     "start": 30.36,
+     "end": 30.54
+    },
+    {
+     "w": "jour",
+     "start": 30.54,
+     "end": 30.72
+    },
+    {
+     "w": "au",
+     "start": 30.72,
+     "end": 30.82
+    },
+    {
+     "w": "lendemain,",
+     "start": 30.82,
+     "end": 31.08
+    },
+    {
+     "w": "il",
+     "start": 31.08,
+     "end": 31.2
+    },
+    {
+     "w": "partage",
+     "start": 31.2,
+     "end": 31.6
+    },
+    {
+     "w": "sa",
+     "start": 31.6,
+     "end": 31.76
+    },
+    {
+     "w": "maison",
+     "start": 31.76,
+     "end": 31.98
+    },
+    {
+     "w": "avec",
+     "start": 31.98,
+     "end": 32.3
+    },
+    {
+     "w": "la",
+     "start": 32.3,
+     "end": 32.5
+    },
+    {
+     "w": "fille",
+     "start": 32.5,
+     "end": 32.62
+    },
+    {
+     "w": "qu'il",
+     "start": 32.62,
+     "end": 32.82
+    },
+    {
+     "w": "admire",
+     "start": 32.82,
+     "end": 33.06
+    },
+    {
+     "w": "en",
+     "start": 33.06,
+     "end": 33.22
+    },
+    {
+     "w": "secret.",
+     "start": 33.22,
+     "end": 33.52
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 33.64,
+   "end": 37.72,
+   "slot_end": 37.812,
+   "text": "Si t'aimes quand je te raconte un anime comme ça, abonne-toi, j'en raconte un nouveau tous les jours.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 33.64,
+     "end": 33.8
+    },
+    {
+     "w": "t'aimes",
+     "start": 33.8,
+     "end": 34.04
+    },
+    {
+     "w": "quand",
+     "start": 34.04,
+     "end": 34.18
+    },
+    {
+     "w": "je",
+     "start": 34.18,
+     "end": 34.28
+    },
+    {
+     "w": "te",
+     "start": 34.28,
+     "end": 34.36
+    },
+    {
+     "w": "raconte",
+     "start": 34.36,
+     "end": 34.68
+    },
+    {
+     "w": "un",
+     "start": 34.68,
+     "end": 34.86
+    },
+    {
+     "w": "anime",
+     "start": 34.86,
+     "end": 35.02
+    },
+    {
+     "w": "comme",
+     "start": 35.02,
+     "end": 35.26
+    },
+    {
+     "w": "ça,",
+     "start": 35.26,
+     "end": 35.5
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 35.94,
+     "end": 36.34
+    },
+    {
+     "w": "j'en",
+     "start": 36.46,
+     "end": 36.54
+    },
+    {
+     "w": "raconte",
+     "start": 36.54,
+     "end": 36.82
+    },
+    {
+     "w": "un",
+     "start": 36.82,
+     "end": 36.98
+    },
+    {
+     "w": "nouveau",
+     "start": 36.98,
+     "end": 37.16
+    },
+    {
+     "w": "tous",
+     "start": 37.16,
+     "end": 37.4
+    },
+    {
+     "w": "les",
+     "start": 37.4,
+     "end": 37.56
+    },
+    {
+     "w": "jours.",
+     "start": 37.56,
+     "end": 37.72
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 37.82,
+   "end": 45.16,
+   "slot_end": 45.264,
+   "text": "Sauf que voilà. Ils se font une promesse tous les deux : aller aux championnats nationaux, l'Inter-High. Lui au badminton, elle au basket.",
+   "words": [
+    {
+     "w": "Sauf",
+     "start": 37.82,
+     "end": 38.0
+    },
+    {
+     "w": "que",
+     "start": 38.0,
+     "end": 38.16
+    },
+    {
+     "w": "voilà.",
+     "start": 38.16,
+     "end": 38.36
+    },
+    {
+     "w": "Ils",
+     "start": 38.9,
+     "end": 39.0
+    },
+    {
+     "w": "se",
+     "start": 39.0,
+     "end": 39.14
+    },
+    {
+     "w": "font",
+     "start": 39.14,
+     "end": 39.28
+    },
+    {
+     "w": "une",
+     "start": 39.28,
+     "end": 39.48
+    },
+    {
+     "w": "promesse",
+     "start": 39.48,
+     "end": 39.92
+    },
+    {
+     "w": "tous",
+     "start": 39.92,
+     "end": 40.08
+    },
+    {
+     "w": "les",
+     "start": 40.08,
+     "end": 40.18
+    },
+    {
+     "w": "deux",
+     "start": 40.18,
+     "end": 40.38
+    },
+    {
+     "w": ":",
+     "start": 40.38,
+     "end": 40.6
+    },
+    {
+     "w": "aller",
+     "start": 40.6,
+     "end": 40.82
+    },
+    {
+     "w": "aux",
+     "start": 40.82,
+     "end": 40.96
+    },
+    {
+     "w": "championnats",
+     "start": 40.96,
+     "end": 41.34
+    },
+    {
+     "w": "nationaux,",
+     "start": 41.34,
+     "end": 41.7
+    },
+    {
+     "w": "l'Inter-High.",
+     "start": 42.08,
+     "end": 42.76
+    },
+    {
+     "w": "Lui",
+     "start": 43.3,
+     "end": 43.5
+    },
+    {
+     "w": "au",
+     "start": 43.5,
+     "end": 43.64
+    },
+    {
+     "w": "badminton,",
+     "start": 43.64,
+     "end": 44.12
+    },
+    {
+     "w": "elle",
+     "start": 44.62,
+     "end": 44.72
+    },
+    {
+     "w": "au",
+     "start": 44.72,
+     "end": 44.86
+    },
+    {
+     "w": "basket.",
+     "start": 44.86,
+     "end": 45.16
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 45.3,
+   "end": 50.0,
+   "slot_end": 50.138,
+   "text": "Et pendant que Taiki se tue à l'entraînement pour être à sa hauteur, y'a quelqu'un qui le regarde depuis le début.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 45.3,
+     "end": 45.35
+    },
+    {
+     "w": "pendant",
+     "start": 45.34,
+     "end": 45.54
+    },
+    {
+     "w": "que",
+     "start": 45.54,
+     "end": 45.72
+    },
+    {
+     "w": "Taiki",
+     "start": 45.72,
+     "end": 46.0
+    },
+    {
+     "w": "se",
+     "start": 46.0,
+     "end": 46.22
+    },
+    {
+     "w": "tue",
+     "start": 46.22,
+     "end": 46.4
+    },
+    {
+     "w": "à",
+     "start": 46.4,
+     "end": 46.5
+    },
+    {
+     "w": "l'entraînement",
+     "start": 46.5,
+     "end": 46.9
+    },
+    {
+     "w": "pour",
+     "start": 46.9,
+     "end": 47.14
+    },
+    {
+     "w": "être",
+     "start": 47.14,
+     "end": 47.26
+    },
+    {
+     "w": "à",
+     "start": 47.26,
+     "end": 47.4
+    },
+    {
+     "w": "sa",
+     "start": 47.4,
+     "end": 47.48
+    },
+    {
+     "w": "hauteur,",
+     "start": 47.48,
+     "end": 47.76
+    },
+    {
+     "w": "y'a",
+     "start": 48.22,
+     "end": 48.27
+    },
+    {
+     "w": "quelqu'un",
+     "start": 48.26,
+     "end": 48.6
+    },
+    {
+     "w": "qui",
+     "start": 48.6,
+     "end": 48.7
+    },
+    {
+     "w": "le",
+     "start": 48.7,
+     "end": 48.82
+    },
+    {
+     "w": "regarde",
+     "start": 48.82,
+     "end": 49.2
+    },
+    {
+     "w": "depuis",
+     "start": 49.2,
+     "end": 49.56
+    },
+    {
+     "w": "le",
+     "start": 49.56,
+     "end": 49.74
+    },
+    {
+     "w": "début.",
+     "start": 49.74,
+     "end": 50.0
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 50.16,
+   "end": 56.3,
+   "slot_end": 56.414,
+   "text": "Hina, gymnaste, sa pote depuis le collège. Elle voit tout, les regards, les matins au gymnase, et elle comprend avant lui.",
+   "words": [
+    {
+     "w": "Hina,",
+     "start": 50.16,
+     "end": 50.32
+    },
+    {
+     "w": "gymnaste,",
+     "start": 50.52,
+     "end": 50.94
+    },
+    {
+     "w": "sa",
+     "start": 51.16,
+     "end": 51.24
+    },
+    {
+     "w": "pote",
+     "start": 51.24,
+     "end": 51.42
+    },
+    {
+     "w": "depuis",
+     "start": 51.42,
+     "end": 51.66
+    },
+    {
+     "w": "le",
+     "start": 51.66,
+     "end": 51.82
+    },
+    {
+     "w": "collège.",
+     "start": 51.82,
+     "end": 52.2
+    },
+    {
+     "w": "Elle",
+     "start": 52.7,
+     "end": 52.82
+    },
+    {
+     "w": "voit",
+     "start": 52.82,
+     "end": 53.02
+    },
+    {
+     "w": "tout,",
+     "start": 53.02,
+     "end": 53.28
+    },
+    {
+     "w": "les",
+     "start": 53.28,
+     "end": 53.58
+    },
+    {
+     "w": "regards,",
+     "start": 53.58,
+     "end": 53.88
+    },
+    {
+     "w": "les",
+     "start": 53.88,
+     "end": 54.12
+    },
+    {
+     "w": "matins",
+     "start": 54.12,
+     "end": 54.36
+    },
+    {
+     "w": "au",
+     "start": 54.36,
+     "end": 54.64
+    },
+    {
+     "w": "gymnase,",
+     "start": 54.64,
+     "end": 54.92
+    },
+    {
+     "w": "et",
+     "start": 54.92,
+     "end": 55.42
+    },
+    {
+     "w": "elle",
+     "start": 55.42,
+     "end": 55.52
+    },
+    {
+     "w": "comprend",
+     "start": 55.52,
+     "end": 55.8
+    },
+    {
+     "w": "avant",
+     "start": 55.8,
+     "end": 56.06
+    },
+    {
+     "w": "lui.",
+     "start": 56.06,
+     "end": 56.3
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 56.46,
+   "end": 61.9,
+   "slot_end": 62.022,
+   "text": "Et le pire, c'est qu'elle finit par se déclarer, en sachant très bien qu'il en aime une autre. J'te jure, cette scène m'a détruit.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 56.46,
+     "end": 56.51
+    },
+    {
+     "w": "le",
+     "start": 56.48,
+     "end": 56.6
+    },
+    {
+     "w": "pire,",
+     "start": 56.6,
+     "end": 56.76
+    },
+    {
+     "w": "c'est",
+     "start": 56.76,
+     "end": 56.94
+    },
+    {
+     "w": "qu'elle",
+     "start": 56.94,
+     "end": 57.06
+    },
+    {
+     "w": "finit",
+     "start": 57.06,
+     "end": 57.3
+    },
+    {
+     "w": "par",
+     "start": 57.3,
+     "end": 57.46
+    },
+    {
+     "w": "se",
+     "start": 57.46,
+     "end": 57.6
+    },
+    {
+     "w": "déclarer,",
+     "start": 57.6,
+     "end": 58.22
+    },
+    {
+     "w": "en",
+     "start": 58.22,
+     "end": 58.52
+    },
+    {
+     "w": "sachant",
+     "start": 58.52,
+     "end": 58.76
+    },
+    {
+     "w": "très",
+     "start": 58.76,
+     "end": 58.92
+    },
+    {
+     "w": "bien",
+     "start": 58.92,
+     "end": 59.06
+    },
+    {
+     "w": "qu'il",
+     "start": 59.06,
+     "end": 59.22
+    },
+    {
+     "w": "en",
+     "start": 59.22,
+     "end": 59.34
+    },
+    {
+     "w": "aime",
+     "start": 59.34,
+     "end": 59.5
+    },
+    {
+     "w": "une",
+     "start": 59.5,
+     "end": 59.62
+    },
+    {
+     "w": "autre.",
+     "start": 59.62,
+     "end": 59.8
+    },
+    {
+     "w": "J'te",
+     "start": 60.44,
+     "end": 60.78
+    },
+    {
+     "w": "jure,",
+     "start": 60.78,
+     "end": 61.02
+    },
+    {
+     "w": "cette",
+     "start": 61.02,
+     "end": 61.2
+    },
+    {
+     "w": "scène",
+     "start": 61.2,
+     "end": 61.44
+    },
+    {
+     "w": "m'a",
+     "start": 61.44,
+     "end": 61.6
+    },
+    {
+     "w": "détruit.",
+     "start": 61.6,
+     "end": 61.9
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 62.02,
+   "end": 67.8,
+   "slot_end": 67.915,
+   "text": "Voilà la réponse que je t'avais promise. La vraie victime de Blue Box, c'est Hina. Et franchement c'est elle que je préfère, de loin.",
+   "words": [
+    {
+     "w": "Voilà",
+     "start": 62.02,
+     "end": 62.16
+    },
+    {
+     "w": "la",
+     "start": 62.16,
+     "end": 62.32
+    },
+    {
+     "w": "réponse",
+     "start": 62.32,
+     "end": 62.54
+    },
+    {
+     "w": "que",
+     "start": 62.54,
+     "end": 62.72
+    },
+    {
+     "w": "je",
+     "start": 62.72,
+     "end": 62.8
+    },
+    {
+     "w": "t'avais",
+     "start": 62.8,
+     "end": 62.94
+    },
+    {
+     "w": "promise.",
+     "start": 62.94,
+     "end": 63.36
+    },
+    {
+     "w": "La",
+     "start": 63.82,
+     "end": 64.0
+    },
+    {
+     "w": "vraie",
+     "start": 64.0,
+     "end": 64.2
+    },
+    {
+     "w": "victime",
+     "start": 64.2,
+     "end": 64.5
+    },
+    {
+     "w": "de",
+     "start": 64.5,
+     "end": 64.64
+    },
+    {
+     "w": "Blue",
+     "start": 64.64,
+     "end": 64.78
+    },
+    {
+     "w": "Box,",
+     "start": 64.78,
+     "end": 64.92
+    },
+    {
+     "w": "c'est",
+     "start": 64.92,
+     "end": 65.14
+    },
+    {
+     "w": "Hina.",
+     "start": 65.14,
+     "end": 65.54
+    },
+    {
+     "w": "Et",
+     "start": 66.04,
+     "end": 66.1
+    },
+    {
+     "w": "franchement",
+     "start": 66.1,
+     "end": 66.46
+    },
+    {
+     "w": "c'est",
+     "start": 66.46,
+     "end": 66.66
+    },
+    {
+     "w": "elle",
+     "start": 66.66,
+     "end": 66.82
+    },
+    {
+     "w": "que",
+     "start": 66.82,
+     "end": 66.94
+    },
+    {
+     "w": "je",
+     "start": 66.94,
+     "end": 67.04
+    },
+    {
+     "w": "préfère,",
+     "start": 67.04,
+     "end": 67.4
+    },
+    {
+     "w": "de",
+     "start": 67.56,
+     "end": 67.64
+    },
+    {
+     "w": "loin.",
+     "start": 67.64,
+     "end": 67.8
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 67.9,
+   "end": 73.84,
+   "slot_end": 74.191,
+   "text": "Et bonne nouvelle, la saison 2 a commencé en octobre sur Netflix. Le moment parfait pour rattraper la saison 1.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 67.9,
+     "end": 68.0
+    },
+    {
+     "w": "bonne",
+     "start": 68.0,
+     "end": 68.16
+    },
+    {
+     "w": "nouvelle,",
+     "start": 68.16,
+     "end": 68.4
+    },
+    {
+     "w": "la",
+     "start": 68.66,
+     "end": 68.71
+    },
+    {
+     "w": "saison",
+     "start": 68.68,
+     "end": 69.0
+    },
+    {
+     "w": "2",
+     "start": 69.0,
+     "end": 69.16
+    },
+    {
+     "w": "a",
+     "start": 69.16,
+     "end": 69.3
+    },
+    {
+     "w": "commencé",
+     "start": 69.3,
+     "end": 69.56
+    },
+    {
+     "w": "en",
+     "start": 69.56,
+     "end": 69.94
+    },
+    {
+     "w": "octobre",
+     "start": 69.94,
+     "end": 70.4
+    },
+    {
+     "w": "sur",
+     "start": 70.4,
+     "end": 70.56
+    },
+    {
+     "w": "Netflix.",
+     "start": 70.56,
+     "end": 70.88
+    },
+    {
+     "w": "Le",
+     "start": 71.64,
+     "end": 71.84
+    },
+    {
+     "w": "moment",
+     "start": 71.84,
+     "end": 72.04
+    },
+    {
+     "w": "parfait",
+     "start": 72.04,
+     "end": 72.46
+    },
+    {
+     "w": "pour",
+     "start": 72.46,
+     "end": 72.74
+    },
+    {
+     "w": "rattraper",
+     "start": 72.74,
+     "end": 73.14
+    },
+    {
+     "w": "la",
+     "start": 73.14,
+     "end": 73.3
+    },
+    {
+     "w": "saison",
+     "start": 73.3,
+     "end": 73.6
+    },
+    {
+     "w": "1.",
+     "start": 73.6,
+     "end": 73.84
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 74.22,
+   "end": 79.34,
+   "slot_end": 79.423,
+   "text": "Alors dis-moi en com', t'es team Chinatsu ou team Hina ? Moi j'ai choisi mon camp, et je vais me faire des ennemis.",
+   "words": [
+    {
+     "w": "Alors",
+     "start": 74.22,
+     "end": 74.3
+    },
+    {
+     "w": "dis-moi",
+     "start": 74.3,
+     "end": 74.46
+    },
+    {
+     "w": "en",
+     "start": 74.46,
+     "end": 74.58
+    },
+    {
+     "w": "com',",
+     "start": 74.58,
+     "end": 74.74
+    },
+    {
+     "w": "t'es",
+     "start": 75.02,
+     "end": 75.1
+    },
+    {
+     "w": "team",
+     "start": 75.1,
+     "end": 75.32
+    },
+    {
+     "w": "Chinatsu",
+     "start": 75.32,
+     "end": 75.78
+    },
+    {
+     "w": "ou",
+     "start": 75.78,
+     "end": 75.98
+    },
+    {
+     "w": "team",
+     "start": 75.98,
+     "end": 76.147
+    },
+    {
+     "w": "Hina",
+     "start": 76.147,
+     "end": 76.313
+    },
+    {
+     "w": "?",
+     "start": 76.313,
+     "end": 76.48
+    },
+    {
+     "w": "Moi",
+     "start": 77.06,
+     "end": 77.18
+    },
+    {
+     "w": "j'ai",
+     "start": 77.18,
+     "end": 77.32
+    },
+    {
+     "w": "choisi",
+     "start": 77.32,
+     "end": 77.64
+    },
+    {
+     "w": "mon",
+     "start": 77.64,
+     "end": 77.82
+    },
+    {
+     "w": "camp,",
+     "start": 77.82,
+     "end": 78.04
+    },
+    {
+     "w": "et",
+     "start": 78.04,
+     "end": 78.46
+    },
+    {
+     "w": "je",
+     "start": 78.46,
+     "end": 78.56
+    },
+    {
+     "w": "vais",
+     "start": 78.56,
+     "end": 78.64
+    },
+    {
+     "w": "me",
+     "start": 78.64,
+     "end": 78.74
+    },
+    {
+     "w": "faire",
+     "start": 78.74,
+     "end": 78.9
+    },
+    {
+     "w": "des",
+     "start": 78.9,
+     "end": 79.06
+    },
+    {
+     "w": "ennemis.",
+     "start": 79.06,
+     "end": 79.34
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 79.42,
+   "end": 81.52,
+   "slot_end": 82.374,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 79.42,
+     "end": 79.64
+    },
+    {
+     "w": "Asura.",
+     "start": 79.64,
+     "end": 80.08
+    },
+    {
+     "w": "On",
+     "start": 80.3,
+     "end": 80.4
+    },
+    {
+     "w": "se",
+     "start": 80.4,
+     "end": 80.54
+    },
+    {
+     "w": "capte",
+     "start": 80.54,
+     "end": 80.8
+    },
+    {
+     "w": "au",
+     "start": 80.8,
+     "end": 80.88
+    },
+    {
+     "w": "prochain",
+     "start": 80.88,
+     "end": 81.08
+    },
+    {
+     "w": "épisode.",
+     "start": 81.08,
+     "end": 81.52
+    }
+   ]
+  }
+ ],
+ "aligned": 0.997
+}
