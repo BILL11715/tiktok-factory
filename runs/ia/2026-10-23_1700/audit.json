@@ -1,0 +1,55 @@
+{
+ "stamp": "2026-10-23_1700",
+ "duration": 82.1,
+ "lead": 0.6,
+ "cps": 24.6,
+ "accuracy": 0.939,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "chez",
+   "entendu": "j ai"
+  },
+  {
+   "dit": "toulouse",
+   "entendu": "tous les os"
+  },
+  {
+   "dit": "ne",
+   "entendu": "n est"
+  },
+  {
+   "dit": "s e o radiusse",
+   "entendu": "seo radius"
+  },
+  {
+   "dit": "l outil",
+   "entendu": "bloutier"
+  },
+  {
+   "dit": "opportunite estime",
+   "entendu": "opportunites estimees"
+  },
+  {
+   "dit": "deux pieges",
+   "entendu": "le piege"
+  },
+  {
+   "dit": "sois",
+   "entendu": "soit"
+  },
+  {
+   "dit": "la porte",
+   "entendu": "l apport"
+  },
+  {
+   "dit": "entree",
+   "entendu": "entrer"
+  },
+  {
+   "dit": "ouvre",
+   "entendu": "offre"
+  }
+ ],
+ "alerts": []
+}

@@ -1,0 +1,229 @@
+{
+ "title": "Fiche Google sans description",
+ "theme": "seo",
+ "pillar": "seo-radius",
+ "format": "top",
+ "music": "pote",
+ "cover": {
+  "text": "Fiche Google vide, client trouvé",
+  "highlight": [
+   "vide"
+  ],
+  "emoji": "📝",
+  "sub": "les 3 idées de Google"
+ },
+ "hook_text": "Une fiche Google sans description, c'est un client qui t'attend.",
+ "segments": [
+  {
+   "text": "Une fiche Google sans description, c'est un client qui t'attend.",
+   "emphasis": [
+    "description"
+   ]
+  },
+  {
+   "text": "Sur Google, chaque fiche peut afficher un petit texte, écrit par l'entreprise elle-même. Chez beaucoup d'artisans, il est vide.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Sur la fiche Google",
+    "text": "Fournie par l'établissement",
+    "highlight": [
+     "établissement"
+    ],
+    "sub": "souvent vide"
+   }
+  },
+  {
+   "text": "Imagine un électricien à Toulouse. Le client hésite entre trois noms, et celui qui ne dit rien est vite oublié.",
+   "visual": {
+    "kind": "search",
+    "query": "électricien Toulouse",
+    "results": [
+     {
+      "name": "Élec Garonne",
+      "note": "description complète",
+      "rating": "4,7"
+     },
+     {
+      "name": "Martin Électricité",
+      "note": "aucune description",
+      "rating": "4,5"
+     },
+     {
+      "name": "Volt Services",
+      "note": "description complète",
+      "rating": "4,4"
+     }
+    ],
+    "pick": 1
+   }
+  },
+  {
+   "text": "Pour les retrouver vite, j'utilise SEO Radius.",
+   "visual": {
+    "kind": "card",
+    "emoji": "🔎",
+    "owner": "seoradius.fr",
+    "name": "SEO Radius",
+    "desc": "Trouver des prospects SEO locaux",
+    "tags": [
+     "prospection",
+     "SEO local"
+    ],
+    "price": "Découverte gratuit",
+    "url": "seoradius.fr"
+   }
+  },
+  {
+   "text": "Ensuite, tu choisis un métier, puis une grande ville. L'outil écarte les annuaires, puis classe les entreprises avec un score d'opportunité estimé.",
+   "visual": {
+    "kind": "list",
+    "title": "Dans SEO Radius",
+    "items": [
+     "Un métier, une ville",
+     "Annuaires écartés",
+     "Score estimé sur 100"
+    ],
+    "at": [
+     "métier",
+     "annuaires",
+     "score"
+    ]
+   }
+  },
+  {
+   "text": "Note les fiches sans description, puis réserve chacune, de 7 à 30 jours selon le plan.",
+   "visual": {
+    "kind": "stat",
+    "value": 30,
+    "suffix": " jours",
+    "label": "réservation exclusive, selon le plan",
+    "source": "seoradius.fr"
+   }
+  },
+  {
+   "text": "Au premier contact, un seul constat. « J'ai vu que la description de votre fiche Google est vide. On l'écrit ensemble en dix minutes ? »",
+   "visual": {
+    "kind": "title",
+    "kicker": "Premier message",
+    "text": "Un seul constat",
+    "highlight": [
+     "seul"
+    ],
+    "sub": "et une question"
+   }
+  },
+  {
+   "text": "Pour le texte, l'aide officielle de Google donne trois idées : ce que tu proposes, ce qui te distingue, et depuis combien de temps tu exerces.",
+   "visual": {
+    "kind": "list",
+    "title": "Les 3 idées de Google",
+    "items": [
+     "Ce que tu proposes",
+     "Ce qui te distingue",
+     "Depuis combien de temps"
+    ],
+    "at": [
+     "proposes",
+     "distingue",
+     "combien"
+    ]
+   },
+   "sfx": true
+  },
+  {
+   "text": "Pour gagner du temps, demande un premier brouillon à Claude. Ensuite, corrige-le avec l'artisan, avec ses mots.",
+   "visual": {
+    "kind": "chat",
+    "name": "Claude",
+    "user": "Écris la description de la fiche Google d'un électricien à Toulouse : dépannage, rénovation, vingt ans de métier.",
+    "assistant": "Électricien à Toulouse depuis vingt ans, nous intervenons pour vos dépannages et vos rénovations, chez les particuliers comme chez les pros. Travail propre, devis clair, et un vrai interlocuteur au téléphone."
+   }
+  },
+  {
+   "text": "Attention, deux pièges. Aucun lien dans le texte, Google l'interdit. Et pas de promo ni de prix : la description parle de l'entreprise.",
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "À mettre",
+     "items": [
+      "Services proposés",
+      "Ce qui distingue",
+      "Années de métier"
+     ]
+    },
+    "right": {
+     "title": "À éviter",
+     "items": [
+      "Liens",
+      "Promos",
+      "Prix"
+     ]
+    }
+   }
+  },
+  {
+   "text": "Le texte doit tenir en 750 caractères. Environ cinq phrases, ça suffit.",
+   "visual": {
+    "kind": "stat",
+    "value": 750,
+    "suffix": " caractères",
+    "label": "longueur maximale de la description",
+    "source": "Aide Google"
+   },
+   "stamp": "750"
+  },
+  {
+   "text": "Google vérifie chaque modification avant de l'afficher, donc laisse-lui un peu de temps."
+  },
+  {
+   "text": "Et sois honnête : une description ne garantit pas la première place. Mieux vaut promettre une fiche claire, qui donne envie d'appeler.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Honnête",
+    "text": "Pas de première place garantie",
+    "highlight": [
+     "garantie"
+    ],
+    "sub": "une fiche claire, oui"
+   }
+  },
+  {
+   "text": "C'est la porte d'entrée vers le reste : les photos, les avis, les horaires. Une petite mission, et il te confie la suite.",
+   "visual": {
+    "kind": "list",
+    "title": "Après la description",
+    "items": [
+     "Les photos",
+     "Les avis",
+     "Les horaires"
+    ],
+    "at": [
+     "photos",
+     "avis",
+     "horaires"
+    ]
+   },
+   "sfx": true
+  },
+  {
+   "text": "Ce soir, ouvre trois fiches de ton métier préféré. Combien n'ont aucune description ? Dis-moi ce que tu trouves en commentaire !",
+   "visual": {
+    "kind": "title",
+    "kicker": "Ce soir",
+    "text": "Ouvre 3 fiches",
+    "highlight": [
+     "3"
+    ],
+    "sub": "et compte les fiches vides"
+   }
+  }
+ ],
+ "caption": "Une fiche Google sans description, c'est une porte d'entrée pour décrocher un client 📝 (outil en bio)",
+ "hashtags": [
+  "#seo",
+  "#seolocal",
+  "#freelance",
+  "#prospection",
+  "#googlemaps"
+ ]
+}
