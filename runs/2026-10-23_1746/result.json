@@ -1,0 +1,237 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-23_1746/video.mp4",
+ "duration": 82.374,
+ "shots": 44,
+ "sources": [
+  "https://anilist.co/anime/189123",
+  "https://kitsu.io/anime/ao-no-hako-2"
+ ],
+ "plan": [
+  {
+   "character": null,
+   "fx": "hook",
+   "start": 0.0
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 1.48
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 2.96
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 4.75
+  },
+  {
+   "character": "Taiki",
+   "fx": null,
+   "start": 6.54
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 8.573333333333334
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 10.606666666666667
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 12.64
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 14.010000000000002
+  },
+  {
+   "character": "Chinatsu Kano",
+   "fx": null,
+   "start": 15.38
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 17.04
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 18.7
+  },
+  {
+   "character": null,
+   "fx": "punch",
+   "start": 20.36
+  },
+  {
+   "character": "Chinatsu Kano",
+   "fx": null,
+   "start": 22.32
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 25.09
+  },
+  {
+   "character": "Taiki Inomata",
+   "fx": null,
+   "start": 27.86
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 29.786666666666665
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 31.713333333333335
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 33.64
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 35.71
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 37.78
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 40.413333333333334
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 43.04666666666667
+  },
+  {
+   "character": "Taiki Inomata",
+   "fx": null,
+   "start": 45.68
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 47.9
+  },
+  {
+   "character": "Hina",
+   "fx": null,
+   "start": 50.12
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 52.233333333333334
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 54.346666666666664
+  },
+  {
+   "character": null,
+   "fx": "punch",
+   "start": 56.46
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 58.31333333333333
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 60.16666666666667
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 62.02
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 63.56
+  },
+  {
+   "character": "Hina Chouno",
+   "fx": null,
+   "start": 65.1
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 66.5
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 67.9
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 70.00666666666667
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 72.11333333333333
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 74.22
+  },
+  {
+   "character": "Chinatsu Kano",
+   "fx": null,
+   "start": 75.27999999999999
+  },
+  {
+   "character": "Hina Chouno",
+   "fx": null,
+   "start": 76.107
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 77.7435
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 79.38
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 80.877
+  }
+ ],
+ "engine": "ffmpeg (secours)",
+ "voice_engine": "fish",
+ "repo_path": "videos/2026/10/2026-10-23_1746.mp4",
+ "raw_url": "https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/videos/2026/10/2026-10-23_1746.mp4",
+ "lint": [],
+ "render_seconds": 620.9
+}

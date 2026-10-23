@@ -1,0 +1,156 @@
+{
+ "title": "Blue Box : l'histoire de Taiki, Chinatsu et Hina avant la saison 2",
+ "format": "storytelling",
+ "tone": "conteur",
+ "music": "triste",
+ "animes": [
+  "Blue Box Season 2"
+ ],
+ "media": {
+  "Blue Box Season 2": "anime"
+ },
+ "cover": {
+  "text": "Il vit avec son crush",
+  "highlight": [
+   "crush"
+  ],
+  "emoji": "💙",
+  "sub": "en secret"
+ },
+ "hook_text": "Il dort sous le même toit que son crush, et c'est un secret",
+ "spoiler": false,
+ "segments": [
+  {
+   "text": "Il dort sous le même toit que son crush, et c'est un secret.",
+   "sfx": true,
+   "emphasis": [
+    "secret"
+   ],
+   "scene": "a shy boy and a girl standing awkwardly in the hallway of a house"
+  },
+  {
+   "text": "[whispering] Reste jusqu'au bout, parce que la vraie victime de cette histoire, c'est pas du tout lui.",
+   "emphasis": [
+    "victime"
+   ],
+   "scene": "a girl looking sadly from a distance at a boy and another girl"
+  },
+  {
+   "text": "Lui, c'est Taiki. Première année au lycée Eimei, joueur de badminton, et il se lève tous les jours à l'aube pour aller au gymnase.",
+   "emphasis": [
+    "badminton"
+   ],
+   "scene": "a boy practicing badminton alone in a school gym in the early morning",
+   "shots": [
+    {
+     "anime": "Blue Box Season 2",
+     "kind": "character",
+     "character": "Taiki",
+     "at": "Taiki"
+    }
+   ]
+  },
+  {
+   "text": "Pourquoi aussi tôt ? Parce que dans ce gymnase, y'a Chinatsu. Un an de plus que lui, la star du basket, et elle est là chaque matin.",
+   "emphasis": [
+    "Chinatsu"
+   ],
+   "scene": "a girl with short dark hair shooting a basketball in an empty gym"
+  },
+  {
+   "text": "Et un jour, tout dérape. Les parents de Chinatsu partent vivre à l'étranger pour le boulot, elle veut pas lâcher le basket, et devine chez qui elle atterrit.",
+   "sfx": true,
+   "emphasis": [
+    "étranger"
+   ],
+   "scene": "a girl arriving at a house with a suitcase"
+  },
+  {
+   "text": "[surprised] Chez Taiki. Leurs mères sont amies. Du jour au lendemain, il partage sa maison avec la fille qu'il admire en secret.",
+   "emphasis": [
+    "Taiki"
+   ],
+   "stamp": "COLOC",
+   "scene": "a boy and a girl eating breakfast together at the same table, embarrassed"
+  },
+  {
+   "text": "Si t'aimes quand je te raconte un anime comme ça, abonne-toi, j'en raconte un nouveau tous les jours.",
+   "cta": true
+  },
+  {
+   "text": "Sauf que voilà. Ils se font une promesse tous les deux : aller aux championnats nationaux, l'Inter-High. Lui au badminton, elle au basket.",
+   "emphasis": [
+    "promesse"
+   ],
+   "scene": "two teenagers making a promise under a bright blue sky",
+   "shots": [
+    {
+     "kind": "wide"
+    }
+   ]
+  },
+  {
+   "text": "Et pendant que Taiki se tue à l'entraînement pour être à sa hauteur, y'a quelqu'un qui le regarde depuis le début.",
+   "emphasis": [
+    "regarde"
+   ],
+   "scene": "a boy exhausted and sweating after an intense badminton match"
+  },
+  {
+   "text": "[sad] Hina, gymnaste, sa pote depuis le collège. Elle voit tout, les regards, les matins au gymnase, et elle comprend avant lui.",
+   "grade": "bw",
+   "emphasis": [
+    "Hina"
+   ],
+   "scene": "a girl gymnast with a ribbon looking sad and lonely",
+   "shots": [
+    {
+     "anime": "Blue Box Season 2",
+     "kind": "character",
+     "character": "Hina",
+     "at": "Hina"
+    }
+   ]
+  },
+  {
+   "text": "Et le pire, c'est qu'elle finit par se déclarer, en sachant très bien qu'il en aime une autre. J'te jure, cette scène m'a détruit.",
+   "grade": "bw",
+   "sfx": true,
+   "emphasis": [
+    "déclarer"
+   ],
+   "scene": "a girl confessing her feelings to a boy with teary eyes"
+  },
+  {
+   "text": "Voilà la réponse que je t'avais promise. La vraie victime de Blue Box, c'est Hina. Et franchement c'est elle que je préfère, de loin.",
+   "stamp": "SOUS-COTÉE",
+   "emphasis": [
+    "Hina"
+   ],
+   "scene": "a girl smiling bravely while holding back tears"
+  },
+  {
+   "text": "[excited] Et bonne nouvelle, la saison 2 a commencé en octobre sur Netflix. Le moment parfait pour rattraper la saison 1.",
+   "emphasis": [
+    "saison 2"
+   ],
+   "scene": "a boy and a girl sitting side by side on a train at sunset"
+  },
+  {
+   "text": "Alors dis-moi en com', t'es team Chinatsu ou team Hina ? Moi j'ai choisi mon camp, et je vais me faire des ennemis.",
+   "emphasis": [
+    "team"
+   ],
+   "scene": "two girls standing back to back in a school courtyard"
+  }
+ ],
+ "caption": "Elle a tout compris avant lui, et personne n'en parle 💙 t'es team Chinatsu ou team Hina ?",
+ "hashtags": [
+  "#anime",
+  "#manga",
+  "#animefr",
+  "#bluebox",
+  "#aonohako",
+  "#storytelling"
+ ]
+}
