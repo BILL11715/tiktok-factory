@@ -1,0 +1,77 @@
+{
+ "stamp": "2026-10-23_2200",
+ "duration": 82.0,
+ "lead": 0.6,
+ "cps": 25.0,
+ "accuracy": 0.92,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "deviner",
+   "entendu": "devinez"
+  },
+  {
+   "dit": "la cnil",
+   "entendu": "l acnil"
+  },
+  {
+   "dit": "freelances",
+   "entendu": "freelance"
+  },
+  {
+   "dit": "cnil",
+   "entendu": "cn"
+  },
+  {
+   "dit": "mythe",
+   "entendu": "mi"
+  },
+  {
+   "dit": "une",
+   "entendu": "l"
+  },
+  {
+   "dit": "arobase",
+   "entendu": "a robase"
+  },
+  {
+   "dit": "s e o radiusse",
+   "entendu": "seo radu"
+  },
+  {
+   "dit": "reserves ils",
+   "entendu": "reserve il"
+  },
+  {
+   "dit": "cnil",
+   "entendu": "clinique"
+  },
+  {
+   "dit": "devinee",
+   "entendu": "de viner"
+  },
+  {
+   "dit": "je ne suis pas",
+   "entendu": "une super"
+  },
+  {
+   "dit": "ecris",
+   "entendu": "ecrives"
+  },
+  {
+   "dit": "arobase",
+   "entendu": "a robase"
+  },
+  {
+   "dit": "prenom",
+   "entendu": "crenon"
+  },
+  {
+   "dit": "gerant",
+   "entendu": "geant"
+  }
+ ],
+ "alerts": [
+  "prononciation 92% des mots compris (min 93%)"
+ ]
+}

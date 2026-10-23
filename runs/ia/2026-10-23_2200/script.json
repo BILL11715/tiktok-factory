@@ -1,0 +1,207 @@
+{
+ "title": "Deviner le mail d'un prospect : ce que dit la CNIL",
+ "theme": "seo",
+ "pillar": "seo-radius",
+ "format": "mythe",
+ "music": "pote",
+ "cover": {
+  "text": "Deviner son mail, c'est légal ?",
+  "highlight": [
+   "légal"
+  ],
+  "emoji": "📧",
+  "sub": "la CNIL a tranché"
+ },
+ "hook_text": "Deviner l'adresse mail d'un artisan pour le prospecter ? La CNIL vient de trancher.",
+ "segments": [
+  {
+   "text": "Deviner l'adresse mail d'un artisan pour le prospecter ? La CNIL vient de trancher.",
+   "emphasis": [
+    "CNIL"
+   ]
+  },
+  {
+   "text": "Beaucoup de freelances font pareil. Ils trouvent le prénom du gérant, et ils écrivent prénom, point, nom, arobase, le site.",
+   "emphasis": [
+    "prénom"
+   ],
+   "visual": {
+    "kind": "code",
+    "file": "adresse-devinee.txt",
+    "code": "marc.martin@garage-martin.fr\nm.martin@garage-martin.fr\nmarc@garage-martin.fr",
+    "highlight": [
+     1
+    ]
+   }
+  },
+  {
+   "text": "Le 16 octobre, la CNIL a publié une page claire sur cette pratique. Le mythe ? Si une adresse se devine, tout est permis.",
+   "visual": {
+    "kind": "card",
+    "emoji": "🏛️",
+    "owner": "CNIL",
+    "name": "Adresses pro reconstituées",
+    "desc": "Dans quel cadre est-ce autorisé ?",
+    "tags": [
+     "16 oct. 2026",
+     "RGPD"
+    ],
+    "url": "cnil.fr"
+   }
+  },
+  {
+   "text": "La réalité est plus fine. C'est possible, mais au cas par cas. Il faut un vrai intérêt à contacter cette personne.",
+   "stamp": "cas par cas",
+   "sfx": true,
+   "visual": {
+    "kind": "title",
+    "kicker": "La réalité",
+    "text": "Possible, au cas par cas",
+    "highlight": [
+     "cas"
+    ],
+    "sub": "avec un vrai intérêt"
+   }
+  },
+  {
+   "text": "Autre point : la personne doit pouvoir s'attendre à ton message. Un gérant visible en ligne, oui. Quelqu'un qui cache ses coordonnées, non.",
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "Plutôt oui",
+     "items": [
+      "Gérant visible en ligne",
+      "Son nom sur le site"
+     ]
+    },
+    "right": {
+     "title": "Plutôt non",
+     "items": [
+      "Coordonnées cachées",
+      "Aucune trace en ligne"
+     ]
+    }
+   }
+  },
+  {
+   "text": "Et s'il dit non, il sort de ta liste tout de suite. Sans discuter, et sans lui demander pourquoi.",
+   "visual": {
+    "kind": "title",
+    "kicker": "S'il refuse",
+    "text": "Retiré tout de suite",
+    "highlight": [
+     "tout"
+    ],
+    "sub": "sans justification"
+   }
+  },
+  {
+   "text": "Pour un artisan, la règle de base reste simple. Le message parle de son métier, et il donne clairement ton nom.",
+   "visual": {
+    "kind": "list",
+    "title": "Chaque mail",
+    "items": [
+     "Parle de son métier",
+     "Donne ton nom",
+     "Permet de refuser"
+    ],
+    "at": [
+     "métier",
+     "nom",
+     "refuser"
+    ]
+   }
+  },
+  {
+   "text": "Il faut aussi lui permettre de refuser la suite, simplement et gratuitement."
+  },
+  {
+   "text": "Alors, la méthode propre. D'abord, cherche l'adresse affichée sur son site ou sur sa fiche Google. Chez les artisans, c'est souvent contact arobase.",
+   "visual": {
+    "kind": "search",
+    "query": "garage Nantes",
+    "results": [
+     {
+      "name": "Garage Martin",
+      "note": "contact@ sur le site",
+      "rating": "4,6"
+     },
+     {
+      "name": "Auto Service 44",
+      "note": "mail sur la fiche",
+      "rating": "4,2"
+     }
+    ],
+    "pick": 0
+   }
+  },
+  {
+   "text": "Pour trouver les bons artisans, j'utilise SEO Radius. Ensuite, l'outil analyse jusqu'à 50 résultats Google, sans les annuaires.",
+   "visual": {
+    "kind": "stat",
+    "value": 50,
+    "suffix": "",
+    "label": "résultats Google analysés",
+    "source": "SEO Radius, annuaires écartés"
+   }
+  },
+  {
+   "text": "Le score d'opportunité est une estimation. Il t'aide à garder ceux qui peuvent vraiment monter. Une fois réservés, ils disparaissent des listes des autres.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Score estimé",
+    "text": "Réservé, invisible pour les autres",
+    "highlight": [
+     "invisible"
+    ],
+    "sub": "7 à 30 jours selon le plan"
+   }
+  },
+  {
+   "text": "Pour le premier mail, un seul constat sur sa fiche, ton nom, et une phrase pour dire non merci.",
+   "visual": {
+    "kind": "chat",
+    "name": "Premier mail",
+    "user": "Écris un mail court pour un garage dont la fiche Google n'a aucune photo.",
+    "assistant": "Bonjour Marc, je suis Léa, consultante en référencement local à Nantes. Votre fiche Google n'a encore aucune photo, alors que vos concurrents en ont. On en parle 10 minutes ? Si vous ne souhaitez plus de message de ma part, répondez simplement stop."
+   }
+  },
+  {
+   "text": "Dernier conseil de la CNIL. Une adresse devinée ne se garde que si tu as vraiment pris contact, dans un délai raisonnable.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Conseil CNIL",
+    "text": "Pas de fichier qui dort",
+    "highlight": [
+     "dort"
+    ],
+    "sub": "contact réel, délai raisonnable"
+   }
+  },
+  {
+   "text": "Je ne suis pas juriste. Pour un cas précis, demande à un pro. Et toi, tu écris plutôt à contact arobase, ou au prénom du gérant ?",
+   "visual": {
+    "kind": "list",
+    "title": "La méthode propre",
+    "items": [
+     "Adresse affichée d'abord",
+     "Un seul constat",
+     "Une phrase pour refuser"
+    ],
+    "at": [
+     "pro",
+     "contact",
+     "gérant"
+    ]
+   }
+  }
+ ],
+ "caption": "Deviner l'adresse mail d'un prospect : la CNIL vient de préciser les règles 📧 Source : cnil.fr/fr/reconstitution-adresses-professionnelles-quel-cadre (outil lien en bio)",
+ "hashtags": [
+  "#seo",
+  "#prospection",
+  "#freelance",
+  "#rgpd",
+  "#seolocal"
+ ]
+}
