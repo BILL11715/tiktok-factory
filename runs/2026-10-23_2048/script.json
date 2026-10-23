@@ -1,0 +1,132 @@
+{
+ "title": "Top 5 des persos les plus cheatés de Black Clover",
+ "format": "top",
+ "tone": "hype",
+ "music": "hype2",
+ "animes": [
+  "Black Clover Season 2"
+ ],
+ "media": {
+  "Black Clover Season 2": "anime"
+ },
+ "cover": {
+  "text": "Le plus cheaté de Black Clover",
+  "highlight": [
+   "cheaté"
+  ],
+  "emoji": "😱",
+  "sub": "top 5 saison 2"
+ },
+ "hook_text": "Le perso le plus cheaté de Black Clover n'a aucune magie",
+ "spoiler": false,
+ "segments": [
+  {
+   "text": "Le perso le plus cheaté de Black Clover n'a aucune magie.",
+   "sfx": true,
+   "emphasis": [
+    "cheaté"
+   ],
+   "scene": "a short muscular boy with a huge black sword screaming in battle"
+  },
+  {
+   "text": "[whispering] Reste jusqu'au numéro 1, parce que le Roi Sorcier n'est même pas dans mon top.",
+   "scene": "a cloaked mage floating above a medieval magic kingdom at sunset",
+   "shots": [
+    {
+     "kind": "wide"
+    }
+   ]
+  },
+  {
+   "text": "Numéro 5, Noelle. Au début c'est la princesse qui rate tous ses sorts d'eau, genre elle arrose ses potes au lieu de l'ennemi.",
+   "overlay": "#5",
+   "emphasis": [
+    "Noelle"
+   ],
+   "scene": "a silver haired girl losing control of a big water spell"
+  },
+  {
+   "text": "Sauf qu'une fois qu'elle maîtrise son mana, elle sort l'armure de Valkyrie. Le glow up le plus propre de la série, j'te jure.",
+   "emphasis": [
+    "Valkyrie"
+   ],
+   "scene": "a girl in shining water armor with a spear flying into battle"
+  },
+  {
+   "text": "Numéro 4, Mereoleona. La grande sœur de Fuegoleon, elle a pris sa place de capitaine des Lions Flamboyants pendant qu'il était dans le coma.",
+   "overlay": "#4",
+   "emphasis": [
+    "Mereoleona"
+   ],
+   "scene": "a wild red haired woman surrounded by roaring flames"
+  },
+  {
+   "text": "[laughing] Son entraînement, c'est survivre au pied d'un volcan. Elle frappe avec des bras de feu géants, zéro stratégie, que de la rage.",
+   "stamp": "SOUS-COTÉE",
+   "scene": "giant arms of fire smashing an enemy into the ground"
+  },
+  {
+   "text": "Si t'aimes les classements comme ça, abonne-toi, j'en sors tous les jours et le top 1 arrive juste après.",
+   "cta": true
+  },
+  {
+   "text": "Numéro 3, Yuno. Le rival d'Asta depuis l'orphelinat, grimoire à quatre feuilles et un esprit du vent collé à lui.",
+   "overlay": "#3",
+   "emphasis": [
+    "Yuno"
+   ],
+   "scene": "a black haired boy controlling a storm of wind with a tiny fairy"
+  },
+  {
+   "text": "Même Bell, la petite fée qui râle tout le temps, finit par lui filer tout son pouvoir. Et là il devient intouchable.",
+   "scene": "a boy with glowing wings blasting enemies away with wind"
+  },
+  {
+   "text": "[excited] Numéro 2, Yami, le capitaine des Black Bulls. Le mec coupe carrément l'espace avec son katana, son attaque s'appelle Dimension Slash.",
+   "overlay": "#2",
+   "sfx": true,
+   "emphasis": [
+    "Yami"
+   ],
+   "scene": "a tall man with a katana slicing through darkness and space"
+  },
+  {
+   "text": "Et le pire, c'est qu'il hurle à ses gars de dépasser leurs limites, ici et maintenant. Et lui le fait avant tout le monde.",
+   "scene": "a smoking captain standing calmly in front of his squad"
+  },
+  {
+   "text": "Et maintenant le numéro 1, celui qui n'a aucune magie, alors que même les gamins de village en ont.",
+   "grade": "bw",
+   "emphasis": [
+    "aucune"
+   ],
+   "scene": "a lonely boy training alone in the rain at night"
+  },
+  {
+   "text": "[excited] Asta. Orphelin, rejeté par tout le monde, et pourtant il sort de son grimoire à cinq feuilles des épées d'anti-magie qui annulent n'importe quel sort.",
+   "overlay": "#1",
+   "sfx": true,
+   "stamp": "CHEATÉ",
+   "emphasis": [
+    "anti-magie"
+   ],
+   "scene": "a boy with black wings and a giant sword cutting through a magic blast"
+  },
+  {
+   "text": "Avec Liebe, le démon caché dans son grimoire, il devient encore plus flippant. Ton top 1 à toi, c'est qui ? Dis-le en com'.",
+   "emphasis": [
+    "Liebe"
+   ],
+   "scene": "a boy with a demon horn and black aura charging forward"
+  }
+ ],
+ "caption": "Le Roi Sorcier n'est même pas dans mon top 😤 c'est qui ton numéro 1 ?",
+ "hashtags": [
+  "#anime",
+  "#manga",
+  "#animefr",
+  "#otakufr",
+  "#blackclover",
+  "#topanime"
+ ]
+}

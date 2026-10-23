@@ -1,0 +1,192 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-23_2048/video.mp4",
+ "duration": 75.564,
+ "shots": 35,
+ "sources": [
+  "https://anilist.co/anime/195604",
+  "https://kitsu.io/anime/Black-Clover-Season-2"
+ ],
+ "plan": [
+  {
+   "character": null,
+   "fx": "hook",
+   "start": 0.0
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 2.5
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 5.16
+  },
+  {
+   "character": "Noelle Silva",
+   "fx": null,
+   "start": 6.02
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 8.32
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 10.62
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 12.666666666666666
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 14.713333333333335
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 16.76
+  },
+  {
+   "character": "Mereoleona Vermillion",
+   "fx": null,
+   "start": 17.6
+  },
+  {
+   "character": "Fuegoleon Vermillion",
+   "fx": null,
+   "start": 19.5
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 21.52
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 23.54
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 25.506666666666668
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 27.473333333333333
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 29.44
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 31.450000000000003
+  },
+  {
+   "character": "Yuno",
+   "fx": null,
+   "start": 33.46
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 36.269999999999996
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 39.08
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 41.78
+  },
+  {
+   "character": "Yami Sukehiro",
+   "fx": "punch",
+   "start": 44.480000000000004
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 46.7
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 48.92
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 51.14
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 53.7
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 56.26
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 58.29
+  },
+  {
+   "character": "Asta",
+   "fx": null,
+   "start": 60.32
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 62.62
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 64.92
+  },
+  {
+   "character": "Liebe",
+   "fx": null,
+   "start": 67.22
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 69.55
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 71.88
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 73.722
+  }
+ ],
+ "engine": "ffmpeg (secours)",
+ "voice_engine": "fish",
+ "repo_path": "videos/2026/10/2026-10-23_2048.mp4",
+ "raw_url": "https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/videos/2026/10/2026-10-23_2048.mp4",
+ "lint": [],
+ "render_seconds": 687.4
+}
