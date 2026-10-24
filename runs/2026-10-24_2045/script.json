@@ -1,0 +1,166 @@
+{
+ "title": "Top 5 des persos les plus cheatés de Dandadan avant la saison 3",
+ "format": "top",
+ "tone": "hype",
+ "music": "hype2",
+ "animes": [
+  "Dandadan 3rd Season"
+ ],
+ "media": {
+  "Dandadan 3rd Season": "anime"
+ },
+ "cover": {
+  "text": "Le perso le plus cheaté de Dandadan",
+  "highlight": [
+   "cheaté"
+  ],
+  "emoji": "👵",
+  "sub": "avant la saison 3"
+ },
+ "hook_text": "Le perso le plus fort de Dandadan, c'est une grand-mère",
+ "spoiler": false,
+ "segments": [
+  {
+   "text": "Le perso le plus fort de Dandadan, c'est une grand-mère. Et non, je parle pas de Turbo Granny.",
+   "sfx": true,
+   "emphasis": [
+    "grand-mère"
+   ],
+   "scene": "an old woman with sunglasses standing calmly in front of a ghost"
+  },
+  {
+   "text": "[whispering] La saison 3 est annoncée, alors on fait le classement avant. Reste jusqu'au numéro 1, il va en vexer plus d'un.",
+   "scene": "a dark haunted tunnel at night with glowing red eyes"
+  },
+  {
+   "text": "Numéro 5, Aira. Tout le monde la prend pour la fille relou qui se croit élue, sauf qu'elle hérite du pouvoir d'Acrobatic Silky.",
+   "overlay": "#5",
+   "emphasis": [
+    "Aira"
+   ],
+   "scene": "a blonde schoolgirl surrounded by long flowing white hair attacking",
+   "shots": [
+    {
+     "anime": "Dandadan 3rd Season",
+     "kind": "character",
+     "character": "Aira",
+     "at": "Aira"
+    }
+   ]
+  },
+  {
+   "text": "Des cheveux qui attaquent tout seuls et une résistance de malade. Elle revient de loin, franchement.",
+   "scene": "long white hair whipping around and slicing through the air"
+  },
+  {
+   "text": "Numéro 4, Okarun justement. Le geek que personne calculait, qui s'est fait voler ses bijoux de famille par un yokai.",
+   "overlay": "#4",
+   "emphasis": [
+    "Okarun"
+   ],
+   "scene": "a skinny boy with glasses running at incredible speed on a highway",
+   "shots": [
+    {
+     "anime": "Dandadan 3rd Season",
+     "kind": "character",
+     "character": "Okarun",
+     "at": "Okarun"
+    }
+   ]
+  },
+  {
+   "text": "[excited] Il attache ses cheveux, il met le masque, et d'un coup il a la vitesse de Turbo Granny. Frr, de victime à monstre en une seconde.",
+   "sfx": true,
+   "emphasis": [
+    "vitesse"
+   ],
+   "scene": "a boy transforms with a mask and spiky hair and dashes forward"
+  },
+  {
+   "text": "Si toi aussi t'attends la saison 3, abonne-toi, je te sors tout ce qu'il faut savoir avant qu'elle tombe.",
+   "cta": true
+  },
+  {
+   "text": "Numéro 3, Momo. Elle a commencé en se moquant des aliens, et elle s'est retrouvée avec des pouvoirs psychiques énormes.",
+   "overlay": "#3",
+   "emphasis": [
+    "Momo"
+   ],
+   "scene": "a girl with long dark hair raising giant glowing spectral hands",
+   "shots": [
+    {
+     "anime": "Dandadan 3rd Season",
+     "kind": "character",
+     "character": "Momo",
+     "at": "Momo"
+    }
+   ]
+  },
+  {
+   "text": "Des mains spectrales géantes qui attrapent des voitures et des aliens. Et elle progresse à chaque arc.",
+   "scene": "giant ghostly hands lifting a car above a city street"
+  },
+  {
+   "text": "Mais attends, parce que le numéro 2 c'est même plus un perso, c'est une catastrophe.",
+   "grade": "bw",
+   "scene": "a creepy boy with a black eye smiling in the dark"
+  },
+  {
+   "text": "[surprised] Numéro 2, Evil Eye. L'esprit d'un gamin sacrifié par son village, qui possède Jiji et qui veut juste jouer. Sauf que jouer, pour lui, c'est tout raser.",
+   "overlay": "#2",
+   "sfx": true,
+   "grade": "bw",
+   "emphasis": [
+    "Evil Eye"
+   ],
+   "scene": "a possessed boy destroying a house with dark energy",
+   "shots": [
+    {
+     "anime": "Dandadan 3rd Season",
+     "kind": "character",
+     "character": "Jiji",
+     "at": "Jiji"
+    }
+   ]
+  },
+  {
+   "text": "Pour moi c'est le méchant le plus flippant de la série, et de loin.",
+   "scene": "two teenagers stepping back in fear from a dark monster"
+  },
+  {
+   "text": "Et le numéro 1, je te l'avais dit, c'est une mamie. Numéro 1, Seiko, la grand-mère de Momo.",
+   "overlay": "#1",
+   "sfx": true,
+   "emphasis": [
+    "Seiko"
+   ],
+   "stamp": "CHEATÉ",
+   "scene": "an old woman with sunglasses and a jacket in a fighting stance",
+   "shots": [
+    {
+     "anime": "Dandadan 3rd Season",
+     "kind": "character",
+     "character": "Seiko",
+     "at": "Seiko"
+    }
+   ]
+  },
+  {
+   "text": "[laughing] Médium, barrières spirituelles, caractère de chien. C'est elle qui a enfermé Turbo Granny dans un chat porte-bonheur. Le yokai le plus rapide, rangé sur une étagère.",
+   "scene": "a small lucky cat figurine sitting on a shelf in a shop"
+  },
+  {
+   "text": "Elle se bat presque jamais, et c'est pour ça qu'elle est première. Quand elle bouge, c'est fini. Et toi, c'est quoi ton top 1 ?",
+   "scene": "an old woman smiling confidently with a glowing barrier behind her"
+  }
+ ],
+ "caption": "La mamie de Momo, personne peut la toucher 👵 c'est quoi ton top 1 ?",
+ "hashtags": [
+  "#anime",
+  "#manga",
+  "#animefr",
+  "#otakufr",
+  "#dandadan",
+  "#topanime"
+ ]
+}

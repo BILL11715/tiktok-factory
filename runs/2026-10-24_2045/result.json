@@ -1,0 +1,212 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-24_2045/video.mp4",
+ "duration": 76.869,
+ "shots": 39,
+ "sources": [
+  "https://anilist.co/anime/198966",
+  "https://kitsu.io/anime/dandadan-3"
+ ],
+ "plan": [
+  {
+   "character": null,
+   "fx": "hook",
+   "start": 0.0
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 1.77
+  },
+  {
+   "character": "Turbo Babaa",
+   "fx": null,
+   "start": 3.54
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 4.4
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 6.573333333333334
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 8.746666666666668
+  },
+  {
+   "character": "Aira",
+   "fx": null,
+   "start": 10.920000000000002
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 13.200000000000001
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 15.48
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 17.9
+  },
+  {
+   "character": "Okarun",
+   "fx": null,
+   "start": 20.32
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 22.53
+  },
+  {
+   "character": null,
+   "fx": "punch",
+   "start": 24.74
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 26.189999999999998
+  },
+  {
+   "character": "Turbo Babaa",
+   "fx": null,
+   "start": 27.64
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 30.4
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 32.51
+  },
+  {
+   "character": "Momo",
+   "fx": null,
+   "start": 34.62
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 36.959999999999994
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 39.3
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 41.349999999999994
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 43.4
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 45.446666666666665
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 47.49333333333333
+  },
+  {
+   "character": "Jiji",
+   "fx": "punch",
+   "start": 49.54
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 51.26
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 52.98
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 55.093333333333334
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 57.20666666666666
+  },
+  {
+   "character": "Seiko",
+   "fx": "punch",
+   "start": 59.32
+  },
+  {
+   "character": "Momo Ayase",
+   "fx": null,
+   "start": 60.56
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 62.36
+  },
+  {
+   "character": "Turbo Babaa",
+   "fx": null,
+   "start": 64.16
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 66.36
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 68.56
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 70.185
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 71.80999999999999
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 73.43499999999999
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 75.15199999999999
+  }
+ ],
+ "engine": "ffmpeg (secours)",
+ "voice_engine": "fish",
+ "repo_path": "videos/2026/10/2026-10-24_2045.mp4",
+ "raw_url": "https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/videos/2026/10/2026-10-24_2045.mp4",
+ "lint": [],
+ "render_seconds": 617.5
+}
