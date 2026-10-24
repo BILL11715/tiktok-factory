@@ -56,6 +56,9 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
   (+ fichier VERSION attendu) : à intégrer dans setup.sh, sinon chaque run neuf échoue à l'étape montage.
 
 ## Journal (1 ligne par revue, la plus récente en haut, 20 lignes maximum)
+- 2026-10-24 (22:00) : sans alerte au 1er rendu (débit 25,1 car./s, prononciation 95 %, 82,1 s pour 1 641 car.) : règles 5, 6 et 7 tenues (aucune phrase ouverte par « Tu »,
+  « SEO Radius » en fin de phrase, mot « mythe » absent de la voix). Sur les 10 derniers audits, débit 24,6 à 25,7 car./s, 5 sans alerte (2 débit à 25,7, 3 prononciation à 88-93 %).
+  « radiusse » et « opportunite » toujours en tête des mots mal compris mais par graphie et pluriel (piste déjà notée). Chrome de Remotion relié à la main (piste déjà notée). Pas de nouvelle règle.
 - 2026-10-24 (17:00) : 1er rendu à 92 % (« Beaucoup » entendu « le gout », « mythe » « nit », « carreleur Rennes » « carleur reine », « Propose » « on pose ») : reformulés, 2e rendu à 90 % avec alerte
   (« Lyon » entendu « Léon », « Bien souvent, il ne sait pas répondre » avalé, « est en page » « empêche »), débit 25,4 car./s, 81,6 s pour 1 642 car. : règle 7 tenue. Sur les 10 derniers audits, 4 sans alerte
   (5 alertes prononciation à 88-93 %). « mythe » 3 fois : règle 5 étendue. Chrome de Remotion relié à la main au Chromium local (piste déjà notée). Doublons d'audit du même stamp retirés à la main.
@@ -118,6 +121,3 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
 - 2026-10-16 (22:00) : 1er rendu à 92 % (« court » mal compris 2 fois : « co repolis », « courant ») : remplacé par « simple »
   et « petit message », 2e rendu à 93 % sans alerte (débit 24,2 car./s, 83,6 s). « SEO Radius. Tu tapes » encore avalé malgré la règle 6 :
   règle précisée (phrase suivante ouverte par un mot plus long). Doublon d'audit du même stamp retiré à la main (piste déjà notée).
-- 2026-10-16 (17:00) : hook « te fait peur » entendu « feper » et « offre » entendu « oeuf » au 1er rendu : reformulés
-  (« Tu as peur d'appeler... », « proposition commerciale »), hook bien entendu au 2e rendu. Prononciation 90 % (débit 25,0 car./s, 90 s).
-  Mots avalés après « SEO Radius » sur 3 vidéos : règle 6 ajoutée. Doublon d'audit du même stamp retiré à la main (piste déjà notée).
