@@ -54,6 +54,9 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
   (+ fichier VERSION attendu) : à intégrer dans setup.sh, sinon chaque run neuf échoue à l'étape montage.
 
 ## Journal (1 ligne par revue, la plus récente en haut, 20 lignes maximum)
+- 2026-10-24 (08:00) : sans alerte au 1er rendu (débit 25,1 car./s, prononciation 94 %, 82,5 s pour 1 630 car. environ) : règle 7 tenue. « PageSpeed Insights » mis au lexique par précaution,
+  bien entendu (« pagespeedinsights »). Sur les 10 derniers audits, 6 sans alerte (3 prononciation à 90-92 %, 1 débit + prononciation le 23/10 19:00). « vérifie » et « garde » comptés 3 fois
+  dans les mots mal compris mais surtout par conjugaison (« vérifiez ») : pas de lexique. Chrome de Remotion relié à la main au Chromium local avant le rendu (piste déjà notée, toujours à intégrer). Pas de nouvelle règle.
 - 2026-10-23 (19:00) : 1er rendu 79,3 s, débit 25,7, prononciation 91 % (« Claude » entendu « cloud » 3 fois, « Publier crée » « public écrit », « Tes colocs » « les colloques ») ;
   phrases coupées, mots reformulés et « Claude » mis au lexique : 2e rendu 78,6 s, débit toujours 25,7, prononciation 88 % (« cloud » 3 fois encore, « appuie », « convaincre »).
   Lexique retiré (sans effet), règle 8 ajoutée. Couper les phrases n'a pas ralenti la voix cette fois (1 636 car.). Sur les 10 derniers audits, 5 sans alerte.
@@ -116,6 +119,3 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
 - 2026-10-14 (19:00) : 1er rendu à 1 590 car. = 100,4 s (hors cible) et « chatbot » entendu « chapeau » 2 fois : chatbot ajouté au
   lexique (« tchatte botte », bien entendu au 2e rendu), texte ramené à 1 523 car. = 89,4 s. Prononciation 91 % : écarts surtout dus à la
   graphie phonétique (piste déjà notée). Sur les 10 derniers audits, débit 23,8 à 25,2 car./s, cible tenue. Pas de nouvelle règle (1 seule vidéo trop longue).
-- 2026-10-14 (12:00) : « IA » mal compris sur 2 vidéos (13/10 « aya par », 14/10 « il y a », « haies ») : ajouté au
-  lexique (« I A »), avec Jan (« djanne ») et Linux (« linuxe »). Au 2e rendu, les trois sont bien entendus, mais la
-  prononciation tombe de 91 % à 89 % car l'audit compare à la graphie phonétique (piste déjà notée). Débit 24,3 car./s.
