@@ -1,0 +1,55 @@
+{
+ "stamp": "2026-10-24_0800",
+ "duration": 82.5,
+ "lead": 0.6,
+ "cps": 25.1,
+ "accuracy": 0.938,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "peidje spide inne saitse",
+   "entendu": "pagespeedinsights"
+  },
+  {
+   "dit": "surtout",
+   "entendu": "sur tout"
+  },
+  {
+   "dit": "imite",
+   "entendu": "timide"
+  },
+  {
+   "dit": "s e o radiusse",
+   "entendu": "seo radu"
+  },
+  {
+   "dit": "opportunite estime",
+   "entendu": "opportunites estimees"
+  },
+  {
+   "dit": "peidje spide",
+   "entendu": "payjspyde"
+  },
+  {
+   "dit": "ceux",
+   "entendu": "ce"
+  },
+  {
+   "dit": "passent",
+   "entendu": "passe"
+  },
+  {
+   "dit": "sa",
+   "entendu": "ca"
+  },
+  {
+   "dit": "verifie",
+   "entendu": "verifiez"
+  },
+  {
+   "dit": "ou",
+   "entendu": "pour"
+  }
+ ],
+ "alerts": []
+}

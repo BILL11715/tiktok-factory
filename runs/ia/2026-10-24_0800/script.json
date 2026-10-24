@@ -1,0 +1,234 @@
+{
+ "title": "Un site lent sur mobile, un client à prendre",
+ "theme": "seo",
+ "pillar": "seo-radius",
+ "format": "methode",
+ "music": "pote",
+ "cover": {
+  "text": "Site lent, client trouvé",
+  "highlight": [
+   "lent"
+  ],
+  "emoji": "🐢",
+  "sub": "le test gratuit de Google"
+ },
+ "hook_text": "Un site d'artisan trop lent sur téléphone ? C'est ton prochain client.",
+ "segments": [
+  {
+   "text": "Un site d'artisan trop lent sur téléphone ? C'est ton prochain client.",
+   "emphasis": [
+    "lent"
+   ]
+  },
+  {
+   "text": "Sur un téléphone, personne n'attend. Si la page reste blanche, le client appelle le suivant.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Sur mobile",
+    "text": "Personne n'attend",
+    "highlight": [
+     "attend"
+    ],
+    "sub": "le client appelle le suivant"
+   }
+  },
+  {
+   "text": "Pour le montrer, Google propose un outil gratuit : PageSpeed Insights. On colle l'adresse du site, et il donne une note sur 100.",
+   "visual": {
+    "kind": "card",
+    "emoji": "⚡",
+    "owner": "Google",
+    "name": "PageSpeed Insights",
+    "desc": "Mesure la vitesse d'une page",
+    "tags": [
+     "gratuit",
+     "mobile",
+     "ordinateur"
+    ],
+    "price": "Gratuit",
+    "url": "pagespeed.web.dev"
+   }
+  },
+  {
+   "text": "D'après la documentation de Google, une note de 90 ou plus, c'est bien. En dessous de 50, c'est jugé mauvais.",
+   "visual": {
+    "kind": "stat",
+    "value": 50,
+    "prefix": "< ",
+    "suffix": "/100",
+    "label": "note jugée mauvaise",
+    "source": "Google, documentation PageSpeed Insights"
+   }
+  },
+  {
+   "text": "Regarde surtout l'onglet mobile. Le test imite un téléphone moyen sur un réseau mobile. C'est souvent là que ça coince.",
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "Ordinateur",
+     "items": [
+      "Connexion filaire",
+      "Écran large"
+     ]
+    },
+    "right": {
+     "title": "Mobile",
+     "items": [
+      "Téléphone moyen",
+      "Réseau mobile"
+     ]
+    }
+   }
+  },
+  {
+   "text": "Maintenant, il te faut des sites à tester. Pour ça, j'utilise SEO Radius.",
+   "visual": {
+    "kind": "search",
+    "query": "plombier Lyon",
+    "results": [
+     {
+      "name": "Lyon Plomberie Express",
+      "note": "page 2",
+      "rating": "4,6"
+     },
+     {
+      "name": "Aqua Services Lyon",
+      "note": "page 1",
+      "rating": "4,2"
+     },
+     {
+      "name": "Martin Plomberie",
+      "note": "page 2",
+      "rating": "4,8"
+     }
+    ],
+    "pick": 0
+   }
+  },
+  {
+   "text": "Ensuite, tu choisis un métier et une ville. L'outil analyse jusqu'à 50 résultats Google, écarte les annuaires, et donne un score d'opportunité estimé.",
+   "visual": {
+    "kind": "list",
+    "title": "Dans SEO Radius",
+    "items": [
+     "Un métier + une ville",
+     "Annuaires écartés",
+     "Score estimé"
+    ],
+    "at": [
+     "métier",
+     "écarte",
+     "score"
+    ]
+   }
+  },
+  {
+   "text": "Ouvre les sites des mieux classés, un par un, dans PageSpeed. Garde ceux qui passent sous 50 sur mobile.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Le tri",
+    "text": "Sous 50 sur mobile",
+    "highlight": [
+     "50"
+    ],
+    "sub": "ce sont tes prospects"
+   }
+  },
+  {
+   "text": "Avant d'écrire, garde le meilleur pour toi. Avec la réservation exclusive, il disparaît des listes des autres pendant 7 à 30 jours, selon le plan.",
+   "visual": {
+    "kind": "stat",
+    "value": 30,
+    "prefix": "7 à ",
+    "suffix": " jours",
+    "label": "réservation exclusive, selon le plan",
+    "source": "seoradius.fr"
+   }
+  },
+  {
+   "text": "Au premier contact, un seul constat. Pas de rapport technique : sa note sur mobile, et une capture d'écran.",
+   "visual": {
+    "kind": "list",
+    "title": "Le premier message",
+    "items": [
+     "Un seul constat",
+     "Sa note mobile",
+     "Une capture d'écran"
+    ],
+    "at": [
+     "constat",
+     "note",
+     "capture"
+    ]
+   }
+  },
+  {
+   "text": "Si tu veux, demande à Claude un premier brouillon. Ensuite, vérifie chaque phrase avant d'envoyer.",
+   "visual": {
+    "kind": "chat",
+    "name": "Claude",
+    "user": "Écris un message court et poli à un plombier : son site a 32/100 sur mobile.",
+    "assistant": "Bonjour, j'ai testé votre site sur téléphone avec l'outil gratuit de Google : 32 sur 100. Vos clients attendent avant de voir votre numéro. Je peux vous montrer ça en dix minutes ?"
+   }
+  },
+  {
+   "text": "Et surtout, ne garantis jamais la première place. Un site plus rapide aide le visiteur à rester, pas à passer devant tout le monde.",
+   "visual": {
+    "kind": "title",
+    "kicker": "À éviter",
+    "text": "Garantir la 1re place",
+    "highlight": [
+     "Garantir"
+    ],
+    "sub": "personne ne peut"
+   },
+   "sfx": true
+  },
+  {
+   "text": "Commence par une petite mission : alléger les images, ou revoir l'accueil sur mobile. Un prix simple, une date de départ.",
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "Grosse refonte",
+     "items": [
+      "Longue",
+      "Chère",
+      "Risquée"
+     ]
+    },
+    "right": {
+     "title": "Petite mission",
+     "items": [
+      "Images allégées",
+      "Prix simple",
+      "Date de départ"
+     ]
+    }
+   }
+  },
+  {
+   "text": "Un mois plus tard, refais le test devant lui. Une note qui monte, c'est ta meilleure preuve.",
+   "stamp": "Preuve",
+   "visual": {
+    "kind": "title",
+    "kicker": "Un mois plus tard",
+    "text": "Refais le test devant lui",
+    "highlight": [
+     "test"
+    ],
+    "sub": "la note qui monte"
+   }
+  },
+  {
+   "text": "Et chez toi, quelle note a le site de ton boulanger ? Dis-moi ce que tu trouves en commentaire."
+  }
+ ],
+ "caption": "Un site d'artisan lent sur mobile, c'est un argument de prospection tout trouvé 🐢 Test gratuit de Google : https://pagespeed.web.dev (SEO Radius : lien en bio)",
+ "hashtags": [
+  "#seo",
+  "#seolocal",
+  "#freelance",
+  "#prospection",
+  "#pagespeed"
+ ]
+}
