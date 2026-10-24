@@ -1,0 +1,206 @@
+{
+ "title": "Claude Slides : ta présentation, même en gratuit",
+ "theme": "ia",
+ "pillar": "ia",
+ "format": "methode",
+ "music": "pote",
+ "cover": {
+  "text": "Ta présentation sans galérer",
+  "highlight": [
+   "présentation"
+  ],
+  "emoji": "📊",
+  "sub": "gratuit depuis le 8 octobre"
+ },
+ "hook_text": "Une présentation pour lundi ? L'IA la prépare pour toi, même en gratuit.",
+ "segments": [
+  {
+   "text": "Une présentation pour lundi ? L'IA la prépare pour toi, même en gratuit.",
+   "emphasis": [
+    "gratuit"
+   ]
+  },
+  {
+   "text": "Depuis le 8 octobre, Slides, l'outil de présentation de Claude, n'est plus en test. Il est ouvert à tous les plans, même le plan gratuit.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Nouveau, 8 octobre",
+    "text": "Slides ouvert à tous",
+    "highlight": "tous",
+    "sub": "même le plan gratuit"
+   },
+   "stamp": "gratuit"
+  },
+  {
+   "text": "Pareil pour Docs, côté documents, et pour Design, côté visuels. Aujourd'hui, on parle des présentations.",
+   "visual": {
+    "kind": "list",
+    "title": "Sortis du test",
+    "items": [
+     "Docs : les documents",
+     "Design : les visuels",
+     "Slides : les présentations"
+    ],
+    "at": [
+     "Docs",
+     "Design",
+     "présentations"
+    ]
+   }
+  },
+  {
+   "text": "Imagine des notes en vrac pour la réunion de ton association. Des chiffres, des idées, des noms, rien de rangé.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Le point de départ",
+    "text": "Des notes en vrac",
+    "highlight": "vrac",
+    "sub": "réunion de l'asso"
+   }
+  },
+  {
+   "text": "Copie tes notes dans la conversation. Ensuite, demande simplement : transforme ces notes en présentation pour lundi.",
+   "visual": {
+    "kind": "chat",
+    "name": "Claude",
+    "user": "Transforme ces notes en présentation pour lundi.",
+    "assistant": "Voici un plan en six diapos : le bilan, les chiffres, le budget, les prochaines étapes. Je lance la présentation ?"
+   }
+  },
+  {
+   "text": "Et là, les diapos se construisent sous tes yeux.",
+   "visual": {
+    "kind": "card",
+    "emoji": "🖥️",
+    "owner": "Anthropic",
+    "name": "Claude Slides",
+    "desc": "Des présentations créées dans la conversation",
+    "tags": [
+     "gratuit",
+     "PowerPoint",
+     "PDF"
+    ],
+    "price": "0 €",
+    "url": "claude.ai"
+   }
+  },
+  {
+   "text": "Une diapo ne te plaît pas ? Soit tu cliques dessus pour la modifier. Soit tu laisses un commentaire sur un élément. Soit tu demandes dans le chat.",
+   "visual": {
+    "kind": "list",
+    "title": "Trois façons de corriger",
+    "items": [
+     "Cliquer sur la diapo",
+     "Laisser un commentaire",
+     "Demander dans le chat"
+    ],
+    "at": [
+     "cliques",
+     "commentaire",
+     "demandes"
+    ]
+   }
+  },
+  {
+   "text": "Il suffit d'écrire : mets le budget en graphique. Ou bien : enlève la diapo numéro trois.",
+   "visual": {
+    "kind": "chat",
+    "name": "Claude",
+    "user": "Mets le budget en graphique.",
+    "assistant": "C'est fait : la diapo budget montre maintenant un graphique en barres."
+   }
+  },
+  {
+   "text": "Ensuite, la présentation peut se lancer directement depuis la conversation, sans autre logiciel.",
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "Avant",
+     "items": [
+      "Notes en vrac",
+      "Une soirée sur PowerPoint"
+     ]
+    },
+    "right": {
+     "title": "Avec Slides",
+     "items": [
+      "Diapos prêtes à corriger",
+      "Corrections en une phrase"
+     ]
+    }
+   }
+  },
+  {
+   "text": "Et pour récupérer le fichier ? Le téléchargement en PowerPoint ou en PDF garde la même mise en page. Et la présentation part aussi vers Google Slides.",
+   "visual": {
+    "kind": "list",
+    "title": "Exporter",
+    "items": [
+     "PowerPoint",
+     "PDF",
+     "Google Slides"
+    ],
+    "at": [
+     "PowerPoint",
+     "PDF",
+     "Google"
+    ]
+   }
+  },
+  {
+   "text": "Dans le métro ? Une petite retouche se fait aussi depuis l'application mobile, sur ton téléphone.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Sur téléphone",
+    "text": "Une retouche dans le métro",
+    "highlight": "métro",
+    "sub": "application mobile"
+   }
+  },
+  {
+   "text": "Attention quand même aux limites. Ça compte dans ta limite d'utilisation, et l'IA peut se tromper sur un chiffre.",
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "À faire",
+     "items": [
+      "Vérifier chaque chiffre",
+      "Relire le texte"
+     ]
+    },
+    "right": {
+     "title": "À éviter",
+     "items": [
+      "Infos très perso",
+      "Mots de passe"
+     ]
+    }
+   }
+  },
+  {
+   "text": "Donc vérifie chaque chiffre avant de présenter devant tout le monde. Et évite d'y coller des informations très personnelles."
+  },
+  {
+   "text": "Ma dernière astuce : demande d'abord le plan en texte. Valide-le, et seulement après, lance les diapos. Le gain de temps est énorme.",
+   "visual": {
+    "kind": "title",
+    "kicker": "L'astuce",
+    "text": "Le plan d'abord",
+    "highlight": "plan",
+    "sub": "les diapos ensuite"
+   },
+   "sfx": true
+  },
+  {
+   "text": "Et toi, quelle présentation vas-tu tester en premier ? Dis-le-moi en commentaire."
+  }
+ ],
+ "caption": "Claude Slides est gratuit depuis le 8 octobre : tes notes deviennent une présentation 📊 Annonce officielle : https://claude.com/resources/articles/dashboards-and-motion",
+ "hashtags": [
+  "#ia",
+  "#claude",
+  "#presentation",
+  "#powerpoint",
+  "#astuce"
+ ]
+}

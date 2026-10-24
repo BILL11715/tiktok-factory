@@ -1,0 +1,61 @@
+{
+ "stamp": "2026-10-24_1200",
+ "duration": 81.1,
+ "lead": 0.6,
+ "cps": 24.8,
+ "accuracy": 0.929,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "l i",
+   "entendu": "liee"
+  },
+  {
+   "dit": "l outil",
+   "entendu": "le type"
+  },
+  {
+   "dit": "visuels",
+   "entendu": "visuel"
+  },
+  {
+   "dit": "mets",
+   "entendu": "mais"
+  },
+  {
+   "dit": "graphique",
+   "entendu": "graphie"
+  },
+  {
+   "dit": "paoueur pointe",
+   "entendu": "powerpoint"
+  },
+  {
+   "dit": "p d f",
+   "entendu": "pdf"
+  },
+  {
+   "dit": "slides",
+   "entendu": "slide"
+  },
+  {
+   "dit": "aux limites",
+   "entendu": "au limite"
+  },
+  {
+   "dit": "i a peut",
+   "entendu": "iap"
+  },
+  {
+   "dit": "tromper",
+   "entendu": "trompait"
+  },
+  {
+   "dit": "verifie",
+   "entendu": "verifiez"
+  }
+ ],
+ "alerts": [
+  "prononciation 93% des mots compris (min 93%)"
+ ]
+}
