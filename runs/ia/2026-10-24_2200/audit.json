@@ -1,0 +1,51 @@
+{
+ "stamp": "2026-10-24_2200",
+ "duration": 82.1,
+ "lead": 0.6,
+ "cps": 25.1,
+ "accuracy": 0.951,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "o radiusse",
+   "entendu": "au radu"
+  },
+  {
+   "dit": "opportunite",
+   "entendu": "opportunites"
+  },
+  {
+   "dit": "croire",
+   "entendu": "je crois"
+  },
+  {
+   "dit": "liens",
+   "entendu": "lien"
+  },
+  {
+   "dit": "moque ce qui l",
+   "entendu": "mote il"
+  },
+  {
+   "dit": "chiffre",
+   "entendu": "chier"
+  },
+  {
+   "dit": "exclusive il",
+   "entendu": "exclusif"
+  },
+  {
+   "dit": "trie",
+   "entendu": "tri"
+  },
+  {
+   "dit": "convainc",
+   "entendu": "convain"
+  },
+  {
+   "dit": "surprises",
+   "entendu": "sur crise"
+  }
+ ],
+ "alerts": []
+}
