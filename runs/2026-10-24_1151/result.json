@@ -1,0 +1,191 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-24_1151/video.mp4",
+ "duration": 73.327,
+ "shots": 35,
+ "sources": [
+  "https://anilist.co/manga/120980"
+ ],
+ "plan": [
+  {
+   "character": null,
+   "fx": "hook",
+   "start": 0.0
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 1.66
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 3.32
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 5.83
+  },
+  {
+   "character": "Cheon Yeo-woon",
+   "fx": null,
+   "start": 8.340000000000002
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 9.565000000000001
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 10.790000000000001
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 12.555
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 14.32
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 16.4
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 18.48
+  },
+  {
+   "character": null,
+   "fx": "punch",
+   "start": 20.56
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 23.11
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 25.66
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 27.753333333333334
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 29.846666666666668
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 31.94
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 34.053333333333335
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 36.16666666666667
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 38.28
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 40.150000000000006
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 42.02
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 44.57
+  },
+  {
+   "character": null,
+   "fx": "punch",
+   "start": 47.12
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 49.15
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 51.18
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 53.15
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 55.12
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 57.7
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 60.28
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 62.54
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 64.8
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 67.13999999999999
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 69.47999999999999
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 71.4035
+  }
+ ],
+ "engine": "ffmpeg (secours)",
+ "voice_engine": "fish",
+ "repo_path": "videos/2026/10/2026-10-24_1151.mp4",
+ "raw_url": "https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/videos/2026/10/2026-10-24_1151.mp4",
+ "lint": [],
+ "render_seconds": 283.1
+}

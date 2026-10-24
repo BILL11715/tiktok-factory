@@ -1,0 +1,135 @@
+{
+ "title": "Reco manhwa : le prince maudit qui a une IA dans le sang",
+ "format": "reco",
+ "tone": "pote",
+ "music": "pote",
+ "animes": [
+  "Nano Machine"
+ ],
+ "media": {
+  "Nano Machine": "manhwa"
+ },
+ "cover": {
+  "text": "Une IA dans le sang",
+  "highlight": [
+   "IA"
+  ],
+  "emoji": "🤖",
+  "sub": "pépite manhwa"
+ },
+ "hook_text": "Ce prince que tout le monde voulait tuer a reçu une IA dans le sang",
+ "spoiler": false,
+ "segments": [
+  {
+   "text": "Ce prince que tout le monde voulait tuer a reçu une IA dans le sang.",
+   "sfx": true,
+   "emphasis": [
+    "IA"
+   ],
+   "scene": "a young dark haired martial artist with glowing eyes in a dark temple"
+  },
+  {
+   "text": "[whispering] Reste jusqu'au bout, j'te donne le nom du manhwa, et franchement il mérite trois fois plus de vues.",
+   "scene": "a lonely boy in black robes standing in the shadows of a palace"
+  },
+  {
+   "text": "Le gamin s'appelle Cheon Yeo-woon. C'est un des fils du chef de la secte démoniaque, la secte la plus crainte de tout le monde des arts martiaux.",
+   "emphasis": [
+    "secte démoniaque"
+   ],
+   "scene": "a huge dark fortress on a mountain with red banners",
+   "shots": [
+    {
+     "anime": "Nano Machine",
+     "kind": "character",
+     "character": "Cheon Yeo-woon",
+     "at": "Yeo-woon"
+    },
+    {
+     "kind": "wide"
+    }
+   ]
+  },
+  {
+   "text": "Sauf que lui, c'est le fils dont personne ne veut. Ses demi-frères le regardent de haut, et y'a des gens qui veulent sa peau.",
+   "grade": "bw",
+   "scene": "a beaten boy on the ground surrounded by arrogant nobles"
+  },
+  {
+   "text": "Et un soir, un type débarque de nulle part. Il dit qu'il vient du futur, et qu'il est son descendant.",
+   "sfx": true,
+   "emphasis": [
+    "futur"
+   ],
+   "scene": "a mysterious man in strange futuristic clothes appearing at night"
+  },
+  {
+   "text": "[surprised] Il lui injecte un truc dans le corps. Des nanomachines, genre une intelligence artificielle qui vit direct dans ses veines.",
+   "stamp": "IA",
+   "emphasis": [
+    "nanomachines"
+   ],
+   "scene": "glowing blue circuits spreading inside a young man's body"
+  },
+  {
+   "text": "Et c'est là que ça devient chaud. La machine analyse chaque coup de l'adversaire, elle calcule tout, et elle l'aide à apprendre des techniques à une vitesse pas humaine.",
+   "scene": "a martial artist dodging attacks with a glowing interface in his vision"
+  },
+  {
+   "text": "Si t'aimes les persos qui partent de tout en bas, abonne-toi, j'te sors une pépite manhwa tous les jours.",
+   "cta": true
+  },
+  {
+   "text": "Du coup Yeo-woon entre à l'académie de la secte, là où tous les héritiers se battent pour la place de futur chef.",
+   "emphasis": [
+    "académie"
+   ],
+   "scene": "young fighters in black robes facing each other in a training arena",
+   "shots": [
+    {
+     "anime": "Nano Machine",
+     "kind": "wide"
+    }
+   ]
+  },
+  {
+   "text": "[excited] Et là frr, il commence à retourner tout le monde. Ceux qui se foutaient de sa gueule, ils rigolent beaucoup moins.",
+   "sfx": true,
+   "stamp": "SOUS-COTÉ",
+   "scene": "a young man defeating a stronger opponent with a single strike"
+  },
+  {
+   "text": "Mais attends, le meilleur c'est pas que les combats. C'est la politique entre héritiers, les alliances, les coups bas.",
+   "scene": "nobles whispering and plotting in a candle lit hall"
+  },
+  {
+   "text": "Moi j'te le dis cash, c'est le murim parfait pour commencer. Et y'a pas encore d'anime, donc t'es en avance sur tout le monde.",
+   "emphasis": [
+    "murim"
+   ],
+   "scene": "a martial artist meditating on a cliff with energy around him"
+  },
+  {
+   "text": "[laughing] Le seul défaut, c'est que tu vas tout enchaîner en un week-end. Ça se lit en officiel sur Webtoon.",
+   "scene": "a confident young man smiling with glowing eyes"
+  },
+  {
+   "text": "Le nom, c'est Nano Machine. Dis-moi en com' si tu l'as déjà lu, ou si je viens de te ruiner ton week-end.",
+   "emphasis": [
+    "Nano Machine"
+   ],
+   "scene": "a dark haired hero in black robes standing in front of a burning sky"
+  }
+ ],
+ "reveal_text": "Nano Machine",
+ "reveal_segments": 1,
+ "caption": "Le prince le plus méprisé de la secte a une IA dans les veines 🤖 tu l'as déjà lu ?",
+ "hashtags": [
+  "#anime",
+  "#manhwa",
+  "#animefr",
+  "#webtoonfr",
+  "#nanomachine",
+  "#recommandationmanhwa"
+ ]
+}
