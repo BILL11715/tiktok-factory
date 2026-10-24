@@ -25,6 +25,8 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
    « Prends le temps de relire » (mot courant, pas de lexique).
    « Promets » (impératif) compté 4 fois dans les mots mal compris (22/10 17:00 « on met ») : écrire « Mieux vaut promettre... »
    ou « garantir » (bien entendus au 2e rendu du 22/10 17:00).
+   « mythe » mal compris sur 3 vidéos (24/10 17:00 « nit ») : dans la voix, écrire « l'idée reçue » ou « ce qu'on croit » ; le mot « mythe »
+   reste possible à l'écran (kicker, affiche).
 6. Mettre « SEO Radius » en fin de phrase, jamais suivi d'un verbe court : les mots qui le suivent sont avalés
    sur 3 vidéos (14/10 « aura dus », « radius ed » ; 16/10 « SEO Radius. Tape un » entendu « au radus ca par »).
    Écrire « Pour ça, j'utilise SEO Radius. » puis une nouvelle phrase qui commence par un mot d'au moins
@@ -54,6 +56,9 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
   (+ fichier VERSION attendu) : à intégrer dans setup.sh, sinon chaque run neuf échoue à l'étape montage.
 
 ## Journal (1 ligne par revue, la plus récente en haut, 20 lignes maximum)
+- 2026-10-24 (17:00) : 1er rendu à 92 % (« Beaucoup » entendu « le gout », « mythe » « nit », « carreleur Rennes » « carleur reine », « Propose » « on pose ») : reformulés, 2e rendu à 90 % avec alerte
+  (« Lyon » entendu « Léon », « Bien souvent, il ne sait pas répondre » avalé, « est en page » « empêche »), débit 25,4 car./s, 81,6 s pour 1 642 car. : règle 7 tenue. Sur les 10 derniers audits, 4 sans alerte
+  (5 alertes prononciation à 88-93 %). « mythe » 3 fois : règle 5 étendue. Chrome de Remotion relié à la main au Chromium local (piste déjà notée). Doublons d'audit du même stamp retirés à la main.
 - 2026-10-24 (08:00) : sans alerte au 1er rendu (débit 25,1 car./s, prononciation 94 %, 82,5 s pour 1 630 car. environ) : règle 7 tenue. « PageSpeed Insights » mis au lexique par précaution,
   bien entendu (« pagespeedinsights »). Sur les 10 derniers audits, 6 sans alerte (3 prononciation à 90-92 %, 1 débit + prononciation le 23/10 19:00). « vérifie » et « garde » comptés 3 fois
   dans les mots mal compris mais surtout par conjugaison (« vérifiez ») : pas de lexique. Chrome de Remotion relié à la main au Chromium local avant le rendu (piste déjà notée, toujours à intégrer). Pas de nouvelle règle.
@@ -116,6 +121,3 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
 - 2026-10-16 (17:00) : hook « te fait peur » entendu « feper » et « offre » entendu « oeuf » au 1er rendu : reformulés
   (« Tu as peur d'appeler... », « proposition commerciale »), hook bien entendu au 2e rendu. Prononciation 90 % (débit 25,0 car./s, 90 s).
   Mots avalés après « SEO Radius » sur 3 vidéos : règle 6 ajoutée. Doublon d'audit du même stamp retiré à la main (piste déjà notée).
-- 2026-10-14 (19:00) : 1er rendu à 1 590 car. = 100,4 s (hors cible) et « chatbot » entendu « chapeau » 2 fois : chatbot ajouté au
-  lexique (« tchatte botte », bien entendu au 2e rendu), texte ramené à 1 523 car. = 89,4 s. Prononciation 91 % : écarts surtout dus à la
-  graphie phonétique (piste déjà notée). Sur les 10 derniers audits, débit 23,8 à 25,2 car./s, cible tenue. Pas de nouvelle règle (1 seule vidéo trop longue).
