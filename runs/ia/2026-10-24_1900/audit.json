@@ -1,0 +1,61 @@
+{
+ "stamp": "2026-10-24_1900",
+ "duration": 80.2,
+ "lead": 0.6,
+ "cps": 25.7,
+ "accuracy": 0.941,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "il",
+   "entendu": "et"
+  },
+  {
+   "dit": "ce",
+   "entendu": "le"
+  },
+  {
+   "dit": "inpaint web",
+   "entendu": "impinweb"
+  },
+  {
+   "dit": "qui",
+   "entendu": "qu il"
+  },
+  {
+   "dit": "l i a",
+   "entendu": "viens"
+  },
+  {
+   "dit": "il",
+   "entendu": ""
+  },
+  {
+   "dit": "agrandir",
+   "entendu": "a grandir"
+  },
+  {
+   "dit": "tutos",
+   "entendu": "tuto"
+  },
+  {
+   "dit": "limites",
+   "entendu": "lignes"
+  },
+  {
+   "dit": "d i a",
+   "entendu": "dia"
+  },
+  {
+   "dit": "vaut",
+   "entendu": "vous"
+  },
+  {
+   "dit": "petits coups",
+   "entendu": "petit coup"
+  }
+ ],
+ "alerts": [
+  "débit 25.7 car./s : trop rapide (max 25.5)"
+ ]
+}

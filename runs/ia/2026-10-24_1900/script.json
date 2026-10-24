@@ -1,0 +1,216 @@
+{
+  "title": "Inpaint Web : efface un intrus de ta photo, gratuit",
+  "theme": "ia",
+  "pillar": "ia",
+  "format": "outil",
+  "music": "pote",
+  "cover": {
+    "text": "Efface n'importe quoi de tes photos",
+    "highlight": [
+      "Efface"
+    ],
+    "emoji": "🧽",
+    "sub": "gratuit, sans installer"
+  },
+  "hook_text": "Un inconnu gâche ta photo de vacances ? Il disparaît en quelques secondes.",
+  "segments": [
+    {
+      "text": "Un inconnu gâche ta photo de vacances ? Il disparaît en quelques secondes.",
+      "emphasis": [
+        "disparaît"
+      ]
+    },
+    {
+      "text": "Ce site gratuit s'appelle Inpaint Web. Il vient d'un projet open source sur GitHub. Le code est public : tout le monde peut vérifier ce qu'il fait.",
+      "visual": {
+        "kind": "card",
+        "emoji": "🧽",
+        "owner": "lxfater",
+        "name": "inpaint-web",
+        "desc": "Effacer un objet d'une photo, dans ton navigateur",
+        "tags": [
+          "Gratuit",
+          "Open source",
+          "GPL-3.0"
+        ],
+        "stars": "6,1k",
+        "url": "github.com/lxfater/inpaint-web"
+      }
+    },
+    {
+      "text": "Le gros plus ? Tout se passe dans ton navigateur. Ta photo n'est envoyée sur aucun serveur. C'est ton ordinateur qui fait le travail.",
+      "emphasis": [
+        "navigateur"
+      ],
+      "visual": {
+        "kind": "title",
+        "kicker": "Le gros plus",
+        "text": "Ta photo reste chez toi",
+        "highlight": "reste",
+        "sub": "le calcul se fait sur ton ordi"
+      }
+    },
+    {
+      "text": "La méthode est très simple. Ouvre le site sur ton ordinateur. Ensuite, dépose ta photo. Passe le pinceau sur ce qui doit disparaître. Et télécharge l'image finale.",
+      "visual": {
+        "kind": "list",
+        "title": "4 étapes",
+        "items": [
+          "Ouvrir le site",
+          "Déposer la photo",
+          "Peindre l'intrus",
+          "Télécharger"
+        ],
+        "at": [
+          "Ouvre",
+          "dépose",
+          "pinceau",
+          "télécharge"
+        ]
+      }
+    },
+    {
+      "text": "Imagine une photo de plage, avec un touriste en plein milieu. Un coup de pinceau sur lui, et il n'est plus là !",
+      "sfx": true,
+      "stamp": "Effacé",
+      "visual": {
+        "kind": "compare",
+        "left": {
+          "title": "Avant",
+          "items": [
+            "Un touriste au milieu",
+            "Photo gâchée"
+          ]
+        },
+        "right": {
+          "title": "Après",
+          "items": [
+            "Plage vide",
+            "Photo sauvée"
+          ]
+        }
+      }
+    },
+    {
+      "text": "Comment c'est possible ? L'IA regarde ce qu'il y a autour, et elle invente le morceau manquant : le sable, la mer, le ciel.",
+      "visual": {
+        "kind": "title",
+        "kicker": "Le secret",
+        "text": "L'IA devine ce qui manque",
+        "highlight": "devine",
+        "sub": "à partir de ce qui entoure la zone"
+      }
+    },
+    {
+      "text": "Sur GitHub, le projet dépasse les 6 000 étoiles. Une étoile, c'est un peu le like des développeurs.",
+      "visual": {
+        "kind": "stat",
+        "value": 6000,
+        "prefix": "+",
+        "suffix": "",
+        "label": "étoiles sur GitHub",
+        "source": "github.com/lxfater/inpaint-web, octobre 2026"
+      }
+    },
+    {
+      "text": "Et il cache une deuxième fonction : agrandir une image. Une petite photo floue devient plus grande et plus nette. Parfait pour l'imprimer, ou en faire un fond d'écran.",
+      "visual": {
+        "kind": "title",
+        "kicker": "Bonus",
+        "text": "Agrandir une photo floue",
+        "highlight": "Agrandir",
+        "sub": "même outil, même site"
+      }
+    },
+    {
+      "text": "Avant, il fallait un logiciel payant et des heures de tutos. Maintenant, un coup de pinceau suffit, sans rien installer.",
+      "visual": {
+        "kind": "compare",
+        "left": {
+          "title": "Avant",
+          "items": [
+            "Logiciel payant",
+            "Des heures de tutos"
+          ]
+        },
+        "right": {
+          "title": "Inpaint Web",
+          "items": [
+            "Gratuit",
+            "Rien à installer"
+          ]
+        }
+      }
+    },
+    {
+      "text": "Des idées ? Un câble électrique dans le ciel, une poubelle devant ta boutique, ou un reflet sur l'objet que tu vends en ligne.",
+      "visual": {
+        "kind": "list",
+        "title": "À effacer",
+        "items": [
+          "Un câble dans le ciel",
+          "Une poubelle devant",
+          "Un reflet gênant"
+        ],
+        "at": [
+          "câble",
+          "poubelle",
+          "reflet"
+        ]
+      }
+    },
+    {
+      "text": "Les limites, maintenant. La première fois, le site télécharge le modèle d'IA, donc ça prend un moment. Et il faut un navigateur récent, plutôt sur ordinateur.",
+      "visual": {
+        "kind": "title",
+        "kicker": "Honnête",
+        "text": "Les limites",
+        "highlight": "limites",
+        "sub": "1er chargement long, navigateur récent"
+      }
+    },
+    {
+      "text": "Sur une grande zone, le rendu peut être moins propre. Mieux vaut effacer par petits coups, en plusieurs fois.",
+      "stamp": "Petits coups",
+      "visual": {
+        "kind": "compare",
+        "left": {
+          "title": "Grosse zone",
+          "items": [
+            "Rendu moins propre"
+          ]
+        },
+        "right": {
+          "title": "Petits coups",
+          "items": [
+            "Rendu plus net"
+          ]
+        }
+      }
+    },
+    {
+      "text": "Le lien exact est dans la légende. Et toi, quelle photo tu sauverais en premier ? Dis-le moi en commentaire.",
+      "visual": {
+        "kind": "card",
+        "emoji": "🔗",
+        "owner": "lxfater",
+        "name": "inpaint-web",
+        "desc": "Démo en ligne : inpaintweb.lxfater.com",
+        "tags": [
+          "Gratuit",
+          "Navigateur"
+        ],
+        "stars": "6,1k",
+        "url": "github.com/lxfater/inpaint-web"
+      }
+    }
+  ],
+  "caption": "Efface un intrus de tes photos, gratuit et sans rien installer 🧽 Site : https://inpaintweb.lxfater.com/ Code : https://github.com/lxfater/inpaint-web",
+  "hashtags": [
+    "#ia",
+    "#retouchephoto",
+    "#outilgratuit",
+    "#opensource",
+    "#astuce"
+  ]
+}
