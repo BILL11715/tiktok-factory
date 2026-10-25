@@ -1,0 +1,186 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-25_1146/video.mp4",
+ "duration": 73.402,
+ "shots": 34,
+ "sources": [
+  "https://anilist.co/manga/164857"
+ ],
+ "plan": [
+  {
+   "character": null,
+   "fx": "hook",
+   "start": 0.0
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 1.72
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 3.44
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 5.15
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 6.86
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 9.200000000000001
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 11.540000000000001
+  },
+  {
+   "character": null,
+   "fx": "punch",
+   "start": 13.88
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 16.810000000000002
+  },
+  {
+   "character": "Bjorn",
+   "fx": null,
+   "start": 19.740000000000002
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 21.810000000000002
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 23.88
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 25.92
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 27.96
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 30.42
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 32.88
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 35.19
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 37.5
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 40.09
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 42.68
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 44.473333333333336
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 46.266666666666666
+  },
+  {
+   "character": "Erwen",
+   "fx": null,
+   "start": 48.06
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 50.16
+  },
+  {
+   "character": null,
+   "fx": "punch",
+   "start": 52.26
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 54.166666666666664
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 56.07333333333333
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 57.98
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 59.913333333333334
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 61.846666666666664
+  },
+  {
+   "character": null,
+   "fx": "punch",
+   "start": 63.78
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 66.57
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 69.36
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 71.381
+  }
+ ],
+ "engine": "ffmpeg (secours)",
+ "voice_engine": "fish",
+ "repo_path": "videos/2026/10/2026-10-25_1146.mp4",
+ "raw_url": "https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/videos/2026/10/2026-10-25_1146.mp4",
+ "lint": [],
+ "render_seconds": 267.7
+}
