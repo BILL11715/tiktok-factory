@@ -1,0 +1,66 @@
+{
+ "stamp": "2026-10-25_1900",
+ "duration": 79.1,
+ "lead": 0.6,
+ "cps": 25.8,
+ "accuracy": 0.911,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "incomprehensible l i a te",
+   "entendu": "inconcrehensibles liatent"
+  },
+  {
+   "dit": "i a",
+   "entendu": "ia"
+  },
+  {
+   "dit": "numero fiscal",
+   "entendu": "numeros fiscales"
+  },
+  {
+   "dit": "cite",
+   "entendu": "si tu es"
+  },
+  {
+   "dit": "i a",
+   "entendu": "ia"
+  },
+  {
+   "dit": "reponse",
+   "entendu": "reponds"
+  },
+  {
+   "dit": "lettre",
+   "entendu": "etre"
+  },
+  {
+   "dit": "payer contester",
+   "entendu": "payee contestee"
+  },
+  {
+   "dit": "signer l i a",
+   "entendu": "signee ia"
+  },
+  {
+   "dit": "services",
+   "entendu": "service"
+  },
+  {
+   "dit": "services",
+   "entendu": "service"
+  },
+  {
+   "dit": "l i a",
+   "entendu": "ia"
+  },
+  {
+   "dit": "a",
+   "entendu": "as"
+  }
+ ],
+ "alerts": [
+  "débit 25.8 car./s : trop rapide (max 25.5)",
+  "prononciation 91% des mots compris (min 93%)"
+ ]
+}

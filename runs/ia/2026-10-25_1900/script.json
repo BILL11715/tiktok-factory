@@ -1,0 +1,203 @@
+{
+ "title": "Un courrier administratif illisible ? L'IA te l'explique",
+ "theme": "ia",
+ "pillar": "ia",
+ "format": "methode",
+ "music": "pote",
+ "cover": {
+  "text": "Ce courrier, enfin compréhensible",
+  "highlight": [
+   "compréhensible"
+  ],
+  "emoji": "✉️",
+  "sub": "la méthode en 4 étapes"
+ },
+ "hook_text": "Un courrier des impôts incompréhensible ? L'IA te le traduit en français simple.",
+ "segments": [
+  {
+   "text": "Un courrier des impôts incompréhensible ? L'IA te le traduit en français simple.",
+   "emphasis": [
+    "simple"
+   ]
+  },
+  {
+   "text": "Les relances, les avis, les rappels de paiement... Ces lettres sont écrites pour des juristes. Alors on les range dans un tiroir.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Le problème",
+    "text": "Des lettres pour juristes",
+    "highlight": "juristes",
+    "sub": "et le tiroir qui déborde"
+   }
+  },
+  {
+   "text": "La méthode se fait en quatre étapes, avec Claude ou une autre IA. Cacher tes numéros, prendre la photo, poser trois questions, et vérifier.",
+   "visual": {
+    "kind": "list",
+    "title": "Les 4 étapes",
+    "items": [
+     "Cacher tes numéros",
+     "Prendre la photo",
+     "Poser 3 questions",
+     "Vérifier"
+    ],
+    "at": [
+     "cacher",
+     "photo",
+     "questions",
+     "vérifier"
+    ]
+   }
+  },
+  {
+   "text": "D'abord, cache tes numéros personnels avec un bout de papier. Numéro fiscal, sécurité sociale, compte bancaire. Ce n'est pas utile.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Étape 1",
+    "text": "Cache tes numéros",
+    "highlight": "numéros",
+    "sub": "fiscal, sécu, banque"
+   }
+  },
+  {
+   "text": "Ensuite, prends la lettre en photo avec ton téléphone. Dans la conversation, le bouton plus permet d'ajouter l'image.",
+   "visual": {
+    "kind": "card",
+    "emoji": "📸",
+    "owner": "Anthropic",
+    "name": "Claude",
+    "desc": "Ajoute la photo avec le bouton +",
+    "tags": [
+     "photo",
+     "PDF",
+     "téléphone"
+    ],
+    "url": "claude.ai"
+   }
+  },
+  {
+   "text": "Maintenant, pose trois questions. C'est quoi ce courrier, en deux phrases ? Qu'est-ce que je dois faire ? Et avant quelle date ?",
+   "visual": {
+    "kind": "chat",
+    "name": "Claude",
+    "user": "C'est quoi ce courrier, en deux phrases ? Que dois-je faire, et avant quelle date ?",
+    "assistant": "C'est une relance pour un paiement en retard. Il faut payer ou répondre avant la date écrite en bas de la page. Voici la phrase exacte qui le dit."
+   }
+  },
+  {
+   "text": "Et ajoute une demande, la plus importante de toutes : cite la phrase exacte du courrier.",
+   "visual": {
+    "kind": "title",
+    "kicker": "L'astuce clé",
+    "text": "La phrase exacte",
+    "highlight": "exacte",
+    "sub": "copiée du courrier"
+   },
+   "stamp": "preuve",
+   "sfx": true
+  },
+  {
+   "text": "Pourquoi ? Parce que l'IA peut se tromper avec beaucoup d'assurance. Avec la phrase sous les yeux, tu vérifies en dix secondes.",
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "Sans la phrase",
+     "items": [
+      "On croit l'IA",
+      "Erreur possible"
+     ]
+    },
+    "right": {
+     "title": "Avec la phrase",
+     "items": [
+      "On vérifie",
+      "En dix secondes"
+     ]
+    }
+   }
+  },
+  {
+   "text": "Une fois que c'est clair, demande un brouillon de réponse. Une lettre polie et courte, avec les références du courrier.",
+   "visual": {
+    "kind": "chat",
+    "name": "Claude",
+    "user": "Écris une réponse courte et polie pour demander un délai.",
+    "assistant": "Voici un brouillon en cinq lignes. Ajoute tes références et ta signature avant l'envoi."
+   }
+  },
+  {
+   "text": "Avant d'envoyer, vérifie chaque date, chaque montant, et les références. Le brouillon, c'est un point de départ, pas une garantie.",
+   "visual": {
+    "kind": "list",
+    "title": "Avant d'envoyer",
+    "items": [
+     "Chaque date",
+     "Chaque montant",
+     "Les références"
+    ],
+    "at": [
+     "date",
+     "montant",
+     "références"
+    ]
+   }
+  },
+  {
+   "text": "Et pour une vraie décision, payer, contester ou signer, l'IA ne remplace pas un humain.",
+   "visual": {
+    "kind": "title",
+    "kicker": "La limite",
+    "text": "Une décision ? Un humain.",
+    "highlight": "humain"
+   }
+  },
+  {
+   "text": "Il existe environ 2 800 espaces France Services. L'aide sur place est gratuite, pour les impôts ou la CAF.",
+   "visual": {
+    "kind": "stat",
+    "value": 2800,
+    "prefix": "",
+    "suffix": "",
+    "label": "espaces France Services",
+    "source": "economie.gouv.fr"
+   }
+  },
+  {
+   "text": "Pour trouver le plus proche, cherche France Services avec le nom de ta ville.",
+   "visual": {
+    "kind": "card",
+    "emoji": "🏛️",
+    "owner": "Service public",
+    "name": "France Services",
+    "desc": "Aide gratuite pour tes démarches",
+    "tags": [
+     "gratuit",
+     "impôts",
+     "CAF"
+    ],
+    "url": "economie.gouv.fr"
+   }
+  },
+  {
+   "text": "Ma dernière astuce : garde la même conversation. Au prochain courrier, l'IA aura déjà le contexte.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Dernière astuce",
+    "text": "Garde la conversation",
+    "highlight": "conversation",
+    "sub": "le contexte reste"
+   }
+  },
+  {
+   "text": "Et toi, quel courrier t'a déjà fait paniquer ? Raconte-le-moi en commentaire."
+  }
+ ],
+ "caption": "Un courrier des impôts ou de la CAF illisible ? La méthode en 4 gestes pour le faire expliquer par l'IA ✉️ France Services, l'aide gratuite près de chez toi : https://www.economie.gouv.fr/particuliers/gerer-mon-argent/beneficier-daides-et-de-reductions-dimpots/france-services-les-services-publics-pres-de-chez-vous",
+ "hashtags": [
+  "#ia",
+  "#claude",
+  "#administratif",
+  "#astuce",
+  "#impots"
+ ]
+}
