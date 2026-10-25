@@ -1,0 +1,237 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-25_1749/video.mp4",
+ "duration": 87.15,
+ "shots": 44,
+ "sources": [
+  "https://anilist.co/anime/178083",
+  "https://kitsu.io/anime/Tokyo-Revengers-Zokuhen"
+ ],
+ "plan": [
+  {
+   "character": null,
+   "fx": "hook",
+   "start": 0.0
+  },
+  {
+   "character": "Takemichi Hanagaki",
+   "fx": null,
+   "start": 2.7199999999999998
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 4.49
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 6.26
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 8.017666666666667
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 9.775333333333334
+  },
+  {
+   "character": "Takemichi Hanagaki",
+   "fx": null,
+   "start": 11.533000000000001
+  },
+  {
+   "character": "Naoto Tachibana",
+   "fx": null,
+   "start": 12.620000000000001
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 14.120000000000001
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 15.620000000000001
+  },
+  {
+   "character": "Takemichi Hanagaki",
+   "fx": null,
+   "start": 18.060000000000002
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 19.82
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 21.933333333333334
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 24.046666666666667
+  },
+  {
+   "character": null,
+   "fx": "punch",
+   "start": 26.16
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 28.35
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 30.54
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 32.730000000000004
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 34.92
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 37.32
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 39.72
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 41.839999999999996
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 43.96
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 46.08
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 47.8
+  },
+  {
+   "character": "Manjirou Sano",
+   "fx": null,
+   "start": 49.52
+  },
+  {
+   "character": null,
+   "fx": "punch",
+   "start": 51.28
+  },
+  {
+   "character": "Takemichi Hanagaki",
+   "fx": null,
+   "start": 52.59
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 55.135000000000005
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 57.68
+  },
+  {
+   "character": "Shinichirou Sano",
+   "fx": null,
+   "start": 60.18
+  },
+  {
+   "character": "Takemichi Hanagaki",
+   "fx": null,
+   "start": 62.84
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 64.3
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 65.77
+  },
+  {
+   "character": "Takemichi Hanagaki",
+   "fx": null,
+   "start": 67.24
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 69.63
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 72.02
+  },
+  {
+   "character": "Takemichi Hanagaki",
+   "fx": null,
+   "start": 74.21
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 76.005
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 77.8
+  },
+  {
+   "character": "Takemichi Hanagaki",
+   "fx": null,
+   "start": 79.52
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 81.33
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 83.14
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 85.14500000000001
+  }
+ ],
+ "engine": "ffmpeg (secours)",
+ "voice_engine": "fish",
+ "repo_path": "videos/2026/10/2026-10-25_1749.mp4",
+ "raw_url": "https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/videos/2026/10/2026-10-25_1749.mp4",
+ "lint": [],
+ "render_seconds": 584.4
+}
