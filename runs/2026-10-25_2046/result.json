@@ -1,0 +1,232 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-25_2046/video.mp4",
+ "duration": 80.051,
+ "shots": 43,
+ "sources": [
+  "https://anilist.co/anime/195516",
+  "https://kitsu.io/anime/Kusuriya-no-Hitorigoto-3rd-season"
+ ],
+ "plan": [
+  {
+   "character": null,
+   "fx": "hook",
+   "start": 0.0
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 1.62
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 3.24
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 4.87
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 6.5
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 8.673333333333334
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 10.846666666666668
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 13.02
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 15.206666666666665
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 17.39333333333333
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 19.58
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 21.99
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 24.4
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 25.67
+  },
+  {
+   "character": "Maomao",
+   "fx": null,
+   "start": 26.94
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 28.92
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 30.9
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 32.97
+  },
+  {
+   "character": "Jinshi",
+   "fx": null,
+   "start": 35.04
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 37.19
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 39.34
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 41.49
+  },
+  {
+   "character": "Maomao",
+   "fx": "punch",
+   "start": 43.64
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 45.94
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 48.24
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 50.54
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 52.11
+  },
+  {
+   "character": null,
+   "fx": "punch",
+   "start": 53.68
+  },
+  {
+   "character": "Lakan",
+   "fx": null,
+   "start": 54.62
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 56.559999999999995
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 58.5
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 60.44
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 62.44
+  },
+  {
+   "character": null,
+   "fx": "punch",
+   "start": 64.44
+  },
+  {
+   "character": "Lakan",
+   "fx": null,
+   "start": 65.6
+  },
+  {
+   "character": "Maomao",
+   "fx": null,
+   "start": 66.74
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 68.60666666666667
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 70.47333333333333
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 72.34
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 73.88499999999999
+  },
+  {
+   "character": "Jinshi",
+   "fx": null,
+   "start": 75.42999999999999
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 76.33999999999999
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 78.1955
+  }
+ ],
+ "engine": "ffmpeg (secours)",
+ "voice_engine": "fish",
+ "repo_path": "videos/2026/10/2026-10-25_2046.mp4",
+ "raw_url": "https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/videos/2026/10/2026-10-25_2046.mp4",
+ "lint": [],
+ "render_seconds": 699.8
+}

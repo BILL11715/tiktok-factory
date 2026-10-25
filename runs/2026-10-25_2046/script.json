@@ -1,0 +1,132 @@
+{
+ "title": "Top 5 des cerveaux les plus flippants des Carnets de l'apothicaire",
+ "format": "top",
+ "tone": "hype",
+ "music": "hype2",
+ "animes": [
+  "The Apothecary Diaries Season 3"
+ ],
+ "media": {
+  "The Apothecary Diaries Season 3": "anime"
+ },
+ "cover": {
+  "text": "Le génie le plus flippant du palais",
+  "highlight": [
+   "flippant"
+  ],
+  "emoji": "🧠",
+  "sub": "Top 5 saison 3"
+ },
+ "hook_text": "Le génie numéro 1 de cet anime est incapable de reconnaître un visage",
+ "spoiler": true,
+ "spoiler_label": "saison 1",
+ "segments": [
+  {
+   "text": "Le génie numéro 1 de cet anime est incapable de reconnaître un visage.",
+   "sfx": true,
+   "emphasis": [
+    "visage"
+   ],
+   "scene": "a man with a monocle smiling strangely in a dark palace hall"
+  },
+  {
+   "text": "[whispering] Reste jusqu'au bout, parce que quand tu vas savoir qui c'est, tu vas revoir toute la saison 1 autrement.",
+   "scene": "a young freckled woman looking suspicious in a palace corridor at night"
+  },
+  {
+   "text": "On parle des Carnets de l'apothicaire, la saison 3 est en train de sortir. Un palais impérial, du poison partout, et des gens qui mentent avec le sourire.",
+   "emphasis": [
+    "poison"
+   ],
+   "shots": [
+    {
+     "kind": "wide"
+    }
+   ],
+   "scene": "a huge imperial chinese palace with red roofs and lanterns at sunset"
+  },
+  {
+   "text": "Numéro 5, Gyokuyou, la concubine aux cheveux rouges. Sa fille tombe malade, et un mot anonyme la prévient que sa poudre de maquillage est toxique.",
+   "overlay": "#5",
+   "emphasis": [
+    "toxique"
+   ],
+   "scene": "an elegant red haired woman holding a sick baby in a luxurious room"
+  },
+  {
+   "text": "Gyokuyou prend direct la servante qui l'a écrit comme goûteuse. Elle a capté avant tout le monde qu'elle valait de l'or.",
+   "scene": "a servant girl tasting food in front of a noble lady"
+  },
+  {
+   "text": "Numéro 4, Luomen, le père adoptif de Maomao. C'est lui qui lui a tout appris, et surtout à ne jamais conclure trop vite.",
+   "overlay": "#4",
+   "emphasis": [
+    "Luomen"
+   ],
+   "scene": "a gentle old man in robes teaching a little girl about medicinal herbs"
+  },
+  {
+   "text": "Petite pause, si t'aimes les tops où je décortique les persos, abonne-toi, j'en sors tous les soirs.",
+   "cta": true
+  },
+  {
+   "text": "Numéro 3, Jinshi. Tout le monde le prend pour un joli eunuque qui fait le beau. [laughing] Grosse erreur, ce mec joue un rôle du matin au soir.",
+   "overlay": "#3",
+   "emphasis": [
+    "rôle"
+   ],
+   "scene": "a beautiful long haired man smiling mysteriously at a court official"
+  },
+  {
+   "text": "Numéro 2, Maomao. Elle teste des poisons sur son propre bras par curiosité, et elle résout des meurtres avec un détail que personne n'avait vu.",
+   "overlay": "#2",
+   "sfx": true,
+   "stamp": "TARÉE",
+   "emphasis": [
+    "poisons"
+   ],
+   "scene": "a freckled girl with a bandaged arm smiling while tasting poison"
+  },
+  {
+   "text": "Mais attends, la seule personne qui la dépasse, c'est celle qu'elle ne peut pas voir en peinture.",
+   "scene": "a girl glaring with disgust at an older man"
+  },
+  {
+   "text": "[excited] Numéro 1, Lakan. Le stratège au monocle. Il ne reconnaît aucun visage, pour lui les gens ressemblent à des pièces de jeu de go.",
+   "overlay": "#1",
+   "sfx": true,
+   "stamp": "GÉNIE",
+   "emphasis": [
+    "Lakan"
+   ],
+   "scene": "a strategist with a monocle playing a board game alone by candlelight"
+  },
+  {
+   "text": "Et pourtant c'est le stratège le plus craint de l'empire, il lit les mensonges rien qu'à la façon de bouger.",
+   "grade": "bw",
+   "scene": "an army general standing in front of soldiers on a battlefield"
+  },
+  {
+   "text": "Et le détail qui tue, c'est que Lakan est le vrai père de Maomao. Tout son génie, elle le tient de l'homme qu'elle déteste le plus. Le meilleur twist de la série.",
+   "grade": "bw",
+   "sfx": true,
+   "emphasis": [
+    "père"
+   ],
+   "scene": "a sad young woman turning her back on a crying older man"
+  },
+  {
+   "text": "Et toi, c'est qui ton numéro 1 ? Dis-le en com', et si tu mets Jinshi, on doit parler.",
+   "scene": "a beautiful man and a freckled girl arguing in a garden"
+  }
+ ],
+ "caption": "Le numéro 1 ne reconnaît personne et pourtant il voit tout 😳 c'est qui ton top 1 ?",
+ "hashtags": [
+  "#anime",
+  "#animefr",
+  "#otakufr",
+  "#apothecarydiaries",
+  "#maomao",
+  "#topanime"
+ ]
+}
