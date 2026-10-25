@@ -1,0 +1,1733 @@
+{
+ "engine": "fish",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-25_2046/voice.wav",
+ "duration": 80.051,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 3.14,
+   "slot_end": 3.223,
+   "text": "Le génie numéro 1 de cet anime est incapable de reconnaître un visage.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 0.0,
+     "end": 0.1
+    },
+    {
+     "w": "génie",
+     "start": 0.1,
+     "end": 0.327
+    },
+    {
+     "w": "numéro",
+     "start": 0.327,
+     "end": 0.553
+    },
+    {
+     "w": "1",
+     "start": 0.553,
+     "end": 0.78
+    },
+    {
+     "w": "de",
+     "start": 0.78,
+     "end": 0.9
+    },
+    {
+     "w": "cet",
+     "start": 0.9,
+     "end": 1.0
+    },
+    {
+     "w": "anime",
+     "start": 1.0,
+     "end": 1.36
+    },
+    {
+     "w": "est",
+     "start": 1.36,
+     "end": 1.56
+    },
+    {
+     "w": "incapable",
+     "start": 1.56,
+     "end": 1.88
+    },
+    {
+     "w": "de",
+     "start": 1.88,
+     "end": 2.16
+    },
+    {
+     "w": "reconnaître",
+     "start": 2.16,
+     "end": 2.58
+    },
+    {
+     "w": "un",
+     "start": 2.58,
+     "end": 2.7
+    },
+    {
+     "w": "visage.",
+     "start": 2.7,
+     "end": 3.14
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 3.24,
+   "end": 6.4,
+   "slot_end": 6.483,
+   "text": "Reste jusqu'au bout, parce que quand tu vas savoir qui c'est, tu vas revoir toute la saison 1 autrement.",
+   "words": [
+    {
+     "w": "Reste",
+     "start": 3.24,
+     "end": 3.36
+    },
+    {
+     "w": "jusqu'au",
+     "start": 3.36,
+     "end": 3.7
+    },
+    {
+     "w": "bout,",
+     "start": 3.7,
+     "end": 3.78
+    },
+    {
+     "w": "parce",
+     "start": 3.78,
+     "end": 3.92
+    },
+    {
+     "w": "que",
+     "start": 3.92,
+     "end": 4.02
+    },
+    {
+     "w": "quand",
+     "start": 4.02,
+     "end": 4.14
+    },
+    {
+     "w": "tu",
+     "start": 4.14,
+     "end": 4.26
+    },
+    {
+     "w": "vas",
+     "start": 4.26,
+     "end": 4.36
+    },
+    {
+     "w": "savoir",
+     "start": 4.36,
+     "end": 4.56
+    },
+    {
+     "w": "qui",
+     "start": 4.56,
+     "end": 4.7
+    },
+    {
+     "w": "c'est,",
+     "start": 4.7,
+     "end": 4.88
+    },
+    {
+     "w": "tu",
+     "start": 4.96,
+     "end": 5.01
+    },
+    {
+     "w": "vas",
+     "start": 5.0,
+     "end": 5.12
+    },
+    {
+     "w": "revoir",
+     "start": 5.12,
+     "end": 5.36
+    },
+    {
+     "w": "toute",
+     "start": 5.36,
+     "end": 5.52
+    },
+    {
+     "w": "la",
+     "start": 5.52,
+     "end": 5.7
+    },
+    {
+     "w": "saison",
+     "start": 5.7,
+     "end": 5.92
+    },
+    {
+     "w": "1",
+     "start": 5.92,
+     "end": 6.08
+    },
+    {
+     "w": "autrement.",
+     "start": 6.08,
+     "end": 6.4
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 6.54,
+   "end": 12.78,
+   "slot_end": 12.895,
+   "text": "On parle des Carnets de l'apothicaire, la saison 3 est en train de sortir. Un palais impérial, du poison partout, et des gens qui mentent avec le sourire.",
+   "words": [
+    {
+     "w": "On",
+     "start": 6.54,
+     "end": 6.59
+    },
+    {
+     "w": "parle",
+     "start": 6.54,
+     "end": 6.72
+    },
+    {
+     "w": "des",
+     "start": 6.72,
+     "end": 6.9
+    },
+    {
+     "w": "Carnets",
+     "start": 6.9,
+     "end": 7.12
+    },
+    {
+     "w": "de",
+     "start": 7.12,
+     "end": 7.24
+    },
+    {
+     "w": "l'apothicaire,",
+     "start": 7.24,
+     "end": 7.78
+    },
+    {
+     "w": "la",
+     "start": 7.9,
+     "end": 7.95
+    },
+    {
+     "w": "saison",
+     "start": 7.94,
+     "end": 8.16
+    },
+    {
+     "w": "3",
+     "start": 8.16,
+     "end": 8.4
+    },
+    {
+     "w": "est",
+     "start": 8.4,
+     "end": 8.5
+    },
+    {
+     "w": "en",
+     "start": 8.5,
+     "end": 8.6
+    },
+    {
+     "w": "train",
+     "start": 8.6,
+     "end": 8.68
+    },
+    {
+     "w": "de",
+     "start": 8.68,
+     "end": 8.74
+    },
+    {
+     "w": "sortir.",
+     "start": 8.74,
+     "end": 9.04
+    },
+    {
+     "w": "Un",
+     "start": 9.58,
+     "end": 9.74
+    },
+    {
+     "w": "palais",
+     "start": 9.74,
+     "end": 9.96
+    },
+    {
+     "w": "impérial,",
+     "start": 9.96,
+     "end": 10.32
+    },
+    {
+     "w": "du",
+     "start": 10.58,
+     "end": 10.72
+    },
+    {
+     "w": "poison",
+     "start": 10.72,
+     "end": 10.96
+    },
+    {
+     "w": "partout,",
+     "start": 10.96,
+     "end": 11.32
+    },
+    {
+     "w": "et",
+     "start": 11.64,
+     "end": 11.7
+    },
+    {
+     "w": "des",
+     "start": 11.7,
+     "end": 11.8
+    },
+    {
+     "w": "gens",
+     "start": 11.8,
+     "end": 11.9
+    },
+    {
+     "w": "qui",
+     "start": 11.9,
+     "end": 12.04
+    },
+    {
+     "w": "mentent",
+     "start": 12.04,
+     "end": 12.24
+    },
+    {
+     "w": "avec",
+     "start": 12.24,
+     "end": 12.36
+    },
+    {
+     "w": "le",
+     "start": 12.36,
+     "end": 12.52
+    },
+    {
+     "w": "sourire.",
+     "start": 12.52,
+     "end": 12.78
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 13.02,
+   "end": 19.5,
+   "slot_end": 19.575,
+   "text": "Numéro 5, Gyokuyou, la concubine aux cheveux rouges. Sa fille tombe malade, et un mot anonyme la prévient que sa poudre de maquillage est toxique.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 13.02,
+     "end": 13.347
+    },
+    {
+     "w": "5,",
+     "start": 13.347,
+     "end": 13.673
+    },
+    {
+     "w": "Gyokuyou,",
+     "start": 13.673,
+     "end": 14.0
+    },
+    {
+     "w": "la",
+     "start": 14.1,
+     "end": 14.18
+    },
+    {
+     "w": "concubine",
+     "start": 14.18,
+     "end": 14.62
+    },
+    {
+     "w": "aux",
+     "start": 14.62,
+     "end": 14.92
+    },
+    {
+     "w": "cheveux",
+     "start": 14.92,
+     "end": 15.16
+    },
+    {
+     "w": "rouges.",
+     "start": 15.16,
+     "end": 15.54
+    },
+    {
+     "w": "Sa",
+     "start": 15.76,
+     "end": 15.86
+    },
+    {
+     "w": "fille",
+     "start": 15.86,
+     "end": 16.02
+    },
+    {
+     "w": "tombe",
+     "start": 16.02,
+     "end": 16.3
+    },
+    {
+     "w": "malade,",
+     "start": 16.3,
+     "end": 16.62
+    },
+    {
+     "w": "et",
+     "start": 16.62,
+     "end": 16.82
+    },
+    {
+     "w": "un",
+     "start": 16.82,
+     "end": 17.06
+    },
+    {
+     "w": "mot",
+     "start": 17.06,
+     "end": 17.16
+    },
+    {
+     "w": "anonyme",
+     "start": 17.16,
+     "end": 17.6
+    },
+    {
+     "w": "la",
+     "start": 17.6,
+     "end": 17.72
+    },
+    {
+     "w": "prévient",
+     "start": 17.72,
+     "end": 18.0
+    },
+    {
+     "w": "que",
+     "start": 18.0,
+     "end": 18.12
+    },
+    {
+     "w": "sa",
+     "start": 18.12,
+     "end": 18.24
+    },
+    {
+     "w": "poudre",
+     "start": 18.24,
+     "end": 18.48
+    },
+    {
+     "w": "de",
+     "start": 18.48,
+     "end": 18.62
+    },
+    {
+     "w": "maquillage",
+     "start": 18.62,
+     "end": 19.0
+    },
+    {
+     "w": "est",
+     "start": 19.0,
+     "end": 19.16
+    },
+    {
+     "w": "toxique.",
+     "start": 19.16,
+     "end": 19.5
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 19.58,
+   "end": 24.08,
+   "slot_end": 24.163,
+   "text": "Gyokuyou prend direct la servante qui l'a écrit comme goûteuse. Elle a capté avant tout le monde qu'elle valait de l'or.",
+   "words": [
+    {
+     "w": "Gyokuyou",
+     "start": 19.58,
+     "end": 19.94
+    },
+    {
+     "w": "prend",
+     "start": 19.94,
+     "end": 20.1
+    },
+    {
+     "w": "direct",
+     "start": 20.1,
+     "end": 20.32
+    },
+    {
+     "w": "la",
+     "start": 20.32,
+     "end": 20.52
+    },
+    {
+     "w": "servante",
+     "start": 20.52,
+     "end": 20.84
+    },
+    {
+     "w": "qui",
+     "start": 20.84,
+     "end": 20.96
+    },
+    {
+     "w": "l'a",
+     "start": 20.96,
+     "end": 21.08
+    },
+    {
+     "w": "écrit",
+     "start": 21.08,
+     "end": 21.24
+    },
+    {
+     "w": "comme",
+     "start": 21.24,
+     "end": 21.46
+    },
+    {
+     "w": "goûteuse.",
+     "start": 21.46,
+     "end": 21.92
+    },
+    {
+     "w": "Elle",
+     "start": 22.44,
+     "end": 22.6
+    },
+    {
+     "w": "a",
+     "start": 22.6,
+     "end": 22.66
+    },
+    {
+     "w": "capté",
+     "start": 22.66,
+     "end": 22.92
+    },
+    {
+     "w": "avant",
+     "start": 22.92,
+     "end": 23.04
+    },
+    {
+     "w": "tout",
+     "start": 23.04,
+     "end": 23.26
+    },
+    {
+     "w": "le",
+     "start": 23.26,
+     "end": 23.34
+    },
+    {
+     "w": "monde",
+     "start": 23.34,
+     "end": 23.42
+    },
+    {
+     "w": "qu'elle",
+     "start": 23.42,
+     "end": 23.6
+    },
+    {
+     "w": "valait",
+     "start": 23.6,
+     "end": 23.82
+    },
+    {
+     "w": "de",
+     "start": 23.82,
+     "end": 23.92
+    },
+    {
+     "w": "l'or.",
+     "start": 23.92,
+     "end": 24.08
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 24.4,
+   "end": 30.84,
+   "slot_end": 30.919,
+   "text": "Numéro 4, Luomen, le père adoptif de Maomao. C'est lui qui lui a tout appris, et surtout à ne jamais conclure trop vite.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 24.4,
+     "end": 24.733
+    },
+    {
+     "w": "4,",
+     "start": 24.733,
+     "end": 25.067
+    },
+    {
+     "w": "Luomen,",
+     "start": 25.067,
+     "end": 25.4
+    },
+    {
+     "w": "le",
+     "start": 25.74,
+     "end": 25.82
+    },
+    {
+     "w": "père",
+     "start": 25.82,
+     "end": 26.16
+    },
+    {
+     "w": "adoptif",
+     "start": 26.16,
+     "end": 26.76
+    },
+    {
+     "w": "de",
+     "start": 26.76,
+     "end": 26.98
+    },
+    {
+     "w": "Maomao.",
+     "start": 26.98,
+     "end": 27.48
+    },
+    {
+     "w": "C'est",
+     "start": 27.48,
+     "end": 28.1
+    },
+    {
+     "w": "lui",
+     "start": 28.1,
+     "end": 28.24
+    },
+    {
+     "w": "qui",
+     "start": 28.24,
+     "end": 28.38
+    },
+    {
+     "w": "lui",
+     "start": 28.38,
+     "end": 28.5
+    },
+    {
+     "w": "a",
+     "start": 28.5,
+     "end": 28.6
+    },
+    {
+     "w": "tout",
+     "start": 28.6,
+     "end": 28.74
+    },
+    {
+     "w": "appris,",
+     "start": 28.74,
+     "end": 29.06
+    },
+    {
+     "w": "et",
+     "start": 29.06,
+     "end": 29.28
+    },
+    {
+     "w": "surtout",
+     "start": 29.28,
+     "end": 29.56
+    },
+    {
+     "w": "à",
+     "start": 29.56,
+     "end": 29.78
+    },
+    {
+     "w": "ne",
+     "start": 29.78,
+     "end": 29.9
+    },
+    {
+     "w": "jamais",
+     "start": 29.9,
+     "end": 30.16
+    },
+    {
+     "w": "conclure",
+     "start": 30.16,
+     "end": 30.54
+    },
+    {
+     "w": "trop",
+     "start": 30.54,
+     "end": 30.72
+    },
+    {
+     "w": "vite.",
+     "start": 30.72,
+     "end": 30.84
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 30.9,
+   "end": 34.54,
+   "slot_end": 34.629,
+   "text": "Petite pause, si t'aimes les tops où je décortique les persos, abonne-toi, j'en sors tous les soirs.",
+   "words": [
+    {
+     "w": "Petite",
+     "start": 30.9,
+     "end": 31.08
+    },
+    {
+     "w": "pause,",
+     "start": 31.08,
+     "end": 31.3
+    },
+    {
+     "w": "si",
+     "start": 31.3,
+     "end": 31.58
+    },
+    {
+     "w": "t'aimes",
+     "start": 31.58,
+     "end": 31.72
+    },
+    {
+     "w": "les",
+     "start": 31.72,
+     "end": 31.84
+    },
+    {
+     "w": "tops",
+     "start": 31.84,
+     "end": 32.0
+    },
+    {
+     "w": "où",
+     "start": 32.0,
+     "end": 32.12
+    },
+    {
+     "w": "je",
+     "start": 32.12,
+     "end": 32.22
+    },
+    {
+     "w": "décortique",
+     "start": 32.22,
+     "end": 32.56
+    },
+    {
+     "w": "les",
+     "start": 32.56,
+     "end": 32.7
+    },
+    {
+     "w": "persos,",
+     "start": 32.7,
+     "end": 33.02
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 33.12,
+     "end": 33.7
+    },
+    {
+     "w": "j'en",
+     "start": 33.82,
+     "end": 33.92
+    },
+    {
+     "w": "sors",
+     "start": 33.92,
+     "end": 34.04
+    },
+    {
+     "w": "tous",
+     "start": 34.04,
+     "end": 34.18
+    },
+    {
+     "w": "les",
+     "start": 34.18,
+     "end": 34.32
+    },
+    {
+     "w": "soirs.",
+     "start": 34.32,
+     "end": 34.54
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 34.7,
+   "end": 42.82,
+   "slot_end": 42.96,
+   "text": "Numéro 3, Jinshi. Tout le monde le prend pour un joli eunuque qui fait le beau. Grosse erreur, ce mec joue un rôle du matin au soir.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 34.7,
+     "end": 34.86
+    },
+    {
+     "w": "3,",
+     "start": 34.86,
+     "end": 35.08
+    },
+    {
+     "w": "Jinshi.",
+     "start": 35.08,
+     "end": 35.5
+    },
+    {
+     "w": "Tout",
+     "start": 36.06,
+     "end": 36.24
+    },
+    {
+     "w": "le",
+     "start": 36.24,
+     "end": 36.32
+    },
+    {
+     "w": "monde",
+     "start": 36.32,
+     "end": 36.4
+    },
+    {
+     "w": "le",
+     "start": 36.4,
+     "end": 36.56
+    },
+    {
+     "w": "prend",
+     "start": 36.56,
+     "end": 36.68
+    },
+    {
+     "w": "pour",
+     "start": 36.68,
+     "end": 36.86
+    },
+    {
+     "w": "un",
+     "start": 36.86,
+     "end": 36.96
+    },
+    {
+     "w": "joli",
+     "start": 36.96,
+     "end": 37.16
+    },
+    {
+     "w": "eunuque",
+     "start": 37.16,
+     "end": 37.5
+    },
+    {
+     "w": "qui",
+     "start": 37.5,
+     "end": 37.6
+    },
+    {
+     "w": "fait",
+     "start": 37.6,
+     "end": 37.76
+    },
+    {
+     "w": "le",
+     "start": 37.76,
+     "end": 37.88
+    },
+    {
+     "w": "beau.",
+     "start": 37.88,
+     "end": 38.06
+    },
+    {
+     "w": "Grosse",
+     "start": 40.48,
+     "end": 40.82
+    },
+    {
+     "w": "erreur,",
+     "start": 40.82,
+     "end": 41.16
+    },
+    {
+     "w": "ce",
+     "start": 41.4,
+     "end": 41.52
+    },
+    {
+     "w": "mec",
+     "start": 41.52,
+     "end": 41.64
+    },
+    {
+     "w": "joue",
+     "start": 41.64,
+     "end": 41.82
+    },
+    {
+     "w": "un",
+     "start": 41.82,
+     "end": 41.94
+    },
+    {
+     "w": "rôle",
+     "start": 41.94,
+     "end": 42.12
+    },
+    {
+     "w": "du",
+     "start": 42.12,
+     "end": 42.28
+    },
+    {
+     "w": "matin",
+     "start": 42.28,
+     "end": 42.46
+    },
+    {
+     "w": "au",
+     "start": 42.46,
+     "end": 42.64
+    },
+    {
+     "w": "soir.",
+     "start": 42.64,
+     "end": 42.82
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 43.04,
+   "end": 50.46,
+   "slot_end": 50.544,
+   "text": "Numéro 2, Maomao. Elle teste des poisons sur son propre bras par curiosité, et elle résout des meurtres avec un détail que personne n'avait vu.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 43.04,
+     "end": 43.28
+    },
+    {
+     "w": "2,",
+     "start": 43.28,
+     "end": 43.68
+    },
+    {
+     "w": "Maomao.",
+     "start": 43.68,
+     "end": 44.32
+    },
+    {
+     "w": "Elle",
+     "start": 44.92,
+     "end": 45.06
+    },
+    {
+     "w": "teste",
+     "start": 45.06,
+     "end": 45.28
+    },
+    {
+     "w": "des",
+     "start": 45.28,
+     "end": 45.52
+    },
+    {
+     "w": "poisons",
+     "start": 45.52,
+     "end": 45.88
+    },
+    {
+     "w": "sur",
+     "start": 45.88,
+     "end": 46.16
+    },
+    {
+     "w": "son",
+     "start": 46.16,
+     "end": 46.34
+    },
+    {
+     "w": "propre",
+     "start": 46.34,
+     "end": 46.62
+    },
+    {
+     "w": "bras",
+     "start": 46.62,
+     "end": 46.92
+    },
+    {
+     "w": "par",
+     "start": 46.92,
+     "end": 47.1
+    },
+    {
+     "w": "curiosité,",
+     "start": 47.1,
+     "end": 47.66
+    },
+    {
+     "w": "et",
+     "start": 47.66,
+     "end": 48.18
+    },
+    {
+     "w": "elle",
+     "start": 48.18,
+     "end": 48.28
+    },
+    {
+     "w": "résout",
+     "start": 48.28,
+     "end": 48.52
+    },
+    {
+     "w": "des",
+     "start": 48.52,
+     "end": 48.68
+    },
+    {
+     "w": "meurtres",
+     "start": 48.68,
+     "end": 48.96
+    },
+    {
+     "w": "avec",
+     "start": 48.96,
+     "end": 49.16
+    },
+    {
+     "w": "un",
+     "start": 49.16,
+     "end": 49.28
+    },
+    {
+     "w": "détail",
+     "start": 49.28,
+     "end": 49.52
+    },
+    {
+     "w": "que",
+     "start": 49.52,
+     "end": 49.68
+    },
+    {
+     "w": "personne",
+     "start": 49.68,
+     "end": 50.0
+    },
+    {
+     "w": "n'avait",
+     "start": 50.0,
+     "end": 50.26
+    },
+    {
+     "w": "vu.",
+     "start": 50.26,
+     "end": 50.46
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 50.54,
+   "end": 53.68,
+   "slot_end": 53.788,
+   "text": "Mais attends, la seule personne qui la dépasse, c'est celle qu'elle ne peut pas voir en peinture.",
+   "words": [
+    {
+     "w": "Mais",
+     "start": 50.54,
+     "end": 50.66
+    },
+    {
+     "w": "attends,",
+     "start": 50.66,
+     "end": 50.82
+    },
+    {
+     "w": "la",
+     "start": 51.16,
+     "end": 51.28
+    },
+    {
+     "w": "seule",
+     "start": 51.28,
+     "end": 51.4
+    },
+    {
+     "w": "personne",
+     "start": 51.4,
+     "end": 51.66
+    },
+    {
+     "w": "qui",
+     "start": 51.66,
+     "end": 51.8
+    },
+    {
+     "w": "la",
+     "start": 51.8,
+     "end": 51.92
+    },
+    {
+     "w": "dépasse,",
+     "start": 51.92,
+     "end": 52.16
+    },
+    {
+     "w": "c'est",
+     "start": 52.22,
+     "end": 52.32
+    },
+    {
+     "w": "celle",
+     "start": 52.32,
+     "end": 52.5
+    },
+    {
+     "w": "qu'elle",
+     "start": 52.5,
+     "end": 52.66
+    },
+    {
+     "w": "ne",
+     "start": 52.66,
+     "end": 52.8
+    },
+    {
+     "w": "peut",
+     "start": 52.8,
+     "end": 52.9
+    },
+    {
+     "w": "pas",
+     "start": 52.9,
+     "end": 53.06
+    },
+    {
+     "w": "voir",
+     "start": 53.06,
+     "end": 53.22
+    },
+    {
+     "w": "en",
+     "start": 53.22,
+     "end": 53.38
+    },
+    {
+     "w": "peinture.",
+     "start": 53.38,
+     "end": 53.68
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 53.68,
+   "end": 60.32,
+   "slot_end": 60.465,
+   "text": "Numéro 1, Lakan. Le stratège au monocle. Il ne reconnaît aucun visage, pour lui les gens ressemblent à des pièces de jeu de go.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 53.68,
+     "end": 54.02
+    },
+    {
+     "w": "1,",
+     "start": 54.02,
+     "end": 54.3
+    },
+    {
+     "w": "Lakan.",
+     "start": 54.66,
+     "end": 54.92
+    },
+    {
+     "w": "Le",
+     "start": 55.52,
+     "end": 55.62
+    },
+    {
+     "w": "stratège",
+     "start": 55.62,
+     "end": 56.08
+    },
+    {
+     "w": "au",
+     "start": 56.08,
+     "end": 56.18
+    },
+    {
+     "w": "monocle.",
+     "start": 56.18,
+     "end": 56.62
+    },
+    {
+     "w": "Il",
+     "start": 56.96,
+     "end": 57.08
+    },
+    {
+     "w": "ne",
+     "start": 57.08,
+     "end": 57.24
+    },
+    {
+     "w": "reconnaît",
+     "start": 57.24,
+     "end": 57.56
+    },
+    {
+     "w": "aucun",
+     "start": 57.56,
+     "end": 57.78
+    },
+    {
+     "w": "visage,",
+     "start": 57.78,
+     "end": 58.22
+    },
+    {
+     "w": "pour",
+     "start": 58.56,
+     "end": 58.68
+    },
+    {
+     "w": "lui",
+     "start": 58.68,
+     "end": 58.82
+    },
+    {
+     "w": "les",
+     "start": 58.92,
+     "end": 58.97
+    },
+    {
+     "w": "gens",
+     "start": 58.94,
+     "end": 59.08
+    },
+    {
+     "w": "ressemblent",
+     "start": 59.08,
+     "end": 59.46
+    },
+    {
+     "w": "à",
+     "start": 59.46,
+     "end": 59.54
+    },
+    {
+     "w": "des",
+     "start": 59.54,
+     "end": 59.62
+    },
+    {
+     "w": "pièces",
+     "start": 59.62,
+     "end": 59.84
+    },
+    {
+     "w": "de",
+     "start": 59.84,
+     "end": 60.0
+    },
+    {
+     "w": "jeu",
+     "start": 60.0,
+     "end": 60.1
+    },
+    {
+     "w": "de",
+     "start": 60.1,
+     "end": 60.2
+    },
+    {
+     "w": "go.",
+     "start": 60.2,
+     "end": 60.32
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 60.44,
+   "end": 64.34,
+   "slot_end": 64.452,
+   "text": "Et pourtant c'est le stratège le plus craint de l'empire, il lit les mensonges rien qu'à la façon de bouger.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 60.44,
+     "end": 60.52
+    },
+    {
+     "w": "pourtant",
+     "start": 60.52,
+     "end": 60.74
+    },
+    {
+     "w": "c'est",
+     "start": 60.84,
+     "end": 60.92
+    },
+    {
+     "w": "le",
+     "start": 60.92,
+     "end": 61.0
+    },
+    {
+     "w": "stratège",
+     "start": 61.0,
+     "end": 61.34
+    },
+    {
+     "w": "le",
+     "start": 61.34,
+     "end": 61.44
+    },
+    {
+     "w": "plus",
+     "start": 61.44,
+     "end": 61.54
+    },
+    {
+     "w": "craint",
+     "start": 61.54,
+     "end": 61.695
+    },
+    {
+     "w": "de",
+     "start": 61.695,
+     "end": 61.85
+    },
+    {
+     "w": "l'empire,",
+     "start": 61.85,
+     "end": 62.16
+    },
+    {
+     "w": "il",
+     "start": 62.62,
+     "end": 62.74
+    },
+    {
+     "w": "lit",
+     "start": 62.74,
+     "end": 62.86
+    },
+    {
+     "w": "les",
+     "start": 62.86,
+     "end": 62.96
+    },
+    {
+     "w": "mensonges",
+     "start": 62.96,
+     "end": 63.38
+    },
+    {
+     "w": "rien",
+     "start": 63.48,
+     "end": 63.62
+    },
+    {
+     "w": "qu'à",
+     "start": 63.62,
+     "end": 63.76
+    },
+    {
+     "w": "la",
+     "start": 63.76,
+     "end": 63.84
+    },
+    {
+     "w": "façon",
+     "start": 63.84,
+     "end": 63.96
+    },
+    {
+     "w": "de",
+     "start": 63.96,
+     "end": 64.14
+    },
+    {
+     "w": "bouger.",
+     "start": 64.14,
+     "end": 64.34
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 64.44,
+   "end": 72.2,
+   "slot_end": 72.349,
+   "text": "Et le détail qui tue, c'est que Lakan est le vrai père de Maomao. Tout son génie, elle le tient de l'homme qu'elle déteste le plus. Le meilleur twist de la série.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 64.44,
+     "end": 64.52
+    },
+    {
+     "w": "le",
+     "start": 64.52,
+     "end": 64.62
+    },
+    {
+     "w": "détail",
+     "start": 64.62,
+     "end": 64.84
+    },
+    {
+     "w": "qui",
+     "start": 64.84,
+     "end": 65.04
+    },
+    {
+     "w": "tue,",
+     "start": 65.04,
+     "end": 65.3
+    },
+    {
+     "w": "c'est",
+     "start": 65.42,
+     "end": 65.54
+    },
+    {
+     "w": "que",
+     "start": 65.54,
+     "end": 65.64
+    },
+    {
+     "w": "Lakan",
+     "start": 65.64,
+     "end": 65.98
+    },
+    {
+     "w": "est",
+     "start": 65.98,
+     "end": 66.08
+    },
+    {
+     "w": "le",
+     "start": 66.08,
+     "end": 66.24
+    },
+    {
+     "w": "vrai",
+     "start": 66.24,
+     "end": 66.36
+    },
+    {
+     "w": "père",
+     "start": 66.36,
+     "end": 66.62
+    },
+    {
+     "w": "de",
+     "start": 66.62,
+     "end": 66.78
+    },
+    {
+     "w": "Maomao.",
+     "start": 66.78,
+     "end": 67.24
+    },
+    {
+     "w": "Tout",
+     "start": 67.8,
+     "end": 68.04
+    },
+    {
+     "w": "son",
+     "start": 68.04,
+     "end": 68.24
+    },
+    {
+     "w": "génie,",
+     "start": 68.24,
+     "end": 68.56
+    },
+    {
+     "w": "elle",
+     "start": 68.7,
+     "end": 68.88
+    },
+    {
+     "w": "le",
+     "start": 68.88,
+     "end": 68.98
+    },
+    {
+     "w": "tient",
+     "start": 68.98,
+     "end": 69.1
+    },
+    {
+     "w": "de",
+     "start": 69.1,
+     "end": 69.24
+    },
+    {
+     "w": "l'homme",
+     "start": 69.24,
+     "end": 69.42
+    },
+    {
+     "w": "qu'elle",
+     "start": 69.42,
+     "end": 69.6
+    },
+    {
+     "w": "déteste",
+     "start": 69.6,
+     "end": 70.0
+    },
+    {
+     "w": "le",
+     "start": 70.0,
+     "end": 70.18
+    },
+    {
+     "w": "plus.",
+     "start": 70.18,
+     "end": 70.4
+    },
+    {
+     "w": "Le",
+     "start": 71.04,
+     "end": 71.1
+    },
+    {
+     "w": "meilleur",
+     "start": 71.1,
+     "end": 71.3
+    },
+    {
+     "w": "twist",
+     "start": 71.3,
+     "end": 71.62
+    },
+    {
+     "w": "de",
+     "start": 71.62,
+     "end": 71.86
+    },
+    {
+     "w": "la",
+     "start": 71.86,
+     "end": 71.98
+    },
+    {
+     "w": "série.",
+     "start": 71.98,
+     "end": 72.2
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 72.34,
+   "end": 76.24,
+   "slot_end": 76.365,
+   "text": "Et toi, c'est qui ton numéro 1 ? Dis-le en com', et si tu mets Jinshi, on doit parler.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 72.34,
+     "end": 72.44
+    },
+    {
+     "w": "toi,",
+     "start": 72.44,
+     "end": 72.52
+    },
+    {
+     "w": "c'est",
+     "start": 72.6,
+     "end": 72.66
+    },
+    {
+     "w": "qui",
+     "start": 72.66,
+     "end": 72.76
+    },
+    {
+     "w": "ton",
+     "start": 72.76,
+     "end": 72.88
+    },
+    {
+     "w": "numéro",
+     "start": 72.88,
+     "end": 73.04
+    },
+    {
+     "w": "1",
+     "start": 73.04,
+     "end": 73.32
+    },
+    {
+     "w": "?",
+     "start": 74.0,
+     "end": 74.12
+    },
+    {
+     "w": "Dis-le",
+     "start": 74.12,
+     "end": 74.18
+    },
+    {
+     "w": "en",
+     "start": 74.18,
+     "end": 74.3
+    },
+    {
+     "w": "com',",
+     "start": 74.3,
+     "end": 74.48
+    },
+    {
+     "w": "et",
+     "start": 74.94,
+     "end": 75.0
+    },
+    {
+     "w": "si",
+     "start": 75.0,
+     "end": 75.12
+    },
+    {
+     "w": "tu",
+     "start": 75.12,
+     "end": 75.2
+    },
+    {
+     "w": "mets",
+     "start": 75.2,
+     "end": 75.47
+    },
+    {
+     "w": "Jinshi,",
+     "start": 75.47,
+     "end": 75.74
+    },
+    {
+     "w": "on",
+     "start": 75.82,
+     "end": 75.87
+    },
+    {
+     "w": "doit",
+     "start": 75.86,
+     "end": 75.96
+    },
+    {
+     "w": "parler.",
+     "start": 75.96,
+     "end": 76.24
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 76.38,
+   "end": 79.2,
+   "slot_end": 80.051,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 76.38,
+     "end": 76.62
+    },
+    {
+     "w": "Asura.",
+     "start": 76.62,
+     "end": 76.76
+    },
+    {
+     "w": "On",
+     "start": 76.76,
+     "end": 76.9
+    },
+    {
+     "w": "se",
+     "start": 77.88,
+     "end": 78.38
+    },
+    {
+     "w": "capte",
+     "start": 78.38,
+     "end": 78.48
+    },
+    {
+     "w": "au",
+     "start": 78.48,
+     "end": 78.62
+    },
+    {
+     "w": "prochain",
+     "start": 78.62,
+     "end": 78.8
+    },
+    {
+     "w": "épisode.",
+     "start": 78.8,
+     "end": 79.2
+    }
+   ]
+  }
+ ],
+ "aligned": 1.0
+}
