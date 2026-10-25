@@ -1,0 +1,1668 @@
+{
+ "engine": "fish",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-25_1749/voice.wav",
+ "duration": 87.15,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 3.34,
+   "slot_end": 3.506,
+   "text": "Et si le vrai méchant de Tokyo Revengers, c'était Takemichi ?",
+   "words": [
+    {
+     "w": "Et",
+     "start": 0.0,
+     "end": 0.16
+    },
+    {
+     "w": "si",
+     "start": 0.16,
+     "end": 0.4
+    },
+    {
+     "w": "le",
+     "start": 0.4,
+     "end": 0.64
+    },
+    {
+     "w": "vrai",
+     "start": 0.64,
+     "end": 0.92
+    },
+    {
+     "w": "méchant",
+     "start": 0.92,
+     "end": 1.56
+    },
+    {
+     "w": "de",
+     "start": 1.56,
+     "end": 1.74
+    },
+    {
+     "w": "Tokyo",
+     "start": 1.74,
+     "end": 1.92
+    },
+    {
+     "w": "Revengers,",
+     "start": 1.92,
+     "end": 2.4
+    },
+    {
+     "w": "c'était",
+     "start": 2.4,
+     "end": 2.76
+    },
+    {
+     "w": "Takemichi",
+     "start": 2.76,
+     "end": 3.05
+    },
+    {
+     "w": "?",
+     "start": 3.05,
+     "end": 3.34
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 3.5,
+   "end": 6.1,
+   "slot_end": 6.223,
+   "text": "Reste jusqu'au bout, le dernier point m'a fait douter de toute la série.",
+   "words": [
+    {
+     "w": "Reste",
+     "start": 3.5,
+     "end": 3.66
+    },
+    {
+     "w": "jusqu'au",
+     "start": 3.66,
+     "end": 4.04
+    },
+    {
+     "w": "bout,",
+     "start": 4.04,
+     "end": 4.18
+    },
+    {
+     "w": "le",
+     "start": 4.28,
+     "end": 4.4
+    },
+    {
+     "w": "dernier",
+     "start": 4.4,
+     "end": 4.54
+    },
+    {
+     "w": "point",
+     "start": 4.54,
+     "end": 4.78
+    },
+    {
+     "w": "m'a",
+     "start": 4.78,
+     "end": 5.0
+    },
+    {
+     "w": "fait",
+     "start": 5.0,
+     "end": 5.12
+    },
+    {
+     "w": "douter",
+     "start": 5.12,
+     "end": 5.36
+    },
+    {
+     "w": "de",
+     "start": 5.36,
+     "end": 5.58
+    },
+    {
+     "w": "toute",
+     "start": 5.58,
+     "end": 5.68
+    },
+    {
+     "w": "la",
+     "start": 5.68,
+     "end": 5.86
+    },
+    {
+     "w": "série.",
+     "start": 5.86,
+     "end": 6.1
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 6.26,
+   "end": 15.56,
+   "slot_end": 15.69,
+   "text": "C'est une théorie de fans, avec des spoilers jusqu'à Tenjiku. Tu connais le principe : Takemichi serre la main de Naoto, remonte le temps et essaie de sauver Hina.",
+   "words": [
+    {
+     "w": "C'est",
+     "start": 6.26,
+     "end": 6.4
+    },
+    {
+     "w": "une",
+     "start": 6.4,
+     "end": 6.58
+    },
+    {
+     "w": "théorie",
+     "start": 6.58,
+     "end": 6.98
+    },
+    {
+     "w": "de",
+     "start": 6.98,
+     "end": 7.18
+    },
+    {
+     "w": "fans,",
+     "start": 7.18,
+     "end": 7.44
+    },
+    {
+     "w": "avec",
+     "start": 7.44,
+     "end": 7.86
+    },
+    {
+     "w": "des",
+     "start": 7.86,
+     "end": 8.1
+    },
+    {
+     "w": "spoilers",
+     "start": 8.1,
+     "end": 8.32
+    },
+    {
+     "w": "jusqu'à",
+     "start": 8.32,
+     "end": 8.92
+    },
+    {
+     "w": "Tenjiku.",
+     "start": 8.92,
+     "end": 9.36
+    },
+    {
+     "w": "Tu",
+     "start": 10.2,
+     "end": 10.42
+    },
+    {
+     "w": "connais",
+     "start": 10.42,
+     "end": 10.64
+    },
+    {
+     "w": "le",
+     "start": 10.64,
+     "end": 10.78
+    },
+    {
+     "w": "principe",
+     "start": 10.78,
+     "end": 11.02
+    },
+    {
+     "w": ":",
+     "start": 11.3,
+     "end": 11.573
+    },
+    {
+     "w": "Takemichi",
+     "start": 11.573,
+     "end": 11.847
+    },
+    {
+     "w": "serre",
+     "start": 11.847,
+     "end": 12.12
+    },
+    {
+     "w": "la",
+     "start": 12.12,
+     "end": 12.32
+    },
+    {
+     "w": "main",
+     "start": 12.32,
+     "end": 12.5
+    },
+    {
+     "w": "de",
+     "start": 12.5,
+     "end": 12.66
+    },
+    {
+     "w": "Naoto,",
+     "start": 12.66,
+     "end": 13.06
+    },
+    {
+     "w": "remonte",
+     "start": 13.7,
+     "end": 14.06
+    },
+    {
+     "w": "le",
+     "start": 14.06,
+     "end": 14.22
+    },
+    {
+     "w": "temps",
+     "start": 14.22,
+     "end": 14.4
+    },
+    {
+     "w": "et",
+     "start": 14.4,
+     "end": 14.62
+    },
+    {
+     "w": "essaie",
+     "start": 14.62,
+     "end": 14.92
+    },
+    {
+     "w": "de",
+     "start": 14.92,
+     "end": 15.02
+    },
+    {
+     "w": "sauver",
+     "start": 15.02,
+     "end": 15.3
+    },
+    {
+     "w": "Hina.",
+     "start": 15.3,
+     "end": 15.56
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 15.66,
+   "end": 19.68,
+   "slot_end": 19.813,
+   "text": "Sauf que regarde bien ce qui arrive à Mikey à chaque fois que Takemichi revient dans le présent.",
+   "words": [
+    {
+     "w": "Sauf",
+     "start": 15.66,
+     "end": 15.84
+    },
+    {
+     "w": "que",
+     "start": 15.84,
+     "end": 15.98
+    },
+    {
+     "w": "regarde",
+     "start": 15.98,
+     "end": 16.16
+    },
+    {
+     "w": "bien",
+     "start": 16.16,
+     "end": 16.4
+    },
+    {
+     "w": "ce",
+     "start": 16.4,
+     "end": 16.52
+    },
+    {
+     "w": "qui",
+     "start": 16.52,
+     "end": 16.6
+    },
+    {
+     "w": "arrive",
+     "start": 16.6,
+     "end": 16.8
+    },
+    {
+     "w": "à",
+     "start": 16.8,
+     "end": 16.92
+    },
+    {
+     "w": "Mikey",
+     "start": 16.92,
+     "end": 17.2
+    },
+    {
+     "w": "à",
+     "start": 17.2,
+     "end": 17.58
+    },
+    {
+     "w": "chaque",
+     "start": 17.58,
+     "end": 17.76
+    },
+    {
+     "w": "fois",
+     "start": 17.76,
+     "end": 17.98
+    },
+    {
+     "w": "que",
+     "start": 17.98,
+     "end": 18.1
+    },
+    {
+     "w": "Takemichi",
+     "start": 18.1,
+     "end": 18.66
+    },
+    {
+     "w": "revient",
+     "start": 18.66,
+     "end": 19.2
+    },
+    {
+     "w": "dans",
+     "start": 19.2,
+     "end": 19.32
+    },
+    {
+     "w": "le",
+     "start": 19.32,
+     "end": 19.42
+    },
+    {
+     "w": "présent.",
+     "start": 19.42,
+     "end": 19.68
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 19.82,
+   "end": 26.08,
+   "slot_end": 26.17,
+   "text": "Premier indice. Dans le premier futur, Mikey dirige un Toman devenu criminel. Mais il a encore du monde autour de lui.",
+   "words": [
+    {
+     "w": "Premier",
+     "start": 19.82,
+     "end": 19.96
+    },
+    {
+     "w": "indice.",
+     "start": 19.96,
+     "end": 20.4
+    },
+    {
+     "w": "Dans",
+     "start": 20.8,
+     "end": 20.92
+    },
+    {
+     "w": "le",
+     "start": 20.92,
+     "end": 21.04
+    },
+    {
+     "w": "premier",
+     "start": 21.04,
+     "end": 21.2
+    },
+    {
+     "w": "futur,",
+     "start": 21.2,
+     "end": 21.6
+    },
+    {
+     "w": "Mikey",
+     "start": 22.02,
+     "end": 22.16
+    },
+    {
+     "w": "dirige",
+     "start": 22.16,
+     "end": 22.54
+    },
+    {
+     "w": "un",
+     "start": 22.54,
+     "end": 22.74
+    },
+    {
+     "w": "Toman",
+     "start": 22.74,
+     "end": 23.14
+    },
+    {
+     "w": "devenu",
+     "start": 23.14,
+     "end": 23.38
+    },
+    {
+     "w": "criminel.",
+     "start": 23.38,
+     "end": 24.02
+    },
+    {
+     "w": "Mais",
+     "start": 24.3,
+     "end": 24.58
+    },
+    {
+     "w": "il",
+     "start": 24.58,
+     "end": 24.72
+    },
+    {
+     "w": "a",
+     "start": 24.72,
+     "end": 24.82
+    },
+    {
+     "w": "encore",
+     "start": 24.82,
+     "end": 24.98
+    },
+    {
+     "w": "du",
+     "start": 24.98,
+     "end": 25.18
+    },
+    {
+     "w": "monde",
+     "start": 25.18,
+     "end": 25.36
+    },
+    {
+     "w": "autour",
+     "start": 25.36,
+     "end": 25.74
+    },
+    {
+     "w": "de",
+     "start": 25.74,
+     "end": 25.92
+    },
+    {
+     "w": "lui.",
+     "start": 25.92,
+     "end": 26.08
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 26.16,
+   "end": 34.8,
+   "slot_end": 34.919,
+   "text": "Et à chaque saut, il perd quelqu'un. Baji à Halloween. Emma pendant Tenjiku. Et dans le futur d'après, Mikey est seul à la tête de Bonten, complètement vide.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 26.16,
+     "end": 26.26
+    },
+    {
+     "w": "à",
+     "start": 26.26,
+     "end": 26.38
+    },
+    {
+     "w": "chaque",
+     "start": 26.38,
+     "end": 26.5
+    },
+    {
+     "w": "saut,",
+     "start": 26.5,
+     "end": 26.78
+    },
+    {
+     "w": "il",
+     "start": 26.86,
+     "end": 26.92
+    },
+    {
+     "w": "perd",
+     "start": 26.92,
+     "end": 26.98
+    },
+    {
+     "w": "quelqu'un.",
+     "start": 26.98,
+     "end": 27.86
+    },
+    {
+     "w": "Baji",
+     "start": 27.86,
+     "end": 28.12
+    },
+    {
+     "w": "à",
+     "start": 28.12,
+     "end": 28.38
+    },
+    {
+     "w": "Halloween.",
+     "start": 28.46,
+     "end": 28.66
+    },
+    {
+     "w": "Emma",
+     "start": 29.4,
+     "end": 29.72
+    },
+    {
+     "w": "pendant",
+     "start": 29.72,
+     "end": 29.94
+    },
+    {
+     "w": "Tenjiku.",
+     "start": 29.94,
+     "end": 30.44
+    },
+    {
+     "w": "Et",
+     "start": 31.18,
+     "end": 31.36
+    },
+    {
+     "w": "dans",
+     "start": 31.36,
+     "end": 31.48
+    },
+    {
+     "w": "le",
+     "start": 31.48,
+     "end": 31.6
+    },
+    {
+     "w": "futur",
+     "start": 31.6,
+     "end": 31.88
+    },
+    {
+     "w": "d'après,",
+     "start": 31.88,
+     "end": 32.2
+    },
+    {
+     "w": "Mikey",
+     "start": 32.52,
+     "end": 32.74
+    },
+    {
+     "w": "est",
+     "start": 32.74,
+     "end": 33.02
+    },
+    {
+     "w": "seul",
+     "start": 33.02,
+     "end": 33.14
+    },
+    {
+     "w": "à",
+     "start": 33.14,
+     "end": 33.28
+    },
+    {
+     "w": "la",
+     "start": 33.28,
+     "end": 33.34
+    },
+    {
+     "w": "tête",
+     "start": 33.34,
+     "end": 33.5
+    },
+    {
+     "w": "de",
+     "start": 33.5,
+     "end": 33.68
+    },
+    {
+     "w": "Bonten,",
+     "start": 33.68,
+     "end": 34.02
+    },
+    {
+     "w": "complètement",
+     "start": 34.24,
+     "end": 34.5
+    },
+    {
+     "w": "vide.",
+     "start": 34.5,
+     "end": 34.8
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 34.92,
+   "end": 39.52,
+   "slot_end": 39.708,
+   "text": "Si t'aimes quand on décortique un anime comme ça, abonne-toi, j'en sors tous les jours et la prochaine théorie va piquer.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 34.92,
+     "end": 35.08
+    },
+    {
+     "w": "t'aimes",
+     "start": 35.08,
+     "end": 35.24
+    },
+    {
+     "w": "quand",
+     "start": 35.24,
+     "end": 35.38
+    },
+    {
+     "w": "on",
+     "start": 35.38,
+     "end": 35.48
+    },
+    {
+     "w": "décortique",
+     "start": 35.48,
+     "end": 35.72
+    },
+    {
+     "w": "un",
+     "start": 35.72,
+     "end": 35.86
+    },
+    {
+     "w": "anime",
+     "start": 35.86,
+     "end": 36.18
+    },
+    {
+     "w": "comme",
+     "start": 36.18,
+     "end": 36.34
+    },
+    {
+     "w": "ça,",
+     "start": 36.34,
+     "end": 36.54
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 37.18,
+     "end": 37.56
+    },
+    {
+     "w": "j'en",
+     "start": 37.72,
+     "end": 37.78
+    },
+    {
+     "w": "sors",
+     "start": 37.78,
+     "end": 37.9
+    },
+    {
+     "w": "tous",
+     "start": 37.9,
+     "end": 38.04
+    },
+    {
+     "w": "les",
+     "start": 38.04,
+     "end": 38.18
+    },
+    {
+     "w": "jours",
+     "start": 38.18,
+     "end": 38.36
+    },
+    {
+     "w": "et",
+     "start": 38.36,
+     "end": 38.5
+    },
+    {
+     "w": "la",
+     "start": 38.5,
+     "end": 38.58
+    },
+    {
+     "w": "prochaine",
+     "start": 38.58,
+     "end": 38.78
+    },
+    {
+     "w": "théorie",
+     "start": 38.78,
+     "end": 39.12
+    },
+    {
+     "w": "va",
+     "start": 39.12,
+     "end": 39.28
+    },
+    {
+     "w": "piquer.",
+     "start": 39.28,
+     "end": 39.52
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 39.72,
+   "end": 45.98,
+   "slot_end": 46.079,
+   "text": "Deuxième indice, et c'est là que ça devient chaud. C'est Mikey lui-même qui dissout le Toman, comme s'il voulait éloigner ses potes de lui.",
+   "words": [
+    {
+     "w": "Deuxième",
+     "start": 39.72,
+     "end": 40.02
+    },
+    {
+     "w": "indice,",
+     "start": 40.02,
+     "end": 40.4
+    },
+    {
+     "w": "et",
+     "start": 40.78,
+     "end": 40.86
+    },
+    {
+     "w": "c'est",
+     "start": 40.86,
+     "end": 41.0
+    },
+    {
+     "w": "là",
+     "start": 41.0,
+     "end": 41.1
+    },
+    {
+     "w": "que",
+     "start": 41.1,
+     "end": 41.18
+    },
+    {
+     "w": "ça",
+     "start": 41.18,
+     "end": 41.28
+    },
+    {
+     "w": "devient",
+     "start": 41.28,
+     "end": 41.5
+    },
+    {
+     "w": "chaud.",
+     "start": 41.5,
+     "end": 41.8
+    },
+    {
+     "w": "C'est",
+     "start": 42.32,
+     "end": 42.44
+    },
+    {
+     "w": "Mikey",
+     "start": 42.44,
+     "end": 42.78
+    },
+    {
+     "w": "lui-même",
+     "start": 42.78,
+     "end": 43.12
+    },
+    {
+     "w": "qui",
+     "start": 43.12,
+     "end": 43.3
+    },
+    {
+     "w": "dissout",
+     "start": 43.3,
+     "end": 43.72
+    },
+    {
+     "w": "le",
+     "start": 43.72,
+     "end": 43.94
+    },
+    {
+     "w": "Toman,",
+     "start": 43.94,
+     "end": 44.08
+    },
+    {
+     "w": "comme",
+     "start": 44.5,
+     "end": 44.6
+    },
+    {
+     "w": "s'il",
+     "start": 44.6,
+     "end": 44.88
+    },
+    {
+     "w": "voulait",
+     "start": 44.88,
+     "end": 45.02
+    },
+    {
+     "w": "éloigner",
+     "start": 45.02,
+     "end": 45.3
+    },
+    {
+     "w": "ses",
+     "start": 45.3,
+     "end": 45.46
+    },
+    {
+     "w": "potes",
+     "start": 45.46,
+     "end": 45.7
+    },
+    {
+     "w": "de",
+     "start": 45.7,
+     "end": 45.8
+    },
+    {
+     "w": "lui.",
+     "start": 45.8,
+     "end": 45.98
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 46.08,
+   "end": 51.12,
+   "slot_end": 51.263,
+   "text": "Les fans parlent de ses pulsions noires. Et dans l'arc des Trois Titans, il revient avec Kanto Manji, encore plus froid.",
+   "words": [
+    {
+     "w": "Les",
+     "start": 46.08,
+     "end": 46.18
+    },
+    {
+     "w": "fans",
+     "start": 46.18,
+     "end": 46.26
+    },
+    {
+     "w": "parlent",
+     "start": 46.26,
+     "end": 46.56
+    },
+    {
+     "w": "de",
+     "start": 46.56,
+     "end": 46.66
+    },
+    {
+     "w": "ses",
+     "start": 46.66,
+     "end": 46.76
+    },
+    {
+     "w": "pulsions",
+     "start": 46.76,
+     "end": 47.1
+    },
+    {
+     "w": "noires.",
+     "start": 47.1,
+     "end": 47.46
+    },
+    {
+     "w": "Et",
+     "start": 47.76,
+     "end": 47.84
+    },
+    {
+     "w": "dans",
+     "start": 47.84,
+     "end": 47.94
+    },
+    {
+     "w": "l'arc",
+     "start": 47.94,
+     "end": 48.1
+    },
+    {
+     "w": "des",
+     "start": 48.1,
+     "end": 48.32
+    },
+    {
+     "w": "Trois",
+     "start": 48.32,
+     "end": 48.46
+    },
+    {
+     "w": "Titans,",
+     "start": 48.46,
+     "end": 48.74
+    },
+    {
+     "w": "il",
+     "start": 48.84,
+     "end": 48.92
+    },
+    {
+     "w": "revient",
+     "start": 48.92,
+     "end": 49.14
+    },
+    {
+     "w": "avec",
+     "start": 49.14,
+     "end": 49.32
+    },
+    {
+     "w": "Kanto",
+     "start": 49.32,
+     "end": 49.56
+    },
+    {
+     "w": "Manji,",
+     "start": 49.56,
+     "end": 49.98
+    },
+    {
+     "w": "encore",
+     "start": 50.3,
+     "end": 50.62
+    },
+    {
+     "w": "plus",
+     "start": 50.62,
+     "end": 50.88
+    },
+    {
+     "w": "froid.",
+     "start": 50.88,
+     "end": 51.12
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 51.28,
+   "end": 57.68,
+   "slot_end": 57.781,
+   "text": "Troisième indice : Takemichi, lui, devient de plus en plus fort et entouré. Comme si tout ce qu'il gagnait, Mikey le perdait.",
+   "words": [
+    {
+     "w": "Troisième",
+     "start": 51.28,
+     "end": 51.54
+    },
+    {
+     "w": "indice",
+     "start": 51.54,
+     "end": 52.02
+    },
+    {
+     "w": ":",
+     "start": 52.42,
+     "end": 52.63
+    },
+    {
+     "w": "Takemichi,",
+     "start": 52.63,
+     "end": 52.84
+    },
+    {
+     "w": "lui,",
+     "start": 53.22,
+     "end": 53.42
+    },
+    {
+     "w": "devient",
+     "start": 53.42,
+     "end": 53.82
+    },
+    {
+     "w": "de",
+     "start": 53.82,
+     "end": 53.96
+    },
+    {
+     "w": "plus",
+     "start": 53.96,
+     "end": 54.12
+    },
+    {
+     "w": "en",
+     "start": 54.12,
+     "end": 54.24
+    },
+    {
+     "w": "plus",
+     "start": 54.24,
+     "end": 54.38
+    },
+    {
+     "w": "fort",
+     "start": 54.38,
+     "end": 54.68
+    },
+    {
+     "w": "et",
+     "start": 54.68,
+     "end": 54.9
+    },
+    {
+     "w": "entouré.",
+     "start": 54.9,
+     "end": 55.3
+    },
+    {
+     "w": "Comme",
+     "start": 55.72,
+     "end": 55.88
+    },
+    {
+     "w": "si",
+     "start": 55.88,
+     "end": 56.06
+    },
+    {
+     "w": "tout",
+     "start": 56.06,
+     "end": 56.18
+    },
+    {
+     "w": "ce",
+     "start": 56.18,
+     "end": 56.26
+    },
+    {
+     "w": "qu'il",
+     "start": 56.26,
+     "end": 56.4
+    },
+    {
+     "w": "gagnait,",
+     "start": 56.4,
+     "end": 56.78
+    },
+    {
+     "w": "Mikey",
+     "start": 56.86,
+     "end": 57.0
+    },
+    {
+     "w": "le",
+     "start": 57.0,
+     "end": 57.28
+    },
+    {
+     "w": "perdait.",
+     "start": 57.28,
+     "end": 57.68
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 57.68,
+   "end": 64.1,
+   "slot_end": 64.263,
+   "text": "Sauf que y'a un énorme trou dans la théorie. Shinichiro, le grand frère de Mikey, meurt bien avant que Takemichi touche au passé.",
+   "words": [
+    {
+     "w": "Sauf",
+     "start": 57.68,
+     "end": 58.0
+    },
+    {
+     "w": "que",
+     "start": 58.0,
+     "end": 58.2
+    },
+    {
+     "w": "y'a",
+     "start": 58.2,
+     "end": 58.28
+    },
+    {
+     "w": "un",
+     "start": 58.28,
+     "end": 58.44
+    },
+    {
+     "w": "énorme",
+     "start": 58.44,
+     "end": 58.92
+    },
+    {
+     "w": "trou",
+     "start": 58.92,
+     "end": 59.08
+    },
+    {
+     "w": "dans",
+     "start": 59.08,
+     "end": 59.22
+    },
+    {
+     "w": "la",
+     "start": 59.22,
+     "end": 59.32
+    },
+    {
+     "w": "théorie.",
+     "start": 59.32,
+     "end": 59.66
+    },
+    {
+     "w": "Shinichiro,",
+     "start": 60.22,
+     "end": 60.62
+    },
+    {
+     "w": "le",
+     "start": 60.74,
+     "end": 60.82
+    },
+    {
+     "w": "grand",
+     "start": 60.82,
+     "end": 61.02
+    },
+    {
+     "w": "frère",
+     "start": 61.02,
+     "end": 61.26
+    },
+    {
+     "w": "de",
+     "start": 61.26,
+     "end": 61.42
+    },
+    {
+     "w": "Mikey,",
+     "start": 61.42,
+     "end": 61.64
+    },
+    {
+     "w": "meurt",
+     "start": 61.88,
+     "end": 62.06
+    },
+    {
+     "w": "bien",
+     "start": 62.06,
+     "end": 62.32
+    },
+    {
+     "w": "avant",
+     "start": 62.32,
+     "end": 62.64
+    },
+    {
+     "w": "que",
+     "start": 62.64,
+     "end": 62.88
+    },
+    {
+     "w": "Takemichi",
+     "start": 62.88,
+     "end": 63.38
+    },
+    {
+     "w": "touche",
+     "start": 63.38,
+     "end": 63.76
+    },
+    {
+     "w": "au",
+     "start": 63.76,
+     "end": 63.84
+    },
+    {
+     "w": "passé.",
+     "start": 63.84,
+     "end": 64.1
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 64.3,
+   "end": 71.86,
+   "slot_end": 72.047,
+   "text": "Donc la noirceur de Mikey, elle était déjà là. Takemichi l'a peut-être juste réveillée. Ou alors c'est le seul mec capable de l'arrêter.",
+   "words": [
+    {
+     "w": "Donc",
+     "start": 64.3,
+     "end": 64.42
+    },
+    {
+     "w": "la",
+     "start": 64.42,
+     "end": 64.68
+    },
+    {
+     "w": "noirceur",
+     "start": 64.68,
+     "end": 65.18
+    },
+    {
+     "w": "de",
+     "start": 65.18,
+     "end": 65.34
+    },
+    {
+     "w": "Mikey,",
+     "start": 65.34,
+     "end": 65.6
+    },
+    {
+     "w": "elle",
+     "start": 65.94,
+     "end": 66.06
+    },
+    {
+     "w": "était",
+     "start": 66.06,
+     "end": 66.26
+    },
+    {
+     "w": "déjà",
+     "start": 66.26,
+     "end": 66.54
+    },
+    {
+     "w": "là.",
+     "start": 66.54,
+     "end": 66.7
+    },
+    {
+     "w": "Takemichi",
+     "start": 67.28,
+     "end": 67.68
+    },
+    {
+     "w": "l'a",
+     "start": 67.68,
+     "end": 67.9
+    },
+    {
+     "w": "peut-être",
+     "start": 67.9,
+     "end": 68.24
+    },
+    {
+     "w": "juste",
+     "start": 68.24,
+     "end": 68.5
+    },
+    {
+     "w": "réveillée.",
+     "start": 68.5,
+     "end": 69.04
+    },
+    {
+     "w": "Ou",
+     "start": 69.52,
+     "end": 69.92
+    },
+    {
+     "w": "alors",
+     "start": 69.92,
+     "end": 70.1
+    },
+    {
+     "w": "c'est",
+     "start": 70.1,
+     "end": 70.32
+    },
+    {
+     "w": "le",
+     "start": 70.32,
+     "end": 70.44
+    },
+    {
+     "w": "seul",
+     "start": 70.44,
+     "end": 70.64
+    },
+    {
+     "w": "mec",
+     "start": 70.64,
+     "end": 70.86
+    },
+    {
+     "w": "capable",
+     "start": 70.86,
+     "end": 71.22
+    },
+    {
+     "w": "de",
+     "start": 71.22,
+     "end": 71.5
+    },
+    {
+     "w": "l'arrêter.",
+     "start": 71.5,
+     "end": 71.86
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 72.02,
+   "end": 77.7,
+   "slot_end": 77.798,
+   "text": "Moi je pense que c'est les deux, frr. Takemichi, c'est la malédiction et le remède de Mikey en même temps.",
+   "words": [
+    {
+     "w": "Moi",
+     "start": 72.02,
+     "end": 72.12
+    },
+    {
+     "w": "je",
+     "start": 72.12,
+     "end": 72.22
+    },
+    {
+     "w": "pense",
+     "start": 72.22,
+     "end": 72.3
+    },
+    {
+     "w": "que",
+     "start": 72.3,
+     "end": 72.5
+    },
+    {
+     "w": "c'est",
+     "start": 72.5,
+     "end": 72.68
+    },
+    {
+     "w": "les",
+     "start": 72.68,
+     "end": 72.84
+    },
+    {
+     "w": "deux,",
+     "start": 72.84,
+     "end": 73.92
+    },
+    {
+     "w": "frr.",
+     "start": 73.92,
+     "end": 74.25
+    },
+    {
+     "w": "Takemichi,",
+     "start": 74.25,
+     "end": 74.58
+    },
+    {
+     "w": "c'est",
+     "start": 74.9,
+     "end": 74.98
+    },
+    {
+     "w": "la",
+     "start": 74.98,
+     "end": 75.14
+    },
+    {
+     "w": "malédiction",
+     "start": 75.14,
+     "end": 75.7
+    },
+    {
+     "w": "et",
+     "start": 75.7,
+     "end": 76.06
+    },
+    {
+     "w": "le",
+     "start": 76.06,
+     "end": 76.22
+    },
+    {
+     "w": "remède",
+     "start": 76.22,
+     "end": 76.64
+    },
+    {
+     "w": "de",
+     "start": 76.64,
+     "end": 76.84
+    },
+    {
+     "w": "Mikey",
+     "start": 76.84,
+     "end": 77.14
+    },
+    {
+     "w": "en",
+     "start": 77.14,
+     "end": 77.36
+    },
+    {
+     "w": "même",
+     "start": 77.36,
+     "end": 77.5
+    },
+    {
+     "w": "temps.",
+     "start": 77.5,
+     "end": 77.7
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 77.8,
+   "end": 82.94,
+   "slot_end": 83.168,
+   "text": "Alors toi, t'en penses quoi ? Takemichi, c'est le héros ou le pire truc qui soit arrivé à Mikey ? Dis-moi en com'.",
+   "words": [
+    {
+     "w": "Alors",
+     "start": 77.8,
+     "end": 77.98
+    },
+    {
+     "w": "toi,",
+     "start": 77.98,
+     "end": 78.14
+    },
+    {
+     "w": "t'en",
+     "start": 78.14,
+     "end": 78.3
+    },
+    {
+     "w": "penses",
+     "start": 78.3,
+     "end": 78.56
+    },
+    {
+     "w": "quoi",
+     "start": 78.56,
+     "end": 78.72
+    },
+    {
+     "w": "?",
+     "start": 79.28,
+     "end": 79.56
+    },
+    {
+     "w": "Takemichi,",
+     "start": 79.56,
+     "end": 79.84
+    },
+    {
+     "w": "c'est",
+     "start": 80.06,
+     "end": 80.16
+    },
+    {
+     "w": "le",
+     "start": 80.16,
+     "end": 80.3
+    },
+    {
+     "w": "héros",
+     "start": 80.3,
+     "end": 80.54
+    },
+    {
+     "w": "ou",
+     "start": 80.54,
+     "end": 80.66
+    },
+    {
+     "w": "le",
+     "start": 80.66,
+     "end": 80.76
+    },
+    {
+     "w": "pire",
+     "start": 80.76,
+     "end": 80.94
+    },
+    {
+     "w": "truc",
+     "start": 80.94,
+     "end": 81.04
+    },
+    {
+     "w": "qui",
+     "start": 81.04,
+     "end": 81.26
+    },
+    {
+     "w": "soit",
+     "start": 81.26,
+     "end": 81.36
+    },
+    {
+     "w": "arrivé",
+     "start": 81.36,
+     "end": 81.6
+    },
+    {
+     "w": "à",
+     "start": 81.6,
+     "end": 81.7
+    },
+    {
+     "w": "Mikey",
+     "start": 81.7,
+     "end": 81.948
+    },
+    {
+     "w": "?",
+     "start": 81.948,
+     "end": 82.196
+    },
+    {
+     "w": "Dis-moi",
+     "start": 82.196,
+     "end": 82.444
+    },
+    {
+     "w": "en",
+     "start": 82.444,
+     "end": 82.692
+    },
+    {
+     "w": "com'.",
+     "start": 82.692,
+     "end": 82.94
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 83.18,
+   "end": 86.32,
+   "slot_end": 87.15,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 83.18,
+     "end": 83.48
+    },
+    {
+     "w": "Asura.",
+     "start": 83.48,
+     "end": 84.18
+    },
+    {
+     "w": "On",
+     "start": 84.96,
+     "end": 85.12
+    },
+    {
+     "w": "se",
+     "start": 85.12,
+     "end": 85.26
+    },
+    {
+     "w": "capte",
+     "start": 85.26,
+     "end": 85.5
+    },
+    {
+     "w": "au",
+     "start": 85.5,
+     "end": 85.62
+    },
+    {
+     "w": "prochain",
+     "start": 85.62,
+     "end": 85.88
+    },
+    {
+     "w": "épisode.",
+     "start": 85.88,
+     "end": 86.32
+    }
+   ]
+  }
+ ],
+ "aligned": 1.0
+}
