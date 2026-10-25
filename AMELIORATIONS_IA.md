@@ -40,6 +40,8 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
    Tenu le 22/10 08:00 (1 629 car. = 81,4 s à 25,1 car./s, sans alerte) : garder 1 620 à 1 650 car.
    Le 22/10 17:00, 1 634 car. = 77,2 s (débit 25,6, alerte) au 1er rendu, 1 635 car. = 79,9 s au 2e : couper les phrases longues
    en deux (« Il a le temps. Et il veut... ») ralentit la voix plus que d'ajouter du texte.
+   Débit au-dessus de 25,5 sur 3 des 10 derniers audits (25,7 ; 25,7 ; 25,8 le 25/10 19:00, 79 s pour 1 633 car.) : les énumérations
+   à la virgule (« Cacher tes numéros, prendre la photo, poser trois questions ») accélèrent la voix ; une étape par phrase courte.
 8. « Claude » entendu « cloud » sur 2 vidéos (23/10 12:00 2 fois, 23/10 19:00 3 fois) ; le lexique « clôde » n'y change rien (essayé au 2e rendu du 23/10 19:00,
    retiré). Le dire 4 fois maximum par vidéo, jamais en tout début de phrase : écrire « Avec Claude, ... », « demande à Claude » ou remplacer par « l'IA ».
    Encore entendu « cloud » le 25/10 12:00 (« applications qui utilisent Claude ») : remplacé par « intelligence artificielle », bien entendu au 2e rendu.
@@ -50,13 +52,16 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
   Aujourd'hui « PDF » (dit « p d f ») et « PowerPoint » (dit « paoueur pointe ») comptent comme des
   écarts alors qu'ils sont bien entendus, ce qui fait passer la prononciation sous 93 % à tort. Même chose pour les sigles du lexique (« QR », « SMS » dits
   « Q R », « S M S » mais transcrits « qr », « sms » : 5 écarts sur la vidéo du 22/10 22:00), 8 écarts « A P I » / « api » le 25/10 12:00, prononciation affichée 81 % pour une voix correcte).
-- Audit : ignorer les homophones (« rends » / « rend », « ton » / « t'on ») dans les mots mal compris.
+- Audit : ignorer les homophones (« rends » / « rend », « ton » / « t'on », infinitif / impératif « poser » / « posez », « payer » / « payée ») dans les mots mal compris.
 - Audit : relancer `factory.audit` sur le même run ajoute une 2e ligne identique dans `audits_ia.jsonl` (doublons 14/10 12:00 et 19:00), ce qui gonfle le compte des « mots mal compris sur plusieurs vidéos ». Remplacer la ligne du même stamp au lieu d'en ajouter une.
 - Rendu : Remotion télécharge son Chrome depuis remotion.media, bloqué par le proxy du conteneur (403) le 23/10 12:00. Contourné à la main en liant
   `remotion/node_modules/.remotion/chrome-headless-shell/linux64/chrome-headless-shell-linux64` au Chromium local `/opt/pw-browsers/chromium_headless_shell-*`
   (+ fichier VERSION attendu) : à intégrer dans setup.sh, sinon chaque run neuf échoue à l'étape montage.
 
 ## Journal (1 ligne par revue, la plus récente en haut, 20 lignes maximum)
+- 2026-10-25 (19:00) : 1er rendu à 88 % (« quatre gestes » entendu « cas de geste », « simple. Avis » « sain a vis », « aplomb » « un plomb ») : reformulés, 2e rendu à 91 % avec alerte,
+  débit 25,8 car./s (79,1 s pour 1 633 car.) ; écarts restants surtout graphie « IA » / « i a » et infinitif / impératif (piste précisée), « cite » entendu « si tu es » (1 seule vidéo). Sur les 10 derniers audits,
+  2 sans alerte (3 débit à 25,7-25,8, 6 prononciation à 81-93 %, dont 2 gonflées par les sigles). Règle 7 précisée (énumérations). Chrome de Remotion relié à la main (piste déjà notée). Doublon d'audit retiré.
 - 2026-10-25 (12:00) : 1er rendu à 81 % (« une actu parle » entendu « acte tu parles », « clé API » « crée api », « Claude » « cloud », « Ce qu'on croit ? » avalé) : reformulés,
   2e rendu à 81 % avec alerte, mais 8 écarts sur 12 sont « API » dit en lettres et transcrit « api » (graphie, piste déjà notée) : voix correcte. Débit 25,3 car./s, 83,4 s pour 1 647 car. : règle 7 tenue.
   Sur les 10 derniers audits, 3 sans alerte (2 débit à 25,7, 5 prononciation dont 2 gonflées par les sigles). « Claude » / « cloud » sur une 3e vidéo : règle 8 précisée. Chrome de Remotion relié à la main (piste déjà notée).
@@ -118,7 +123,3 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
   « un clic », « Résultat ») : reformulés (« jeudi », « chaque prospect reçoit un statut », « en un seul clic », « Au final »),
   2e rendu à 93 % sans alerte (débit 24,2 car./s, 91,2 s). Sur les 10 derniers audits, débit 23,8 à 25,4 car./s, 7 sans alerte.
   « Résultat » en ouverture mal compris sur 2 vidéos : règle 5 étendue. Doublon d'audit du même stamp retiré à la main (piste déjà notée).
-- 2026-10-17 (19:00) : 5 audits de suite sans alerte (16/10 19:00 à 17/10 19:00), débit 24,8 car./s, prononciation 94 %, 90,2 s.
-  Règles 5 et 6 tenues. Prénom « Inès » mal compris 2 fois (« linaise ») sur 1 seule vidéo : pas de lexique, préférer des
-  prénoms d'une syllabe ou très courants dans les exemples. « radiusse », « tchatte », « anne tropique » restent en tête des
-  « mots mal compris » mais viennent de la graphie phonétique (piste déjà notée). Pas de nouvelle règle.
