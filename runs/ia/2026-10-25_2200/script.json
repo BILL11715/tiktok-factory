@@ -1,0 +1,219 @@
+{
+ "title": "Relancer un prospect sans l'oublier",
+ "theme": "seo",
+ "pillar": "seo-radius",
+ "format": "mythe",
+ "music": "pote",
+ "cover": {
+  "text": "Son silence n'est pas non",
+  "highlight": [
+   "silence"
+  ],
+  "emoji": "📬",
+  "sub": "l'art de la relance"
+ },
+ "hook_text": "Pas de réponse à ton message ? Ça ne veut pas dire non.",
+ "segments": [
+  {
+   "text": "Pas de réponse à ton message ? Ça ne veut pas dire non.",
+   "emphasis": [
+    "non"
+   ]
+  },
+  {
+   "text": "C'est une idée reçue qui fait perdre des clients. Un artisan passe sa journée sur les chantiers. Il lit ton message, et il l'oublie.",
+   "visual": {
+    "kind": "title",
+    "kicker": "L'idée reçue",
+    "text": "Pas de réponse = non",
+    "highlight": [
+     "non"
+    ],
+    "sub": "et si c'était un oubli ?"
+   }
+  },
+  {
+   "text": "Le silence, c'est souvent un oubli. Pas un refus. La vraie question : comment relancer sans oublier personne ?",
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "Ce qu'on croit",
+     "items": [
+      "Pas intéressé",
+      "Je laisse tomber"
+     ]
+    },
+    "right": {
+     "title": "Souvent",
+     "items": [
+      "Il a oublié",
+      "Il attend un rappel"
+     ]
+    }
+   }
+  },
+  {
+   "text": "Pour ça, j'utilise le suivi de SEO Radius. Chaque prospect reçoit un statut. Réservé. Contacté. En attente. Et enfin, gagné.",
+   "visual": {
+    "kind": "list",
+    "title": "Les 4 statuts",
+    "items": [
+     "Réservé",
+     "Contacté",
+     "En attente",
+     "Gagné"
+    ],
+    "at": [
+     "réservé",
+     "contacté",
+     "attente",
+     "gagné"
+    ]
+   }
+  },
+  {
+   "text": "Imagine un couvreur à Nantes, trouvé en page 2. Avec la réservation exclusive, il disparaît des listes des autres pendant 7 à 30 jours, selon le plan.",
+   "visual": {
+    "kind": "search",
+    "query": "couvreur Nantes",
+    "results": [
+     {
+      "name": "Nantes Toiture Pro",
+      "note": "page 1",
+      "rating": "4,5"
+     },
+     {
+      "name": "Couverture Morel",
+      "note": "page 2, fiche sans photo",
+      "rating": "4,8"
+     }
+    ],
+    "pick": 1
+   }
+  },
+  {
+   "text": "Lundi, il reçoit ton premier message, avec un seul constat. Sa fiche Google n'a aucune photo. Il passe en contacté.",
+   "visual": {
+    "kind": "chat",
+    "name": "Premier message",
+    "user": "Écris un message court pour un couvreur de Nantes dont la fiche Google n'a aucune photo.",
+    "assistant": "Bonjour Paul, en cherchant couvreur Nantes, je vois votre fiche Google sans aucune photo. Vos concurrents en ont plusieurs. Je vous montre ça en 10 minutes ?"
+   }
+  },
+  {
+   "text": "Jeudi, toujours rien. C'est le moment où on a envie d'abandonner. Garde ton calme, et passe-le en attente.",
+   "sfx": true,
+   "stamp": "jeudi",
+   "visual": {
+    "kind": "title",
+    "kicker": "Trois jours plus tard",
+    "text": "Toujours rien",
+    "highlight": [
+     "rien"
+    ],
+    "sub": "statut : en attente"
+   }
+  },
+  {
+   "text": "Ma règle est simple : trois relances au maximum. La première au bout de trois jours. La deuxième, une semaine plus tard. La dernière, deux semaines après.",
+   "visual": {
+    "kind": "list",
+    "title": "3 relances maximum",
+    "items": [
+     "Au bout de 3 jours",
+     "Une semaine après",
+     "Deux semaines après"
+    ],
+    "at": [
+     "première",
+     "deuxième",
+     "dernière"
+    ]
+   }
+  },
+  {
+   "text": "Chaque relance apporte une info nouvelle. Un avis resté sans réponse. Un concurrent qui vient de passer devant lui. Jamais le même message copié.",
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "Relance ratée",
+     "items": [
+      "Alors, vous avez vu ?",
+      "Le même message"
+     ]
+    },
+    "right": {
+     "title": "Relance utile",
+     "items": [
+      "Un nouveau constat",
+      "Une question simple"
+     ]
+    }
+   }
+  },
+  {
+   "text": "Note la date de la prochaine relance à côté de chaque prospect en attente. Chaque matin, un coup d'œil suffit.",
+   "emphasis": [
+    "date"
+   ],
+   "visual": {
+    "kind": "title",
+    "kicker": "Chaque matin",
+    "text": "Qui je relance aujourd'hui ?",
+    "highlight": [
+     "aujourd'hui"
+    ],
+    "sub": "la date à côté du statut"
+   }
+  },
+  {
+   "text": "Et s'il dit non ? Aucun souci. Mieux vaut le noter et libérer ta place pour un autre artisan.",
+   "stamp": "libre"
+  },
+  {
+   "text": "Et quand il dit oui, il passe en gagné. Au final, ta liste te montre où tu en es.",
+   "visual": {
+    "kind": "stat",
+    "value": 4,
+    "suffix": " statuts",
+    "label": "pour ne perdre aucun prospect",
+    "source": "SEO Radius, suivi des prospects"
+   }
+  },
+  {
+   "text": "Une dernière chose : personne ne peut garantir la première place sur Google. Garantis plutôt du concret, comme dix photos ajoutées cette semaine.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Au premier oui",
+    "text": "Du concret, pas la 1re place",
+    "highlight": [
+     "concret"
+    ],
+    "sub": "des photos cette semaine"
+   }
+  },
+  {
+   "text": "Et toi, au bout de combien de relances est-ce que tu laisses tomber ? Dis-moi ton chiffre en commentaire.",
+   "visual": {
+    "kind": "card",
+    "emoji": "📬",
+    "owner": "SEO Radius",
+    "name": "Suivi des prospects",
+    "desc": "Réservé, contacté, en attente, gagné",
+    "tags": [
+     "relances",
+     "réservation 7 à 30 j"
+    ],
+    "url": "seoradius.fr"
+   }
+  }
+ ],
+ "caption": "Pas de réponse ne veut pas dire non 📬 Ma méthode de relance en 3 messages pour ne perdre aucun prospect (outil en lien en bio)",
+ "hashtags": [
+  "#seo",
+  "#seolocal",
+  "#freelance",
+  "#prospection",
+  "#relance"
+ ]
+}

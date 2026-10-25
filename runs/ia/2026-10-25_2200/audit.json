@@ -1,0 +1,67 @@
+{
+ "stamp": "2026-10-25_2200",
+ "duration": 85.7,
+ "lead": 0.6,
+ "cps": 25.0,
+ "accuracy": 0.94,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "ne",
+   "entendu": ""
+  },
+  {
+   "dit": "l",
+   "entendu": ""
+  },
+  {
+   "dit": "le",
+   "entendu": "mais"
+  },
+  {
+   "dit": "c",
+   "entendu": ""
+  },
+  {
+   "dit": "oubli",
+   "entendu": "oublie"
+  },
+  {
+   "dit": "s e o radiusse",
+   "entendu": "seo radius"
+  },
+  {
+   "dit": "contacte jeudi",
+   "entendu": "contactee je dis"
+  },
+  {
+   "dit": "le",
+   "entendu": "lui"
+  },
+  {
+   "dit": "copie",
+   "entendu": "copier"
+  },
+  {
+   "dit": "prospect",
+   "entendu": "cross paye"
+  },
+  {
+   "dit": "mieux",
+   "entendu": "nieux"
+  },
+  {
+   "dit": "gagne",
+   "entendu": "gagner"
+  },
+  {
+   "dit": "garantis",
+   "entendu": "garantie"
+  },
+  {
+   "dit": "relances",
+   "entendu": "relance"
+  }
+ ],
+ "alerts": []
+}
