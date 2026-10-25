@@ -1,0 +1,85 @@
+{
+ "stamp": "2026-10-25_0800",
+ "duration": 82.9,
+ "lead": 0.6,
+ "cps": 24.6,
+ "accuracy": 0.879,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "securise",
+   "entendu": "securises"
+  },
+  {
+   "dit": "referment",
+   "entendu": "refarment"
+  },
+  {
+   "dit": "h t t p s",
+   "entendu": "https"
+  },
+  {
+   "dit": "h t t p s",
+   "entendu": "https"
+  },
+  {
+   "dit": "s e o radiusse",
+   "entendu": "seo radius"
+  },
+  {
+   "dit": "ecarte",
+   "entendu": "et carte"
+  },
+  {
+   "dit": "opportunite estime",
+   "entendu": "opportunites estimes"
+  },
+  {
+   "dit": "ceux",
+   "entendu": "ce"
+  },
+  {
+   "dit": "affichent",
+   "entendu": "affiche"
+  },
+  {
+   "dit": "mets les",
+   "entendu": "mele"
+  },
+  {
+   "dit": "d hebergeurs",
+   "entendu": "des bergers"
+  },
+  {
+   "dit": "h t t p s",
+   "entendu": "https"
+  },
+  {
+   "dit": "garantis",
+   "entendu": "garanties"
+  },
+  {
+   "dit": "c",
+   "entendu": "ce n"
+  },
+  {
+   "dit": "une porte",
+   "entendu": "pas"
+  },
+  {
+   "dit": "entree",
+   "entendu": "entrer"
+  },
+  {
+   "dit": "affichent",
+   "entendu": "affiche"
+  },
+  {
+   "dit": "non securise",
+   "entendu": "d en securiser"
+  }
+ ],
+ "alerts": [
+  "prononciation 88% des mots compris (min 93%)"
+ ]
+}

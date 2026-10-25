@@ -1,0 +1,202 @@
+{
+ "title": "Site « Non sécurisé » : un argument de prospection",
+ "theme": "seo",
+ "pillar": "seo-radius",
+ "format": "methode",
+ "music": "pote",
+ "cover": {
+  "text": "Son site fait fuir ses clients",
+  "highlight": [
+   "fuir"
+  ],
+  "emoji": "🔓",
+  "sub": "et il ne le sait pas"
+ },
+ "hook_text": "Ce plombier perd des clients à cause de deux mots : Non sécurisé.",
+ "segments": [
+  {
+   "text": "Ce plombier perd des clients à cause de deux mots : Non sécurisé.",
+   "emphasis": [
+    "sécurisé"
+   ]
+  },
+  {
+   "text": "Sur Chrome, ce message s'affiche juste à côté de l'adresse de son site. Et beaucoup de visiteurs referment la page aussitôt.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Dans Chrome",
+    "text": "⚠ Non sécurisé",
+    "highlight": [
+     "sécurisé"
+    ],
+    "sub": "à côté de l'adresse"
+   }
+  },
+  {
+   "text": "Il veut dire que le site n'a pas le petit cadenas, le https. Depuis juillet 2018, Chrome l'affiche sur tous les sites sans cadenas.",
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "http://",
+     "items": [
+      "Non sécurisé",
+      "Pas de cadenas"
+     ]
+    },
+    "right": {
+     "title": "https://",
+     "items": [
+      "Cadenas",
+      "Connexion chiffrée"
+     ]
+    }
+   }
+  },
+  {
+   "text": "Et Google l'a annoncé dès 2014 : le https compte dans son classement. Un petit signal, pas une baguette magique.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Google, 2014",
+    "text": "Le https compte",
+    "highlight": [
+     "https"
+    ],
+    "sub": "un petit signal"
+   }
+  },
+  {
+   "text": "Mais le vrai problème, c'est la confiance. Personne n'aime demander un devis sur une page qui crie le contraire."
+  },
+  {
+   "text": "Alors, comment trouver ces sites ? Pour ça, j'utilise SEO Radius.",
+   "sfx": true,
+   "visual": {
+    "kind": "search",
+    "query": "plombier Nantes",
+    "results": [
+     {
+      "name": "Plomberie Erdre",
+      "note": "Non sécurisé",
+      "rating": "4,6"
+     },
+     {
+      "name": "Nantes Dépannage Eau",
+      "note": "site lent",
+      "rating": "4,1"
+     },
+     {
+      "name": "AB Sanitaire",
+      "note": "cadenas OK",
+      "rating": "4,3"
+     }
+    ],
+    "pick": 0
+   }
+  },
+  {
+   "text": "Ensuite, tu choisis un métier et une ville. Le logiciel analyse jusqu'à 50 résultats Google, écarte les annuaires, donne un score d'opportunité estimé.",
+   "visual": {
+    "kind": "stat",
+    "value": 50,
+    "suffix": "",
+    "label": "résultats Google analysés",
+    "source": "SEO Radius, annuaires écartés"
+   }
+  },
+  {
+   "text": "Après, ouvre les sites des mieux placés. Regarde à gauche de l'adresse : un cadenas, ou le message gris ?",
+   "visual": {
+    "kind": "list",
+    "title": "La vérif en 1 minute",
+    "items": [
+     "Ouvrir le site",
+     "Regarder l'adresse",
+     "Noter le message"
+    ],
+    "at": [
+     "ouvre",
+     "Regarde",
+     "message"
+    ]
+   }
+  },
+  {
+   "text": "Ceux qui affichent Non sécurisé, mets-les de côté avec la réservation exclusive : 7 à 30 jours selon le plan.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Réservation exclusive",
+    "text": "7 à 30 jours",
+    "highlight": [
+     "30"
+    ],
+    "sub": "rien que pour toi"
+   }
+  },
+  {
+   "text": "Au premier contact, un seul constat et une capture d'écran. Le brouillon, tu peux le préparer avec Claude, mais vérifie chaque mot.",
+   "visual": {
+    "kind": "chat",
+    "name": "Claude",
+    "user": "Écris un message court à un plombier dont le site affiche Non sécurisé.",
+    "assistant": "Bonjour, en ouvrant votre site sur mon téléphone, j'ai vu le message Non sécurisé près de l'adresse. Vos clients le voient aussi. On en parle dix minutes jeudi ?"
+   }
+  },
+  {
+   "text": "La bonne nouvelle ? Souvent, ce n'est pas un gros chantier. Chez beaucoup d'hébergeurs, le certificat est gratuit.",
+   "stamp": "gratuit"
+  },
+  {
+   "text": "La petite mission à proposer : activer le certificat, rediriger les pages vers le https, et tester sur téléphone.",
+   "visual": {
+    "kind": "list",
+    "title": "La mission",
+    "items": [
+     "Activer le certificat",
+     "Rediriger vers https",
+     "Tester sur téléphone"
+    ],
+    "at": [
+     "certificat",
+     "rediriger",
+     "tester"
+    ]
+   }
+  },
+  {
+   "text": "Par contre, ne garantis jamais la première place. Le cadenas rassure, il ne fait pas monter un site tout seul.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Reste honnête",
+    "text": "Pas de 1re place garantie",
+    "highlight": [
+     "garantie"
+    ],
+    "sub": "le cadenas rassure, c'est tout"
+   }
+  },
+  {
+   "text": "Et c'est une porte d'entrée vers la suite : les photos, les avis, la vitesse.",
+   "emphasis": [
+    "porte"
+   ]
+  },
+  {
+   "text": "Aujourd'hui, ouvre trois sites d'artisans près de chez toi. Combien affichent encore Non sécurisé ? Dis-le-moi en commentaire.",
+   "visual": {
+    "kind": "stat",
+    "value": 3,
+    "suffix": "",
+    "label": "sites à tester aujourd'hui",
+    "source": "ton défi du jour"
+   }
+  }
+ ],
+ "caption": "Le message « Non sécurisé » sur le site d'un artisan, c'est ton premier argument 🔓 (outil en bio, lien en bio)",
+ "hashtags": [
+  "#seo",
+  "#seolocal",
+  "#freelance",
+  "#prospection",
+  "#https"
+ ]
+}
