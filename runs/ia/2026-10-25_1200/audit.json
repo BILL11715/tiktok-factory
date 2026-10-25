@@ -1,0 +1,109 @@
+{
+ "stamp": "2026-10-25_1200",
+ "duration": 83.4,
+ "lead": 0.6,
+ "cps": 25.3,
+ "accuracy": 0.814,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "a p i",
+   "entendu": "api"
+  },
+  {
+   "dit": "a p i",
+   "entendu": "api"
+  },
+  {
+   "dit": "credits a p i",
+   "entendu": "credit api"
+  },
+  {
+   "dit": "aux developpeurs",
+   "entendu": "au developpeur"
+  },
+  {
+   "dit": "a p i",
+   "entendu": "api"
+  },
+  {
+   "dit": "a p i",
+   "entendu": "api"
+  },
+  {
+   "dit": "a p i",
+   "entendu": "api"
+  },
+  {
+   "dit": "i a",
+   "entendu": "ia"
+  },
+  {
+   "dit": "a p i",
+   "entendu": "api"
+  },
+  {
+   "dit": "anne tropique",
+   "entendu": "anthropique"
+  },
+  {
+   "dit": "a p i",
+   "entendu": "api"
+  },
+  {
+   "dit": "sur",
+   "entendu": "dans"
+  },
+  {
+   "dit": "cle a p i",
+   "entendu": "creee api"
+  },
+  {
+   "dit": "prouve",
+   "entendu": "prouvent"
+  },
+  {
+   "dit": "vient",
+   "entendu": "vienne"
+  },
+  {
+   "dit": "cle a p i",
+   "entendu": "creee api"
+  },
+  {
+   "dit": "passe",
+   "entendu": "base"
+  },
+  {
+   "dit": "peut commander",
+   "entendu": "peu commande"
+  },
+  {
+   "dit": "le dit",
+   "entendu": "jeudi"
+  },
+  {
+   "dit": "envoie",
+   "entendu": "en voit"
+  },
+  {
+   "dit": "cle a p i",
+   "entendu": "creee api"
+  },
+  {
+   "dit": "a p i c est un",
+   "entendu": "api s intens"
+  },
+  {
+   "dit": "l i a",
+   "entendu": "liat"
+  },
+  {
+   "dit": "flou",
+   "entendu": "fou"
+  }
+ ],
+ "alerts": [
+  "prononciation 81% des mots compris (min 93%)"
+ ]
+}

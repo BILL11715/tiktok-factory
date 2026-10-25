@@ -1,0 +1,234 @@
+{
+ "title": "Une API expliquée avec un restaurant",
+ "theme": "ia",
+ "pillar": "ia",
+ "format": "mythe",
+ "music": "pote",
+ "cover": {
+  "text": "Une API, c'est un serveur",
+  "highlight": [
+   "serveur"
+  ],
+  "emoji": "🍽️",
+  "sub": "expliqué sans jargon"
+ },
+ "hook_text": "Une API, c'est juste un serveur de restaurant. Je t'explique.",
+ "segments": [
+  {
+   "text": "Une API, c'est juste un serveur de restaurant. Je t'explique.",
+   "emphasis": [
+    "serveur"
+   ]
+  },
+  {
+   "text": "Le mot revient partout. Une application te demande une clé API, les infos parlent de crédits API, et on décroche.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Le mot du jour",
+    "text": "API",
+    "highlight": "API",
+    "sub": "le mot qui fait peur"
+   }
+  },
+  {
+   "text": "Beaucoup pensent que c'est un truc réservé aux développeurs. En réalité, on s'en sert des dizaines de fois par jour.",
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "Ce qu'on croit",
+     "items": [
+      "Réservé aux développeurs",
+      "Trop compliqué"
+     ]
+    },
+    "right": {
+     "title": "La réalité",
+     "items": [
+      "Partout au quotidien",
+      "Une idée simple"
+     ]
+    }
+   }
+  },
+  {
+   "text": "Imagine un restaurant. Toi, tu es à table. La cuisine prépare les plats. Entre les deux, il y a le serveur.",
+   "visual": {
+    "kind": "list",
+    "title": "Au restaurant",
+    "items": [
+     "Toi, à table",
+     "La cuisine",
+     "Le serveur"
+    ],
+    "at": [
+     "table",
+     "cuisine",
+     "serveur"
+    ]
+   }
+  },
+  {
+   "text": "Personne ne va en cuisine. Le serveur prend ta commande, la transmet, et revient avec ton plat.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Son rôle",
+    "text": "Prendre, transmettre, rapporter",
+    "highlight": "transmettre"
+   }
+  },
+  {
+   "text": "Une API, c'est exactement ce serveur, mais entre deux logiciels. Elle prend une demande, la passe au bon service, et rapporte la réponse.",
+   "stamp": "Le serveur",
+   "sfx": true,
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "Au restaurant",
+     "items": [
+      "Toi",
+      "Le serveur",
+      "La cuisine"
+     ]
+    },
+    "right": {
+     "title": "Entre logiciels",
+     "items": [
+      "Ton application",
+      "L'API",
+      "Le service"
+     ]
+    }
+   }
+  },
+  {
+   "text": "Quand ton application météo annonce la pluie, elle n'a pas de satellite. Elle demande la prévision à un service météo, par une API.",
+   "visual": {
+    "kind": "chat",
+    "name": "Appli météo",
+    "user": "Il pleut demain à Paris ?",
+    "assistant": "Je demande au service météo... Pluie prévue l'après-midi, 14 degrés."
+   }
+  },
+  {
+   "text": "Pareil quand un site te fait payer en ligne, ou affiche une carte pour trouver le magasin. Derrière, des API font le service.",
+   "visual": {
+    "kind": "list",
+    "title": "Des API partout",
+    "items": [
+     "Payer en ligne",
+     "Afficher une carte",
+     "Trouver le magasin"
+    ],
+    "at": [
+     "payer",
+     "carte",
+     "magasin"
+    ]
+   }
+  },
+  {
+   "text": "Et avec l'IA ? Beaucoup d'applications d'intelligence artificielle passent par une API. Ton message part en cuisine.",
+   "visual": {
+    "kind": "terminal",
+    "title": "Ce qui se passe",
+    "lines": [
+     {
+      "cmd": "envoyer : résume ce mail"
+     },
+     {
+      "out": "réponse : voici le résumé en 3 points"
+     }
+    ]
+   }
+  },
+  {
+   "text": "Début octobre, Anthropic, l'entreprise qui fait Claude, a même offert des crédits API à certaines formules payantes. Sur la formule Max, c'est 100 dollars par mois.",
+   "visual": {
+    "kind": "stat",
+    "value": 100,
+    "prefix": "",
+    "suffix": " $",
+    "label": "de crédits API par mois (Max 5x)",
+    "source": "platform.claude.com"
+   }
+  },
+  {
+   "text": "Pour t'en servir, on te donne une clé API. Une longue suite de caractères qui prouve que la commande vient de toi.",
+   "visual": {
+    "kind": "title",
+    "kicker": "La clé API",
+    "text": "Ton badge de client",
+    "highlight": "badge",
+    "sub": "une longue suite de caractères"
+   }
+  },
+  {
+   "text": "Et là, point important. Une clé API se protège comme un mot de passe. Celui qui l'a peut commander sur ton compte.",
+   "stamp": "Secret",
+   "sfx": true,
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "À ne jamais faire",
+     "items": [
+      "L'envoyer par mail",
+      "La coller en public"
+     ]
+    },
+    "right": {
+     "title": "Le bon réflexe",
+     "items": [
+      "Comme un mot de passe",
+      "Gardée secrète"
+     ]
+    }
+   }
+  },
+  {
+   "text": "Mailchimp, un service d'emailing, le dit noir sur blanc : n'envoie jamais une clé API par mail.",
+   "visual": {
+    "kind": "card",
+    "emoji": "🔑",
+    "owner": "Mailchimp",
+    "name": "Aide : les clés API",
+    "desc": "Protège ta clé comme ton mot de passe. Ne l'envoie jamais par mail.",
+    "tags": [
+     "page officielle"
+    ],
+    "url": "mailchimp.com/fr/help/about-api-keys"
+   }
+  },
+  {
+   "text": "Au final, une API, c'est un serveur entre deux logiciels. Et sa clé, c'est ton secret.",
+   "visual": {
+    "kind": "list",
+    "title": "À retenir",
+    "items": [
+     "Un serveur entre logiciels",
+     "Une clé, un secret"
+    ],
+    "at": [
+     "serveur",
+     "secret"
+    ]
+   }
+  },
+  {
+   "text": "Et toi, quel mot de l'IA te paraît encore flou ? Écris-le en commentaire.",
+   "visual": {
+    "kind": "title",
+    "kicker": "À toi",
+    "text": "Quel mot te paraît flou ?",
+    "highlight": "flou"
+   }
+  }
+ ],
+ "caption": "Une API, c'est un serveur de restaurant entre deux logiciels 🍽️ Crédits API de Claude : https://platform.claude.com/docs/en/about-claude/api-credits-for-subscribers",
+ "hashtags": [
+  "#ia",
+  "#api",
+  "#apprendresurtiktok",
+  "#intelligenceartificielle",
+  "#tech"
+ ]
+}
