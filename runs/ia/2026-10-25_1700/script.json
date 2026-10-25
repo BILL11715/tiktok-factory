@@ -1,0 +1,245 @@
+{
+ "title": "3 objections d'artisan : quoi répondre",
+ "theme": "seo",
+ "pillar": "seo-radius",
+ "format": "top",
+ "music": "pote",
+ "cover": {
+  "text": "Il t'a dit trop cher ?",
+  "highlight": [
+   "cher"
+  ],
+  "emoji": "📞",
+  "sub": "3 objections, 3 réponses"
+ },
+ "hook_text": "Pas le temps, pas besoin, trop cher ? Voici quoi répondre à un artisan.",
+ "segments": [
+  {
+   "text": "Pas le temps, pas besoin, trop cher ? Voici quoi répondre à un artisan.",
+   "emphasis": [
+    "répondre"
+   ]
+  },
+  {
+   "text": "Au téléphone, trois refus reviennent tout le temps. Chacun a sa réponse. Il suffit d'avoir préparé un constat avant d'appeler.",
+   "visual": {
+    "kind": "title",
+    "kicker": "3 objections",
+    "text": "Quoi répondre à un artisan",
+    "highlight": [
+     "répondre"
+    ],
+    "sub": "au premier appel"
+   }
+  },
+  {
+   "text": "Premier refus : je n'ai pas le temps. C'est souvent vrai. Il est sur un chantier, les mains occupées.",
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "Ce qu'il dit",
+     "items": [
+      "Pas le temps"
+     ]
+    },
+    "right": {
+     "title": "Ce que ça veut dire",
+     "items": [
+      "Pas maintenant",
+      "Rappelle-moi plus tard"
+     ]
+    }
+   }
+  },
+  {
+   "text": "Alors, pas de long discours. Un seul constat en une phrase. Et un autre moment précis : demain, 18 heures ?",
+   "stamp": "demain",
+   "visual": {
+    "kind": "chat",
+    "name": "Réponse courte",
+    "user": "Il me dit qu'il n'a pas le temps. Que répondre en une phrase ?",
+    "assistant": "Je comprends, je serai bref : votre fiche Google n'a aucune photo, vos concurrents en ont beaucoup. Je vous rappelle demain à 18 h ?"
+   }
+  },
+  {
+   "text": "Ce constat, je le prépare avant d'appeler. Pour trouver les entreprises en retard, j'utilise SEO Radius.",
+   "visual": {
+    "kind": "search",
+    "query": "plombier Lyon",
+    "results": [
+     {
+      "name": "Lyon Plomberie Express",
+      "note": "page 1",
+      "rating": "4,5"
+     },
+     {
+      "name": "Plomberie Martin",
+      "note": "page 2, aucune photo",
+      "rating": "4,7"
+     }
+    ],
+    "pick": 1
+   }
+  },
+  {
+   "text": "Ensuite, je choisis un métier et une ville. Il analyse jusqu'à 50 résultats Google, sans les annuaires, avec un score estimé.",
+   "visual": {
+    "kind": "stat",
+    "value": 50,
+    "label": "résultats Google analysés",
+    "source": "SEO Radius, annuaires écartés, scores estimés"
+   }
+  },
+  {
+   "text": "Deuxième refus : le bouche-à-oreille me suffit. Ne le contredis pas. C'est une vraie force.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Objection 2",
+    "text": "Le bouche-à-oreille suffit",
+    "highlight": [
+     "bouche-à-oreille"
+    ],
+    "sub": "j'ai assez de clients"
+   }
+  },
+  {
+   "text": "Pose-lui alors une seule question. En saison calme, quand quelqu'un cherche plombier Lyon sur Google, il tombe sur qui ?",
+   "sfx": true,
+   "emphasis": [
+    "question"
+   ],
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "Bouche-à-oreille",
+     "items": [
+      "Ceux qui le connaissent"
+     ]
+    },
+    "right": {
+     "title": "Google",
+     "items": [
+      "Des inconnus qui cherchent",
+      "Tous les jours"
+     ]
+    }
+   }
+  },
+  {
+   "text": "Ouvre la recherche sur ton téléphone, devant lui. Trois concurrents passent avant lui, avec plus d'avis et plus de photos.",
+   "visual": {
+    "kind": "list",
+    "title": "Ce qu'il voit",
+    "items": [
+     "Trois concurrents devant",
+     "Plus d'avis",
+     "Plus de photos"
+    ],
+    "at": [
+     "concurrents",
+     "avis",
+     "photos"
+    ]
+   }
+  },
+  {
+   "text": "Troisième refus : c'est trop cher. Dans sa tête, il imagine un gros contrat sur un an.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Objection 3",
+    "text": "C'est trop cher",
+    "highlight": [
+     "cher"
+    ],
+    "sub": "il imagine un gros contrat"
+   }
+  },
+  {
+   "text": "La bonne réponse : une petite première mission, avec un prix simple. Ajouter des photos à sa fiche, répondre à ses avis.",
+   "stamp": "petit",
+   "visual": {
+    "kind": "list",
+    "title": "Petite mission",
+    "items": [
+     "Un prix simple",
+     "Photos de la fiche",
+     "Réponses aux avis"
+    ],
+    "at": [
+     "prix",
+     "photos",
+     "avis"
+    ]
+   }
+  },
+  {
+   "text": "Et surtout, ne garantis pas la première place. Personne ne le peut. Mieux vaut promettre du concret, facile à vérifier.",
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "À éviter",
+     "items": [
+      "Première place garantie"
+     ]
+    },
+    "right": {
+     "title": "À promettre",
+     "items": [
+      "Des photos ajoutées",
+      "Des avis répondus"
+     ]
+    }
+   }
+  },
+  {
+   "text": "Dernier détail : pense à la réservation exclusive. Le prospect disparaît des listes des autres pendant 7 à 30 jours, selon le plan.",
+   "visual": {
+    "kind": "stat",
+    "value": 30,
+    "suffix": " jours",
+    "label": "de réservation exclusive",
+    "source": "SEO Radius, 7 à 30 jours selon le plan"
+   }
+  },
+  {
+   "text": "Pour résumer : pas le temps, on rappelle. Le bouche-à-oreille suffit, on pose une question. Trop cher, on commence petit.",
+   "visual": {
+    "kind": "list",
+    "title": "À retenir",
+    "items": [
+     "Pas le temps : rappeler",
+     "Bouche-à-oreille : questionner",
+     "Trop cher : commencer petit"
+    ],
+    "at": [
+     "temps",
+     "bouche",
+     "cher"
+    ]
+   }
+  },
+  {
+   "text": "Et toi, quelle phrase t'a déjà bloqué au téléphone ? Écris-la en commentaire, je te propose une réponse.",
+   "visual": {
+    "kind": "card",
+    "emoji": "📞",
+    "owner": "SEO Radius",
+    "name": "Prospection SEO locale",
+    "desc": "Un constat prêt avant chaque appel",
+    "tags": [
+     "métier + ville",
+     "scores estimés"
+    ],
+    "url": "seoradius.fr"
+   }
+  }
+ ],
+ "caption": "Pas le temps, pas besoin, trop cher : les 3 objections d'artisan et quoi répondre 📞 (outil en lien en bio)",
+ "hashtags": [
+  "#seo",
+  "#seolocal",
+  "#freelance",
+  "#prospection",
+  "#outilseo"
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "stamp": "2026-10-25_1700",
+ "duration": 81.8,
+ "lead": 0.6,
+ "cps": 25.5,
+ "accuracy": 0.929,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "a",
+   "entendu": ""
+  },
+  {
+   "dit": "s e o radiusse",
+   "entendu": "seo radus"
+  },
+  {
+   "dit": "bouche a oreille",
+   "entendu": "boucherail"
+  },
+  {
+   "dit": "contredis",
+   "entendu": "contredit"
+  },
+  {
+   "dit": "lyon",
+   "entendu": "le lion"
+  },
+  {
+   "dit": "trois concurrents passent",
+   "entendu": "soit concurrent passe"
+  },
+  {
+   "dit": "garantis",
+   "entendu": "garantir"
+  },
+  {
+   "dit": "mieux",
+   "entendu": "nieux"
+  },
+  {
+   "dit": "on rappelle",
+   "entendu": "en rappel"
+  },
+  {
+   "dit": "bouche a oreille",
+   "entendu": "bouchereil"
+  },
+  {
+   "dit": "a",
+   "entendu": "as"
+  }
+ ],
+ "alerts": [
+  "prononciation 93% des mots compris (min 93%)"
+ ]
+}
