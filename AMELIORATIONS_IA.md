@@ -42,13 +42,14 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
    en deux (« Il a le temps. Et il veut... ») ralentit la voix plus que d'ajouter du texte.
 8. « Claude » entendu « cloud » sur 2 vidéos (23/10 12:00 2 fois, 23/10 19:00 3 fois) ; le lexique « clôde » n'y change rien (essayé au 2e rendu du 23/10 19:00,
    retiré). Le dire 4 fois maximum par vidéo, jamais en tout début de phrase : écrire « Avec Claude, ... », « demande à Claude » ou remplacer par « l'IA ».
+   Encore entendu « cloud » le 25/10 12:00 (« applications qui utilisent Claude ») : remplacé par « intelligence artificielle », bien entendu au 2e rendu.
    Éviter aussi « coloc » (entendu « coloque ») et « appli » juste après un mot court (« appuie ») : préférer « application » une fois sur deux.
 
 ## Pistes pour Bill (changements de code proposés, à valider par lui)
 - Audit : comparer la transcription au texte écrit du script, pas à la graphie phonétique du lexique.
   Aujourd'hui « PDF » (dit « p d f ») et « PowerPoint » (dit « paoueur pointe ») comptent comme des
   écarts alors qu'ils sont bien entendus, ce qui fait passer la prononciation sous 93 % à tort. Même chose pour les sigles du lexique (« QR », « SMS » dits
-  « Q R », « S M S » mais transcrits « qr », « sms » : 5 écarts sur la vidéo du 22/10 22:00).
+  « Q R », « S M S » mais transcrits « qr », « sms » : 5 écarts sur la vidéo du 22/10 22:00), 8 écarts « A P I » / « api » le 25/10 12:00, prononciation affichée 81 % pour une voix correcte).
 - Audit : ignorer les homophones (« rends » / « rend », « ton » / « t'on ») dans les mots mal compris.
 - Audit : relancer `factory.audit` sur le même run ajoute une 2e ligne identique dans `audits_ia.jsonl` (doublons 14/10 12:00 et 19:00), ce qui gonfle le compte des « mots mal compris sur plusieurs vidéos ». Remplacer la ligne du même stamp au lieu d'en ajouter une.
 - Rendu : Remotion télécharge son Chrome depuis remotion.media, bloqué par le proxy du conteneur (403) le 23/10 12:00. Contourné à la main en liant
@@ -56,6 +57,9 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
   (+ fichier VERSION attendu) : à intégrer dans setup.sh, sinon chaque run neuf échoue à l'étape montage.
 
 ## Journal (1 ligne par revue, la plus récente en haut, 20 lignes maximum)
+- 2026-10-25 (12:00) : 1er rendu à 81 % (« une actu parle » entendu « acte tu parles », « clé API » « crée api », « Claude » « cloud », « Ce qu'on croit ? » avalé) : reformulés,
+  2e rendu à 81 % avec alerte, mais 8 écarts sur 12 sont « API » dit en lettres et transcrit « api » (graphie, piste déjà notée) : voix correcte. Débit 25,3 car./s, 83,4 s pour 1 647 car. : règle 7 tenue.
+  Sur les 10 derniers audits, 3 sans alerte (2 débit à 25,7, 5 prononciation dont 2 gonflées par les sigles). « Claude » / « cloud » sur une 3e vidéo : règle 8 précisée. Chrome de Remotion relié à la main (piste déjà notée).
 - 2026-10-24 (22:00) : sans alerte au 1er rendu (débit 25,1 car./s, prononciation 95 %, 82,1 s pour 1 641 car.) : règles 5, 6 et 7 tenues (aucune phrase ouverte par « Tu »,
   « SEO Radius » en fin de phrase, mot « mythe » absent de la voix). Sur les 10 derniers audits, débit 24,6 à 25,7 car./s, 5 sans alerte (2 débit à 25,7, 3 prononciation à 88-93 %).
   « radiusse » et « opportunite » toujours en tête des mots mal compris mais par graphie et pluriel (piste déjà notée). Chrome de Remotion relié à la main (piste déjà notée). Pas de nouvelle règle.
@@ -118,6 +122,3 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
   Règles 5 et 6 tenues. Prénom « Inès » mal compris 2 fois (« linaise ») sur 1 seule vidéo : pas de lexique, préférer des
   prénoms d'une syllabe ou très courants dans les exemples. « radiusse », « tchatte », « anne tropique » restent en tête des
   « mots mal compris » mais viennent de la graphie phonétique (piste déjà notée). Pas de nouvelle règle.
-- 2026-10-16 (22:00) : 1er rendu à 92 % (« court » mal compris 2 fois : « co repolis », « courant ») : remplacé par « simple »
-  et « petit message », 2e rendu à 93 % sans alerte (débit 24,2 car./s, 83,6 s). « SEO Radius. Tu tapes » encore avalé malgré la règle 6 :
-  règle précisée (phrase suivante ouverte par un mot plus long). Doublon d'audit du même stamp retiré à la main (piste déjà notée).
