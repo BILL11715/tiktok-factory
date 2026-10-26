@@ -27,6 +27,8 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
    ou « garantir » (bien entendus au 2e rendu du 22/10 17:00).
    « mythe » mal compris sur 3 vidéos (24/10 17:00 « nit ») : dans la voix, écrire « l'idée reçue » ou « ce qu'on croit » ; le mot « mythe »
    reste possible à l'écran (kicker, affiche).
+   « mets » (« mets-les de côté » entendu « meles » le 26/10 17:00) et « ceux » (« Note ceux où » entendu « seo ») comptés 3 fois chacun
+   dans les mots mal compris : écrire « Pour les meilleurs, utilise... » et « Note les fiches où... » (bien entendus au 2e rendu du 26/10 17:00).
 6. Mettre « SEO Radius » en fin de phrase, jamais suivi d'un verbe court : les mots qui le suivent sont avalés
    sur 3 vidéos (14/10 « aura dus », « radius ed » ; 16/10 « SEO Radius. Tape un » entendu « au radus ca par »).
    Écrire « Pour ça, j'utilise SEO Radius. » puis une nouvelle phrase qui commence par un mot d'au moins
@@ -59,6 +61,10 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
   (+ fichier `node_modules/.remotion/chrome-headless-shell/VERSION` contenant `149.0.7790.0`, la TESTED_VERSION de @remotion/renderer) : à intégrer dans setup.sh, sinon chaque run neuf échoue à l'étape montage.
 
 ## Journal (1 ligne par revue, la plus récente en haut, 20 lignes maximum)
+- 2026-10-26 (17:00) : 1er rendu à 89 % (« Pourtant, » en ouverture entendu « autant », « une ville. » « vie », « Note ceux où » « seo », « mets-les » « meles ») : reformulés,
+  2e rendu à 92 % avec alerte ; écarts restants surtout accords et homophones (exceptionnels / exceptionnelles, ses / ces, utilise / utilisez), « férié » entendu « ferrier » 2 fois
+  (1 seule vidéo, pas de lexique), « Claude » entendu « cloud » 1 fois (règle 8 déjà notée). Débit 24,1 car./s, 85,8 s pour environ 1 645 car. : règle 7 tenue. Sur les 10 derniers audits,
+  2 sans alerte (2 débit à 25,7-25,8, 7 prononciation à 81-93 %, dont plusieurs gonflées par la graphie). « mets » et « ceux » 3 fois : règle 5 étendue. Chrome de Remotion relié à la main (piste déjà notée). Doublon d'audit retiré.
 - 2026-10-26 (08:00) : 1er rendu à 91 % (« serrurier » entendu « sérieux », « à un site » « ainsi ») : « plombier » et « un site internet », 2e rendu à 90 % avec alerte
   (hook « envoyé tel quel » entendu « en voyait elle qu elle », « envoyer » « en voyant » : 1 seule vidéo, pas de règle ; reste surtout graphie « IA » / « SEO Radius » et infinitif / impératif « vérifie » / « vérifiez », piste déjà notée).
   Débit 25,5 car./s, 87,5 s pour 1 647 car. : règle 7 tenue (énumérations remplacées par des phrases courtes). Sur les 10 derniers audits, 2 sans alerte (1 débit à 25,7-25,8, 7 prononciation à 81-93 %, dont plusieurs gonflées par la graphie).
@@ -120,6 +126,3 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
   remplacés par Lille, Roubaix, Tourcoing, Lens ; 2e rendu à 92 % avec alerte (« Lille » entendu « l'île », « ce gérant laisse filer » avalé). Débit 25,2 car./s, 77 s.
   Sur les 10 derniers audits, débit 24,2 à 25,2 car./s, 8 sans alerte ; 3 vidéos à 81 s ou moins : règle 7 ajoutée (longueur). Villes : 1 seule vidéo, pas de règle,
   préférer une grande ville connue et la répéter peu. Doublons d'audit du même stamp retirés à la main (piste déjà notée).
-- 2026-10-18 (17:00) : 1er rendu à 93 % avec alerte (« prends » entendu « si tu es », « tapes » entendu « t apples », « vaut » entendu « voir ») :
-  reformulés, 2e rendu à 94 % sans alerte (débit 24,7 car./s, 84,7 s). Sur les 10 derniers audits, débit 24,2 à 25,4 car./s, 8 sans alerte.
-  « Exemple, » en ouverture et « tu tapes » mal compris sur 2 vidéos : règles 5 et 6 précisées. Doublon d'audit du même stamp retiré à la main (piste déjà notée).
