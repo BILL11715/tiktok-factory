@@ -1,0 +1,211 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-26_1748/video.mp4",
+ "duration": 81.668,
+ "shots": 39,
+ "sources": [
+  "https://anilist.co/manga/86964"
+ ],
+ "plan": [
+  {
+   "character": null,
+   "fx": "hook",
+   "start": 0.0
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 1.97
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 3.94
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 6.48
+  },
+  {
+   "character": "Jin",
+   "fx": null,
+   "start": 9.020000000000001
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 11.15
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 13.280000000000001
+  },
+  {
+   "character": "Seon Yong-hwang",
+   "fx": null,
+   "start": 15.41
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 17.525
+  },
+  {
+   "character": null,
+   "fx": "punch",
+   "start": 19.64
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 21.85
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 24.06
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 25.766666666666666
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 27.473333333333333
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 29.18
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 31.186666666666667
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 33.193333333333335
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 35.2
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 37.733333333333334
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 40.26666666666667
+  },
+  {
+   "character": "Kyun",
+   "fx": null,
+   "start": 42.800000000000004
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 44.35
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 45.9
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 48.0
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 50.1
+  },
+  {
+   "character": null,
+   "fx": "punch",
+   "start": 52.2
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 53.75
+  },
+  {
+   "character": "Jin Seon",
+   "fx": null,
+   "start": 55.300000000000004
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 57.9
+  },
+  {
+   "character": "Kyun Yoon",
+   "fx": null,
+   "start": 60.82
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 62.75
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 64.68
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 66.96666666666667
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 69.25333333333334
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 71.54
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 73.82666666666667
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 76.11333333333333
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 78.39999999999999
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 80.03399999999999
+  }
+ ],
+ "engine": "ffmpeg (secours)",
+ "voice_engine": "fish",
+ "repo_path": "videos/2026/10/2026-10-26_1748.mp4",
+ "raw_url": "https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/videos/2026/10/2026-10-26_1748.mp4",
+ "lint": [],
+ "render_seconds": 391.5
+}

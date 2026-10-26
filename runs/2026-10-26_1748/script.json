@@ -1,0 +1,165 @@
+{
+ "title": "Bastard : le lycéen qui aide son père tueur en série",
+ "format": "storytelling",
+ "tone": "conteur",
+ "music": "mystere",
+ "animes": [
+  "Bastard"
+ ],
+ "media": {
+  "Bastard": "manhwa"
+ },
+ "cover": {
+  "text": "Son père est un tueur",
+  "highlight": [
+   "tueur"
+  ],
+  "emoji": "🔪",
+  "sub": "et il l'aide"
+ },
+ "hook_text": "Ce lycéen harcelé rentre chaque soir chez un tueur en série : son père",
+ "spoiler": false,
+ "segments": [
+  {
+   "text": "Ce lycéen harcelé rentre chaque soir chez un tueur en série : son père.",
+   "sfx": true,
+   "emphasis": [
+    "tueur"
+   ],
+   "grade": "bw",
+   "scene": "a pale teenage boy standing in a dark luxurious house at night"
+  },
+  {
+   "text": "[whispering] Reste jusqu'au bout, parce que le moment où tout bascule, j'en ai pas dormi de la nuit.",
+   "emphasis": [
+    "bascule"
+   ],
+   "scene": "a dark staircase lit by a single cold lamp, ominous atmosphere"
+  },
+  {
+   "text": "Le gamin s'appelle Jin. Au lycée, c'est le souffre-douleur, celui qu'on frappe dans les toilettes.",
+   "emphasis": [
+    "Jin"
+   ],
+   "scene": "a skinny boy with glasses being beaten by bullies in a school bathroom",
+   "shots": [
+    {
+     "anime": "Bastard",
+     "kind": "character",
+     "character": "Jin",
+     "at": "Jin"
+    }
+   ]
+  },
+  {
+   "text": "Et à la maison c'est pire. Son père, Seon Yong-hwang, c'est le patron respecté, le mec que tout le quartier admire.",
+   "emphasis": [
+    "respecté"
+   ],
+   "scene": "a smiling businessman in an elegant suit shaking hands with people",
+   "shots": [
+    {
+     "anime": "Bastard",
+     "kind": "character",
+     "character": "Seon Yong-hwang",
+     "at": "Yong-hwang"
+    }
+   ]
+  },
+  {
+   "text": "[sigh] Sauf que la nuit, ce même homme tue des gens. Et Jin, il est obligé de l'aider à faire le sale boulot.",
+   "sfx": true,
+   "grade": "bw",
+   "stamp": "COMPLICE",
+   "scene": "a man in a dark basement with a frightened boy holding a shovel"
+  },
+  {
+   "text": "Genre il connaît chaque victime, il sait ce qui va se passer, et il dit rien. Parce que s'il parle, c'est lui le suivant.",
+   "emphasis": [
+    "suivant"
+   ],
+   "grade": "bw",
+   "scene": "a terrified boy hiding in his bedroom listening to sounds behind the door"
+  },
+  {
+   "text": "Franchement, c'est le manhwa le plus étouffant que j'ai lu. C'est le duo qui a fait Sweet Home, et ça se sent à chaque case.",
+   "emphasis": [
+    "étouffant"
+   ],
+   "shots": [
+    {
+     "kind": "wide"
+    }
+   ],
+   "scene": "a gloomy apartment building under rain at night"
+  },
+  {
+   "text": "Si t'aimes les histoires qui te serrent le ventre comme ça, abonne-toi, j'en raconte une nouvelle tous les jours.",
+   "cta": true
+  },
+  {
+   "text": "Et c'est là que ça dérape. Une nouvelle arrive dans sa classe, Kyun. Elle est gentille avec lui, genre vraiment gentille.",
+   "emphasis": [
+    "Kyun"
+   ],
+   "scene": "a cheerful girl smiling at a shy boy in a classroom",
+   "shots": [
+    {
+     "anime": "Bastard",
+     "kind": "character",
+     "character": "Kyun",
+     "at": "Kyun"
+    }
+   ]
+  },
+  {
+   "text": "[sad] Pour la première fois, quelqu'un le voit comme un être humain. Et Jin commence à tenir à elle, alors qu'il s'était juré de tenir à personne.",
+   "emphasis": [
+    "humain"
+   ],
+   "scene": "a boy and a girl walking home together at sunset"
+  },
+  {
+   "text": "Sauf que son père aussi, il l'a remarquée. Et quand Seon Yong-hwang s'intéresse à quelqu'un, ça finit toujours pareil.",
+   "sfx": true,
+   "grade": "bw",
+   "emphasis": [
+    "remarquée"
+   ],
+   "scene": "a man watching a young girl from a dark car with a cold smile"
+  },
+  {
+   "text": "[angry] Le voilà le moment qui m'a retourné. Jin comprend que s'il fait rien, Kyun sera la prochaine. Alors le gamin qui baissait les yeux décide d'arrêter de subir.",
+   "emphasis": [
+    "arrêter"
+   ],
+   "stamp": "RÉVEIL",
+   "scene": "a boy clenching his fists with a cold determined stare in the dark"
+  },
+  {
+   "text": "À partir de là, c'est un duel père contre fils, mais en silence, à table, devant les voisins, avec des sourires. J'te jure, t'as la boule au ventre.",
+   "emphasis": [
+    "duel"
+   ],
+   "scene": "a father and son eating dinner face to face in tense silence"
+  },
+  {
+   "text": "Ça s'appelle Bastard, c'est fini, donc tu peux tout lire d'une traite sur Webtoon. Et toi, tu dénoncerais ton père ou tu fuirais ? Dis-moi en com'.",
+   "emphasis": [
+    "Bastard"
+   ],
+   "scene": "a boy standing alone in heavy rain at night in a dark street"
+  }
+ ],
+ "reveal_text": "Bastard",
+ "reveal_segments": 1,
+ "caption": "Le pire c'est que tout le quartier adore son père 😶 tu ferais quoi à la place de Jin ?",
+ "hashtags": [
+  "#anime",
+  "#manhwa",
+  "#mangafr",
+  "#webtoonfr",
+  "#bastard",
+  "#storytelling"
+ ]
+}
