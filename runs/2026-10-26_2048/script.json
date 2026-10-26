@@ -1,0 +1,136 @@
+{
+ "title": "Théorie Psyren : et si Nemesis Q essayait de sauver le monde ?",
+ "format": "theorie",
+ "tone": "conteur",
+ "music": "mystere",
+ "animes": [
+  "PSYREN"
+ ],
+ "media": {
+  "PSYREN": "anime"
+ },
+ "cover": {
+  "text": "Le vrai rôle de Nemesis Q",
+  "highlight": [
+   "Nemesis"
+  ],
+  "emoji": "📞",
+  "sub": "théorie Psyren"
+ },
+ "hook_text": "Et si le monstre qui t'envoie dans Psyren voulait sauver le monde ?",
+ "spoiler": false,
+ "segments": [
+  {
+   "text": "Et si le monstre qui t'envoie dans Psyren voulait en fait sauver le monde ?",
+   "sfx": true,
+   "emphasis": [
+    "sauver"
+   ],
+   "scene": "a mysterious bandaged figure standing in a ruined city under a red sky"
+  },
+  {
+   "text": "[whispering] Reste jusqu'au bout, le dernier indice change ta façon de regarder l'anime.",
+   "emphasis": [
+    "dernier indice"
+   ],
+   "scene": "a lonely red public phone booth glowing at night"
+  },
+  {
+   "text": "Psyren, c'est l'anime de la saison dont presque personne parle en France.",
+   "shots": [
+    {
+     "kind": "wide"
+    }
+   ],
+   "scene": "a teenage boy walking through a quiet japanese city street"
+  },
+  {
+   "text": "Ageha, un lycéen qui règle les embrouilles des autres contre du fric, trouve une carte téléphonique rouge marquée Psyren.",
+   "emphasis": [
+    "carte"
+   ],
+   "scene": "a black haired teenage boy holding a red phone card in a phone booth"
+  },
+  {
+   "text": "Il appelle. Une voix lui demande s'il veut aller à Psyren. Quelques jours après, son téléphone sonne et il disparaît.",
+   "grade": "bw",
+   "scene": "a boy answering a ringing phone and vanishing in a flash of light"
+  },
+  {
+   "text": "Il se réveille dans des ruines pleines de créatures. Et là il recroise Amamiya, sa camarade de classe disparue.",
+   "scene": "teenagers running through a destroyed wasteland chased by monsters"
+  },
+  {
+   "text": "[surprised] Sauf que Psyren, c'est pas un autre monde. Spoiler léger : c'est notre futur.",
+   "sfx": true,
+   "stamp": "NOTRE FUTUR",
+   "grade": "bw",
+   "emphasis": [
+    "futur"
+   ],
+   "scene": "a ruined tokyo skyline covered in sand and debris"
+  },
+  {
+   "text": "Et le maître du jeu, c'est Nemesis Q, ce truc tout bandé qui donne les règles sans rien expliquer.",
+   "emphasis": [
+    "Nemesis Q"
+   ],
+   "scene": "a creepy bandaged doll like figure floating above survivors"
+  },
+  {
+   "text": "Si toi aussi tu veux comprendre ce qui se cache derrière Psyren, abonne-toi, je décortique l'anime au fil des épisodes.",
+   "cta": true
+  },
+  {
+   "text": "Ma théorie, c'est que Nemesis Q est pas le méchant. Premier indice : le jeu choisit des gens et réveille leurs pouvoirs psychiques.",
+   "emphasis": [
+    "pouvoirs"
+   ],
+   "scene": "a girl with glowing psychic energy around her head in a dark room"
+  },
+  {
+   "text": "Regarde Ageha. Psyren le pousse jusqu'à sortir le Melzez Door, une boule noire qui détruit tout.",
+   "sfx": true,
+   "emphasis": [
+    "Melzez Door"
+   ],
+   "scene": "a boy creating a black sphere of destructive energy in his hand"
+  },
+  {
+   "text": "Deuxième indice : après chaque partie, les joueurs reviennent dans le présent. Avec des infos sur l'avenir.",
+   "scene": "a boy waking up in his bedroom shocked and sweating"
+  },
+  {
+   "text": "[excited] Et franchement, qui renverrait des gamins avec la vérité sur l'apocalypse, à part quelqu'un qui veut qu'on la change ?",
+   "emphasis": [
+    "change"
+   ],
+   "scene": "friends looking at each other with determination on a school rooftop"
+  },
+  {
+   "text": "Troisième indice, interdiction d'en parler à qui que ce soit. Comme si le jeu testait qui tient le coup seul.",
+   "grade": "bw",
+   "scene": "a lonely girl crying silently in an empty classroom"
+  },
+  {
+   "text": "Ce qui casse ma théorie, c'est que des joueurs meurent pour de vrai là-bas. Un sauveur qui sacrifie des gens, ça reste un monstre.",
+   "scene": "a monster attacking a terrified crowd in the ruins"
+  },
+  {
+   "text": "Moi je suis sûr que Nemesis Q protège quelqu'un. Et toi, tu dis ange ou monstre ? Je veux ton avis en com'.",
+   "emphasis": [
+    "ange ou monstre"
+   ],
+   "scene": "a bandaged figure looking down at a boy from a broken tower"
+  }
+ ],
+ "caption": "Nemesis Q, c'est le méchant ou le seul qui essaie de nous sauver ? 📞 Ange ou monstre, je veux ton avis",
+ "hashtags": [
+  "#anime",
+  "#manga",
+  "#animefr",
+  "#otakufr",
+  "#psyren",
+  "#theorie"
+ ]
+}
