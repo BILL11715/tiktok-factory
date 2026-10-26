@@ -1,0 +1,81 @@
+{
+ "stamp": "2026-10-26_0800",
+ "duration": 87.5,
+ "lead": 0.6,
+ "cps": 25.5,
+ "accuracy": 0.904,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "envoye tel quel",
+   "entendu": "en voyait elle qu elle"
+  },
+  {
+   "dit": "i a",
+   "entendu": "ia"
+  },
+  {
+   "dit": "s e o radiusse",
+   "entendu": "seo radius"
+  },
+  {
+   "dit": "envoyer",
+   "entendu": "envoye"
+  },
+  {
+   "dit": "i a",
+   "entendu": "ia"
+  },
+  {
+   "dit": "concurrent",
+   "entendu": "concurrents"
+  },
+  {
+   "dit": "ville",
+   "entendu": "villes"
+  },
+  {
+   "dit": "verifie",
+   "entendu": "verifiez"
+  },
+  {
+   "dit": "annoncer",
+   "entendu": "annoncez"
+  },
+  {
+   "dit": "de suite",
+   "entendu": ""
+  },
+  {
+   "dit": "envoyer",
+   "entendu": "en voyant"
+  },
+  {
+   "dit": "tableaux",
+   "entendu": "tableau"
+  },
+  {
+   "dit": "lira",
+   "entendu": "liera"
+  },
+  {
+   "dit": "garde",
+   "entendu": "gardes d"
+  },
+  {
+   "dit": "decouverte",
+   "entendu": "decouvert"
+  },
+  {
+   "dit": "sans carte bancaire il donne",
+   "entendu": "cent cartes bancaires ils donnent"
+  },
+  {
+   "dit": "benchmarks",
+   "entendu": "benchmark"
+  }
+ ],
+ "alerts": [
+  "prononciation 90% des mots compris (min 93%)"
+ ]
+}

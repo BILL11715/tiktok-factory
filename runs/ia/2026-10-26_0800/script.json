@@ -1,0 +1,219 @@
+{
+ "title": "Benchmark IA : 3 erreurs avant de l'envoyer",
+ "theme": "seo",
+ "pillar": "seo-radius",
+ "format": "top",
+ "music": "pote",
+ "cover": {
+  "text": "Ce benchmark peut te coûter cher",
+  "highlight": [
+   "benchmark"
+  ],
+  "emoji": "📊",
+  "sub": "3 erreurs à éviter"
+ },
+ "hook_text": "Un benchmark envoyé tel quel peut te faire perdre un client.",
+ "segments": [
+  {
+   "text": "Un benchmark envoyé tel quel peut te faire perdre un client.",
+   "emphasis": [
+    "perdre"
+   ]
+  },
+  {
+   "text": "Un benchmark, c'est une comparaison. D'un côté, ton prospect. De l'autre, ses concurrents sur Google.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Le mot du jour",
+    "text": "Benchmark = comparaison",
+    "highlight": [
+     "comparaison"
+    ],
+    "sub": "le prospect face à ses concurrents"
+   }
+  },
+  {
+   "text": "Pour ça, j'utilise le benchmark IA de SEO Radius. Concrètement, il compare l'autorité du prospect. Celle de ses concurrents. Et la moyenne du secteur. L'autorité, c'est la confiance que Google accorde à un site internet.",
+   "visual": {
+    "kind": "list",
+    "title": "Ce qu'il compare",
+    "items": [
+     "Le prospect",
+     "Ses concurrents",
+     "La moyenne du secteur"
+    ],
+    "at": [
+     "prospect",
+     "concurrents",
+     "moyenne"
+    ]
+   }
+  },
+  {
+   "text": "Imagine un plombier à Toulouse, avec une autorité estimée à 18 sur 100.",
+   "visual": {
+    "kind": "stat",
+    "value": 18,
+    "suffix": "/100",
+    "label": "autorité estimée du plombier",
+    "source": "SEO Radius, benchmark IA (estimation)"
+   }
+  },
+  {
+   "text": "Le premier concurrent est à 62. Le second, à 45. Et la moyenne du secteur est à 51.",
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "Le plombier",
+     "items": [
+      "Autorité : 18"
+     ]
+    },
+    "right": {
+     "title": "En face",
+     "items": [
+      "Concurrents : 62 et 45",
+      "Moyenne : 51"
+     ]
+    }
+   }
+  },
+  {
+   "text": "Première erreur : l'envoyer sans le lire. Le document est écrit par une IA. Elle peut se tromper de concurrent. Ou de ville. Ça arrive plus souvent qu'on le pense.",
+   "sfx": true,
+   "visual": {
+    "kind": "title",
+    "kicker": "Erreur n°1",
+    "text": "L'envoyer sans le lire",
+    "highlight": [
+     "lire"
+    ],
+    "sub": "une IA peut se tromper"
+   }
+  },
+  {
+   "text": "Avant l'envoi, vérifie chaque constat sur Google, avec le métier et la ville. Si un constat est faux, retire-le.",
+   "visual": {
+    "kind": "search",
+    "query": "plombier Toulouse",
+    "results": [
+     {
+      "name": "Toulouse Plomberie Express",
+      "note": "page 1",
+      "rating": "4,6"
+     },
+     {
+      "name": "Plomberie Martin",
+      "note": "page 2, site peu solide",
+      "rating": "4,9"
+     }
+    ],
+    "pick": 1
+   }
+  },
+  {
+   "text": "Deuxième erreur : annoncer les chiffres comme s'ils étaient exacts. Ce sont des estimations. Dis-le au gérant, c'est plus honnête.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Erreur n°2",
+    "text": "Des chiffres exacts ?",
+    "highlight": [
+     "exacts"
+    ],
+    "sub": "non, des estimations"
+   }
+  },
+  {
+   "text": "Et oublie le jargon. Écris plutôt : votre site semble moins solide que celui de vos concurrents. Une seule phrase, sans chiffre. Le gérant comprend tout de suite.",
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "À éviter",
+     "items": [
+      "Autorité 18 sur 100",
+      "Mots techniques"
+     ]
+    },
+    "right": {
+     "title": "À dire",
+     "items": [
+      "Moins solide qu'eux",
+      "Une phrase simple"
+     ]
+    }
+   }
+  },
+  {
+   "text": "Troisième erreur : tout envoyer d'un coup. Trois pages de tableaux ? Il ne les lira jamais. Un artisan n'a pas le temps.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Erreur n°3",
+    "text": "Tout envoyer d'un coup",
+    "highlight": [
+     "coup"
+    ],
+    "sub": "trois pages de tableaux"
+   }
+  },
+  {
+   "text": "Garde une seule comparaison. Le concurrent le plus proche de chez lui, celui qui lui prend ses appels.",
+   "stamp": "une seule",
+   "visual": {
+    "kind": "chat",
+    "name": "Résumé en une phrase",
+    "user": "Résume ce benchmark en une phrase simple pour un plombier de Toulouse.",
+    "assistant": "Votre concurrent le plus proche apparaît avant vous sur Google à Toulouse. Je peux vous montrer pourquoi en dix minutes ?"
+   }
+  },
+  {
+   "text": "Au final, ton message tient en trois lignes. Un constat. Le concurrent. Une question. Rien de plus.",
+   "visual": {
+    "kind": "list",
+    "title": "Le message final",
+    "items": [
+     "Un constat",
+     "Le concurrent",
+     "Une question"
+    ],
+    "at": [
+     "constat",
+     "concurrent",
+     "question"
+    ]
+   }
+  },
+  {
+   "text": "Bonne nouvelle : le plan Découverte est gratuit, sans carte bancaire. Il donne droit à cinq benchmarks pour essayer.",
+   "visual": {
+    "kind": "stat",
+    "value": 5,
+    "suffix": " benchmarks",
+    "label": "offerts avec le plan gratuit",
+    "source": "seoradius.fr, plan Découverte"
+   }
+  },
+  {
+   "text": "Et toi, tu montres plutôt un chiffre ou un concurrent à tes prospects ? Dis-moi en commentaire.",
+   "visual": {
+    "kind": "card",
+    "emoji": "📊",
+    "owner": "SEO Radius",
+    "name": "Benchmark IA",
+    "desc": "Le prospect face à ses concurrents",
+    "tags": [
+     "à relire avant envoi",
+     "estimations"
+    ],
+    "url": "seoradius.fr"
+   }
+  }
+ ],
+ "caption": "Ton benchmark IA, relis-le avant de l'envoyer 📊 Les 3 erreurs qui font fuir un prospect (outil en lien en bio)",
+ "hashtags": [
+  "#seo",
+  "#seolocal",
+  "#freelance",
+  "#prospection",
+  "#ia"
+ ]
+}
