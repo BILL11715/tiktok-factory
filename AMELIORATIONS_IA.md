@@ -56,9 +56,13 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
 - Audit : relancer `factory.audit` sur le même run ajoute une 2e ligne identique dans `audits_ia.jsonl` (doublons 14/10 12:00 et 19:00), ce qui gonfle le compte des « mots mal compris sur plusieurs vidéos ». Remplacer la ligne du même stamp au lieu d'en ajouter une.
 - Rendu : Remotion télécharge son Chrome depuis remotion.media, bloqué par le proxy du conteneur (403) le 23/10 12:00. Contourné à la main en liant
   `remotion/node_modules/.remotion/chrome-headless-shell/linux64/chrome-headless-shell-linux64` au Chromium local `/opt/pw-browsers/chromium_headless_shell-*`
-  (+ fichier VERSION attendu) : à intégrer dans setup.sh, sinon chaque run neuf échoue à l'étape montage.
+  (+ fichier `node_modules/.remotion/chrome-headless-shell/VERSION` contenant `149.0.7790.0`, la TESTED_VERSION de @remotion/renderer) : à intégrer dans setup.sh, sinon chaque run neuf échoue à l'étape montage.
 
 ## Journal (1 ligne par revue, la plus récente en haut, 20 lignes maximum)
+- 2026-10-26 (08:00) : 1er rendu à 91 % (« serrurier » entendu « sérieux », « à un site » « ainsi ») : « plombier » et « un site internet », 2e rendu à 90 % avec alerte
+  (hook « envoyé tel quel » entendu « en voyait elle qu elle », « envoyer » « en voyant » : 1 seule vidéo, pas de règle ; reste surtout graphie « IA » / « SEO Radius » et infinitif / impératif « vérifie » / « vérifiez », piste déjà notée).
+  Débit 25,5 car./s, 87,5 s pour 1 647 car. : règle 7 tenue (énumérations remplacées par des phrases courtes). Sur les 10 derniers audits, 2 sans alerte (1 débit à 25,7-25,8, 7 prononciation à 81-93 %, dont plusieurs gonflées par la graphie).
+  Chrome de Remotion relié à la main (piste précisée : fichier VERSION = 149.0.7790.0). Pas de nouvelle règle.
 - 2026-10-25 (19:00) : 1er rendu à 88 % (« quatre gestes » entendu « cas de geste », « simple. Avis » « sain a vis », « aplomb » « un plomb ») : reformulés, 2e rendu à 91 % avec alerte,
   débit 25,8 car./s (79,1 s pour 1 633 car.) ; écarts restants surtout graphie « IA » / « i a » et infinitif / impératif (piste précisée), « cite » entendu « si tu es » (1 seule vidéo). Sur les 10 derniers audits,
   2 sans alerte (3 débit à 25,7-25,8, 6 prononciation à 81-93 %, dont 2 gonflées par les sigles). Règle 7 précisée (énumérations). Chrome de Remotion relié à la main (piste déjà notée). Doublon d'audit retiré.
@@ -119,7 +123,3 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
 - 2026-10-18 (17:00) : 1er rendu à 93 % avec alerte (« prends » entendu « si tu es », « tapes » entendu « t apples », « vaut » entendu « voir ») :
   reformulés, 2e rendu à 94 % sans alerte (débit 24,7 car./s, 84,7 s). Sur les 10 derniers audits, débit 24,2 à 25,4 car./s, 8 sans alerte.
   « Exemple, » en ouverture et « tu tapes » mal compris sur 2 vidéos : règles 5 et 6 précisées. Doublon d'audit du même stamp retiré à la main (piste déjà notée).
-- 2026-10-18 (08:00) : 1er rendu à 91 % (« mercredi » entendu « marc redit », « le suivi range » entendu « je suggère en »,
-  « un clic », « Résultat ») : reformulés (« jeudi », « chaque prospect reçoit un statut », « en un seul clic », « Au final »),
-  2e rendu à 93 % sans alerte (débit 24,2 car./s, 91,2 s). Sur les 10 derniers audits, débit 23,8 à 25,4 car./s, 7 sans alerte.
-  « Résultat » en ouverture mal compris sur 2 vidéos : règle 5 étendue. Doublon d'audit du même stamp retiré à la main (piste déjà notée).
