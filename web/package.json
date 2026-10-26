@@ -1,0 +1,13 @@
+{
+  "name": "tiktok-factory-web",
+  "private": true,
+  "description": "Montage @iafortous : page HTML animée (GSAP) rendue en MP4 par HyperFrames",
+  "dependencies": {
+    "@fontsource/inter": "5.3.0",
+    "@fontsource/jetbrains-mono": "5.3.0",
+    "@fontsource/montserrat": "5.3.0",
+    "@lobehub/fluent-emoji-3d": "1.1.0",
+    "gsap": "3.15.0",
+    "hyperframes": "0.8.204"
+  }
+}

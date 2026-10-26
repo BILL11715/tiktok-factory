@@ -14,22 +14,17 @@ question, décide et continue. Ne lis que ce qui est listé ici (pas d'explorati
 1. **Repo** : `add_repo` (owner BILL11715, repo tiktok-factory, access push) puis
    `git clone --depth 20 https://github.com/BILL11715/tiktok-factory /home/claude/tiktok-factory`
    (timeout long). git config user.name "Bill Hounmenou", user.email "yanndevfrance04@gmail.com".
-2. **Voix** : la voix du compte est **Gemini TTS « Kore »** (voix féminine Google, choisie par Bill le
-   26/10/2026), activée par `TF_GEMINI=1`. Secours automatique, dans l'ordre : Kyutai « estelle »
-   (`TF_KYUTAI=1`, ancienne voix du compte), puis Fish Audio, puis Piper. Jamais de voix mélangées.
-   Le message de la tâche planifiée contient la clé Gemini et la clé Fish Audio de Bill. Écris chacune
-   seule dans son fichier AVANT le setup :
-   `umask 077; printf '%s' '<clé Gemini>' > /tmp/tf-gemini-key; printf '%s' '<clé Fish>' > /tmp/tf-fish-key`.
-   (Si le message ne contient pas de clé Gemini, n'écris que la clé Fish : la vidéo partira en estelle.)
-   Ne recopie JAMAIS ces clés ailleurs : ni dans le repo (public), ni dans un commit, ni dans
-   Notion, Buffer ou ton message de fin.
+2. **Voix** : la SEULE voix du compte est **Gemini TTS « Kore »** (voix féminine Google, décision de Bill
+   du 26/10/2026). Plus aucune voix de secours (ni Kyutai, ni Fish, ni Piper) : sans Gemini, pas de vidéo.
+   Le message de la tâche planifiée contient la clé Gemini de Bill. Écris-la seule dans son fichier AVANT le setup :
+   `umask 077; printf '%s' '<clé Gemini>' > /tmp/tf-gemini-key`.
+   Ne recopie JAMAIS cette clé ailleurs : ni dans le repo (public), ni dans un commit, ni dans Notion, Buffer
+   ou ton message de fin.
    **Installation en arrière-plan tout de suite** :
-   `cd /home/claude/tiktok-factory && TF_GEMINI=1 TF_KYUTAI=1 nohup bash setup.sh > /tmp/tf-setup.out 2>&1 &`
-   (environ 10 à 15 min : la voix de secours télécharge PyTorch). La ligne "[setup] voix Gemini Kore
-   prête" doit apparaître. Sinon la vidéo part en estelle ("[setup] voix Kyutai estelle prête") : recopie
-   la ligne "[setup] Gemini ..." dans les Notes Notion et dans ton message de fin (elle dit si le réseau
-   bloque l'API ou si la clé est refusée). Si `result.json` contient un `voice_fallback` non vide, la
-   voix a changé pendant le rendu : recopie aussi cette raison (elle ne contient jamais la clé).
+   `cd /home/claude/tiktok-factory && TF_GEMINI=1 nohup bash setup.sh > /tmp/tf-setup.out 2>&1 &`
+   Les lignes "[setup] voix Gemini Kore prête" et "[setup] montage HyperFrames prêt" doivent apparaître.
+   Si la ligne Gemini dit "injoignable" ou "refusée" : n'écris pas de script, ne rends rien, crée la ligne
+   Notion Statut "Échec" avec cette ligne dans Notes, aucun brouillon Buffer, et termine.
 3. **Créneau** : heure actuelle (outil current_time). Le créneau est le prochain à venir parmi
    08:00, 12:00, 17:00, 19:00, 22:00. Si `history_ia.jsonl` a déjà une vidéo pour ce jour et ce
    créneau (champ `slot` = "AAAA-MM-JJ HH:MM"), prends le créneau libre suivant (après 22:00 :
@@ -49,14 +44,15 @@ question, décide et continue. Ne lis que ce qui est listé ici (pas d'explorati
    au format ci-dessous, puis `python3 -m factory.make_tech --lint runs/ia/<stamp>/script.json`
    et corrige jusqu'à "OK". Relis-le à voix haute mentalement : naturel, oral, zéro jargon.
 6. **Rendu** : attends la fin du setup (`grep -q "\[setup\] OK" /tmp/tf-setup.out`, toutes les
-   30 s, max 22 min), puis
+   30 s, max 22 min). Montage : page web animée rendue par HyperFrames (style « stickers » : plan fixe,
+   légendes courtes, emoji 3D, encadrés à ombre noire, transitions en motif ; voir web/page.html). Puis
    `cd /home/claude/tiktok-factory && nohup /tmp/tf-venv/bin/python -m factory.make_tech runs/ia/<stamp>/script.json > /tmp/ia-render.out 2>&1 &`
-   (le rendu prend 15 à 20 min : lance-le en arrière-plan dès le départ, puis vérifie toutes les
+   (le rendu prend 15 à 25 min : lance-le en arrière-plan dès le départ, puis vérifie toutes les
    60 s que `runs/ia/<stamp>/result.json` existe ou qu'une erreur apparaît dans /tmp/ia-render.out,
    max 35 min).
-7. **Vérification visuelle rapide** : extrais 3 images (`ffmpeg -ss 2`, milieu, fin) de
-   `runs/ia/<stamp>/video.mp4` et regarde-les avec Read. Texte qui déborde ou scène vide :
-   corrige le script et relance une fois.
+7. **Vérification visuelle rapide** : extrais 4 images (`ffmpeg -ss 1`, un tiers, deux tiers, fin) de
+   `runs/ia/<stamp>/video.mp4` et regarde-les avec Read. Texte qui déborde d'un encadré, scène vide ou
+   emoji absent : corrige le script et relance une fois (chaque rendu consomme une requête Gemini).
    **Audit automatique** : `/tmp/tf-venv/bin/python -m factory.audit runs/ia/<stamp>` (débit, prononciation,
    silence d'ouverture, durée, mots mal prononcés). Si une ALERTE vient d'un prix, d'un nombre ou d'un
    mot précis mal prononcé : ajoute une écriture phonétique dans le lexique de la voix utilisée
@@ -81,7 +77,7 @@ question, décide et continue. Ne lis que ce qui est listé ici (pas d'explorati
     Top / classement), Statut "Brouillon Buffer", Date de création (datetime Paris), Hook,
     Script (texte intégral), Hashtags, Lien vidéo (raw_url), Lien Buffer
     (https://publish.buffer.com/post/<id>), Sources visuels (liens consultés pour le sujet),
-    Voix ("Gemini" si voice_engine = gemini, "Kyutai" si kyutai, "Fish Audio" si fish, "Clone Bill" si clone, sinon "Piper"),
+    Voix "Gemini" (seule voix possible),
     Durée (s), Notes (créneau + angle). Laisse "Anime" vide.
 11. **Historique** : ajoute une ligne JSON à `history_ia.jsonl`
     `{"stamp","slot","pillar","angle","format","topic","title","hook","buffer_id","notion_url","raw_url","voice","duration"}`,
@@ -122,11 +118,19 @@ question, décide et continue. Ne lis que ce qui est listé ici (pas d'explorati
     {"text": "...", "visual": {"kind": "list", "title": "La méthode", "items": ["Un métier + une ville", "Repérer les retards"], "at": ["métier", "repérer"]}},
     {"text": "...", "stamp": "3 heures"}
   ],
+  (chaque segment a aussi "sticker": "🔎" ; facultatifs : "label": "Gratuit", "punch": "SEO Radius")
   "caption": "Tes futurs clients SEO sont en page 2 de Google 👀 (outil en bio)",
   "hashtags": ["#seo", "#seolocal", "#freelance", "#prospection"]
 }
 ```
 Règles (le pipeline refuse sinon) :
+- `sticker` sur CHAQUE segment : un emoji qui illustre l'idée du segment (objet concret : 🥖 🔧 📅 🔎 💻 🔒 📞),
+  jamais deux fois de suite le même. Il s'affiche en grand (emoji 3D) avant la scène du segment, ou seul si le
+  segment n'a pas de `visual`. Le pipeline refuse un emoji absent du pack : en choisir un autre.
+- `label` (facultatif, 24 car. max) : étiquette orange sous le sticker (« Gratuit », « Les limites », « À toi »).
+  En mettre sur 3 ou 4 segments, dont le 1er sans visual et le dernier.
+- `punch` (facultatif, 1 à 3 mots réellement dits dans le segment) : titre-choc en majuscules au moment où il
+  est dit (nom de l'outil, révélation). 1 à 3 par vidéo, pas plus.
 - `theme` : "seo" (pilier SEO Radius) ou "ia" (pilier IA). `music` : pote | hype | mystere.
 - `cover` (affiche de couverture, visible sur le profil TikTok) : `text` 3 à 6 mots qui donnent envie de
   cliquer (bénéfice ou tension, pas le titre plat), `highlight` = 1 mot clé de `text`, `emoji` = 1 emoji

@@ -19,7 +19,7 @@ import time
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-KINDS = {"title", "chat", "terminal", "code", "card", "list", "stat", "compare", "search", "shot"}
+KINDS = {"title", "chat", "terminal", "code", "card", "list", "stat", "compare", "search"}
 BANNED = ["—", "plongeons", "découvrons ensemble", "il est important de noter", "dans un monde où",
           "mais ce n'est pas tout", "incontournable", "véritable pépite", "révolutionnaire", "game changer",
           "game-changer", "captivant", "fascinant", "ce n'est pas seulement", "dans cette vidéo",
@@ -66,17 +66,33 @@ def lint(script: dict) -> list[str]:
         problems.append("cover.text > 7 mots : l'affiche doit se lire d'un coup d'oeil")
     if script.get("theme") not in ("ia", "seo"):
         problems.append("theme doit valoir « ia » ou « seo »")
+    # style « stickers » : un emoji 3D par segment, étiquettes et titres-chocs courts
+    from . import web_video
+    check_emoji = web_video.EMOJI_DIR.exists()
+    for i, s in enumerate(segs):
+        st = s.get("sticker")
+        if not st:
+            problems.append(f"segment {i + 1} : sticker manquant (un emoji, ex. « 🔎 »)")
+        elif check_emoji and not web_video.emoji_file(st):
+            problems.append(f"segment {i + 1} : emoji « {st} » absent du pack Fluent 3D, en choisir un autre")
+        if len(s.get("label", "")) > 24:
+            problems.append(f"segment {i + 1} : label > 24 caractères")
+        if s.get("punch"):
+            if len(s["punch"].split()) > 3:
+                problems.append(f"segment {i + 1} : punch > 3 mots")
+            elif not any(w.lower().strip(".,!?") in s["text"].lower() for w in s["punch"].split()):
+                problems.append(f"segment {i + 1} : punch doit reprendre un mot réellement dit dans ce segment")
     return problems
 
 
 def montage(script_path: str) -> None:
-    from . import tech_motion
+    """Montage « stickers » HyperFrames (web/page.html), voir factory/web_video.py."""
+    from . import web_video
     sp = Path(script_path).resolve()
     work = sp.parent
     script = json.loads(sp.read_text())
     v = json.loads((work / "voice.json").read_text())
-    seed = sum(map(ord, script.get("title", ""))) & 0xFFFF
-    r = tech_motion.render(script, v, work, work / "video.mp4", seed=seed)
+    r = web_video.render(script, v, work, work / "video.mp4")
     (work / "montage.json").write_text(json.dumps(r, ensure_ascii=False, indent=1))
 
 
@@ -90,24 +106,25 @@ def main(script_path: str) -> dict:
     if problems:
         print("LINT:", *problems, sep="\n - ")
         raise SystemExit("Script refusé, corriger les points ci-dessus puis relancer.")
-    # @iafortous : voix Gemini « Kore » (choix de Bill, 26/10/2026) si l'API a répondu au setup,
-    # sinon Kyutai « estelle » si le modèle est prêt, sinon moteur du setup (Fish, Piper)
-    if not os.environ.get("TF_VOICE"):
-        if voice.GEMINI_OK.exists():
-            os.environ["TF_VOICE"] = "gemini"
-        elif voice.KYUTAI_OK.exists():
-            os.environ["TF_VOICE"] = "kyutai"
+    # @iafortous : voix Gemini « Kore » UNIQUEMENT (décision de Bill, 26/10/2026) : aucune voix de
+    # secours. Sans Gemini, le rendu s'arrête (l'agent note l'échec dans Notion, rien dans Buffer).
+    if not voice.GEMINI_OK.exists() and os.environ.get("TF_VOICE") != "gemini":
+        raise SystemExit("VOIX GEMINI INDISPONIBLE : voir la ligne [setup] Gemini de /tmp/tf-setup.out. Aucune vidéo produite.")
+    os.environ["TF_VOICE"] = "gemini"
+    os.environ["TF_VOICE_ONLY"] = "gemini"
     print(f"[1/3] voix ({voice.engine()})")
     # 0,6 s de silence au début : l'affiche de couverture s'affiche avant que la voix démarre
     v = voice.synthesize(script["segments"], work, script.get("tone", "pote"), lead=0.6)
     print(f"      durée {v['duration']:.1f}s")
     if v["duration"] < 58:
         print(f"[!] vidéo courte ({v['duration']:.0f} s) : allonger le script la prochaine fois")
+    if v["engine"] != "gemini":
+        raise SystemExit(f"VOIX GEMINI EN ÉCHEC ({v.get('fallback', '')}). Aucune vidéo produite.")
     v = align.align(v)
     if v["engine"] == "gemini":  # un seul fichier pour tout le texte : scènes recalées sur la voix réelle
         v = voice.reslot(v)
     (work / "voice.json").write_text(json.dumps(v, ensure_ascii=False, indent=1))
-    print("[2/3] montage Remotion TechShort")
+    print("[2/3] montage HyperFrames (style stickers)")
     subprocess.run([sys.executable, "-m", "factory.make_tech", "--montage", str(sp)], cwd=str(ROOT), check=True)
     r = json.loads((work / "montage.json").read_text())
     print("[3/3] rangement")

@@ -29,3 +29,6 @@ runs/ia/*/timeline.json
 runs/ia/*/voice.json
 runs/ia/*/montage.json
 runs/*_test_*/
+web/node_modules/
+runs/ia/*/web/
+runs/ia/*/renders/

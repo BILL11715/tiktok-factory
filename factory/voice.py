@@ -584,6 +584,8 @@ def synthesize(segments: list[dict], workdir: Path, tone: str, lead: float = 0.0
             (workdir / "voice.json").write_text(json.dumps(result, ensure_ascii=False, indent=1))
             return result
         except Exception as exc:  # secours : tout est refait avec une autre voix (pas de mélange)
+            if os.environ.get("TF_VOICE_ONLY") == "gemini":  # @iafortous : pas de voix de secours
+                raise RuntimeError(f"voix Gemini en échec : {exc}")
             alt = "kyutai" if KYUTAI_OK.exists() else ("fish" if _fish_key() else "piper")
             print(f"[voice] gemini a échoué ({exc}), reprise complète avec {alt}")
             FALLBACKS.append(f"gemini -> {alt} : {exc}"[:500])

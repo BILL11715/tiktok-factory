@@ -82,6 +82,13 @@ a = m.generate_audio(st, "Bonjour, ceci est un test.")
 assert a.numel() > 1000
 PYEOF
 fi
+# Montage @iafortous (style stickers, depuis le 26/10/2026) : HyperFrames + GSAP + polices + emoji 3D
+if [ "${TF_GEMINI:-}" = "1" ] || [ "${TF_WEB:-}" = "1" ]; then
+  pip install -q playwright >>"$LOG" 2>&1
+  ( cd "$(dirname "$0")/web" && npm ci --no-audit --no-fund --loglevel=error >>"$LOG" 2>&1 ) \
+    && ls /opt/pw-browsers/chromium_headless_shell-*/*/chrome-headless-shell >/dev/null 2>&1 \
+    && echo "[setup] montage HyperFrames prêt" || echo "[setup] montage HyperFrames indisponible (voir $LOG)"
+fi
 # Moteur de montage Remotion (OpenMontage) : dépendances Node
 ( cd "$(dirname "$0")/remotion" && npm ci --no-audit --no-fund --loglevel=error >>"$LOG" 2>&1 ) \
   && echo "[setup] Remotion prêt" || echo "[setup] Remotion indisponible -> montage FFmpeg de secours"

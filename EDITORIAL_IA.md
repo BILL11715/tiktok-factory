@@ -70,17 +70,21 @@ Cible : grand public curieux, zéro jargon. Angles :
   "Ce repo GitHub gratuit remplace un abonnement à 20 euros.",
   "Freelance SEO ? Tes clients sont déjà sur Google, page 2."
 - Durée : 1 300 à 1 550 caractères de texte parlé (environ 80 à 95 s). Jamais moins d'une minute.
-- Voix : Gemini TTS « Kore » (voix féminine Google, choisie par Bill le 26/10/2026). Secours : Kyutai Pocket TTS
-  « estelle » (CC-BY-4.0 : garder Kyutai crédité dans la bio tant qu'elle sert de secours).
+- Voix : Gemini TTS « Kore » uniquement (voix féminine Google, choisie par Bill le 26/10/2026), aucune voix de secours.
+- Montage : style « stickers » (HyperFrames, web/page.html) : plan fixe crème quadrillé, orange et noir, légendes de 1 à 3 mots,
+  un emoji 3D par segment, encadrés à ombre noire franche, titres-chocs en majuscules, transitions en motif sur les révélations.
 
-## Style visuel (TechShort, style "pop" clair)
-- Fond blanc cassé, cartes blanches cerclées de noir avec ombre franche, une couleur vive par scène
-  (jaune, rose, bleu, vert, violet, orange), formes qui flottent : jamais d'écran sombre ni figé.
+## Style visuel (style « stickers », HyperFrames, depuis le 26/10/2026)
+- Plan fixe, jamais de défilement : fond crème quadrillé, orange (#E8552B) et noir, encadrés blancs à
+  bordure noire et ombre noire franche, étiquettes noires ou orange en majuscules.
+- En haut : légende de 1 à 3 mots qui suit la voix, un mot en orange. Titre-choc en majuscules (`punch`)
+  sur 1 à 3 moments clés.
+- Au centre, un seul élément à la fois : emoji 3D (`sticker`) puis la scène du segment (liste cochée,
+  recherche tapée avec curseur, compteur, chat, comparatif, carte). Transitions en motif sur `sfx: true`.
 - Affiche de couverture sur les premières images (champ `cover`) : c'est la miniature vue sur le
-  profil. Grosse phrase de 3 à 6 mots, 1 mot surligné, 1 emoji. Elle doit donner envie de cliquer.
-- Varier les scènes : enchaîner title, list, stat, compare, search, chat, card plutôt que 4 titres.
+  profil. Grosse phrase de 3 à 6 mots, 1 mot en orange, avec l'emoji du hook. Elle doit donner envie de cliquer.
 
-## Scènes disponibles (motion design TechShort)
+## Scènes disponibles (style stickers)
 Une scène toutes les 5 à 8 s (8 minimum), jamais 2 fois le même type d'affilée. Choisir celle qui MONTRE ce qui est dit :
 - `title` : phrase clé en gros (`kicker`, `text`, `highlight`, `sub`).
 - `chat` : échange avec une IA (`name`, `user`, `assistant`). Idéal pour montrer un prompt.
@@ -91,5 +95,4 @@ Une scène toutes les 5 à 8 s (8 minimum), jamais 2 fois le même type d'affil�
 - `stat` : chiffre animé (`value`, `prefix`, `suffix`, `label`, `source`).
 - `compare` : avant/après (`left`/`right` : `title`, `items`).
 - `search` : recherche locale avec carte et résultats (`query`, `results`: [{name, note, rating}], `pick`).
-- `shot` : capture d'écran fournie dans le dossier du run (`src`, `title`, `scroll`).
-`stamp` (segment) : un mot tamponné en gros, 1 ou 2 par vidéo. `emphasis` : 1 ou 2 mots en couleur.
+`stamp` (segment) : un mot tamponné en gros en bas de la scène, 1 ou 2 par vidéo. `emphasis` : 1 ou 2 mots en couleur.
