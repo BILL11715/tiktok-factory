@@ -1,0 +1,59 @@
+{
+ "stamp": "2026-10-26_1200",
+ "duration": 82.0,
+ "lead": 0.6,
+ "cps": 25.4,
+ "accuracy": 0.943,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "beuze",
+   "entendu": "beuse"
+  },
+  {
+   "dit": "ouispeur",
+   "entendu": "whisper"
+  },
+  {
+   "dit": "i a",
+   "entendu": "ia"
+  },
+  {
+   "dit": "beuze",
+   "entendu": "buzz"
+  },
+  {
+   "dit": "linuxe",
+   "entendu": "linux"
+  },
+  {
+   "dit": "titres",
+   "entendu": "titre"
+  },
+  {
+   "dit": "i a",
+   "entendu": "ia"
+  },
+  {
+   "dit": "limites",
+   "entendu": "limite"
+  },
+  {
+   "dit": "informations complementaires",
+   "entendu": "information complementaire"
+  },
+  {
+   "dit": "verifie",
+   "entendu": "verifiez"
+  },
+  {
+   "dit": "noms",
+   "entendu": "non"
+  },
+  {
+   "dit": "l i a",
+   "entendu": "ia"
+  }
+ ],
+ "alerts": []
+}
