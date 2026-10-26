@@ -1,0 +1,3 @@
+{
+  "_info": "Lexique de prononciation de la voix Gemini Kore (@iafortous). Clé = mot tel qu'écrit dans le script, valeur = comment le faire dire. Vide au départ : Gemini prononce bien les sigles et les mots anglais. Enrichi par l'agent (étapes 7 et 13 du runbook) seulement quand un mot est mal dit sur 2 vidéos ou plus. Ne touche pas aux sous-titres."
+}

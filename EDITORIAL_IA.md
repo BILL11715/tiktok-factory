@@ -69,8 +69,9 @@ Cible : grand public curieux, zéro jargon. Angles :
   Exemples : "Tu paies ChatGPT mais tu l'utilises comme Google.",
   "Ce repo GitHub gratuit remplace un abonnement à 20 euros.",
   "Freelance SEO ? Tes clients sont déjà sur Google, page 2."
-- Durée : 1 300 à 1 550 caractères de texte parlé (environ 80 à 95 s avec la voix estelle). Jamais moins d'une minute.
-- Voix : Kyutai Pocket TTS « estelle » (CC-BY-4.0, Kyutai crédité dans la bio du compte).
+- Durée : 1 300 à 1 550 caractères de texte parlé (environ 80 à 95 s). Jamais moins d'une minute.
+- Voix : Gemini TTS « Kore » (voix féminine Google, choisie par Bill le 26/10/2026). Secours : Kyutai Pocket TTS
+  « estelle » (CC-BY-4.0 : garder Kyutai crédité dans la bio tant qu'elle sert de secours).
 
 ## Style visuel (TechShort, style "pop" clair)
 - Fond blanc cassé, cartes blanches cerclées de noir avec ombre franche, une couleur vive par scène

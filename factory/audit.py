@@ -25,6 +25,9 @@ LOG = Path(os.environ.get("TF_AUDIT_LOG", ROOT / "audits_ia.jsonl"))
 # jugée un chouïa trop rapide par Bill : on vise 23 à 25,5 (texte prononcé, nombres en lettres).
 CPS_MAX = 25.5   # mesuré : voix brute 27,2 (trop rapide selon Bill), voix à 0,94 = 25,2
 CPS_MIN = 19.0
+# voix Gemini « Kore » (depuis le 26/10/2026) : débit naturel plus posé que Kyutai. Fourchette large
+# en attendant les premières mesures (à resserrer après une dizaine de vidéos, cf. audits_ia.jsonl).
+CPS_BY_ENGINE = {"gemini": (14.0, 24.0)}
 ACC_MIN = 0.93      # part des mots du script retrouvés à l'écoute
 DUR = (60, 100)
 
@@ -70,14 +73,18 @@ def audit(run: Path) -> dict:
     words = len(ref)
     from .pronounce import speakable
     from .voice import _plain
-    chars = sum(len(speakable(_plain(seg["text"]))) for seg in script["segments"])
+    lex = None
+    if voice.get("engine") == "gemini":
+        from .voice import GEMINI_LEXICON as lex
+    chars = sum(len(speakable(_plain(seg["text"]), lexicon_file=lex)) for seg in script["segments"])
     cps = round(chars / speech, 1)
     acc = round(ok / max(1, words), 3)
     alerts = []
-    if cps > CPS_MAX:
-        alerts.append(f"débit {cps} car./s : trop rapide (max {CPS_MAX})")
-    if cps < CPS_MIN:
-        alerts.append(f"débit {cps} car./s : trop lent (min {CPS_MIN})")
+    cps_min, cps_max = CPS_BY_ENGINE.get(voice.get("engine"), (CPS_MIN, CPS_MAX))
+    if cps > cps_max:
+        alerts.append(f"débit {cps} car./s : trop rapide (max {cps_max})")
+    if cps < cps_min:
+        alerts.append(f"débit {cps} car./s : trop lent (min {cps_min})")
     if acc < ACC_MIN:
         alerts.append(f"prononciation {acc:.0%} des mots compris (min {ACC_MIN:.0%})")
     if lead < 0.3:

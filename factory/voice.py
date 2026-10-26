@@ -1,7 +1,8 @@
-"""Voix off : clone Fish Audio (API, balises d'émotion), sinon Chatterbox local, secours Piper.
+"""Voix off : Gemini TTS « Kore » (@iafortous), clone Fish Audio (@the.asura8), Kyutai
+Pocket TTS « estelle », Chatterbox local, secours Piper.
 
-Fish Audio est utilisé dès que la variable d'environnement FISH_API_KEY existe
-(la clé ne doit JAMAIS être écrite dans le dépôt, qui est public).
+Fish Audio est utilisé dès que la variable d'environnement FISH_API_KEY existe, Gemini dès
+que TF_VOICE=gemini (les clés ne doivent JAMAIS être écrites dans le dépôt, qui est public).
 
 Synthèse phrase par phrase : chaque phrase a sa durée exacte, ce qui donne un
 minutage mot par mot (sous-titres et changements d'image calés sur la parole)
@@ -9,6 +10,8 @@ sans transcription. Débit accéléré et pauses courtes pour un rythme TikTok.
 """
 from __future__ import annotations
 
+import base64
+import io
 import json
 import os
 import re
@@ -267,6 +270,233 @@ def _tts_kyutai(sent: str, out: Path, tone: str) -> None:
         wf.writeframes(pcm.tobytes())
 
 
+# ------------------------------------------------------------------ Gemini TTS (API Google)
+# Voix choisie par Bill pour @iafortous le 26/10/2026 : Gemini 3.8 Flash TTS, voix « Kore »
+# (femme, ferme et assurée). Clé : variable GEMINI_API_KEY ou fichier /tmp/tf-gemini-key écrit
+# par l'agent au début du run (jamais dans le repo). Sans clé, la requête part sans en-tête :
+# utile si la clé est enregistrée comme "API credential" de l'environnement (ajoutée par le proxy).
+# Tout le texte part en UN appel : intonation continue d'une phrase à l'autre, et le quota
+# gratuit compte les requêtes par jour. Les débuts de segments sont ensuite recalés sur la voix
+# réelle par l'alignement Whisper (align.align puis reslot).
+GEMINI_API = "https://generativelanguage.googleapis.com/v1beta"
+GEMINI_MODELS = [m.strip() for m in os.environ.get(
+    "GEMINI_TTS_MODEL", "gemini-3.8-flash-tts,gemini-3.8-flash-lite-tts").split(",") if m.strip()]
+GEMINI_VOICE = os.environ.get("GEMINI_VOICE", "Kore")
+# consigne de jeu (speech_metadata.style) : courte, la doc Google déconseille les longues consignes
+GEMINI_STYLE = os.environ.get(
+    "GEMINI_STYLE",
+    "French TikTok tech creator explaining to a friend: warm, confident and upbeat, "
+    "lively pace but clearly articulated, natural intonation on questions and exclamations")
+GEMINI_TEMPO = float(os.environ.get("GEMINI_TEMPO", "1.0"))
+GEMINI_BLOCK = int(os.environ.get("GEMINI_BLOCK_CHARS", "2200"))  # au-delà : plusieurs appels
+GEMINI_GAP = 0.3  # silence entre deux blocs (seulement si le texte a dû être coupé)
+GEMINI_KEY_FILE = Path("/tmp/tf-gemini-key")
+GEMINI_OK = Path("/tmp/tf-gemini-ok")  # écrit par setup.sh quand l'API répond
+GEMINI_RATE = 24000
+GEMINI_LEXICON = ROOT / "config" / "prononciation_gemini.json"
+
+
+def _gemini_key() -> str:
+    key = os.environ.get("GEMINI_API_KEY", "")
+    if not key and GEMINI_KEY_FILE.exists():
+        key = GEMINI_KEY_FILE.read_text().strip()
+    return key
+
+
+def _pcm(blob: bytes) -> tuple[bytes, int]:
+    """(PCM 16 bits mono, fréquence) depuis du WAV (en-tête RIFF) ou du PCM brut 24 kHz."""
+    if blob[:4] == b"RIFF":
+        with wave.open(io.BytesIO(blob)) as wf:
+            return wf.readframes(wf.getnframes()), wf.getframerate()
+    return blob, GEMINI_RATE
+
+
+def _post(url: str, body: dict, key: str, timeout: int = 300) -> dict:
+    import urllib.request
+    headers = {"Content-Type": "application/json"}
+    if key:
+        headers["x-goog-api-key"] = key
+    req = urllib.request.Request(url, data=json.dumps(body).encode(), method="POST", headers=headers)
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        return json.loads(r.read())
+
+
+def _gemini_interactions(text: str, model: str, key: str) -> list[bytes]:
+    """API Interactions (modèles Gemini 3.8 TTS) : le texte est lu tel quel, la consigne de jeu
+    passe dans speech_metadata.style."""
+    part: dict = {"type": "text", "text": text}
+    if GEMINI_STYLE:
+        part["annotations"] = [{"type": "speech_metadata", "style": GEMINI_STYLE}]
+    data = _post(f"{GEMINI_API}/interactions", {
+        "model": model,
+        "input": [{"type": "user_input", "content": [part]}],
+        "response_format": {"type": "audio", "mime_type": "audio/wav", "sample_rate": GEMINI_RATE},
+        "generation_config": {"speech_config": [{"voice": GEMINI_VOICE}]},
+    }, key)
+    out = []
+    for step in data.get("steps") or []:
+        for c in step.get("content") or []:
+            if c.get("type") == "audio" and c.get("data"):
+                out.append(base64.b64decode(c["data"]))
+    if not out and (data.get("output_audio") or {}).get("data"):
+        out.append(base64.b64decode(data["output_audio"]["data"]))
+    return out
+
+
+def _gemini_generate(text: str, model: str, key: str) -> list[bytes]:
+    """Ancienne API generateContent (secours si Interactions refuse la requête), sans consigne
+    de jeu : les modèles TTS récents la liraient à voix haute."""
+    data = _post(f"{GEMINI_API}/models/{model}:generateContent", {
+        "contents": [{"parts": [{"text": text}]}],
+        "generationConfig": {"responseModalities": ["AUDIO"], "speechConfig": {
+            "voiceConfig": {"prebuiltVoiceConfig": {"voiceName": GEMINI_VOICE}}}},
+    }, key)
+    out = []
+    for cand in data.get("candidates") or []:
+        for p in (cand.get("content") or {}).get("parts") or []:
+            inline = p.get("inlineData") or p.get("inline_data") or {}
+            if inline.get("data"):
+                out.append(base64.b64decode(inline["data"]))
+    return out
+
+
+def _tts_gemini(text: str, out: Path) -> None:
+    """Un bloc de texte (en général le script entier) en un appel. Essaie chaque modèle, et
+    l'API generateContent si Interactions refuse la requête. Erreur détaillée si tout échoue."""
+    import time
+    import urllib.error
+    key = _gemini_key()
+    errors: list[str] = []
+    for model in GEMINI_MODELS:
+        for call in (_gemini_interactions, _gemini_generate):
+            api = call.__name__.replace("_gemini_", "")
+            for attempt in range(2):
+                try:
+                    blobs = call(text, model, key)
+                    if not blobs:
+                        raise RuntimeError("réponse sans audio")
+                    frames, rate = b"", GEMINI_RATE
+                    for b in blobs:
+                        f, rate = _pcm(b)
+                        frames += f
+                    with wave.open(str(out), "wb") as wf:
+                        wf.setnchannels(1)
+                        wf.setsampwidth(2)
+                        wf.setframerate(rate)
+                        wf.writeframes(frames)
+                    print(f"[voice] gemini {model} ({api}), voix {GEMINI_VOICE}")
+                    return
+                except urllib.error.HTTPError as exc:
+                    msg = exc.read()[:300].decode("utf-8", "replace")
+                    errors.append(f"{model} {api} HTTP {exc.code}: {msg}")
+                    if exc.code in (401, 403):  # clé refusée : inutile d'insister
+                        raise RuntimeError(" | ".join(errors)[:900])
+                    if exc.code in (500, 502, 503, 504) and attempt == 0:
+                        time.sleep(8)
+                        continue
+                    break  # 400 / 404 : on tente l'autre API ; 429 (quota) : l'autre modèle
+                except Exception as exc:  # réseau bloqué, délai dépassé, réponse inattendue
+                    errors.append(f"{model} {api}: {exc}")
+                    if attempt == 0 and "timed out" in str(exc):
+                        continue
+                    break
+            if errors and "HTTP 429" in errors[-1]:
+                break  # quota du modèle épuisé : l'autre API puise dans le même quota
+    raise RuntimeError(" | ".join(errors)[:900] or "Gemini indisponible")
+
+
+def _gemini_blocks(segments: list[dict]) -> list[list[int]]:
+    """Regroupe les segments en blocs de GEMINI_BLOCK caractères max (en pratique : un seul)."""
+    blocks: list[list[int]] = []
+    cur: list[int] = []
+    size = 0
+    for i, seg in enumerate(segments):
+        n = len(_plain(seg["text"]))
+        if cur and size + n > GEMINI_BLOCK:
+            blocks.append(cur)
+            cur, size = [], 0
+        cur.append(i)
+        size += n
+    if cur:
+        blocks.append(cur)
+    return blocks
+
+
+def _synthesize_gemini(segments: list[dict], workdir: Path, lead: float) -> dict:
+    from .pronounce import speakable
+    vdir = workdir / "voice"
+    vdir.mkdir(parents=True, exist_ok=True)
+    files: list[Path] = []
+    t = 0.0
+    if lead > 0:
+        sil = vdir / "lead.wav"
+        subprocess.run(["ffmpeg", "-y", "-v", "error", "-f", "lavfi", "-i", "anullsrc=r=44100:cl=mono",
+                        "-t", f"{lead:.2f}", str(sil)], check=True)
+        files.append(sil)
+        t = _dur(sil)
+
+    def render(idx: list[int], depth: int = 0) -> list[tuple[list[int], Path]]:
+        """Synthétise un bloc ; s'il revient tronqué ou anormalement long, le coupe en deux."""
+        segs = [segments[i] for i in idx]
+        chars = sum(len(_plain(s["text"])) for s in segs)
+        raw = vdir / f"g{idx[0]:02d}-{idx[-1]:02d}_raw.wav"
+        # un segment par ligne : le retour à la ligne donne une respiration entre deux idées
+        _tts_gemini("\n".join(speakable(_plain(s["text"]), lexicon_file=GEMINI_LEXICON) for s in segs), raw)
+        d = _dur(raw)
+        if chars / 30 <= d <= chars / 6 + 3:
+            return [(idx, raw)]
+        print(f"[voice] gemini : {d:.1f} s pour {chars} car. (tronqué ou dérive), bloc recoupé")
+        if len(idx) > 1 and depth < 3:
+            h = len(idx) // 2
+            return render(idx[:h], depth + 1) + render(idx[h:], depth + 1)
+        raise RuntimeError(f"audio incohérent ({d:.1f} s pour {chars} car.)")
+
+    parts: list[tuple[list[int], Path]] = []
+    for block in _gemini_blocks(segments):
+        parts += render(block)
+    timeline: list[dict] = []
+    for k, (idx, raw) in enumerate(parts):
+        gap = 0.7 if k == len(parts) - 1 else GEMINI_GAP
+        clean = vdir / f"g{k:02d}.wav"
+        subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", str(raw), "-af",
+                        "silenceremove=start_periods=1:start_threshold=-42dB,areverse,"
+                        "silenceremove=start_periods=1:start_threshold=-42dB,areverse,"
+                        f"atempo={GEMINI_TEMPO},apad=pad_dur={gap}",
+                        "-ar", "44100", "-ac", "1", str(clean)], check=True)
+        d = _dur(clean)
+        # minutage estimé sur tout le bloc (corrigé ensuite par l'alignement Whisper)
+        words = _word_times(" ".join(_plain(segments[i]["text"]) for i in idx), t, t + d - gap)
+        pos = 0
+        for i in idx:
+            n = len(_plain(segments[i]["text"]).split())
+            ws = words[pos:pos + n] or [{"w": "", "start": round(t, 3), "end": round(t, 3)}]
+            pos += n
+            timeline.append({"index": i, "start": ws[0]["start"], "end": ws[-1]["end"],
+                             "slot_end": ws[-1]["end"], "text": _plain(segments[i]["text"]), "words": ws})
+        files.append(clean)
+        t += d
+    result = {"engine": "gemini", "path": "", "duration": round(t, 3), "timeline": timeline,
+              "gemini_voice": GEMINI_VOICE, "gemini_calls": len(parts)}
+    reslot(result)
+    lst = vdir / "list.txt"
+    lst.write_text("".join(f"file '{f.name}'\n" for f in files))
+    voice = workdir / "voice.wav"
+    subprocess.run(["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", str(lst),
+                    "-c", "copy", str(voice)], check=True, cwd=vdir)
+    result["path"] = str(voice)
+    return result
+
+
+def reslot(voice: dict) -> dict:
+    """Voix Gemini (un seul fichier pour tout le texte) : après l'alignement, chaque segment
+    occupe l'écran jusqu'au début réel du suivant ; le dernier jusqu'à la fin de la voix."""
+    tl = voice["timeline"]
+    for k, seg in enumerate(tl):
+        nxt = tl[k + 1]["start"] if k + 1 < len(tl) else voice["duration"]
+        seg["slot_end"] = round(max(seg["end"], nxt), 3)
+    return voice
+
+
 # ------------------------------------------------------------------ Piper
 def _piper_model() -> Path:
     CACHE.mkdir(parents=True, exist_ok=True)
@@ -307,6 +537,9 @@ def release() -> None:
 
 
 # ------------------------------------------------------------------ public
+FALLBACKS: list[str] = []  # moteurs abandonnés pendant ce rendu (raison), recopié dans voice.json
+
+
 def engine() -> str:
     forced = os.environ.get("TF_VOICE")
     flag = Path("/tmp/tf-voice-engine")
@@ -345,6 +578,17 @@ def synthesize(segments: list[dict], workdir: Path, tone: str, lead: float = 0.0
     vdir = workdir / "voice"
     vdir.mkdir(parents=True, exist_ok=True)
     eng = engine()
+    if eng == "gemini":
+        try:
+            result = _synthesize_gemini(segments, workdir, lead)
+            (workdir / "voice.json").write_text(json.dumps(result, ensure_ascii=False, indent=1))
+            return result
+        except Exception as exc:  # secours : tout est refait avec une autre voix (pas de mélange)
+            alt = "kyutai" if KYUTAI_OK.exists() else ("fish" if _fish_key() else "piper")
+            print(f"[voice] gemini a échoué ({exc}), reprise complète avec {alt}")
+            FALLBACKS.append(f"gemini -> {alt} : {exc}"[:500])
+            os.environ["TF_VOICE"] = alt
+            return synthesize(segments, workdir, tone, lead)
     timeline, files, t, n = [], [], 0.0, 0
     if lead > 0:
         sil = vdir / "lead.wav"
@@ -374,6 +618,7 @@ def synthesize(segments: list[dict], workdir: Path, tone: str, lead: float = 0.0
                 if eng == "kyutai":  # on recommence tout avec un autre moteur (pas de voix mélangées)
                     alt = "fish" if _fish_key() else "piper"
                     print(f"[voice] kyutai a échoué ({exc}), reprise complète avec {alt}")
+                    FALLBACKS.append(f"kyutai -> {alt} : {exc}"[:300])
                     os.environ["TF_VOICE"] = alt
                     release()
                     return synthesize(segments, workdir, tone, lead)
@@ -404,5 +649,7 @@ def synthesize(segments: list[dict], workdir: Path, tone: str, lead: float = 0.0
                     "-c", "copy", str(voice)], check=True, cwd=vdir)
     release()
     result = {"engine": eng, "path": str(voice), "duration": round(t, 3), "timeline": timeline}
+    if FALLBACKS:
+        result["fallback"] = " | ".join(FALLBACKS)
     (workdir / "voice.json").write_text(json.dumps(result, ensure_ascii=False, indent=1))
     return result

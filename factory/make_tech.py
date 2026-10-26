@@ -90,9 +90,13 @@ def main(script_path: str) -> dict:
     if problems:
         print("LINT:", *problems, sep="\n - ")
         raise SystemExit("Script refusé, corriger les points ci-dessus puis relancer.")
-    # @iafortous : voix Kyutai "estelle" (choix de Bill) si le modèle est prêt, sinon moteur du setup
-    if not os.environ.get("TF_VOICE") and voice.KYUTAI_OK.exists():
-        os.environ["TF_VOICE"] = "kyutai"
+    # @iafortous : voix Gemini « Kore » (choix de Bill, 26/10/2026) si l'API a répondu au setup,
+    # sinon Kyutai « estelle » si le modèle est prêt, sinon moteur du setup (Fish, Piper)
+    if not os.environ.get("TF_VOICE"):
+        if voice.GEMINI_OK.exists():
+            os.environ["TF_VOICE"] = "gemini"
+        elif voice.KYUTAI_OK.exists():
+            os.environ["TF_VOICE"] = "kyutai"
     print(f"[1/3] voix ({voice.engine()})")
     # 0,6 s de silence au début : l'affiche de couverture s'affiche avant que la voix démarre
     v = voice.synthesize(script["segments"], work, script.get("tone", "pote"), lead=0.6)
@@ -100,6 +104,8 @@ def main(script_path: str) -> dict:
     if v["duration"] < 58:
         print(f"[!] vidéo courte ({v['duration']:.0f} s) : allonger le script la prochaine fois")
     v = align.align(v)
+    if v["engine"] == "gemini":  # un seul fichier pour tout le texte : scènes recalées sur la voix réelle
+        v = voice.reslot(v)
     (work / "voice.json").write_text(json.dumps(v, ensure_ascii=False, indent=1))
     print("[2/3] montage Remotion TechShort")
     subprocess.run([sys.executable, "-m", "factory.make_tech", "--montage", str(sp)], cwd=str(ROOT), check=True)
@@ -111,7 +117,7 @@ def main(script_path: str) -> dict:
     dest = dest_dir / f"{stamp}.mp4"
     shutil.copy(work / "video.mp4", dest)
     rel = dest.relative_to(ROOT)
-    result = {**r, "voice_engine": v["engine"], "repo_path": str(rel),
+    result = {**r, "voice_engine": v["engine"], "voice_fallback": v.get("fallback", ""), "repo_path": str(rel),
               "raw_url": f"https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/{rel}",
               "render_seconds": round(time.time() - t0, 1)}
     (work / "result.json").write_text(json.dumps(result, ensure_ascii=False, indent=1))

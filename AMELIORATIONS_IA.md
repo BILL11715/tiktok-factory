@@ -5,7 +5,8 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
 
 ## Règles apprises (15 maximum, les plus utiles en premier ; fusionner plutôt qu'empiler)
 1. Voix posée et claire avant tout (retour de Bill, 12/10) : phrases courtes, une idée par phrase,
-   pas d'enchaînement de chiffres. Débit cible 23 à 25,5 caractères prononcés par seconde (audit).
+   pas d'enchaînement de chiffres. Débit cible : celui de l'audit, propre à chaque voix (estelle 19 à 25,5 car./s ;
+   Gemini Kore 14 à 24 car./s en attendant les premières mesures).
 2. Prix et nombres : écrire `19 €/mois`, `49 €`, `30 %`, `81/100` ; le pipeline les dit en toutes
    lettres. Jamais plus de 2 chiffres dans la même phrase, sinon l'oreille décroche.
 3. La voix démarre 0,6 s après l'affiche de couverture : ne pas raccourcir le hook pour compenser.
@@ -61,6 +62,9 @@ L'agent peut modifier ce fichier et `config/prononciation.json`, jamais le code 
   (+ fichier `node_modules/.remotion/chrome-headless-shell/VERSION` contenant `149.0.7790.0`, la TESTED_VERSION de @remotion/renderer) : à intégrer dans setup.sh, sinon chaque run neuf échoue à l'étape montage.
 
 ## Journal (1 ligne par revue, la plus récente en haut, 20 lignes maximum)
+- 2026-10-26 (changement de voix, demande de Bill) : passage de Kyutai « estelle » à Gemini TTS « Kore ». Les règles 5 à 8 (mots mal compris,
+  durée par longueur de texte) ont été apprises sur estelle : les garder, mais ne plus les étendre sans écarts mesurés avec Gemini, et recaler
+  la règle 7 (longueur visée) après 3 vidéos Gemini. Nouveau lexique vide `config/prononciation_gemini.json` ; seuils de débit Gemini 14 à 24 car./s (audit).
 - 2026-10-26 (17:00) : 1er rendu à 89 % (« Pourtant, » en ouverture entendu « autant », « une ville. » « vie », « Note ceux où » « seo », « mets-les » « meles ») : reformulés,
   2e rendu à 92 % avec alerte ; écarts restants surtout accords et homophones (exceptionnels / exceptionnelles, ses / ces, utilise / utilisez), « férié » entendu « ferrier » 2 fois
   (1 seule vidéo, pas de lexique), « Claude » entendu « cloud » 1 fois (règle 8 déjà notée). Débit 24,1 car./s, 85,8 s pour environ 1 645 car. : règle 7 tenue. Sur les 10 derniers audits,

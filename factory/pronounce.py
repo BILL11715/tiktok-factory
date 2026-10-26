@@ -1,4 +1,4 @@
-"""Texte "prononçable" pour la voix locale (Kyutai) : prix, nombres, pourcentages, unités et
+"""Texte "prononçable" pour la voix (Kyutai, Gemini) : prix, nombres, pourcentages, unités et
 mots du lexique (config/prononciation.json) écrits en toutes lettres. Ne sert qu'à la voix :
 les sous-titres et l'écran gardent le texte du script.
 
@@ -34,18 +34,20 @@ def _n2w(x: str, ordinal: bool = False) -> str:
 NUM = r"\d{1,3}(?:[  ]\d{3})+|\d+(?:[.,]\d+)?"
 
 
-def lexicon() -> dict:
+def lexicon(path: Path | None = None) -> dict:
     try:
-        d = json.loads(LEXICON.read_text())
+        d = json.loads((path or LEXICON).read_text())
         return {k: v for k, v in d.items() if not k.startswith("_")}
     except Exception:
         return {}
 
 
-def speakable(text: str) -> str:
+def speakable(text: str, lexicon_file: Path | None = None) -> str:
+    """lexicon_file : lexique propre à une voix (Gemini : config/prononciation_gemini.json),
+    sinon celui de Kyutai (config/prononciation.json)."""
     t = text
     # mots du lexique (mot entier, sensible à la casse pour les sigles)
-    for src, dst in sorted(lexicon().items(), key=lambda kv: -len(kv[0])):
+    for src, dst in sorted(lexicon(lexicon_file).items(), key=lambda kv: -len(kv[0])):
         t = re.sub(rf"(?<![\w-]){re.escape(src)}(?![\w-])", dst, t)
     # unités collées aux prix : "19 €/mois", "49€ par mois", "2 k€"
     t = re.sub(rf"({NUM})\s?k€", lambda m: f"{_n2w(m.group(1))} mille euros", t)

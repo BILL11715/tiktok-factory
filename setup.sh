@@ -2,6 +2,7 @@
 # Installation de l'environnement de rendu (environnement cloud vierge à chaque run).
 # Usage : bash setup.sh   (puis lancer le rendu avec /tmp/tf-venv/bin/python)
 # Écrit le moteur de voix retenu dans /tmp/tf-voice-engine (clone ou piper).
+# @iafortous : TF_GEMINI=1 (voix Gemini Kore, /tmp/tf-gemini-ok) et TF_KYUTAI=1 (secours estelle).
 set -u
 VENV=${TF_VENV:-/tmp/tf-venv}
 LOG=/tmp/tf-setup.log
@@ -45,6 +46,27 @@ EOF
 else
   echo "[setup] HuggingFace CDN bloqué -> voix de secours Piper"
   echo piper > /tmp/tf-voice-engine
+fi
+# Voix Gemini TTS « Kore » (compte @iafortous, TF_GEMINI=1) : API Google, clé déposée par l'agent
+# dans /tmp/tf-gemini-key (jamais commitée) ou "API credential" de l'environnement (ajoutée par le proxy).
+if [ "${TF_GEMINI:-}" = "1" ]; then
+  rm -f /tmp/tf-gemini-ok
+  if [ -z "${GEMINI_API_KEY:-}" ] && [ -s /tmp/tf-gemini-key ]; then GEMINI_API_KEY=$(cat /tmp/tf-gemini-key); fi
+  GEM_MODEL=${GEMINI_TTS_MODEL:-gemini-3.8-flash-tts}; GEM_MODEL=${GEM_MODEL%%,*}
+  GEM_URL="https://generativelanguage.googleapis.com/v1beta/models/$GEM_MODEL"
+  if [ -n "${GEMINI_API_KEY:-}" ]; then
+    GEM_CODE=$(curl -s -o /dev/null -m 15 -w "%{http_code}" -H "x-goog-api-key: $GEMINI_API_KEY" "$GEM_URL")
+  else
+    GEM_CODE=$(curl -s -o /dev/null -m 15 -w "%{http_code}" "$GEM_URL")
+  fi
+  if [ "$GEM_CODE" = "200" ]; then
+    touch /tmp/tf-gemini-ok
+    echo "[setup] voix Gemini ${GEMINI_VOICE:-Kore} prête ($GEM_MODEL)"
+  elif [ "$GEM_CODE" = "000" ]; then
+    echo "[setup] Gemini injoignable (test 000 : generativelanguage.googleapis.com bloqué par le réseau de l'environnement) -> voix de secours"
+  else
+    echo "[setup] Gemini indisponible (test $GEM_CODE : clé absente ou refusée) -> voix de secours"
+  fi
 fi
 # Voix Kyutai Pocket TTS "estelle" (compte @iafortous, TF_KYUTAI=1) : modèle local sur CPU
 if [ "${TF_KYUTAI:-}" = "1" ]; then

@@ -14,16 +14,22 @@ question, décide et continue. Ne lis que ce qui est listé ici (pas d'explorati
 1. **Repo** : `add_repo` (owner BILL11715, repo tiktok-factory, access push) puis
    `git clone --depth 20 https://github.com/BILL11715/tiktok-factory /home/claude/tiktok-factory`
    (timeout long). git config user.name "Bill Hounmenou", user.email "yanndevfrance04@gmail.com".
-2. **Voix** : la voix du compte est **Kyutai Pocket TTS « estelle »** (locale, gratuite, choisie par Bill),
-   installée par `TF_KYUTAI=1`. Fish Audio ne sert plus que de secours. Le message de la tâche planifiée
-   contient la clé Fish Audio de Bill. Écris-la
-   seule dans `/tmp/tf-fish-key` (`umask 077; printf '%s' '<clé>' > /tmp/tf-fish-key`) AVANT le
-   setup. Ne la recopie JAMAIS ailleurs : ni dans le repo (public), ni dans un commit, ni dans
+2. **Voix** : la voix du compte est **Gemini TTS « Kore »** (voix féminine Google, choisie par Bill le
+   26/10/2026), activée par `TF_GEMINI=1`. Secours automatique, dans l'ordre : Kyutai « estelle »
+   (`TF_KYUTAI=1`, ancienne voix du compte), puis Fish Audio, puis Piper. Jamais de voix mélangées.
+   Le message de la tâche planifiée contient la clé Gemini et la clé Fish Audio de Bill. Écris chacune
+   seule dans son fichier AVANT le setup :
+   `umask 077; printf '%s' '<clé Gemini>' > /tmp/tf-gemini-key; printf '%s' '<clé Fish>' > /tmp/tf-fish-key`.
+   (Si le message ne contient pas de clé Gemini, n'écris que la clé Fish : la vidéo partira en estelle.)
+   Ne recopie JAMAIS ces clés ailleurs : ni dans le repo (public), ni dans un commit, ni dans
    Notion, Buffer ou ton message de fin.
    **Installation en arrière-plan tout de suite** :
-   `cd /home/claude/tiktok-factory && TF_KYUTAI=1 nohup bash setup.sh > /tmp/tf-setup.out 2>&1 &`
-   (environ 10 à 15 min : le modèle de voix télécharge PyTorch). La ligne "[setup] voix Kyutai estelle
-   prête" doit apparaître ; sinon la vidéo part en voix de secours (Fish), à signaler dans Notes.
+   `cd /home/claude/tiktok-factory && TF_GEMINI=1 TF_KYUTAI=1 nohup bash setup.sh > /tmp/tf-setup.out 2>&1 &`
+   (environ 10 à 15 min : la voix de secours télécharge PyTorch). La ligne "[setup] voix Gemini Kore
+   prête" doit apparaître. Sinon la vidéo part en estelle ("[setup] voix Kyutai estelle prête") : recopie
+   la ligne "[setup] Gemini ..." dans les Notes Notion et dans ton message de fin (elle dit si le réseau
+   bloque l'API ou si la clé est refusée). Si `result.json` contient un `voice_fallback` non vide, la
+   voix a changé pendant le rendu : recopie aussi cette raison (elle ne contient jamais la clé).
 3. **Créneau** : heure actuelle (outil current_time). Le créneau est le prochain à venir parmi
    08:00, 12:00, 17:00, 19:00, 22:00. Si `history_ia.jsonl` a déjà une vidéo pour ce jour et ce
    créneau (champ `slot` = "AAAA-MM-JJ HH:MM"), prends le créneau libre suivant (après 22:00 :
@@ -53,10 +59,12 @@ question, décide et continue. Ne lis que ce qui est listé ici (pas d'explorati
    corrige le script et relance une fois.
    **Audit automatique** : `/tmp/tf-venv/bin/python -m factory.audit runs/ia/<stamp>` (débit, prononciation,
    silence d'ouverture, durée, mots mal prononcés). Si une ALERTE vient d'un prix, d'un nombre ou d'un
-   mot précis mal prononcé : ajoute une écriture phonétique dans `config/prononciation.json` ou
-   reformule la phrase, puis relance le rendu UNE fois (pas plus) et refais l'audit. Recopie la ligne
+   mot précis mal prononcé : ajoute une écriture phonétique dans le lexique de la voix utilisée
+   (`config/prononciation_gemini.json` si voice_engine = gemini, `config/prononciation.json` si kyutai) ou
+   reformule la phrase, puis relance le rendu UNE fois (pas plus) et refais l'audit. Avec Gemini, chaque
+   rendu consomme une requête du quota gratuit du jour : ne relance que pour une vraie faute. Recopie la ligne
    "AUDIT ..." et les alertes restantes dans les Notes Notion.
-8. **Publication fichier** : `git add videos/ia runs/ia/<stamp>/script.json runs/ia/<stamp>/result.json runs/ia/<stamp>/audit.json audits_ia.jsonl config/prononciation.json`,
+8. **Publication fichier** : `git add videos/ia runs/ia/<stamp>/script.json runs/ia/<stamp>/result.json runs/ia/<stamp>/audit.json audits_ia.jsonl config/prononciation.json config/prononciation_gemini.json`,
    commit "ia <stamp> <titre court>", `git pull --rebase -q origin main`, `git push origin main`.
    Vérifie que `raw_url` (result.json) répond 200 avec curl (3 essais, 10 s d'écart).
 9. **Buffer** : `create_post` avec le channelId ci-dessus, `saveToDraft: true`,
@@ -73,7 +81,7 @@ question, décide et continue. Ne lis que ce qui est listé ici (pas d'explorati
     Top / classement), Statut "Brouillon Buffer", Date de création (datetime Paris), Hook,
     Script (texte intégral), Hashtags, Lien vidéo (raw_url), Lien Buffer
     (https://publish.buffer.com/post/<id>), Sources visuels (liens consultés pour le sujet),
-    Voix ("Kyutai" si voice_engine = kyutai, "Fish Audio" si fish, "Clone Bill" si clone, sinon "Piper"),
+    Voix ("Gemini" si voice_engine = gemini, "Kyutai" si kyutai, "Fish Audio" si fish, "Clone Bill" si clone, sinon "Piper"),
     Durée (s), Notes (créneau + angle). Laisse "Anime" vide.
 11. **Historique** : ajoute une ligne JSON à `history_ia.jsonl`
     `{"stamp","slot","pillar","angle","format","topic","title","hook","buffer_id","notion_url","raw_url","voice","duration"}`,
@@ -88,7 +96,8 @@ question, décide et continue. Ne lis que ce qui est listé ici (pas d'explorati
     - « Règles apprises » : ajoute ou précise une règle seulement si un problème revient sur 2 vidéos
       ou plus (débit, prononciation, longueur, lisibilité d'une scène, hook) ; 15 règles maximum,
       fusionne plutôt qu'empiler, supprime une règle devenue inutile ;
-    - `config/prononciation.json` : écriture phonétique pour chaque mot mal compris 2 fois ou plus ;
+    - lexique de la voix utilisée (`config/prononciation_gemini.json` pour Gemini, `config/prononciation.json`
+      pour Kyutai) : écriture phonétique pour chaque mot mal compris 2 fois ou plus avec cette voix ;
     - « Pistes pour Bill » : ce qui demanderait de changer le code ou les réglages (tu ne touches ni au
       code, ni aux seuils, ni à ce runbook) ;
     - « Journal » : une ligne datée (constat + action), 20 lignes maximum.
@@ -124,7 +133,7 @@ Règles (le pipeline refuse sinon) :
   qui illustre le sujet, `sub` = 2 à 5 mots facultatifs (ex. "la méthode en 3 étapes", "gratuit").
 - `hook_text` = 1er segment, 14 mots max, écrit en gros à l'écran pendant qu'il est dit.
   Pas de `visual` sur le 1er segment.
-- 1 250 à 1 650 caractères, viser 1 300 à 1 550 (80 à 95 s avec la voix estelle posée). 12 à 16 segments de 1 à 2 phrases,
+- 1 250 à 1 650 caractères, viser 1 300 à 1 550 (environ 80 à 95 s). 12 à 16 segments de 1 à 2 phrases,
   260 caractères max chacun.
 - Au moins 8 segments avec `visual` (une scène toutes les 5 à 8 s, jamais 2 fois le même type d'affilée). Un segment sans `visual`
   garde la scène précédente. Types : voir EDITORIAL_IA.md.
@@ -132,7 +141,9 @@ Règles (le pipeline refuse sinon) :
 - Textes courts dans les scènes (une ligne de liste = 5 mots max ; réponse de chat = 300 car. max).
 - Zéro appel à l'abonnement, zéro signature. Pas de tiret cadratin.
 - `sfx: true` sur 1 ou 2 révélations (transition flash + impact).
-- Pas de balises d'émotion (`[excited]`...) : la voix Kyutai ne les comprend pas (elles sont retirées).
-  L'intonation vient de la ponctuation : phrases courtes, points d'exclamation et questions réels.
+- Aucune balise dans le texte (ni `[excited]`, ni `<laugh>` ou `<short pause>`) : elles s'afficheraient
+  dans les sous-titres. L'intonation vient de la ponctuation : phrases courtes, points d'exclamation et
+  questions réels (la voix Gemini les joue bien). Chaque segment est lu sur sa propre ligne : la voix
+  marque une petite respiration entre deux segments.
 - `caption` : 1 phrase + emoji, mentionne "lien en bio" si SEO Radius ; liens GitHub en clair pour
   le pilier IA. 4 à 6 hashtags dont #ia ou #seo.
