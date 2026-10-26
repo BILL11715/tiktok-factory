@@ -1,0 +1,153 @@
+{
+ "title": "Reco : le dernier mage de l'humanité renvoyé 13 ans dans le passé",
+ "format": "reco",
+ "tone": "pote",
+ "music": "pote",
+ "animes": [
+  "A Returner's Magic Should be Special Season 2"
+ ],
+ "media": {
+  "A Returner's Magic Should be Special Season 2": "anime"
+ },
+ "cover": {
+  "text": "Il a vu la fin du monde",
+  "highlight": [
+   "fin"
+  ],
+  "emoji": "🔥",
+  "sub": "et il revient"
+ },
+ "hook_text": "Ce mage a regardé l'humanité mourir, puis il s'est réveillé 13 ans plus tôt",
+ "spoiler": false,
+ "segments": [
+  {
+   "text": "Ce mage a regardé l'humanité mourir, puis il s'est réveillé 13 ans plus tôt.",
+   "sfx": true,
+   "emphasis": [
+    "13 ans"
+   ],
+   "scene": "a young mage standing alone in a ruined dark world full of shadows",
+   "grade": "bw"
+  },
+  {
+   "text": "[whispering] Reste jusqu'au bout, j'te donne le nom, et la saison 2 tourne en ce moment même.",
+   "emphasis": [
+    "saison 2"
+   ],
+   "scene": "a dark labyrinth with glowing purple light and creeping shadows"
+  },
+  {
+   "text": "Le mec s'appelle Desir. Au début de l'histoire, le monde est avalé par un truc qu'on appelle le Labyrinthe de l'Ombre.",
+   "emphasis": [
+    "Desir"
+   ],
+   "scene": "a black haired young wizard casting a glowing spell in darkness",
+   "shots": [
+    {
+     "anime": "A Returner's Magic Should be Special Season 2",
+     "kind": "character",
+     "character": "Desir",
+     "at": "Desir"
+    }
+   ]
+  },
+  {
+   "text": "Il reste six survivants, genre six pour toute l'humanité, et lui il est là quand ça s'arrête.",
+   "grade": "bw",
+   "scene": "a small group of exhausted warriors fighting giant monsters in ruins"
+  },
+  {
+   "text": "[sad] Il voit ses potes tomber un par un. Et là, au lieu de mourir, il rouvre les yeux, gamin, avant l'académie.",
+   "sfx": true,
+   "emphasis": [
+    "gamin"
+   ],
+   "scene": "a boy waking up suddenly in a bright bedroom, shocked"
+  },
+  {
+   "text": "Sauf que cette fois, il connaît tout. Les monstres, les traîtres, les sorts qui marchent vraiment.",
+   "stamp": "AVANCE",
+   "scene": "a teenage boy smirking confidently in a magic academy courtyard",
+   "shots": [
+    {
+     "kind": "wide"
+    }
+   ]
+  },
+  {
+   "text": "Et c'est un roturier, dans une école de magie remplie de nobles qui le prennent de haut. Tu vois venir la suite, frr.",
+   "emphasis": [
+    "roturier"
+   ],
+   "scene": "arrogant rich students looking down at a poor student in a hallway"
+  },
+  {
+   "text": "Si t'aimes les histoires de mecs qui reviennent dans le passé pour tout changer, abonne-toi, j'en sors tous les jours.",
+   "cta": true
+  },
+  {
+   "text": "[excited] Le kiff, c'est qu'il va chercher les gens qu'il a perdus. Romantica, la mage au caractère de feu, et Pram, le bretteur.",
+   "emphasis": [
+    "Romantica"
+   ],
+   "scene": "a red haired girl casting fire magic next to a swordsman",
+   "shots": [
+    {
+     "anime": "A Returner's Magic Should be Special Season 2",
+     "kind": "character",
+     "character": "Romantica",
+     "at": "Romantica"
+    },
+    {
+     "anime": "A Returner's Magic Should be Special Season 2",
+     "kind": "character",
+     "character": "Pram",
+     "at": "Pram"
+    }
+   ]
+  },
+  {
+   "text": "Dans le futur c'était son équipe. Là, ils le connaissent même pas, et il doit gagner leur confiance à zéro.",
+   "scene": "three young students arguing then smiling together after a fight"
+  },
+  {
+   "text": "Et c'est ça qui m'a eu. C'est pas juste un mec cheaté qui roule sur tout le monde, il porte le deuil de gens encore vivants.",
+   "grade": "bw",
+   "emphasis": [
+    "deuil"
+   ],
+   "scene": "a young mage staring silently at his laughing friends, eyes full of sadness"
+  },
+  {
+   "text": "Mais attends, le Labyrinthe arrive quand même. Il a juste quelques années pour préparer tout le monde.",
+   "sfx": true,
+   "scene": "a huge dark portal opening in the sky above a city"
+  },
+  {
+   "text": "[excited] Et franchement, voir ces duels de magie animés en saison 2, ça fait trop plaisir après des années à lire le manhwa.",
+   "scene": "two mages clashing with huge glowing spells in an arena"
+  },
+  {
+   "text": "À la base c'est un manhwa, que tu peux lire légalement en ligne, et j'te jure que les chapitres de la fin sont chauds.",
+   "emphasis": [
+    "manhwa"
+   ],
+   "scene": "a powerful wizard floating above a battlefield surrounded by magic circles"
+  },
+  {
+   "text": "Bref, si tu cherches un anime de magie avec un vrai cœur, c'est lui. Dis-moi en com' si tu le regardes déjà.",
+   "scene": "a young mage smiling with his friends under a sunset"
+  }
+ ],
+ "reveal_text": "A Returner's Magic Should Be Special",
+ "reveal_segments": 1,
+ "caption": "Il revient dans le passé pour sauver ses potes, pas pour frimer 🔥 tu regardes la saison 2 ?",
+ "hashtags": [
+  "#anime",
+  "#manga",
+  "#animefr",
+  "#manhwa",
+  "#areturnersmagicshouldbespecial",
+  "#recommandationanime"
+ ]
+}

@@ -1,0 +1,187 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-26_1148/video.mp4",
+ "duration": 73.043,
+ "shots": 34,
+ "sources": [
+  "https://anilist.co/anime/172192",
+  "https://kitsu.io/anime/kikansha-no-mahou-wa-tokubetsu-desu-2nd-season"
+ ],
+ "plan": [
+  {
+   "character": null,
+   "fx": "hook",
+   "start": 0.0
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 1.59
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 3.18
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 5.52
+  },
+  {
+   "character": "Desir",
+   "fx": null,
+   "start": 7.86
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 10.05
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 12.24
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 14.21
+  },
+  {
+   "character": null,
+   "fx": "punch",
+   "start": 16.18
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 18.64
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 21.1
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 23.23
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 25.36
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 28.07
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 30.78
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 33.053333333333335
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 35.32666666666667
+  },
+  {
+   "character": "Romantica",
+   "fx": null,
+   "start": 37.6
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 38.86
+  },
+  {
+   "character": "Pram",
+   "fx": null,
+   "start": 40.12
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 41.22
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 43.480000000000004
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 45.74
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 48.3
+  },
+  {
+   "character": null,
+   "fx": "punch",
+   "start": 50.86
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 52.879999999999995
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 54.9
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 57.379999999999995
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 59.86
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 62.55
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 65.24
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 67.57999999999998
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 69.91999999999999
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 71.4815
+  }
+ ],
+ "engine": "ffmpeg (secours)",
+ "voice_engine": "fish",
+ "repo_path": "videos/2026/10/2026-10-26_1148.mp4",
+ "raw_url": "https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/videos/2026/10/2026-10-26_1148.mp4",
+ "lint": [],
+ "render_seconds": 455.0
+}
