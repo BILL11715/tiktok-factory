@@ -1,0 +1,212 @@
+{
+ "title": "Organise un week-end entre amis avec Claude Docs",
+ "theme": "ia",
+ "pillar": "ia",
+ "format": "methode",
+ "music": "pote",
+ "cover": {
+  "text": "Fini le chaos du groupe",
+  "highlight": [
+   "chaos"
+  ],
+  "emoji": "🧳",
+  "sub": "un seul document, gratuit"
+ },
+ "hook_text": "Quarante messages pour organiser un week-end entre amis ? Il y a plus simple.",
+ "segments": [
+  {
+   "text": "Quarante messages pour organiser un week-end entre amis ? Il y a plus simple.",
+   "emphasis": [
+    "simple"
+   ]
+  },
+  {
+   "text": "Le souci ? Tout se perd dans le groupe. Les dates d'un côté. Le budget de l'autre. Personne ne retrouve rien.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Le problème",
+    "text": "Tout se perd dans le groupe",
+    "highlight": "perd",
+    "sub": "dates, budget, qui ramène quoi"
+   }
+  },
+  {
+   "text": "La solution : un document partagé, rédigé avec l'intelligence artificielle. Il s'appelle Docs, et il est inclus dans Claude. Depuis le 8 octobre, il est ouvert à tous, même en gratuit.",
+   "visual": {
+    "kind": "card",
+    "emoji": "📝",
+    "owner": "Anthropic",
+    "name": "Claude Docs",
+    "desc": "Des documents vivants, rédigés avec l'IA",
+    "tags": [
+     "gratuit",
+     "partage",
+     "Word",
+     "PDF"
+    ],
+    "price": "0 €",
+    "url": "claude.ai"
+   },
+   "stamp": "gratuit"
+  },
+  {
+   "text": "Dans une conversation, écris par exemple : crée un document pour préparer notre week-end à la mer, à six.",
+   "visual": {
+    "kind": "chat",
+    "name": "Claude",
+    "user": "Crée un document pour préparer notre week-end à la mer, à six.",
+    "assistant": "Avec plaisir ! Quelques questions d'abord : quelles dates, quel budget par personne, et qui conduit ?"
+   }
+  },
+  {
+   "text": "L'IA te pose quelques questions. Ensuite, elle rédige tout. Les dates. Le budget par personne. Et un tableau de qui ramène quoi.",
+   "visual": {
+    "kind": "list",
+    "title": "Dans le document",
+    "items": [
+     "Les dates",
+     "Le budget par personne",
+     "Qui ramène quoi"
+    ],
+    "at": [
+     "dates",
+     "budget",
+     "ramène"
+    ]
+   }
+  },
+  {
+   "text": "Maintenant, clique sur Partager. Avec le plan gratuit, toute personne qui a le lien peut l'ouvrir.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Étape suivante",
+    "text": "Un seul lien à envoyer",
+    "highlight": "lien",
+    "sub": "bouton Partager"
+   }
+  },
+  {
+   "text": "Et là, chacun modifie le même document, en même temps. Plus besoin de chercher le bon message dans le groupe.",
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "Avant",
+     "items": [
+      "Quarante messages",
+      "Infos perdues"
+     ]
+    },
+    "right": {
+     "title": "Avec Docs",
+     "items": [
+      "Un seul document",
+      "Tout le monde à jour"
+     ]
+    }
+   }
+  },
+  {
+   "text": "Une amie trouve le budget trop serré ? Elle laisse un commentaire et mentionne Claude. L'IA corrige, puis explique ce qu'elle a changé.",
+   "visual": {
+    "kind": "chat",
+    "name": "Claude",
+    "user": "@Claude le budget est trop serré, propose une version à 120 € par personne.",
+    "assistant": "C'est corrigé : j'ai remplacé le restaurant du samedi par un pique-nique et ajusté le tableau."
+   },
+   "sfx": true
+  },
+  {
+   "text": "Besoin d'une copie ? Le document s'exporte en Word ou en PDF. Il part aussi vers Google Docs.",
+   "visual": {
+    "kind": "list",
+    "title": "Exporter",
+    "items": [
+     "Word",
+     "PDF",
+     "Google Docs"
+    ],
+    "at": [
+     "Word",
+     "PDF",
+     "Google"
+    ]
+   }
+  },
+  {
+   "text": "Sur la route ? Ça marche aussi depuis l'application, sur téléphone.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Sur téléphone",
+    "text": "Une retouche sur la route",
+    "highlight": "route",
+    "sub": "application mobile"
+   }
+  },
+  {
+   "text": "Il y a quand même des pièges. Pour ouvrir le lien, tes amis doivent avoir un compte. Il est gratuit, mais obligatoire.",
+   "visual": {
+    "kind": "compare",
+    "left": {
+     "title": "Bon à savoir",
+     "items": [
+      "Compte obligatoire",
+      "Compte gratuit"
+     ]
+    },
+    "right": {
+     "title": "À éviter",
+     "items": [
+      "Infos très perso",
+      "Mots de passe"
+     ]
+    }
+   }
+  },
+  {
+   "text": "Autre piège : un document effacé disparaît pour de bon. Impossible de le récupérer. Et chaque demande compte dans ta limite d'utilisation.",
+   "visual": {
+    "kind": "title",
+    "kicker": "Attention",
+    "text": "Pas de corbeille",
+    "highlight": "corbeille",
+    "sub": "suppression définitive"
+   }
+  },
+  {
+   "text": "Le même réflexe marche pour un anniversaire surprise. Ou pour un planning de révisions.",
+   "visual": {
+    "kind": "list",
+    "title": "Autres idées",
+    "items": [
+     "Anniversaire surprise",
+     "Planning de révisions"
+    ],
+    "at": [
+     "anniversaire",
+     "révisions"
+    ]
+   }
+  },
+  {
+   "text": "Ma dernière astuce : dis à l'IA pour qui est le document et à quoi il sert. Le premier jet sera bien meilleur.",
+   "visual": {
+    "kind": "title",
+    "kicker": "L'astuce",
+    "text": "Dis à quoi il sert",
+    "highlight": "sert",
+    "sub": "et pour qui"
+   }
+  },
+  {
+   "text": "Et toi, quel projet à plusieurs vas-tu organiser comme ça ? Dis-le-moi en commentaire."
+  }
+ ],
+ "caption": "Un week-end entre amis sans quarante messages perdus : un seul document partagé avec Claude Docs, même en gratuit 🧳 Aide officielle : https://support.claude.com/fr/articles/16923645-get-started-with-claude-docs",
+ "hashtags": [
+  "#ia",
+  "#claude",
+  "#astuce",
+  "#organisation",
+  "#voyage"
+ ]
+}

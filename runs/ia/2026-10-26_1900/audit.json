@@ -1,0 +1,55 @@
+{
+ "stamp": "2026-10-26_1900",
+ "duration": 84.9,
+ "lead": 0.6,
+ "cps": 24.9,
+ "accuracy": 0.931,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "ecris",
+   "entendu": "ecrit"
+  },
+  {
+   "dit": "l i a",
+   "entendu": "nia"
+  },
+  {
+   "dit": "l i a",
+   "entendu": "lia"
+  },
+  {
+   "dit": "puis",
+   "entendu": "lui"
+  },
+  {
+   "dit": "besoin",
+   "entendu": "desoigne"
+  },
+  {
+   "dit": "oueurde",
+   "entendu": "word"
+  },
+  {
+   "dit": "p d f",
+   "entendu": "pdf"
+  },
+  {
+   "dit": "efface",
+   "entendu": "est facait"
+  },
+  {
+   "dit": "limite",
+   "entendu": "ligne"
+  },
+  {
+   "dit": "revisions",
+   "entendu": "revision"
+  },
+  {
+   "dit": "dis a l i a",
+   "entendu": "dit alia"
+  }
+ ],
+ "alerts": []
+}
