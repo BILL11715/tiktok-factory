@@ -1,0 +1,81 @@
+{
+ "stamp": "2026-10-26_1700",
+ "duration": 85.8,
+ "lead": 0.6,
+ "cps": 24.1,
+ "accuracy": 0.922,
+ "engine": "kyutai",
+ "issues": [
+  {
+   "dit": "exceptionnels",
+   "entendu": "exceptionnelles"
+  },
+  {
+   "dit": "habituels",
+   "entendu": "habituelles"
+  },
+  {
+   "dit": "ses",
+   "entendu": "ces"
+  },
+  {
+   "dit": "ferie",
+   "entendu": "ferrier"
+  },
+  {
+   "dit": "s e o radiusse",
+   "entendu": "seo radius"
+  },
+  {
+   "dit": "choisis",
+   "entendu": "choisie"
+  },
+  {
+   "dit": "opportunite estime",
+   "entendu": "opportunites estimees"
+  },
+  {
+   "dit": "ferie",
+   "entendu": "ferrier"
+  },
+  {
+   "dit": "utilise",
+   "entendu": "utilisez"
+  },
+  {
+   "dit": "exclusive",
+   "entendu": "exclusif"
+  },
+  {
+   "dit": "claude",
+   "entendu": "cloud"
+  },
+  {
+   "dit": "ces",
+   "entendu": "ses"
+  },
+  {
+   "dit": "horaires",
+   "entendu": "horaire"
+  },
+  {
+   "dit": "exceptionnels",
+   "entendu": "exceptionnelles"
+  },
+  {
+   "dit": "ferme",
+   "entendu": "fermee"
+  },
+  {
+   "dit": "justes rassurent",
+   "entendu": "juste rassures"
+  },
+  {
+   "dit": "ont",
+   "entendu": "on"
+  }
+ ],
+ "alerts": [
+  "prononciation 92% des mots compris (min 93%)"
+ ]
+}
