@@ -179,7 +179,7 @@ document.fonts.ready.then(function () {
     return fb;
   }
   function accentHTML(text, hl) {
-    var h = {}; (hl || []).forEach(function (w) { h[norm(w)] = 1; });
+    var h = {}; (Array.isArray(hl) ? hl : (hl ? String(hl).split(/\s+/) : [])).forEach(function (w) { h[norm(w)] = 1; });
     var ws = String(text).split(/\s+/), any = ws.some(function (w) { return h[norm(w)]; });
     if (!any) { var best = -1, bl = 0; ws.forEach(function (w, k) { var l = norm(w).length; if (l > bl) { bl = l; best = k; } }); if (ws.length > 1) h[norm(ws[best])] = 1; }
     return ws.map(function (w) { return '<span class="w' + (h[norm(w)] ? ' a' : '') + '">' + esc(w) + '</span>'; }).join(" ");
@@ -188,7 +188,7 @@ document.fonts.ready.then(function () {
   var tl = gsap.timeline({paused: true});
 
   // ---------- légendes : groupes de 1 à 3 mots, un mot accentué
-  var emphAll = {}; S.segments.forEach(function (s) { (s.emphasis || []).forEach(function (w) { emphAll[norm(w)] = 1; }); });
+  var emphAll = {}; S.segments.forEach(function (s) { (Array.isArray(s.emphasis) ? s.emphasis : []).forEach(function (w) { emphAll[norm(w)] = 1; }); });
   var groups = [];
   TL.forEach(function (seg, si) {
     var cur = [];
