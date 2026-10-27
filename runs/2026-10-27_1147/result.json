@@ -1,0 +1,213 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-27_1147/video.mp4",
+ "duration": 73.827,
+ "shots": 39,
+ "sources": [
+  "https://anilist.co/manga/123573"
+ ],
+ "plan": [
+  {
+   "character": null,
+   "fx": "hook",
+   "start": 0.0
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 1.6
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 3.2
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 5.5600000000000005
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 7.920000000000001
+  },
+  {
+   "character": "Cale Henituse",
+   "fx": null,
+   "start": 10.280000000000001
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 12.133333333333335
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 13.986666666666666
+  },
+  {
+   "character": null,
+   "fx": "punch",
+   "start": 15.84
+  },
+  {
+   "character": "Choi  Han",
+   "fx": null,
+   "start": 17.94
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 20.08
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 22.02
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 23.959999999999997
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 25.9
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 27.886666666666667
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 29.87333333333333
+  },
+  {
+   "character": null,
+   "fx": "punch",
+   "start": 31.86
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 33.52
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 35.18
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 36.84
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 38.77
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 40.7
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 42.2
+  },
+  {
+   "character": "Raon Mir",
+   "fx": null,
+   "start": 43.7
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 45.11
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 46.52
+  },
+  {
+   "character": "Raon Mir",
+   "fx": null,
+   "start": 48.480000000000004
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 50.05
+  },
+  {
+   "character": "Hong",
+   "fx": null,
+   "start": 51.62
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 53.980000000000004
+  },
+  {
+   "character": "Cale  Henituse",
+   "fx": null,
+   "start": 56.34
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 58.25
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 60.16
+  },
+  {
+   "character": "Choi  Han",
+   "fx": null,
+   "start": 62.68
+  },
+  {
+   "character": null,
+   "fx": "punch",
+   "start": 64.84
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 66.65333333333334
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 68.46666666666665
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 70.27999999999999
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 72.05349999999999
+  }
+ ],
+ "engine": "ffmpeg (secours)",
+ "voice_engine": "fish",
+ "repo_path": "videos/2026/10/2026-10-27_1147.mp4",
+ "raw_url": "https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/videos/2026/10/2026-10-27_1147.mp4",
+ "lint": [
+  "hook_text > 15 mots"
+ ],
+ "render_seconds": 356.4
+}
