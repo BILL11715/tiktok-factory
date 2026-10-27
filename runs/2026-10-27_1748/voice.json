@@ -1,0 +1,1707 @@
+{
+ "engine": "fish",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-27_1748/voice.wav",
+ "duration": 78.738,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 2.7,
+   "slot_end": 2.823,
+   "text": "Le dieu de la destruction a failli raser la Terre pour un pudding.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 0.0,
+     "end": 0.16
+    },
+    {
+     "w": "dieu",
+     "start": 0.16,
+     "end": 0.44
+    },
+    {
+     "w": "de",
+     "start": 0.44,
+     "end": 0.54
+    },
+    {
+     "w": "la",
+     "start": 0.54,
+     "end": 0.62
+    },
+    {
+     "w": "destruction",
+     "start": 0.62,
+     "end": 0.94
+    },
+    {
+     "w": "a",
+     "start": 0.94,
+     "end": 1.26
+    },
+    {
+     "w": "failli",
+     "start": 1.26,
+     "end": 1.44
+    },
+    {
+     "w": "raser",
+     "start": 1.44,
+     "end": 1.64
+    },
+    {
+     "w": "la",
+     "start": 1.64,
+     "end": 1.8
+    },
+    {
+     "w": "Terre",
+     "start": 1.8,
+     "end": 1.98
+    },
+    {
+     "w": "pour",
+     "start": 1.98,
+     "end": 2.22
+    },
+    {
+     "w": "un",
+     "start": 2.22,
+     "end": 2.36
+    },
+    {
+     "w": "pudding.",
+     "start": 2.36,
+     "end": 2.7
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 2.8,
+   "end": 5.6,
+   "slot_end": 5.717,
+   "text": "Reste jusqu'au numéro 1, c'est là que Goku comprend qu'il est plus le plus fort.",
+   "words": [
+    {
+     "w": "Reste",
+     "start": 2.8,
+     "end": 2.98
+    },
+    {
+     "w": "jusqu'au",
+     "start": 2.98,
+     "end": 3.32
+    },
+    {
+     "w": "numéro",
+     "start": 3.32,
+     "end": 3.52
+    },
+    {
+     "w": "1,",
+     "start": 3.52,
+     "end": 3.82
+    },
+    {
+     "w": "c'est",
+     "start": 3.98,
+     "end": 4.03
+    },
+    {
+     "w": "là",
+     "start": 4.02,
+     "end": 4.12
+    },
+    {
+     "w": "que",
+     "start": 4.12,
+     "end": 4.2
+    },
+    {
+     "w": "Goku",
+     "start": 4.2,
+     "end": 4.38
+    },
+    {
+     "w": "comprend",
+     "start": 4.38,
+     "end": 4.78
+    },
+    {
+     "w": "qu'il",
+     "start": 4.78,
+     "end": 4.92
+    },
+    {
+     "w": "est",
+     "start": 4.92,
+     "end": 5.02
+    },
+    {
+     "w": "plus",
+     "start": 5.02,
+     "end": 5.16
+    },
+    {
+     "w": "le",
+     "start": 5.16,
+     "end": 5.26
+    },
+    {
+     "w": "plus",
+     "start": 5.26,
+     "end": 5.4
+    },
+    {
+     "w": "fort.",
+     "start": 5.4,
+     "end": 5.6
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 5.74,
+   "end": 10.52,
+   "slot_end": 10.659,
+   "text": "L'arc Beerus de Dragon Ball Super ressort en version remasterisée en ce moment, et vu l'animation de l'époque, c'était pas du luxe.",
+   "words": [
+    {
+     "w": "L'arc",
+     "start": 5.74,
+     "end": 5.88
+    },
+    {
+     "w": "Beerus",
+     "start": 5.88,
+     "end": 6.16
+    },
+    {
+     "w": "de",
+     "start": 6.16,
+     "end": 6.4
+    },
+    {
+     "w": "Dragon",
+     "start": 6.4,
+     "end": 6.6
+    },
+    {
+     "w": "Ball",
+     "start": 6.6,
+     "end": 6.8
+    },
+    {
+     "w": "Super",
+     "start": 6.8,
+     "end": 7.02
+    },
+    {
+     "w": "ressort",
+     "start": 7.02,
+     "end": 7.36
+    },
+    {
+     "w": "en",
+     "start": 7.36,
+     "end": 7.46
+    },
+    {
+     "w": "version",
+     "start": 7.46,
+     "end": 7.68
+    },
+    {
+     "w": "remasterisée",
+     "start": 7.68,
+     "end": 8.38
+    },
+    {
+     "w": "en",
+     "start": 8.38,
+     "end": 8.52
+    },
+    {
+     "w": "ce",
+     "start": 8.52,
+     "end": 8.6
+    },
+    {
+     "w": "moment,",
+     "start": 8.6,
+     "end": 8.84
+    },
+    {
+     "w": "et",
+     "start": 8.84,
+     "end": 9.04
+    },
+    {
+     "w": "vu",
+     "start": 9.04,
+     "end": 9.12
+    },
+    {
+     "w": "l'animation",
+     "start": 9.12,
+     "end": 9.46
+    },
+    {
+     "w": "de",
+     "start": 9.46,
+     "end": 9.6
+    },
+    {
+     "w": "l'époque,",
+     "start": 9.6,
+     "end": 9.8
+    },
+    {
+     "w": "c'était",
+     "start": 9.8,
+     "end": 10.06
+    },
+    {
+     "w": "pas",
+     "start": 10.06,
+     "end": 10.24
+    },
+    {
+     "w": "du",
+     "start": 10.24,
+     "end": 10.32
+    },
+    {
+     "w": "luxe.",
+     "start": 10.32,
+     "end": 10.52
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 10.68,
+   "end": 17.26,
+   "slot_end": 17.316,
+   "text": "Numéro 5, le réveil de Beerus. Ce chat violet dort pendant des décennies et se réveille pour chercher un Super Saiyan God vu en rêve.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 10.68,
+     "end": 10.9
+    },
+    {
+     "w": "5,",
+     "start": 10.9,
+     "end": 11.14
+    },
+    {
+     "w": "le",
+     "start": 11.64,
+     "end": 11.78
+    },
+    {
+     "w": "réveil",
+     "start": 11.78,
+     "end": 12.06
+    },
+    {
+     "w": "de",
+     "start": 12.06,
+     "end": 12.18
+    },
+    {
+     "w": "Beerus.",
+     "start": 12.18,
+     "end": 12.42
+    },
+    {
+     "w": "Ce",
+     "start": 12.96,
+     "end": 13.14
+    },
+    {
+     "w": "chat",
+     "start": 13.14,
+     "end": 13.3
+    },
+    {
+     "w": "violet",
+     "start": 13.3,
+     "end": 13.5
+    },
+    {
+     "w": "dort",
+     "start": 13.5,
+     "end": 13.76
+    },
+    {
+     "w": "pendant",
+     "start": 13.76,
+     "end": 13.92
+    },
+    {
+     "w": "des",
+     "start": 13.92,
+     "end": 14.1
+    },
+    {
+     "w": "décennies",
+     "start": 14.1,
+     "end": 14.46
+    },
+    {
+     "w": "et",
+     "start": 14.46,
+     "end": 14.62
+    },
+    {
+     "w": "se",
+     "start": 14.62,
+     "end": 14.72
+    },
+    {
+     "w": "réveille",
+     "start": 14.72,
+     "end": 14.98
+    },
+    {
+     "w": "pour",
+     "start": 14.98,
+     "end": 15.12
+    },
+    {
+     "w": "chercher",
+     "start": 15.12,
+     "end": 15.36
+    },
+    {
+     "w": "un",
+     "start": 15.36,
+     "end": 15.58
+    },
+    {
+     "w": "Super",
+     "start": 15.58,
+     "end": 15.98
+    },
+    {
+     "w": "Saiyan",
+     "start": 15.98,
+     "end": 16.4
+    },
+    {
+     "w": "God",
+     "start": 16.4,
+     "end": 16.64
+    },
+    {
+     "w": "vu",
+     "start": 16.64,
+     "end": 16.9
+    },
+    {
+     "w": "en",
+     "start": 16.9,
+     "end": 17.02
+    },
+    {
+     "w": "rêve.",
+     "start": 17.02,
+     "end": 17.26
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 17.34,
+   "end": 20.46,
+   "slot_end": 20.579,
+   "text": "Avec lui t'as Whis, son prof, qui rigole de tout et qui fait encore plus peur.",
+   "words": [
+    {
+     "w": "Avec",
+     "start": 17.34,
+     "end": 17.48
+    },
+    {
+     "w": "lui",
+     "start": 17.48,
+     "end": 17.62
+    },
+    {
+     "w": "t'as",
+     "start": 17.62,
+     "end": 17.9
+    },
+    {
+     "w": "Whis,",
+     "start": 17.9,
+     "end": 18.04
+    },
+    {
+     "w": "son",
+     "start": 18.04,
+     "end": 18.32
+    },
+    {
+     "w": "prof,",
+     "start": 18.32,
+     "end": 18.58
+    },
+    {
+     "w": "qui",
+     "start": 18.58,
+     "end": 18.96
+    },
+    {
+     "w": "rigole",
+     "start": 18.96,
+     "end": 19.3
+    },
+    {
+     "w": "de",
+     "start": 19.3,
+     "end": 19.42
+    },
+    {
+     "w": "tout",
+     "start": 19.42,
+     "end": 19.56
+    },
+    {
+     "w": "et",
+     "start": 19.56,
+     "end": 19.68
+    },
+    {
+     "w": "qui",
+     "start": 19.68,
+     "end": 19.74
+    },
+    {
+     "w": "fait",
+     "start": 19.74,
+     "end": 19.86
+    },
+    {
+     "w": "encore",
+     "start": 19.86,
+     "end": 19.98
+    },
+    {
+     "w": "plus",
+     "start": 19.98,
+     "end": 20.2
+    },
+    {
+     "w": "peur.",
+     "start": 20.2,
+     "end": 20.46
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 20.6,
+   "end": 27.96,
+   "slot_end": 28.09,
+   "text": "Numéro 4, Goku en Super Saiyan 3 chez Kaïo. Il y va à fond, et Beerus le met KO en deux coups. Deux. J'avais jamais vu Goku aussi petit.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 20.6,
+     "end": 20.78
+    },
+    {
+     "w": "4,",
+     "start": 20.78,
+     "end": 21.0
+    },
+    {
+     "w": "Goku",
+     "start": 21.22,
+     "end": 21.32
+    },
+    {
+     "w": "en",
+     "start": 21.32,
+     "end": 21.58
+    },
+    {
+     "w": "Super",
+     "start": 21.58,
+     "end": 21.84
+    },
+    {
+     "w": "Saiyan",
+     "start": 21.84,
+     "end": 22.22
+    },
+    {
+     "w": "3",
+     "start": 22.22,
+     "end": 22.44
+    },
+    {
+     "w": "chez",
+     "start": 22.44,
+     "end": 22.62
+    },
+    {
+     "w": "Kaïo.",
+     "start": 22.62,
+     "end": 22.9
+    },
+    {
+     "w": "Il",
+     "start": 23.3,
+     "end": 23.46
+    },
+    {
+     "w": "y",
+     "start": 23.46,
+     "end": 23.58
+    },
+    {
+     "w": "va",
+     "start": 23.58,
+     "end": 23.68
+    },
+    {
+     "w": "à",
+     "start": 23.68,
+     "end": 23.84
+    },
+    {
+     "w": "fond,",
+     "start": 23.84,
+     "end": 23.96
+    },
+    {
+     "w": "et",
+     "start": 23.96,
+     "end": 24.16
+    },
+    {
+     "w": "Beerus",
+     "start": 24.16,
+     "end": 24.42
+    },
+    {
+     "w": "le",
+     "start": 24.42,
+     "end": 24.7
+    },
+    {
+     "w": "met",
+     "start": 24.7,
+     "end": 24.82
+    },
+    {
+     "w": "KO",
+     "start": 24.82,
+     "end": 25.1
+    },
+    {
+     "w": "en",
+     "start": 25.1,
+     "end": 25.26
+    },
+    {
+     "w": "deux",
+     "start": 25.26,
+     "end": 25.54
+    },
+    {
+     "w": "coups.",
+     "start": 25.54,
+     "end": 26.14
+    },
+    {
+     "w": "Deux.",
+     "start": 26.3,
+     "end": 26.66
+    },
+    {
+     "w": "J'avais",
+     "start": 26.76,
+     "end": 26.92
+    },
+    {
+     "w": "jamais",
+     "start": 26.92,
+     "end": 27.1
+    },
+    {
+     "w": "vu",
+     "start": 27.1,
+     "end": 27.28
+    },
+    {
+     "w": "Goku",
+     "start": 27.28,
+     "end": 27.48
+    },
+    {
+     "w": "aussi",
+     "start": 27.48,
+     "end": 27.78
+    },
+    {
+     "w": "petit.",
+     "start": 27.78,
+     "end": 27.96
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 28.08,
+   "end": 31.02,
+   "slot_end": 31.126,
+   "text": "Si t'as grandi avec Dragon Ball, abonne-toi, je décortique tous les gros arcs ici.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 28.08,
+     "end": 28.2
+    },
+    {
+     "w": "t'as",
+     "start": 28.2,
+     "end": 28.32
+    },
+    {
+     "w": "grandi",
+     "start": 28.32,
+     "end": 28.5
+    },
+    {
+     "w": "avec",
+     "start": 28.5,
+     "end": 28.64
+    },
+    {
+     "w": "Dragon",
+     "start": 28.64,
+     "end": 28.88
+    },
+    {
+     "w": "Ball,",
+     "start": 28.88,
+     "end": 29.14
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 29.3,
+     "end": 29.6
+    },
+    {
+     "w": "je",
+     "start": 29.6,
+     "end": 29.9
+    },
+    {
+     "w": "décortique",
+     "start": 29.9,
+     "end": 30.2
+    },
+    {
+     "w": "tous",
+     "start": 30.2,
+     "end": 30.36
+    },
+    {
+     "w": "les",
+     "start": 30.36,
+     "end": 30.48
+    },
+    {
+     "w": "gros",
+     "start": 30.48,
+     "end": 30.58
+    },
+    {
+     "w": "arcs",
+     "start": 30.58,
+     "end": 30.88
+    },
+    {
+     "w": "ici.",
+     "start": 30.88,
+     "end": 31.02
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 31.22,
+   "end": 36.26,
+   "slot_end": 36.323,
+   "text": "Numéro 3, l'anniversaire de Bulma. Buu refuse de filer son pudding à Beerus, et c'est la panique totale.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 31.22,
+     "end": 31.34
+    },
+    {
+     "w": "3,",
+     "start": 31.34,
+     "end": 31.52
+    },
+    {
+     "w": "l'anniversaire",
+     "start": 31.6,
+     "end": 32.08
+    },
+    {
+     "w": "de",
+     "start": 32.08,
+     "end": 32.24
+    },
+    {
+     "w": "Bulma.",
+     "start": 32.24,
+     "end": 32.58
+    },
+    {
+     "w": "Buu",
+     "start": 32.82,
+     "end": 32.94
+    },
+    {
+     "w": "refuse",
+     "start": 32.94,
+     "end": 33.22
+    },
+    {
+     "w": "de",
+     "start": 33.22,
+     "end": 33.4
+    },
+    {
+     "w": "filer",
+     "start": 33.4,
+     "end": 33.62
+    },
+    {
+     "w": "son",
+     "start": 33.62,
+     "end": 33.78
+    },
+    {
+     "w": "pudding",
+     "start": 33.78,
+     "end": 34.1
+    },
+    {
+     "w": "à",
+     "start": 34.1,
+     "end": 34.5
+    },
+    {
+     "w": "Beerus,",
+     "start": 34.5,
+     "end": 34.74
+    },
+    {
+     "w": "et",
+     "start": 34.74,
+     "end": 35.42
+    },
+    {
+     "w": "c'est",
+     "start": 35.42,
+     "end": 35.54
+    },
+    {
+     "w": "la",
+     "start": 35.54,
+     "end": 35.64
+    },
+    {
+     "w": "panique",
+     "start": 35.64,
+     "end": 35.92
+    },
+    {
+     "w": "totale.",
+     "start": 35.92,
+     "end": 36.26
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 36.36,
+   "end": 41.2,
+   "slot_end": 41.299,
+   "text": "Vegeta, le prince des Saiyans, qui chante et danse pour calmer un chat. Bingo, pudding. Force à lui.",
+   "words": [
+    {
+     "w": "Vegeta,",
+     "start": 36.36,
+     "end": 36.54
+    },
+    {
+     "w": "le",
+     "start": 36.8,
+     "end": 36.86
+    },
+    {
+     "w": "prince",
+     "start": 36.86,
+     "end": 37.06
+    },
+    {
+     "w": "des",
+     "start": 37.06,
+     "end": 37.22
+    },
+    {
+     "w": "Saiyans,",
+     "start": 37.22,
+     "end": 37.44
+    },
+    {
+     "w": "qui",
+     "start": 37.44,
+     "end": 37.62
+    },
+    {
+     "w": "chante",
+     "start": 37.62,
+     "end": 37.84
+    },
+    {
+     "w": "et",
+     "start": 37.84,
+     "end": 38.02
+    },
+    {
+     "w": "danse",
+     "start": 38.02,
+     "end": 38.3
+    },
+    {
+     "w": "pour",
+     "start": 38.3,
+     "end": 38.48
+    },
+    {
+     "w": "calmer",
+     "start": 38.48,
+     "end": 38.76
+    },
+    {
+     "w": "un",
+     "start": 38.92,
+     "end": 39.0
+    },
+    {
+     "w": "chat.",
+     "start": 39.0,
+     "end": 39.16
+    },
+    {
+     "w": "Bingo,",
+     "start": 39.74,
+     "end": 40.1
+    },
+    {
+     "w": "pudding.",
+     "start": 40.24,
+     "end": 40.42
+    },
+    {
+     "w": "Force",
+     "start": 40.82,
+     "end": 40.92
+    },
+    {
+     "w": "à",
+     "start": 40.92,
+     "end": 41.06
+    },
+    {
+     "w": "lui.",
+     "start": 41.06,
+     "end": 41.2
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 41.38,
+   "end": 46.82,
+   "slot_end": 46.942,
+   "text": "Et quand Beerus gifle Bulma, Vegeta pète un câble. Pour moi c'est le Vegeta le plus énervé de toute la série.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 41.38,
+     "end": 41.43
+    },
+    {
+     "w": "quand",
+     "start": 41.38,
+     "end": 41.5
+    },
+    {
+     "w": "Beerus",
+     "start": 41.5,
+     "end": 41.8
+    },
+    {
+     "w": "gifle",
+     "start": 41.8,
+     "end": 42.46
+    },
+    {
+     "w": "Bulma,",
+     "start": 42.46,
+     "end": 42.84
+    },
+    {
+     "w": "Vegeta",
+     "start": 43.04,
+     "end": 43.26
+    },
+    {
+     "w": "pète",
+     "start": 43.26,
+     "end": 43.54
+    },
+    {
+     "w": "un",
+     "start": 43.54,
+     "end": 43.74
+    },
+    {
+     "w": "câble.",
+     "start": 43.74,
+     "end": 44.02
+    },
+    {
+     "w": "Pour",
+     "start": 44.42,
+     "end": 44.52
+    },
+    {
+     "w": "moi",
+     "start": 44.52,
+     "end": 44.68
+    },
+    {
+     "w": "c'est",
+     "start": 44.68,
+     "end": 44.82
+    },
+    {
+     "w": "le",
+     "start": 44.82,
+     "end": 44.94
+    },
+    {
+     "w": "Vegeta",
+     "start": 44.94,
+     "end": 45.16
+    },
+    {
+     "w": "le",
+     "start": 45.16,
+     "end": 45.4
+    },
+    {
+     "w": "plus",
+     "start": 45.4,
+     "end": 45.58
+    },
+    {
+     "w": "énervé",
+     "start": 45.58,
+     "end": 46.12
+    },
+    {
+     "w": "de",
+     "start": 46.12,
+     "end": 46.3
+    },
+    {
+     "w": "toute",
+     "start": 46.3,
+     "end": 46.44
+    },
+    {
+     "w": "la",
+     "start": 46.44,
+     "end": 46.62
+    },
+    {
+     "w": "série.",
+     "start": 46.62,
+     "end": 46.82
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 46.98,
+   "end": 54.62,
+   "slot_end": 54.747,
+   "text": "Numéro 2, le rituel. Pour le Super Saiyan God il faut six Saiyans au cœur pur, ils en ont cinq : Goku, Vegeta, Gohan, Goten et Trunks.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 46.98,
+     "end": 47.22
+    },
+    {
+     "w": "2,",
+     "start": 47.22,
+     "end": 47.44
+    },
+    {
+     "w": "le",
+     "start": 47.62,
+     "end": 47.82
+    },
+    {
+     "w": "rituel.",
+     "start": 47.82,
+     "end": 48.2
+    },
+    {
+     "w": "Pour",
+     "start": 48.62,
+     "end": 48.72
+    },
+    {
+     "w": "le",
+     "start": 48.72,
+     "end": 48.84
+    },
+    {
+     "w": "Super",
+     "start": 48.84,
+     "end": 49.06
+    },
+    {
+     "w": "Saiyan",
+     "start": 49.06,
+     "end": 49.36
+    },
+    {
+     "w": "God",
+     "start": 49.36,
+     "end": 49.5
+    },
+    {
+     "w": "il",
+     "start": 49.56,
+     "end": 49.64
+    },
+    {
+     "w": "faut",
+     "start": 49.64,
+     "end": 49.8
+    },
+    {
+     "w": "six",
+     "start": 49.8,
+     "end": 50.14
+    },
+    {
+     "w": "Saiyans",
+     "start": 50.14,
+     "end": 50.5
+    },
+    {
+     "w": "au",
+     "start": 50.5,
+     "end": 50.66
+    },
+    {
+     "w": "cœur",
+     "start": 50.66,
+     "end": 50.78
+    },
+    {
+     "w": "pur,",
+     "start": 50.78,
+     "end": 51.02
+    },
+    {
+     "w": "ils",
+     "start": 51.38,
+     "end": 51.508
+    },
+    {
+     "w": "en",
+     "start": 51.508,
+     "end": 51.636
+    },
+    {
+     "w": "ont",
+     "start": 51.636,
+     "end": 51.764
+    },
+    {
+     "w": "cinq",
+     "start": 51.764,
+     "end": 51.892
+    },
+    {
+     "w": ":",
+     "start": 51.892,
+     "end": 52.02
+    },
+    {
+     "w": "Goku,",
+     "start": 52.48,
+     "end": 52.56
+    },
+    {
+     "w": "Vegeta,",
+     "start": 52.86,
+     "end": 52.98
+    },
+    {
+     "w": "Gohan,",
+     "start": 53.34,
+     "end": 53.62
+    },
+    {
+     "w": "Goten",
+     "start": 53.82,
+     "end": 54.1
+    },
+    {
+     "w": "et",
+     "start": 54.1,
+     "end": 54.34
+    },
+    {
+     "w": "Trunks.",
+     "start": 54.34,
+     "end": 54.62
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 54.74,
+   "end": 58.32,
+   "slot_end": 58.478,
+   "text": "Et le sixième, c'est Pan. Elle est même pas encore née, elle est dans le ventre de Videl.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 54.74,
+     "end": 54.84
+    },
+    {
+     "w": "le",
+     "start": 54.84,
+     "end": 54.98
+    },
+    {
+     "w": "sixième,",
+     "start": 54.98,
+     "end": 55.3
+    },
+    {
+     "w": "c'est",
+     "start": 55.44,
+     "end": 55.6
+    },
+    {
+     "w": "Pan.",
+     "start": 55.6,
+     "end": 56.24
+    },
+    {
+     "w": "Elle",
+     "start": 56.28,
+     "end": 56.42
+    },
+    {
+     "w": "est",
+     "start": 56.42,
+     "end": 56.52
+    },
+    {
+     "w": "même",
+     "start": 56.52,
+     "end": 56.68
+    },
+    {
+     "w": "pas",
+     "start": 56.68,
+     "end": 56.82
+    },
+    {
+     "w": "encore",
+     "start": 56.82,
+     "end": 57.0
+    },
+    {
+     "w": "née,",
+     "start": 57.0,
+     "end": 57.18
+    },
+    {
+     "w": "elle",
+     "start": 57.34,
+     "end": 57.39
+    },
+    {
+     "w": "est",
+     "start": 57.34,
+     "end": 57.42
+    },
+    {
+     "w": "dans",
+     "start": 57.42,
+     "end": 57.52
+    },
+    {
+     "w": "le",
+     "start": 57.52,
+     "end": 57.6
+    },
+    {
+     "w": "ventre",
+     "start": 57.6,
+     "end": 57.84
+    },
+    {
+     "w": "de",
+     "start": 57.84,
+     "end": 57.96
+    },
+    {
+     "w": "Videl.",
+     "start": 57.96,
+     "end": 58.32
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 58.32,
+   "end": 64.36,
+   "slot_end": 64.499,
+   "text": "Numéro 1, le combat dans l'espace. Goku en Super Saiyan God contre Beerus, et chaque choc fait trembler l'univers.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 58.32,
+     "end": 58.64
+    },
+    {
+     "w": "1,",
+     "start": 58.64,
+     "end": 59.06
+    },
+    {
+     "w": "le",
+     "start": 59.06,
+     "end": 59.46
+    },
+    {
+     "w": "combat",
+     "start": 59.46,
+     "end": 59.66
+    },
+    {
+     "w": "dans",
+     "start": 59.66,
+     "end": 59.84
+    },
+    {
+     "w": "l'espace.",
+     "start": 59.84,
+     "end": 60.16
+    },
+    {
+     "w": "Goku",
+     "start": 60.16,
+     "end": 61.02
+    },
+    {
+     "w": "en",
+     "start": 61.02,
+     "end": 61.2
+    },
+    {
+     "w": "Super",
+     "start": 61.2,
+     "end": 61.46
+    },
+    {
+     "w": "Saiyan",
+     "start": 61.46,
+     "end": 61.9
+    },
+    {
+     "w": "God",
+     "start": 61.9,
+     "end": 62.08
+    },
+    {
+     "w": "contre",
+     "start": 62.08,
+     "end": 62.38
+    },
+    {
+     "w": "Beerus,",
+     "start": 62.38,
+     "end": 62.8
+    },
+    {
+     "w": "et",
+     "start": 62.8,
+     "end": 63.06
+    },
+    {
+     "w": "chaque",
+     "start": 63.06,
+     "end": 63.24
+    },
+    {
+     "w": "choc",
+     "start": 63.24,
+     "end": 63.52
+    },
+    {
+     "w": "fait",
+     "start": 63.52,
+     "end": 63.7
+    },
+    {
+     "w": "trembler",
+     "start": 63.7,
+     "end": 64.04
+    },
+    {
+     "w": "l'univers.",
+     "start": 64.04,
+     "end": 64.36
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 64.36,
+   "end": 69.16,
+   "slot_end": 69.261,
+   "text": "Et Goku perd. Il donne tout, et il perd. Beerus épargne la Terre et lâche qu'il était même pas à fond.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 64.36,
+     "end": 64.58
+    },
+    {
+     "w": "Goku",
+     "start": 64.58,
+     "end": 64.96
+    },
+    {
+     "w": "perd.",
+     "start": 64.96,
+     "end": 65.32
+    },
+    {
+     "w": "Il",
+     "start": 65.32,
+     "end": 65.92
+    },
+    {
+     "w": "donne",
+     "start": 65.92,
+     "end": 66.08
+    },
+    {
+     "w": "tout,",
+     "start": 66.08,
+     "end": 66.36
+    },
+    {
+     "w": "et",
+     "start": 66.36,
+     "end": 66.54
+    },
+    {
+     "w": "il",
+     "start": 68.22,
+     "end": 68.32
+    },
+    {
+     "w": "perd.",
+     "start": 68.32,
+     "end": 68.37
+    },
+    {
+     "w": "Beerus",
+     "start": 68.32,
+     "end": 68.37
+    },
+    {
+     "w": "épargne",
+     "start": 68.32,
+     "end": 68.37
+    },
+    {
+     "w": "la",
+     "start": 68.32,
+     "end": 68.37
+    },
+    {
+     "w": "Terre",
+     "start": 68.32,
+     "end": 68.37
+    },
+    {
+     "w": "et",
+     "start": 68.32,
+     "end": 68.37
+    },
+    {
+     "w": "lâche",
+     "start": 68.32,
+     "end": 68.44
+    },
+    {
+     "w": "qu'il",
+     "start": 68.44,
+     "end": 68.58
+    },
+    {
+     "w": "était",
+     "start": 68.68,
+     "end": 68.73
+    },
+    {
+     "w": "même",
+     "start": 68.73,
+     "end": 68.78
+    },
+    {
+     "w": "pas",
+     "start": 68.73,
+     "end": 68.92
+    },
+    {
+     "w": "à",
+     "start": 68.92,
+     "end": 69.06
+    },
+    {
+     "w": "fond.",
+     "start": 69.06,
+     "end": 69.16
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 69.16,
+   "end": 75.22,
+   "slot_end": 75.316,
+   "text": "C'est là que Dragon Ball a changé. Y'a des dieux au-dessus de Goku maintenant. C'est quoi ton top 1 de cet arc ? Dis-le moi en com'.",
+   "words": [
+    {
+     "w": "C'est",
+     "start": 69.16,
+     "end": 69.4
+    },
+    {
+     "w": "là",
+     "start": 69.4,
+     "end": 69.5
+    },
+    {
+     "w": "que",
+     "start": 69.5,
+     "end": 69.62
+    },
+    {
+     "w": "Dragon",
+     "start": 69.62,
+     "end": 69.85
+    },
+    {
+     "w": "Ball",
+     "start": 69.85,
+     "end": 70.08
+    },
+    {
+     "w": "a",
+     "start": 70.08,
+     "end": 70.24
+    },
+    {
+     "w": "changé.",
+     "start": 70.24,
+     "end": 70.88
+    },
+    {
+     "w": "Y'a",
+     "start": 71.06,
+     "end": 71.11
+    },
+    {
+     "w": "des",
+     "start": 71.1,
+     "end": 71.24
+    },
+    {
+     "w": "dieux",
+     "start": 71.24,
+     "end": 71.56
+    },
+    {
+     "w": "au-dessus",
+     "start": 71.56,
+     "end": 71.78
+    },
+    {
+     "w": "de",
+     "start": 71.78,
+     "end": 71.9
+    },
+    {
+     "w": "Goku",
+     "start": 71.9,
+     "end": 72.22
+    },
+    {
+     "w": "maintenant.",
+     "start": 72.22,
+     "end": 72.42
+    },
+    {
+     "w": "C'est",
+     "start": 72.42,
+     "end": 73.08
+    },
+    {
+     "w": "quoi",
+     "start": 73.08,
+     "end": 73.22
+    },
+    {
+     "w": "ton",
+     "start": 73.22,
+     "end": 73.4
+    },
+    {
+     "w": "top",
+     "start": 73.4,
+     "end": 73.56
+    },
+    {
+     "w": "1",
+     "start": 73.56,
+     "end": 73.7
+    },
+    {
+     "w": "de",
+     "start": 73.7,
+     "end": 73.8
+    },
+    {
+     "w": "cet",
+     "start": 73.8,
+     "end": 73.96
+    },
+    {
+     "w": "arc",
+     "start": 73.96,
+     "end": 74.16
+    },
+    {
+     "w": "?",
+     "start": 74.16,
+     "end": 74.66
+    },
+    {
+     "w": "Dis-le",
+     "start": 74.66,
+     "end": 74.78
+    },
+    {
+     "w": "moi",
+     "start": 74.78,
+     "end": 74.94
+    },
+    {
+     "w": "en",
+     "start": 74.94,
+     "end": 75.08
+    },
+    {
+     "w": "com'.",
+     "start": 75.08,
+     "end": 75.22
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "start": 75.22,
+   "end": 77.96,
+   "slot_end": 78.738,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 75.22,
+     "end": 75.68
+    },
+    {
+     "w": "Asura.",
+     "start": 75.68,
+     "end": 76.16
+    },
+    {
+     "w": "On",
+     "start": 76.16,
+     "end": 76.72
+    },
+    {
+     "w": "se",
+     "start": 76.72,
+     "end": 76.86
+    },
+    {
+     "w": "capte",
+     "start": 76.86,
+     "end": 77.2
+    },
+    {
+     "w": "au",
+     "start": 77.2,
+     "end": 77.3
+    },
+    {
+     "w": "prochain",
+     "start": 77.3,
+     "end": 77.52
+    },
+    {
+     "w": "épisode.",
+     "start": 77.52,
+     "end": 77.96
+    }
+   ]
+  }
+ ],
+ "aligned": 0.977
+}
