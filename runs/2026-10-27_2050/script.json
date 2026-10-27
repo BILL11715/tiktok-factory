@@ -1,0 +1,175 @@
+{
+ "title": "Firefly Wedding : elle demande en mariage le tueur payé pour la tuer",
+ "format": "storytelling",
+ "tone": "conteur",
+ "music": "mystere",
+ "animes": [
+  "Firefly Wedding"
+ ],
+ "media": {
+  "Firefly Wedding": "anime"
+ },
+ "cover": {
+  "text": "Elle épouse son assassin",
+  "highlight": [
+   "assassin"
+  ],
+  "emoji": "🔪",
+  "sub": "pour rester en vie"
+ },
+ "hook_text": "Elle a demandé en mariage le tueur payé pour l'assassiner",
+ "spoiler": false,
+ "segments": [
+  {
+   "text": "Elle a demandé en mariage le tueur payé pour l'assassiner.",
+   "sfx": true,
+   "emphasis": [
+    "tueur"
+   ],
+   "grade": "bw",
+   "scene": "a young noblewoman in a kimono facing a smiling man holding a knife"
+  },
+  {
+   "text": "[whispering] Et reste jusqu'au bout, parce que le pire dans cette histoire, c'est pas le tueur. C'est qui a monté le coup.",
+   "emphasis": [
+    "monté"
+   ],
+   "scene": "a dark old japanese street at night lit by paper lanterns"
+  },
+  {
+   "text": "On est au Japon, à l'ère Meiji. Satoko, c'est la fille d'un comte, une gamine de la haute.",
+   "emphasis": [
+    "Satoko"
+   ],
+   "scene": "a rich traditional japanese mansion with a girl in an elegant kimono",
+   "shots": [
+    {
+     "anime": "Firefly Wedding",
+     "kind": "character",
+     "character": "Satoko",
+     "at": "Satoko"
+    }
+   ]
+  },
+  {
+   "text": "Sauf qu'elle a le cœur malade. Elle sait qu'elle a pas beaucoup de temps, alors son seul plan, c'est un bon mariage pour sa famille.",
+   "emphasis": [
+    "cœur"
+   ],
+   "grade": "bw",
+   "scene": "a pale girl coughing alone in a quiet room, sad atmosphere"
+  },
+  {
+   "text": "Et un jour, elle se fait kidnapper. Ses ravisseurs la refilent à un mec avec un sourire super doux. Lui, c'est Shinpei.",
+   "sfx": true,
+   "emphasis": [
+    "Shinpei"
+   ],
+   "scene": "a smiling young man with dark hair standing over a frightened girl",
+   "shots": [
+    {
+     "anime": "Firefly Wedding",
+     "kind": "character",
+     "character": "Shinpei",
+     "at": "Shinpei"
+    }
+   ]
+  },
+  {
+   "text": "Shinpei, c'est un assassin, déjà payé pour la tuer. Et le sourire, c'est pas de la gentillesse, frr, c'est un psychopathe.",
+   "emphasis": [
+    "psychopathe"
+   ],
+   "stamp": "PSYCHOPATHE",
+   "scene": "a man with a calm creepy smile and blood on his hands"
+  },
+  {
+   "text": "[surprised] Et là, au lieu de pleurer, Satoko le regarde droit dans les yeux et lui dit : épouse-moi.",
+   "emphasis": [
+    "épouse-moi"
+   ],
+   "sfx": true,
+   "scene": "a girl staring boldly into the eyes of a dangerous man"
+  },
+  {
+   "text": "Et il accepte. J'te jure, il accepte. Bon, avant que je te raconte la suite, si t'aimes ce genre d'histoires tordues, abonne-toi, j'en sors tous les soirs.",
+   "cta": true
+  },
+  {
+   "text": "Shinpei l'emmène sur l'île de Tennyo, un énorme quartier des plaisirs, où elle bosse comme courtisane en cherchant un moyen de rentrer.",
+   "emphasis": [
+    "Tennyo"
+   ],
+   "scene": "a bright red light district at night with lanterns and courtesans",
+   "shots": [
+    {
+     "kind": "wide"
+    }
+   ]
+  },
+  {
+   "text": "Le problème, c'est que plus les jours passent, plus elle s'attache à lui. À son propre assassin. Et lui aussi, il change.",
+   "emphasis": [
+    "attache"
+   ],
+   "scene": "a girl and a man walking side by side at night among fireflies"
+  },
+  {
+   "text": "Puis débarque Kotaro, son ami d'enfance et garde du corps de la famille, qui vient la ramener à la maison.",
+   "emphasis": [
+    "Kotaro"
+   ],
+   "scene": "a serious young bodyguard arriving in a crowded street",
+   "shots": [
+    {
+     "anime": "Firefly Wedding",
+     "kind": "character",
+     "character": "Kotaro",
+     "at": "Kotaro"
+    }
+   ]
+  },
+  {
+   "text": "[sigh] Et c'est là que ça dérape. Petit spoil du manga : le kidnapping, c'est son propre père qui l'a organisé.",
+   "sfx": true,
+   "emphasis": [
+    "père"
+   ],
+   "grade": "bw",
+   "stamp": "TRAHISON",
+   "scene": "a stern old aristocrat in a dark office, shocking revelation"
+  },
+  {
+   "text": "Tout ça pour lui arranger une fausse rencontre avec un futur mari. Sauf que le plan a ramené la mauvaise personne. Ou la bonne.",
+   "emphasis": [
+    "mari"
+   ],
+   "scene": "a girl torn between two men under a dramatic stormy sky"
+  },
+  {
+   "text": "L'anime est sorti ce mois-ci chez David Production, le studio de JoJo, et pour moi c'est la romance la plus malsaine et la plus belle de la saison.",
+   "emphasis": [
+    "David Production"
+   ],
+   "scene": "fireflies glowing over a dark river at night, romantic atmosphere"
+  },
+  {
+   "text": "Ça s'appelle Firefly Wedding. Et toi, tu dirais oui à Shinpei ou tu cours ? Dis-moi en com'.",
+   "emphasis": [
+    "Firefly Wedding"
+   ],
+   "scene": "a couple silhouetted against a sky full of fireflies"
+  }
+ ],
+ "reveal_text": "Firefly Wedding",
+ "reveal_segments": 1,
+ "caption": "Et le pire c'est que c'est le père qui a tout organisé 😶 tu dirais oui à Shinpei ?",
+ "hashtags": [
+  "#anime",
+  "#manga",
+  "#animefr",
+  "#mangafr",
+  "#fireflywedding",
+  "#storytelling"
+ ]
+}

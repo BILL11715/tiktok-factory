@@ -1,0 +1,227 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-27_2050/video.mp4",
+ "duration": 87.83,
+ "shots": 42,
+ "sources": [
+  "https://anilist.co/anime/205909",
+  "https://kitsu.io/anime/hotaru-no-yomeiri"
+ ],
+ "plan": [
+  {
+   "character": null,
+   "fx": "hook",
+   "start": 0.0
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 1.49
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 2.98
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 5.413333333333334
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 7.846666666666668
+  },
+  {
+   "character": "Satoko",
+   "fx": null,
+   "start": 10.280000000000001
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 11.8
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 13.32
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 15.856
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 18.392
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 20.928
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 23.464
+  },
+  {
+   "character": "Shinpei",
+   "fx": "punch",
+   "start": 26.0
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 28.033333333333335
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 30.066666666666666
+  },
+  {
+   "character": null,
+   "fx": "punch",
+   "start": 32.1
+  },
+  {
+   "character": "Satoko Kirigaya",
+   "fx": null,
+   "start": 33.160000000000004
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 35.94
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 37.839999999999996
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 39.739999999999995
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 41.64
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 43.54
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 45.8
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 48.06
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 50.32
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 52.18666666666667
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 54.053333333333335
+  },
+  {
+   "character": "Kotaro",
+   "fx": null,
+   "start": 55.92
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 57.89
+  },
+  {
+   "character": null,
+   "fx": "punch",
+   "start": 59.86
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 62.04
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 64.22
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 66.47333333333333
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 68.72666666666667
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 70.98
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 73.44
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 75.9
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 78.36
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 80.03999999999999
+  },
+  {
+   "character": "Shinpei Gotou",
+   "fx": null,
+   "start": 81.72
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 83.66
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 85.745
+  }
+ ],
+ "engine": "ffmpeg (secours)",
+ "voice_engine": "fish",
+ "repo_path": "videos/2026/10/2026-10-27_2050.mp4",
+ "raw_url": "https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/videos/2026/10/2026-10-27_2050.mp4",
+ "lint": [],
+ "render_seconds": 400.5
+}
