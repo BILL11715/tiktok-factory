@@ -1,0 +1,1772 @@
+{
+ "engine": "fish",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-27_2050/voice.wav",
+ "duration": 87.83,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 2.98,
+   "slot_end": 3.065,
+   "text": "Elle a demandé en mariage le tueur payé pour l'assassiner.",
+   "words": [
+    {
+     "w": "Elle",
+     "start": 0.0,
+     "end": 0.1
+    },
+    {
+     "w": "a",
+     "start": 0.1,
+     "end": 0.2
+    },
+    {
+     "w": "demandé",
+     "start": 0.2,
+     "end": 0.48
+    },
+    {
+     "w": "en",
+     "start": 0.48,
+     "end": 0.66
+    },
+    {
+     "w": "mariage",
+     "start": 0.66,
+     "end": 1.08
+    },
+    {
+     "w": "le",
+     "start": 1.08,
+     "end": 1.28
+    },
+    {
+     "w": "tueur",
+     "start": 1.28,
+     "end": 1.8
+    },
+    {
+     "w": "payé",
+     "start": 1.8,
+     "end": 2.18
+    },
+    {
+     "w": "pour",
+     "start": 2.18,
+     "end": 2.38
+    },
+    {
+     "w": "l'assassiner.",
+     "start": 2.38,
+     "end": 2.98
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 2.98,
+   "end": 7.72,
+   "slot_end": 7.841,
+   "text": "Et reste jusqu'au bout, parce que le pire dans cette histoire, c'est pas le tueur. C'est qui a monté le coup.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 2.98,
+     "end": 3.14
+    },
+    {
+     "w": "reste",
+     "start": 3.14,
+     "end": 3.38
+    },
+    {
+     "w": "jusqu'au",
+     "start": 3.38,
+     "end": 3.7
+    },
+    {
+     "w": "bout,",
+     "start": 3.7,
+     "end": 3.86
+    },
+    {
+     "w": "parce",
+     "start": 3.92,
+     "end": 4.04
+    },
+    {
+     "w": "que",
+     "start": 4.04,
+     "end": 4.2
+    },
+    {
+     "w": "le",
+     "start": 4.2,
+     "end": 4.34
+    },
+    {
+     "w": "pire",
+     "start": 4.34,
+     "end": 4.64
+    },
+    {
+     "w": "dans",
+     "start": 4.64,
+     "end": 4.78
+    },
+    {
+     "w": "cette",
+     "start": 4.78,
+     "end": 4.96
+    },
+    {
+     "w": "histoire,",
+     "start": 4.96,
+     "end": 5.3
+    },
+    {
+     "w": "c'est",
+     "start": 5.3,
+     "end": 5.56
+    },
+    {
+     "w": "pas",
+     "start": 5.56,
+     "end": 5.7
+    },
+    {
+     "w": "le",
+     "start": 5.7,
+     "end": 5.86
+    },
+    {
+     "w": "tueur.",
+     "start": 5.86,
+     "end": 6.26
+    },
+    {
+     "w": "C'est",
+     "start": 6.26,
+     "end": 6.8
+    },
+    {
+     "w": "qui",
+     "start": 6.8,
+     "end": 6.96
+    },
+    {
+     "w": "a",
+     "start": 6.96,
+     "end": 7.06
+    },
+    {
+     "w": "monté",
+     "start": 7.06,
+     "end": 7.44
+    },
+    {
+     "w": "le",
+     "start": 7.44,
+     "end": 7.62
+    },
+    {
+     "w": "coup.",
+     "start": 7.62,
+     "end": 7.72
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 7.72,
+   "end": 13.32,
+   "slot_end": 13.403,
+   "text": "On est au Japon, à l'ère Meiji. Satoko, c'est la fille d'un comte, une gamine de la haute.",
+   "words": [
+    {
+     "w": "On",
+     "start": 7.72,
+     "end": 7.96
+    },
+    {
+     "w": "est",
+     "start": 7.96,
+     "end": 8.14
+    },
+    {
+     "w": "au",
+     "start": 8.14,
+     "end": 8.34
+    },
+    {
+     "w": "Japon,",
+     "start": 8.34,
+     "end": 8.68
+    },
+    {
+     "w": "à",
+     "start": 8.68,
+     "end": 9.08
+    },
+    {
+     "w": "l'ère",
+     "start": 9.08,
+     "end": 9.22
+    },
+    {
+     "w": "Meiji.",
+     "start": 9.22,
+     "end": 9.66
+    },
+    {
+     "w": "Satoko,",
+     "start": 10.32,
+     "end": 10.68
+    },
+    {
+     "w": "c'est",
+     "start": 10.92,
+     "end": 11.02
+    },
+    {
+     "w": "la",
+     "start": 11.02,
+     "end": 11.2
+    },
+    {
+     "w": "fille",
+     "start": 11.2,
+     "end": 11.4
+    },
+    {
+     "w": "d'un",
+     "start": 11.4,
+     "end": 11.64
+    },
+    {
+     "w": "comte,",
+     "start": 11.64,
+     "end": 11.96
+    },
+    {
+     "w": "une",
+     "start": 12.28,
+     "end": 12.56
+    },
+    {
+     "w": "gamine",
+     "start": 12.56,
+     "end": 12.8
+    },
+    {
+     "w": "de",
+     "start": 12.8,
+     "end": 12.98
+    },
+    {
+     "w": "la",
+     "start": 12.98,
+     "end": 13.1
+    },
+    {
+     "w": "haute.",
+     "start": 13.1,
+     "end": 13.32
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 13.32,
+   "end": 19.36,
+   "slot_end": 19.443,
+   "text": "Sauf qu'elle a le cœur malade. Elle sait qu'elle a pas beaucoup de temps, alors son seul plan, c'est un bon mariage pour sa famille.",
+   "words": [
+    {
+     "w": "Sauf",
+     "start": 13.32,
+     "end": 13.64
+    },
+    {
+     "w": "qu'elle",
+     "start": 13.64,
+     "end": 13.84
+    },
+    {
+     "w": "a",
+     "start": 13.84,
+     "end": 13.92
+    },
+    {
+     "w": "le",
+     "start": 13.92,
+     "end": 14.06
+    },
+    {
+     "w": "cœur",
+     "start": 14.06,
+     "end": 14.36
+    },
+    {
+     "w": "malade.",
+     "start": 14.36,
+     "end": 15.16
+    },
+    {
+     "w": "Elle",
+     "start": 15.16,
+     "end": 15.54
+    },
+    {
+     "w": "sait",
+     "start": 15.54,
+     "end": 15.7
+    },
+    {
+     "w": "qu'elle",
+     "start": 15.7,
+     "end": 15.86
+    },
+    {
+     "w": "a",
+     "start": 15.94,
+     "end": 15.99
+    },
+    {
+     "w": "pas",
+     "start": 15.94,
+     "end": 16.04
+    },
+    {
+     "w": "beaucoup",
+     "start": 16.04,
+     "end": 16.24
+    },
+    {
+     "w": "de",
+     "start": 16.24,
+     "end": 16.38
+    },
+    {
+     "w": "temps,",
+     "start": 16.38,
+     "end": 16.56
+    },
+    {
+     "w": "alors",
+     "start": 16.68,
+     "end": 16.92
+    },
+    {
+     "w": "son",
+     "start": 16.92,
+     "end": 17.12
+    },
+    {
+     "w": "seul",
+     "start": 17.12,
+     "end": 17.36
+    },
+    {
+     "w": "plan,",
+     "start": 17.36,
+     "end": 17.64
+    },
+    {
+     "w": "c'est",
+     "start": 17.64,
+     "end": 18.12
+    },
+    {
+     "w": "un",
+     "start": 18.12,
+     "end": 18.24
+    },
+    {
+     "w": "bon",
+     "start": 18.24,
+     "end": 18.36
+    },
+    {
+     "w": "mariage",
+     "start": 18.36,
+     "end": 18.76
+    },
+    {
+     "w": "pour",
+     "start": 18.76,
+     "end": 18.92
+    },
+    {
+     "w": "sa",
+     "start": 18.92,
+     "end": 19.04
+    },
+    {
+     "w": "famille.",
+     "start": 19.04,
+     "end": 19.36
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 19.36,
+   "end": 26.5,
+   "slot_end": 26.614,
+   "text": "Et un jour, elle se fait kidnapper. Ses ravisseurs la refilent à un mec avec un sourire super doux. Lui, c'est Shinpei.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 19.36,
+     "end": 19.58
+    },
+    {
+     "w": "un",
+     "start": 19.58,
+     "end": 19.78
+    },
+    {
+     "w": "jour,",
+     "start": 19.78,
+     "end": 20.04
+    },
+    {
+     "w": "elle",
+     "start": 20.04,
+     "end": 20.36
+    },
+    {
+     "w": "se",
+     "start": 20.36,
+     "end": 20.5
+    },
+    {
+     "w": "fait",
+     "start": 20.5,
+     "end": 20.64
+    },
+    {
+     "w": "kidnapper.",
+     "start": 20.64,
+     "end": 21.14
+    },
+    {
+     "w": "Ses",
+     "start": 21.14,
+     "end": 21.86
+    },
+    {
+     "w": "ravisseurs",
+     "start": 21.86,
+     "end": 22.34
+    },
+    {
+     "w": "la",
+     "start": 22.34,
+     "end": 22.48
+    },
+    {
+     "w": "refilent",
+     "start": 22.48,
+     "end": 22.9
+    },
+    {
+     "w": "à",
+     "start": 22.9,
+     "end": 23.0
+    },
+    {
+     "w": "un",
+     "start": 23.0,
+     "end": 23.1
+    },
+    {
+     "w": "mec",
+     "start": 23.1,
+     "end": 23.24
+    },
+    {
+     "w": "avec",
+     "start": 23.24,
+     "end": 23.46
+    },
+    {
+     "w": "un",
+     "start": 23.46,
+     "end": 23.66
+    },
+    {
+     "w": "sourire",
+     "start": 23.66,
+     "end": 23.98
+    },
+    {
+     "w": "super",
+     "start": 23.98,
+     "end": 24.36
+    },
+    {
+     "w": "doux.",
+     "start": 24.36,
+     "end": 25.02
+    },
+    {
+     "w": "Lui,",
+     "start": 25.02,
+     "end": 25.74
+    },
+    {
+     "w": "c'est",
+     "start": 25.74,
+     "end": 26.04
+    },
+    {
+     "w": "Shinpei.",
+     "start": 26.04,
+     "end": 26.5
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 26.5,
+   "end": 32.06,
+   "slot_end": 32.062,
+   "text": "Shinpei, c'est un assassin, déjà payé pour la tuer. Et le sourire, c'est pas de la gentillesse, frr, c'est un psychopathe.",
+   "words": [
+    {
+     "w": "Shinpei,",
+     "start": 26.5,
+     "end": 26.94
+    },
+    {
+     "w": "c'est",
+     "start": 26.94,
+     "end": 27.16
+    },
+    {
+     "w": "un",
+     "start": 27.16,
+     "end": 27.3
+    },
+    {
+     "w": "assassin,",
+     "start": 27.3,
+     "end": 27.54
+    },
+    {
+     "w": "déjà",
+     "start": 27.54,
+     "end": 27.92
+    },
+    {
+     "w": "payé",
+     "start": 27.92,
+     "end": 28.32
+    },
+    {
+     "w": "pour",
+     "start": 28.32,
+     "end": 28.48
+    },
+    {
+     "w": "la",
+     "start": 28.48,
+     "end": 28.6
+    },
+    {
+     "w": "tuer.",
+     "start": 28.6,
+     "end": 28.92
+    },
+    {
+     "w": "Et",
+     "start": 28.92,
+     "end": 29.32
+    },
+    {
+     "w": "le",
+     "start": 29.32,
+     "end": 29.42
+    },
+    {
+     "w": "sourire,",
+     "start": 29.42,
+     "end": 29.74
+    },
+    {
+     "w": "c'est",
+     "start": 29.76,
+     "end": 29.92
+    },
+    {
+     "w": "pas",
+     "start": 29.92,
+     "end": 30.04
+    },
+    {
+     "w": "de",
+     "start": 30.04,
+     "end": 30.12
+    },
+    {
+     "w": "la",
+     "start": 30.12,
+     "end": 30.18
+    },
+    {
+     "w": "gentillesse,",
+     "start": 30.18,
+     "end": 30.64
+    },
+    {
+     "w": "frr,",
+     "start": 30.76,
+     "end": 30.98
+    },
+    {
+     "w": "c'est",
+     "start": 31.06,
+     "end": 31.18
+    },
+    {
+     "w": "un",
+     "start": 31.18,
+     "end": 31.32
+    },
+    {
+     "w": "psychopathe.",
+     "start": 31.32,
+     "end": 32.06
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 32.1,
+   "end": 35.78,
+   "slot_end": 35.905,
+   "text": "Et là, au lieu de pleurer, Satoko le regarde droit dans les yeux et lui dit : épouse-moi.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 32.1,
+     "end": 32.15
+    },
+    {
+     "w": "là,",
+     "start": 32.14,
+     "end": 32.24
+    },
+    {
+     "w": "au",
+     "start": 32.4,
+     "end": 32.48
+    },
+    {
+     "w": "lieu",
+     "start": 32.48,
+     "end": 32.53
+    },
+    {
+     "w": "de",
+     "start": 32.52,
+     "end": 32.66
+    },
+    {
+     "w": "pleurer,",
+     "start": 32.66,
+     "end": 32.9
+    },
+    {
+     "w": "Satoko",
+     "start": 33.2,
+     "end": 33.56
+    },
+    {
+     "w": "le",
+     "start": 33.56,
+     "end": 33.62
+    },
+    {
+     "w": "regarde",
+     "start": 33.62,
+     "end": 33.78
+    },
+    {
+     "w": "droit",
+     "start": 33.78,
+     "end": 34.12
+    },
+    {
+     "w": "dans",
+     "start": 34.12,
+     "end": 34.24
+    },
+    {
+     "w": "les",
+     "start": 34.24,
+     "end": 34.36
+    },
+    {
+     "w": "yeux",
+     "start": 34.36,
+     "end": 34.54
+    },
+    {
+     "w": "et",
+     "start": 34.54,
+     "end": 34.76
+    },
+    {
+     "w": "lui",
+     "start": 34.76,
+     "end": 34.84
+    },
+    {
+     "w": "dit",
+     "start": 34.84,
+     "end": 34.96
+    },
+    {
+     "w": ":",
+     "start": 35.32,
+     "end": 35.58
+    },
+    {
+     "w": "épouse-moi.",
+     "start": 35.58,
+     "end": 35.78
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 35.94,
+   "end": 43.46,
+   "slot_end": 43.544,
+   "text": "Et il accepte. J'te jure, il accepte. Bon, avant que je te raconte la suite, si t'aimes ce genre d'histoires tordues, abonne-toi, j'en sors tous les soirs.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 35.94,
+     "end": 35.99
+    },
+    {
+     "w": "il",
+     "start": 35.98,
+     "end": 36.08
+    },
+    {
+     "w": "accepte.",
+     "start": 36.08,
+     "end": 36.56
+    },
+    {
+     "w": "J'te",
+     "start": 36.8,
+     "end": 37.04
+    },
+    {
+     "w": "jure,",
+     "start": 37.04,
+     "end": 37.32
+    },
+    {
+     "w": "il",
+     "start": 37.42,
+     "end": 37.5
+    },
+    {
+     "w": "accepte.",
+     "start": 37.5,
+     "end": 38.04
+    },
+    {
+     "w": "Bon,",
+     "start": 38.42,
+     "end": 38.52
+    },
+    {
+     "w": "avant",
+     "start": 38.78,
+     "end": 38.94
+    },
+    {
+     "w": "que",
+     "start": 38.94,
+     "end": 39.1
+    },
+    {
+     "w": "je",
+     "start": 39.1,
+     "end": 39.2
+    },
+    {
+     "w": "te",
+     "start": 39.2,
+     "end": 39.28
+    },
+    {
+     "w": "raconte",
+     "start": 39.28,
+     "end": 39.54
+    },
+    {
+     "w": "la",
+     "start": 39.54,
+     "end": 39.7
+    },
+    {
+     "w": "suite,",
+     "start": 39.7,
+     "end": 39.86
+    },
+    {
+     "w": "si",
+     "start": 40.04,
+     "end": 40.16
+    },
+    {
+     "w": "t'aimes",
+     "start": 40.16,
+     "end": 40.36
+    },
+    {
+     "w": "ce",
+     "start": 40.36,
+     "end": 40.52
+    },
+    {
+     "w": "genre",
+     "start": 40.52,
+     "end": 40.7
+    },
+    {
+     "w": "d'histoires",
+     "start": 40.7,
+     "end": 41.393
+    },
+    {
+     "w": "tordues,",
+     "start": 41.393,
+     "end": 41.947
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 41.947,
+     "end": 42.5
+    },
+    {
+     "w": "j'en",
+     "start": 42.64,
+     "end": 42.76
+    },
+    {
+     "w": "sors",
+     "start": 42.76,
+     "end": 42.92
+    },
+    {
+     "w": "tous",
+     "start": 42.92,
+     "end": 43.1
+    },
+    {
+     "w": "les",
+     "start": 43.1,
+     "end": 43.24
+    },
+    {
+     "w": "soirs.",
+     "start": 43.24,
+     "end": 43.46
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 43.58,
+   "end": 50.22,
+   "slot_end": 50.341,
+   "text": "Shinpei l'emmène sur l'île de Tennyo, un énorme quartier des plaisirs, où elle bosse comme courtisane en cherchant un moyen de rentrer.",
+   "words": [
+    {
+     "w": "Shinpei",
+     "start": 43.58,
+     "end": 43.94
+    },
+    {
+     "w": "l'emmène",
+     "start": 43.94,
+     "end": 44.34
+    },
+    {
+     "w": "sur",
+     "start": 44.34,
+     "end": 44.56
+    },
+    {
+     "w": "l'île",
+     "start": 44.56,
+     "end": 44.8
+    },
+    {
+     "w": "de",
+     "start": 44.8,
+     "end": 44.98
+    },
+    {
+     "w": "Tennyo,",
+     "start": 44.98,
+     "end": 45.52
+    },
+    {
+     "w": "un",
+     "start": 45.72,
+     "end": 45.86
+    },
+    {
+     "w": "énorme",
+     "start": 45.86,
+     "end": 46.22
+    },
+    {
+     "w": "quartier",
+     "start": 46.22,
+     "end": 46.52
+    },
+    {
+     "w": "des",
+     "start": 46.52,
+     "end": 46.66
+    },
+    {
+     "w": "plaisirs,",
+     "start": 46.66,
+     "end": 47.1
+    },
+    {
+     "w": "où",
+     "start": 47.1,
+     "end": 47.72
+    },
+    {
+     "w": "elle",
+     "start": 47.72,
+     "end": 47.84
+    },
+    {
+     "w": "bosse",
+     "start": 47.84,
+     "end": 48.06
+    },
+    {
+     "w": "comme",
+     "start": 48.06,
+     "end": 48.3
+    },
+    {
+     "w": "courtisane",
+     "start": 48.3,
+     "end": 48.8
+    },
+    {
+     "w": "en",
+     "start": 48.8,
+     "end": 48.98
+    },
+    {
+     "w": "cherchant",
+     "start": 48.98,
+     "end": 49.36
+    },
+    {
+     "w": "un",
+     "start": 49.36,
+     "end": 49.48
+    },
+    {
+     "w": "moyen",
+     "start": 49.48,
+     "end": 49.7
+    },
+    {
+     "w": "de",
+     "start": 49.7,
+     "end": 49.88
+    },
+    {
+     "w": "rentrer.",
+     "start": 49.88,
+     "end": 50.22
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 50.32,
+   "end": 55.1,
+   "slot_end": 55.273,
+   "text": "Le problème, c'est que plus les jours passent, plus elle s'attache à lui. À son propre assassin. Et lui aussi, il change.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 50.32,
+     "end": 50.42
+    },
+    {
+     "w": "problème,",
+     "start": 50.42,
+     "end": 50.64
+    },
+    {
+     "w": "c'est",
+     "start": 50.76,
+     "end": 50.9
+    },
+    {
+     "w": "que",
+     "start": 50.9,
+     "end": 50.98
+    },
+    {
+     "w": "plus",
+     "start": 50.98,
+     "end": 51.14
+    },
+    {
+     "w": "les",
+     "start": 51.14,
+     "end": 51.28
+    },
+    {
+     "w": "jours",
+     "start": 51.28,
+     "end": 51.4
+    },
+    {
+     "w": "passent,",
+     "start": 51.4,
+     "end": 51.7
+    },
+    {
+     "w": "plus",
+     "start": 51.82,
+     "end": 51.88
+    },
+    {
+     "w": "elle",
+     "start": 51.88,
+     "end": 52.02
+    },
+    {
+     "w": "s'attache",
+     "start": 52.02,
+     "end": 52.36
+    },
+    {
+     "w": "à",
+     "start": 52.36,
+     "end": 52.52
+    },
+    {
+     "w": "lui.",
+     "start": 52.52,
+     "end": 52.68
+    },
+    {
+     "w": "À",
+     "start": 53.04,
+     "end": 53.16
+    },
+    {
+     "w": "son",
+     "start": 53.16,
+     "end": 53.28
+    },
+    {
+     "w": "propre",
+     "start": 53.28,
+     "end": 53.54
+    },
+    {
+     "w": "assassin.",
+     "start": 53.54,
+     "end": 53.78
+    },
+    {
+     "w": "Et",
+     "start": 54.3,
+     "end": 54.4
+    },
+    {
+     "w": "lui",
+     "start": 54.4,
+     "end": 54.5
+    },
+    {
+     "w": "aussi,",
+     "start": 54.5,
+     "end": 54.76
+    },
+    {
+     "w": "il",
+     "start": 54.76,
+     "end": 54.92
+    },
+    {
+     "w": "change.",
+     "start": 54.92,
+     "end": 55.1
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 55.1,
+   "end": 59.7,
+   "slot_end": 59.836,
+   "text": "Puis débarque Kotaro, son ami d'enfance et garde du corps de la famille, qui vient la ramener à la maison.",
+   "words": [
+    {
+     "w": "Puis",
+     "start": 55.1,
+     "end": 55.4
+    },
+    {
+     "w": "débarque",
+     "start": 55.56,
+     "end": 55.96
+    },
+    {
+     "w": "Kotaro,",
+     "start": 55.96,
+     "end": 56.58
+    },
+    {
+     "w": "son",
+     "start": 56.7,
+     "end": 56.8
+    },
+    {
+     "w": "ami",
+     "start": 56.8,
+     "end": 57.04
+    },
+    {
+     "w": "d'enfance",
+     "start": 57.04,
+     "end": 57.44
+    },
+    {
+     "w": "et",
+     "start": 57.44,
+     "end": 57.58
+    },
+    {
+     "w": "garde",
+     "start": 57.58,
+     "end": 57.72
+    },
+    {
+     "w": "du",
+     "start": 57.72,
+     "end": 57.88
+    },
+    {
+     "w": "corps",
+     "start": 57.88,
+     "end": 58.02
+    },
+    {
+     "w": "de",
+     "start": 58.02,
+     "end": 58.16
+    },
+    {
+     "w": "la",
+     "start": 58.16,
+     "end": 58.24
+    },
+    {
+     "w": "famille,",
+     "start": 58.24,
+     "end": 58.44
+    },
+    {
+     "w": "qui",
+     "start": 58.44,
+     "end": 58.64
+    },
+    {
+     "w": "vient",
+     "start": 58.64,
+     "end": 58.82
+    },
+    {
+     "w": "la",
+     "start": 58.82,
+     "end": 58.94
+    },
+    {
+     "w": "ramener",
+     "start": 58.94,
+     "end": 59.22
+    },
+    {
+     "w": "à",
+     "start": 59.22,
+     "end": 59.42
+    },
+    {
+     "w": "la",
+     "start": 59.42,
+     "end": 59.48
+    },
+    {
+     "w": "maison.",
+     "start": 59.48,
+     "end": 59.7
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 59.86,
+   "end": 64.12,
+   "slot_end": 64.223,
+   "text": "Et c'est là que ça dérape. Petit spoil du manga : le kidnapping, c'est son propre père qui l'a organisé.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 59.86,
+     "end": 59.92
+    },
+    {
+     "w": "c'est",
+     "start": 59.92,
+     "end": 60.0
+    },
+    {
+     "w": "là",
+     "start": 60.0,
+     "end": 60.1
+    },
+    {
+     "w": "que",
+     "start": 60.1,
+     "end": 60.16
+    },
+    {
+     "w": "ça",
+     "start": 60.16,
+     "end": 60.22
+    },
+    {
+     "w": "dérape.",
+     "start": 60.22,
+     "end": 60.52
+    },
+    {
+     "w": "Petit",
+     "start": 60.92,
+     "end": 61.22
+    },
+    {
+     "w": "spoil",
+     "start": 61.22,
+     "end": 61.44
+    },
+    {
+     "w": "du",
+     "start": 61.44,
+     "end": 61.64
+    },
+    {
+     "w": "manga",
+     "start": 61.64,
+     "end": 61.79
+    },
+    {
+     "w": ":",
+     "start": 61.79,
+     "end": 61.94
+    },
+    {
+     "w": "le",
+     "start": 62.06,
+     "end": 62.12
+    },
+    {
+     "w": "kidnapping,",
+     "start": 62.12,
+     "end": 62.5
+    },
+    {
+     "w": "c'est",
+     "start": 62.54,
+     "end": 62.64
+    },
+    {
+     "w": "son",
+     "start": 62.64,
+     "end": 62.8
+    },
+    {
+     "w": "propre",
+     "start": 62.8,
+     "end": 63.06
+    },
+    {
+     "w": "père",
+     "start": 63.06,
+     "end": 63.38
+    },
+    {
+     "w": "qui",
+     "start": 63.38,
+     "end": 63.52
+    },
+    {
+     "w": "l'a",
+     "start": 63.52,
+     "end": 63.62
+    },
+    {
+     "w": "organisé.",
+     "start": 63.62,
+     "end": 64.12
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 64.22,
+   "end": 70.82,
+   "slot_end": 70.972,
+   "text": "Tout ça pour lui arranger une fausse rencontre avec un futur mari. Sauf que le plan a ramené la mauvaise personne. Ou la bonne.",
+   "words": [
+    {
+     "w": "Tout",
+     "start": 64.22,
+     "end": 64.32
+    },
+    {
+     "w": "ça",
+     "start": 64.32,
+     "end": 64.5
+    },
+    {
+     "w": "pour",
+     "start": 64.5,
+     "end": 64.68
+    },
+    {
+     "w": "lui",
+     "start": 64.68,
+     "end": 64.82
+    },
+    {
+     "w": "arranger",
+     "start": 64.82,
+     "end": 65.08
+    },
+    {
+     "w": "une",
+     "start": 65.08,
+     "end": 65.32
+    },
+    {
+     "w": "fausse",
+     "start": 65.32,
+     "end": 65.56
+    },
+    {
+     "w": "rencontre",
+     "start": 65.56,
+     "end": 65.96
+    },
+    {
+     "w": "avec",
+     "start": 65.96,
+     "end": 66.12
+    },
+    {
+     "w": "un",
+     "start": 66.12,
+     "end": 66.28
+    },
+    {
+     "w": "futur",
+     "start": 66.28,
+     "end": 66.56
+    },
+    {
+     "w": "mari.",
+     "start": 66.56,
+     "end": 67.02
+    },
+    {
+     "w": "Sauf",
+     "start": 67.54,
+     "end": 67.8
+    },
+    {
+     "w": "que",
+     "start": 67.8,
+     "end": 67.98
+    },
+    {
+     "w": "le",
+     "start": 67.98,
+     "end": 68.12
+    },
+    {
+     "w": "plan",
+     "start": 68.12,
+     "end": 68.3
+    },
+    {
+     "w": "a",
+     "start": 68.3,
+     "end": 68.48
+    },
+    {
+     "w": "ramené",
+     "start": 68.48,
+     "end": 68.82
+    },
+    {
+     "w": "la",
+     "start": 68.82,
+     "end": 68.98
+    },
+    {
+     "w": "mauvaise",
+     "start": 68.98,
+     "end": 69.2
+    },
+    {
+     "w": "personne.",
+     "start": 69.2,
+     "end": 69.68
+    },
+    {
+     "w": "Ou",
+     "start": 70.24,
+     "end": 70.54
+    },
+    {
+     "w": "la",
+     "start": 70.54,
+     "end": 70.68
+    },
+    {
+     "w": "bonne.",
+     "start": 70.68,
+     "end": 70.82
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 70.98,
+   "end": 78.24,
+   "slot_end": 78.367,
+   "text": "L'anime est sorti ce mois-ci chez David Production, le studio de JoJo, et pour moi c'est la romance la plus malsaine et la plus belle de la saison.",
+   "words": [
+    {
+     "w": "L'anime",
+     "start": 70.98,
+     "end": 71.2
+    },
+    {
+     "w": "est",
+     "start": 71.2,
+     "end": 71.32
+    },
+    {
+     "w": "sorti",
+     "start": 71.32,
+     "end": 71.58
+    },
+    {
+     "w": "ce",
+     "start": 71.58,
+     "end": 71.74
+    },
+    {
+     "w": "mois-ci",
+     "start": 71.74,
+     "end": 72.12
+    },
+    {
+     "w": "chez",
+     "start": 72.12,
+     "end": 72.32
+    },
+    {
+     "w": "David",
+     "start": 72.32,
+     "end": 72.62
+    },
+    {
+     "w": "Production,",
+     "start": 72.62,
+     "end": 73.18
+    },
+    {
+     "w": "le",
+     "start": 73.7,
+     "end": 73.84
+    },
+    {
+     "w": "studio",
+     "start": 73.84,
+     "end": 74.1
+    },
+    {
+     "w": "de",
+     "start": 74.1,
+     "end": 74.32
+    },
+    {
+     "w": "JoJo,",
+     "start": 74.32,
+     "end": 74.64
+    },
+    {
+     "w": "et",
+     "start": 75.2,
+     "end": 75.34
+    },
+    {
+     "w": "pour",
+     "start": 75.34,
+     "end": 75.52
+    },
+    {
+     "w": "moi",
+     "start": 75.52,
+     "end": 75.66
+    },
+    {
+     "w": "c'est",
+     "start": 75.66,
+     "end": 75.8
+    },
+    {
+     "w": "la",
+     "start": 75.8,
+     "end": 75.94
+    },
+    {
+     "w": "romance",
+     "start": 75.94,
+     "end": 76.22
+    },
+    {
+     "w": "la",
+     "start": 76.22,
+     "end": 76.44
+    },
+    {
+     "w": "plus",
+     "start": 76.44,
+     "end": 76.62
+    },
+    {
+     "w": "malsaine",
+     "start": 76.62,
+     "end": 77.12
+    },
+    {
+     "w": "et",
+     "start": 77.12,
+     "end": 77.32
+    },
+    {
+     "w": "la",
+     "start": 77.32,
+     "end": 77.42
+    },
+    {
+     "w": "plus",
+     "start": 77.42,
+     "end": 77.54
+    },
+    {
+     "w": "belle",
+     "start": 77.54,
+     "end": 77.74
+    },
+    {
+     "w": "de",
+     "start": 77.74,
+     "end": 77.88
+    },
+    {
+     "w": "la",
+     "start": 77.88,
+     "end": 77.98
+    },
+    {
+     "w": "saison.",
+     "start": 77.98,
+     "end": 78.24
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 78.36,
+   "end": 83.7,
+   "slot_end": 83.84,
+   "text": "Ça s'appelle Firefly Wedding. Et toi, tu dirais oui à Shinpei ou tu cours ? Dis-moi en com'.",
+   "words": [
+    {
+     "w": "Ça",
+     "start": 78.36,
+     "end": 78.46
+    },
+    {
+     "w": "s'appelle",
+     "start": 78.46,
+     "end": 78.74
+    },
+    {
+     "w": "Firefly",
+     "start": 78.74,
+     "end": 79.6
+    },
+    {
+     "w": "Wedding.",
+     "start": 79.6,
+     "end": 80.18
+    },
+    {
+     "w": "Et",
+     "start": 80.6,
+     "end": 80.82
+    },
+    {
+     "w": "toi,",
+     "start": 80.82,
+     "end": 80.96
+    },
+    {
+     "w": "tu",
+     "start": 80.96,
+     "end": 81.1
+    },
+    {
+     "w": "dirais",
+     "start": 81.1,
+     "end": 81.36
+    },
+    {
+     "w": "oui",
+     "start": 81.36,
+     "end": 81.58
+    },
+    {
+     "w": "à",
+     "start": 81.58,
+     "end": 81.76
+    },
+    {
+     "w": "Shinpei",
+     "start": 81.76,
+     "end": 82.24
+    },
+    {
+     "w": "ou",
+     "start": 82.24,
+     "end": 82.36
+    },
+    {
+     "w": "tu",
+     "start": 82.36,
+     "end": 82.46
+    },
+    {
+     "w": "cours",
+     "start": 82.46,
+     "end": 82.72
+    },
+    {
+     "w": "?",
+     "start": 83.14,
+     "end": 83.28
+    },
+    {
+     "w": "Dis-moi",
+     "start": 83.28,
+     "end": 83.42
+    },
+    {
+     "w": "en",
+     "start": 83.42,
+     "end": 83.56
+    },
+    {
+     "w": "com'.",
+     "start": 83.56,
+     "end": 83.7
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "start": 83.7,
+   "end": 87.06,
+   "slot_end": 87.83,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 83.7,
+     "end": 84.22
+    },
+    {
+     "w": "Asura.",
+     "start": 84.22,
+     "end": 84.62
+    },
+    {
+     "w": "On",
+     "start": 85.18,
+     "end": 85.64
+    },
+    {
+     "w": "se",
+     "start": 85.64,
+     "end": 85.78
+    },
+    {
+     "w": "capte",
+     "start": 85.78,
+     "end": 86.18
+    },
+    {
+     "w": "au",
+     "start": 86.18,
+     "end": 86.32
+    },
+    {
+     "w": "prochain",
+     "start": 86.32,
+     "end": 86.6
+    },
+    {
+     "w": "épisode.",
+     "start": 86.6,
+     "end": 87.06
+    }
+   ]
+  }
+ ],
+ "aligned": 0.997
+}
