@@ -1,0 +1,1838 @@
+{
+ "engine": "fish",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-28_1752/voice.wav",
+ "duration": 86.583,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 2.56,
+   "slot_end": 2.59,
+   "text": "Le numéro 1 de ce top fait trembler tous les héros, sauf un chauve.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 0.0,
+     "end": 0.12
+    },
+    {
+     "w": "numéro",
+     "start": 0.12,
+     "end": 0.3
+    },
+    {
+     "w": "1",
+     "start": 0.3,
+     "end": 0.52
+    },
+    {
+     "w": "de",
+     "start": 0.52,
+     "end": 0.62
+    },
+    {
+     "w": "ce",
+     "start": 0.62,
+     "end": 0.72
+    },
+    {
+     "w": "top",
+     "start": 0.72,
+     "end": 0.92
+    },
+    {
+     "w": "fait",
+     "start": 0.92,
+     "end": 1.08
+    },
+    {
+     "w": "trembler",
+     "start": 1.08,
+     "end": 1.32
+    },
+    {
+     "w": "tous",
+     "start": 1.32,
+     "end": 1.48
+    },
+    {
+     "w": "les",
+     "start": 1.48,
+     "end": 1.6
+    },
+    {
+     "w": "héros,",
+     "start": 1.6,
+     "end": 1.8
+    },
+    {
+     "w": "sauf",
+     "start": 1.8,
+     "end": 2.06
+    },
+    {
+     "w": "un",
+     "start": 2.06,
+     "end": 2.16
+    },
+    {
+     "w": "chauve.",
+     "start": 2.16,
+     "end": 2.56
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 2.66,
+   "end": 7.54,
+   "slot_end": 7.693,
+   "text": "La saison 3 partie 2 arrive en janvier 2027, alors reste jusqu'au bout, le numéro 1 c'est lui que tu vas voir partout.",
+   "words": [
+    {
+     "w": "La",
+     "start": 2.66,
+     "end": 2.71
+    },
+    {
+     "w": "saison",
+     "start": 2.66,
+     "end": 2.88
+    },
+    {
+     "w": "3",
+     "start": 2.88,
+     "end": 3.12
+    },
+    {
+     "w": "partie",
+     "start": 3.12,
+     "end": 3.32
+    },
+    {
+     "w": "2",
+     "start": 3.32,
+     "end": 3.54
+    },
+    {
+     "w": "arrive",
+     "start": 3.54,
+     "end": 3.74
+    },
+    {
+     "w": "en",
+     "start": 3.74,
+     "end": 3.92
+    },
+    {
+     "w": "janvier",
+     "start": 3.92,
+     "end": 4.3
+    },
+    {
+     "w": "2027,",
+     "start": 4.3,
+     "end": 5.0
+    },
+    {
+     "w": "alors",
+     "start": 5.16,
+     "end": 5.24
+    },
+    {
+     "w": "reste",
+     "start": 5.24,
+     "end": 5.46
+    },
+    {
+     "w": "jusqu'au",
+     "start": 5.46,
+     "end": 5.84
+    },
+    {
+     "w": "bout,",
+     "start": 5.84,
+     "end": 6.0
+    },
+    {
+     "w": "le",
+     "start": 6.06,
+     "end": 6.14
+    },
+    {
+     "w": "numéro",
+     "start": 6.14,
+     "end": 6.3
+    },
+    {
+     "w": "1",
+     "start": 6.3,
+     "end": 6.46
+    },
+    {
+     "w": "c'est",
+     "start": 6.46,
+     "end": 6.58
+    },
+    {
+     "w": "lui",
+     "start": 6.58,
+     "end": 6.66
+    },
+    {
+     "w": "que",
+     "start": 6.66,
+     "end": 6.8
+    },
+    {
+     "w": "tu",
+     "start": 6.8,
+     "end": 6.88
+    },
+    {
+     "w": "vas",
+     "start": 6.88,
+     "end": 7.0
+    },
+    {
+     "w": "voir",
+     "start": 7.0,
+     "end": 7.22
+    },
+    {
+     "w": "partout.",
+     "start": 7.22,
+     "end": 7.54
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 7.76,
+   "end": 13.385,
+   "slot_end": 13.445,
+   "text": "Saitama s'entraîne trois ans, perd ses cheveux, et finit chaque combat en un coup de poing. Du coup, qui vient juste derrière lui ?",
+   "words": [
+    {
+     "w": "Saitama",
+     "start": 7.76,
+     "end": 7.94
+    },
+    {
+     "w": "s'entraîne",
+     "start": 7.94,
+     "end": 8.32
+    },
+    {
+     "w": "trois",
+     "start": 8.32,
+     "end": 8.58
+    },
+    {
+     "w": "ans,",
+     "start": 8.58,
+     "end": 8.78
+    },
+    {
+     "w": "perd",
+     "start": 8.86,
+     "end": 8.96
+    },
+    {
+     "w": "ses",
+     "start": 8.96,
+     "end": 9.1
+    },
+    {
+     "w": "cheveux,",
+     "start": 9.1,
+     "end": 9.38
+    },
+    {
+     "w": "et",
+     "start": 9.38,
+     "end": 9.72
+    },
+    {
+     "w": "finit",
+     "start": 9.72,
+     "end": 10.02
+    },
+    {
+     "w": "chaque",
+     "start": 10.02,
+     "end": 10.24
+    },
+    {
+     "w": "combat",
+     "start": 10.24,
+     "end": 10.54
+    },
+    {
+     "w": "en",
+     "start": 10.54,
+     "end": 10.82
+    },
+    {
+     "w": "un",
+     "start": 10.82,
+     "end": 10.98
+    },
+    {
+     "w": "coup",
+     "start": 10.98,
+     "end": 11.06
+    },
+    {
+     "w": "de",
+     "start": 11.06,
+     "end": 11.12
+    },
+    {
+     "w": "poing.",
+     "start": 11.12,
+     "end": 11.34
+    },
+    {
+     "w": "Du",
+     "start": 11.92,
+     "end": 12.08
+    },
+    {
+     "w": "coup,",
+     "start": 12.08,
+     "end": 12.2
+    },
+    {
+     "w": "qui",
+     "start": 12.26,
+     "end": 12.32
+    },
+    {
+     "w": "vient",
+     "start": 12.32,
+     "end": 12.46
+    },
+    {
+     "w": "juste",
+     "start": 12.46,
+     "end": 12.68
+    },
+    {
+     "w": "derrière",
+     "start": 12.68,
+     "end": 12.96
+    },
+    {
+     "w": "lui",
+     "start": 12.96,
+     "end": 13.32
+    },
+    {
+     "w": "?",
+     "start": 13.32,
+     "end": 13.385
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 13.52,
+   "end": 21.04,
+   "slot_end": 21.136,
+   "text": "Numéro 5, Genos. Le cyborg qui s'est proclamé disciple de Saitama. Il se fait démonter presque à chaque arc, mais il revient toujours plus fort.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 13.52,
+     "end": 13.7
+    },
+    {
+     "w": "5,",
+     "start": 13.7,
+     "end": 13.92
+    },
+    {
+     "w": "Genos.",
+     "start": 14.32,
+     "end": 14.58
+    },
+    {
+     "w": "Le",
+     "start": 15.32,
+     "end": 15.5
+    },
+    {
+     "w": "cyborg",
+     "start": 15.5,
+     "end": 15.92
+    },
+    {
+     "w": "qui",
+     "start": 15.92,
+     "end": 16.12
+    },
+    {
+     "w": "s'est",
+     "start": 16.12,
+     "end": 16.24
+    },
+    {
+     "w": "proclamé",
+     "start": 16.24,
+     "end": 16.6
+    },
+    {
+     "w": "disciple",
+     "start": 16.6,
+     "end": 16.94
+    },
+    {
+     "w": "de",
+     "start": 16.94,
+     "end": 17.16
+    },
+    {
+     "w": "Saitama.",
+     "start": 17.16,
+     "end": 17.5
+    },
+    {
+     "w": "Il",
+     "start": 17.92,
+     "end": 18.24
+    },
+    {
+     "w": "se",
+     "start": 18.24,
+     "end": 18.36
+    },
+    {
+     "w": "fait",
+     "start": 18.36,
+     "end": 18.46
+    },
+    {
+     "w": "démonter",
+     "start": 18.46,
+     "end": 18.8
+    },
+    {
+     "w": "presque",
+     "start": 18.8,
+     "end": 19.02
+    },
+    {
+     "w": "à",
+     "start": 19.02,
+     "end": 19.28
+    },
+    {
+     "w": "chaque",
+     "start": 19.28,
+     "end": 19.42
+    },
+    {
+     "w": "arc,",
+     "start": 19.42,
+     "end": 19.74
+    },
+    {
+     "w": "mais",
+     "start": 19.88,
+     "end": 20.02
+    },
+    {
+     "w": "il",
+     "start": 20.02,
+     "end": 20.1
+    },
+    {
+     "w": "revient",
+     "start": 20.1,
+     "end": 20.3
+    },
+    {
+     "w": "toujours",
+     "start": 20.3,
+     "end": 20.58
+    },
+    {
+     "w": "plus",
+     "start": 20.58,
+     "end": 20.86
+    },
+    {
+     "w": "fort.",
+     "start": 20.86,
+     "end": 21.04
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 21.16,
+   "end": 27.5,
+   "slot_end": 27.662,
+   "text": "Numéro 4, Boros. Le conquérant de l'espace de la saison 1, le premier à forcer Saitama à sortir un coup sérieux, le Serious Punch.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 21.16,
+     "end": 21.38
+    },
+    {
+     "w": "4,",
+     "start": 21.38,
+     "end": 21.58
+    },
+    {
+     "w": "Boros.",
+     "start": 21.86,
+     "end": 22.14
+    },
+    {
+     "w": "Le",
+     "start": 22.66,
+     "end": 22.76
+    },
+    {
+     "w": "conquérant",
+     "start": 22.76,
+     "end": 23.12
+    },
+    {
+     "w": "de",
+     "start": 23.12,
+     "end": 23.22
+    },
+    {
+     "w": "l'espace",
+     "start": 23.22,
+     "end": 23.44
+    },
+    {
+     "w": "de",
+     "start": 23.44,
+     "end": 23.66
+    },
+    {
+     "w": "la",
+     "start": 23.66,
+     "end": 23.78
+    },
+    {
+     "w": "saison",
+     "start": 23.78,
+     "end": 23.98
+    },
+    {
+     "w": "1,",
+     "start": 23.98,
+     "end": 24.28
+    },
+    {
+     "w": "le",
+     "start": 24.46,
+     "end": 24.54
+    },
+    {
+     "w": "premier",
+     "start": 24.54,
+     "end": 24.78
+    },
+    {
+     "w": "à",
+     "start": 24.78,
+     "end": 24.92
+    },
+    {
+     "w": "forcer",
+     "start": 24.92,
+     "end": 25.16
+    },
+    {
+     "w": "Saitama",
+     "start": 25.16,
+     "end": 25.54
+    },
+    {
+     "w": "à",
+     "start": 25.54,
+     "end": 25.66
+    },
+    {
+     "w": "sortir",
+     "start": 25.66,
+     "end": 25.9
+    },
+    {
+     "w": "un",
+     "start": 25.9,
+     "end": 26.12
+    },
+    {
+     "w": "coup",
+     "start": 26.12,
+     "end": 26.2
+    },
+    {
+     "w": "sérieux,",
+     "start": 26.2,
+     "end": 26.58
+    },
+    {
+     "w": "le",
+     "start": 26.74,
+     "end": 26.84
+    },
+    {
+     "w": "Serious",
+     "start": 26.84,
+     "end": 27.24
+    },
+    {
+     "w": "Punch.",
+     "start": 27.24,
+     "end": 27.5
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 27.5,
+   "end": 35.42,
+   "slot_end": 35.594,
+   "text": "Numéro 3, Bang, alias Silver Fang. Un papy troisième de la classe S, qui renvoie tout comme un courant d'eau avec son Water Stream Rock Smashing Fist.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 27.5,
+     "end": 27.88
+    },
+    {
+     "w": "3,",
+     "start": 27.88,
+     "end": 28.18
+    },
+    {
+     "w": "Bang,",
+     "start": 28.5,
+     "end": 28.84
+    },
+    {
+     "w": "alias",
+     "start": 28.84,
+     "end": 29.3
+    },
+    {
+     "w": "Silver",
+     "start": 29.3,
+     "end": 29.64
+    },
+    {
+     "w": "Fang.",
+     "start": 29.64,
+     "end": 29.98
+    },
+    {
+     "w": "Un",
+     "start": 30.18,
+     "end": 30.3
+    },
+    {
+     "w": "papy",
+     "start": 30.3,
+     "end": 30.54
+    },
+    {
+     "w": "troisième",
+     "start": 30.54,
+     "end": 30.84
+    },
+    {
+     "w": "de",
+     "start": 30.84,
+     "end": 31.12
+    },
+    {
+     "w": "la",
+     "start": 31.12,
+     "end": 31.22
+    },
+    {
+     "w": "classe",
+     "start": 31.22,
+     "end": 31.38
+    },
+    {
+     "w": "S,",
+     "start": 31.38,
+     "end": 31.74
+    },
+    {
+     "w": "qui",
+     "start": 31.74,
+     "end": 32.26
+    },
+    {
+     "w": "renvoie",
+     "start": 32.26,
+     "end": 32.62
+    },
+    {
+     "w": "tout",
+     "start": 32.62,
+     "end": 32.78
+    },
+    {
+     "w": "comme",
+     "start": 32.78,
+     "end": 32.96
+    },
+    {
+     "w": "un",
+     "start": 32.96,
+     "end": 33.08
+    },
+    {
+     "w": "courant",
+     "start": 33.08,
+     "end": 33.3
+    },
+    {
+     "w": "d'eau",
+     "start": 33.3,
+     "end": 33.48
+    },
+    {
+     "w": "avec",
+     "start": 33.48,
+     "end": 33.66
+    },
+    {
+     "w": "son",
+     "start": 33.66,
+     "end": 33.84
+    },
+    {
+     "w": "Water",
+     "start": 33.84,
+     "end": 34.08
+    },
+    {
+     "w": "Stream",
+     "start": 34.08,
+     "end": 34.4
+    },
+    {
+     "w": "Rock",
+     "start": 34.4,
+     "end": 34.76
+    },
+    {
+     "w": "Smashing",
+     "start": 34.76,
+     "end": 35.16
+    },
+    {
+     "w": "Fist.",
+     "start": 35.16,
+     "end": 35.42
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 35.58,
+   "end": 40.7,
+   "slot_end": 40.925,
+   "text": "Si tu kiffes ce genre de classement, abonne-toi, j'en sors tous les jours et la suite d'One Punch Man, on la décortique ensemble.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 35.58,
+     "end": 35.7
+    },
+    {
+     "w": "tu",
+     "start": 35.7,
+     "end": 35.78
+    },
+    {
+     "w": "kiffes",
+     "start": 35.78,
+     "end": 36.02
+    },
+    {
+     "w": "ce",
+     "start": 36.02,
+     "end": 36.12
+    },
+    {
+     "w": "genre",
+     "start": 36.12,
+     "end": 36.26
+    },
+    {
+     "w": "de",
+     "start": 36.26,
+     "end": 36.36
+    },
+    {
+     "w": "classement,",
+     "start": 36.36,
+     "end": 36.78
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 36.92,
+     "end": 37.58
+    },
+    {
+     "w": "j'en",
+     "start": 37.8,
+     "end": 37.88
+    },
+    {
+     "w": "sors",
+     "start": 37.88,
+     "end": 38.02
+    },
+    {
+     "w": "tous",
+     "start": 38.02,
+     "end": 38.18
+    },
+    {
+     "w": "les",
+     "start": 38.18,
+     "end": 38.3
+    },
+    {
+     "w": "jours",
+     "start": 38.3,
+     "end": 38.52
+    },
+    {
+     "w": "et",
+     "start": 38.52,
+     "end": 38.68
+    },
+    {
+     "w": "la",
+     "start": 38.68,
+     "end": 38.8
+    },
+    {
+     "w": "suite",
+     "start": 38.8,
+     "end": 38.94
+    },
+    {
+     "w": "d'One",
+     "start": 39.16,
+     "end": 39.3
+    },
+    {
+     "w": "Punch",
+     "start": 39.3,
+     "end": 39.54
+    },
+    {
+     "w": "Man,",
+     "start": 39.54,
+     "end": 39.72
+    },
+    {
+     "w": "on",
+     "start": 39.84,
+     "end": 39.94
+    },
+    {
+     "w": "la",
+     "start": 39.94,
+     "end": 40.18
+    },
+    {
+     "w": "décortique",
+     "start": 40.18,
+     "end": 40.42
+    },
+    {
+     "w": "ensemble.",
+     "start": 40.42,
+     "end": 40.7
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 41.02,
+   "end": 46.7,
+   "slot_end": 46.792,
+   "text": "Numéro 2, Tatsumaki. Une tête de gamine, un caractère de chien, et des pouvoirs psychiques qui arrachent du sol une base de monstres entière.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 41.02,
+     "end": 41.2
+    },
+    {
+     "w": "2,",
+     "start": 41.2,
+     "end": 41.42
+    },
+    {
+     "w": "Tatsumaki.",
+     "start": 41.58,
+     "end": 42.0
+    },
+    {
+     "w": "Une",
+     "start": 42.34,
+     "end": 42.44
+    },
+    {
+     "w": "tête",
+     "start": 42.44,
+     "end": 42.58
+    },
+    {
+     "w": "de",
+     "start": 42.58,
+     "end": 42.78
+    },
+    {
+     "w": "gamine,",
+     "start": 42.78,
+     "end": 42.96
+    },
+    {
+     "w": "un",
+     "start": 43.12,
+     "end": 43.17
+    },
+    {
+     "w": "caractère",
+     "start": 43.12,
+     "end": 43.38
+    },
+    {
+     "w": "de",
+     "start": 43.38,
+     "end": 43.6
+    },
+    {
+     "w": "chien,",
+     "start": 43.6,
+     "end": 43.8
+    },
+    {
+     "w": "et",
+     "start": 43.8,
+     "end": 43.98
+    },
+    {
+     "w": "des",
+     "start": 43.98,
+     "end": 44.06
+    },
+    {
+     "w": "pouvoirs",
+     "start": 44.06,
+     "end": 44.38
+    },
+    {
+     "w": "psychiques",
+     "start": 44.38,
+     "end": 44.76
+    },
+    {
+     "w": "qui",
+     "start": 44.76,
+     "end": 44.94
+    },
+    {
+     "w": "arrachent",
+     "start": 44.94,
+     "end": 45.2
+    },
+    {
+     "w": "du",
+     "start": 45.2,
+     "end": 45.36
+    },
+    {
+     "w": "sol",
+     "start": 45.36,
+     "end": 45.56
+    },
+    {
+     "w": "une",
+     "start": 45.56,
+     "end": 45.74
+    },
+    {
+     "w": "base",
+     "start": 45.74,
+     "end": 45.92
+    },
+    {
+     "w": "de",
+     "start": 45.92,
+     "end": 46.08
+    },
+    {
+     "w": "monstres",
+     "start": 46.08,
+     "end": 46.34
+    },
+    {
+     "w": "entière.",
+     "start": 46.34,
+     "end": 46.7
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 46.8,
+   "end": 54.12,
+   "slot_end": 54.17,
+   "text": "Et non, c'est pas King. L'homme le plus fort du monde, c'est juste un mec normal avec un cœur qui bat tellement fort que tout le monde flippe.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 46.8,
+     "end": 46.94
+    },
+    {
+     "w": "non,",
+     "start": 46.94,
+     "end": 47.08
+    },
+    {
+     "w": "c'est",
+     "start": 47.26,
+     "end": 47.34
+    },
+    {
+     "w": "pas",
+     "start": 47.34,
+     "end": 47.48
+    },
+    {
+     "w": "King.",
+     "start": 47.48,
+     "end": 47.74
+    },
+    {
+     "w": "L'homme",
+     "start": 48.24,
+     "end": 48.54
+    },
+    {
+     "w": "le",
+     "start": 48.54,
+     "end": 48.74
+    },
+    {
+     "w": "plus",
+     "start": 48.74,
+     "end": 48.92
+    },
+    {
+     "w": "fort",
+     "start": 48.92,
+     "end": 49.18
+    },
+    {
+     "w": "du",
+     "start": 49.18,
+     "end": 49.38
+    },
+    {
+     "w": "monde,",
+     "start": 49.38,
+     "end": 49.6
+    },
+    {
+     "w": "c'est",
+     "start": 49.92,
+     "end": 50.1
+    },
+    {
+     "w": "juste",
+     "start": 50.1,
+     "end": 50.36
+    },
+    {
+     "w": "un",
+     "start": 50.36,
+     "end": 50.6
+    },
+    {
+     "w": "mec",
+     "start": 50.6,
+     "end": 50.76
+    },
+    {
+     "w": "normal",
+     "start": 50.76,
+     "end": 51.14
+    },
+    {
+     "w": "avec",
+     "start": 51.14,
+     "end": 51.5
+    },
+    {
+     "w": "un",
+     "start": 51.5,
+     "end": 51.74
+    },
+    {
+     "w": "cœur",
+     "start": 51.74,
+     "end": 51.92
+    },
+    {
+     "w": "qui",
+     "start": 51.92,
+     "end": 52.14
+    },
+    {
+     "w": "bat",
+     "start": 52.14,
+     "end": 52.32
+    },
+    {
+     "w": "tellement",
+     "start": 52.32,
+     "end": 52.56
+    },
+    {
+     "w": "fort",
+     "start": 52.56,
+     "end": 52.94
+    },
+    {
+     "w": "que",
+     "start": 52.94,
+     "end": 53.42
+    },
+    {
+     "w": "tout",
+     "start": 53.42,
+     "end": 53.58
+    },
+    {
+     "w": "le",
+     "start": 53.58,
+     "end": 53.68
+    },
+    {
+     "w": "monde",
+     "start": 53.68,
+     "end": 53.8
+    },
+    {
+     "w": "flippe.",
+     "start": 53.8,
+     "end": 54.12
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 54.12,
+   "end": 59.0,
+   "slot_end": 59.105,
+   "text": "Sauf que le vrai numéro 1, au départ, c'est même pas un héros. Et c'est là que ça devient chaud.",
+   "words": [
+    {
+     "w": "Sauf",
+     "start": 54.12,
+     "end": 54.42
+    },
+    {
+     "w": "que",
+     "start": 54.42,
+     "end": 54.58
+    },
+    {
+     "w": "le",
+     "start": 54.58,
+     "end": 54.74
+    },
+    {
+     "w": "vrai",
+     "start": 54.74,
+     "end": 55.04
+    },
+    {
+     "w": "numéro",
+     "start": 55.04,
+     "end": 55.28
+    },
+    {
+     "w": "1,",
+     "start": 55.28,
+     "end": 55.66
+    },
+    {
+     "w": "au",
+     "start": 55.66,
+     "end": 55.86
+    },
+    {
+     "w": "départ,",
+     "start": 55.86,
+     "end": 56.14
+    },
+    {
+     "w": "c'est",
+     "start": 56.14,
+     "end": 56.46
+    },
+    {
+     "w": "même",
+     "start": 56.46,
+     "end": 56.72
+    },
+    {
+     "w": "pas",
+     "start": 56.72,
+     "end": 57.0
+    },
+    {
+     "w": "un",
+     "start": 57.0,
+     "end": 57.14
+    },
+    {
+     "w": "héros.",
+     "start": 57.14,
+     "end": 57.32
+    },
+    {
+     "w": "Et",
+     "start": 57.32,
+     "end": 57.92
+    },
+    {
+     "w": "c'est",
+     "start": 57.92,
+     "end": 58.12
+    },
+    {
+     "w": "là",
+     "start": 58.12,
+     "end": 58.26
+    },
+    {
+     "w": "que",
+     "start": 58.26,
+     "end": 58.4
+    },
+    {
+     "w": "ça",
+     "start": 58.4,
+     "end": 58.52
+    },
+    {
+     "w": "devient",
+     "start": 58.52,
+     "end": 58.72
+    },
+    {
+     "w": "chaud.",
+     "start": 58.72,
+     "end": 59.0
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 59.0,
+   "end": 66.78,
+   "slot_end": 66.88,
+   "text": "Numéro 1, Garou. L'ancien élève de Bang, qui a décidé de devenir le chasseur de héros. Il les traque un par un et il apprend leurs techniques en plein combat.",
+   "words": [
+    {
+     "w": "Numéro",
+     "start": 59.0,
+     "end": 59.34
+    },
+    {
+     "w": "1,",
+     "start": 59.34,
+     "end": 59.56
+    },
+    {
+     "w": "Garou.",
+     "start": 59.92,
+     "end": 60.28
+    },
+    {
+     "w": "L'ancien",
+     "start": 60.28,
+     "end": 61.28
+    },
+    {
+     "w": "élève",
+     "start": 61.28,
+     "end": 61.54
+    },
+    {
+     "w": "de",
+     "start": 61.54,
+     "end": 61.68
+    },
+    {
+     "w": "Bang,",
+     "start": 61.68,
+     "end": 61.86
+    },
+    {
+     "w": "qui",
+     "start": 61.86,
+     "end": 62.1
+    },
+    {
+     "w": "a",
+     "start": 62.1,
+     "end": 62.16
+    },
+    {
+     "w": "décidé",
+     "start": 62.16,
+     "end": 62.34
+    },
+    {
+     "w": "de",
+     "start": 62.34,
+     "end": 62.54
+    },
+    {
+     "w": "devenir",
+     "start": 62.54,
+     "end": 62.78
+    },
+    {
+     "w": "le",
+     "start": 62.78,
+     "end": 63.04
+    },
+    {
+     "w": "chasseur",
+     "start": 63.04,
+     "end": 63.4
+    },
+    {
+     "w": "de",
+     "start": 63.4,
+     "end": 63.52
+    },
+    {
+     "w": "héros.",
+     "start": 63.52,
+     "end": 63.8
+    },
+    {
+     "w": "Il",
+     "start": 63.8,
+     "end": 64.42
+    },
+    {
+     "w": "les",
+     "start": 64.42,
+     "end": 64.58
+    },
+    {
+     "w": "traque",
+     "start": 64.58,
+     "end": 64.8
+    },
+    {
+     "w": "un",
+     "start": 64.8,
+     "end": 65.0
+    },
+    {
+     "w": "par",
+     "start": 65.0,
+     "end": 65.14
+    },
+    {
+     "w": "un",
+     "start": 65.14,
+     "end": 65.26
+    },
+    {
+     "w": "et",
+     "start": 65.26,
+     "end": 65.4
+    },
+    {
+     "w": "il",
+     "start": 65.4,
+     "end": 65.5
+    },
+    {
+     "w": "apprend",
+     "start": 65.5,
+     "end": 65.7
+    },
+    {
+     "w": "leurs",
+     "start": 65.7,
+     "end": 65.84
+    },
+    {
+     "w": "techniques",
+     "start": 65.84,
+     "end": 66.08
+    },
+    {
+     "w": "en",
+     "start": 66.08,
+     "end": 66.42
+    },
+    {
+     "w": "plein",
+     "start": 66.42,
+     "end": 66.5
+    },
+    {
+     "w": "combat.",
+     "start": 66.5,
+     "end": 66.78
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 66.78,
+   "end": 74.48,
+   "slot_end": 74.617,
+   "text": "Dans l'arc de l'Association des Monstres, plus il prend de coups, plus il devient monstrueux. Ce qu'il devient à la fin, j'te dis rien, mais ça dépasse tout le monde. Sauf un chauve.",
+   "words": [
+    {
+     "w": "Dans",
+     "start": 66.78,
+     "end": 67.0
+    },
+    {
+     "w": "l'arc",
+     "start": 67.0,
+     "end": 67.22
+    },
+    {
+     "w": "de",
+     "start": 67.22,
+     "end": 67.44
+    },
+    {
+     "w": "l'Association",
+     "start": 67.44,
+     "end": 68.0
+    },
+    {
+     "w": "des",
+     "start": 68.0,
+     "end": 68.18
+    },
+    {
+     "w": "Monstres,",
+     "start": 68.18,
+     "end": 68.58
+    },
+    {
+     "w": "plus",
+     "start": 68.58,
+     "end": 68.84
+    },
+    {
+     "w": "il",
+     "start": 68.84,
+     "end": 68.96
+    },
+    {
+     "w": "prend",
+     "start": 68.96,
+     "end": 69.14
+    },
+    {
+     "w": "de",
+     "start": 69.14,
+     "end": 69.3
+    },
+    {
+     "w": "coups,",
+     "start": 69.3,
+     "end": 69.6
+    },
+    {
+     "w": "plus",
+     "start": 69.6,
+     "end": 69.72
+    },
+    {
+     "w": "il",
+     "start": 69.72,
+     "end": 69.88
+    },
+    {
+     "w": "devient",
+     "start": 69.88,
+     "end": 70.12
+    },
+    {
+     "w": "monstrueux.",
+     "start": 70.12,
+     "end": 71.22
+    },
+    {
+     "w": "Ce",
+     "start": 71.22,
+     "end": 71.38
+    },
+    {
+     "w": "qu'il",
+     "start": 71.38,
+     "end": 71.48
+    },
+    {
+     "w": "devient",
+     "start": 71.48,
+     "end": 71.74
+    },
+    {
+     "w": "à",
+     "start": 71.74,
+     "end": 71.86
+    },
+    {
+     "w": "la",
+     "start": 71.86,
+     "end": 71.94
+    },
+    {
+     "w": "fin,",
+     "start": 71.94,
+     "end": 72.06
+    },
+    {
+     "w": "j'te",
+     "start": 72.06,
+     "end": 72.26
+    },
+    {
+     "w": "dis",
+     "start": 72.26,
+     "end": 72.36
+    },
+    {
+     "w": "rien,",
+     "start": 72.36,
+     "end": 72.56
+    },
+    {
+     "w": "mais",
+     "start": 72.56,
+     "end": 72.7
+    },
+    {
+     "w": "ça",
+     "start": 72.7,
+     "end": 72.82
+    },
+    {
+     "w": "dépasse",
+     "start": 72.82,
+     "end": 73.1
+    },
+    {
+     "w": "tout",
+     "start": 73.1,
+     "end": 73.28
+    },
+    {
+     "w": "le",
+     "start": 73.28,
+     "end": 73.36
+    },
+    {
+     "w": "monde.",
+     "start": 73.36,
+     "end": 73.86
+    },
+    {
+     "w": "Sauf",
+     "start": 73.86,
+     "end": 74.18
+    },
+    {
+     "w": "un",
+     "start": 74.18,
+     "end": 74.28
+    },
+    {
+     "w": "chauve.",
+     "start": 74.28,
+     "end": 74.48
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 74.48,
+   "end": 80.12,
+   "slot_end": 80.174,
+   "text": "Ce combat-là, tout le monde attend de le voir animé depuis des années. S'il est raté, j'te jure je pleure.",
+   "words": [
+    {
+     "w": "Ce",
+     "start": 74.48,
+     "end": 74.74
+    },
+    {
+     "w": "combat-là,",
+     "start": 74.74,
+     "end": 75.16
+    },
+    {
+     "w": "tout",
+     "start": 75.16,
+     "end": 75.5
+    },
+    {
+     "w": "le",
+     "start": 75.5,
+     "end": 75.62
+    },
+    {
+     "w": "monde",
+     "start": 75.62,
+     "end": 75.88
+    },
+    {
+     "w": "attend",
+     "start": 75.88,
+     "end": 76.38
+    },
+    {
+     "w": "de",
+     "start": 76.38,
+     "end": 76.58
+    },
+    {
+     "w": "le",
+     "start": 76.58,
+     "end": 76.64
+    },
+    {
+     "w": "voir",
+     "start": 76.64,
+     "end": 76.8
+    },
+    {
+     "w": "animé",
+     "start": 76.8,
+     "end": 77.3
+    },
+    {
+     "w": "depuis",
+     "start": 77.3,
+     "end": 77.54
+    },
+    {
+     "w": "des",
+     "start": 77.54,
+     "end": 77.82
+    },
+    {
+     "w": "années.",
+     "start": 77.82,
+     "end": 78.08
+    },
+    {
+     "w": "S'il",
+     "start": 78.08,
+     "end": 78.82
+    },
+    {
+     "w": "est",
+     "start": 78.82,
+     "end": 78.96
+    },
+    {
+     "w": "raté,",
+     "start": 78.96,
+     "end": 79.2
+    },
+    {
+     "w": "j'te",
+     "start": 79.2,
+     "end": 79.42
+    },
+    {
+     "w": "jure",
+     "start": 79.42,
+     "end": 79.62
+    },
+    {
+     "w": "je",
+     "start": 79.62,
+     "end": 79.8
+    },
+    {
+     "w": "pleure.",
+     "start": 79.8,
+     "end": 80.12
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 80.174,
+   "end": 83.36,
+   "slot_end": 83.437,
+   "text": "Et toi, c'est quoi ton top 1 sans compter Saitama ? Dis-le en com', j'lis tout.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 80.174,
+     "end": 80.224
+    },
+    {
+     "w": "toi,",
+     "start": 80.174,
+     "end": 80.36
+    },
+    {
+     "w": "c'est",
+     "start": 80.36,
+     "end": 80.52
+    },
+    {
+     "w": "quoi",
+     "start": 80.52,
+     "end": 80.62
+    },
+    {
+     "w": "ton",
+     "start": 80.62,
+     "end": 80.78
+    },
+    {
+     "w": "top",
+     "start": 80.78,
+     "end": 80.92
+    },
+    {
+     "w": "1",
+     "start": 80.92,
+     "end": 81.08
+    },
+    {
+     "w": "sans",
+     "start": 81.08,
+     "end": 81.18
+    },
+    {
+     "w": "compter",
+     "start": 81.18,
+     "end": 81.44
+    },
+    {
+     "w": "Saitama",
+     "start": 81.44,
+     "end": 81.86
+    },
+    {
+     "w": "?",
+     "start": 81.86,
+     "end": 82.28
+    },
+    {
+     "w": "Dis-le",
+     "start": 82.28,
+     "end": 82.7
+    },
+    {
+     "w": "en",
+     "start": 82.7,
+     "end": 82.76
+    },
+    {
+     "w": "com',",
+     "start": 82.76,
+     "end": 82.92
+    },
+    {
+     "w": "j'lis",
+     "start": 82.92,
+     "end": 83.22
+    },
+    {
+     "w": "tout.",
+     "start": 83.22,
+     "end": 83.36
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 83.46,
+   "end": 85.84,
+   "slot_end": 86.583,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 83.46,
+     "end": 83.7
+    },
+    {
+     "w": "Asura.",
+     "start": 83.7,
+     "end": 84.04
+    },
+    {
+     "w": "On",
+     "start": 84.4,
+     "end": 84.64
+    },
+    {
+     "w": "se",
+     "start": 84.64,
+     "end": 84.78
+    },
+    {
+     "w": "capte",
+     "start": 84.78,
+     "end": 85.1
+    },
+    {
+     "w": "au",
+     "start": 85.1,
+     "end": 85.16
+    },
+    {
+     "w": "prochain",
+     "start": 85.16,
+     "end": 85.38
+    },
+    {
+     "w": "épisode.",
+     "start": 85.38,
+     "end": 85.84
+    }
+   ]
+  }
+ ],
+ "aligned": 0.994
+}

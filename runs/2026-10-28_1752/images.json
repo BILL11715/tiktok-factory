@@ -1,0 +1,37 @@
+{
+ "One Punch Man Season 3 Part 2": {
+  "meta": {
+   "id": "50419",
+   "title": "One Punch Man 3 Part 2",
+   "titles": {
+    "en": "One-Punch Man 3 Part 2",
+    "en_jp": "One Punch Man 3 Part 2",
+    "ja_jp": "ワンパンマン 第3期第2クール"
+   },
+   "synopsis": "The second cour of the third season of One Punch Man.",
+   "episodes": 13,
+   "start": "2027-01-31",
+   "source": "https://kitsu.io/anime/one-punch-man-3-part-2"
+  },
+  "wide": [
+   "/home/claude/tiktok-factory/runs/2026-10-28_1752/images/db0225b25dfe.jpg"
+  ],
+  "tall": [
+   "/home/claude/tiktok-factory/runs/2026-10-28_1752/images/697ce1954ceb.png",
+   "/home/claude/tiktok-factory/runs/2026-10-28_1752/images/9209fd734091.jpg",
+   "/home/claude/tiktok-factory/runs/2026-10-28_1752/images/013570419d38.jpg"
+  ],
+  "characters": {
+   "Saitama": "/home/claude/tiktok-factory/runs/2026-10-28_1752/images/c3e9add10a7e.jpg",
+   "Garou": "/home/claude/tiktok-factory/runs/2026-10-28_1752/images/78552451af99.png",
+   "Tatsumaki": "/home/claude/tiktok-factory/runs/2026-10-28_1752/images/48b724333cf2.png",
+   "Genos": "/home/claude/tiktok-factory/runs/2026-10-28_1752/images/53688486fe5e.jpg",
+   "Senkou no Flash": "/home/claude/tiktok-factory/runs/2026-10-28_1752/images/9285ebe97ae7.png",
+   "Psykos": "/home/claude/tiktok-factory/runs/2026-10-28_1752/images/c58e3b8dff13.png"
+  },
+  "sources": [
+   "https://kitsu.io/anime/one-punch-man-3-part-2",
+   "https://anilist.co/anime/204747"
+  ]
+ }
+}
