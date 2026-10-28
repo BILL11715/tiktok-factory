@@ -1,0 +1,44 @@
+{
+ "Return of the Blossoming Blade": {
+  "meta": {
+   "media": "manhwa",
+   "adaptation": null,
+   "title": "Return of the Blossoming Blade"
+  },
+  "wide": [
+   "/home/claude/tiktok-factory/runs/2026-10-28_1146/images/4743d7b77a27.jpg"
+  ],
+  "tall": [
+   "/home/claude/tiktok-factory/runs/2026-10-28_1146/images/6c97e4ca29b6.png",
+   "/home/claude/tiktok-factory/runs/2026-10-28_1146/images/439176f900b0.jpg"
+  ],
+  "characters": {
+   "Cheong-Myeong": "/home/claude/tiktok-factory/runs/2026-10-28_1146/images/b72423c748f9.png",
+   "Yoo Iseol": "/home/claude/tiktok-factory/runs/2026-10-28_1146/images/f5c3f98d8729.png",
+   "Jo Gul": "/home/claude/tiktok-factory/runs/2026-10-28_1146/images/0bdd2e6e0b28.png",
+   "Baek Cheon": "/home/claude/tiktok-factory/runs/2026-10-28_1146/images/91aaa272f317.png",
+   "Jong Yoon": "/home/claude/tiktok-factory/runs/2026-10-28_1146/images/d709b0314c7c.png",
+   "Hyun Young": "/home/claude/tiktok-factory/runs/2026-10-28_1146/images/4fde6c6574e2.png",
+   "Hyun Jong": "/home/claude/tiktok-factory/runs/2026-10-28_1146/images/d54f1ca71c35.png",
+   "Lee Songbaek": "/home/claude/tiktok-factory/runs/2026-10-28_1146/images/c8f62234ec45.png",
+   "Jin Geum-Ryong": "/home/claude/tiktok-factory/runs/2026-10-28_1146/images/556ac2930199.png",
+   "Cheongmun": "/home/claude/tiktok-factory/runs/2026-10-28_1146/images/b15aa0df2905.png",
+   "Chun Ma": "/home/claude/tiktok-factory/runs/2026-10-28_1146/images/f20fd2273062.png",
+   "Yu Iseol's father": "/home/claude/tiktok-factory/runs/2026-10-28_1146/images/9668bedae31a.png",
+   "Jong Seohan": "/home/claude/tiktok-factory/runs/2026-10-28_1146/images/c6bd4d2f857d.png",
+   "Hyun Sang": "/home/claude/tiktok-factory/runs/2026-10-28_1146/images/7030df12aa0b.png",
+   "Jin Hyeon": "/home/claude/tiktok-factory/runs/2026-10-28_1146/images/baf0d788befa.png",
+   "Jongsan Yu": "/home/claude/tiktok-factory/runs/2026-10-28_1146/images/07e746511665.png",
+   "Unam": "/home/claude/tiktok-factory/runs/2026-10-28_1146/images/98bb3bbdaa85.png",
+   "Jin Mu": "/home/claude/tiktok-factory/runs/2026-10-28_1146/images/764fd8e55956.png",
+   "Un Gum": "/home/claude/tiktok-factory/runs/2026-10-28_1146/images/be788fefc305.png",
+   "Taegeuggeomje": "/home/claude/tiktok-factory/runs/2026-10-28_1146/images/5c108a7fa0b4.png",
+   "Hwang Jongui": "/home/claude/tiktok-factory/runs/2026-10-28_1146/images/f6d945c57379.png",
+   "Sama Seung": "/home/claude/tiktok-factory/runs/2026-10-28_1146/images/bf3edea5f385.png",
+   "Munyeon Gong": "/home/claude/tiktok-factory/runs/2026-10-28_1146/images/af532916480c.png"
+  },
+  "sources": [
+   "https://anilist.co/manga/132144"
+  ]
+ }
+}
