@@ -1,0 +1,232 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-28_2045/video.mp4",
+ "duration": 81.536,
+ "shots": 43,
+ "sources": [
+  "https://anilist.co/anime/152677",
+  "https://kitsu.io/anime/tantei-wa-mou-shindeiru-season-2"
+ ],
+ "plan": [
+  {
+   "character": null,
+   "fx": "hook",
+   "start": 0.0
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 1.83
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 3.66
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 5.42
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 7.18
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 9.43
+  },
+  {
+   "character": "Kimihiko Kimizuka",
+   "fx": null,
+   "start": 11.680000000000001
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 14.16
+  },
+  {
+   "character": "Siesta",
+   "fx": null,
+   "start": 15.88
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 18.490000000000002
+  },
+  {
+   "character": null,
+   "fx": "punch",
+   "start": 21.1
+  },
+  {
+   "character": "Siesta",
+   "fx": null,
+   "start": 22.68
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 24.759999999999998
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 26.84
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 28.85
+  },
+  {
+   "character": "Nagisa Natsunagi",
+   "fx": null,
+   "start": 30.86
+  },
+  {
+   "character": "Siesta",
+   "fx": null,
+   "start": 32.18
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 33.519999999999996
+  },
+  {
+   "character": "Siesta",
+   "fx": null,
+   "start": 34.86
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 36.9
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 38.53
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 40.16
+  },
+  {
+   "character": "Siesta",
+   "fx": null,
+   "start": 41.12
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 43.166666666666664
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 45.21333333333333
+  },
+  {
+   "character": "Charlotte Arisaka Anderson",
+   "fx": null,
+   "start": 47.26
+  },
+  {
+   "character": "Nagisa Natsunagi",
+   "fx": null,
+   "start": 48.44
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 50.09
+  },
+  {
+   "character": null,
+   "fx": "punch",
+   "start": 51.74
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 53.620000000000005
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 55.5
+  },
+  {
+   "character": "Siesta",
+   "fx": null,
+   "start": 57.52
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 59.290000000000006
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 61.06
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 62.96
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 64.86
+  },
+  {
+   "character": null,
+   "fx": "punch",
+   "start": 66.76
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 69.12666666666667
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 71.49333333333334
+  },
+  {
+   "character": "Siesta",
+   "fx": null,
+   "start": 73.86
+  },
+  {
+   "character": "Kimihiko Kimizuka",
+   "fx": null,
+   "start": 75.53999999999999
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 78.03999999999999
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 79.788
+  }
+ ],
+ "engine": "ffmpeg (secours)",
+ "voice_engine": "fish",
+ "repo_path": "videos/2026/10/2026-10-28_2045.mp4",
+ "raw_url": "https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/videos/2026/10/2026-10-28_2045.mp4",
+ "lint": [],
+ "render_seconds": 584.9
+}
