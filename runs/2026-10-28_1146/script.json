@@ -1,0 +1,136 @@
+{
+ "title": "Reco manhwa : le maître épéiste réincarné en mendiant 100 ans plus tard",
+ "format": "reco",
+ "tone": "pote",
+ "music": "pote",
+ "animes": [
+  "Return of the Blossoming Blade"
+ ],
+ "media": {
+  "Return of the Blossoming Blade": "manhwa"
+ },
+ "cover": {
+  "text": "Il revient pour sauver sa secte",
+  "highlight": [
+   "secte"
+  ],
+  "emoji": "🌸",
+  "sub": "reco manhwa"
+ },
+ "hook_text": "Il a tué le démon le plus puissant du monde et il se réveille mendiant",
+ "spoiler": false,
+ "segments": [
+  {
+   "text": "Il a tué le démon le plus puissant du monde, et il se réveille mendiant.",
+   "sfx": true,
+   "emphasis": [
+    "mendiant"
+   ],
+   "scene": "a swordsman in a black robe standing over a defeated demon lord on a mountain peak"
+  },
+  {
+   "text": "[whispering] Reste jusqu'au bout, je te donne le nom à la fin, et tu vas plus le lâcher.",
+   "emphasis": [
+    "nom"
+   ],
+   "scene": "a dark misty mountain at night with cherry blossom petals floating"
+  },
+  {
+   "text": "Le gars s'appelle Chung Myung. C'était le Saint Épéiste de la Fleur de Prunier, la meilleure lame de la secte du mont Hua.",
+   "emphasis": [
+    "Chung Myung"
+   ],
+   "scene": "a young swordsman with long black hair holding a sword surrounded by plum blossoms"
+  },
+  {
+   "text": "Il affronte le Démon Céleste au sommet d'une montagne, il le tue, et il meurt juste après, à bout de forces, en pensant à ses frères de secte.",
+   "grade": "bw",
+   "emphasis": [
+    "Démon Céleste"
+   ],
+   "scene": "a wounded swordsman collapsing on a mountain top covered in blood"
+  },
+  {
+   "text": "Et là, il rouvre les yeux. Cent ans plus tard, dans le corps d'un gamin mendiant qui crève de faim.",
+   "sfx": true,
+   "emphasis": [
+    "Cent ans"
+   ],
+   "scene": "a skinny boy in rags waking up in a dirty street"
+  },
+  {
+   "text": "Sauf que le pire, c'est pas ça. Le pire, c'est ce qu'il découvre en rentrant chez lui.",
+   "scene": "a boy walking up a long stone staircase toward an old temple gate"
+  },
+  {
+   "text": "Le mont Hua, la secte la plus respectée de son époque, est devenu une ruine. Plus d'argent, plus de réputation, et des disciples qui savent à peine tenir une épée.",
+   "stamp": "EN RUINE",
+   "emphasis": [
+    "ruine"
+   ],
+   "grade": "bw",
+   "scene": "an abandoned crumbling mountain temple with broken roofs",
+   "shots": [
+    {
+     "kind": "wide"
+    }
+   ]
+  },
+  {
+   "text": "Si toi aussi tu kiffes les héros qui reviennent pour tout remettre en ordre, abonne-toi, j'te sors une reco comme ça tous les jours.",
+   "cta": true
+  },
+  {
+   "text": "[laughing] Et du coup qu'est-ce qu'il fait ? Il rejoint la secte comme petit disciple, et il dresse ses propres descendants à coups de bâton.",
+   "emphasis": [
+    "bâton"
+   ],
+   "scene": "a boy hitting a group of young martial artists with a wooden stick during training"
+  },
+  {
+   "text": "Baek Cheon, Yoon Jong, Jo Gul, ils se font défoncer à l'entraînement tous les jours, et franchement c'est les meilleures scènes du manhwa.",
+   "emphasis": [
+    "défoncer"
+   ],
+   "scene": "exhausted young disciples lying on the ground in a training yard"
+  },
+  {
+   "text": "Ce qui m'a eu, c'est le mélange. T'as des vannes à chaque page, et d'un coup un flashback sur ses frères morts qui te met une vraie claque.",
+   "grade": "bw",
+   "emphasis": [
+    "claque"
+   ],
+   "scene": "a swordsman crying alone in front of graves at sunset"
+  },
+  {
+   "text": "[excited] Et les combats, frr, l'épée de la Fleur de Prunier dessinée en pétales qui explosent partout, c'est chaud.",
+   "sfx": true,
+   "stamp": "VALIDÉ",
+   "emphasis": [
+    "pétales"
+   ],
+   "scene": "a sword slash exploding into hundreds of pink blossom petals"
+  },
+  {
+   "text": "Mon avis ? Le meilleur manhwa de murim en cours, et je pèse mes mots. Pas encore d'anime, donc tu le lis en version légale sur les plateformes de webtoons.",
+   "emphasis": [
+    "murim"
+   ],
+   "scene": "a young swordsman smiling arrogantly with a sword on his shoulder"
+  },
+  {
+   "text": "Le nom, c'est Return of the Blossoming Blade. Dis-moi en com' si tu l'as déjà commencé, ou si je t'ai convaincu."
+  }
+ ],
+ "reveal_text": "Return of the Blossoming Blade",
+ "reveal_segments": 1,
+ "caption": "Il revient 100 ans plus tard et sa secte est en ruine 🌸 tu l'as déjà lu ?",
+ "hashtags": [
+  "#anime",
+  "#manga",
+  "#manhwa",
+  "#animefr",
+  "#returnoftheblossomingblade",
+  "#recommandationanime"
+ ]
+}
