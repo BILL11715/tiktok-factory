@@ -1,0 +1,143 @@
+{
+ "title": "Top 5 des plus forts de One Punch Man (Saitama exclu)",
+ "format": "top",
+ "tone": "hype",
+ "music": "hype2",
+ "animes": [
+  "One Punch Man Season 3 Part 2"
+ ],
+ "media": {
+  "One Punch Man Season 3 Part 2": "anime"
+ },
+ "cover": {
+  "text": "Le plus fort après Saitama",
+  "highlight": [
+   "Saitama"
+  ],
+  "emoji": "👊",
+  "sub": "Top 5 OPM"
+ },
+ "hook_text": "Le numéro 1 de ce top fait trembler tous les héros, sauf un chauve",
+ "spoiler": false,
+ "segments": [
+  {
+   "text": "Le numéro 1 de ce top fait trembler tous les héros, sauf un chauve.",
+   "sfx": true,
+   "emphasis": [
+    "chauve"
+   ],
+   "scene": "a bald hero in a yellow suit and white cape standing calmly in a destroyed city"
+  },
+  {
+   "text": "[whispering] La saison 3 partie 2 arrive en janvier 2027, alors reste jusqu'au bout, le numéro 1 c'est lui que tu vas voir partout.",
+   "emphasis": [
+    "janvier 2027"
+   ],
+   "scene": "a dark silhouette of a fighter walking through smoke at night"
+  },
+  {
+   "text": "Saitama s'entraîne trois ans, perd ses cheveux, et finit chaque combat en un coup de poing. Du coup, qui vient juste derrière lui ?",
+   "emphasis": [
+    "un seul coup"
+   ],
+   "scene": "a bald man punching a giant monster that explodes in one hit",
+   "shots": [
+    {
+     "kind": "wide"
+    }
+   ]
+  },
+  {
+   "text": "Numéro 5, Genos. Le cyborg qui s'est proclamé disciple de Saitama. Il se fait démonter presque à chaque arc, mais il revient toujours plus fort.",
+   "overlay": "#5",
+   "emphasis": [
+    "cyborg"
+   ],
+   "scene": "a blond cyborg with metal arms firing a huge flame blast"
+  },
+  {
+   "text": "Numéro 4, Boros. Le conquérant de l'espace de la saison 1, le premier à forcer Saitama à sortir un coup sérieux, le Serious Punch.",
+   "overlay": "#4",
+   "sfx": true,
+   "emphasis": [
+    "Serious Punch"
+   ],
+   "scene": "a one eyed alien warlord in armor clashing with a bald hero in space light"
+  },
+  {
+   "text": "[excited] Numéro 3, Bang, alias Silver Fang. Un papy troisième de la classe S, qui renvoie tout comme un courant d'eau avec son Water Stream Rock Smashing Fist.",
+   "overlay": "#3",
+   "emphasis": [
+    "Silver Fang"
+   ],
+   "scene": "an old martial artist with white hair moving his hands in flowing motion"
+  },
+  {
+   "text": "Si tu kiffes ce genre de classement, abonne-toi, j'en sors tous les jours et la suite d'One Punch Man, on la décortique ensemble.",
+   "cta": true
+  },
+  {
+   "text": "Numéro 2, Tatsumaki. Une tête de gamine, un caractère de chien, et des pouvoirs psychiques qui arrachent du sol une base de monstres entière.",
+   "overlay": "#2",
+   "emphasis": [
+    "psychiques"
+   ],
+   "scene": "a small green haired girl floating and lifting giant rocks with psychic power"
+  },
+  {
+   "text": "[laughing] Et non, c'est pas King. L'homme le plus fort du monde, c'est juste un mec normal avec un cœur qui bat tellement fort que tout le monde flippe.",
+   "stamp": "MENSONGE",
+   "emphasis": [
+    "King"
+   ],
+   "scene": "a tall scarred man sweating nervously while monsters panic"
+  },
+  {
+   "text": "Sauf que le vrai numéro 1, au départ, c'est même pas un héros. Et c'est là que ça devient chaud.",
+   "emphasis": [
+    "même pas"
+   ],
+   "scene": "a white haired young man smirking in a dark alley"
+  },
+  {
+   "text": "Numéro 1, Garou. L'ancien élève de Bang, qui a décidé de devenir le chasseur de héros. Il les traque un par un et il apprend leurs techniques en plein combat.",
+   "overlay": "#1",
+   "sfx": true,
+   "grade": "bw",
+   "emphasis": [
+    "chasseur de héros"
+   ],
+   "scene": "a white haired fighter beating up several heroes in a street fight"
+  },
+  {
+   "text": "[whispering] Dans l'arc de l'Association des Monstres, plus il prend de coups, plus il devient monstrueux. Ce qu'il devient à la fin, j'te dis rien, mais ça dépasse tout le monde. Sauf un chauve.",
+   "grade": "bw",
+   "sfx": true,
+   "stamp": "MONSTRE",
+   "emphasis": [
+    "monstrueux"
+   ],
+   "scene": "a wounded fighter transforming into a monstrous form with glowing eyes"
+  },
+  {
+   "text": "Ce combat-là, tout le monde attend de le voir animé depuis des années. S'il est raté, j'te jure je pleure.",
+   "emphasis": [
+    "attend"
+   ],
+   "scene": "two fighters clashing with a massive shockwave over a ruined city"
+  },
+  {
+   "text": "Et toi, c'est quoi ton top 1 sans compter Saitama ? Dis-le en com', j'lis tout.",
+   "scene": "a bald hero eating noodles calmly at home"
+  }
+ ],
+ "caption": "Le numéro 1 va en énerver certains 😤 c'est quoi ton top 1 sans Saitama ?",
+ "hashtags": [
+  "#anime",
+  "#manga",
+  "#animefr",
+  "#onepunchman",
+  "#saitama",
+  "#topanime"
+ ]
+}

@@ -1,0 +1,227 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-28_1752/video.mp4",
+ "duration": 86.583,
+ "shots": 42,
+ "sources": [
+  "https://anilist.co/anime/204747",
+  "https://kitsu.io/anime/one-punch-man-3-part-2"
+ ],
+ "plan": [
+  {
+   "character": null,
+   "fx": "hook",
+   "start": 0.0
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 2.66
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 5.1899999999999995
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 7.72
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 9.906666666666666
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 12.093333333333334
+  },
+  {
+   "character": "Genos",
+   "fx": null,
+   "start": 14.280000000000001
+  },
+  {
+   "character": "Saitama",
+   "fx": null,
+   "start": 17.12
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 19.14
+  },
+  {
+   "character": null,
+   "fx": "punch",
+   "start": 21.16
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 23.14
+  },
+  {
+   "character": "Saitama",
+   "fx": null,
+   "start": 25.12
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 27.5
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 29.52
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 31.54
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 33.56
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 35.58
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 37.56666666666666
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 39.553333333333335
+  },
+  {
+   "character": "Tatsumaki",
+   "fx": null,
+   "start": 41.54
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 44.17
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 46.8
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 49.239999999999995
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 51.68
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 54.12
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 55.74666666666666
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 57.373333333333335
+  },
+  {
+   "character": null,
+   "fx": "punch",
+   "start": 59.0
+  },
+  {
+   "character": "Garou",
+   "fx": null,
+   "start": 59.88
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 62.18
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 64.48
+  },
+  {
+   "character": null,
+   "fx": "punch",
+   "start": 66.78
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 68.705
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 70.63
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 72.555
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 74.48
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 76.378
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 78.27600000000001
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 80.174
+  },
+  {
+   "character": "Saitama",
+   "fx": null,
+   "start": 81.39999999999999
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 83.41999999999999
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 85.0015
+  }
+ ],
+ "engine": "ffmpeg (secours)",
+ "voice_engine": "fish",
+ "repo_path": "videos/2026/10/2026-10-28_1752.mp4",
+ "raw_url": "https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/videos/2026/10/2026-10-28_1752.mp4",
+ "lint": [],
+ "render_seconds": 695.7
+}
