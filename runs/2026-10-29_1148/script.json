@@ -1,0 +1,145 @@
+{
+ "title": "Reco : le loser fauché qui devient le forgeron légendaire d'un jeu VR",
+ "format": "reco",
+ "tone": "pote",
+ "music": "pote",
+ "animes": [
+  "Overgeared"
+ ],
+ "media": {
+  "Overgeared": "manhwa"
+ },
+ "cover": {
+  "text": "Le loser devient légendaire",
+  "highlight": [
+   "légendaire"
+  ],
+  "emoji": "🔨",
+  "sub": "l'anime est sorti"
+ },
+ "hook_text": "Ce mec était le pire joueur du jeu et il trouve la classe la plus cheatée",
+ "spoiler": false,
+ "segments": [
+  {
+   "text": "Ce mec était le pire joueur du jeu, et il trouve la classe la plus cheatée.",
+   "sfx": true,
+   "emphasis": [
+    "cheatée"
+   ],
+   "scene": "a tired young man putting on a virtual reality helmet in a small dark room"
+  },
+  {
+   "text": "[whispering] Reste jusqu'au bout, je te donne le nom, et l'anime vient tout juste de sortir.",
+   "emphasis": [
+    "nom"
+   ],
+   "scene": "a glowing fantasy game world appearing around a player"
+  },
+  {
+   "text": "Le gars s'appelle Grid. Dans la vraie vie, il est fauché, il galère sur des chantiers, et dans le jeu VR, c'est la risée du serveur.",
+   "emphasis": [
+    "Grid"
+   ],
+   "scene": "a young man in plain armor being laughed at by other players in a medieval town",
+   "shots": [
+    {
+     "kind": "wide"
+    }
+   ]
+  },
+  {
+   "text": "Les autres le prennent pour un boulet, ils le lâchent dès qu'il y a un problème. Franchement, au début, t'as presque pitié de lui.",
+   "grade": "bw",
+   "emphasis": [
+    "boulet"
+   ],
+   "scene": "a lonely adventurer sitting alone in the rain outside a tavern"
+  },
+  {
+   "text": "Et un jour, en grattant dans un coin paumé, il tombe sur un vieux bouquin. Le livre de Pagma, le forgeron légendaire du jeu.",
+   "sfx": true,
+   "emphasis": [
+    "Pagma"
+   ],
+   "scene": "an old glowing book found in a dark underground cave"
+  },
+  {
+   "text": "[excited] Résultat, il hérite d'une classe légendaire. Il peut forger des armes que personne d'autre au monde peut fabriquer.",
+   "stamp": "CHEATÉ",
+   "emphasis": [
+    "légendaire"
+   ],
+   "scene": "a blacksmith hammering a glowing sword on an anvil with sparks flying"
+  },
+  {
+   "text": "Sauf que, et c'est là que c'est drôle, Grid reste Grid. Radin, jaloux, il panique pour un rien et se plante toutes les deux minutes.",
+   "emphasis": [
+    "radin"
+   ],
+   "scene": "a nervous young man sweating and panicking in front of a crowd"
+  },
+  {
+   "text": "Si toi aussi tu kiffes les héros qui partent de zéro, abonne-toi, j'en sors une reco comme ça tous les jours.",
+   "cta": true
+  },
+  {
+   "text": "Et petit à petit, ses armes font parler de lui. Les joueurs qui se moquaient commencent à venir le supplier pour un équipement.",
+   "emphasis": [
+    "supplier"
+   ],
+   "scene": "warriors lining up in front of a blacksmith forge holding gold coins"
+  },
+  {
+   "text": "Il monte sa guilde avec une bande de gars aussi chelous que lui, et il se retrouve face à Kraugel, le joueur numéro un du classement mondial.",
+   "sfx": true,
+   "emphasis": [
+    "Kraugel"
+   ],
+   "scene": "two swordsmen facing each other on a battlefield before a duel"
+  },
+  {
+   "text": "[laughing] Le mec qui se faisait recaler de tous les groupes se retrouve à jouer dans la cour des tout meilleurs. J'te jure, c'est jouissif.",
+   "emphasis": [
+    "jouissif"
+   ],
+   "scene": "an armored warrior raising a glowing sword in front of a cheering army"
+  },
+  {
+   "text": "Moi ce qui m'a accroché, c'est qu'il devient fort sans jamais devenir cool. Il garde ses défauts, et c'est pour ça que tu t'attaches.",
+   "emphasis": [
+    "normal"
+   ],
+   "scene": "a young man smiling awkwardly while holding a forged weapon"
+  },
+  {
+   "text": "C'est un manhwa qui tourne depuis des années sur Webtoon, et l'adaptation animée est en train de sortir en ce moment.",
+   "emphasis": [
+    "Webtoon"
+   ],
+   "scene": "a huge fantasy castle on a hill under a bright sky",
+   "shots": [
+    {
+     "kind": "poster"
+    }
+   ]
+  },
+  {
+   "text": "Ça s'appelle Overgeared. Commence l'anime, et si t'accroches, fonce sur le manhwa. Dis-moi en com' si tu l'avais déjà vu passer.",
+   "emphasis": [
+    "Overgeared"
+   ],
+   "scene": "a blacksmith hero in shining armor standing proudly in front of his forge"
+  }
+ ],
+ "reveal_text": "Overgeared",
+ "reveal_segments": 1,
+ "caption": "Le pire joueur du serveur devient le forgeron que tout le monde supplie 🔨 tu le regardes ?",
+ "hashtags": [
+  "#anime",
+  "#manhwa",
+  "#animefr",
+  "#mangafr",
+  "#overgeared",
+  "#recommandationanime"
+ ]
+}

@@ -1,0 +1,204 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-29_1148/video.mp4",
+ "duration": 77.724,
+ "shots": 37,
+ "sources": [
+  "https://anilist.co/manga/117460",
+  "https://kitsu.io/anime/temppal-item-no-chikara"
+ ],
+ "plan": [
+  {
+   "character": null,
+   "fx": "hook",
+   "start": 0.0
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 1.5565
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 3.113
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 4.8765
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 6.64
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 8.433333333333334
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 10.226666666666667
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 12.02
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 14.41
+  },
+  {
+   "character": null,
+   "fx": "punch",
+   "start": 16.8
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 18.96
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 21.12
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 23.28
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 26.07
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 28.86
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 31.206666666666667
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 33.553333333333335
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 35.9
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 37.91
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 39.92
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 41.88
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 43.839999999999996
+  },
+  {
+   "character": null,
+   "fx": "punch",
+   "start": 45.8
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 47.82666666666667
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 49.85333333333333
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 51.88
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 53.77333333333333
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 55.66666666666667
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 57.56
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 60.14
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 62.72
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 65.42
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 68.12
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 70.09333333333333
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 72.06666666666666
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 74.03999999999999
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 75.882
+  }
+ ],
+ "engine": "ffmpeg (secours)",
+ "voice_engine": "fish",
+ "repo_path": "videos/2026/10/2026-10-29_1148.mp4",
+ "raw_url": "https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/videos/2026/10/2026-10-29_1148.mp4",
+ "lint": [
+  "hook_text > 15 mots"
+ ],
+ "render_seconds": 577.7
+}
