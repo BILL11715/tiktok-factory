@@ -1,0 +1,1657 @@
+{
+ "engine": "fish",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-29_2048/voice.wav",
+ "duration": 77.273,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 2.94,
+   "slot_end": 3.052,
+   "text": "Elle lui dit des mots doux en russe, sauf qu'il comprend tout.",
+   "words": [
+    {
+     "w": "Elle",
+     "start": 0.0,
+     "end": 0.14
+    },
+    {
+     "w": "lui",
+     "start": 0.14,
+     "end": 0.3
+    },
+    {
+     "w": "dit",
+     "start": 0.3,
+     "end": 0.44
+    },
+    {
+     "w": "des",
+     "start": 0.44,
+     "end": 0.6
+    },
+    {
+     "w": "mots",
+     "start": 0.6,
+     "end": 0.76
+    },
+    {
+     "w": "doux",
+     "start": 0.76,
+     "end": 1.06
+    },
+    {
+     "w": "en",
+     "start": 1.06,
+     "end": 1.3
+    },
+    {
+     "w": "russe,",
+     "start": 1.3,
+     "end": 1.86
+    },
+    {
+     "w": "sauf",
+     "start": 1.86,
+     "end": 2.16
+    },
+    {
+     "w": "qu'il",
+     "start": 2.16,
+     "end": 2.34
+    },
+    {
+     "w": "comprend",
+     "start": 2.34,
+     "end": 2.64
+    },
+    {
+     "w": "tout.",
+     "start": 2.64,
+     "end": 2.94
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 3.04,
+   "end": 7.1,
+   "slot_end": 7.229,
+   "text": "Et attends, parce que le plus gros secret de cet anime, c'est même pas ça. Reste jusqu'au bout.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 3.04,
+     "end": 3.14
+    },
+    {
+     "w": "attends,",
+     "start": 3.14,
+     "end": 3.3
+    },
+    {
+     "w": "parce",
+     "start": 3.42,
+     "end": 3.5
+    },
+    {
+     "w": "que",
+     "start": 3.5,
+     "end": 3.62
+    },
+    {
+     "w": "le",
+     "start": 3.62,
+     "end": 3.76
+    },
+    {
+     "w": "plus",
+     "start": 3.76,
+     "end": 3.92
+    },
+    {
+     "w": "gros",
+     "start": 3.92,
+     "end": 4.16
+    },
+    {
+     "w": "secret",
+     "start": 4.16,
+     "end": 4.62
+    },
+    {
+     "w": "de",
+     "start": 4.62,
+     "end": 4.8
+    },
+    {
+     "w": "cet",
+     "start": 4.8,
+     "end": 4.92
+    },
+    {
+     "w": "anime,",
+     "start": 4.92,
+     "end": 5.3
+    },
+    {
+     "w": "c'est",
+     "start": 5.4,
+     "end": 5.5
+    },
+    {
+     "w": "même",
+     "start": 5.5,
+     "end": 5.64
+    },
+    {
+     "w": "pas",
+     "start": 5.64,
+     "end": 5.82
+    },
+    {
+     "w": "ça.",
+     "start": 5.82,
+     "end": 6.0
+    },
+    {
+     "w": "Reste",
+     "start": 6.22,
+     "end": 6.5
+    },
+    {
+     "w": "jusqu'au",
+     "start": 6.5,
+     "end": 6.96
+    },
+    {
+     "w": "bout.",
+     "start": 6.96,
+     "end": 7.1
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 7.36,
+   "end": 11.64,
+   "slot_end": 11.772,
+   "text": "Alya, c'est la meuf parfaite du lycée. Première partout, super froide, personne n'ose l'approcher.",
+   "words": [
+    {
+     "w": "Alya,",
+     "start": 7.36,
+     "end": 7.48
+    },
+    {
+     "w": "c'est",
+     "start": 7.62,
+     "end": 7.7
+    },
+    {
+     "w": "la",
+     "start": 7.7,
+     "end": 7.82
+    },
+    {
+     "w": "meuf",
+     "start": 7.82,
+     "end": 8.02
+    },
+    {
+     "w": "parfaite",
+     "start": 8.02,
+     "end": 8.48
+    },
+    {
+     "w": "du",
+     "start": 8.48,
+     "end": 8.64
+    },
+    {
+     "w": "lycée.",
+     "start": 8.64,
+     "end": 8.92
+    },
+    {
+     "w": "Première",
+     "start": 9.08,
+     "end": 9.36
+    },
+    {
+     "w": "partout,",
+     "start": 9.36,
+     "end": 9.66
+    },
+    {
+     "w": "super",
+     "start": 9.88,
+     "end": 10.1
+    },
+    {
+     "w": "froide,",
+     "start": 10.1,
+     "end": 10.54
+    },
+    {
+     "w": "personne",
+     "start": 10.62,
+     "end": 10.86
+    },
+    {
+     "w": "n'ose",
+     "start": 10.86,
+     "end": 11.16
+    },
+    {
+     "w": "l'approcher.",
+     "start": 11.16,
+     "end": 11.64
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 11.84,
+   "end": 15.38,
+   "slot_end": 15.587,
+   "text": "Et à côté d'elle y'a Masachika, le mec qui dort en cours et qui passe ses nuits devant des animes.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 11.84,
+     "end": 11.89
+    },
+    {
+     "w": "à",
+     "start": 11.84,
+     "end": 11.96
+    },
+    {
+     "w": "côté",
+     "start": 11.96,
+     "end": 12.06
+    },
+    {
+     "w": "d'elle",
+     "start": 12.06,
+     "end": 12.24
+    },
+    {
+     "w": "y'a",
+     "start": 12.36,
+     "end": 12.42
+    },
+    {
+     "w": "Masachika,",
+     "start": 12.42,
+     "end": 12.88
+    },
+    {
+     "w": "le",
+     "start": 13.02,
+     "end": 13.12
+    },
+    {
+     "w": "mec",
+     "start": 13.12,
+     "end": 13.2
+    },
+    {
+     "w": "qui",
+     "start": 13.2,
+     "end": 13.4
+    },
+    {
+     "w": "dort",
+     "start": 13.4,
+     "end": 13.66
+    },
+    {
+     "w": "en",
+     "start": 13.66,
+     "end": 13.86
+    },
+    {
+     "w": "cours",
+     "start": 13.86,
+     "end": 14.06
+    },
+    {
+     "w": "et",
+     "start": 14.06,
+     "end": 14.2
+    },
+    {
+     "w": "qui",
+     "start": 14.2,
+     "end": 14.32
+    },
+    {
+     "w": "passe",
+     "start": 14.32,
+     "end": 14.46
+    },
+    {
+     "w": "ses",
+     "start": 14.46,
+     "end": 14.66
+    },
+    {
+     "w": "nuits",
+     "start": 14.66,
+     "end": 14.78
+    },
+    {
+     "w": "devant",
+     "start": 14.78,
+     "end": 14.96
+    },
+    {
+     "w": "des",
+     "start": 14.96,
+     "end": 15.18
+    },
+    {
+     "w": "animes.",
+     "start": 15.18,
+     "end": 15.38
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 15.58,
+   "end": 22.54,
+   "slot_end": 22.662,
+   "text": "Sauf que dès qu'il fait un truc mignon, Alya lui balance une petite phrase en russe, genre t'es trop chou. Elle est persuadée qu'il capte rien.",
+   "words": [
+    {
+     "w": "Sauf",
+     "start": 15.58,
+     "end": 15.86
+    },
+    {
+     "w": "que",
+     "start": 15.86,
+     "end": 16.0
+    },
+    {
+     "w": "dès",
+     "start": 16.0,
+     "end": 16.2
+    },
+    {
+     "w": "qu'il",
+     "start": 16.2,
+     "end": 16.32
+    },
+    {
+     "w": "fait",
+     "start": 16.32,
+     "end": 16.46
+    },
+    {
+     "w": "un",
+     "start": 16.46,
+     "end": 16.54
+    },
+    {
+     "w": "truc",
+     "start": 16.54,
+     "end": 16.68
+    },
+    {
+     "w": "mignon,",
+     "start": 16.68,
+     "end": 17.08
+    },
+    {
+     "w": "Alya",
+     "start": 17.36,
+     "end": 17.62
+    },
+    {
+     "w": "lui",
+     "start": 17.62,
+     "end": 17.78
+    },
+    {
+     "w": "balance",
+     "start": 17.78,
+     "end": 18.02
+    },
+    {
+     "w": "une",
+     "start": 18.02,
+     "end": 18.22
+    },
+    {
+     "w": "petite",
+     "start": 18.22,
+     "end": 18.38
+    },
+    {
+     "w": "phrase",
+     "start": 18.38,
+     "end": 18.64
+    },
+    {
+     "w": "en",
+     "start": 18.64,
+     "end": 18.84
+    },
+    {
+     "w": "russe,",
+     "start": 18.84,
+     "end": 19.64
+    },
+    {
+     "w": "genre",
+     "start": 19.72,
+     "end": 19.92
+    },
+    {
+     "w": "t'es",
+     "start": 20.04,
+     "end": 20.12
+    },
+    {
+     "w": "trop",
+     "start": 20.12,
+     "end": 20.28
+    },
+    {
+     "w": "chou.",
+     "start": 20.28,
+     "end": 20.5
+    },
+    {
+     "w": "Elle",
+     "start": 21.14,
+     "end": 21.28
+    },
+    {
+     "w": "est",
+     "start": 21.28,
+     "end": 21.38
+    },
+    {
+     "w": "persuadée",
+     "start": 21.38,
+     "end": 21.86
+    },
+    {
+     "w": "qu'il",
+     "start": 21.86,
+     "end": 22.04
+    },
+    {
+     "w": "capte",
+     "start": 22.04,
+     "end": 22.28
+    },
+    {
+     "w": "rien.",
+     "start": 22.28,
+     "end": 22.54
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 22.68,
+   "end": 28.06,
+   "slot_end": 28.197,
+   "text": "Lui il fait le mort. Il a appris le russe quand il était petit, et il garde ça pour lui depuis le premier épisode.",
+   "words": [
+    {
+     "w": "Lui",
+     "start": 22.68,
+     "end": 22.8
+    },
+    {
+     "w": "il",
+     "start": 22.8,
+     "end": 22.88
+    },
+    {
+     "w": "fait",
+     "start": 22.88,
+     "end": 22.93
+    },
+    {
+     "w": "le",
+     "start": 22.92,
+     "end": 22.97
+    },
+    {
+     "w": "mort.",
+     "start": 22.96,
+     "end": 23.12
+    },
+    {
+     "w": "Il",
+     "start": 23.8,
+     "end": 23.9
+    },
+    {
+     "w": "a",
+     "start": 23.9,
+     "end": 24.04
+    },
+    {
+     "w": "appris",
+     "start": 24.04,
+     "end": 24.2
+    },
+    {
+     "w": "le",
+     "start": 24.2,
+     "end": 24.4
+    },
+    {
+     "w": "russe",
+     "start": 24.4,
+     "end": 24.62
+    },
+    {
+     "w": "quand",
+     "start": 24.62,
+     "end": 24.74
+    },
+    {
+     "w": "il",
+     "start": 24.74,
+     "end": 24.86
+    },
+    {
+     "w": "était",
+     "start": 24.86,
+     "end": 25.0
+    },
+    {
+     "w": "petit,",
+     "start": 25.0,
+     "end": 25.34
+    },
+    {
+     "w": "et",
+     "start": 25.92,
+     "end": 26.0
+    },
+    {
+     "w": "il",
+     "start": 26.0,
+     "end": 26.12
+    },
+    {
+     "w": "garde",
+     "start": 26.12,
+     "end": 26.28
+    },
+    {
+     "w": "ça",
+     "start": 26.28,
+     "end": 26.52
+    },
+    {
+     "w": "pour",
+     "start": 26.52,
+     "end": 26.74
+    },
+    {
+     "w": "lui",
+     "start": 26.74,
+     "end": 26.88
+    },
+    {
+     "w": "depuis",
+     "start": 26.88,
+     "end": 27.1
+    },
+    {
+     "w": "le",
+     "start": 27.1,
+     "end": 27.36
+    },
+    {
+     "w": "premier",
+     "start": 27.36,
+     "end": 27.62
+    },
+    {
+     "w": "épisode.",
+     "start": 27.62,
+     "end": 28.06
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 28.06,
+   "end": 32.02,
+   "slot_end": 32.111,
+   "text": "Si toi aussi t'aimes les romcoms où tout le monde ment à tout le monde, abonne-toi, j'en raconte tous les soirs.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 28.06,
+     "end": 28.34
+    },
+    {
+     "w": "toi",
+     "start": 28.34,
+     "end": 28.54
+    },
+    {
+     "w": "aussi",
+     "start": 28.54,
+     "end": 28.72
+    },
+    {
+     "w": "t'aimes",
+     "start": 28.72,
+     "end": 28.94
+    },
+    {
+     "w": "les",
+     "start": 28.94,
+     "end": 29.08
+    },
+    {
+     "w": "romcoms",
+     "start": 29.08,
+     "end": 29.5
+    },
+    {
+     "w": "où",
+     "start": 29.5,
+     "end": 29.62
+    },
+    {
+     "w": "tout",
+     "start": 29.62,
+     "end": 29.74
+    },
+    {
+     "w": "le",
+     "start": 29.74,
+     "end": 29.8
+    },
+    {
+     "w": "monde",
+     "start": 29.8,
+     "end": 29.92
+    },
+    {
+     "w": "ment",
+     "start": 29.92,
+     "end": 30.12
+    },
+    {
+     "w": "à",
+     "start": 30.12,
+     "end": 30.26
+    },
+    {
+     "w": "tout",
+     "start": 30.26,
+     "end": 30.4
+    },
+    {
+     "w": "le",
+     "start": 30.4,
+     "end": 30.48
+    },
+    {
+     "w": "monde,",
+     "start": 30.48,
+     "end": 30.64
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 30.66,
+     "end": 31.06
+    },
+    {
+     "w": "j'en",
+     "start": 31.18,
+     "end": 31.3
+    },
+    {
+     "w": "raconte",
+     "start": 31.3,
+     "end": 31.54
+    },
+    {
+     "w": "tous",
+     "start": 31.54,
+     "end": 31.7
+    },
+    {
+     "w": "les",
+     "start": 31.7,
+     "end": 31.8
+    },
+    {
+     "w": "soirs.",
+     "start": 31.8,
+     "end": 32.02
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 32.1,
+   "end": 36.72,
+   "slot_end": 36.736,
+   "text": "Bref, au début tu crois que tout l'anime va tourner autour de cette blague. Et c'est là que ça dérape.",
+   "words": [
+    {
+     "w": "Bref,",
+     "start": 32.1,
+     "end": 32.3
+    },
+    {
+     "w": "au",
+     "start": 32.72,
+     "end": 32.86
+    },
+    {
+     "w": "début",
+     "start": 32.86,
+     "end": 33.04
+    },
+    {
+     "w": "tu",
+     "start": 33.04,
+     "end": 33.26
+    },
+    {
+     "w": "crois",
+     "start": 33.26,
+     "end": 33.46
+    },
+    {
+     "w": "que",
+     "start": 33.46,
+     "end": 33.62
+    },
+    {
+     "w": "tout",
+     "start": 33.62,
+     "end": 33.82
+    },
+    {
+     "w": "l'anime",
+     "start": 33.82,
+     "end": 34.26
+    },
+    {
+     "w": "va",
+     "start": 34.26,
+     "end": 34.44
+    },
+    {
+     "w": "tourner",
+     "start": 34.44,
+     "end": 34.74
+    },
+    {
+     "w": "autour",
+     "start": 34.74,
+     "end": 34.92
+    },
+    {
+     "w": "de",
+     "start": 34.92,
+     "end": 35.1
+    },
+    {
+     "w": "cette",
+     "start": 35.1,
+     "end": 35.24
+    },
+    {
+     "w": "blague.",
+     "start": 35.24,
+     "end": 35.78
+    },
+    {
+     "w": "Et",
+     "start": 35.9,
+     "end": 35.98
+    },
+    {
+     "w": "c'est",
+     "start": 35.98,
+     "end": 36.12
+    },
+    {
+     "w": "là",
+     "start": 36.12,
+     "end": 36.24
+    },
+    {
+     "w": "que",
+     "start": 36.24,
+     "end": 36.3
+    },
+    {
+     "w": "ça",
+     "start": 36.3,
+     "end": 36.4
+    },
+    {
+     "w": "dérape.",
+     "start": 36.4,
+     "end": 36.72
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 36.72,
+   "end": 41.76,
+   "slot_end": 41.881,
+   "text": "Alya veut devenir présidente du conseil des élèves, et elle demande à Masachika de faire campagne avec elle.",
+   "words": [
+    {
+     "w": "Alya",
+     "start": 36.72,
+     "end": 36.98
+    },
+    {
+     "w": "veut",
+     "start": 36.98,
+     "end": 37.1
+    },
+    {
+     "w": "devenir",
+     "start": 37.1,
+     "end": 37.4
+    },
+    {
+     "w": "présidente",
+     "start": 37.4,
+     "end": 37.92
+    },
+    {
+     "w": "du",
+     "start": 37.92,
+     "end": 38.22
+    },
+    {
+     "w": "conseil",
+     "start": 38.22,
+     "end": 38.58
+    },
+    {
+     "w": "des",
+     "start": 38.58,
+     "end": 38.74
+    },
+    {
+     "w": "élèves,",
+     "start": 38.74,
+     "end": 39.1
+    },
+    {
+     "w": "et",
+     "start": 39.38,
+     "end": 39.62
+    },
+    {
+     "w": "elle",
+     "start": 39.62,
+     "end": 39.7
+    },
+    {
+     "w": "demande",
+     "start": 39.7,
+     "end": 39.96
+    },
+    {
+     "w": "à",
+     "start": 39.96,
+     "end": 40.14
+    },
+    {
+     "w": "Masachika",
+     "start": 40.14,
+     "end": 40.62
+    },
+    {
+     "w": "de",
+     "start": 40.62,
+     "end": 40.8
+    },
+    {
+     "w": "faire",
+     "start": 40.8,
+     "end": 40.98
+    },
+    {
+     "w": "campagne",
+     "start": 40.98,
+     "end": 41.4
+    },
+    {
+     "w": "avec",
+     "start": 41.4,
+     "end": 41.58
+    },
+    {
+     "w": "elle.",
+     "start": 41.58,
+     "end": 41.76
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 41.88,
+   "end": 47.92,
+   "slot_end": 48.014,
+   "text": "Le problème, c'est Yuki. Sa pote d'enfance, la petite princesse ultra polie que tout le lycée adore, et qui se présente aussi.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 41.88,
+     "end": 41.98
+    },
+    {
+     "w": "problème,",
+     "start": 41.98,
+     "end": 42.18
+    },
+    {
+     "w": "c'est",
+     "start": 42.3,
+     "end": 42.44
+    },
+    {
+     "w": "Yuki.",
+     "start": 42.44,
+     "end": 42.8
+    },
+    {
+     "w": "Sa",
+     "start": 43.26,
+     "end": 43.44
+    },
+    {
+     "w": "pote",
+     "start": 43.44,
+     "end": 43.62
+    },
+    {
+     "w": "d'enfance,",
+     "start": 43.62,
+     "end": 44.06
+    },
+    {
+     "w": "la",
+     "start": 44.26,
+     "end": 44.34
+    },
+    {
+     "w": "petite",
+     "start": 44.34,
+     "end": 44.6
+    },
+    {
+     "w": "princesse",
+     "start": 44.6,
+     "end": 45.1
+    },
+    {
+     "w": "ultra",
+     "start": 45.1,
+     "end": 45.38
+    },
+    {
+     "w": "polie",
+     "start": 45.38,
+     "end": 45.76
+    },
+    {
+     "w": "que",
+     "start": 45.76,
+     "end": 45.92
+    },
+    {
+     "w": "tout",
+     "start": 45.92,
+     "end": 46.1
+    },
+    {
+     "w": "le",
+     "start": 46.1,
+     "end": 46.24
+    },
+    {
+     "w": "lycée",
+     "start": 46.24,
+     "end": 46.5
+    },
+    {
+     "w": "adore,",
+     "start": 46.5,
+     "end": 46.78
+    },
+    {
+     "w": "et",
+     "start": 47.0,
+     "end": 47.08
+    },
+    {
+     "w": "qui",
+     "start": 47.08,
+     "end": 47.18
+    },
+    {
+     "w": "se",
+     "start": 47.18,
+     "end": 47.32
+    },
+    {
+     "w": "présente",
+     "start": 47.32,
+     "end": 47.64
+    },
+    {
+     "w": "aussi.",
+     "start": 47.64,
+     "end": 47.92
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 48.06,
+   "end": 52.4,
+   "slot_end": 52.487,
+   "text": "Sauf que Yuki, c'est pas sa pote d'enfance. C'est sa sœur. Sa vraie sœur, du même sang.",
+   "words": [
+    {
+     "w": "Sauf",
+     "start": 48.06,
+     "end": 48.2
+    },
+    {
+     "w": "que",
+     "start": 48.2,
+     "end": 48.34
+    },
+    {
+     "w": "Yuki,",
+     "start": 48.34,
+     "end": 48.68
+    },
+    {
+     "w": "c'est",
+     "start": 48.88,
+     "end": 48.96
+    },
+    {
+     "w": "pas",
+     "start": 48.96,
+     "end": 49.08
+    },
+    {
+     "w": "sa",
+     "start": 49.08,
+     "end": 49.22
+    },
+    {
+     "w": "pote",
+     "start": 49.22,
+     "end": 49.34
+    },
+    {
+     "w": "d'enfance.",
+     "start": 49.34,
+     "end": 49.84
+    },
+    {
+     "w": "C'est",
+     "start": 49.96,
+     "end": 50.38
+    },
+    {
+     "w": "sa",
+     "start": 50.38,
+     "end": 50.52
+    },
+    {
+     "w": "sœur.",
+     "start": 50.52,
+     "end": 50.82
+    },
+    {
+     "w": "Sa",
+     "start": 51.14,
+     "end": 51.34
+    },
+    {
+     "w": "vraie",
+     "start": 51.34,
+     "end": 51.56
+    },
+    {
+     "w": "sœur,",
+     "start": 51.56,
+     "end": 51.88
+    },
+    {
+     "w": "du",
+     "start": 51.88,
+     "end": 52.02
+    },
+    {
+     "w": "même",
+     "start": 52.02,
+     "end": 52.16
+    },
+    {
+     "w": "sang.",
+     "start": 52.16,
+     "end": 52.4
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 52.4,
+   "end": 58.28,
+   "slot_end": 58.25,
+   "text": "Leurs parents se sont séparés, lui est parti vivre avec son père, elle est restée chez les Suou. Au lycée, personne n'est au courant.",
+   "words": [
+    {
+     "w": "Leurs",
+     "start": 52.4,
+     "end": 52.66
+    },
+    {
+     "w": "parents",
+     "start": 52.66,
+     "end": 52.9
+    },
+    {
+     "w": "se",
+     "start": 52.9,
+     "end": 53.08
+    },
+    {
+     "w": "sont",
+     "start": 53.08,
+     "end": 53.24
+    },
+    {
+     "w": "séparés,",
+     "start": 53.24,
+     "end": 53.66
+    },
+    {
+     "w": "lui",
+     "start": 53.74,
+     "end": 53.88
+    },
+    {
+     "w": "est",
+     "start": 53.88,
+     "end": 53.98
+    },
+    {
+     "w": "parti",
+     "start": 53.98,
+     "end": 54.28
+    },
+    {
+     "w": "vivre",
+     "start": 54.28,
+     "end": 54.46
+    },
+    {
+     "w": "avec",
+     "start": 54.46,
+     "end": 54.68
+    },
+    {
+     "w": "son",
+     "start": 54.68,
+     "end": 54.86
+    },
+    {
+     "w": "père,",
+     "start": 54.86,
+     "end": 55.14
+    },
+    {
+     "w": "elle",
+     "start": 55.14,
+     "end": 55.34
+    },
+    {
+     "w": "est",
+     "start": 55.34,
+     "end": 55.4
+    },
+    {
+     "w": "restée",
+     "start": 55.4,
+     "end": 55.7
+    },
+    {
+     "w": "chez",
+     "start": 55.7,
+     "end": 55.84
+    },
+    {
+     "w": "les",
+     "start": 55.84,
+     "end": 55.96
+    },
+    {
+     "w": "Suou.",
+     "start": 55.96,
+     "end": 56.25
+    },
+    {
+     "w": "Au",
+     "start": 56.25,
+     "end": 56.54
+    },
+    {
+     "w": "lycée,",
+     "start": 56.54,
+     "end": 56.83
+    },
+    {
+     "w": "personne",
+     "start": 56.83,
+     "end": 57.12
+    },
+    {
+     "w": "n'est",
+     "start": 57.12,
+     "end": 57.7
+    },
+    {
+     "w": "au",
+     "start": 57.7,
+     "end": 57.99
+    },
+    {
+     "w": "courant.",
+     "start": 57.99,
+     "end": 58.28
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 58.28,
+   "end": 65.92,
+   "slot_end": 66.007,
+   "text": "Donc Masachika doit faire gagner Alya contre sa propre sœur. Et Yuki, en vraie otaku, elle kiffe trop la situation, elle joue avec lui en permanence.",
+   "words": [
+    {
+     "w": "Donc",
+     "start": 58.28,
+     "end": 58.44
+    },
+    {
+     "w": "Masachika",
+     "start": 58.44,
+     "end": 59.06
+    },
+    {
+     "w": "doit",
+     "start": 59.06,
+     "end": 59.26
+    },
+    {
+     "w": "faire",
+     "start": 59.26,
+     "end": 59.4
+    },
+    {
+     "w": "gagner",
+     "start": 59.4,
+     "end": 59.66
+    },
+    {
+     "w": "Alya",
+     "start": 59.66,
+     "end": 59.96
+    },
+    {
+     "w": "contre",
+     "start": 59.96,
+     "end": 60.2
+    },
+    {
+     "w": "sa",
+     "start": 60.2,
+     "end": 60.42
+    },
+    {
+     "w": "propre",
+     "start": 60.42,
+     "end": 60.68
+    },
+    {
+     "w": "sœur.",
+     "start": 60.68,
+     "end": 61.4
+    },
+    {
+     "w": "Et",
+     "start": 61.4,
+     "end": 61.9
+    },
+    {
+     "w": "Yuki,",
+     "start": 61.9,
+     "end": 62.2
+    },
+    {
+     "w": "en",
+     "start": 62.2,
+     "end": 62.45
+    },
+    {
+     "w": "vraie",
+     "start": 62.45,
+     "end": 62.7
+    },
+    {
+     "w": "otaku,",
+     "start": 62.7,
+     "end": 63.02
+    },
+    {
+     "w": "elle",
+     "start": 63.28,
+     "end": 63.38
+    },
+    {
+     "w": "kiffe",
+     "start": 63.38,
+     "end": 63.62
+    },
+    {
+     "w": "trop",
+     "start": 63.62,
+     "end": 63.78
+    },
+    {
+     "w": "la",
+     "start": 63.78,
+     "end": 63.92
+    },
+    {
+     "w": "situation,",
+     "start": 63.92,
+     "end": 64.24
+    },
+    {
+     "w": "elle",
+     "start": 64.24,
+     "end": 64.58
+    },
+    {
+     "w": "joue",
+     "start": 64.58,
+     "end": 64.7
+    },
+    {
+     "w": "avec",
+     "start": 64.7,
+     "end": 64.9
+    },
+    {
+     "w": "lui",
+     "start": 64.9,
+     "end": 65.14
+    },
+    {
+     "w": "en",
+     "start": 65.14,
+     "end": 65.34
+    },
+    {
+     "w": "permanence.",
+     "start": 65.34,
+     "end": 65.92
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 66.0,
+   "end": 71.44,
+   "slot_end": 71.509,
+   "text": "Franchement c'est pour ça que cette romcom m'a eu. Chaque perso cache un truc, et la saison 2 est déjà annoncée.",
+   "words": [
+    {
+     "w": "Franchement",
+     "start": 66.0,
+     "end": 66.26
+    },
+    {
+     "w": "c'est",
+     "start": 66.32,
+     "end": 66.38
+    },
+    {
+     "w": "pour",
+     "start": 66.38,
+     "end": 66.52
+    },
+    {
+     "w": "ça",
+     "start": 66.52,
+     "end": 66.62
+    },
+    {
+     "w": "que",
+     "start": 66.62,
+     "end": 66.72
+    },
+    {
+     "w": "cette",
+     "start": 66.72,
+     "end": 66.88
+    },
+    {
+     "w": "romcom",
+     "start": 66.88,
+     "end": 67.22
+    },
+    {
+     "w": "m'a",
+     "start": 67.22,
+     "end": 67.44
+    },
+    {
+     "w": "eu.",
+     "start": 67.44,
+     "end": 67.56
+    },
+    {
+     "w": "Chaque",
+     "start": 67.86,
+     "end": 68.06
+    },
+    {
+     "w": "perso",
+     "start": 68.06,
+     "end": 68.4
+    },
+    {
+     "w": "cache",
+     "start": 68.4,
+     "end": 68.6
+    },
+    {
+     "w": "un",
+     "start": 68.6,
+     "end": 68.76
+    },
+    {
+     "w": "truc,",
+     "start": 68.76,
+     "end": 69.04
+    },
+    {
+     "w": "et",
+     "start": 69.04,
+     "end": 69.78
+    },
+    {
+     "w": "la",
+     "start": 69.78,
+     "end": 69.92
+    },
+    {
+     "w": "saison",
+     "start": 69.92,
+     "end": 70.34
+    },
+    {
+     "w": "2",
+     "start": 70.34,
+     "end": 70.56
+    },
+    {
+     "w": "est",
+     "start": 70.56,
+     "end": 70.76
+    },
+    {
+     "w": "déjà",
+     "start": 70.76,
+     "end": 71.0
+    },
+    {
+     "w": "annoncée.",
+     "start": 71.0,
+     "end": 71.44
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 71.52,
+   "end": 73.665,
+   "slot_end": 73.725,
+   "text": "Dis-moi en com', t'aurais capté le russe d'Alya, toi ?",
+   "words": [
+    {
+     "w": "Dis-moi",
+     "start": 71.52,
+     "end": 71.6
+    },
+    {
+     "w": "en",
+     "start": 71.6,
+     "end": 71.7
+    },
+    {
+     "w": "com',",
+     "start": 71.7,
+     "end": 71.88
+    },
+    {
+     "w": "t'aurais",
+     "start": 72.32,
+     "end": 72.52
+    },
+    {
+     "w": "capté",
+     "start": 72.52,
+     "end": 72.8
+    },
+    {
+     "w": "le",
+     "start": 72.8,
+     "end": 72.94
+    },
+    {
+     "w": "russe",
+     "start": 72.94,
+     "end": 73.2
+    },
+    {
+     "w": "d'Alya,",
+     "start": 73.2,
+     "end": 73.44
+    },
+    {
+     "w": "toi",
+     "start": 73.44,
+     "end": 73.6
+    },
+    {
+     "w": "?",
+     "start": 73.6,
+     "end": 73.665
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "start": 73.7,
+   "end": 76.46,
+   "slot_end": 77.273,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 73.7,
+     "end": 73.92
+    },
+    {
+     "w": "Asura.",
+     "start": 73.92,
+     "end": 74.44
+    },
+    {
+     "w": "On",
+     "start": 75.14,
+     "end": 75.28
+    },
+    {
+     "w": "se",
+     "start": 75.28,
+     "end": 75.42
+    },
+    {
+     "w": "capte",
+     "start": 75.42,
+     "end": 75.72
+    },
+    {
+     "w": "au",
+     "start": 75.72,
+     "end": 75.82
+    },
+    {
+     "w": "prochain",
+     "start": 75.82,
+     "end": 76.06
+    },
+    {
+     "w": "épisode.",
+     "start": 76.06,
+     "end": 76.46
+    }
+   ]
+  }
+ ],
+ "aligned": 0.997
+}
