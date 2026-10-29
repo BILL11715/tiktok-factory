@@ -1,0 +1,140 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Anton,128,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,1,0,1,8,3,5,60,60,0
+Style: Hook,Anton,118,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,10,6,8,60,60,230
+Style: Tag,Anton,54,&H00FFFFFF,&H00FFFFFF,&H000000C8,&H000000C8,0,0,0,0,100,100,2,0,3,14,0,8,70,70,120
+Style: Rank,Anton,230,&H0000D4FF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,10,4,7,70,70,210
+Style: Reveal,Anton,150,&H0000D4FF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,1,0,1,9,4,5,60,60,0
+Style: Cta,Anton,76,&H00FFFFFF,&H00FFFFFF,&H001E1EFF,&H001E1EFF,0,0,0,0,100,100,2,0,3,22,0,5,60,60,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:03.11,0:00:03.90,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}Reste {\c&H00FFFFFF&}jusqu'au {\c&H00FFFFFF&}bout,
+Dialogue: 2,0:00:03.98,0:00:04.26,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}je {\c&H00FFFFFF&}te {\c&H00FFFFFF&}donne
+Dialogue: 2,0:00:04.26,0:00:04.92,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}le {\c&H0000D4FF&}nom,
+Dialogue: 2,0:00:04.92,0:00:05.60,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}et {\c&H00FFFFFF&}l'anime {\c&H00FFFFFF&}vient
+Dialogue: 2,0:00:05.60,0:00:06.16,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}tout {\c&H00FFFFFF&}juste {\c&H00FFFFFF&}de
+Dialogue: 2,0:00:06.16,0:00:06.48,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}sortir.
+Dialogue: 2,0:00:06.68,0:00:07.04,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}Le {\c&H00FFFFFF&}gars {\c&H00FFFFFF&}s'appelle
+Dialogue: 2,0:00:07.04,0:00:07.46,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H0000D4FF&}Grid.
+Dialogue: 2,0:00:07.80,0:00:08.16,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}Dans {\c&H00FFFFFF&}la {\c&H00FFFFFF&}vraie
+Dialogue: 2,0:00:08.16,0:00:08.28,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}vie,
+Dialogue: 2,0:00:08.36,0:00:08.82,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}il {\c&H00FFFFFF&}est {\c&H00FFFFFF&}fauché,
+Dialogue: 2,0:00:09.00,0:00:09.48,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}il {\c&H00FFFFFF&}galère {\c&H00FFFFFF&}sur
+Dialogue: 2,0:00:09.48,0:00:09.98,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}des {\c&H00FFFFFF&}chantiers,
+Dialogue: 2,0:00:09.98,0:00:10.38,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}et {\c&H00FFFFFF&}dans {\c&H00FFFFFF&}le
+Dialogue: 2,0:00:10.38,0:00:10.74,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}jeu {\c&H00FFFFFF&}VR,
+Dialogue: 2,0:00:10.88,0:00:11.42,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}c'est {\c&H00FFFFFF&}la {\c&H00FFFFFF&}risée
+Dialogue: 2,0:00:11.42,0:00:11.94,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}du {\c&H00FFFFFF&}serveur.
+Dialogue: 2,0:00:12.02,0:00:12.46,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}Les {\c&H00FFFFFF&}autres {\c&H00FFFFFF&}le
+Dialogue: 2,0:00:12.46,0:00:12.96,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}prennent {\c&H00FFFFFF&}pour {\c&H00FFFFFF&}un
+Dialogue: 2,0:00:12.96,0:00:13.26,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H0000D4FF&}boulet,
+Dialogue: 2,0:00:13.48,0:00:14.06,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}ils {\c&H00FFFFFF&}le {\c&H00FFFFFF&}lâchent
+Dialogue: 2,0:00:14.06,0:00:14.52,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}dès {\c&H00FFFFFF&}qu'il {\c&H00FFFFFF&}y
+Dialogue: 2,0:00:14.52,0:00:14.82,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}a {\c&H00FFFFFF&}un {\c&H00FFFFFF&}problème.
+Dialogue: 2,0:00:15.24,0:00:15.50,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}Franchement,
+Dialogue: 2,0:00:15.52,0:00:15.72,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}au {\c&H00FFFFFF&}début,
+Dialogue: 2,0:00:15.82,0:00:16.44,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}t'as {\c&H00FFFFFF&}presque {\c&H00FFFFFF&}pitié
+Dialogue: 2,0:00:16.44,0:00:16.68,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}de {\c&H00FFFFFF&}lui.
+Dialogue: 2,0:00:16.80,0:00:17.16,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}Et {\c&H00FFFFFF&}un {\c&H00FFFFFF&}jour,
+Dialogue: 2,0:00:17.46,0:00:18.08,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}en {\c&H00FFFFFF&}grattant {\c&H00FFFFFF&}dans
+Dialogue: 2,0:00:18.08,0:00:18.72,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}un {\c&H00FFFFFF&}coin {\c&H00FFFFFF&}paumé,
+Dialogue: 2,0:00:18.96,0:00:19.40,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}il {\c&H00FFFFFF&}tombe {\c&H00FFFFFF&}sur
+Dialogue: 2,0:00:19.40,0:00:20.06,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}un {\c&H00FFFFFF&}vieux {\c&H00FFFFFF&}bouquin.
+Dialogue: 2,0:00:20.56,0:00:21.14,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}Le {\c&H00FFFFFF&}livre {\c&H00FFFFFF&}de
+Dialogue: 2,0:00:21.14,0:00:21.48,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H0000D4FF&}Pagma,
+Dialogue: 2,0:00:21.48,0:00:22.82,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}le {\c&H00FFFFFF&}forgeron {\c&H0000D4FF&}légendaire
+Dialogue: 2,0:00:22.82,0:00:23.14,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}du {\c&H00FFFFFF&}jeu.
+Dialogue: 2,0:00:23.28,0:00:23.64,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}Résultat,
+Dialogue: 2,0:00:23.84,0:00:24.40,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}il {\c&H00FFFFFF&}hérite {\c&H00FFFFFF&}d'une
+Dialogue: 2,0:00:24.40,0:00:25.66,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}classe {\c&H0000D4FF&}légendaire.
+Dialogue: 2,0:00:26.16,0:00:26.78,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}Il {\c&H00FFFFFF&}peut {\c&H00FFFFFF&}forger
+Dialogue: 2,0:00:26.78,0:00:27.38,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}des {\c&H00FFFFFF&}armes {\c&H00FFFFFF&}que
+Dialogue: 2,0:00:27.38,0:00:27.98,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}personne {\c&H00FFFFFF&}d'autre
+Dialogue: 2,0:00:27.98,0:00:28.44,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}au {\c&H00FFFFFF&}monde {\c&H00FFFFFF&}peut
+Dialogue: 2,0:00:28.44,0:00:28.86,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}fabriquer.
+Dialogue: 2,0:00:28.86,0:00:29.26,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}Sauf {\c&H00FFFFFF&}que,
+Dialogue: 2,0:00:29.48,0:00:29.78,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}et {\c&H00FFFFFF&}c'est {\c&H00FFFFFF&}là
+Dialogue: 2,0:00:29.78,0:00:30.20,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}que {\c&H00FFFFFF&}c'est {\c&H00FFFFFF&}drôle,
+Dialogue: 2,0:00:30.58,0:00:31.34,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H0000D4FF&}Grid {\c&H00FFFFFF&}reste {\c&H0000D4FF&}Grid.
+Dialogue: 2,0:00:31.82,0:00:32.34,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H0000D4FF&}Radin,
+Dialogue: 2,0:00:32.50,0:00:32.74,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}jaloux,
+Dialogue: 2,0:00:33.14,0:00:33.78,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}il {\c&H00FFFFFF&}panique {\c&H00FFFFFF&}pour
+Dialogue: 2,0:00:33.78,0:00:34.56,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}un {\c&H00FFFFFF&}rien {\c&H00FFFFFF&}et
+Dialogue: 2,0:00:34.56,0:00:35.22,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}se {\c&H00FFFFFF&}plante {\c&H00FFFFFF&}toutes
+Dialogue: 2,0:00:35.22,0:00:35.80,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}les {\c&H00FFFFFF&}deux {\c&H00FFFFFF&}minutes.
+Dialogue: 2,0:00:35.90,0:00:36.34,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}Si {\c&H00FFFFFF&}toi {\c&H00FFFFFF&}aussi
+Dialogue: 2,0:00:36.34,0:00:36.88,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}tu {\c&H00FFFFFF&}kiffes {\c&H00FFFFFF&}les
+Dialogue: 2,0:00:36.88,0:00:37.50,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}héros {\c&H00FFFFFF&}qui {\c&H00FFFFFF&}partent
+Dialogue: 2,0:00:37.50,0:00:37.86,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}de {\c&H00FFFFFF&}zéro,
+Dialogue: 2,0:00:38.06,0:00:38.42,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}abonne-toi,
+Dialogue: 2,0:00:38.56,0:00:38.88,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}j'en {\c&H00FFFFFF&}sors {\c&H00FFFFFF&}une
+Dialogue: 2,0:00:38.88,0:00:39.42,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}reco {\c&H00FFFFFF&}comme {\c&H00FFFFFF&}ça
+Dialogue: 2,0:00:39.42,0:00:39.82,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}tous {\c&H00FFFFFF&}les {\c&H00FFFFFF&}jours.
+Dialogue: 5,0:00:35.90,0:00:40.24,Cta,,0,0,0,,{\pos(540,1640)\fscx30\fscy30\t(0,140,\fscx112\fscy112)\t(140,240,\fscx100\fscy100)\t(900,1000,\frz-4)\t(1000,1100,\frz4)\t(1100,1200,\frz0)}+ ABONNE-TOI
+Dialogue: 2,0:00:39.92,0:00:40.36,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}Et {\c&H00FFFFFF&}petit {\c&H00FFFFFF&}à
+Dialogue: 2,0:00:40.36,0:00:40.60,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}petit,
+Dialogue: 2,0:00:40.92,0:00:41.44,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}ses {\c&H00FFFFFF&}armes {\c&H00FFFFFF&}font
+Dialogue: 2,0:00:41.44,0:00:41.96,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}parler {\c&H00FFFFFF&}de {\c&H00FFFFFF&}lui.
+Dialogue: 2,0:00:42.52,0:00:43.06,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}Les {\c&H00FFFFFF&}joueurs {\c&H00FFFFFF&}qui
+Dialogue: 2,0:00:43.06,0:00:43.82,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}se {\c&H00FFFFFF&}moquaient {\c&H00FFFFFF&}commencent
+Dialogue: 2,0:00:43.82,0:00:44.48,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}à {\c&H00FFFFFF&}venir {\c&H00FFFFFF&}le
+Dialogue: 2,0:00:44.48,0:00:45.28,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H0000D4FF&}supplier {\c&H00FFFFFF&}pour {\c&H00FFFFFF&}un
+Dialogue: 2,0:00:45.28,0:00:45.70,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}équipement.
+Dialogue: 2,0:00:45.80,0:00:46.20,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}Il {\c&H00FFFFFF&}monte {\c&H00FFFFFF&}sa
+Dialogue: 2,0:00:46.20,0:00:46.90,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}guilde {\c&H00FFFFFF&}avec {\c&H00FFFFFF&}une
+Dialogue: 2,0:00:46.90,0:00:47.36,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}bande {\c&H00FFFFFF&}de {\c&H00FFFFFF&}gars
+Dialogue: 2,0:00:47.36,0:00:48.10,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}aussi {\c&H00FFFFFF&}chelous {\c&H00FFFFFF&}que
+Dialogue: 2,0:00:48.10,0:00:48.28,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}lui,
+Dialogue: 2,0:00:48.42,0:00:48.64,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}et {\c&H00FFFFFF&}il {\c&H00FFFFFF&}se
+Dialogue: 2,0:00:48.64,0:00:49.26,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}retrouve {\c&H00FFFFFF&}face {\c&H00FFFFFF&}à
+Dialogue: 2,0:00:49.26,0:00:49.68,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H0000D4FF&}Kraugel,
+Dialogue: 2,0:00:49.82,0:00:50.30,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}le {\c&H00FFFFFF&}joueur {\c&H00FFFFFF&}numéro
+Dialogue: 2,0:00:50.30,0:00:51.04,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}un {\c&H00FFFFFF&}du {\c&H00FFFFFF&}classement
+Dialogue: 2,0:00:51.04,0:00:51.44,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}mondial.
+Dialogue: 2,0:00:51.88,0:00:52.28,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}Le {\c&H00FFFFFF&}mec {\c&H00FFFFFF&}qui
+Dialogue: 2,0:00:52.28,0:00:52.78,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}se {\c&H00FFFFFF&}faisait {\c&H00FFFFFF&}recaler
+Dialogue: 2,0:00:52.78,0:00:53.18,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}de {\c&H00FFFFFF&}tous {\c&H00FFFFFF&}les
+Dialogue: 2,0:00:53.18,0:00:53.84,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}groupes {\c&H00FFFFFF&}se {\c&H00FFFFFF&}retrouve
+Dialogue: 2,0:00:53.84,0:00:54.34,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}à {\c&H00FFFFFF&}jouer {\c&H00FFFFFF&}dans
+Dialogue: 2,0:00:54.34,0:00:55.03,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}la {\c&H00FFFFFF&}cour {\c&H00FFFFFF&}des
+Dialogue: 2,0:00:55.03,0:00:55.85,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}tout {\c&H00FFFFFF&}meilleurs.
+Dialogue: 2,0:00:55.85,0:00:56.72,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}J'te {\c&H00FFFFFF&}jure,
+Dialogue: 2,0:00:56.72,0:00:57.38,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}c'est {\c&H0000D4FF&}jouissif.
+Dialogue: 2,0:00:57.56,0:00:57.78,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}Moi {\c&H00FFFFFF&}ce {\c&H00FFFFFF&}qui
+Dialogue: 2,0:00:57.78,0:00:58.14,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}m'a {\c&H00FFFFFF&}accroché,
+Dialogue: 2,0:00:58.14,0:00:58.60,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}c'est {\c&H00FFFFFF&}qu'il {\c&H00FFFFFF&}devient
+Dialogue: 2,0:00:58.60,0:00:59.24,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}fort {\c&H00FFFFFF&}sans {\c&H00FFFFFF&}jamais
+Dialogue: 2,0:00:59.24,0:00:59.84,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}devenir {\c&H00FFFFFF&}cool.
+Dialogue: 2,0:01:00.26,0:01:01.16,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}Il {\c&H00FFFFFF&}garde {\c&H00FFFFFF&}ses
+Dialogue: 2,0:01:01.16,0:01:01.56,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}défauts,
+Dialogue: 2,0:01:01.56,0:01:01.90,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}et {\c&H00FFFFFF&}c'est {\c&H00FFFFFF&}pour
+Dialogue: 2,0:01:01.90,0:01:02.26,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}ça {\c&H00FFFFFF&}que {\c&H00FFFFFF&}tu
+Dialogue: 2,0:01:02.26,0:01:02.66,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}t'attaches.
+Dialogue: 2,0:01:02.76,0:01:03.20,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}C'est {\c&H00FFFFFF&}un {\c&H00FFFFFF&}manhwa
+Dialogue: 2,0:01:03.20,0:01:03.80,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}qui {\c&H00FFFFFF&}tourne {\c&H00FFFFFF&}depuis
+Dialogue: 2,0:01:03.80,0:01:04.42,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}des {\c&H00FFFFFF&}années {\c&H00FFFFFF&}sur
+Dialogue: 2,0:01:04.42,0:01:05.00,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H0000D4FF&}Webtoon,
+Dialogue: 2,0:01:05.00,0:01:06.02,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}et {\c&H00FFFFFF&}l'adaptation
+Dialogue: 2,0:01:06.02,0:01:06.78,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}animée {\c&H00FFFFFF&}est {\c&H00FFFFFF&}en
+Dialogue: 2,0:01:06.78,0:01:07.32,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}train {\c&H00FFFFFF&}de {\c&H00FFFFFF&}sortir
+Dialogue: 2,0:01:07.32,0:01:08.04,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}en {\c&H00FFFFFF&}ce {\c&H00FFFFFF&}moment.
+Dialogue: 2,0:01:08.12,0:01:09.14,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}Ça {\c&H00FFFFFF&}s'appelle {\c&H0000D4FF&}Overgeared.
+Dialogue: 2,0:01:09.42,0:01:10.08,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}Commence {\c&H00FFFFFF&}l'anime,
+Dialogue: 2,0:01:10.08,0:01:10.98,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}et {\c&H00FFFFFF&}si {\c&H00FFFFFF&}t'accroches,
+Dialogue: 2,0:01:10.98,0:01:11.74,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}fonce {\c&H00FFFFFF&}sur {\c&H00FFFFFF&}le
+Dialogue: 2,0:01:11.74,0:01:12.10,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}manhwa.
+Dialogue: 2,0:01:12.44,0:01:12.92,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}Dis-moi {\c&H00FFFFFF&}en {\c&H00FFFFFF&}com'
+Dialogue: 2,0:01:12.92,0:01:13.38,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}si {\c&H00FFFFFF&}tu {\c&H00FFFFFF&}l'avais
+Dialogue: 2,0:01:13.38,0:01:13.96,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}déjà {\c&H00FFFFFF&}vu {\c&H00FFFFFF&}passer.
+Dialogue: 2,0:01:14.08,0:01:14.80,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}C'était {\c&H00FFFFFF&}Asura.
+Dialogue: 2,0:01:15.46,0:01:16.14,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}On {\c&H00FFFFFF&}se {\c&H00FFFFFF&}capte
+Dialogue: 2,0:01:16.14,0:01:16.98,Sub,,0,0,0,,{\pos(540,1330)\fscx78\fscy78\t(0,80,\fscx104\fscy104)\t(80,140,\fscx100\fscy100)}{\c&H00FFFFFF&}au {\c&H00FFFFFF&}prochain {\c&H00FFFFFF&}épisode.
+Dialogue: 6,0:00:00.00,0:00:03.34,Hook,,0,0,0,,{\fscx120\fscy120\t(0,200,\fscx100\fscy100)}{\alpha&HFF&\c&H00FFFFFF&\t(80,120,\alpha&H00&)}CE {\alpha&HFF&\c&H00FFFFFF&\t(167,207,\alpha&H00&)}MEC {\alpha&HFF&\c&H00FFFFFF&\t(254,294,\alpha&H00&)}ÉTAIT {\alpha&HFF&\c&H00FFFFFF&\t(341,381,\alpha&H00&)}LE {\alpha&HFF&\c&H00FFFFFF&\t(428,468,\alpha&H00&)}PIRE {\alpha&HFF&\c&H00FFFFFF&\t(515,555,\alpha&H00&)}JOUEUR {\alpha&HFF&\c&H00FFFFFF&\t(602,642,\alpha&H00&)}DU {\alpha&HFF&\c&H00FFFFFF&\t(689,729,\alpha&H00&)}JEU {\alpha&HFF&\c&H00FFFFFF&\t(776,816,\alpha&H00&)}ET {\alpha&HFF&\c&H00FFFFFF&\t(863,903,\alpha&H00&)}IL {\alpha&HFF&\c&H00FFFFFF&\t(950,990,\alpha&H00&)}TROUVE {\alpha&HFF&\c&H00FFFFFF&\t(1037,1077,\alpha&H00&)}LA {\alpha&HFF&\c&H00FFFFFF&\t(1124,1164,\alpha&H00&)}CLASSE {\alpha&HFF&\c&H00FFFFFF&\t(1211,1251,\alpha&H00&)}LA {\alpha&HFF&\c&H00FFFFFF&\t(1298,1338,\alpha&H00&)}PLUS {\alpha&HFF&\c&H0000D4FF&\t(1385,1425,\alpha&H00&)}CHEATÉE
+Dialogue: 4,0:01:08.12,0:01:17.72,Reveal,,0,0,0,,{\pos(540,560)\fscx50\fscy50\t(0,160,\fscx110\fscy110)\t(160,260,\fscx100\fscy100)}OVERGEARED

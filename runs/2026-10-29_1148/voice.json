@@ -1,0 +1,1728 @@
+{
+ "engine": "fish",
+ "path": "/home/claude/tiktok-factory/runs/2026-10-29_1148/voice.wav",
+ "duration": 77.724,
+ "timeline": [
+  {
+   "index": 0,
+   "start": 0.0,
+   "end": 3.113,
+   "slot_end": 3.344,
+   "text": "Ce mec était le pire joueur du jeu, et il trouve la classe la plus cheatée.",
+   "words": [
+    {
+     "w": "Ce",
+     "start": 0.0,
+     "end": 0.14
+    },
+    {
+     "w": "mec",
+     "start": 0.14,
+     "end": 0.26
+    },
+    {
+     "w": "était",
+     "start": 0.26,
+     "end": 0.46
+    },
+    {
+     "w": "le",
+     "start": 0.46,
+     "end": 0.66
+    },
+    {
+     "w": "pire",
+     "start": 0.66,
+     "end": 0.88
+    },
+    {
+     "w": "joueur",
+     "start": 0.88,
+     "end": 1.14
+    },
+    {
+     "w": "du",
+     "start": 1.14,
+     "end": 1.28
+    },
+    {
+     "w": "jeu,",
+     "start": 1.28,
+     "end": 1.46
+    },
+    {
+     "w": "et",
+     "start": 1.46,
+     "end": 1.66
+    },
+    {
+     "w": "il",
+     "start": 1.66,
+     "end": 1.76
+    },
+    {
+     "w": "trouve",
+     "start": 1.76,
+     "end": 1.96
+    },
+    {
+     "w": "la",
+     "start": 1.96,
+     "end": 2.18
+    },
+    {
+     "w": "classe",
+     "start": 2.18,
+     "end": 2.5
+    },
+    {
+     "w": "la",
+     "start": 2.5,
+     "end": 2.66
+    },
+    {
+     "w": "plus",
+     "start": 2.66,
+     "end": 2.82
+    },
+    {
+     "w": "cheatée.",
+     "start": 2.82,
+     "end": 3.113
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "start": 3.113,
+   "end": 6.48,
+   "slot_end": 6.632,
+   "text": "Reste jusqu'au bout, je te donne le nom, et l'anime vient tout juste de sortir.",
+   "words": [
+    {
+     "w": "Reste",
+     "start": 3.113,
+     "end": 3.407
+    },
+    {
+     "w": "jusqu'au",
+     "start": 3.407,
+     "end": 3.76
+    },
+    {
+     "w": "bout,",
+     "start": 3.76,
+     "end": 3.9
+    },
+    {
+     "w": "je",
+     "start": 3.98,
+     "end": 4.03
+    },
+    {
+     "w": "te",
+     "start": 4.0,
+     "end": 4.08
+    },
+    {
+     "w": "donne",
+     "start": 4.08,
+     "end": 4.26
+    },
+    {
+     "w": "le",
+     "start": 4.26,
+     "end": 4.44
+    },
+    {
+     "w": "nom,",
+     "start": 4.44,
+     "end": 4.92
+    },
+    {
+     "w": "et",
+     "start": 4.92,
+     "end": 5.1
+    },
+    {
+     "w": "l'anime",
+     "start": 5.1,
+     "end": 5.4
+    },
+    {
+     "w": "vient",
+     "start": 5.4,
+     "end": 5.6
+    },
+    {
+     "w": "tout",
+     "start": 5.6,
+     "end": 5.76
+    },
+    {
+     "w": "juste",
+     "start": 5.76,
+     "end": 5.96
+    },
+    {
+     "w": "de",
+     "start": 5.96,
+     "end": 6.16
+    },
+    {
+     "w": "sortir.",
+     "start": 6.16,
+     "end": 6.48
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "start": 6.68,
+   "end": 11.94,
+   "slot_end": 12.022,
+   "text": "Le gars s'appelle Grid. Dans la vraie vie, il est fauché, il galère sur des chantiers, et dans le jeu VR, c'est la risée du serveur.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 6.68,
+     "end": 6.73
+    },
+    {
+     "w": "gars",
+     "start": 6.72,
+     "end": 6.82
+    },
+    {
+     "w": "s'appelle",
+     "start": 6.82,
+     "end": 7.04
+    },
+    {
+     "w": "Grid.",
+     "start": 7.04,
+     "end": 7.46
+    },
+    {
+     "w": "Dans",
+     "start": 7.8,
+     "end": 7.92
+    },
+    {
+     "w": "la",
+     "start": 7.92,
+     "end": 8.02
+    },
+    {
+     "w": "vraie",
+     "start": 8.02,
+     "end": 8.16
+    },
+    {
+     "w": "vie,",
+     "start": 8.16,
+     "end": 8.28
+    },
+    {
+     "w": "il",
+     "start": 8.36,
+     "end": 8.41
+    },
+    {
+     "w": "est",
+     "start": 8.38,
+     "end": 8.48
+    },
+    {
+     "w": "fauché,",
+     "start": 8.48,
+     "end": 8.82
+    },
+    {
+     "w": "il",
+     "start": 9.0,
+     "end": 9.05
+    },
+    {
+     "w": "galère",
+     "start": 9.02,
+     "end": 9.3
+    },
+    {
+     "w": "sur",
+     "start": 9.3,
+     "end": 9.48
+    },
+    {
+     "w": "des",
+     "start": 9.48,
+     "end": 9.62
+    },
+    {
+     "w": "chantiers,",
+     "start": 9.62,
+     "end": 9.98
+    },
+    {
+     "w": "et",
+     "start": 9.98,
+     "end": 10.18
+    },
+    {
+     "w": "dans",
+     "start": 10.18,
+     "end": 10.28
+    },
+    {
+     "w": "le",
+     "start": 10.28,
+     "end": 10.38
+    },
+    {
+     "w": "jeu",
+     "start": 10.38,
+     "end": 10.5
+    },
+    {
+     "w": "VR,",
+     "start": 10.5,
+     "end": 10.74
+    },
+    {
+     "w": "c'est",
+     "start": 10.88,
+     "end": 11.04
+    },
+    {
+     "w": "la",
+     "start": 11.04,
+     "end": 11.18
+    },
+    {
+     "w": "risée",
+     "start": 11.18,
+     "end": 11.42
+    },
+    {
+     "w": "du",
+     "start": 11.42,
+     "end": 11.6
+    },
+    {
+     "w": "serveur.",
+     "start": 11.6,
+     "end": 11.94
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "start": 12.02,
+   "end": 16.68,
+   "slot_end": 16.777,
+   "text": "Les autres le prennent pour un boulet, ils le lâchent dès qu'il y a un problème. Franchement, au début, t'as presque pitié de lui.",
+   "words": [
+    {
+     "w": "Les",
+     "start": 12.02,
+     "end": 12.16
+    },
+    {
+     "w": "autres",
+     "start": 12.16,
+     "end": 12.28
+    },
+    {
+     "w": "le",
+     "start": 12.28,
+     "end": 12.46
+    },
+    {
+     "w": "prennent",
+     "start": 12.46,
+     "end": 12.66
+    },
+    {
+     "w": "pour",
+     "start": 12.66,
+     "end": 12.84
+    },
+    {
+     "w": "un",
+     "start": 12.84,
+     "end": 12.96
+    },
+    {
+     "w": "boulet,",
+     "start": 12.96,
+     "end": 13.26
+    },
+    {
+     "w": "ils",
+     "start": 13.48,
+     "end": 13.66
+    },
+    {
+     "w": "le",
+     "start": 13.66,
+     "end": 13.88
+    },
+    {
+     "w": "lâchent",
+     "start": 13.88,
+     "end": 14.06
+    },
+    {
+     "w": "dès",
+     "start": 14.06,
+     "end": 14.24
+    },
+    {
+     "w": "qu'il",
+     "start": 14.24,
+     "end": 14.4
+    },
+    {
+     "w": "y",
+     "start": 14.4,
+     "end": 14.52
+    },
+    {
+     "w": "a",
+     "start": 14.52,
+     "end": 14.57
+    },
+    {
+     "w": "un",
+     "start": 14.52,
+     "end": 14.58
+    },
+    {
+     "w": "problème.",
+     "start": 14.58,
+     "end": 14.82
+    },
+    {
+     "w": "Franchement,",
+     "start": 15.24,
+     "end": 15.5
+    },
+    {
+     "w": "au",
+     "start": 15.52,
+     "end": 15.6
+    },
+    {
+     "w": "début,",
+     "start": 15.6,
+     "end": 15.72
+    },
+    {
+     "w": "t'as",
+     "start": 15.82,
+     "end": 15.92
+    },
+    {
+     "w": "presque",
+     "start": 15.92,
+     "end": 16.1
+    },
+    {
+     "w": "pitié",
+     "start": 16.1,
+     "end": 16.44
+    },
+    {
+     "w": "de",
+     "start": 16.44,
+     "end": 16.58
+    },
+    {
+     "w": "lui.",
+     "start": 16.58,
+     "end": 16.68
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "start": 16.8,
+   "end": 23.14,
+   "slot_end": 23.269,
+   "text": "Et un jour, en grattant dans un coin paumé, il tombe sur un vieux bouquin. Le livre de Pagma, le forgeron légendaire du jeu.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 16.8,
+     "end": 16.86
+    },
+    {
+     "w": "un",
+     "start": 16.86,
+     "end": 16.94
+    },
+    {
+     "w": "jour,",
+     "start": 16.94,
+     "end": 17.16
+    },
+    {
+     "w": "en",
+     "start": 17.46,
+     "end": 17.56
+    },
+    {
+     "w": "grattant",
+     "start": 17.56,
+     "end": 17.9
+    },
+    {
+     "w": "dans",
+     "start": 17.9,
+     "end": 18.08
+    },
+    {
+     "w": "un",
+     "start": 18.08,
+     "end": 18.26
+    },
+    {
+     "w": "coin",
+     "start": 18.26,
+     "end": 18.38
+    },
+    {
+     "w": "paumé,",
+     "start": 18.38,
+     "end": 18.72
+    },
+    {
+     "w": "il",
+     "start": 18.96,
+     "end": 19.01
+    },
+    {
+     "w": "tombe",
+     "start": 18.98,
+     "end": 19.24
+    },
+    {
+     "w": "sur",
+     "start": 19.24,
+     "end": 19.4
+    },
+    {
+     "w": "un",
+     "start": 19.4,
+     "end": 19.6
+    },
+    {
+     "w": "vieux",
+     "start": 19.6,
+     "end": 19.82
+    },
+    {
+     "w": "bouquin.",
+     "start": 19.82,
+     "end": 20.06
+    },
+    {
+     "w": "Le",
+     "start": 20.56,
+     "end": 20.74
+    },
+    {
+     "w": "livre",
+     "start": 20.74,
+     "end": 20.94
+    },
+    {
+     "w": "de",
+     "start": 20.94,
+     "end": 21.14
+    },
+    {
+     "w": "Pagma,",
+     "start": 21.14,
+     "end": 21.48
+    },
+    {
+     "w": "le",
+     "start": 21.48,
+     "end": 21.78
+    },
+    {
+     "w": "forgeron",
+     "start": 21.78,
+     "end": 22.26
+    },
+    {
+     "w": "légendaire",
+     "start": 22.26,
+     "end": 22.82
+    },
+    {
+     "w": "du",
+     "start": 22.82,
+     "end": 22.98
+    },
+    {
+     "w": "jeu.",
+     "start": 22.98,
+     "end": 23.14
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "start": 23.28,
+   "end": 28.86,
+   "slot_end": 28.931,
+   "text": "Résultat, il hérite d'une classe légendaire. Il peut forger des armes que personne d'autre au monde peut fabriquer.",
+   "words": [
+    {
+     "w": "Résultat,",
+     "start": 23.28,
+     "end": 23.64
+    },
+    {
+     "w": "il",
+     "start": 23.84,
+     "end": 23.92
+    },
+    {
+     "w": "hérite",
+     "start": 23.92,
+     "end": 24.18
+    },
+    {
+     "w": "d'une",
+     "start": 24.18,
+     "end": 24.4
+    },
+    {
+     "w": "classe",
+     "start": 24.4,
+     "end": 24.68
+    },
+    {
+     "w": "légendaire.",
+     "start": 24.68,
+     "end": 25.66
+    },
+    {
+     "w": "Il",
+     "start": 26.16,
+     "end": 26.32
+    },
+    {
+     "w": "peut",
+     "start": 26.32,
+     "end": 26.48
+    },
+    {
+     "w": "forger",
+     "start": 26.48,
+     "end": 26.78
+    },
+    {
+     "w": "des",
+     "start": 26.78,
+     "end": 26.98
+    },
+    {
+     "w": "armes",
+     "start": 26.98,
+     "end": 27.24
+    },
+    {
+     "w": "que",
+     "start": 27.24,
+     "end": 27.38
+    },
+    {
+     "w": "personne",
+     "start": 27.38,
+     "end": 27.68
+    },
+    {
+     "w": "d'autre",
+     "start": 27.68,
+     "end": 27.98
+    },
+    {
+     "w": "au",
+     "start": 27.98,
+     "end": 28.18
+    },
+    {
+     "w": "monde",
+     "start": 28.18,
+     "end": 28.26
+    },
+    {
+     "w": "peut",
+     "start": 28.26,
+     "end": 28.44
+    },
+    {
+     "w": "fabriquer.",
+     "start": 28.44,
+     "end": 28.86
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "start": 28.86,
+   "end": 35.8,
+   "slot_end": 35.914,
+   "text": "Sauf que, et c'est là que c'est drôle, Grid reste Grid. Radin, jaloux, il panique pour un rien et se plante toutes les deux minutes.",
+   "words": [
+    {
+     "w": "Sauf",
+     "start": 28.86,
+     "end": 29.06
+    },
+    {
+     "w": "que,",
+     "start": 29.06,
+     "end": 29.26
+    },
+    {
+     "w": "et",
+     "start": 29.48,
+     "end": 29.58
+    },
+    {
+     "w": "c'est",
+     "start": 29.58,
+     "end": 29.66
+    },
+    {
+     "w": "là",
+     "start": 29.66,
+     "end": 29.78
+    },
+    {
+     "w": "que",
+     "start": 29.78,
+     "end": 29.86
+    },
+    {
+     "w": "c'est",
+     "start": 29.86,
+     "end": 29.96
+    },
+    {
+     "w": "drôle,",
+     "start": 29.96,
+     "end": 30.2
+    },
+    {
+     "w": "Grid",
+     "start": 30.58,
+     "end": 30.76
+    },
+    {
+     "w": "reste",
+     "start": 30.76,
+     "end": 30.98
+    },
+    {
+     "w": "Grid.",
+     "start": 30.98,
+     "end": 31.34
+    },
+    {
+     "w": "Radin,",
+     "start": 31.82,
+     "end": 32.34
+    },
+    {
+     "w": "jaloux,",
+     "start": 32.5,
+     "end": 32.74
+    },
+    {
+     "w": "il",
+     "start": 33.14,
+     "end": 33.24
+    },
+    {
+     "w": "panique",
+     "start": 33.24,
+     "end": 33.54
+    },
+    {
+     "w": "pour",
+     "start": 33.54,
+     "end": 33.78
+    },
+    {
+     "w": "un",
+     "start": 33.78,
+     "end": 33.88
+    },
+    {
+     "w": "rien",
+     "start": 33.88,
+     "end": 34.1
+    },
+    {
+     "w": "et",
+     "start": 34.4,
+     "end": 34.56
+    },
+    {
+     "w": "se",
+     "start": 34.56,
+     "end": 34.7
+    },
+    {
+     "w": "plante",
+     "start": 34.7,
+     "end": 34.9
+    },
+    {
+     "w": "toutes",
+     "start": 34.9,
+     "end": 35.22
+    },
+    {
+     "w": "les",
+     "start": 35.22,
+     "end": 35.36
+    },
+    {
+     "w": "deux",
+     "start": 35.36,
+     "end": 35.52
+    },
+    {
+     "w": "minutes.",
+     "start": 35.52,
+     "end": 35.8
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "start": 35.9,
+   "end": 39.82,
+   "slot_end": 39.937,
+   "text": "Si toi aussi tu kiffes les héros qui partent de zéro, abonne-toi, j'en sors une reco comme ça tous les jours.",
+   "words": [
+    {
+     "w": "Si",
+     "start": 35.9,
+     "end": 36.04
+    },
+    {
+     "w": "toi",
+     "start": 36.04,
+     "end": 36.16
+    },
+    {
+     "w": "aussi",
+     "start": 36.16,
+     "end": 36.34
+    },
+    {
+     "w": "tu",
+     "start": 36.34,
+     "end": 36.5
+    },
+    {
+     "w": "kiffes",
+     "start": 36.5,
+     "end": 36.74
+    },
+    {
+     "w": "les",
+     "start": 36.74,
+     "end": 36.88
+    },
+    {
+     "w": "héros",
+     "start": 36.88,
+     "end": 37.08
+    },
+    {
+     "w": "qui",
+     "start": 37.08,
+     "end": 37.26
+    },
+    {
+     "w": "partent",
+     "start": 37.26,
+     "end": 37.5
+    },
+    {
+     "w": "de",
+     "start": 37.5,
+     "end": 37.62
+    },
+    {
+     "w": "zéro,",
+     "start": 37.62,
+     "end": 37.86
+    },
+    {
+     "w": "abonne-toi,",
+     "start": 38.06,
+     "end": 38.42
+    },
+    {
+     "w": "j'en",
+     "start": 38.56,
+     "end": 38.64
+    },
+    {
+     "w": "sors",
+     "start": 38.64,
+     "end": 38.76
+    },
+    {
+     "w": "une",
+     "start": 38.76,
+     "end": 38.88
+    },
+    {
+     "w": "reco",
+     "start": 38.88,
+     "end": 39.06
+    },
+    {
+     "w": "comme",
+     "start": 39.06,
+     "end": 39.28
+    },
+    {
+     "w": "ça",
+     "start": 39.28,
+     "end": 39.42
+    },
+    {
+     "w": "tous",
+     "start": 39.42,
+     "end": 39.58
+    },
+    {
+     "w": "les",
+     "start": 39.58,
+     "end": 39.66
+    },
+    {
+     "w": "jours.",
+     "start": 39.66,
+     "end": 39.82
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "start": 39.92,
+   "end": 45.7,
+   "slot_end": 45.79,
+   "text": "Et petit à petit, ses armes font parler de lui. Les joueurs qui se moquaient commencent à venir le supplier pour un équipement.",
+   "words": [
+    {
+     "w": "Et",
+     "start": 39.92,
+     "end": 40.0
+    },
+    {
+     "w": "petit",
+     "start": 40.0,
+     "end": 40.18
+    },
+    {
+     "w": "à",
+     "start": 40.18,
+     "end": 40.36
+    },
+    {
+     "w": "petit,",
+     "start": 40.36,
+     "end": 40.6
+    },
+    {
+     "w": "ses",
+     "start": 40.92,
+     "end": 41.0
+    },
+    {
+     "w": "armes",
+     "start": 41.0,
+     "end": 41.28
+    },
+    {
+     "w": "font",
+     "start": 41.28,
+     "end": 41.44
+    },
+    {
+     "w": "parler",
+     "start": 41.44,
+     "end": 41.66
+    },
+    {
+     "w": "de",
+     "start": 41.66,
+     "end": 41.8
+    },
+    {
+     "w": "lui.",
+     "start": 41.8,
+     "end": 41.96
+    },
+    {
+     "w": "Les",
+     "start": 42.52,
+     "end": 42.66
+    },
+    {
+     "w": "joueurs",
+     "start": 42.66,
+     "end": 42.88
+    },
+    {
+     "w": "qui",
+     "start": 42.88,
+     "end": 43.06
+    },
+    {
+     "w": "se",
+     "start": 43.06,
+     "end": 43.2
+    },
+    {
+     "w": "moquaient",
+     "start": 43.2,
+     "end": 43.46
+    },
+    {
+     "w": "commencent",
+     "start": 43.46,
+     "end": 43.82
+    },
+    {
+     "w": "à",
+     "start": 43.82,
+     "end": 43.94
+    },
+    {
+     "w": "venir",
+     "start": 43.94,
+     "end": 44.22
+    },
+    {
+     "w": "le",
+     "start": 44.22,
+     "end": 44.48
+    },
+    {
+     "w": "supplier",
+     "start": 44.48,
+     "end": 44.96
+    },
+    {
+     "w": "pour",
+     "start": 44.96,
+     "end": 45.16
+    },
+    {
+     "w": "un",
+     "start": 45.16,
+     "end": 45.28
+    },
+    {
+     "w": "équipement.",
+     "start": 45.28,
+     "end": 45.7
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "start": 45.8,
+   "end": 51.44,
+   "slot_end": 51.577,
+   "text": "Il monte sa guilde avec une bande de gars aussi chelous que lui, et il se retrouve face à Kraugel, le joueur numéro un du classement mondial.",
+   "words": [
+    {
+     "w": "Il",
+     "start": 45.8,
+     "end": 45.88
+    },
+    {
+     "w": "monte",
+     "start": 45.88,
+     "end": 46.0
+    },
+    {
+     "w": "sa",
+     "start": 46.0,
+     "end": 46.2
+    },
+    {
+     "w": "guilde",
+     "start": 46.2,
+     "end": 46.34
+    },
+    {
+     "w": "avec",
+     "start": 46.34,
+     "end": 46.68
+    },
+    {
+     "w": "une",
+     "start": 46.68,
+     "end": 46.9
+    },
+    {
+     "w": "bande",
+     "start": 46.9,
+     "end": 47.08
+    },
+    {
+     "w": "de",
+     "start": 47.08,
+     "end": 47.26
+    },
+    {
+     "w": "gars",
+     "start": 47.26,
+     "end": 47.36
+    },
+    {
+     "w": "aussi",
+     "start": 47.36,
+     "end": 47.64
+    },
+    {
+     "w": "chelous",
+     "start": 47.64,
+     "end": 47.96
+    },
+    {
+     "w": "que",
+     "start": 47.96,
+     "end": 48.1
+    },
+    {
+     "w": "lui,",
+     "start": 48.1,
+     "end": 48.28
+    },
+    {
+     "w": "et",
+     "start": 48.42,
+     "end": 48.48
+    },
+    {
+     "w": "il",
+     "start": 48.48,
+     "end": 48.56
+    },
+    {
+     "w": "se",
+     "start": 48.56,
+     "end": 48.64
+    },
+    {
+     "w": "retrouve",
+     "start": 48.64,
+     "end": 48.86
+    },
+    {
+     "w": "face",
+     "start": 48.86,
+     "end": 49.1
+    },
+    {
+     "w": "à",
+     "start": 49.1,
+     "end": 49.26
+    },
+    {
+     "w": "Kraugel,",
+     "start": 49.26,
+     "end": 49.68
+    },
+    {
+     "w": "le",
+     "start": 49.82,
+     "end": 49.87
+    },
+    {
+     "w": "joueur",
+     "start": 49.86,
+     "end": 50.08
+    },
+    {
+     "w": "numéro",
+     "start": 50.08,
+     "end": 50.3
+    },
+    {
+     "w": "un",
+     "start": 50.3,
+     "end": 50.6
+    },
+    {
+     "w": "du",
+     "start": 50.6,
+     "end": 50.72
+    },
+    {
+     "w": "classement",
+     "start": 50.72,
+     "end": 51.04
+    },
+    {
+     "w": "mondial.",
+     "start": 51.04,
+     "end": 51.44
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "start": 51.88,
+   "end": 57.38,
+   "slot_end": 57.556,
+   "text": "Le mec qui se faisait recaler de tous les groupes se retrouve à jouer dans la cour des tout meilleurs. J'te jure, c'est jouissif.",
+   "words": [
+    {
+     "w": "Le",
+     "start": 51.88,
+     "end": 52.06
+    },
+    {
+     "w": "mec",
+     "start": 52.06,
+     "end": 52.16
+    },
+    {
+     "w": "qui",
+     "start": 52.16,
+     "end": 52.28
+    },
+    {
+     "w": "se",
+     "start": 52.28,
+     "end": 52.36
+    },
+    {
+     "w": "faisait",
+     "start": 52.36,
+     "end": 52.52
+    },
+    {
+     "w": "recaler",
+     "start": 52.52,
+     "end": 52.78
+    },
+    {
+     "w": "de",
+     "start": 52.78,
+     "end": 52.94
+    },
+    {
+     "w": "tous",
+     "start": 52.94,
+     "end": 53.08
+    },
+    {
+     "w": "les",
+     "start": 53.08,
+     "end": 53.18
+    },
+    {
+     "w": "groupes",
+     "start": 53.18,
+     "end": 53.44
+    },
+    {
+     "w": "se",
+     "start": 53.44,
+     "end": 53.58
+    },
+    {
+     "w": "retrouve",
+     "start": 53.58,
+     "end": 53.84
+    },
+    {
+     "w": "à",
+     "start": 53.84,
+     "end": 54.0
+    },
+    {
+     "w": "jouer",
+     "start": 54.0,
+     "end": 54.16
+    },
+    {
+     "w": "dans",
+     "start": 54.16,
+     "end": 54.34
+    },
+    {
+     "w": "la",
+     "start": 54.34,
+     "end": 54.46
+    },
+    {
+     "w": "cour",
+     "start": 54.46,
+     "end": 54.62
+    },
+    {
+     "w": "des",
+     "start": 54.62,
+     "end": 55.03
+    },
+    {
+     "w": "tout",
+     "start": 55.03,
+     "end": 55.44
+    },
+    {
+     "w": "meilleurs.",
+     "start": 55.44,
+     "end": 55.85
+    },
+    {
+     "w": "J'te",
+     "start": 55.85,
+     "end": 56.38
+    },
+    {
+     "w": "jure,",
+     "start": 56.38,
+     "end": 56.72
+    },
+    {
+     "w": "c'est",
+     "start": 56.72,
+     "end": 57.22
+    },
+    {
+     "w": "jouissif.",
+     "start": 57.22,
+     "end": 57.38
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "start": 57.56,
+   "end": 62.66,
+   "slot_end": 62.753,
+   "text": "Moi ce qui m'a accroché, c'est qu'il devient fort sans jamais devenir cool. Il garde ses défauts, et c'est pour ça que tu t'attaches.",
+   "words": [
+    {
+     "w": "Moi",
+     "start": 57.56,
+     "end": 57.62
+    },
+    {
+     "w": "ce",
+     "start": 57.62,
+     "end": 57.72
+    },
+    {
+     "w": "qui",
+     "start": 57.72,
+     "end": 57.78
+    },
+    {
+     "w": "m'a",
+     "start": 57.78,
+     "end": 57.9
+    },
+    {
+     "w": "accroché,",
+     "start": 57.9,
+     "end": 58.14
+    },
+    {
+     "w": "c'est",
+     "start": 58.14,
+     "end": 58.3
+    },
+    {
+     "w": "qu'il",
+     "start": 58.3,
+     "end": 58.4
+    },
+    {
+     "w": "devient",
+     "start": 58.4,
+     "end": 58.6
+    },
+    {
+     "w": "fort",
+     "start": 58.6,
+     "end": 58.82
+    },
+    {
+     "w": "sans",
+     "start": 58.82,
+     "end": 58.98
+    },
+    {
+     "w": "jamais",
+     "start": 58.98,
+     "end": 59.24
+    },
+    {
+     "w": "devenir",
+     "start": 59.24,
+     "end": 59.44
+    },
+    {
+     "w": "cool.",
+     "start": 59.44,
+     "end": 59.84
+    },
+    {
+     "w": "Il",
+     "start": 60.26,
+     "end": 60.72
+    },
+    {
+     "w": "garde",
+     "start": 60.72,
+     "end": 60.98
+    },
+    {
+     "w": "ses",
+     "start": 60.98,
+     "end": 61.16
+    },
+    {
+     "w": "défauts,",
+     "start": 61.16,
+     "end": 61.56
+    },
+    {
+     "w": "et",
+     "start": 61.56,
+     "end": 61.64
+    },
+    {
+     "w": "c'est",
+     "start": 61.64,
+     "end": 61.78
+    },
+    {
+     "w": "pour",
+     "start": 61.78,
+     "end": 61.9
+    },
+    {
+     "w": "ça",
+     "start": 61.9,
+     "end": 62.02
+    },
+    {
+     "w": "que",
+     "start": 62.02,
+     "end": 62.16
+    },
+    {
+     "w": "tu",
+     "start": 62.16,
+     "end": 62.26
+    },
+    {
+     "w": "t'attaches.",
+     "start": 62.26,
+     "end": 62.66
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "start": 62.76,
+   "end": 68.04,
+   "slot_end": 68.146,
+   "text": "C'est un manhwa qui tourne depuis des années sur Webtoon, et l'adaptation animée est en train de sortir en ce moment.",
+   "words": [
+    {
+     "w": "C'est",
+     "start": 62.76,
+     "end": 62.88
+    },
+    {
+     "w": "un",
+     "start": 62.88,
+     "end": 62.98
+    },
+    {
+     "w": "manhwa",
+     "start": 62.98,
+     "end": 63.2
+    },
+    {
+     "w": "qui",
+     "start": 63.2,
+     "end": 63.38
+    },
+    {
+     "w": "tourne",
+     "start": 63.38,
+     "end": 63.64
+    },
+    {
+     "w": "depuis",
+     "start": 63.64,
+     "end": 63.8
+    },
+    {
+     "w": "des",
+     "start": 63.8,
+     "end": 64.02
+    },
+    {
+     "w": "années",
+     "start": 64.02,
+     "end": 64.2
+    },
+    {
+     "w": "sur",
+     "start": 64.2,
+     "end": 64.42
+    },
+    {
+     "w": "Webtoon,",
+     "start": 64.42,
+     "end": 65.0
+    },
+    {
+     "w": "et",
+     "start": 65.0,
+     "end": 65.52
+    },
+    {
+     "w": "l'adaptation",
+     "start": 65.52,
+     "end": 66.02
+    },
+    {
+     "w": "animée",
+     "start": 66.02,
+     "end": 66.42
+    },
+    {
+     "w": "est",
+     "start": 66.42,
+     "end": 66.58
+    },
+    {
+     "w": "en",
+     "start": 66.58,
+     "end": 66.78
+    },
+    {
+     "w": "train",
+     "start": 66.78,
+     "end": 66.88
+    },
+    {
+     "w": "de",
+     "start": 66.88,
+     "end": 67.0
+    },
+    {
+     "w": "sortir",
+     "start": 67.0,
+     "end": 67.32
+    },
+    {
+     "w": "en",
+     "start": 67.32,
+     "end": 67.72
+    },
+    {
+     "w": "ce",
+     "start": 67.72,
+     "end": 67.9
+    },
+    {
+     "w": "moment.",
+     "start": 67.9,
+     "end": 68.04
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "start": 68.12,
+   "end": 73.96,
+   "slot_end": 74.093,
+   "text": "Ça s'appelle Overgeared. Commence l'anime, et si t'accroches, fonce sur le manhwa. Dis-moi en com' si tu l'avais déjà vu passer.",
+   "words": [
+    {
+     "w": "Ça",
+     "start": 68.12,
+     "end": 68.2
+    },
+    {
+     "w": "s'appelle",
+     "start": 68.2,
+     "end": 68.5
+    },
+    {
+     "w": "Overgeared.",
+     "start": 68.5,
+     "end": 69.14
+    },
+    {
+     "w": "Commence",
+     "start": 69.42,
+     "end": 69.7
+    },
+    {
+     "w": "l'anime,",
+     "start": 69.7,
+     "end": 70.08
+    },
+    {
+     "w": "et",
+     "start": 70.08,
+     "end": 70.36
+    },
+    {
+     "w": "si",
+     "start": 70.36,
+     "end": 70.5
+    },
+    {
+     "w": "t'accroches,",
+     "start": 70.5,
+     "end": 70.98
+    },
+    {
+     "w": "fonce",
+     "start": 70.98,
+     "end": 71.42
+    },
+    {
+     "w": "sur",
+     "start": 71.42,
+     "end": 71.64
+    },
+    {
+     "w": "le",
+     "start": 71.64,
+     "end": 71.74
+    },
+    {
+     "w": "manhwa.",
+     "start": 71.74,
+     "end": 72.1
+    },
+    {
+     "w": "Dis-moi",
+     "start": 72.44,
+     "end": 72.6
+    },
+    {
+     "w": "en",
+     "start": 72.6,
+     "end": 72.74
+    },
+    {
+     "w": "com'",
+     "start": 72.74,
+     "end": 72.92
+    },
+    {
+     "w": "si",
+     "start": 72.92,
+     "end": 73.12
+    },
+    {
+     "w": "tu",
+     "start": 73.12,
+     "end": 73.24
+    },
+    {
+     "w": "l'avais",
+     "start": 73.24,
+     "end": 73.38
+    },
+    {
+     "w": "déjà",
+     "start": 73.38,
+     "end": 73.6
+    },
+    {
+     "w": "vu",
+     "start": 73.6,
+     "end": 73.72
+    },
+    {
+     "w": "passer.",
+     "start": 73.72,
+     "end": 73.96
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "start": 74.08,
+   "end": 76.98,
+   "slot_end": 77.724,
+   "text": "C'était Asura. On se capte au prochain épisode.",
+   "words": [
+    {
+     "w": "C'était",
+     "start": 74.08,
+     "end": 74.36
+    },
+    {
+     "w": "Asura.",
+     "start": 74.36,
+     "end": 74.8
+    },
+    {
+     "w": "On",
+     "start": 75.46,
+     "end": 75.7
+    },
+    {
+     "w": "se",
+     "start": 75.7,
+     "end": 75.82
+    },
+    {
+     "w": "capte",
+     "start": 75.82,
+     "end": 76.14
+    },
+    {
+     "w": "au",
+     "start": 76.14,
+     "end": 76.3
+    },
+    {
+     "w": "prochain",
+     "start": 76.3,
+     "end": 76.56
+    },
+    {
+     "w": "épisode.",
+     "start": 76.56,
+     "end": 76.98
+    }
+   ]
+  }
+ ],
+ "aligned": 1.0
+}
