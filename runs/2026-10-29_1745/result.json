@@ -1,0 +1,237 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-29_1745/video.mp4",
+ "duration": 83.372,
+ "shots": 44,
+ "sources": [
+  "https://anilist.co/anime/210482",
+  "https://kitsu.io/anime/steel-ball-run-jojo-no-kimyou-na-bouken"
+ ],
+ "plan": [
+  {
+   "character": null,
+   "fx": "hook",
+   "start": 0.0
+  },
+  {
+   "character": "Lucy Steel",
+   "fx": null,
+   "start": 0.84
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 2.41
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 3.98
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 5.9799999999999995
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 7.9799999999999995
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 10.21
+  },
+  {
+   "character": "Diego Brando",
+   "fx": null,
+   "start": 12.440000000000001
+  },
+  {
+   "character": "Johnny Joestar",
+   "fx": null,
+   "start": 13.780000000000001
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 15.3
+  },
+  {
+   "character": "Gyro Zeppeli",
+   "fx": null,
+   "start": 16.82
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 18.25
+  },
+  {
+   "character": null,
+   "fx": "punch",
+   "start": 19.68
+  },
+  {
+   "character": "Funny Valentine",
+   "fx": null,
+   "start": 20.880000000000003
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 22.900000000000002
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 24.92
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 27.32
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 29.72
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 31.86
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 34.0
+  },
+  {
+   "character": "Funny Valentine",
+   "fx": null,
+   "start": 35.0
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 37.00666666666667
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 39.013333333333335
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 41.02
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 43.233333333333334
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 45.446666666666665
+  },
+  {
+   "character": null,
+   "fx": "punch",
+   "start": 47.66
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 49.446666666666665
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 51.233333333333334
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 53.02
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 55.400000000000006
+  },
+  {
+   "character": "Johnny Joestar",
+   "fx": null,
+   "start": 57.78
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 59.31
+  },
+  {
+   "character": "Diego Brando",
+   "fx": null,
+   "start": 60.84
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 63.14
+  },
+  {
+   "character": "Funny Valentine",
+   "fx": null,
+   "start": 65.05999999999999
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 67.13999999999999
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 69.22
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 71.04666666666667
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 72.87333333333332
+  },
+  {
+   "character": "Funny Valentine",
+   "fx": null,
+   "start": 74.69999999999999
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 76.97
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 79.24
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 81.306
+  }
+ ],
+ "engine": "ffmpeg (secours)",
+ "voice_engine": "fish",
+ "repo_path": "videos/2026/10/2026-10-29_1745.mp4",
+ "raw_url": "https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/videos/2026/10/2026-10-29_1745.mp4",
+ "lint": [],
+ "render_seconds": 660.2
+}

@@ -1,0 +1,147 @@
+{
+  "title": "Théorie : et si Valentine n'était pas le méchant de Steel Ball Run ?",
+  "format": "theorie",
+  "tone": "conteur",
+  "music": "mystere",
+  "animes": [
+    "STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE"
+  ],
+  "media": {
+    "STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE": "anime"
+  },
+  "cover": {
+    "text": "Valentine n'est pas le méchant",
+    "highlight": [
+      "méchant"
+    ],
+    "emoji": "🇺🇸",
+    "sub": "Théorie Steel Ball Run"
+  },
+  "hook_text": "Le grand méchant de Steel Ball Run est peut-être le seul héros de l'histoire",
+  "spoiler": true,
+  "spoiler_label": "le manga",
+  "segments": [
+    {
+      "text": "Le grand méchant de Steel Ball Run est peut-être le seul vrai héros de l'histoire.",
+      "sfx": true,
+      "emphasis": [
+        "héros"
+      ],
+      "scene": "a blond man in a suit standing proudly in front of an american flag"
+    },
+    {
+      "text": "[whispering] Reste jusqu'au bout, parce que l'indice numéro trois change complètement la fin pour moi.",
+      "emphasis": [
+        "numéro trois"
+      ],
+      "scene": "a dark mysterious figure in shadows with glowing eyes"
+    },
+    {
+      "text": "Pose le décor. Une course de chevaux à travers toute l'Amérique, de San Diego jusqu'à New York.",
+      "emphasis": [
+        "Amérique"
+      ],
+      "scene": "hundreds of horse riders galloping across a desert at sunrise",
+      "shots": [
+        {
+          "kind": "wide"
+        }
+      ]
+    },
+    {
+      "text": "Johnny, un ancien jockey star qui peut plus marcher, suit Gyro et ses boules d'acier qui ont fait bouger sa jambe.",
+      "emphasis": [
+        "boules d'acier"
+      ],
+      "scene": "a young man in a wheelchair staring at a spinning steel ball"
+    },
+    {
+      "text": "Sauf que derrière la course, y'a Funny Valentine, le président des États-Unis, qui veut les morceaux d'un cadavre sacré.",
+      "sfx": true,
+      "emphasis": [
+        "Valentine"
+      ],
+      "scene": "a blond president in a suit holding a mummified body part"
+    },
+    {
+      "text": "[excited] Et là t'as envie de le détester, frr. Il envoie des tueurs, il ment à tout le monde, c'est le boss final parfait.",
+      "emphasis": [
+        "boss final"
+      ],
+      "scene": "assassins attacking two cowboys on horseback in a forest"
+    },
+    {
+      "text": "Si tu kiffes les théories qui retournent le cerveau, abonne-toi, la prochaine sur JoJo est déjà en route.",
+      "cta": true
+    },
+    {
+      "text": "Premier indice. Valentine veut jamais le cadavre pour lui. Il le veut pour son pays, pour protéger l'Amérique.",
+      "emphasis": [
+        "son pays"
+      ],
+      "scene": "a man in a suit looking at a burning city with sadness"
+    },
+    {
+      "text": "Deuxième indice. Son père a été torturé à la guerre, et lui aussi, juste pour garder un mouchoir. Ce mec a souffert pour un symbole.",
+      "grade": "bw",
+      "emphasis": [
+        "mouchoir"
+      ],
+      "scene": "a soldier tortured in a dark prison cell clutching a handkerchief"
+    },
+    {
+      "text": "[whispering] Et le troisième indice, c'est son discours sur la serviette. Celui qui la prend en premier décide des règles pour tous.",
+      "sfx": true,
+      "emphasis": [
+        "serviette"
+      ],
+      "scene": "a man explaining something seriously at a long dinner table"
+    },
+    {
+      "text": "Pour lui, c'est ça la justice. Être le premier, et tant pis pour ceux qui tombent en chemin.",
+      "stamp": "PATRIOTE",
+      "emphasis": [
+        "justice"
+      ],
+      "scene": "a powerful man standing alone on top of a hill at sunset"
+    },
+    {
+      "text": "Maintenant regarde Johnny. Lui, il court après le cadavre pour remarcher. Diego, il veut juste gagner. C'est eux les égoïstes.",
+      "emphasis": [
+        "égoïste"
+      ],
+      "scene": "two rival riders racing side by side on horses in the rain"
+    },
+    {
+      "text": "Bon, ce qui contredit ma théorie est énorme. Valentine sacrifie des innocents sans trembler, et ça, aucun héros le ferait.",
+      "grade": "bw",
+      "emphasis": [
+        "innocents"
+      ],
+      "scene": "a cold man walking away from a destroyed building without looking back"
+    },
+    {
+      "text": "Mais j'te jure, c'est le seul méchant de JoJo qui pense sincèrement sauver des millions de gens.",
+      "emphasis": [
+        "sauver"
+      ],
+      "scene": "a young girl with a determined face facing a powerful man"
+    },
+    {
+      "text": "Alors pour toi, Valentine c'est un monstre ou le seul vrai patriote de la course ? Dis-moi en com', je lis tout.",
+      "emphasis": [
+        "monstre"
+      ],
+      "scene": "a blond man with a calm smile in a dark room"
+    }
+  ],
+  "caption": "Valentine, monstre ou vrai héros de Steel Ball Run ? 🇺🇸 Je veux ton avis en com'",
+  "hashtags": [
+    "#anime",
+    "#manga",
+    "#animefr",
+    "#jojo",
+    "#steelballrun",
+    "#theorie"
+  ]
+}
