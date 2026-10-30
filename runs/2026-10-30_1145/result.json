@@ -1,0 +1,197 @@
+{
+ "path": "/home/claude/tiktok-factory/runs/2026-10-30_1145/video.mp4",
+ "duration": 79.465,
+ "shots": 36,
+ "sources": [
+  "https://anilist.co/manga/126297",
+  "https://kitsu.io/anime/nyuugaku-youhei"
+ ],
+ "plan": [
+  {
+   "character": null,
+   "fx": "hook",
+   "start": 0.0
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 1.56
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 3.12
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 5.23
+  },
+  {
+   "character": "I-Jin Yu",
+   "fx": null,
+   "start": 7.34
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 9.8985
+  },
+  {
+   "character": null,
+   "fx": "punch",
+   "start": 12.457
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 14.724666666666668
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 16.992333333333335
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 19.26
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 21.813333333333336
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 24.366666666666667
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 26.92
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 29.18
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 31.44
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 33.65
+  },
+  {
+   "character": "Du-Sik Cha",
+   "fx": null,
+   "start": 35.86
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 38.71
+  },
+  {
+   "character": null,
+   "fx": "punch",
+   "start": 41.56
+  },
+  {
+   "character": "Du-Sik Cha",
+   "fx": null,
+   "start": 42.84
+  },
+  {
+   "character": "I-Jin Yu",
+   "fx": null,
+   "start": 43.88
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 46.18
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 48.48
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 50.69
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 52.9
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 54.870000000000005
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 56.84
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 59.16
+  },
+  {
+   "character": null,
+   "fx": "punch",
+   "start": 61.48
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 64.36
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 67.24000000000001
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 70.12
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 72.04666666666667
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 73.97333333333333
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 75.89999999999999
+  },
+  {
+   "character": null,
+   "fx": null,
+   "start": 77.6825
+  }
+ ],
+ "engine": "ffmpeg (secours)",
+ "voice_engine": "fish",
+ "repo_path": "videos/2026/10/2026-10-30_1145.mp4",
+ "raw_url": "https://raw.githubusercontent.com/BILL11715/tiktok-factory/main/videos/2026/10/2026-10-30_1145.mp4",
+ "lint": [],
+ "render_seconds": 354.6
+}

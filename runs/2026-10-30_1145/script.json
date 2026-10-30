@@ -1,0 +1,147 @@
+{
+ "title": "Reco manhwa : l'enfant soldat qui retourne au lycée",
+ "format": "reco",
+ "tone": "pote",
+ "music": "pote",
+ "animes": [
+  "Teenage Mercenary"
+ ],
+ "media": {
+  "Teenage Mercenary": "manhwa"
+ },
+ "cover": {
+  "text": "Enfant soldat au lycée",
+  "highlight": [
+   "soldat"
+  ],
+  "emoji": "🪖",
+  "sub": "l'anime arrive"
+ },
+ "hook_text": "Il a fait la guerre pendant dix ans et maintenant il doit aller au lycée",
+ "spoiler": false,
+ "segments": [
+  {
+   "text": "Il a fait la guerre pendant dix ans, et maintenant il doit aller au lycée.",
+   "sfx": true,
+   "emphasis": [
+    "guerre",
+    "lycée"
+   ],
+   "grade": "bw",
+   "scene": "a serious teenage boy in a school uniform walking alone into a school"
+  },
+  {
+   "text": "[whispering] Reste jusqu'au bout, j'te donne le nom du manhwa, et la vraie raison de le lire maintenant.",
+   "emphasis": [
+    "maintenant"
+   ],
+   "scene": "a dark haired boy with cold eyes staring at the camera"
+  },
+  {
+   "text": "Le héros s'appelle Ijin Yu. Il a huit ans quand l'avion de sa famille se crashe à l'étranger. Ses parents y restent.",
+   "emphasis": [
+    "huit ans"
+   ],
+   "grade": "bw",
+   "scene": "a plane wreck burning in a desert at night with a small child crying"
+  },
+  {
+   "text": "Lui il survit, sauf que personne vient le chercher. Pour pas crever, le gamin devient mercenaire. Un enfant soldat, au milieu d'une vraie guerre.",
+   "sfx": true,
+   "emphasis": [
+    "mercenaire"
+   ],
+   "stamp": "ENFANT SOLDAT",
+   "grade": "bw",
+   "scene": "a young boy holding a rifle among armed soldiers in a war zone"
+  },
+  {
+   "text": "Dix ans plus tard, il rentre enfin en Corée. Il retrouve sa petite sœur, Dayun, et son grand-père. Et là il veut juste une chose : une vie normale.",
+   "emphasis": [
+    "vie normale"
+   ],
+   "scene": "a teenage boy hugging his little sister in a quiet apartment",
+   "shots": [
+    {
+     "kind": "wide"
+    }
+   ]
+  },
+  {
+   "text": "Donc il va au lycée. Sauf que le lycée en Corée, dans un manhwa, c'est jamais tranquille frr.",
+   "emphasis": [
+    "lycée"
+   ],
+   "scene": "students laughing and crowding in a high school hallway"
+  },
+  {
+   "text": "[laughing] Les petits caïds du bahut pensent qu'ils vont racketter le nouveau. Le nouveau, il a survécu à des champs de bataille.",
+   "emphasis": [
+    "caïds"
+   ],
+   "scene": "a group of delinquents surrounding a calm boy behind a school building"
+  },
+  {
+   "text": "Si t'aimes les recos manhwa comme ça, abonne-toi, j'en sors une tous les jours et la prochaine est déjà prête.",
+   "cta": true
+  },
+  {
+   "text": "Et c'est là que ce manhwa devient chaud. Ijin se bat pas comme un héros de shonen, il analyse, il calcule, il finit le combat en deux mouvements.",
+   "sfx": true,
+   "emphasis": [
+    "deux mouvements"
+   ],
+   "scene": "a boy knocking out a bigger fighter with one precise strike"
+  },
+  {
+   "text": "Mais le vrai sujet c'est pas la baston. C'est un gamin qui sait tuer, et qui sait pas comment être un grand frère.",
+   "emphasis": [
+    "grand frère"
+   ],
+   "grade": "bw",
+   "scene": "a sad teenage boy sitting alone on a rooftop at sunset"
+  },
+  {
+   "text": "[sigh] Et son passé le lâche pas. Les gens de sa vie d'avant, ils ont pas oublié qu'il existe.",
+   "emphasis": [
+    "passé"
+   ],
+   "scene": "armed men in black suits watching a boy from a car at night"
+  },
+  {
+   "text": "Mon avis : c'est un des meilleurs manhwas d'action au lycée. Je l'ai binge en deux soirs, j'te jure.",
+   "emphasis": [
+    "meilleurs"
+   ],
+   "stamp": "VALIDÉ",
+   "scene": "a boy fighting several opponents in a school gym with dynamic moves"
+  },
+  {
+   "text": "[excited] Et la vraie raison de le lire maintenant ? L'anime est annoncé pour 2027 sur Crunchyroll, au studio J.C.Staff, et c'est Hiroyuki Sawano qui fait la musique.",
+   "sfx": true,
+   "emphasis": [
+    "Sawano",
+    "2027"
+   ],
+   "scene": "a boy in a school uniform standing in front of an explosion"
+  },
+  {
+   "text": "Oui, le mec derrière les musiques de L'Attaque des Titans. Lis-le avant, il est sur Webtoon. Dis-moi en com' si tu l'as déjà commencé.",
+   "emphasis": [
+    "Webtoon"
+   ],
+   "scene": "a teenage boy smiling slightly while walking home with his sister"
+  }
+ ],
+ "reveal_text": "Teenage Mercenary",
+ "reveal_segments": 1,
+ "caption": "Dix ans de guerre et il doit retourner en cours 😭 tu l'as déjà lu ?",
+ "hashtags": [
+  "#anime",
+  "#manhwa",
+  "#animefr",
+  "#webtoon",
+  "#teenagemercenary",
+  "#recommandationanime"
+ ]
+}
